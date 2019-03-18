@@ -4,7 +4,7 @@
 ## Examples of supported options:
 ### ./get-reposense.py --release               # Gets the latest release (Stable)
 ### ./get-reposense.py --master                # Gets the latest master  (Beta)
-### ./get-reposense.py --tag v1.6.1            # Gets a specific version
+### ./get-reposense.py --tag v1.6.1            # Gets a specific version; can use 1.8.1 for the current sem
 ### ./get-reposense.py --release --overwrite   # Overwrite RepoSense.jar, if exists, with the latest release
 
 ./get-reposense.py --release
