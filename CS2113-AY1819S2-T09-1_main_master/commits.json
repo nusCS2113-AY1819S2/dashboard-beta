@@ -1,0 +1,2302 @@
+{
+  "authorDailyContributionsMap": {
+    "truegitnovice": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 9,
+        "deletions": 3,
+        "date": "2019-02-17",
+        "commitResults": [
+          {
+            "hash": "ce4972148b916e1d39620114ffb6f04480ae63b4",
+            "message": "DeveloperGuide: update product scope (#2)",
+            "insertions": 9,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 81,
+        "deletions": 11,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "425f0be65bfdfd2c540d86089200cbc83df9710e",
+            "message": "AboutUs: add Ahn TaeGyu\u0027s details (#8)",
+            "insertions": 76,
+            "deletions": 4
+          },
+          {
+            "hash": "d0b0c6dfdc5c16ddee61786304841fc8ce904495",
+            "message": "DeveloperGuide: update user stories (#7)",
+            "insertions": 5,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 1,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "9aacfa6b8e1828eb78097fcc5558a47dce168aeb",
+            "message": "ContactUs: remove email (#6)",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 959,
+        "deletions": 99,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "674ac9ce3c6d3a01cf4702e667f45ed8680e2a14",
+            "message": "Planner: add DegreePlanner",
+            "insertions": 115,
+            "deletions": 0
+          },
+          {
+            "hash": "543f1b814c2bc95c774bb070cb727045ee51ac1c",
+            "message": "Planner: add DegreePlannerSemester",
+            "insertions": 57,
+            "deletions": 0
+          },
+          {
+            "hash": "0772e9584c5cab99d10dc101a8aab2ed510b53a2",
+            "message": "Planner: add DegreePlannerYear",
+            "insertions": 57,
+            "deletions": 0
+          },
+          {
+            "hash": "153131ca5d1b727cd557df68d173667a01f9c1a6",
+            "message": "Planner: add UniqueDegreePlannerList",
+            "insertions": 139,
+            "deletions": 0
+          },
+          {
+            "hash": "14f6a80e9de89775b14b606c35ee384ff2cc21ea",
+            "message": "Planner: add exceptions",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "9934ddb568b4416a779e9d6e8bcf1e2a428d2b0b",
+            "message": "Model: add DegreePlannerModel",
+            "insertions": 79,
+            "deletions": 0
+          },
+          {
+            "hash": "1c39f4841d44379bc554365cc8e49560c87d493e",
+            "message": "Model: add DegreePlannerList",
+            "insertions": 127,
+            "deletions": 0
+          },
+          {
+            "hash": "68b8d0b882e52bf96aca9cf35a0f2560d4bcee41",
+            "message": "Model: add ReadOnlyDegreePlannerList",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "53b942be3fa854d52d1b533d590d9ba5c15af06c",
+            "message": "Model: add VersionedDegreePlannerList",
+            "insertions": 110,
+            "deletions": 0
+          },
+          {
+            "hash": "f8dca0a9b16f1cfb6feb692c7bc9851235610baf",
+            "message": "Model: add ToDo",
+            "insertions": 64,
+            "deletions": 1
+          },
+          {
+            "hash": "4e3d8a769eba70d6fc2e00a1728a54d489a442b3",
+            "message": "Planner: refactor \u0027Planner\u0027 to \u0027DegreePlanner\u0027",
+            "insertions": 10,
+            "deletions": 11
+          },
+          {
+            "hash": "38ecbd5550ff1d1476bd78c3a9808e9cb7c6d86b",
+            "message": "Model: refactor \u0027Planner\u0027 to \u0027DegreePlanner\u0027",
+            "insertions": 54,
+            "deletions": 48
+          },
+          {
+            "hash": "ba8e47c513b3d3ca766af9ece432000c7cf43ae5",
+            "message": "Model: update to handle DegreePlanner",
+            "insertions": 110,
+            "deletions": 39
+          }
+        ]
+      },
+      {
+        "insertions": 760,
+        "deletions": 189,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "ff9c930ff85e874c307c2e7067773e65af3f955d",
+            "message": "Storage: add files to handle DegreePlannerList",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "ad666a1cfcb8b86a9caf435ef5dd813de85a016f",
+            "message": "Planner: depreciate \u0027Name\u0027 and \u0027Credits\u0027",
+            "insertions": 4,
+            "deletions": 26
+          },
+          {
+            "hash": "4e770d79d31046250f7a73085fff36aa2f0dcf3a",
+            "message": "Planner: refactor \u0027isValidDate\u0027 to \u0027isValideSemester\u0027",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d88a9547184b88ae07a1c7101ee0a1fa91866d6b",
+            "message": "Planner: refactor \u0027isValidDate\u0027 to \u0027isValideYear\u0027",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2c159b4313c9ecc488d8150df4caa88583e4f092",
+            "message": "Model: update to handle DegreePlannerList Storage",
+            "insertions": 21,
+            "deletions": 0
+          },
+          {
+            "hash": "9b85a89e9330b3380500ef6eeefdcc7686f10e5e",
+            "message": "Storage: update to handle DegreePlannerListStorage",
+            "insertions": 293,
+            "deletions": 5
+          },
+          {
+            "hash": "77b29b9ec015408a599d96ef71e3da4fda64fa23",
+            "message": "Model: update to handle DegreePlannerList FilePath",
+            "insertions": 12,
+            "deletions": 1
+          },
+          {
+            "hash": "f8087240c5a58020571596298fa7f7bc80b3fb68",
+            "message": "Model: update to provide sample degreePlanners",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "3d6d078d2df259bc04c169141be5b7b502b5b232",
+            "message": "MainApp: update to handle DegreePlannerList",
+            "insertions": 24,
+            "deletions": 2
+          },
+          {
+            "hash": "144b1945f848269b6dccbeb26a43cdc9e4f52dd8",
+            "message": "Fix Styles",
+            "insertions": 17,
+            "deletions": 11
+          },
+          {
+            "hash": "1f28657712793636d0cce3b62471c10974e1125c",
+            "message": "Test: update logic to include DegreePlanner",
+            "insertions": 143,
+            "deletions": 42
+          },
+          {
+            "hash": "ffe875869aa91ad2f28e930abd7b9423777752b2",
+            "message": "Model: modify DegreePlanner models",
+            "insertions": 81,
+            "deletions": 50
+          },
+          {
+            "hash": "4a8bf0b5271d93303056c87ec7afaec7e0534ccb",
+            "message": "Storage: update to handle modified DegreePlannerList",
+            "insertions": 76,
+            "deletions": 24
+          },
+          {
+            "hash": "d36e797a3ae9be3dc0db1ad71e00355d50d093e3",
+            "message": "Test: state ToDo for AddCommandTest",
+            "insertions": 13,
+            "deletions": 8
+          },
+          {
+            "hash": "160a6da4c64de669f83c6bcfd62942951e4e9c0d",
+            "message": "MainApp: modify to return SampleDegreePlannerList",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "e5e0b4e103a5e7c2b1dacacf04f2491df832e461",
+            "message": "Model: update SampleDegreePlanner",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "42e4d8c2acfbce791d4cc9e415903ab105dd4568",
+            "message": "Logic: update to store DegreePlannerList",
+            "insertions": 7,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 394,
+        "deletions": 46,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "92c050f5fb95375e3b6254c2d1d3d6c4bd62ee69",
+            "message": "Model/planner: Refactor `Year#Year(...)` constructor argument (#51)",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "96ecfa005654dc3f2f21cd499ce7f53eb325c7a5",
+            "message": "UserGuide: update degree planner details and FAQ (#47)",
+            "insertions": 47,
+            "deletions": 28
+          },
+          {
+            "hash": "ae1795aa5a26001cffb78cfe748207f68866d616",
+            "message": "docs/DeveloperGuide: update to reflect the implementations (#61)",
+            "insertions": 342,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      }
+    ],
+    "WendyBaiYunwei": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 77,
+        "deletions": 5,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "07d02595990ba7b4c012b14166cfc6132ec3d663",
+            "message": "AboutUs: add Bai Yunwei\u0027s details (#13)",
+            "insertions": 77,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 65,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "cc7189d9ed97449debb61d8e096b9a0bf1604f00",
+            "message": "UserGuide: add planner-related command usage and description (#25)",
+            "insertions": 65,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      }
+    ],
+    "Creastery": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-02-23",
+        "commitResults": [
+          {
+            "hash": "84dc38d68286cf0d42308e21fec20d5c25a9fe56",
+            "message": "README.adoc: update CI badges (#12)",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 1113,
+        "deletions": 1113,
+        "date": "2019-02-24",
+        "commitResults": [
+          {
+            "hash": "93d3b72e0561183338efe13e588f2a56fe2f97d5",
+            "message": "Model: refactor package `person` to `module`",
+            "insertions": 132,
+            "deletions": 132
+          },
+          {
+            "hash": "3c950b6b63fbf04f336f99057ba16a014b26fece",
+            "message": "Model: refactor class `Person` to `Module`",
+            "insertions": 688,
+            "deletions": 688
+          },
+          {
+            "hash": "7e68691f9bf66a8de5459e1819ff9b77b7d7c4b0",
+            "message": "DuplicatePersonException class: refactor to `DuplicateModuleException`",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "5e3b7594bb6b35e948d27c551e21d137c7436121",
+            "message": "PersonNotFoundException class: refactor to `ModuleNotFoundException`",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "2537834403ecffe610c7c46dd9e9d9a8b8fdf76f",
+            "message": "Model: refactor class `UniquePersonList` to `UniqueModuleList`",
+            "insertions": 77,
+            "deletions": 77
+          },
+          {
+            "hash": "70c729e9bc11a6959aa124e6d57dffb4977e60e0",
+            "message": "Model: refactor `Model` interface",
+            "insertions": 159,
+            "deletions": 159
+          },
+          {
+            "hash": "6de5b9e5845952357bd08959f13ec82cbea8aa4e",
+            "message": "ReadOnlyAddressBook: refactor `getPersonList()` to `getModuleList()`",
+            "insertions": 25,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 944,
+        "deletions": 942,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "1e6790588e064eba10ee9e42cb15be4a0e7b3834",
+            "message": "Logic: refactor `Logic` interface method names",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "c15145140c4c797e5999618c80d3b8b3f1d2cba3",
+            "message": "commons/core: refactor `Messages` class attribute names",
+            "insertions": 31,
+            "deletions": 31
+          },
+          {
+            "hash": "d648d95c1267c3c953c5dbba923833f34940329f",
+            "message": "Logic/commands: refactor `AddCommand` class attributes names",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "fe1aefb432b1733810059ac2b7d93d18179c027f",
+            "message": "Logic/commands: refactor `DeleteCommand` class attribute names",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "d35b939add761c99f19c80062cf6204a53dc16ea",
+            "message": "Logic/commands: refactor `EditCommand#EditPersonDescriptor` class",
+            "insertions": 73,
+            "deletions": 70
+          },
+          {
+            "hash": "39d79ff69aa75abd7d97cac3bd1e472fe261fb9b",
+            "message": "Logic/commands: refactor `EditCommand` class",
+            "insertions": 18,
+            "deletions": 18
+          },
+          {
+            "hash": "dc4d61e67d0293a547505ad436da8a8149fdfdb7",
+            "message": "Logic/commands: refactor `FindCommand` class comments",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "790ae2965537c2e402515dc99e37935cfe5ecc8a",
+            "message": "Logic/commands: refactor `ListCommand` class comments",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d5493c42429f9ba32b249b69043869ffdb3a2677",
+            "message": "Logic/commands: refactor `SelectCommand` class attributes",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "9746b2fb80a0013a41476dc86c577a4a224487cb",
+            "message": "Model/util: refactor `SampleDataUtil#getSamplePersons()`",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f550a976ac82ef70b46e141928e4685f9108dd6f",
+            "message": "Model: refactor `AddressBook` class methods",
+            "insertions": 26,
+            "deletions": 26
+          },
+          {
+            "hash": "3cf9e66d52ca98105a42441168557d3a3fe8cf5f",
+            "message": "Model: refactor `ModelManager` class",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "ef10d4614cf1629e1b8a35c6eaf392b5413d06d4",
+            "message": "Storage: refactor class `JsonAdaptedPerson` to `JsonAdaptedModule`",
+            "insertions": 29,
+            "deletions": 29
+          },
+          {
+            "hash": "62c7e168da00f31c70457d15bf5a90681e92b67c",
+            "message": "Storage: refactor `JsonSerializableAddressBook` class attributes",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "8302c28a58793c23e2c8cb8816ea8ba007bcadda",
+            "message": "UI: refactor `BrowserPanel` class",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "bf72f74414cabc3e599fa1a81e5bf4344eb3c675",
+            "message": "UI: refactor class `PersonCard` to `ModuleCard`",
+            "insertions": 28,
+            "deletions": 28
+          },
+          {
+            "hash": "0230559fd548b8dbc3b2495c29c2d9b2a0658a0f",
+            "message": "UI: refactor class `PersonListPanel` to `ModuleListPanel`",
+            "insertions": 29,
+            "deletions": 29
+          },
+          {
+            "hash": "d844a0e823a0c934165a50122adf381145df40bb",
+            "message": "guitests: refactor class `PersonCardHandle` to `ModuleCardHandle`",
+            "insertions": 18,
+            "deletions": 18
+          },
+          {
+            "hash": "62d6df3aa5c1561b8d642f41ac7006cc4f9107b4",
+            "message": "guitests: refactor `PersonListPanelHandle` to `ModuleListPanelHandle`",
+            "insertions": 48,
+            "deletions": 48
+          },
+          {
+            "hash": "e24fddc761980c9c6e37bcdace68c6e744322381",
+            "message": "test/commons: refactor `IndexTest` class variable names",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "a15e29159551e8b3d5ed273418ec2b81d4e426f4",
+            "message": "test/testutil: refactor `AddressBookBuilder#withPerson(...)`",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "52dbb3afbe6e9a6b54f84c469b24bc59b44866b8",
+            "message": "test/testutil: refactor class `PersonBuilder` to `ModuleBuilder`",
+            "insertions": 88,
+            "deletions": 89
+          },
+          {
+            "hash": "234bac232a799da8a31da2e409d0af4ba34d3743",
+            "message": "test/testutil: refactor class `PersonUtil` to `ModuleUtil`",
+            "insertions": 18,
+            "deletions": 18
+          },
+          {
+            "hash": "e767777df58cf6abef93a0866bf2f73ba0552c10",
+            "message": "test/testutil: refactor `TestUtil#getPerson(...)` to `getModule(...)`",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "37928ef76adc616fea76a347a9fbabbf59dc7a27",
+            "message": "test/testutil: refactor `TypicalIndexes` class attributes",
+            "insertions": 115,
+            "deletions": 115
+          },
+          {
+            "hash": "cdf0f80874ca581abec4cb36d503ded170d3a6db",
+            "message": "test/testutil: refactor class `TypicalPersons` to `TypicalModules`",
+            "insertions": 63,
+            "deletions": 63
+          },
+          {
+            "hash": "2c72dcc7d0cfa786fa90c7cd7a6ee45112d45041",
+            "message": "test/testutil: refactor `EditPersonDescriptorBuilder` class",
+            "insertions": 43,
+            "deletions": 43
+          },
+          {
+            "hash": "648a1fb04df04eb1bd2e81affc2e923851153fbe",
+            "message": "test/commands: refactor `AddCommand` and `AddCommandIntegrationTest`",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "96c2fc531daac657d7c9d24e525729acd10b03e2",
+            "message": "test/commands: refactor `CommandTestUtil` class methods",
+            "insertions": 28,
+            "deletions": 28
+          },
+          {
+            "hash": "8914b4305ba210e2d83556fd2a6c5fa79e7a829a",
+            "message": "test/commands: refactor `DeleteCommandTest` class methods",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "c2a19061c666fcce7b44357e6bd2bbbf4622eb9d",
+            "message": "test/commands: refactor `EditCommandTest` class",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "01495a41ffcc5602c99e87ef60fd33edf40d2f3c",
+            "message": "test/commands: refactor `FindCommandTest` class methods",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0cd3d07413c0cd82c0100c5f35e9bce3f46acc6c",
+            "message": "test/commands: refactor `SelectCommandTest` class variable names",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9f939c6545e57dbffbf5563fd94519b1ac46532b",
+            "message": "test/logic: refactor `LogicManagerTest` class methods",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d4c6f88071b1adc053781b7e1785be660792f0e8",
+            "message": "test/model: refactor class `PersonTest` to `ModuleTest`",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e421b789d4299da536230ff288a189c99e2b1be1",
+            "message": "test/model: refactor `LogicManagerListTest` class methods names",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "18ce8e5f0d3b72c25f6390ab8b1f7de1cebec671",
+            "message": "test/model: refactor `AddressBookTest` class method names",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "880df9637668fb03397865698f038dc0393d955e",
+            "message": "test/model: refactor `ModelManagerTest` class method names",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "322a7ba1c1e627102222c51bddce89c72020e26d",
+            "message": "test/storage: refactor `JsonAdaptedModuleTest` class",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "5ebb195c45b0860b3224da284cdf949544d6a6f4",
+            "message": "test/storage: refactor `JsonAddressBookStorageTest` class method names",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c462314012aca05f516c5018a52fb1ca18aa7c6d",
+            "message": "test/storage: refactor `JsonAddressBookStorageTest` class",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "f4bdddeb3c8d4b659f1ce4cc2323478a710eb2fc",
+            "message": "test/ui: refactor `GuiTestAssert` class",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "76f756bb6ca9fb319171b360019b89dcd0679fd8",
+            "message": "test/ui: refactor `BrowserPanelTest` class attributes",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "37441d5e025ba8b4266bab24aec05e52010f04f8",
+            "message": "test/ui: refactor `ModuleListPanelTest` class",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "27f80a14834e85fb04c1cd47fe6e114aa1049f4c",
+            "message": "systemtests: refactor `AddressBookSystemTest` class",
+            "insertions": 41,
+            "deletions": 41
+          },
+          {
+            "hash": "1b0f973dcd59828ccc71594609300996389d86e2",
+            "message": "systemtests: refactor `DeleteCommandSystemTest` class",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "287102351033c2ab7057fe3b707aee3c9bfca87f",
+            "message": "systemtests: refactor `FindCommandSystemTest` class comments",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "e61b86ecd002efe5af0d98dc9214e94b5d945d32",
+            "message": "systemtests: refactor `ModelHelper` class",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "490eb854df484e7d58dc413b777f0b2eb1b591b9",
+            "message": "systemtests: refactor `SelectCommandSystemTest` class variable names",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 148,
+        "deletions": 144,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "f74cf846b5c92680579e927efa1fae66c86b5199",
+            "message": "UI: refactor `ModuleListPanel#moduleListView` class attribute name",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "7d1a695749aebbf32f10f6de6fb21be99cbe0e6a",
+            "message": "UI: refactor `MainWindow#personListPanelPlaceholder` class attribute",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "9758c4f704677ac007519093472f12edea690d28",
+            "message": "UI: refactor `PersonListCard.fxml` to `ModuleListCard.fxml`",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c2f63f7d79356224cfc4acbf2abcb5b13e1251bd",
+            "message": "UI: refactor `PersonListPanel.fxml` to `ModuleListPanel.fxml`",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "69412ea6933e4d605796ee16ea64b4db7f4164e3",
+            "message": "Storage: refactor `JsonSerializableAddressBook#persons` to `modules`",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "7a08c44a842dbe3be7c5107de92dfa3aff67d116",
+            "message": "test/data: refactor `JsonAddressBookStorageTest` JSON files",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "8ef9aaff7042a9e9ed649adbf8f35262e9ab006a",
+            "message": "test/data: refactor `JsonSerializableAddressBookTest` JSON files",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "7b2f43d4eea68ea323a6970ec1037423fe12a317",
+            "message": "Replace `*person*` with `*module*` in all string literals",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "480adca673527439462483d913644b6623f8eaf2",
+            "message": "DeveloperGuide: rename filepaths of sequence diagrams",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9b1ff3916513062fa65685acf3f52d03da4883c8",
+            "message": "docs: replace `*person*` with `*module*` in User and Developer guides",
+            "insertions": 82,
+            "deletions": 82
+          },
+          {
+            "hash": "b44293109dbbe09e7ebe40f25cc13b8dda9ced6e",
+            "message": "docs/DeveloperGuide: replace `*person*` with `*module*`",
+            "insertions": 6,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 4,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "a2ee89edf56d9eb7cfaf52dadf157b8ed4cd79bb",
+            "message": "README.adoc: update metadata badges (#23)",
+            "insertions": 6,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "ab72d9c34be760f111d36dd2a1fa9f024f51fdfa",
+            "message": "README.adoc: update URL for LICENSE file (#29)",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 684,
+        "deletions": 681,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "7012b9be7909239117fb9ee008e03deb4c2c928f",
+            "message": "Model: refactor class `Address` into `Code` (#27)",
+            "insertions": 319,
+            "deletions": 319
+          },
+          {
+            "hash": "5a22be6c5de705a1aff6f9982418717e2b667ac9",
+            "message": "Model: refactor class `Phone` into `Credits` (#30)",
+            "insertions": 345,
+            "deletions": 346
+          },
+          {
+            "hash": "384938a22219d125887b68a9471b22216f9ab555",
+            "message": "docs/AboutUs: add Ngo Wei Lin\u0027s details (#32)",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "8b912cc12f333c4c266b30d3342244384a811182",
+            "message": "docs: cleanup `AboutUs` documentations (#33)",
+            "insertions": 12,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 108,
+        "deletions": 543,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "e96ddcf565626375fb2bfc9b5efed5ccbca497b9",
+            "message": "README.adoc: update AppVeyor CI badge (#36)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "86cde618574d6583e1ebc19ce2926a2ea60f12e8",
+            "message": "Model: depreciate `Email` class (#37)",
+            "insertions": 107,
+            "deletions": 542
+          }
+        ]
+      },
+      {
+        "insertions": 91,
+        "deletions": 41,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "9daee9e6d3e4a9b5de697dec7d374f64467413ea",
+            "message": "README.adoc: update Travis CI badge URL (#38)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "532fa833e209035edbe578ab8cce883519380970",
+            "message": "Add `_reposense/config.json` to make repository RepoSense-compatible (#41)",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "5a29d7d5bb9330f34aa40a3c785cf3ab48ba486c",
+            "message": "README.adoc: update Coveralls badge URL (#42)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e1b282098e0fb8ccea1cdb41492df8caf86214ec",
+            "message": "Logic/parser: update prefixes in `CliSyntax`",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "edb45324bc9c38b736c0aa23693da00b66661d76",
+            "message": "Logic/commands: update `MESSAGE`-related constants",
+            "insertions": 19,
+            "deletions": 17
+          },
+          {
+            "hash": "b03ff96425e68ced8b212aa3e4e1564f6013d407",
+            "message": "Model/util: update `SampleDataUtil#getSampleModules()` (#45)",
+            "insertions": 36,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 101,
+        "deletions": 369,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "0987a7e2528a5343889f90d284208203e594616e",
+            "message": "docs/UserGuide: fix branding \u0026 update commands usage and description (#50)",
+            "insertions": 85,
+            "deletions": 50
+          },
+          {
+            "hash": "5b87fb070840ddfb8bce86bcfa545dbf913363c2",
+            "message": "docs/DeveloperGuide: update instructions for manual testing (#56)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "801164d46bed0eee944e31545621f2cdb05fc958",
+            "message": "docs/DeveloperGuide: update non functional requirements (#55)",
+            "insertions": 10,
+            "deletions": 3
+          },
+          {
+            "hash": "75473962b8ee774b33a0b0ce87d8cb850772b61e",
+            "message": "docs/DeveloperGuide: remove unnecessary sections (#58)",
+            "insertions": 0,
+            "deletions": 310
+          },
+          {
+            "hash": "937e43e2b65002775e86a9b21ac64d4399c6d015",
+            "message": "MainApp: bump `MainApp#VERSION` to v1.1.0 for release (#62)",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 9,
+        "deletions": 5,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "632873b3e4a062c7a3e78dcf835a20e6f2ace43e",
+            "message": "UI: update `ModuleCard` and `ModuleListCard.fxml` (#70)",
+            "insertions": 9,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 67,
+        "deletions": 66,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "c9e00b8193f24697be4c891f85ecfae90fa1cbb4",
+            "message": "Model: update `Name#VALIDATION_REGEX` (#76)",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "bdb16cf85930093a79c59cf791d185f86ac7a6b2",
+            "message": "Model: update `Code#VALIDATION_REGEX` (#77)",
+            "insertions": 59,
+            "deletions": 58
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 137,
+        "deletions": 122,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "b2f65de9df6d7a98f9def384ba7965a48e693db4",
+            "message": "Model: update `Credits#VALIDATION_REGEX` (#83)",
+            "insertions": 118,
+            "deletions": 90
+          },
+          {
+            "hash": "d910451f9872fb9f1577d56f81a913b5736ece27",
+            "message": "Model: update `Module#isSameModule(...)` (#85)",
+            "insertions": 18,
+            "deletions": 30
+          },
+          {
+            "hash": "597cb465e8a2ca3bf71bf302785c05c6c0b6bfc3",
+            "message": "build.gradle: upgrade TestFX dependency to 4.0.15-alpha (#84)",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "chyeo": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "2404833bedb47348ded0528eaa750688929b0ce0",
+            "message": "AboutUs: add ChengHong\u0027s details (#5)",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 73,
+        "deletions": 1,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "e3b8ad1c6833f27813fe177b199b524a9566c061",
+            "message": "AboutUs: add Yeo Cheng Hong\u0027s details (#19)",
+            "insertions": 73,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "19e33f3472468854c9968ba525710e0de3f743db",
+            "message": "AboutUs: add Yeo Cheng Hong\u0027s details",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 1782,
+        "deletions": 479,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "9f5609cfbbec54a5d46ce2d293422ce4adfc9ba2",
+            "message": "Requirement: add `Requirement` Model",
+            "insertions": 102,
+            "deletions": 0
+          },
+          {
+            "hash": "fbf205539f9ff0503aeb8a19c6068349d2e53098",
+            "message": "Requirement: add UniqueRequirementList",
+            "insertions": 139,
+            "deletions": 0
+          },
+          {
+            "hash": "9c16b81a4d84d20afc68b42bbd2d62bfca2d1354",
+            "message": "Requirement: add ModuleList",
+            "insertions": 54,
+            "deletions": 0
+          },
+          {
+            "hash": "5d4e514b841eda61fd7c152569d8c74aeb9b68ba",
+            "message": "Requirement: add Requirement exceptions",
+            "insertions": 17,
+            "deletions": 0
+          },
+          {
+            "hash": "584f1e5a8a7a89f58503d601548730d03ebeb7ab",
+            "message": "Model: add RequirementModel",
+            "insertions": 78,
+            "deletions": 0
+          },
+          {
+            "hash": "7c2945c03f4a7e363c72995d538cf15d1b174b1c",
+            "message": "Model: add RequirementList",
+            "insertions": 122,
+            "deletions": 0
+          },
+          {
+            "hash": "1da3f02e0cc2e34531193de79869e7710eefa7b0",
+            "message": "Model: add ReadOnlyRequirementList",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "9515c1c7358bc8544e179084e736056b164b4a6c",
+            "message": "Model: add VersionedRequirementList",
+            "insertions": 110,
+            "deletions": 0
+          },
+          {
+            "hash": "c79f0d1075888ea2d9c3316cc925abb7935e44ee",
+            "message": "Model: add ModelManager methods",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "63924a9c12486a42c0602fcc0e1d21351905aec4",
+            "message": "Model: update to handle Requirement",
+            "insertions": 155,
+            "deletions": 5
+          },
+          {
+            "hash": "fe2f5f073e787713c841a15b57c8f789082e33e5",
+            "message": "Model: update UserPref to prep Requirement storage",
+            "insertions": 17,
+            "deletions": 1
+          },
+          {
+            "hash": "8d37eb9695218cd0ff721527619e7d9a392941cd",
+            "message": "Model: add sample data generator for Requirement",
+            "insertions": 48,
+            "deletions": 0
+          },
+          {
+            "hash": "8b0fc531167de6a3276e01cb247b92fc2b639926",
+            "message": "Storage: add RequirementList storage",
+            "insertions": 47,
+            "deletions": 0
+          },
+          {
+            "hash": "79abf7d40332733058dcc41bd93a77935af628a9",
+            "message": "Storage: add Json files to handle RequirementList",
+            "insertions": 270,
+            "deletions": 0
+          },
+          {
+            "hash": "3d05c6893f7f7518395efd93ddff135d99f84b0e",
+            "message": "Storage: update to handle RequirementList",
+            "insertions": 47,
+            "deletions": 2
+          },
+          {
+            "hash": "4ed3b4f3d061f1ba88e7d19323962fdd6e5c95df",
+            "message": "MainApp: update to handle storage for RequirementList",
+            "insertions": 28,
+            "deletions": 2
+          },
+          {
+            "hash": "ae8bbe6538857a40af41dafc39cd11414f14b68a",
+            "message": "Checkstyle errors correction",
+            "insertions": 362,
+            "deletions": 414
+          },
+          {
+            "hash": "2f71e827d6ab04122206dd111649a494be39776f",
+            "message": "Test: update to include RequirementList",
+            "insertions": 167,
+            "deletions": 54
+          }
+        ]
+      },
+      {
+        "insertions": 1537,
+        "deletions": 1461,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "3a753bb1b97baa49435c680ed3527d88cd13929c",
+            "message": "Model: refractor \u0027Requirement\u0027 to \u0027RequirementCategory\u0027",
+            "insertions": 1370,
+            "deletions": 1349
+          },
+          {
+            "hash": "b545d8549ae6e32d732cdd693ee11b4f71acb52c",
+            "message": "Fix Checkstyle Errors",
+            "insertions": 94,
+            "deletions": 94
+          },
+          {
+            "hash": "5d1b3086d3be17a1d781b880905e6e46a6a5c2ba",
+            "message": "Model: update SampleRequirementCategoryUtil",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "c912b20389c5e77f5c6c65c07168d9e9822be4e7",
+            "message": "docs/UserGuide: update to include `requirement_*` command usage",
+            "insertions": 67,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 475,
+        "deletions": 831,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "e2c26ed53e743d4a6a33754e48cab16be31ac1c8",
+            "message": "Model: Depreciate VersionedRequirementCategoryList",
+            "insertions": 173,
+            "deletions": 454
+          },
+          {
+            "hash": "9aa541fc48d2785af7b985397e47b79fd6eb2279",
+            "message": "Logic: update current logic classes to faciliate combination",
+            "insertions": 43,
+            "deletions": 131
+          },
+          {
+            "hash": "05d0aa15879ac6d9e8c4d936759f1e861038c72a",
+            "message": "Storage: update on files to reference \u0027RequirementCategory\u0027 methods",
+            "insertions": 141,
+            "deletions": 13
+          },
+          {
+            "hash": "db5f8d35d4ca2de20849b0316b57314205c68f62",
+            "message": "Main: update \u0027MainApp\u0027 to dereference old \u0027RequirementCategory\u0027 methods",
+            "insertions": 3,
+            "deletions": 23
+          },
+          {
+            "hash": "9915b2ee6660fba607cc763c5a00fb7c3cc6271f",
+            "message": "Model: update \u0027RequirementCategory\u0027 storage file path location",
+            "insertions": 10,
+            "deletions": 197
+          },
+          {
+            "hash": "5b8ba6cf17b9c2abc169c3f4b943edf258d2a12f",
+            "message": "Storage: update to reference new \u0027RequirementCategory\u0027 storage location",
+            "insertions": 103,
+            "deletions": 9
+          },
+          {
+            "hash": "35b6932bee8ec550dacfac0aaabf48a5cad7442d",
+            "message": "Main: update \u0027MainApp\u0027 to reference new \u0027JsonAddressBookStorage\u0027 methods",
+            "insertions": 2,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 92,
+        "deletions": 111,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "7db08cd7ef154b8feeb24f6161d98d16c68a8f9d",
+            "message": "Test: update on existing test cases",
+            "insertions": 53,
+            "deletions": 74
+          },
+          {
+            "hash": "4ebc7c50248c465e4959122862271349754740b4",
+            "message": "Fix checkstyle issues",
+            "insertions": 39,
+            "deletions": 37
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 158,
+        "deletions": 72,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "7c96bba54984b3df7f51cc3944547e2e10090b3b",
+            "message": "Storage: implementing a new storage model",
+            "insertions": 158,
+            "deletions": 72
+          }
+        ]
+      },
+      {
+        "insertions": 306,
+        "deletions": 250,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "051dda52ec1972e45814385f0d58d19d6267a4d3",
+            "message": "Storage: update logic flow of reading and storing from Json files",
+            "insertions": 62,
+            "deletions": 77
+          },
+          {
+            "hash": "fbeea73cc141ca0460edd7f46de407e6ef3f3e93",
+            "message": "Storage: refactor SerializableAddressBook to SerializableModuleList",
+            "insertions": 112,
+            "deletions": 110
+          },
+          {
+            "hash": "1c08deedc698297014c9a809c4b65adf707081c7",
+            "message": "Test: update of testcases after refactoring",
+            "insertions": 132,
+            "deletions": 63
+          }
+        ]
+      },
+      {
+        "insertions": 449,
+        "deletions": 110,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "3cc0993b856e4f768e62c8bf4f4bbe2a5ba5e3e8",
+            "message": "Storage: update logic flow of reading and storing from Json files",
+            "insertions": 441,
+            "deletions": 109
+          },
+          {
+            "hash": "10a2407332de76bec13bff1ca7c74fe03bef3a58",
+            "message": "systemtests: comment out testcase in \u0027DeleteComandSystemTest\u0027",
+            "insertions": 8,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      }
+    ],
+    "lycjackie": [
+      {
+        "insertions": 17,
+        "deletions": 290,
+        "date": "2019-02-16",
+        "commitResults": [
+          {
+            "hash": "e53c994e3c34a8103fe949a1f2c1581f0ff359b4",
+            "message": "UserGuide: rename `AddressBook` to `PlanWithEase`",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "bd247b8daf9787d99bb41990775ab91e06c7f3bd",
+            "message": "DeveloperGuide: rename `AddressBook` to `PlanWithEase`",
+            "insertions": 6,
+            "deletions": 8
+          },
+          {
+            "hash": "2f51ac45dc17ca175a48022a41b318a7786e8948",
+            "message": "README: rename `AddressBook` to `PlanWithEase`",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "0569ac9babd03a67ae8b16803e2f0260ff8ebfcf",
+            "message": "ContactUs: update issue tracker URL",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7fc309588ca94f05f57fe3db7c016f25c15eca53",
+            "message": "AboutUs: rename `AddressBook` to `PlanWithEase",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "1cb872af1f07e852644866a97b252cc715e95e03",
+            "message": "docs: delete `LearningOoutcomes`",
+            "insertions": 0,
+            "deletions": 271
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 76,
+        "deletions": 4,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "053e7892b445b831a5cd45eb846886ea77f0c295",
+            "message": "AboutUs: add Lee Yu Choy\u0027s details (#9)",
+            "insertions": 76,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 2,
+        "deletions": 3,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "7c9135e5bce9d07a776d097ca6351c16fbcac109",
+            "message": "[#21] `build.gradle`: update project details to fix GitHub pages (#22)",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 14,
+        "deletions": 4,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "129e5ba3b8254d2275590a481e833b0f747f08d6",
+            "message": "Model/module: add new abstract class `KeywordsPredicate`",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "042762de7b364ac8ba641fa2ad5c352a687c37d0",
+            "message": "Model: make `NameContainsKeywordsPredicate` extends `KeywordsPredicate",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 179,
+        "deletions": 13,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "8586867f0c798fffbade680f4a0b00f5d89b3521",
+            "message": "Model/module: add `CodeContainsKeywordsPredicate` class",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "9d1cdd95d8bdb238cd319fa7adbe4e939564314c",
+            "message": "Logic: make `FindCommandParser#parse(...)` parse `PREFIX_CODE`",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "d2cf37e5c797781de48fbc22c921b92d2fac55fd",
+            "message": "FindCommand: update `MESSAGE_USAGE`",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "71fe8a74d07cecaf877e362b966251ed0d078b5e",
+            "message": "test/module: add unit tests to `CodeContainsKeywordsPredicateTest`",
+            "insertions": 78,
+            "deletions": 0
+          },
+          {
+            "hash": "3d2810020e9d2ed529a3b6e3e9c376f0a36954e3",
+            "message": "Logic: make `FindCommandParser#parse(...)` parse `PREFIX_NAME`",
+            "insertions": 17,
+            "deletions": 5
+          },
+          {
+            "hash": "44bbfcdb1b35fa4225e3ea4a893288fec9d5f2a8",
+            "message": "Model/module: add `CreditsContainsKeywordsPredicate` class",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "623e551f2e1663713f261d7a275d47d406adab19",
+            "message": "Logic: make `FindCommandParser#parse(...)` parse `PREFIX_CREDITS`",
+            "insertions": 7,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 203,
+        "deletions": 31,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "3b52d53ae742bd434337d8fec5d0a2828bc239e7",
+            "message": "FindCommand: update `MESSAGE_USAGE`",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "f90c2f6507c4dba6e453d73ede9627e0c6af9fdb",
+            "message": "test/parser: add unit test to `FindCommandParserTest`",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "04dd0986fbe1bb02dcda4cd097eb6e31442036a4",
+            "message": "test/module: add unit tests to `CreditsContainsKeywordsPredicateTest`",
+            "insertions": 70,
+            "deletions": 0
+          },
+          {
+            "hash": "2969187abf0cb2ab8dabcfcc1d12df921c5d4119",
+            "message": "commands/FindCommandTest: refactor methods name",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "554eaf9cf01ebbc048f0a24bae26f682b9818643",
+            "message": "test/commands: add unit test to `FindCommandTest`",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "c8ffe342107e79a1a8824837d235983c97f59a16",
+            "message": "systemtests/FindCommandSystemTest: add unit tests",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "ea05da395f45d6f5a43041dbbfb869608bcde976",
+            "message": "test/parser: add unit test to `FindCommandParserTest`",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "ae7d847a10524168d23febcacf50f25ff1519ed5",
+            "message": "test/commands: add unit test to `FindCommandTest`",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "171e28c69b84fc20debc442a8b4d39c35d0c5d8a",
+            "message": "systemtests/FindCommandSystemTest: add unit test",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "1c62d34916f94bd732e1905e37ffb135b31e3626",
+            "message": "systemtests/FindCommandSystemTest: update broken unit tests in `find()`",
+            "insertions": 21,
+            "deletions": 18
+          },
+          {
+            "hash": "6e948b98d7ea990f11cbd76953ca7a4cf4d490c9",
+            "message": "test/parser: update `AddressBookParserTest` broken unit test",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "51d2926e90fd28b4504a54b6c10f19022d4c57a0",
+            "message": "test/parser: update `FindCommandParserTest` broken unit test",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "d90a0b14667ae23f4784c32f1c2c2396720d9248",
+            "message": "test/parser: refactor ` FindCommandParserTest` attribute name",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "c57229b3f625bf4da8b1b4ebe7386d2dc9e8ad80",
+            "message": "Logic: refactor `FindCommandParser#parse(...)`",
+            "insertions": 6,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 70,
+        "deletions": 36,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "d959d9f7b30425196a82c4a0ec8d8c2473d92c7c",
+            "message": "README: update acknowledgement",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "7af3611343a82f2e4538e0ce454e1757a3f747b2",
+            "message": "docs/UserGuide: update `find` command usage (#49)",
+            "insertions": 26,
+            "deletions": 15
+          },
+          {
+            "hash": "5cf749cbac4b15c3109e8050342e8cddb99ddb7b",
+            "message": "README: update application description",
+            "insertions": 13,
+            "deletions": 7
+          },
+          {
+            "hash": "5a5606035e6bdeca90fab615dc5fdec572a83da3",
+            "message": "docs/team: remove `dataencryption` tag to fix `asciidoctor` warning",
+            "insertions": 0,
+            "deletions": 10
+          },
+          {
+            "hash": "8004e8333ca9c22cad864aaa6b6e8b40a32d9573",
+            "message": "DeveloperGuide: add `find` module use case (#54)",
+            "insertions": 28,
+            "deletions": 2
+          },
+          {
+            "hash": "6feb9222bbf0bda36d36ace146a8907ac94c773b",
+            "message": "UI: update application title to `PlanWithEase` (#60)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 78,
+        "deletions": 18,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "c8cb9e5afbdc2a8d0421d1363851838715cec983",
+            "message": "Model: refactor `KeywordsPredicate`",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "e1ba246dd5ed37d1e852d90b458012d83abacfe3",
+            "message": "Logic: enhance `FindCommandParser`",
+            "insertions": 28,
+            "deletions": 12
+          },
+          {
+            "hash": "9f8fbaf681f3c3ac2cbaf624ad180e6a240840c9",
+            "message": "systemtest/FindCommandSystemTest: add unit tests",
+            "insertions": 43,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 113,
+        "deletions": 16,
+        "date": "2019-03-15",
+        "commitResults": [
+          {
+            "hash": "f500d7e05ca3e611aac3845055da48eb131efa3a",
+            "message": "Logic/ParserUtil: add more helper methods",
+            "insertions": 60,
+            "deletions": 0
+          },
+          {
+            "hash": "e954bce2e3d11cae8f8e9e3a21606ae777923e02",
+            "message": "Logic: Fix `FindCommandParser#getKeywordsPredicate(...)`",
+            "insertions": 17,
+            "deletions": 10
+          },
+          {
+            "hash": "b8404b8e85a7a7da2311f5b15116378e68398dd4",
+            "message": "test/parser: add unit tests to `FindCommandParserTest`",
+            "insertions": 36,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "2d9c0592ee386e3f897a5f751d69afe6155e5ce2",
+            "message": "docs/UserGuide: update `find` command usage (#68)",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "truegitnovice": 1887,
+    "WendyBaiYunwei": 112,
+    "Creastery": 2343,
+    "chyeo": 1833,
+    "lycjackie": 655
+  },
+  "authorContributionVariance": {
+    "truegitnovice": 64906.023,
+    "WendyBaiYunwei": 330.70776,
+    "Creastery": 303788.06,
+    "chyeo": 463212.53,
+    "lycjackie": 5968.2246
+  },
+  "authorDisplayNameMap": {
+    "truegitnovice": "AHN...GYU",
+    "WendyBaiYunwei": "BAI...WEI",
+    "Creastery": "NGO...LIN",
+    "chyeo": "YEO...ONG",
+    "lycjackie": "LEE...HOY"
+  }
+}

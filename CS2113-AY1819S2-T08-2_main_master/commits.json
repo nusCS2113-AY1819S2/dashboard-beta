@@ -1,0 +1,54 @@
+{
+  "authorDailyContributionsMap": {
+    "yongjia96": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2050-03-18",
+        "commitResults": []
+      }
+    ],
+    "swalahlah": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2050-03-18",
+        "commitResults": []
+      }
+    ],
+    "weizhonglauw": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2050-03-18",
+        "commitResults": []
+      }
+    ],
+    "jayrometan": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2050-03-18",
+        "commitResults": []
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "yongjia96": 0,
+    "swalahlah": 0,
+    "weizhonglauw": 0,
+    "jayrometan": 0
+  },
+  "authorContributionVariance": {
+    "yongjia96": 0.0,
+    "swalahlah": 0.0,
+    "weizhonglauw": 0.0,
+    "jayrometan": 0.0
+  },
+  "authorDisplayNameMap": {
+    "yongjia96": "PAN...JIA",
+    "swalahlah": "LIO...HUI",
+    "weizhonglauw": "LAU...ONG",
+    "jayrometan": "TAN...OME"
+  }
+}

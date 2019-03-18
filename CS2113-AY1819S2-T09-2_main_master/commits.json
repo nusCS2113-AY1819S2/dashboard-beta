@@ -1,0 +1,1956 @@
+{
+  "authorDailyContributionsMap": {
+    "Wanchunwei": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "d9ef5c5b95fa7fbce0975156c97957adfd77408a",
+            "message": "[About us]Upload Wanchunwei\u0027s photo and update information",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "9c5796a61d3f7372f3a50748bcecb9bfbb1cbf51",
+            "message": "[About us]Correct a mistake",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 305,
+        "deletions": 1073,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "d362ded7aaf6836429bf0bf89fb75941163b3667",
+            "message": "Change Developer Guide -- Value proposition",
+            "insertions": 7,
+            "deletions": 126
+          },
+          {
+            "hash": "235b474b3d1f783ce754887ae9ea135b0874e129",
+            "message": "Change Developer Guide test",
+            "insertions": 27,
+            "deletions": 0
+          },
+          {
+            "hash": "8876372fbe34dcbb24d8ae061b731e13121d9df2",
+            "message": "Change test",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "911be1b01db18194b89f8a748d5ee2437d0e0761",
+            "message": "change test3",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "3340f824f055f979c1376ceb681d2041bd405f12",
+            "message": "change test4",
+            "insertions": 23,
+            "deletions": 12
+          },
+          {
+            "hash": "0199a84b437d354fdbd543ffa700c2a4b967482e",
+            "message": "change test5",
+            "insertions": 18,
+            "deletions": 18
+          },
+          {
+            "hash": "1df82692f1a20ffd8e223a081f48c350f680babe",
+            "message": "Change Target user profile",
+            "insertions": 0,
+            "deletions": 129
+          },
+          {
+            "hash": "0f48409f125649c75c03e0f42890be6d54e19b50",
+            "message": "Update user stories",
+            "insertions": 76,
+            "deletions": 1
+          },
+          {
+            "hash": "63c36aea4c6da50f8ec94cf2ee6df8fb75c971b5",
+            "message": "Update user stories 2",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "c5978b6cdd5633ec8c749c7583c0c38fad84276c",
+            "message": "Update user cases.",
+            "insertions": 65,
+            "deletions": 0
+          },
+          {
+            "hash": "17576378ba0a25bd406fddc398d079fe44b2b91c",
+            "message": "Update user cases 2",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "d902a776fc44a259489eb59bb286962515dd6ad7",
+            "message": "Update user cases 3",
+            "insertions": 14,
+            "deletions": 12
+          },
+          {
+            "hash": "04d4fee309cedbd02ae28e09087effc0c5371b95",
+            "message": "Update user cases 4",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "63addb094194f0cef6e0590161a6e42fb75c8ff4",
+            "message": "Update Non-functional requirements and Glossary",
+            "insertions": 10,
+            "deletions": 725
+          },
+          {
+            "hash": "483e02b5247f4449ed0ef367b089251de402811f",
+            "message": "Update developer guide appendix",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "3d25ccb64d1f45539842ea262ef8f314cf4ae789",
+            "message": "update developer guide whitespace",
+            "insertions": 17,
+            "deletions": 17
+          },
+          {
+            "hash": "5763d4b33a7521f2fe2eafad34595fc332de0274",
+            "message": "Update develop guide white sapce 2",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      }
+    ],
+    "cheahzk": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 18,
+        "deletions": 30,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "189f776bb06a3878902ad89aa54dc0e1d0e3b8f1",
+            "message": "[README.adoc] Modify travis build status badge, remove AppVeyor \u0026 Coverall badges.; Modify some description.",
+            "insertions": 6,
+            "deletions": 14
+          },
+          {
+            "hash": "8af112c6be05070f97c6f81173dd518d76d02c89",
+            "message": "[AboutUs.adoc] Modify some description; Added zhikang.jpg.",
+            "insertions": 5,
+            "deletions": 8
+          },
+          {
+            "hash": "7e0728a529c55bca2ca1ae83b8262010b31a6045",
+            "message": "[UserGuide.adoc] Modify some part in some description",
+            "insertions": 7,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 17,
+        "deletions": 10,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "df840ef78146f29df4afe1dcbcbb7caebfe01a15",
+            "message": "README.adoc: Updated. Left UI picture.",
+            "insertions": 10,
+            "deletions": 5
+          },
+          {
+            "hash": "4d1432ceb39f5d54b9d7bde9851e035caafc0e70",
+            "message": "[AboutUs, DeveloperGuide, UserGuide]: Modified project name to Tasketch",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "7a839e3f8105d358f67387c982721fcc2ecbdc32",
+            "message": "[AboutUs]: Edited zhi kang part.",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 105,
+        "deletions": 1,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "894c6420f9d41db536ba8e8163bdabc0a7f2ba74",
+            "message": "[AddressBookParser]: Added alias command for add, clear, delete, edit, find, history, list, redo, select, undo",
+            "insertions": 23,
+            "deletions": 0
+          },
+          {
+            "hash": "c2be0876414f530b352177c18bdaa8a9f54e84f9",
+            "message": "[UserGuide]: Updated for alias commands",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "28d3a0509dad788f771896d4b2794ec2c96095bc",
+            "message": "[AddressBookParserTest]: Updated for alias commands",
+            "insertions": 69,
+            "deletions": 0
+          },
+          {
+            "hash": "687a6056d863817f1eb7f0912f9dedf2e5372f5e",
+            "message": "[AddressBookParserTest]: Edited some part of the code.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "63d03d693eefe2c1906046354558fc5e5d672616",
+            "message": "[AboutUs.adoc]: Edited zhikang.jpg to zhikang.png",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ff22f817e89a7700c0c14e6d16b0d4aa9f6b911a",
+            "message": "[AboutUs]: Modified zhikang.png to cheahzk.png",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 680,
+        "deletions": 5,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "ce2be100aa6ebcaebd4c845239e25a235163e433",
+            "message": "[AboutUs]: Changed jpg to png for jing chen and shi bo.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "788633f0df07789e80e860b97b1efe3705b456dd",
+            "message": "For travis build again.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e94961f739ce7b42a76ba7a4b2445a16bfc97ca9",
+            "message": "[Model]: Added task model for morphing into our project.",
+            "insertions": 662,
+            "deletions": 0
+          },
+          {
+            "hash": "06aa8ce339adbf906ee77c4ef890356447571539",
+            "message": "[Task.java]: Edited some part.",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "58f42d4ee656ec09cb2d82a98ab845625d121c72",
+            "message": "[Duration, EndDate, StartDate, Task]: Edited some part in the code.",
+            "insertions": 13,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 371,
+        "deletions": 32,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "4fb29cbc6d73ae056322c3d53e27e243c792cf78",
+            "message": "[Name.java]: Renamed Topic.java to Name.java \u0026 edited.",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "6eae80c93a84d4487b5ab59f9f613972fff47cf2",
+            "message": "[Task.java]: Changed Topic to Name class",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "c29f51db8cfb8c92bdfac86ef253bc128adcd84a",
+            "message": "[TaskCliSyntax]: Updated with our own index.",
+            "insertions": 17,
+            "deletions": 0
+          },
+          {
+            "hash": "22f80a48a7ade5fe23d7950a4f0325be0e2a3559",
+            "message": "add tag v0.9.1",
+            "insertions": 329,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 2484,
+        "deletions": 3627,
+        "date": "2019-03-08",
+        "commitResults": [
+          {
+            "hash": "15e5a8416727885bbd6545fd0554e1170690908f",
+            "message": "Added waiting to edit folder in Tasketch for others to edit them later.",
+            "insertions": 723,
+            "deletions": 0
+          },
+          {
+            "hash": "e1e3133161a51e20ed94531bd1305782f22ef0ff",
+            "message": "Replaced addressbook classes to Tasketch classes.",
+            "insertions": 0,
+            "deletions": 3222
+          },
+          {
+            "hash": "35b556edcab4da09afd8bf475b60414bc7d4e61b",
+            "message": "Changed addressbook name to taskbook.",
+            "insertions": 49,
+            "deletions": 49
+          },
+          {
+            "hash": "8ab74ba9da9c4d561e95e75fb511672a9d36e78d",
+            "message": "[Commands]: Morph to Tasketch.",
+            "insertions": 38,
+            "deletions": 32
+          },
+          {
+            "hash": "e1b08d9c8da2339ca8201d9664e869bc5a42bcda",
+            "message": "[Parser]: Morph to Tasketch.",
+            "insertions": 89,
+            "deletions": 46
+          },
+          {
+            "hash": "b3e5326cb02aefb8b16bb3dfcdec0a4a43b96b75",
+            "message": "[Model]: Morph to Tasketch.",
+            "insertions": 107,
+            "deletions": 107
+          },
+          {
+            "hash": "65117a686553418d75e85aee8a76f86b9dae81d4",
+            "message": "[task]: Morph to Tasketch.",
+            "insertions": 19,
+            "deletions": 20
+          },
+          {
+            "hash": "842906d51c9bfb1d93f63588a429d0de2cc77638",
+            "message": "[storage]: Morph to Tasketch.",
+            "insertions": 344,
+            "deletions": 21
+          },
+          {
+            "hash": "f6e767d05b549d76fb2f58c5a6c7b9157ebbcadd",
+            "message": "[commands]: Morph to Tasketch.",
+            "insertions": 18,
+            "deletions": 17
+          },
+          {
+            "hash": "4312d76ffcddae13c7d024b6340f30909d04a6f0",
+            "message": "[parser]: Moprh to Tasketch.",
+            "insertions": 299,
+            "deletions": 6
+          },
+          {
+            "hash": "730768f5a3f8d5e0292b2db5257304f40d0da2be",
+            "message": "[ui]: Morph to Tasketch.",
+            "insertions": 165,
+            "deletions": 18
+          },
+          {
+            "hash": "ecf8e4c4371864e7329c85ab373066bc1597a9fc",
+            "message": "[model]: Morph to Tasketch.",
+            "insertions": 304,
+            "deletions": 0
+          },
+          {
+            "hash": "108572540cbc7dfcb0e80a06f02f3662a31c1fbb",
+            "message": "[testutil]: Morph to Tasketch.",
+            "insertions": 222,
+            "deletions": 6
+          },
+          {
+            "hash": "4869a1e47b23583a4da0713a6bca2cb745499777",
+            "message": "[test]: CommandTest changed due to moving some commands to waiting to edit file.",
+            "insertions": 24,
+            "deletions": 34
+          },
+          {
+            "hash": "a8de918fe0841a976ff169f9b1a8ad24c587dc30",
+            "message": "[systemtests]: Morph to Tasketch.",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "8920a8067b78bad328774c47485e3885b21b26b9",
+            "message": "[view]: Morph to Tasketch.",
+            "insertions": 49,
+            "deletions": 3
+          },
+          {
+            "hash": "88b62b52870a998b0af9a05e29eb6d15ca347b0b",
+            "message": "[SampleDataUtil]: Morph to Tasketch.",
+            "insertions": 23,
+            "deletions": 33
+          }
+        ]
+      },
+      {
+        "insertions": 43,
+        "deletions": 44,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "0484895e3b711fa86e3ea38d708c4ba5c7ba3bd4",
+            "message": "SampleDataUtil: Updated the sample tasks.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "c6190ce79453b8065109b98fce1ecc00c247864f",
+            "message": "[AboutUs]: Updated for updated names (changed to lower case).",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e3b6238eb2f8d32c3a0c492f74a5b9e42e4d5e71",
+            "message": "[TravisCheckStyle]: Updated according to travis test.",
+            "insertions": 32,
+            "deletions": 33
+          },
+          {
+            "hash": "77843f6bf00a48c110da7d7ca8cd1bc2b5bf8d49",
+            "message": "[TravisStyleCheck]: Updated for travis test.",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 944,
+        "deletions": 2138,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "41b5ee9cf990187ff452349d95f236f9a13c3030",
+            "message": "[build.gradle]: Changed archiveName to Tasketch.jar, site-name to Tasketch, site-githuburl to group repo.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "660c3450acbfed9eb1688fd5d16d4f99568a284f",
+            "message": "[build.gradle]: Corrected some mistakes on site-githuburl.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0b551eeff532a890edcf885500d5d526d0909d68",
+            "message": "[build.gradle]: Removed \u0027site-seedu\u0027.",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "b3a4788623939f9540bbc700075d2b157db2a2e3",
+            "message": "build.gradle: Modified testing for passing Travis test.",
+            "insertions": 24,
+            "deletions": 24
+          },
+          {
+            "hash": "4006438f7017d5a9e2a2d9b883220a1fadc49f51",
+            "message": "LogsCenter: Modified log file name.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "861e576d50373dc0f4c9856349c8dbac67eeb2be",
+            "message": "Messages: Modified messages.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ed2e272e3992066401ffc16f845d209669cd155c",
+            "message": "JsonAdaptedTask: Modified missing field mesage format.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e1bf63c3d291292d5b426878daea1774a023e1d1",
+            "message": "AddCommand: Modified messages and commandException.",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "0d28101bd377f5b88c302ca641da8542df60334d",
+            "message": "FindCommand: Modified message usage.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f1687d4e1c6317ff56a38972443ed67d4ae64c8e",
+            "message": "MainWindowHandle: Modified guitests to suit our project",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "7b4491ab17c8f922e3a80e2b540aac9e91c6fc0a",
+            "message": "LogicManagerTest: Modified to suit our project.",
+            "insertions": 39,
+            "deletions": 36
+          },
+          {
+            "hash": "38437e047d1afa811ba3e28778997412fee7a9cc",
+            "message": "src/test: Modified to suit our project.",
+            "insertions": 387,
+            "deletions": 383
+          },
+          {
+            "hash": "37ae2256ba4860b0abf24e0173f81ae4764f315c",
+            "message": "src/test: Removed for Travis build test",
+            "insertions": 0,
+            "deletions": 1562
+          },
+          {
+            "hash": "23f9cf321432a9feddd99828b8db815ab6c6fe4f",
+            "message": "src/test: Renamed from original code to suit our project.",
+            "insertions": 438,
+            "deletions": 0
+          },
+          {
+            "hash": "58b41d2554ff31261a6b797caebffc0dd16d33af",
+            "message": "build.gradle: Removed GUI test.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7ae71d1ebab5dcd7e3a7f07f8412210ef092a7a2",
+            "message": "buid.gradle: Modification v1.0",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "d76cb4965f6bc581cb5bf3c7107e1f62d613f8f8",
+            "message": "build.gradle: Modification v1.1.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "03d3ef8732fcfd22f1a7dab75b4158bd7c9aa7ad",
+            "message": "For Travis build modification v1.2",
+            "insertions": 22,
+            "deletions": 98
+          },
+          {
+            "hash": "709d1edf008bf07bcf31f28a95f0172360c4c9b0",
+            "message": "For Travis build modification v1.3.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f8cd4e5ed5402b8f03e31e321ad8bb8f8c15abc6",
+            "message": "For Travis build modification v1.5.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 744,
+        "deletions": 4585,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "9a49f326aa252355c4f0cbeb52eaa880542f4eed",
+            "message": "src/test/: Removed tests in model for ease of passing Travis.",
+            "insertions": 0,
+            "deletions": 1214
+          },
+          {
+            "hash": "210bd0a7b961926e47154bd2e4f76087be291818",
+            "message": "src/test: Removed tests in storage for ease of passing Travis.",
+            "insertions": 0,
+            "deletions": 492
+          },
+          {
+            "hash": "810128136cb1aa463240d96942fb26814289fac0",
+            "message": "src/test: Removed tests in systemtests for ease of passing Travis",
+            "insertions": 0,
+            "deletions": 1330
+          },
+          {
+            "hash": "47d61af81359313952c8a1eb8fda80bb1e435acd",
+            "message": "src/test: Updated to suit our project",
+            "insertions": 28,
+            "deletions": 26
+          },
+          {
+            "hash": "80df3fd3416a80048c939dbfdf0a9d0558ed221a",
+            "message": "src/test: Modified to suit our project.",
+            "insertions": 417,
+            "deletions": 127
+          },
+          {
+            "hash": "6f3769c55b96eb27f9971015ce2eae1a72cc3b53",
+            "message": "build.gradle: Modified test cases.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "26fd353eecfd76074328a42619e69ed9a6599600",
+            "message": "build gradle: Modified test cases.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "cb9df3eb15040e4e194c6336bb5d7934abc667bb",
+            "message": "build.gradle: Modified test cases",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6776f81c9b7f3ea8e609399396bca4cc3c563da1",
+            "message": "src/test: Removed for travis build. UI testing not needed yet.",
+            "insertions": 0,
+            "deletions": 1263
+          },
+          {
+            "hash": "5bcdda7b278ad63e77a614067481fb350e9b3fdb",
+            "message": "src/test: Modified for travis test.",
+            "insertions": 2,
+            "deletions": 14
+          },
+          {
+            "hash": "dde8e9e46a64d362e1d9219e1ea0ce7b9149c28a",
+            "message": "src/test: CompileTestJava fix v1.1",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "f1a6900dfaec0c0bfa1747bf2619879e1259d790",
+            "message": "CheckStyle: Fix for Travis",
+            "insertions": 34,
+            "deletions": 54
+          },
+          {
+            "hash": "ee1d80a8faaae88c89d92a7aa48bdc463768b426",
+            "message": "CheckStyle: Fix for Travis v1.1",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "32713bdc977d910209ac832281fa5eaac116cc81",
+            "message": "DeleteCommand: Updated message for CommandException.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b0e9b6979f87e0d72f26aa04fde7ac912ced1ce7",
+            "message": "DeveloperGuide: Modified based on our project.",
+            "insertions": 237,
+            "deletions": 31
+          },
+          {
+            "hash": "5cb1af4c17a2dd4b29203d9d9bbfd1fd122265af",
+            "message": "UserGuide: Modified based on my part (add) in project.",
+            "insertions": 12,
+            "deletions": 17
+          }
+        ]
+      }
+    ],
+    "jingchen-z": [
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "cc2b8087b6add635389a79d9d72e264b94b71e34",
+            "message": "Test Travis CI",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "35c89352a52571149d5247722da6d6587b450f77",
+            "message": "Test Travis CI",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "84720c03d1b6de749e9bd604e0f437881bf60397",
+            "message": "Test Auto-publishing Documents",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 8,
+        "deletions": 8,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "cfe61938b957bc43308c513c8a00079f83ff6f1c",
+            "message": "Changed Ui.png ContactUs.adoc etc",
+            "insertions": 8,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 529,
+        "deletions": 119,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "f35f28b75c72abaa6b0bef6851d5ed98cedd4989",
+            "message": "Created files. Made minor change. under logic/command",
+            "insertions": 357,
+            "deletions": 3
+          },
+          {
+            "hash": "cceb7ea4f73b48c1267f1c2f7a1e47e263d1cb34",
+            "message": "Changed one command to our own command",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "445462c03ff6539557d9a785a379529224ad632d",
+            "message": "Small change on parser",
+            "insertions": 28,
+            "deletions": 0
+          },
+          {
+            "hash": "1011428dc54448705035074854d45e568a6757af",
+            "message": "Small updates on DeveloperGuide.adoc",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "b77ea0cd7ca6788a2ad38327d253fb7f154d9d0d",
+            "message": "Corrected DeveloperGuide.adoc",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "c3dec7bd7d93e23a0c81e61e775a02e42815ac28",
+            "message": "Corrected DeveloperGuide.adoc 1.1",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "ebd1f5c184d8e39a3704df34b9e88f2a07427d06",
+            "message": "Changed coding style",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "29ddc2a9d812f5ea585cb755971a536011998b10",
+            "message": "Travis please pass",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "99e26df50e39383ed5dedd777a0600a72bc23b6d",
+            "message": "Travis pls pass",
+            "insertions": 35,
+            "deletions": 40
+          },
+          {
+            "hash": "2f93477c889959eca60362cbd3155def9d3a6d78",
+            "message": "Travis plsss pass",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "5d5714033427b42e992fdfa9813b462157e17918",
+            "message": "Style fixting1.0",
+            "insertions": 41,
+            "deletions": 16
+          },
+          {
+            "hash": "15a8d0b8faee28872a13784539dea1034173165d",
+            "message": "Style fixting1.1",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "adc6cd94de385796ad048f418ac280ee59823806",
+            "message": "Style fixting1.2",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "5d002729aa6f090c386d4abbed48cdb0c958b109",
+            "message": "Style fixting1.3",
+            "insertions": 14,
+            "deletions": 8
+          },
+          {
+            "hash": "049be258cb6f6d67a82db774b3e09beabc1ac8b7",
+            "message": "Style fixting1.4",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "9f9e0c717840e00c7d49800fc1d9f859bcb00c5c",
+            "message": "Style fixting1.5",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "c853be9a7105ef6f9d3ef865ee78ed5230fa22fb",
+            "message": "Style fixting1.5",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "8790511562047d611731ff04f3e7d03e20fa917f",
+            "message": "Style fixting1.6",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "586927eac9c35aea5d5c3e9fa6db5c3678c5c674",
+            "message": "Style fixting1.7",
+            "insertions": 1,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 1,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "9d4819085a010c798d8b8100c3e1ba6a1f937498",
+            "message": "Test Exit command",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 15,
+        "deletions": 7,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "bfd5b8048a92702f7a904fbb2f2cb140abdd9e8d",
+            "message": "Style fixing 1.0",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "bfa13e3757a47aa6950856725df0979c511c2e00",
+            "message": "Style fixing 1.1",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "706976d72cbbd058d7e7d06ac74ea763e36f8df7",
+            "message": "Style fixing 1.2",
+            "insertions": 9,
+            "deletions": 1
+          },
+          {
+            "hash": "87011b68d26afe0098218168a87a084305548e56",
+            "message": "Style fixing 1.3",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 198,
+        "deletions": 49,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "646c3150dcc7d8b6ed4501e9d3cfffe3c3b8455a",
+            "message": "Find command v1.1",
+            "insertions": 44,
+            "deletions": 20
+          },
+          {
+            "hash": "f860a7e61ca1d7b8469eb44f107de04313b83a7d",
+            "message": "Updated UserGuide.adoc",
+            "insertions": 11,
+            "deletions": 10
+          },
+          {
+            "hash": "ce3d26391410d67f78cabf7653df1a7b50ba853b",
+            "message": "Updated DeleteCommand and HistoryCommand",
+            "insertions": 134,
+            "deletions": 10
+          },
+          {
+            "hash": "4ee3dd6e1e152d24013fe29b6984a70dc3c86285",
+            "message": "Style fixing 1.0",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "42362b161ecc2a9a3b567a5070978802977e5888",
+            "message": "Style fixing 1.1",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      }
+    ],
+    "BrittonAlone": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 95,
+        "deletions": 163,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "2e0d848e155386863b67f225d2086444d18362af",
+            "message": "User guide updated",
+            "insertions": 81,
+            "deletions": 153
+          },
+          {
+            "hash": "6bfa7fbd0a0e3601062a39e3ae767792529c7b12",
+            "message": "Correct some mistakes in the previous change",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "cb77f18eb6c40476af76496f56cecca61fbbd0e0",
+            "message": "Some next lines added",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "25de53d45d969bc69b156510f7f047b44f0f9cfc",
+            "message": "Removed remark on UI",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 38,
+        "deletions": 45,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "ede079aa06ca9ed2fe4bf35c640e0a62d4a22d94",
+            "message": "Photo added",
+            "insertions": 13,
+            "deletions": 23
+          },
+          {
+            "hash": "d6c8ddb6021a798a5fcba8d1d49cafc4b0baeadb",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "115538f5141e6feefd968ce5f49b17d9c63744d3",
+            "message": "Fix import error",
+            "insertions": 12,
+            "deletions": 3
+          },
+          {
+            "hash": "8c73606a7d3009293d6f474ed8225924eae8399b",
+            "message": "no message",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "6f66c23ad00479010d56569bd7af345b1aa088f9",
+            "message": "no message",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "d853fff93d5e2623ccb07eb79e3272c0bfa22e32",
+            "message": "no message",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "7385a1e3045c4fb81c3f79ecbc0fcd93116d2e9c",
+            "message": "no message",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "f632c8f6bb1758e3c4f000bc86eb7708b60c6e28",
+            "message": "no message",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "d0b0106d8a7aab5cd9aab5d26dd5ef1269cd9f20",
+            "message": "Tag added",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "96873e5075a42df7e2f44a61fe34ca9c7d1df7ef",
+            "message": "tag added",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "0a1ab5820dd49cb88f0691b8b0963b21987f35b4",
+            "message": "Tag added.",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 293,
+        "deletions": 104,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "2ef0e9b2a0da6cc2ab8efa73e432aafd59be6d4c",
+            "message": "list, list td, list DATE command added",
+            "insertions": 194,
+            "deletions": 9
+          },
+          {
+            "hash": "0afcddaef642d4f8cac9609723be9b5adcd44816",
+            "message": "update TaskBookParser",
+            "insertions": 16,
+            "deletions": 9
+          },
+          {
+            "hash": "d041add80d8c2d4fa35aab68ae44273b5943aa79",
+            "message": "update TaskBookParser 1.1",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "d5f39afdba7eb5f99f3fef2779dd922d945677a7",
+            "message": "Travis updated",
+            "insertions": 4,
+            "deletions": 12
+          },
+          {
+            "hash": "3f9a15ec3f0014a9bbd8ce17685dbff512548c95",
+            "message": "Travis updated",
+            "insertions": 12,
+            "deletions": 37
+          },
+          {
+            "hash": "52e5046de84729bfb473966c1748ed09587d4a76",
+            "message": "Travis update",
+            "insertions": 62,
+            "deletions": 31
+          },
+          {
+            "hash": "9f9b6005cdf8af603bfe52e4a8aaa69449c670aa",
+            "message": "Travis updated",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "bd0247a1c47c37940e6b48d6d416973bed328754",
+            "message": "Travis updated",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "Zeyang-Li": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 505,
+        "deletions": 104,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "730fe76cbbf19b349d7e67a0cfdbba8e9066c2cc",
+            "message": "add Zeyang-Li.png",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "521135de80cbb17e4b0b0574d19f7ddc1390519e",
+            "message": "Add some exact description in README.adoc",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "6e955d1b8a021d7762e2856b61ace566db15da50",
+            "message": "before new clone",
+            "insertions": 59,
+            "deletions": 33
+          },
+          {
+            "hash": "417297263b31d5b9eccf7e7bb900a1819ceeef73",
+            "message": "change png to jpg",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "9084560f01b917b5a6e60dac83559fb94bb93534",
+            "message": "unused import",
+            "insertions": 0,
+            "deletions": 13
+          },
+          {
+            "hash": "0844ce1809a0a67d98191ee3b8e5848d3b632727",
+            "message": "clear and exit",
+            "insertions": 1,
+            "deletions": 42
+          },
+          {
+            "hash": "aaeeb23d0296f106836f2c651d2ced238c17ab38",
+            "message": "change the name",
+            "insertions": 43,
+            "deletions": 0
+          },
+          {
+            "hash": "7265c46cfd17822468c43b34034b4454c8f28e58",
+            "message": "change add\u0027s command to tasketchcommand",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5472e57a67f5ff1ad392b5341b3800c29ff6ccad",
+            "message": "Update johndoe.adoc",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "44ba5b237e99a0e5f70448137b02059cbf93ff65",
+            "message": "change portfolio",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "9fd907e54b3d7a43973beda5e6dbaff7f595cd8c",
+            "message": "change portfolio",
+            "insertions": 379,
+            "deletions": 0
+          },
+          {
+            "hash": "3f27dc22155b9105d74a16b53b3c3bd217e09feb",
+            "message": "exceptions in command",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "fafe0960932b50b2ba5ccde02b2fedf469687ee6",
+            "message": "change into lower case in aboutus.adoc",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 31,
+        "deletions": 39,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "3d123f71fbf72a629628edd4b31c955d0c2d9511",
+            "message": "update clear connmand for v1.2",
+            "insertions": 24,
+            "deletions": 36
+          },
+          {
+            "hash": "6f38417cf3a05b0d5457ae63205578fa630fb662",
+            "message": "change coding style in clear command",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "7537d074248c2bfea6a330bdcf2b3cac4671c079",
+            "message": "update coding sytle in TaskBookParser",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 11725,
+        "deletions": 11661,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "d06bcb7fe5991bd70b295cac4080f5a3b04f9bef",
+            "message": "update undo and redo command",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "1030a195908f9061ab72ee35bef4dfe7966273f2",
+            "message": "implement undo and redo",
+            "insertions": 62,
+            "deletions": 4
+          },
+          {
+            "hash": "86f376f1476244a8846f867af90d059451bcf29d",
+            "message": "comment all tests for building the project successfully",
+            "insertions": 9824,
+            "deletions": 9826
+          },
+          {
+            "hash": "f1961c7445dce01a680dcc44ff26aecf7e8809d7",
+            "message": "update to the latest",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6e406524d7e8e7dbd949333e9b8000f63eeda78e",
+            "message": "update testing to pass Travis",
+            "insertions": 1730,
+            "deletions": 1730
+          },
+          {
+            "hash": "b22a825b4fb318a35917630f5f2f91fda4008aed",
+            "message": "testing: coding style 1.0",
+            "insertions": 96,
+            "deletions": 96
+          },
+          {
+            "hash": "641c04e00ae6b0e7a519c1b292ffdc035686075e",
+            "message": "testing: coding check 1.1",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "Wanchunwei": 198,
+    "cheahzk": 4417,
+    "jingchen-z": 193,
+    "BrittonAlone": 272,
+    "Zeyang-Li": 522
+  },
+  "authorContributionVariance": {
+    "Wanchunwei": 65369.32,
+    "cheahzk": 2388795.5,
+    "jingchen-z": 16073.596,
+    "BrittonAlone": 7557.513,
+    "Zeyang-Li": 1.8806818E7
+  },
+  "authorDisplayNameMap": {
+    "Wanchunwei": "WAN...WEI",
+    "cheahzk": "CHE...ANG",
+    "jingchen-z": "ZHA...HEN",
+    "BrittonAlone": "JIN...IBO",
+    "Zeyang-Li": "LI ...ANG"
+  }
+}

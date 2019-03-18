@@ -1,0 +1,757 @@
+{
+  "authorDailyContributionsMap": {
+    "wanchinglim": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 2,
+        "deletions": 1,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "4ef7aa9ff6aad0c0047ade357de62af0183eab0f",
+            "message": "Updated User Guide for \"List\" command",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "f3b2365728d867f9c99bf2d13b0a5be630dcc479",
+            "message": "Removed codacy badge from README",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 232,
+        "deletions": 107,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "2b8c0c0eaf3bc86abe87efbc84e8d7f8b70151c5",
+            "message": "Uploaded team portfolio documents",
+            "insertions": 216,
+            "deletions": 0
+          },
+          {
+            "hash": "d640a9580d879530c43e5a207ec5d3e9b7046e64",
+            "message": "Deleted johndoe.adoc",
+            "insertions": 0,
+            "deletions": 72
+          },
+          {
+            "hash": "8d4d1878c4943f5885ccd2f277570456e0f43798",
+            "message": "Updated wanchinglim.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "02fc08f5f03250e61153d969e2a379ca66dd172c",
+            "message": "Updated AboutUs.adoc",
+            "insertions": 14,
+            "deletions": 33
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      }
+    ],
+    "jemine1998": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 387,
+        "deletions": 117,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "bf398728b43517c222fd0ee4ca6d29d466ff94d6",
+            "message": "no message",
+            "insertions": 361,
+            "deletions": 13
+          },
+          {
+            "hash": "c140866f1e572a115a9a79319b92cca096d98536",
+            "message": "no message",
+            "insertions": 26,
+            "deletions": 19
+          },
+          {
+            "hash": "2283a0cf01f29d2b3c149058b7f2bccd041f0b8e",
+            "message": "no message",
+            "insertions": 0,
+            "deletions": 85
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "b8eb4d2b39417759f6829dda1372f8ea57729eaf",
+            "message": "updated display picture",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9b5c20f22ba5c255e73ff5ad9d6b7de9ca67270a",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 3,
+        "deletions": 4,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "1f739a696523889c7360a2074fafc7cdd7fda046",
+            "message": "Update jeminekan.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "58dc46df5a2247a3d054b059e591c1981dd56a79",
+            "message": "Update jeminekan.adoc",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 263,
+        "deletions": 15,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "52db91333d2034c080f03e4f6f6f1b99d632a60a",
+            "message": "adding 2 new commands, next and previous",
+            "insertions": 263,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 101,
+        "deletions": 84,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "26bd7ca6eb59ec93fe55dacd43a61a5c9eb0facb",
+            "message": "adding next command and previous command plus travis test changes",
+            "insertions": 94,
+            "deletions": 77
+          },
+          {
+            "hash": "510e5abc88d6a0689138335b2c41dc9ca2729233",
+            "message": "changes to new commands after refactoring",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      }
+    ],
+    "dannong": [
+      {
+        "insertions": 59,
+        "deletions": 22,
+        "date": "2019-02-16",
+        "commitResults": [
+          {
+            "hash": "ff51f87e533ebcc26a1521fbdc289e935570c392",
+            "message": "Update Developer Guide",
+            "insertions": 59,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 129,
+        "deletions": 48,
+        "date": "2019-02-17",
+        "commitResults": [
+          {
+            "hash": "f7d4740b9e60dadff1ad357ed9ea8d17b376fbce",
+            "message": "Update Developer Guide (2)",
+            "insertions": 110,
+            "deletions": 10
+          },
+          {
+            "hash": "096e30995646e4984708151b9da775cd89722eb5",
+            "message": "Update About Us",
+            "insertions": 10,
+            "deletions": 28
+          },
+          {
+            "hash": "7d003b963f7adea72dcbed70dbd9e8b7a832772d",
+            "message": "Update About Us (2)",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "32c4cad29a07d64f955f33462e654fa36ad6f0f0",
+            "message": "Update Contact Us",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a901a0fcd7427d5553d18aee14776e1f7b3d69c7",
+            "message": "Update Read Me",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "787a7f127bb9bfd22f4512d2f2bcf5662d599e8e",
+            "message": "Update Developer Guide (3)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 68,
+        "deletions": 186,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "0648efd29af5a9b861b6b85f8576321c6adc473b",
+            "message": "Revert to Original",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "60169f746a1e3985366943bd68f8f9fd0f798d09",
+            "message": "Revert to Original",
+            "insertions": 33,
+            "deletions": 170
+          },
+          {
+            "hash": "da3158451ea45a12f37cd14079f7b63397dc4882",
+            "message": "Revert to Original",
+            "insertions": 29,
+            "deletions": 11
+          },
+          {
+            "hash": "578b15e9b02d9f8c7d9b1de5c12c69e95d6887c1",
+            "message": "Revert to Original",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 11,
+        "deletions": 10,
+        "date": "2019-02-19",
+        "commitResults": [
+          {
+            "hash": "2100e3256ad9562ca9992851a0d400b974712d9c",
+            "message": "Revert \"Updates:\"",
+            "insertions": 11,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "97f930e0beacb56e10fe712f81cbabb2f1cda6b1",
+            "message": "Update photo for project list",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "87b1e2b5356986425a6c1c4c44ec34c1d9a66b28",
+            "message": "Update dannicaong.adoc",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "wanchinglim": 222,
+    "jemine1998": 604,
+    "dannong": 9
+  },
+  "authorContributionVariance": {
+    "wanchinglim": 3701.0405,
+    "jemine1998": 11123.574,
+    "dannong": 3105.1675
+  },
+  "authorDisplayNameMap": {
+    "wanchinglim": "LIM...ING",
+    "jemine1998": "JEM...KAN",
+    "dannong": "DAN...YUN"
+  }
+}

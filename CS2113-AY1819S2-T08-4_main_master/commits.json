@@ -1,0 +1,787 @@
+{
+  "authorDailyContributionsMap": {
+    "tantantan277": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 50,
+        "deletions": 37,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "ac559778c81b4cc97a5ea3dc5e3614c405cd8330",
+            "message": "Update User Guide without app name",
+            "insertions": 26,
+            "deletions": 13
+          },
+          {
+            "hash": "78b3d575bdf5152ebea2691b5f21095edfb72411",
+            "message": "Add newline at EOF",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ca7f0ef0d1dca204def017dbff35809d4a6f083f",
+            "message": "Revert \"Add newline at EOF\"",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4280715ecbc39d2903d846ad94c37a920995eba9",
+            "message": "Change app\u0027s layout",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "e668f0348153169f415b9d635367304920974e05",
+            "message": "Add endline",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 291,
+        "deletions": 225,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "eb5c2f235ed315e6c744b54bcfb05f1482c9c48d",
+            "message": "Refactor address to major, add sex and birthday class",
+            "insertions": 291,
+            "deletions": 225
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 1022,
+        "deletions": 528,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "a6475e8e819a613ffe39d2a7847db09330dd6fee",
+            "message": "Update test cases for new Person class attributes",
+            "insertions": 379,
+            "deletions": 186
+          },
+          {
+            "hash": "b66cbedcd2ea1525936ae9f92ae7ffd8bdd3e6c6",
+            "message": "Update main file for new Person class attributes",
+            "insertions": 296,
+            "deletions": 101
+          },
+          {
+            "hash": "78ded45eb18c0fb4909c59fd086f67c9d7de3bfc",
+            "message": "Fix checkstyles",
+            "insertions": 111,
+            "deletions": 56
+          },
+          {
+            "hash": "d90b7c909725323bca58c6c3455b3bf4e368c26b",
+            "message": "Fix checkstyles",
+            "insertions": 26,
+            "deletions": 20
+          },
+          {
+            "hash": "c94ac8d49d4a08d5646520111e8194c4e93dd57d",
+            "message": "Fix checkstyles",
+            "insertions": 27,
+            "deletions": 32
+          },
+          {
+            "hash": "d7d3e8892b2c326c5d7aaa287ce7ccc65146e738",
+            "message": "Fix checkstyles",
+            "insertions": 9,
+            "deletions": 11
+          },
+          {
+            "hash": "472d28fbb2c327e535015acc2733a77ec02bd3d6",
+            "message": "Fix checkstyles",
+            "insertions": 174,
+            "deletions": 122
+          }
+        ]
+      },
+      {
+        "insertions": 167,
+        "deletions": 114,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "62f4bdbb5fba255e3b593f00b5f2bb19e3e5af1a",
+            "message": "Update all test cases",
+            "insertions": 105,
+            "deletions": 111
+          },
+          {
+            "hash": "20dca282839576dddb1da5627451443450cefd55",
+            "message": "Fix checkstyles again",
+            "insertions": 62,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "ssunil3232": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "b1e8866ab35ebb9e9f7a792d2b788182d3a42b33",
+            "message": "Update of the ContactUs",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4058ad2cff34788b4d120070953a1bf834a9d589",
+            "message": "Change the Issue Tracker Link",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "shanseet": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 266,
+        "deletions": 70,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "d78b8478e0278c07d5dbb909615686107715155a",
+            "message": "Added \"Group\" attribute to person. UI does not display group name in PersonCard yet.",
+            "insertions": 231,
+            "deletions": 47
+          },
+          {
+            "hash": "4a72472884ca00e7098ec949441bbcb93969f606",
+            "message": "Updated Group Attribute for checkstyle",
+            "insertions": 24,
+            "deletions": 16
+          },
+          {
+            "hash": "438dc7bf514ed2356b647f3b7e2907f9592f62ff",
+            "message": "More Changes for checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "839d230991633ebcc053ac07fd3622ab7e046992",
+            "message": "More changes for checkstyle",
+            "insertions": 8,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 50,
+        "deletions": 28,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "4723073ffb9d0d8b2c182a7c5114f3469b3794bb",
+            "message": "Update README.adoc",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "6a50b1c974959d87276ad4569473c0acaf7bdd21",
+            "message": "Update Dev Guide v1",
+            "insertions": 35,
+            "deletions": 11
+          },
+          {
+            "hash": "ab170d50c1bb95d3e6415b56dfa6756bfdf25d5a",
+            "message": "Update Dev Guide v1.1",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2332960f9a9b4facc379777126d718b45d49c173",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d2f4f8dd9997f1fbb6cba105d536adda0d13b4f1",
+            "message": "Removed trailing whitespace from readme.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 624,
+        "deletions": 157,
+        "date": "2019-03-09",
+        "commitResults": [
+          {
+            "hash": "8ae67680fa7c8344d2d4ea0260c47b89ce7d3494",
+            "message": "AddGroupCommand created",
+            "insertions": 277,
+            "deletions": 0
+          },
+          {
+            "hash": "dfcd4b587baf8bdae92a2d825c725fc2ea192ced",
+            "message": "update for checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "4c414846680522788d0fae09aa29b24a0fb01fc0",
+            "message": "update for checkstyle",
+            "insertions": 78,
+            "deletions": 17
+          },
+          {
+            "hash": "36d67115db671ee0cc432f209c136cfe376bfb9d",
+            "message": "update for checkstyle",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "631391d16aaec3c7d32655ffba8ab4dfd66b85d6",
+            "message": "update for checkstyle",
+            "insertions": 13,
+            "deletions": 3
+          },
+          {
+            "hash": "03ad8e4e68cc1b441959321d2c2a040ef68ee45b",
+            "message": "update for checkstyle",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "459021c03f39d4d7c38760f8a78e0dd17d510181",
+            "message": "update for checkstyle",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "54d899b9e8146bd649aee65d104fc6d2208a9e9f",
+            "message": "Created AddHouseCommand",
+            "insertions": 115,
+            "deletions": 4
+          },
+          {
+            "hash": "e015f08694652d2377a1b11483ca00123e92c187",
+            "message": "Revert \"Created AddHouseCommand\"",
+            "insertions": 4,
+            "deletions": 115
+          },
+          {
+            "hash": "8cbd1bdd37b7aabdafb8d5b815cd86a34b3a315e",
+            "message": "Revert \"Revert \"Created AddHouseCommand\"\"",
+            "insertions": 115,
+            "deletions": 4
+          },
+          {
+            "hash": "45eed69d4a584030edc7bf6c472e2d7a78a26989",
+            "message": "update checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "258a07897d94733b763a02b004cb9a68e99dcf56",
+            "message": "update addressbookparser to accept command",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 4,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "c5f27589a1102674d2c2410d1b2727be886630cc",
+            "message": "remove getHouseNames in HouseStorage",
+            "insertions": 0,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      }
+    ],
+    "weizhang05": [
+      {
+        "insertions": 519,
+        "deletions": 54,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "3a8a321d5fb7e67c1d1eeeb4763c906fb37e33a2",
+            "message": "created enum for Role",
+            "insertions": 26,
+            "deletions": 0
+          },
+          {
+            "hash": "38e0d3c6ac105f4d8615afe10ac2bb9381f81200",
+            "message": "created skeleton class for appointments in FOP",
+            "insertions": 79,
+            "deletions": 0
+          },
+          {
+            "hash": "4c152a78b5f6d1f636648013fe5f81bbbc4dab8d",
+            "message": "renamed OGL to Ogl",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4db1c685da9a6540a03b862bb43b5f94181ce348",
+            "message": "changed naming convention attempt on fixing code style",
+            "insertions": 30,
+            "deletions": 13
+          },
+          {
+            "hash": "801580a134d8483690155c2b28444188dab3c11c",
+            "message": "attempt on fixing code style",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "1d19035c7ac4c86f264d8f16febadf76e119b0bd",
+            "message": "modified Participant class. extends on Person class.",
+            "insertions": 28,
+            "deletions": 1
+          },
+          {
+            "hash": "8e9df4639e0678ff46e50abd064454c891f4b42d",
+            "message": "modified all role class to suit the model structure of the FOP app",
+            "insertions": 14,
+            "deletions": 5
+          },
+          {
+            "hash": "82b4d7d732a97c4816d1b67482cbff29842bd0bf",
+            "message": "removed unnecessary imports, added more comments and reordering of imports",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "9e0d40aff061c43d241e48377120af52aca5e046",
+            "message": "shifted privilege getter from Privilege class to Participant class",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "86b22882e10a0ba3ebbba925ed89b0be7e5d9cbb",
+            "message": "created portfolio for indivudal members (each is maintained by respective members) and modified AboutUs",
+            "insertions": 303,
+            "deletions": 15
+          },
+          {
+            "hash": "94a04b9ae1511bd80b499436de79013494adde44",
+            "message": "fix style check on AboutUs",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e4baeab46fc2017b7cd2352081092c3694528b80",
+            "message": "created skeleton for randomize command",
+            "insertions": 19,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 13,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "a1e1d4f2291ae0e77b6624206b7542fec880faa3",
+            "message": "removed \u003cp\u003e tags",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "014c151befa7dcf1bec6c631352659d3652da313",
+            "message": "removed trailing white space",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "162093f1424067a2efaea52e2e7eb1a11deeb691",
+            "message": "modified AboutUs and added individual members profile pic",
+            "insertions": 10,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 19,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "800bcd7430e0b4d6c91e1f8155ebb9e25cf73950",
+            "message": "added test function to initiate PR",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "8db9a274675063270b84ca7ff98c5db00f99dfc4",
+            "message": "fixed styling issue",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "af76b4dc1e9466fb61730e406637b1b1d493250e",
+            "message": "removed Group in all roles",
+            "insertions": 8,
+            "deletions": 16
+          },
+          {
+            "hash": "3df036c7e349bdb03fbd9f0b6c3773a3d350add0",
+            "message": "added end of line in AboutUs",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cdb7766a91276e31aee640a9663b55ab4bead281",
+            "message": "fixed alignment of description",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "81a48a901ea8ba93525e023be20465acafaaacca",
+            "message": "edited comment to push tag v1.1",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "tantantan277": 1169,
+    "ssunil3232": 2,
+    "shanseet": 512,
+    "weizhang05": 447
+  },
+  "authorContributionVariance": {
+    "tantantan277": 149063.36,
+    "ssunil3232": 0.9375,
+    "shanseet": 39944.18,
+    "weizhang05": 19059.562
+  },
+  "authorDisplayNameMap": {
+    "tantantan277": "PHA...TAN",
+    "ssunil3232": "SON...NIL",
+    "shanseet": "SHA...ING",
+    "weizhang05": "CHA...ANG"
+  }
+}

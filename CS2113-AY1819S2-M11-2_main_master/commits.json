@@ -1,0 +1,1271 @@
+{
+  "authorDailyContributionsMap": {
+    "Justin-Ong": [
+      {
+        "insertions": 9,
+        "deletions": 12,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "2b250b8856edbd2832739185d8f1bceae782d6a5",
+            "message": "Updated README with new info.",
+            "insertions": 9,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 156,
+        "deletions": 9,
+        "date": "2019-02-24",
+        "commitResults": [
+          {
+            "hash": "a24c1a3087bd8c452a5d1d2b75d0f582e4fed809",
+            "message": "Create CalendarPanel, which programatically displays a calendar in grid format.",
+            "insertions": 120,
+            "deletions": 0
+          },
+          {
+            "hash": "64815d907ad044aecc732a926eab4579eae4d7b5",
+            "message": "Replace BrowserPanel with CalendarPanel in MainWindow. Leave CalendarPanel in but commented out for now, to be removed later.",
+            "insertions": 34,
+            "deletions": 7
+          },
+          {
+            "hash": "8711e709d6d92144a3bce6b23be12e35037f5f6b",
+            "message": "Add newline at EoF.",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "91b9267c78bc1d5535a67ad21ceb490ac77763c2",
+            "message": "CheckStyle fix.",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "6b9211ab92cf04bc671f6c3f31d49796e824b4d3",
+            "message": "CheckStyle fix.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 123,
+        "deletions": 399,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "7bd4dfedf7d93c22e1b052fad85a83a567752909",
+            "message": "Fix tests broken by PR #5.",
+            "insertions": 59,
+            "deletions": 323
+          },
+          {
+            "hash": "d184ffe5736e7ddb35e5892d251f7f09a6d98bf1",
+            "message": "Fix CheckStyle",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "3f0430fb86fb368d38b0a6fd73d24a69dd76ff99",
+            "message": "Update AboutUs.",
+            "insertions": 18,
+            "deletions": 28
+          },
+          {
+            "hash": "dc2ed23ec2795e3ee333f66183091603d3bbb181",
+            "message": "Revert \"Update AboutUs.\"",
+            "insertions": 28,
+            "deletions": 18
+          },
+          {
+            "hash": "c2c86f76599c5e01d05de684d170f6e063d90420",
+            "message": "Update AboutUs.",
+            "insertions": 18,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 55,
+        "deletions": 26,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "bc6b93030bd6def6ffa24f2c3fea34adcca67def",
+            "message": "Create skeleton for implementation.",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "19a4624f7a7832201491be657b56694bf7a72e93",
+            "message": "Implement month header for calendar.",
+            "insertions": 47,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "cc84424386a02f2fe65695075362743da236319c",
+            "message": "Change title of app to TaskManager",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 99,
+        "deletions": 33,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "ce657c897d4d9d5f60237588e11b7aa36167bfd8",
+            "message": "Split CalendarCell into its own class Add framework for date numbers and task lists in CalendarCell Update CalendarPanel accordingly",
+            "insertions": 98,
+            "deletions": 32
+          },
+          {
+            "hash": "90ce33ffb7272ed81612a1755b9f06a500d4276e",
+            "message": "Added newline to EOF",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 314,
+        "deletions": 245,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "757073fe049daa27beb2c9828149fc0909be89d5",
+            "message": "Update CalendarCell to fix background Add ScrollPane to CalendarCell to allow for multiple tasks in one cell.",
+            "insertions": 50,
+            "deletions": 11
+          },
+          {
+            "hash": "1f118b6c870f4f67aad1cb3731b2b694ef482e60",
+            "message": "Autogenerate the date for each CalendarCell.",
+            "insertions": 52,
+            "deletions": 14
+          },
+          {
+            "hash": "32fb8ab34b84949a064f9fd7ac09ec01936ca2ba",
+            "message": "Rename all Person... classes and files to Task...",
+            "insertions": 66,
+            "deletions": 65
+          },
+          {
+            "hash": "39009e48f5404119bf5954a0c6cfa423494f1724",
+            "message": "Rename ./model/person to ./model/task",
+            "insertions": 130,
+            "deletions": 130
+          },
+          {
+            "hash": "4da9a45cf7f2c5b6eab93161bdead03082ef8806",
+            "message": "Fix CheckStyle errors",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "637d0dccb196670a27d0e531007d3f811b8ba1ad",
+            "message": "Fix CheckStyle",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "b96c9fb7c0922ec96d1bd45efd6d9ac771662a54",
+            "message": "Prepare for integration of Tasks into Calendar",
+            "insertions": 4,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 117,
+        "deletions": 107,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "a4870ec6ea824d1ee3e3d3e30a2f1a3eb111a6b6",
+            "message": "Add comments",
+            "insertions": 71,
+            "deletions": 61
+          },
+          {
+            "hash": "308250b2b075f4456bcd9498f2ec847799a5643f",
+            "message": "Calendar fills using saved list of tasks automatically on startup.",
+            "insertions": 46,
+            "deletions": 46
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 33,
+        "deletions": 27,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "031e4afa1423496d61e835e020cbcfeb33597223",
+            "message": "Enable text wrapping on calendar cells Remove ugly scrollbars in calendar cells",
+            "insertions": 11,
+            "deletions": 4
+          },
+          {
+            "hash": "9be01f21c271f999bd609df405794c52a337eb8b",
+            "message": "Rename personListView to taskListView.",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "829258189967b504d528f57f10d0529751c589a4",
+            "message": "Fix checkstyle error",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "ffa8f809f05ab24a7e6590a3e5b35709cadbce82",
+            "message": "Fix test broken by renaming",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "80b982b52f4e480228273883fab5a7f12150dc7e",
+            "message": "Revert \"Rename personListView to taskListView.\"",
+            "insertions": 10,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 41,
+        "deletions": 4,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "833f1a3fb529fcfd852c71bd65cf687b77525514",
+            "message": "Change addTask() method from public to private.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a286ee651f60102fa63225d13a39cf5638e780e6",
+            "message": "Add Calendar section to Developer Guide.",
+            "insertions": 37,
+            "deletions": 0
+          },
+          {
+            "hash": "f273043c5fe90fbe3f873b7779c7a9f9fc93a1ab",
+            "message": "Fix image link.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "da200f2e3250af4455915cc9ca5e03d22c576a75",
+            "message": "Fix formatting in Dev Guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      }
+    ],
+    "Shengkok": [
+      {
+        "insertions": 63,
+        "deletions": 63,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "da9354e9e9f957f19bf1c074429fe9e8ce8be7b0",
+            "message": "User guide edit done",
+            "insertions": 62,
+            "deletions": 62
+          },
+          {
+            "hash": "d3d4084b70e572aa56fd346a8baddec69e4470f5",
+            "message": "Updated user guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 19,
+        "deletions": 19,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "c047f3b93cef433026d9acee389c491912407af7",
+            "message": "Update user guide",
+            "insertions": 18,
+            "deletions": 18
+          },
+          {
+            "hash": "cb2485ca3784b932b5670df377ea483a2dc5e59c",
+            "message": "Updated select function in User guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 565,
+        "deletions": 11,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "d540a9679dc9ac723388ec74f148ae01f9094079",
+            "message": "Add Notes Feature",
+            "insertions": 565,
+            "deletions": 8
+          },
+          {
+            "hash": "09d821e9111dcce971070ae310e11b83821d4518",
+            "message": "Fixed import statements",
+            "insertions": 0,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 145,
+        "deletions": 67,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "8e67a5cc4420720acfa0a0847ddfa12445f070b3",
+            "message": "Fixed checkstyle error",
+            "insertions": 95,
+            "deletions": 51
+          },
+          {
+            "hash": "559a9e817fc9296002b0cdeeeb5ab44af76d7caf",
+            "message": "Fixed more checkstyle errors",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "e1d596976e5fcd9fa3ab9780e318310c3dff2619",
+            "message": "Fix AddCommandTest",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "6de08d8c889c0a0c598aead252d85fe82892ea3d",
+            "message": "Added partial notes feature into developers\u0027 guide",
+            "insertions": 37,
+            "deletions": 4
+          },
+          {
+            "hash": "0a7115578635daaf9b13581ff766bd36ec965f7b",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f04d563ea2ab36a780e843a8b5a7a6987b4dc8d6",
+            "message": "Fixed an error in the javadoc",
+            "insertions": 1,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      }
+    ],
+    "khairulhazril": [
+      {
+        "insertions": 140,
+        "deletions": 35,
+        "date": "2019-02-18",
+        "commitResults": [
+          {
+            "hash": "fd5561e5f65ed9ef4fb0810afa49d075fc1fdcfa",
+            "message": "Updated Developer Guide",
+            "insertions": 140,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 7461,
+        "deletions": 7428,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "84336e3b0ce4d1620d9dcda0dc1aab8b4d36d43e",
+            "message": "Edit files to make a task manager",
+            "insertions": 5627,
+            "deletions": 6030
+          },
+          {
+            "hash": "1de8115d63701dcd639d4cb313e6a2f8d2596a5d",
+            "message": "Edit documents",
+            "insertions": 217,
+            "deletions": 1
+          },
+          {
+            "hash": "f0e92e51db2813db1c9713f1d4d5e1d2f34aa09e",
+            "message": "Edit to comply with checkstyle",
+            "insertions": 87,
+            "deletions": 65
+          },
+          {
+            "hash": "0a6ccec8d6232df04bdbd2bc7da695518f5e106d",
+            "message": "Format Task Manager class to comply with checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2757be6281132a6c9f4551e0557420aa76e1a84c",
+            "message": "Increase indentation of line 22 - 28 by 1 tab",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "9b0d13c7b4b7155d8f3fdff9f5c47039d572e76f",
+            "message": "Remove comment causing checkstyle error",
+            "insertions": 1,
+            "deletions": 7
+          },
+          {
+            "hash": "12a936f3a6556252c8285ed8bb572a4603586884",
+            "message": "Edit test cases to comply with check style",
+            "insertions": 1049,
+            "deletions": 847
+          },
+          {
+            "hash": "63d2c1a8c9245ba7a3c9abec2c98f6d4e8c4e6b8",
+            "message": "Comment out test cases causing error",
+            "insertions": 471,
+            "deletions": 469
+          }
+        ]
+      },
+      {
+        "insertions": 5806,
+        "deletions": 5773,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "4ef803da1cfd22b2db7656f888ef4b209fa2d62b",
+            "message": "Modify module code to allow suffix module codes and module codes invovling 3 alphabets",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "bc56678557fcc69d0e795d04b399e375b96a37cb",
+            "message": "Edit Module class to fix trailing whitespace error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6f39d0352cbc8f7701b1e478cfa8d1e25597743b",
+            "message": "Edit Module class to comply with checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f1d4bc498aa8400bcdc3831ae190492a13994652",
+            "message": "Edit Address Book Functions to Task Manager Functions",
+            "insertions": 5799,
+            "deletions": 5766
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 251,
+        "deletions": 37,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "c0c99798e92d55a315c8bf7ff636076c5491a67c",
+            "message": "Add Sort Function",
+            "insertions": 160,
+            "deletions": 8
+          },
+          {
+            "hash": "759bc4e7dc9683607916eda1253b537aef87dad4",
+            "message": "Edit files to match checkstyle",
+            "insertions": 23,
+            "deletions": 12
+          },
+          {
+            "hash": "b19d98d87c2c9bb88653f870001b7dba1da97535",
+            "message": "Remove trailing whitespace",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "ebb79dc3369f39614e975dc962092e0b79bf6615",
+            "message": "Add javadoc",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "adb9474133be70e04099fd08f48af4c5deb120e0",
+            "message": "Edit test case",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "18007cd36781a0f5ec34f035ed681132b8ed4400",
+            "message": "Remove whitespace in test case",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "433867e1aaa7eb19e8787bd9d0f11283fe05f6f1",
+            "message": "Remove unused imports",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "58b83d6621c2c8ac96859dd926cac07b35a763c0",
+            "message": "Add sort feature to User Guide",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "cedd4b45dfd8378e24ee2c129a922ecbc9e5f603",
+            "message": "Edit examples",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "cee661291ed5a2f9c89da91508ca40775900da57",
+            "message": "Edit message for priority",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "07a32683c6adb18a29d86d0e569c16f51f1369c2",
+            "message": "Update Developer Guide",
+            "insertions": 40,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      }
+    ],
+    "nicholasleeeee": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 7,
+        "deletions": 7,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "7f6a0d0bdb025092bb9878e053f8923382821883",
+            "message": "Changed file format to fit 2113 website",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "c2608196b5b9a4dd3bed93f42d363e11fc3b1972",
+            "message": "changed images name to lowercase",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "19a848222917d39c03f2ac278cad7f1b51a84625",
+            "message": "justin[ong] with lowercase \u0027o\u0027",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 224,
+        "deletions": 8,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "e1109a8c2e74f646adf7871d4b88e98a39030b20",
+            "message": "Added portfolio for the team",
+            "insertions": 220,
+            "deletions": 4
+          },
+          {
+            "hash": "1780d40999cbb333aca93264bbf308fec942bfce",
+            "message": "Changed headers for portfolio",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 735,
+        "deletions": 445,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "36453144e27a203c643efbd011e709bb9e68c0b7",
+            "message": "Added storage file and loginevent to store and check login",
+            "insertions": 219,
+            "deletions": 19
+          },
+          {
+            "hash": "2ede4f03996fa61e7c80f85f5ef39c4e728dbe6b",
+            "message": "Added comments to understand flow",
+            "insertions": 31,
+            "deletions": 6
+          },
+          {
+            "hash": "334c6e8dcd3bda0b844a691f194f5a0937c55a90",
+            "message": "Updated Developer Guide and User Guide",
+            "insertions": 66,
+            "deletions": 0
+          },
+          {
+            "hash": "355f0d3f2b9a81638ab29eafdc1b0e98f139bec7",
+            "message": "Removed whitespace in dependency",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "3b1ed700755f33ca003d9d2cbc8158b3dc57cd9b",
+            "message": "Test for build",
+            "insertions": 278,
+            "deletions": 141
+          },
+          {
+            "hash": "a371834170039dbf3a2cd055ba384ce23975e62a",
+            "message": "Remove white space",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "16dfd4a1f1936111bf915f13f8f4ee0c0256e767",
+            "message": "Finalised UGDG",
+            "insertions": 141,
+            "deletions": 277
+          }
+        ]
+      },
+      {
+        "insertions": 199,
+        "deletions": 113,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "1bc54e03d64b2da324600f42ee73e5b3e6ceb388",
+            "message": "Reformatted",
+            "insertions": 197,
+            "deletions": 107
+          },
+          {
+            "hash": "d4f01e1770c8bff9859b92f0b97bd6e4c8311288",
+            "message": "Rename files to follow checkstyle",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "3f499c149f20f424de1ac1a76a29fdcf95f7a7c6",
+            "message": "Reformatting for whitespaces and files",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "3c40c46adc9b25fa21505ad59b0a686235df1243",
+            "message": "Checkstyle check",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "428f1a2b9cb6169e43285357244d01349f89475e",
+            "message": "Remove whitespaces",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "Justin-Ong": 620,
+    "Shengkok": 713,
+    "khairulhazril": 6058,
+    "nicholasleeeee": 463
+  },
+  "authorContributionVariance": {
+    "Justin-Ong": 19929.91,
+    "Shengkok": 12509.937,
+    "khairulhazril": 1.1408949E7,
+    "nicholasleeeee": 49641.51
+  },
+  "authorDisplayNameMap": {
+    "Justin-Ong": "ONG...TIN",
+    "Shengkok": "LEW...KOK",
+    "khairulhazril": "KHA...IRI",
+    "nicholasleeeee": "LEE...LAS"
+  }
+}

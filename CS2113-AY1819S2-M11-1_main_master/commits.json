@@ -1,0 +1,1079 @@
+{
+  "authorDailyContributionsMap": {
+    "huyidi": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 62,
+        "deletions": 3,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "5df8886e88deaa78f4c40e765eb357a27c0498d6",
+            "message": "update about us",
+            "insertions": 59,
+            "deletions": 0
+          },
+          {
+            "hash": "9b908c0cd966b3d26d6cb498c586da21dbf9d8ea",
+            "message": "update image name",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 149,
+        "deletions": 1,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "c417ba15727f3afe40001bbb767f430bcaf71a6d",
+            "message": "added finance feature related things",
+            "insertions": 137,
+            "deletions": 0
+          },
+          {
+            "hash": "540daa1267656e67e80722beb4176eaef430754d",
+            "message": "update user guide",
+            "insertions": 12,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 60,
+        "deletions": 3,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "b54954d58f20e80d47d3901883585844b1bdd494",
+            "message": "update developer guide",
+            "insertions": 56,
+            "deletions": 0
+          },
+          {
+            "hash": "4d894cf4bca5e10936d91e2a8bcbc3e42fc07314",
+            "message": "fix problem in FinanceCommand",
+            "insertions": 4,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "warheade": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 483,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "5efcca84cf75915591083e59cd8afdedcac0f3da",
+            "message": "convert person to player add/delete/edit enabled update developer guide on use cases and glossary",
+            "insertions": 483,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      }
+    ],
+    "yingrong1996": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 417,
+        "deletions": 336,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "3fc71faeec464d0b5c6ff4210617994e422357f0",
+            "message": "Added Sort Command Updated Userguide",
+            "insertions": 51,
+            "deletions": 1
+          },
+          {
+            "hash": "70a352bbe6b42758360b6af2edd17201777cf00d",
+            "message": "Edited UserGuide",
+            "insertions": 66,
+            "deletions": 106
+          },
+          {
+            "hash": "d7f53965d7d8c0b0761a386de34a647e53248d2e",
+            "message": "Revert \"Edited UserGuide\"",
+            "insertions": 106,
+            "deletions": 66
+          },
+          {
+            "hash": "4864c9a9a1ef74735e73237203c885abc0ffbf37",
+            "message": "Revert \"Revert \"Edited UserGuide\"\"",
+            "insertions": 66,
+            "deletions": 106
+          },
+          {
+            "hash": "69452f9d92d71968b57f8cfff92e792267dab25d",
+            "message": "Updated Dev Guide",
+            "insertions": 128,
+            "deletions": 57
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 1007,
+        "deletions": 45,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "0bef9d45967cd99af5ec57541c34f22349bbce03",
+            "message": "Added Team Management Commands  -Add  -List  -Delete  -Find  -Clear  - Edit(Work in Progress) Make changes in Various files to enable team management feature.",
+            "insertions": 1007,
+            "deletions": 45
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      }
+    ],
+    "E0176106": [
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-02-13",
+        "commitResults": [
+          {
+            "hash": "6dee1d2ff775ac1b8ee59d7f9614f446c24c5b8c",
+            "message": "travis test",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1dc3ea66e872c98dbba3c2778f1b25220c161ca4",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 1,
+        "date": "2019-02-17",
+        "commitResults": [
+          {
+            "hash": "a162f43cc096d78062cdcbb14b61c450f6a40e71",
+            "message": "Update README.adoc",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 1563,
+        "deletions": 1010,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "010b8761c05ba8bbe849dfd325b32078d5cce9b6",
+            "message": "Update tools of AB3",
+            "insertions": 553,
+            "deletions": 4
+          },
+          {
+            "hash": "eeb47169c5f1643e93914ead3a2283c9892e6123",
+            "message": "Revert \"Update tools of AB3\"",
+            "insertions": 4,
+            "deletions": 553
+          },
+          {
+            "hash": "384bebb844bf38708559f21de640b09d16a7508a",
+            "message": "Update tools for AB3",
+            "insertions": 508,
+            "deletions": 4
+          },
+          {
+            "hash": "252ce2086a65bd51a76d93c96057f8c7b8886598",
+            "message": "Update LearningOutcomes.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2ca9f31858faf27530b0158489eb20282ab28bd6",
+            "message": "Disable checkstyle",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "dcb68169dc0744f7ea9ca314f612750268010a0b",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fef90c9ce06440182ec8de7a9c3295756cf905ec",
+            "message": "Add Match and MatchList class Update some documents",
+            "insertions": 148,
+            "deletions": 101
+          },
+          {
+            "hash": "20f8f525bd22f7f68163b66cbfe5ad32dabc0b25",
+            "message": "Revert \"Add Match and MatchList class\"",
+            "insertions": 101,
+            "deletions": 148
+          },
+          {
+            "hash": "b5ef62d1f725efdbab9ee8bf81fae2a1a5de67b6",
+            "message": "Update UI and UserGuide",
+            "insertions": 66,
+            "deletions": 101
+          },
+          {
+            "hash": "ac3a3a1a40b704ab031ff8ba93dac7028d8d3b4e",
+            "message": "Update UserGuide.adoc",
+            "insertions": 23,
+            "deletions": 0
+          },
+          {
+            "hash": "a47a09d76a92582d0d1d5cb7ba4e936419cb325a",
+            "message": "Update AboutUs.adoc",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "a541835fc98fb2a1ac3a27bdc5b35411e5cebbe9",
+            "message": "Update AboutUs.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "f7ed313379c0ce84d8243f871bd61bff042a0b13",
+            "message": "Update ContactUs.adoc",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "7086e3576d1d7f5ef4cd784f8938b03c0488c531",
+            "message": "Update DeveloperGuide",
+            "insertions": 128,
+            "deletions": 57
+          },
+          {
+            "hash": "e60b3eb2e6606cf38a6a08e0daaeb395e8168883",
+            "message": "Update README.adoc",
+            "insertions": 4,
+            "deletions": 23
+          },
+          {
+            "hash": "894b803dfa5289f911fe2bea75442ade88b5a6f9",
+            "message": "Update README.adoc",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "1b39880923388b2db7dc87779e010e2f7803b2c6",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b21005d1616069750852f417b12edfe468caf074",
+            "message": "Update UserGuide.adoc",
+            "insertions": 6,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 10,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "dc807003efd0b6fa36f5465615bd686a47fb1ba6",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 14,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 1054,
+        "deletions": 91,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "1c281efcbf30dec9e0df89603fca158a78385c64",
+            "message": "Add Match Management",
+            "insertions": 1034,
+            "deletions": 64
+          },
+          {
+            "hash": "d3f01cc690ad0f2ee3440180890aa45f8bf26781",
+            "message": "Fix Bug",
+            "insertions": 20,
+            "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "huyidi": 257,
+    "warheade": 483,
+    "yingrong1996": 1133,
+    "E0176106": 1695
+  },
+  "authorContributionVariance": {
+    "huyidi": 835.91,
+    "warheade": 6659.635,
+    "yingrong1996": 46408.496,
+    "E0176106": 221147.3
+  },
+  "authorDisplayNameMap": {
+    "huyidi": "HU ...IDI",
+    "warheade": "WAN...NAN",
+    "yingrong1996": "LEE...ONG",
+    "E0176106": "LEE...TIN"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "dashboardGeneratedTime": "Mon Mar 18 18:38:27 SGT 2019",
+  "repos": [
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-M11-1/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-M11-1"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-M11-1_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-M11-2/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-M11-2"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-M11-2_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-M11-3/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-M11-3"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-M11-3_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-T08-1/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-T08-1"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-T08-1_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-T08-2/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-T08-2"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-T08-2_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-T08-3/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-T08-3"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-T08-3_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-T08-4/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-T08-4"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-T08-4_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-T09-1/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-T09-1"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-T09-1_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-T09-2/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-T09-2"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-T09-2_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-T09-3/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-T09-3"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-T09-3_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-T11-1/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-T11-1"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-T11-1_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-T11-2/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-T11-2"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-T11-2_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/CS2113-AY1819S2-T11-3/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-T11-3"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-T11-3_main_master"
+    }
+  ]
+}
