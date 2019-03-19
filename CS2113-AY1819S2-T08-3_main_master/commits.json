@@ -4,6 +4,48 @@
       {
         "insertions": 0,
         "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-02-17",
         "commitResults": []
       },
@@ -186,6 +228,48 @@
       {
         "insertions": 0,
         "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-02-17",
         "commitResults": []
       },
@@ -365,6 +449,48 @@
       }
     ],
     "dingheng4448": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
       {
         "insertions": 110,
         "deletions": 19,
@@ -583,6 +709,48 @@
       {
         "insertions": 0,
         "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-02-17",
         "commitResults": []
       },
@@ -791,8 +959,8 @@
   "authorFinalContributionMap": {
     "seanieyap": 0,
     "marcus-pzj": 0,
-    "dingheng4448": 94,
-    "macchazuki": 7
+    "dingheng4448": 64,
+    "macchazuki": 4
   },
   "authorFileFormatContributionMap": {
     "seanieyap": {
@@ -830,7 +998,7 @@
       "xml": 0
     },
     "dingheng4448": {
-      "adoc": 88,
+      "adoc": 58,
       "cs": 0,
       "css": 0,
       "fxml": 0,
@@ -847,7 +1015,7 @@
       "xml": 0
     },
     "macchazuki": {
-      "adoc": 3,
+      "adoc": 0,
       "cs": 0,
       "css": 0,
       "fxml": 0,
@@ -867,8 +1035,8 @@
   "authorContributionVariance": {
     "seanieyap": 0.0,
     "marcus-pzj": 0.0,
-    "dingheng4448": 1254.4331,
-    "macchazuki": 503.91556
+    "dingheng4448": 1032.345,
+    "macchazuki": 412.62238
   },
   "authorDisplayNameMap": {
     "seanieyap": "SEA...ONG",

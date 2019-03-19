@@ -4,6 +4,42 @@
       {
         "insertions": 0,
         "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-02-16",
         "commitResults": []
       },
@@ -221,6 +257,42 @@
       }
     ],
     "jemine1998": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -468,6 +540,42 @@
       }
     ],
     "dannong": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
       {
         "insertions": 59,
         "deletions": 22,
@@ -740,13 +848,13 @@
     ]
   },
   "authorFinalContributionMap": {
-    "wanchinglim": 222,
-    "jemine1998": 604,
-    "dannong": 9
+    "wanchinglim": 151,
+    "jemine1998": 581,
+    "dannong": 5
   },
   "authorFileFormatContributionMap": {
     "wanchinglim": {
-      "adoc": 222,
+      "adoc": 151,
       "cs": 0,
       "css": 0,
       "fxml": 0,
@@ -763,13 +871,13 @@
       "xml": 0
     },
     "jemine1998": {
-      "adoc": 49,
+      "adoc": 48,
       "cs": 0,
       "css": 0,
       "fxml": 1,
       "gradle": 0,
       "html": 0,
-      "java": 554,
+      "java": 532,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -780,7 +888,7 @@
       "xml": 0
     },
     "dannong": {
-      "adoc": 9,
+      "adoc": 5,
       "cs": 0,
       "css": 0,
       "fxml": 0,
@@ -798,9 +906,9 @@
     }
   },
   "authorContributionVariance": {
-    "wanchinglim": 3701.0405,
-    "jemine1998": 11123.574,
-    "dannong": 3105.1675
+    "wanchinglim": 3102.25,
+    "jemine1998": 9417.251,
+    "dannong": 2632.8062
   },
   "authorDisplayNameMap": {
     "wanchinglim": "LIM...ING",

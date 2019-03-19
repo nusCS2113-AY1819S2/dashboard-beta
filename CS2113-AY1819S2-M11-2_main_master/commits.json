@@ -2,6 +2,54 @@
   "authorDailyContributionsMap": {
     "Justin-Ong": [
       {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
         "insertions": 9,
         "deletions": 12,
         "date": "2019-02-18",
@@ -393,6 +441,54 @@
     ],
     "Shengkok": [
       {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
         "insertions": 63,
         "deletions": 63,
         "date": "2019-02-18",
@@ -644,6 +740,54 @@
       }
     ],
     "khairulhazril": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
       {
         "insertions": 140,
         "deletions": 35,
@@ -971,6 +1115,54 @@
       {
         "insertions": 0,
         "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-02-18",
         "commitResults": []
       },
@@ -1251,20 +1443,20 @@
     ]
   },
   "authorFinalContributionMap": {
-    "Justin-Ong": 620,
-    "Shengkok": 713,
-    "khairulhazril": 6058,
-    "nicholasleeeee": 463
+    "Justin-Ong": 612,
+    "Shengkok": 692,
+    "khairulhazril": 5817,
+    "nicholasleeeee": 447
   },
   "authorFileFormatContributionMap": {
     "Justin-Ong": {
-      "adoc": 58,
+      "adoc": 57,
       "cs": 0,
       "css": 0,
       "fxml": 29,
       "gradle": 0,
       "html": 0,
-      "java": 533,
+      "java": 526,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1275,13 +1467,13 @@
       "xml": 0
     },
     "Shengkok": {
-      "adoc": 98,
+      "adoc": 97,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 615,
+      "java": 595,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1292,13 +1484,13 @@
       "xml": 0
     },
     "khairulhazril": {
-      "adoc": 184,
+      "adoc": 174,
       "cs": 0,
       "css": 1,
       "fxml": 20,
       "gradle": 0,
       "html": 1,
-      "java": 5767,
+      "java": 5536,
       "js": 0,
       "json": 85,
       "jsp": 0,
@@ -1309,13 +1501,13 @@
       "xml": 0
     },
     "nicholasleeeee": {
-      "adoc": 81,
+      "adoc": 80,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 1,
       "html": 0,
-      "java": 381,
+      "java": 366,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1327,10 +1519,10 @@
     }
   },
   "authorContributionVariance": {
-    "Justin-Ong": 19929.91,
-    "Shengkok": 12509.937,
-    "khairulhazril": 1.1408949E7,
-    "nicholasleeeee": 49641.51
+    "Justin-Ong": 16290.416,
+    "Shengkok": 9987.711,
+    "khairulhazril": 9088298.0,
+    "nicholasleeeee": 39516.887
   },
   "authorDisplayNameMap": {
     "Justin-Ong": "ONG...TIN",

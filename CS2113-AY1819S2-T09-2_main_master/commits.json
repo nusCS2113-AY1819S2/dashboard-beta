@@ -4,6 +4,60 @@
       {
         "insertions": 0,
         "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-02-19",
         "commitResults": []
       },
@@ -280,13 +334,170 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 618,
+        "deletions": 230,
         "date": "2019-03-18",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "58c8348e83f3f266672149857f249a46a1eb8d9e",
+            "message": "Add Edit feature",
+            "insertions": 453,
+            "deletions": 2
+          },
+          {
+            "hash": "4393d3e66a39608b844189f58731a732d36b1f2c",
+            "message": "coding style",
+            "insertions": 5,
+            "deletions": 8
+          },
+          {
+            "hash": "41148adee6c5f988071b82face33490bff51e3dd",
+            "message": "coding style2",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "f6c97cf0d6daf6f045ad386224d580640a97e121",
+            "message": "coding style3",
+            "insertions": 6,
+            "deletions": 61
+          },
+          {
+            "hash": "609aa0c31459d2b70642aa665562930585e13441",
+            "message": "coding style4",
+            "insertions": 28,
+            "deletions": 30
+          },
+          {
+            "hash": "2a66360bc20dfbccdf5aadb70dc3dbf76a3c3057",
+            "message": "coding style5",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fb664d7ac040b0183395c4b88072e781606d2596",
+            "message": "coding style6",
+            "insertions": 57,
+            "deletions": 53
+          },
+          {
+            "hash": "7deb4a9c6f27ce1492030c550c2e04b25c6578a5",
+            "message": "coding style7",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fb812b959db48c2895ef1ac1534357185a90597f",
+            "message": "coding style 8",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "ce6c4cbc5abe1b2b3fa2241675d563815009e0aa",
+            "message": "error correct",
+            "insertions": 9,
+            "deletions": 6
+          },
+          {
+            "hash": "3d2de6eb0e275f222eaf201b436eb2df9e778c7c",
+            "message": "white space",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "e06b82742f118cf349d88a255609012571c2e6b0",
+            "message": "correct listDate error",
+            "insertions": 2,
+            "deletions": 10
+          },
+          {
+            "hash": "9ba4272f30f4f319c76d439e4e1786a77d216a57",
+            "message": "white space",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "b35403545de2fa5d4f74f7d60c393875e2403ffd",
+            "message": "coding style 9",
+            "insertions": 8,
+            "deletions": 9
+          },
+          {
+            "hash": "d2214fe9705f2cf991965d703df2c1e8cff21430",
+            "message": "coding style 10",
+            "insertions": 22,
+            "deletions": 22
+          },
+          {
+            "hash": "1c6a19a65c64dd177a88ff242885c3d23d012e84",
+            "message": "coding style 11",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "862e0e88db87488123369260dfa41eeca2c4cec4",
+            "message": "coding style 12",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
       }
     ],
     "cheahzk": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -936,6 +1147,60 @@
     ],
     "jingchen-z": [
       {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
         "insertions": 2,
         "deletions": 2,
         "date": "2019-02-19",
@@ -1312,6 +1577,60 @@
       {
         "insertions": 0,
         "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-02-19",
         "commitResults": []
       },
@@ -1623,6 +1942,60 @@
       {
         "insertions": 0,
         "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-02-19",
         "commitResults": []
       },
@@ -1882,8 +2255,8 @@
         ]
       },
       {
-        "insertions": 11725,
-        "deletions": 11661,
+        "insertions": 11952,
+        "deletions": 11726,
         "date": "2019-03-18",
         "commitResults": [
           {
@@ -1927,27 +2300,87 @@
             "message": "testing: coding check 1.1",
             "insertions": 3,
             "deletions": 3
+          },
+          {
+            "hash": "dc2578c6f7f6b14e049cc27b7beb40d7da4140cb",
+            "message": "update userGuide",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "cc6b788bc64d94e046505f30a8390d59bedf6935",
+            "message": "update clearDate command",
+            "insertions": 151,
+            "deletions": 4
+          },
+          {
+            "hash": "fbaf1ec507e6f44d42a8439e893a5b923d15317b",
+            "message": "ClearDateCommand style checking 1.1",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "a673f40e049f5e033bea3e4c4af35e9b3ac85ab0",
+            "message": "ClearDateCommand 1.2",
+            "insertions": 18,
+            "deletions": 17
+          },
+          {
+            "hash": "3151eb6b3c431c700b80489ac1b78f480eac74dd",
+            "message": "ClearDateCommand 1.3",
+            "insertions": 13,
+            "deletions": 17
+          },
+          {
+            "hash": "5d9813f48138efcb47f38a7f91b12f5519b01ed9",
+            "message": "ClearDateCommand 1.4",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "2caedc61b5e24990ff92a5a3a4a8a75add4adffd",
+            "message": "update UserGuide and DeveloperGuide",
+            "insertions": 21,
+            "deletions": 10
+          },
+          {
+            "hash": "f96dfe6b9255effd586342773eb531ad6a3de237",
+            "message": "update project Portfolio",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "bff0c08f30a411f16543f5c467e4c9de7b50d879",
+            "message": "update project Portfolio 2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2b0f6d72d6cfc43ba02f157eb3a1dca257897fe9",
+            "message": "update prject portfolio 3",
+            "insertions": 6,
+            "deletions": 3
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Wanchunwei": 198,
-    "cheahzk": 4417,
-    "jingchen-z": 193,
-    "BrittonAlone": 272,
-    "Zeyang-Li": 522
+    "Wanchunwei": 337,
+    "cheahzk": 2475,
+    "jingchen-z": 50,
+    "BrittonAlone": 233,
+    "Zeyang-Li": 578
   },
   "authorFileFormatContributionMap": {
     "Wanchunwei": {
-      "adoc": 198,
+      "adoc": 124,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 0,
+      "java": 213,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1958,13 +2391,13 @@
       "xml": 0
     },
     "cheahzk": {
-      "adoc": 295,
+      "adoc": 81,
       "cs": 0,
       "css": 0,
-      "fxml": 49,
-      "gradle": 24,
+      "fxml": 9,
+      "gradle": 18,
       "html": 0,
-      "java": 4049,
+      "java": 2367,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1981,7 +2414,7 @@
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 183,
+      "java": 40,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1992,13 +2425,13 @@
       "xml": 0
     },
     "BrittonAlone": {
-      "adoc": 62,
+      "adoc": 54,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 210,
+      "java": 179,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -2009,13 +2442,13 @@
       "xml": 0
     },
     "Zeyang-Li": {
-      "adoc": 371,
+      "adoc": 326,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 151,
+      "java": 252,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -2027,11 +2460,11 @@
     }
   },
   "authorContributionVariance": {
-    "Wanchunwei": 65369.32,
-    "cheahzk": 2388795.5,
-    "jingchen-z": 16073.596,
-    "BrittonAlone": 7557.513,
-    "Zeyang-Li": 1.8806818E7
+    "Wanchunwei": 67112.59,
+    "cheahzk": 1866960.2,
+    "jingchen-z": 12371.706,
+    "BrittonAlone": 5847.079,
+    "Zeyang-Li": 1.4729297E7
   },
   "authorDisplayNameMap": {
     "Wanchunwei": "WAN...WEI",

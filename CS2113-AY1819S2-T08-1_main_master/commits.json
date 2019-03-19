@@ -2,6 +2,72 @@
   "authorDailyContributionsMap": {
     "quinnzzzzz": [
       {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
         "insertions": 1,
         "deletions": 1,
         "date": "2019-02-21",
@@ -166,6 +232,72 @@
       }
     ],
     "articstranger": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -387,7 +519,7 @@
         ]
       },
       {
-        "insertions": 103,
+        "insertions": 122,
         "deletions": 29,
         "date": "2019-03-18",
         "commitResults": [
@@ -426,11 +558,89 @@
             "message": "UserGuide: changed map command description and usage",
             "insertions": 8,
             "deletions": 7
+          },
+          {
+            "hash": "9e235e3d4ff9677ae7a0bc927d765675615f0eda",
+            "message": "DeveloperGuide: added documentation about mapping",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "cd262c8b118619b7be578b15bfe29e792691be4f",
+            "message": "DeveloperGuide: fixed ending tag of map section",
+            "insertions": 1,
+            "deletions": 0
           }
         ]
       }
     ],
     "wongyuqi": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -589,6 +799,72 @@
       }
     ],
     "ndhuu": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -849,7 +1125,7 @@
         ]
       },
       {
-        "insertions": 94,
+        "insertions": 138,
         "deletions": 63,
         "date": "2019-03-18",
         "commitResults": [
@@ -882,16 +1158,22 @@
             "message": "fix coding style",
             "insertions": 22,
             "deletions": 22
+          },
+          {
+            "hash": "ee4eaac9ba04b60f5104cb393b70cb8e382916f1",
+            "message": "Update DG, command line recommendation",
+            "insertions": 44,
+            "deletions": 0
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "quinnzzzzz": 3,
-    "articstranger": 49,
+    "quinnzzzzz": 5,
+    "articstranger": 205,
     "wongyuqi": 0,
-    "ndhuu": 2469
+    "ndhuu": 2393
   },
   "authorFileFormatContributionMap": {
     "quinnzzzzz": {
@@ -901,7 +1183,7 @@
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 3,
+      "java": 5,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -912,13 +1194,13 @@
       "xml": 0
     },
     "articstranger": {
-      "adoc": 16,
+      "adoc": 43,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 33,
+      "java": 162,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -946,13 +1228,13 @@
       "xml": 0
     },
     "ndhuu": {
-      "adoc": 364,
+      "adoc": 323,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 2105,
+      "java": 2070,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -964,10 +1246,10 @@
     }
   },
   "authorContributionVariance": {
-    "quinnzzzzz": 0.1479289,
-    "articstranger": 872.6524,
+    "quinnzzzzz": 0.105186254,
+    "articstranger": 775.7649,
     "wongyuqi": 0.0,
-    "ndhuu": 211044.23
+    "ndhuu": 155648.16
   },
   "authorDisplayNameMap": {
     "quinnzzzzz": "ZHA... RU",

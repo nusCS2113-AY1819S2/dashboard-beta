@@ -117,14 +117,14 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Acknowledgements"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -145,21 +145,21 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "Some parts of this sample application was inspired by the excellent"
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "http://code.makery.ch/library/javafx-8-tutorial/[Java FX tutorial] by Marco Jakob"
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -200,8 +200,8 @@
       }
     ],
     "authorContributionMap": {
-      "E0176106": 12,
-      "-": 16
+      "E0176106": 7,
+      "-": 21
     }
   },
   {
@@ -5153,7 +5153,7 @@
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5251,7 +5251,7 @@
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5475,7 +5475,7 @@
       {
         "lineNumber": 86,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5489,7 +5489,7 @@
       {
         "lineNumber": 88,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5853,7 +5853,7 @@
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6168,21 +6168,21 @@
       {
         "lineNumber": 185,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 186,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": "[appendix]"
       },
       {
         "lineNumber": 187,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Use Cases"
       },
@@ -6308,14 +6308,14 @@
       {
         "lineNumber": 205,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 206,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6329,21 +6329,21 @@
       {
         "lineNumber": 208,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 209,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": "*MSS*"
       },
       {
         "lineNumber": 210,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6413,28 +6413,28 @@
       {
         "lineNumber": 220,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 221,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 222,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 223,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6546,21 +6546,21 @@
       {
         "lineNumber": 239,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 240,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 241,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -6707,7 +6707,7 @@
       {
         "lineNumber": 262,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": "+"
       },
@@ -6721,14 +6721,14 @@
       {
         "lineNumber": 264,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 265,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": "[appendix]"
       },
@@ -6784,21 +6784,21 @@
       {
         "lineNumber": 273,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 274,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 275,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
         "content": "[appendix]"
       },
@@ -7085,7 +7085,7 @@
       {
         "lineNumber": 316,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7099,7 +7099,7 @@
       {
         "lineNumber": 318,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7112,1651 +7112,11 @@
       }
     ],
     "authorContributionMap": {
-      "huyidi": 56,
-      "warheade": 89,
-      "yingrong1996": 122,
-      "-": 42,
-      "E0176106": 10
-    }
-  },
-  {
-    "path": "docs/LearningOutcomes.adoc",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d Learning Outcomes"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ":site-section: LearningOutcomes"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ":toc: macro"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ":toc-title:"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ":toclevels: 1"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ":imagesDir: images"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ":stylesDir: stylesheets"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "ifdef::env-github[]"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ":note-caption: :information_source:"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "endif::[]"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "After studying this code and completing the corresponding exercises, you should be able to,"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "toc::[]"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Utilize User Stories `[LO-UserStories]`"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d References"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/specifyingRequirements/userStories/[se-edu/se-book: Requirements: Specifying Requirements: User Stories]"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Add more user stories"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Assume you are planing to expand the functionality of the AddressBook (but keep it as a CLI application)."
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "What other user stories do you think AddressBook should support? Add those user stories to the `DeveloperGuide.adoc`."
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Utilize use cases `[LO-UseCases]`"
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d References"
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 31,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/specifyingRequirements/useCases/[se-edu/se-book: Requirements: Specifying Requirements: Use Cases]"
-      },
-      {
-        "lineNumber": 32,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 33,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Add a \u0027Rename tag\u0027 use case"
-      },
-      {
-        "lineNumber": 34,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 35,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Add a use case to the `DeveloperGuide.adoc` to cover the case of _renaming of an existing tag_."
-      },
-      {
-        "lineNumber": 36,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "e.g. rename the tag `friends` to `buddies` (i.e. all persons who had the `friends` tag will now have"
-      },
-      {
-        "lineNumber": 37,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "a `buddies` tag instead)"
-      },
-      {
-        "lineNumber": 38,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "Assume that AddressBook confirms the change with the user before carrying out the operation."
-      },
-      {
-        "lineNumber": 39,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 40,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Use Non Functional Requirements `[LO-NFR]`"
-      },
-      {
-        "lineNumber": 41,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 42,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d References"
-      },
-      {
-        "lineNumber": 43,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 44,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/requirements/nonFunctionalRequirements/[se-edu/se-book: Requirements: Non-Functional Requirements]"
-      },
-      {
-        "lineNumber": 45,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 46,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Add more NFRs"
-      },
-      {
-        "lineNumber": 47,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 48,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Add some more NFRs to the `DeveloperGuide.adoc`"
-      },
-      {
-        "lineNumber": 49,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 50,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Use Polymorphism `[LO-Polymorphism]`"
-      },
-      {
-        "lineNumber": 51,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 52,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "Note how the `Command::execute()` method shows polymorphic behavior."
-      },
-      {
-        "lineNumber": 53,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 54,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d References"
-      },
-      {
-        "lineNumber": 55,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 56,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/oop/polymorphism/[se-edu/se-book: Paradigms: OOP: Polymorphism]"
-      },
-      {
-        "lineNumber": 57,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/cppToJava/inheritance/polymorphism/[se-edu/se-book: C++ to Java: OOP: Polymorphism]"
-      },
-      {
-        "lineNumber": 58,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 59,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Add a polymorphic `isMutating` method"
-      },
-      {
-        "lineNumber": 60,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 61,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Add a method `boolean isMutating()` to the `Command` class. This method will return `true` for"
-      },
-      {
-        "lineNumber": 62,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "command types that mutate the data. e.g. `AddCommand`"
-      },
-      {
-        "lineNumber": 63,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Currently, AddressBook data are saved to the file after every command."
-      },
-      {
-        "lineNumber": 64,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "Take advantage of the the new method you added to limit file saving to only for command types that mutate data."
-      },
-      {
-        "lineNumber": 65,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "i.e. `add` command should always save the data while `list` command should never save data to the file."
-      },
-      {
-        "lineNumber": 66,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 67,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "[NOTE]"
-      },
-      {
-        "lineNumber": 68,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d\u003d"
-      },
-      {
-        "lineNumber": 69,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "There may be better ways to limit file saving to commands that mutate data. The above approach, while not"
-      },
-      {
-        "lineNumber": 70,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "optimal, will give you chance to implement a polymorphic behavior."
-      },
-      {
-        "lineNumber": 71,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d\u003d"
-      },
-      {
-        "lineNumber": 72,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 73,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Use abstract classes/methods `[LO-Abstract]`"
-      },
-      {
-        "lineNumber": 74,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 75,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d References"
-      },
-      {
-        "lineNumber": 76,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 77,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/oop/inheritance/abstractClasses/[se-edu/se-book: Paradigms: OOP: Abstract Classes]"
-      },
-      {
-        "lineNumber": 78,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/cppToJava/inheritance/abstractClassesAndMethods/[se-edu/se-book: C++ to Java: OOP: Abstract Classes]"
-      },
-      {
-        "lineNumber": 79,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 80,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Make `Command#execute()` method abstract"
-      },
-      {
-        "lineNumber": 81,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 82,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Make the `Command#execute()` method abstract (hint: refer to the comment given below the method)"
-      },
-      {
-        "lineNumber": 83,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 84,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Use interfaces `[LO-Interfaces]`"
-      },
-      {
-        "lineNumber": 85,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 86,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "Note how the `Person` class implements the `ReadOnlyPerson` interface so that clients who don\u0027t need write access to `Person` objects can access `Person` objects through the `ReadOnlyPerson` interface instead."
-      },
-      {
-        "lineNumber": 87,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 88,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "image::ReadOnlyPersonUsage.png[width\u003d500]"
-      },
-      {
-        "lineNumber": 89,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 90,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d References"
-      },
-      {
-        "lineNumber": 91,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 92,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/oop/inheritance/interfaces/[se-edu/se-book: Paradigms: OOP: Abstract Interfaces]"
-      },
-      {
-        "lineNumber": 93,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/cppToJava/inheritance/interfaces/[se-edu/se-book: C++ to Java: OOP: Abstract Interfaces]"
-      },
-      {
-        "lineNumber": 94,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 95,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Add a `Printable` interface"
-      },
-      {
-        "lineNumber": 96,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 97,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Add a `Printable` interface as follows."
-      },
-      {
-        "lineNumber": 98,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "+"
-      },
-      {
-        "lineNumber": 99,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "image::PrintableInterface.png[width\u003d400]"
-      },
-      {
-        "lineNumber": 100,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* `Override` the `getPrintableString` in classes `Name`, `Phone`, `Email`, and `Address` so that each produces a printable string representation of the object. e.g. `Name: John Smith`, `Phone: 12349862`"
-      },
-      {
-        "lineNumber": 101,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Add the following method in a suitable place of some other class. Note how the method depends on the Interface."
-      },
-      {
-        "lineNumber": 102,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "+"
-      },
-      {
-        "lineNumber": 103,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "[source,java]"
-      },
-      {
-        "lineNumber": 104,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "----"
-      },
-      {
-        "lineNumber": 105,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "/**"
-      },
-      {
-        "lineNumber": 106,
-        "author": {
-          "gitId": "-"
-        },
-        "content": " * Returns a concatenated version of the printable strings of each object."
-      },
-      {
-        "lineNumber": 107,
-        "author": {
-          "gitId": "-"
-        },
-        "content": " */"
-      },
-      {
-        "lineNumber": 108,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "String getPrintableString(Printable... printables) {"
-      },
-      {
-        "lineNumber": 109,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "----"
-      },
-      {
-        "lineNumber": 110,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "+"
-      },
-      {
-        "lineNumber": 111,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "The above method can be used to get a printable string representing a bunch of person details."
-      },
-      {
-        "lineNumber": 112,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "For example, you should be able to call that method like this:"
-      },
-      {
-        "lineNumber": 113,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "+"
-      },
-      {
-        "lineNumber": 114,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "[source,java]"
-      },
-      {
-        "lineNumber": 115,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "----"
-      },
-      {
-        "lineNumber": 116,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "// p is a Person object"
-      },
-      {
-        "lineNumber": 117,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "return getPrintableString(p.getPhone(), p.getEmail(), p.getAddress());"
-      },
-      {
-        "lineNumber": 118,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "----"
-      },
-      {
-        "lineNumber": 119,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 120,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Follow Liskov Substitution Principle `[LO-LSP]`"
-      },
-      {
-        "lineNumber": 121,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 122,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d References"
-      },
-      {
-        "lineNumber": 123,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 124,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/principles/liskovSubstitutionPrinciple/[se-edu/se-book: Principles: Liskov Substitution Principle]"
-      },
-      {
-        "lineNumber": 125,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 126,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Add an exception to an overridden method"
-      },
-      {
-        "lineNumber": 127,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 128,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Add a `throws Exception` clause to the `AddCommand::execute` method. Notice how Java compiler will not allow it,"
-      },
-      {
-        "lineNumber": 129,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "unless you add the same `throws` clause to the parent class method. This is because if a child class throws"
-      },
-      {
-        "lineNumber": 130,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "an exception that is not specified by the Parent\u0027s contract, the child class is no longer substitutable in place of"
-      },
-      {
-        "lineNumber": 131,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "the parent class."
-      },
-      {
-        "lineNumber": 132,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Also note that while in the above example the compiler enforces LSP, there are other situations where it is up to"
-      },
-      {
-        "lineNumber": 133,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "the programmer to enforce it. For example, if the method in the parent class works for `null` input, the overridden"
-      },
-      {
-        "lineNumber": 134,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "method in the child class should not reject `null` inputs. This will not be enforced by the compiler."
-      },
-      {
-        "lineNumber": 135,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 136,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Use Java-FX for GUI programming `[LO-JavaFx]`"
-      },
-      {
-        "lineNumber": 137,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 138,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d References"
-      },
-      {
-        "lineNumber": 139,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 140,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/javaTools/javaFXBasic/[se-edu/se-book: Tools: Java: JavaFX: Basic]"
-      },
-      {
-        "lineNumber": 141,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 142,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Enhance GUI"
-      },
-      {
-        "lineNumber": 143,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 144,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Do some enhancements to the AddressBook GUI. e.g. add an application icon, change font size/style"
-      },
-      {
-        "lineNumber": 145,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 146,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Analyze Coupling and Cohesion of designs `[LO-CouplingCohesion]`"
-      },
-      {
-        "lineNumber": 147,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 148,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Notice how having a separate `Formattter` class (an application of the Single Responsibility Principle) improves the _cohesion_ of the `MainWindow` class as well as the `Formatter` class."
-      },
-      {
-        "lineNumber": 149,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 150,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d References"
-      },
-      {
-        "lineNumber": 151,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 152,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/designFundamentals/coupling/[se-edu/se-book: Design: Design Principles: Coupling]"
-      },
-      {
-        "lineNumber": 153,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/designFundamentals/cohesion/[se-edu/se-book: Design: Design Principles: Cohesion]"
-      },
-      {
-        "lineNumber": 154,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 155,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Identify places to reduce coupling and increase cohesion"
-      },
-      {
-        "lineNumber": 156,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 157,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Where else in the design coupling can be reduced further, or cohesion can be increased further?"
-      },
-      {
-        "lineNumber": 158,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 159,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "[[apply-dependency-inversion-principle-lo-dip]]"
-      },
-      {
-        "lineNumber": 160,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Apply Dependency Inversion Principle `[LO-DIP]`"
-      },
-      {
-        "lineNumber": 161,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 162,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d References"
-      },
-      {
-        "lineNumber": 163,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 164,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/principles/dependencyInversionPrinciple/[se-edu/se-book: Principles: Dependency Inversion Principle]"
-      },
-      {
-        "lineNumber": 165,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 166,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Invert dependency from Logic to Storage"
-      },
-      {
-        "lineNumber": 167,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 168,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Note how `Logic` class depends on the `StorageFile` class. This is a violation of DIP."
-      },
-      {
-        "lineNumber": 169,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Modify the implementation as follows so that both `Logic` and `StorageFile` now depend on the"
-      },
-      {
-        "lineNumber": 170,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "`abstract` class `Storage`."
-      },
-      {
-        "lineNumber": 171,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "+"
-      },
-      {
-        "lineNumber": 172,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "image::LogicStroageFileDIP.png[width\u003d300]"
-      },
-      {
-        "lineNumber": 173,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Where else in the code do you notice the application of DIP?"
-      },
-      {
-        "lineNumber": 174,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 175,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Use Dependency Injection `[LO-DI]`"
-      },
-      {
-        "lineNumber": 176,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 177,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "Note how `Logic` class depends on the `StorageFile` class. This means when testing the `Logic` class,"
-      },
-      {
-        "lineNumber": 178,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "our test cases execute the `StorageFile` class as well. What if we want to test the `Logic` class without"
-      },
-      {
-        "lineNumber": 179,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "getting the `StorageFile` class involved? That is a situation where we can use _Dependency Injection_."
-      },
-      {
-        "lineNumber": 180,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 181,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d References"
-      },
-      {
-        "lineNumber": 182,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 183,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/testing/dependencyInjection/[se-edu/se-book: Quality Assurance: Testing: Dependency Injection]"
-      },
-      {
-        "lineNumber": 184,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 185,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Facilitate injecting a StorageStub"
-      },
-      {
-        "lineNumber": 186,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 187,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Change the implementation as follows so that we can inject a `StorageStub` when testing the `Logic`"
-      },
-      {
-        "lineNumber": 188,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "class."
-      },
-      {
-        "lineNumber": 189,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "+"
-      },
-      {
-        "lineNumber": 190,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "image::DependencyInjection.png[width\u003d600]"
-      },
-      {
-        "lineNumber": 191,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "+"
-      },
-      {
-        "lineNumber": 192,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "[NOTE]"
-      },
-      {
-        "lineNumber": 193,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d\u003d"
-      },
-      {
-        "lineNumber": 194,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "If you did the exercise in \u003c\u003capply-dependency-inversion-principle-lo-dip, `LO-DIP`\u003e\u003e"
-      },
-      {
-        "lineNumber": 195,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "already but those changes are in a different branch, you may be able to reuse some of those commits"
-      },
-      {
-        "lineNumber": 196,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "by cherry picking them from that branch to the branch you created for this exercise."
-      },
-      {
-        "lineNumber": 197,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 198,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "Note: _cherry picking_ is simply copy-pasting a commit from one branch to another. In SourceTree, you can"
-      },
-      {
-        "lineNumber": 199,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "right-click on the commit your want to copy to the current branch, and choose \u0027Cherry pick\u0027."
-      },
-      {
-        "lineNumber": 200,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d\u003d"
-      },
-      {
-        "lineNumber": 201,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 202,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Implement the `StorageStub` such that calls to the `save` method do nothing (i.e. empty method body). +"
-      },
-      {
-        "lineNumber": 203,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Update the `LogicTest` to work with the `StorageStub` instead of the actual `StorageFile` object."
-      },
-      {
-        "lineNumber": 204,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "i.e. `Logic` injects a `StorageStub` object to replace the dependency of `Logic` on `StorageFile` before"
-      },
-      {
-        "lineNumber": 205,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "testing `Logic`."
-      },
-      {
-        "lineNumber": 206,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* The example above uses \u003c\u003capply-dependency-inversion-principle-lo-dip, DIP\u003e\u003e as a means to achieve DI."
-      },
-      {
-        "lineNumber": 207,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "Note that there is another way to inject a `StorageStub` object, as shown below."
-      },
-      {
-        "lineNumber": 208,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "In this case we do not apply the DIP but we still achieve DI."
-      },
-      {
-        "lineNumber": 209,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "+"
-      },
-      {
-        "lineNumber": 210,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "image::DependencyInjectionWithoutDIP.png[width\u003d250]"
-      },
-      {
-        "lineNumber": 211,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 212,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Apply Open-Closed Principle `[LO-OCP]`"
-      },
-      {
-        "lineNumber": 213,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 214,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d References"
-      },
-      {
-        "lineNumber": 215,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 216,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* https://se-edu.github.io/se-book/principles/openClosedPrinciple/[se-edu/se-book: Principles: Open-Closed Principle]"
-      },
-      {
-        "lineNumber": 217,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 218,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Analyze OCP-compliance of the `Logic` class"
-      },
-      {
-        "lineNumber": 219,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 220,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Consider adding a new command to the Address Book. e.g. an `edit` command. Notice how little you need to change in the `Logic` class to extend its behavior so that it can execute the new command."
-      },
-      {
-        "lineNumber": 221,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "That is because `Logic` follows the OCP i.e. `Logic` is _open to be extended_ with more commands but _closed for modifications_."
-      },
-      {
-        "lineNumber": 222,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* Is it possible to make the `Parser` class more OCP-compliant in terms of extending it to handle more"
-      },
-      {
-        "lineNumber": 223,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "command types?"
-      },
-      {
-        "lineNumber": 224,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "* In terms of how it saves data, does `Logic` become more OCP-compliant"
-      },
-      {
-        "lineNumber": 225,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "after applying DIP as given in \u003c\u003capply-dependency-inversion-principle-lo-dip, `LO-DIP`\u003e\u003e?"
-      },
-      {
-        "lineNumber": 226,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "How can you improve `Logic`\u0027s OCP-compliance further so that it can not only work with different types"
-      },
-      {
-        "lineNumber": 227,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "of storages, but different number of storages (e.g. save to both a text file and a database)."
-      },
-      {
-        "lineNumber": 228,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 229,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Work in a 3KLoC code base `[LO-3KLoC]`"
-      },
-      {
-        "lineNumber": 230,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 231,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Exercise: Enhance AddressBook"
-      },
-      {
-        "lineNumber": 232,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 233,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "* Enhance AddressBook in some way. e.g. add a new command"
-      }
-    ],
-    "authorContributionMap": {
-      "-": 232,
-      "E0176106": 1
+      "huyidi": 51,
+      "warheade": 71,
+      "yingrong1996": 118,
+      "-": 70,
+      "E0176106": 9
     }
   },
   {
@@ -9416,7 +7776,7 @@
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9514,7 +7874,7 @@
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9542,7 +7902,7 @@
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9570,7 +7930,7 @@
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9584,7 +7944,7 @@
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9612,7 +7972,7 @@
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9626,7 +7986,7 @@
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9647,7 +8007,7 @@
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9661,7 +8021,7 @@
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9675,7 +8035,7 @@
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9745,7 +8105,7 @@
       {
         "lineNumber": 141,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9773,7 +8133,7 @@
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9829,7 +8189,7 @@
       {
         "lineNumber": 153,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9843,7 +8203,7 @@
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9871,56 +8231,56 @@
       {
         "lineNumber": 159,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Exiting the program : `exit`"
       },
       {
         "lineNumber": 161,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 162,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "Exits the program. +"
       },
       {
         "lineNumber": 163,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "Format: `exit`"
       },
       {
         "lineNumber": 164,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 165,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "\u003d\u003d Saving the data"
       },
       {
         "lineNumber": 166,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10150,9 +8510,9 @@
       }
     ],
     "authorContributionMap": {
-      "huyidi": 12,
-      "E0176106": 105,
-      "-": 81
+      "huyidi": 8,
+      "E0176106": 87,
+      "-": 103
     }
   },
   {
@@ -14217,7 +12577,7 @@
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
         "content": "            + \"\\n\" + ViewCommand.MESSAGE_USAGE"
       },
@@ -14329,8 +12689,8 @@
     ],
     "authorContributionMap": {
       "huyidi": 1,
-      "yingrong1996": 9,
-      "-": 27,
+      "yingrong1996": 8,
+      "-": 28,
       "E0176106": 5
     }
   },
@@ -17099,14 +15459,14 @@
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -17799,8 +16159,8 @@
     ],
     "authorContributionMap": {
       "yingrong1996": 31,
-      "-": 81,
-      "E0176106": 61
+      "-": 83,
+      "E0176106": 59
     }
   },
   {
@@ -29639,7 +27999,7 @@
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -29660,14 +28020,14 @@
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -30164,8 +28524,8 @@
     ],
     "authorContributionMap": {
       "yingrong1996": 24,
-      "-": 91,
-      "E0176106": 24
+      "-": 94,
+      "E0176106": 21
     }
   },
   {
@@ -30454,7 +28814,7 @@
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -30706,7 +29066,7 @@
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -30748,7 +29108,7 @@
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -30853,7 +29213,7 @@
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -32967,16 +31327,16 @@
       {
         "lineNumber": 400,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       }
     ],
     "authorContributionMap": {
-      "huyidi": 21,
-      "yingrong1996": 71,
-      "-": 222,
-      "E0176106": 86
+      "huyidi": 20,
+      "yingrong1996": 68,
+      "-": 227,
+      "E0176106": 85
     }
   },
   {
@@ -33188,7 +31548,7 @@
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -33622,8 +31982,8 @@
     ],
     "authorContributionMap": {
       "yingrong1996": 14,
-      "-": 60,
-      "E0176106": 17
+      "-": 61,
+      "E0176106": 16
     }
   },
   {
@@ -35321,7 +33681,7 @@
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -35482,8 +33842,8 @@
     ],
     "authorContributionMap": {
       "yingrong1996": 10,
-      "-": 64,
-      "E0176106": 12
+      "-": 65,
+      "E0176106": 11
     }
   },
   {
@@ -35891,7 +34251,7 @@
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "            display(e.getMessage());"
       },
@@ -36164,7 +34524,7 @@
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "        display(result.feedbackToUser);"
       },
@@ -36199,7 +34559,7 @@
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "        display(MESSAGE_WELCOME, version, MESSAGE_PROGRAM_LAUNCH_ARGS_USAGE, storageFileInfo);"
       },
@@ -36220,7 +34580,7 @@
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -36311,21 +34671,21 @@
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 119,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 120,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "    /**"
       },
@@ -36395,21 +34755,21 @@
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
         "content": "    private void display(String... messages) {"
       },
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
         "content": "        outputConsole.setText(outputConsole.getText() + new Formatter().format(messages));"
       },
@@ -36429,9 +34789,9 @@
       }
     ],
     "authorContributionMap": {
-      "yingrong1996": 17,
-      "-": 97,
-      "E0176106": 20
+      "yingrong1996": 15,
+      "-": 107,
+      "E0176106": 12
     }
   },
   {

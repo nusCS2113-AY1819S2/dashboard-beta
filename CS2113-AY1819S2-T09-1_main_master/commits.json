@@ -4,6 +4,42 @@
       {
         "insertions": 0,
         "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-02-16",
         "commitResults": []
       },
@@ -410,13 +446,123 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 311,
+        "deletions": 11,
         "date": "2019-03-18",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "ee53f2e28ed2d409bf640d93fd70af17ae0c77df",
+            "message": "View: add UI for DegreePlannerList",
+            "insertions": 29,
+            "deletions": 0
+          },
+          {
+            "hash": "9a72a08bff36a6ff824804da881b9e322df9fd42",
+            "message": "View: update MainWindow to include UI for DegreePlannerList",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "47758ff6b7bbfb465af4448f97a21097b7ae7076",
+            "message": "Commands: add PlannerListAllCommand",
+            "insertions": 39,
+            "deletions": 0
+          },
+          {
+            "hash": "6f6688662d1176757fbddd0744494bdfb03fcd22",
+            "message": "Logic: update to include PlannerListAllCommand",
+            "insertions": 16,
+            "deletions": 1
+          },
+          {
+            "hash": "85bc6c8aa83e279d0a6d4a729f492dd8a077bf4b",
+            "message": "UI: add DegreePlanner related classes to handle UI for DegreePlannerList",
+            "insertions": 113,
+            "deletions": 0
+          },
+          {
+            "hash": "c7e475e6765f54530ed24775556438337e586b53",
+            "message": "UI: update MainWindow to handle DegreePlannerList",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "7c0abd07d1c6dda467b7470e01119f1707546472",
+            "message": "View: update BrowserPanel to be hidden",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1ec521f91d7518e71ae07e012fbba0c42065299f",
+            "message": "Test: update to include PlannerListAllCommand",
+            "insertions": 95,
+            "deletions": 0
+          },
+          {
+            "hash": "16af9845f04f2b6646d3a56fb18ad90fceecaac6",
+            "message": "Test: update HelpCommandSystemTest to not click on browserPannel",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "db59290fe394b2cf47be232e6d1ea5704d59e910",
+            "message": "Util: update SampleDegreePlannerUtil to include various modules",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "bf622a94c5b384bd96229ff7eb2b7920f72d93de",
+            "message": "UserGuide: update \u0027planner_list_all\u0027 (#94)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "WendyBaiYunwei": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -616,9 +762,51 @@
         "deletions": 0,
         "date": "2019-03-18",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
       }
     ],
     "Creastery": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -1352,8 +1540,8 @@
         "commitResults": []
       },
       {
-        "insertions": 137,
-        "deletions": 122,
+        "insertions": 491,
+        "deletions": 189,
         "date": "2019-03-18",
         "commitResults": [
           {
@@ -1373,11 +1561,143 @@
             "message": "build.gradle: upgrade TestFX dependency to 4.0.15-alpha (#84)",
             "insertions": 1,
             "deletions": 2
+          },
+          {
+            "hash": "35327667989b6069d4ca745ae786d387beecbe9b",
+            "message": "Model: add `Set\u003cCode\u003e` co-requisites to `Module`",
+            "insertions": 32,
+            "deletions": 13
+          },
+          {
+            "hash": "fa7f9b9b867faf80ca329f1ba752152663818634",
+            "message": "Logic/commands: make `AddCommand#parse(...)` accept co-requisites",
+            "insertions": 27,
+            "deletions": 9
+          },
+          {
+            "hash": "77a5f35b63ebac8fcb73e29fbb0e1e5c534bb674",
+            "message": "Model: update `Module#toString()` method",
+            "insertions": 15,
+            "deletions": 1
+          },
+          {
+            "hash": "a16e8b6441960056562f1966588f2cc270b46c2c",
+            "message": "Logic/commands: make `EditCommand#parse(...)` accept co-requisites",
+            "insertions": 49,
+            "deletions": 5
+          },
+          {
+            "hash": "b4d8d2a90298e569666ba99f677310055dc06a7a",
+            "message": "testutil: implement `ModuleBuilder#withCorequisites(...)`",
+            "insertions": 12,
+            "deletions": 1
+          },
+          {
+            "hash": "12858175402818074eeed3be9417d92fd0ccbf79",
+            "message": "Storage: make `JsonAdaptedModule` handle corequisites for saving/loading",
+            "insertions": 26,
+            "deletions": 9
+          },
+          {
+            "hash": "55eb410e2af18585bff9ee3e1f5903751072e576",
+            "message": "Logic/commands: handle invalid co-requisites cases",
+            "insertions": 50,
+            "deletions": 5
+          },
+          {
+            "hash": "60c53c0a6e950e0cf6fcef22c94288ba3864bdf0",
+            "message": "Ui: make `ModuleCard` handle co-requisites",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "196819d3420bf1c654026f562855be9c69682da1",
+            "message": "guitests: make `ModuleCardHandle` handle co-requisites",
+            "insertions": 23,
+            "deletions": 3
+          },
+          {
+            "hash": "287b6585ebc4eb1eaa783d9da569c8d56bd01f96",
+            "message": "Storage: make `JsonSerializableModuleList` handle invalid co-requisites",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "569c7856bb256060f5173bfc58d840c53d0ab02d",
+            "message": "test/storage: update `JsonSerializableAddressBook` test JSON file",
+            "insertions": 15,
+            "deletions": 8
+          },
+          {
+            "hash": "268f9b914cdd860df478faf5cbb834a528856734",
+            "message": "Model: make `AddressBook#removeModule(...)` remove deleted co-requisite",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "8ab39b829f7472c5eb8a3cf56a493f1fd91b4fd1",
+            "message": "docs/DeveloperGuide: update module co-requisites implementation details (#101)",
+            "insertions": 37,
+            "deletions": 0
+          },
+          {
+            "hash": "7806d0536ba2e8c4f3055d07c56a8b8dd7a414d4",
+            "message": "docs/UserGuide: update module-related command usages (#99)",
+            "insertions": 27,
+            "deletions": 12
+          },
+          {
+            "hash": "31797a01933b1b289778ae2f11dbb8f424eadfbf",
+            "message": "MainApp: bump `MainApp#VERSION` to v1.2.0 for release (#104)",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
       }
     ],
     "chyeo": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -1803,19 +2123,136 @@
         "commitResults": []
       },
       {
+        "insertions": 12,
+        "deletions": 10,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "a5aae05ed2190caed65ab8513a6c7f3d7157071a",
+            "message": "SampleDataUtil: update data in preparation for new command",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "7e4839e6b687d4ae0311c89de6445f3e24e08373",
+            "message": "RequirementCategoryBuilder: update to faciliate new command",
+            "insertions": 9,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 389,
+        "deletions": 33,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "8aa4241caa8433d48bf6917ad8f22e6c9954fa3e",
+            "message": " commands: add \u0027RequirementAddCommand\u0027 class with uninitialized methods",
+            "insertions": 72,
+            "deletions": 0
+          },
+          {
+            "hash": "902f9d989e15c3dbc8bf52d392f69b56a635d94a",
+            "message": "commands: initialize methods created in \u0027RequirementAddCommand\u0027 class",
+            "insertions": 81,
+            "deletions": 3
+          },
+          {
+            "hash": "5416804cee9fa3a331e0b3fb569abb17c9aa6b1c",
+            "message": "UniqueRequirementCategoryList: implement logic of initialized methods",
+            "insertions": 84,
+            "deletions": 0
+          },
+          {
+            "hash": "06652063d722b87bed84bdf934b044451b5afbf6",
+            "message": "parser: implementing \u0027RequirementAddCommandParser\u0027 for the new command",
+            "insertions": 63,
+            "deletions": 0
+          },
+          {
+            "hash": "9c49a7b05e7f0f843922117df016f98f8fcd47c1",
+            "message": "AddressBookParser: update to allow application to take in new command",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "f3cfd26fba619da53785f88464284237e758f100",
+            "message": "test: create new testcases for the implemented command",
+            "insertions": 81,
+            "deletions": 0
+          },
+          {
+            "hash": "bd0cf5aa0acc4bdd4d70d5890941dcfa9074a80f",
+            "message": "fix checkstyle issue",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "ed4bd10aeba6332c6d86abf9c1d1d9e09caa67d0",
+            "message": "Fix checkystyle issues",
+            "insertions": 0,
+            "deletions": 25
+          },
+          {
+            "hash": "576f6049c23c52863ce82a5fc5c9d6e0f4d46d30",
+            "message": "Fix checkystyle issues",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "abe90355d6af7a5700b5040ab2c4f16f1cbd2bd9",
+            "message": "UserGuide: update to reflect current implementation (#103)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "lycjackie": [
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-17",
+        "date": "2019-02-10",
         "commitResults": []
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-18",
+        "date": "2019-02-11",
         "commitResults": []
-      }
-    ],
-    "lycjackie": [
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
       {
         "insertions": 17,
         "deletions": 290,
@@ -2275,25 +2712,31 @@
         "deletions": 0,
         "date": "2019-03-18",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "truegitnovice": 1887,
+    "truegitnovice": 2086,
     "WendyBaiYunwei": 112,
-    "Creastery": 2343,
-    "chyeo": 1833,
-    "lycjackie": 655
+    "Creastery": 2625,
+    "chyeo": 2002,
+    "lycjackie": 614
   },
   "authorFileFormatContributionMap": {
     "truegitnovice": {
-      "adoc": 473,
+      "adoc": 382,
       "cs": 0,
       "css": 0,
-      "fxml": 0,
+      "fxml": 35,
       "gradle": 0,
       "html": 0,
-      "java": 1414,
+      "java": 1669,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -2321,15 +2764,15 @@
       "xml": 0
     },
     "Creastery": {
-      "adoc": 143,
+      "adoc": 195,
       "cs": 0,
       "css": 1,
       "fxml": 7,
       "gradle": 1,
       "html": 0,
-      "java": 2118,
+      "java": 2334,
       "js": 0,
-      "json": 73,
+      "json": 87,
       "jsp": 0,
       "md": 0,
       "py": 0,
@@ -2338,13 +2781,13 @@
       "xml": 0
     },
     "chyeo": {
-      "adoc": 139,
+      "adoc": 66,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 1667,
+      "java": 1909,
       "js": 0,
       "json": 27,
       "jsp": 0,
@@ -2355,13 +2798,13 @@
       "xml": 0
     },
     "lycjackie": {
-      "adoc": 149,
+      "adoc": 143,
       "cs": 0,
       "css": 0,
-      "fxml": 1,
+      "fxml": 0,
       "gradle": 2,
       "html": 0,
-      "java": 503,
+      "java": 469,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -2373,11 +2816,11 @@
     }
   },
   "authorContributionVariance": {
-    "truegitnovice": 64906.023,
-    "WendyBaiYunwei": 330.70776,
-    "Creastery": 303788.06,
-    "chyeo": 463212.53,
-    "lycjackie": 5968.2246
+    "truegitnovice": 55478.8,
+    "WendyBaiYunwei": 273.167,
+    "Creastery": 262442.44,
+    "chyeo": 387888.84,
+    "lycjackie": 5086.181
   },
   "authorDisplayNameMap": {
     "truegitnovice": "AHN...GYU",

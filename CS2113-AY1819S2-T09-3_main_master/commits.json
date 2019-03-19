@@ -4,6 +4,72 @@
       {
         "insertions": 0,
         "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-02-21",
         "commitResults": []
       },
@@ -131,6 +197,30 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
         "commitResults": []
       }
     ],
@@ -138,6 +228,72 @@
       {
         "insertions": 0,
         "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-02-21",
         "commitResults": []
       },
@@ -250,10 +406,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 48,
+        "deletions": 4,
         "date": "2019-03-12",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "9c7bb805605bae3500738e37946821b1b0f5dee0",
+            "message": "reforked removeTag",
+            "insertions": 43,
+            "deletions": 0
+          },
+          {
+            "hash": "cdb92fd197f9bbd5b1bfe9e3709c45e7e4eaa8b3",
+            "message": "fix checkstyle errors",
+            "insertions": 5,
+            "deletions": 4
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -266,9 +435,136 @@
         "deletions": 0,
         "date": "2019-03-14",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 10,
+        "deletions": 11,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "7e93059f443166427e5f3892e9c6d3c9d8e3eb1f",
+            "message": "checkstyle errors fix",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "18d56dee5a17bf9036df9bcb3adb4f4efc679d02",
+            "message": "fix breaks due to change in task variables",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "5d0e4fd203e46bc3635da09a0602cf4a41796c7d",
+            "message": "checkstye fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "14570b871a2c946e335cd7a422c71ac19ead4b99",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "94792584eded047e8aa7f154098c1f1e44e24018",
+            "message": "Change person to task",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1259475230516e53d86b54f10da55422baa0f0e1",
+            "message": "removed person in comments replaced with task",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "josephinetanadi": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
       {
         "insertions": 10,
         "deletions": 7,
@@ -466,9 +762,106 @@
             "deletions": 1629
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 42,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "c85983ba8b4f8581a87408a6db5a470bc402720c",
+            "message": "DeveloperGuide: update with import/export feature implementation",
+            "insertions": 42,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "arhjaye": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -599,6 +992,30 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
         "commitResults": []
       }
     ],
@@ -606,6 +1023,72 @@
       {
         "insertions": 0,
         "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-02-21",
         "commitResults": []
       },
@@ -734,14 +1217,38 @@
         "deletions": 0,
         "date": "2019-03-14",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
     "rachellim10": 0,
-    "gautamrajulu": 0,
-    "josephinetanadi": 2403,
-    "arhjaye": 0,
+    "gautamrajulu": 50,
+    "josephinetanadi": 2620,
+    "arhjaye": 2,
     "andreathniah": 0
   },
   "authorFileFormatContributionMap": {
@@ -769,7 +1276,7 @@
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 0,
+      "java": 50,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -780,13 +1287,13 @@
       "xml": 0
     },
     "josephinetanadi": {
-      "adoc": 57,
+      "adoc": 97,
       "cs": 0,
       "css": 0,
       "fxml": 2,
       "gradle": 0,
       "html": 0,
-      "java": 2297,
+      "java": 2474,
       "js": 0,
       "json": 47,
       "jsp": 0,
@@ -797,7 +1304,7 @@
       "xml": 0
     },
     "arhjaye": {
-      "adoc": 0,
+      "adoc": 2,
       "cs": 0,
       "css": 0,
       "fxml": 0,
@@ -833,8 +1340,8 @@
   },
   "authorContributionVariance": {
     "rachellim10": 0.0,
-    "gautamrajulu": 0.0,
-    "josephinetanadi": 452589.53,
+    "gautamrajulu": 81.107376,
+    "josephinetanadi": 282016.56,
     "arhjaye": 0.0,
     "andreathniah": 0.0
   },
