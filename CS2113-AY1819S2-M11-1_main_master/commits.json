@@ -261,6 +261,99 @@
             "deletions": 3
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 90,
+        "deletions": 41,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "0f2c2c4ae68b9057a173650df2bbee1512277908",
+            "message": "User Guide draft1",
+            "insertions": 90,
+            "deletions": 41
+          }
+        ]
+      },
+      {
+        "insertions": 97,
+        "deletions": 59,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "218c655732b16ea32c64f54c50d5c5ff3188538c",
+            "message": "Update DG",
+            "insertions": 97,
+            "deletions": 59
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 689,
+        "deletions": 247,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "452124021dd5a5158eff51c5f75ec7b49e9673c3",
+            "message": "enhance finance",
+            "insertions": 376,
+            "deletions": 23
+          },
+          {
+            "hash": "315835b458adf743e311573a80379e65399adb83",
+            "message": "enhance finance two",
+            "insertions": 240,
+            "deletions": 22
+          },
+          {
+            "hash": "61c4300f54cfa5a35404786d086ad904c7e32d78",
+            "message": "fix finance bug",
+            "insertions": 9,
+            "deletions": 80
+          },
+          {
+            "hash": "afa004f5636869dcdb86ea04adbe70fd883c9095",
+            "message": "fix coding style after enhance finance feature",
+            "insertions": 62,
+            "deletions": 104
+          },
+          {
+            "hash": "8c2a545ebc8df72764bb76641c4c8f930558abd0",
+            "message": "fix coding style two",
+            "insertions": 1,
+            "deletions": 16
+          },
+          {
+            "hash": "2278dc2c2f2471e0ceab60b4c01b22a021a48ef1",
+            "message": "fix coding style three",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2e3024996140dac4da3460ab7fe057a65b7e24d4",
+            "message": "fix trailing space",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "warheade": [
@@ -491,6 +584,49 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 50,
+        "deletions": 17,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "fbfe599210c3ec519eae24c54229f6bc6901a2a0",
+            "message": "updates DeveloperGuide",
+            "insertions": 50,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
         "commitResults": []
       }
     ],
@@ -750,9 +886,102 @@
         "commitResults": []
       },
       {
+        "insertions": 335,
+        "deletions": 28,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "578e7edacd61394ebab7f425711726db0da43b46",
+            "message": "Added EditTeam Function",
+            "insertions": 335,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 260,
+        "deletions": 165,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "b36fab66be7bbf8ac980b63f85e4ce304b6e46da",
+            "message": "Fix some codestyle",
+            "insertions": 25,
+            "deletions": 19
+          },
+          {
+            "hash": "5c76e02f09fa0b639ff3bee7adbfe0d8bac0f237",
+            "message": "Code edited to fit code style -1",
+            "insertions": 235,
+            "deletions": 146
+          }
+        ]
+      },
+      {
+        "insertions": 676,
+        "deletions": 560,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "ecefd25217cb5c0e0e51d1feeb494079c78d75bb",
+            "message": "Code edited to fit code style -2",
+            "insertions": 259,
+            "deletions": 247
+          },
+          {
+            "hash": "8d1833822b5bd4cf0b11d473657b176941ebaf20",
+            "message": "Code edited to fit code style -3",
+            "insertions": 171,
+            "deletions": 149
+          },
+          {
+            "hash": "5547b486887d14d38585267003093a501c2590eb",
+            "message": "Code edited to fit code style -4",
+            "insertions": 107,
+            "deletions": 76
+          },
+          {
+            "hash": "fa9da4b76352019254c7fbced5dfbb01a05f2e56",
+            "message": "Code edited to fit code style -5",
+            "insertions": 10,
+            "deletions": 5
+          },
+          {
+            "hash": "03e4fadfb72c2c37b63037691bdb1a3b55ba028a",
+            "message": "Code edited to fit code style -6",
+            "insertions": 128,
+            "deletions": 82
+          },
+          {
+            "hash": "17a82ec1db1c296817b8a62ec06fc40e8bdb2c54",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-18",
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
         "commitResults": []
       }
     ],
@@ -1127,90 +1356,89 @@
         "deletions": 0,
         "date": "2019-03-18",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 1,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "1266708dd64137a9c113c8738cb427739d8e3b22",
+            "message": "Update build.gradle",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 148,
+        "deletions": 109,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "1a0f2fb099dc824e749ac45d78c61cead048e478",
+            "message": "Update UserGuide",
+            "insertions": 148,
+            "deletions": 107
+          },
+          {
+            "hash": "bbf5559439632356555b35549adb171212a77e13",
+            "message": "Update UserGuide.adoc",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 175,
+        "deletions": 51,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "55f0566f92bb3f9641d1f00cea322aed8b227c65",
+            "message": "Enhance Match Class Add TicketSales Class",
+            "insertions": 170,
+            "deletions": 46
+          },
+          {
+            "hash": "41e164f048a0d29846686a639e9345440dcda67a",
+            "message": "Fix coding style",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "huyidi": 247,
-    "warheade": 465,
-    "yingrong1996": 1123,
-    "E0176106": 1654
-  },
-  "authorFileFormatContributionMap": {
-    "huyidi": {
-      "adoc": 110,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 137,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "warheade": {
-      "adoc": 71,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 394,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "yingrong1996": {
-      "adoc": 118,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 1005,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "E0176106": {
-      "adoc": 109,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 77,
-      "html": 0,
-      "java": 1036,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 432
-    }
+    "huyidi": 730,
+    "warheade": 458,
+    "yingrong1996": 1973,
+    "E0176106": 1788
   },
   "authorContributionVariance": {
-    "huyidi": 773.1147,
-    "warheade": 6134.6997,
-    "yingrong1996": 42855.633,
-    "E0176106": 204121.22
+    "huyidi": 20834.69,
+    "warheade": 5366.1196,
+    "yingrong1996": 73787.055,
+    "E0176106": 177506.05
   },
   "authorDisplayNameMap": {
     "huyidi": "HU ...IDI",

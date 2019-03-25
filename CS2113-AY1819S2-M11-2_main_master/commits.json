@@ -433,10 +433,194 @@
         ]
       },
       {
+        "insertions": 96,
+        "deletions": 11,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "1e8237ac80becc4da503128b7cf26a513f1e479d",
+            "message": "Enable dynamic updating of Calendar in real time",
+            "insertions": 17,
+            "deletions": 3
+          },
+          {
+            "hash": "d918814f6ff184c9b40809d1373d41164392a8d9",
+            "message": "Display calendar items in order of priority, highest first.",
+            "insertions": 78,
+            "deletions": 7
+          },
+          {
+            "hash": "c7c510cd0173749eb94992ebc312e4524b14369f",
+            "message": "Fix javadoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 63,
+        "deletions": 16,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "4c2703e3139fbbdc5a8188c991ad2588ede1c781",
+            "message": "Create CalendarCellTask class Assign colours to text based on priority",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "6855abf37ca6c2249602cb33308441f8b5979d59",
+            "message": "Sort tasks by priority Enable highlighting of currently selected task",
+            "insertions": 41,
+            "deletions": 7
+          },
+          {
+            "hash": "fae350c15ff76b323273cb552148df4e433cb3f2",
+            "message": "Enable scrolling of Calendar",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "acb74be594197743aca3b26ca299e46e58745693",
+            "message": "Fix scrollbars",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "0f4018fdafdebe9214b4a53cd29c78c5b62f4b33",
+            "message": "Revert \"Fix scrollbars\"",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "4a0c043a428f3b8a8384a802947098a4a23c478f",
+            "message": "Fix scrollbars",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8cdf13abf1f596dc1d4d76315a94de8f5bdbcfc5",
+            "message": "Add newline at EOF",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-18",
+        "date": "2019-03-20",
         "commitResults": []
+      },
+      {
+        "insertions": 18,
+        "deletions": 13,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "3d1c05885af3ae7b121e42470f890cb38a05f85d",
+            "message": "Update User Guide",
+            "insertions": 13,
+            "deletions": 7
+          },
+          {
+            "hash": "661f40ba546cd6c1d1dec11695bff6ac4ba3b878",
+            "message": "Update Readme with resized UI image",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2f8a2a58b222aca6d170edfe6989e152d2a41275",
+            "message": "Update userguide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c13577546a85046382266fb388fede4ab873570c",
+            "message": "Update Readme",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "68a3c2a922b0f4f83cb9f8fd649250c1c633027c",
+            "message": "Update UG",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 47,
+        "deletions": 325,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "711777a75ec0e134e8ffa6bc5591f9fd1de148ed",
+            "message": "Delete Learning Outcomes",
+            "insertions": 1,
+            "deletions": 271
+          },
+          {
+            "hash": "98b7ce80c70ad0a9aa2e3aeb3a3776bc7a259965",
+            "message": "Update Github Pages Remove SE-EDU header Update links in ContactUs and DevGuide",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "7e9c806f61bdf9ee1fafdfc2dab68cf50ddbf84f",
+            "message": "Update website",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "80605b9114609221ced155d634a1f405bd5111f9",
+            "message": "Update Documentation",
+            "insertions": 21,
+            "deletions": 19
+          },
+          {
+            "hash": "551727ee49e7581cfd5c0b5320b60de265040b81",
+            "message": "Update priority display",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "24a5b78e47c69bb7ca40bef76541542d7fd9a15b",
+            "message": "Add newline at EOF",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bb74f57f1bfdb70d374eb5629480fdbb479a56fa",
+            "message": "Code cleanup",
+            "insertions": 3,
+            "deletions": 14
+          },
+          {
+            "hash": "2c1c1ee772bf5287ae680807785f88a4aad4cdde",
+            "message": "Update ReadMe",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "667595b3a48bbb14f0b14f7d28e31064348be988",
+            "message": "Rename references to AddressBook to TaskManager",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
       }
     ],
     "Shengkok": [
@@ -736,6 +920,93 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 353,
+        "deletions": 18,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "de43fd3141907f7fee166d4995de677f9e7b0e24",
+            "message": "NullPointerException",
+            "insertions": 353,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "b4e01a0e76fb3029dda9e93a412f8a1acd7d18dd",
+            "message": "Fixed Null Pointer Exception and GUI",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 45,
+        "deletions": 36,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "a037929b3e57a09397fb19812747ce0a7d377c64",
+            "message": "Updated picture of GUI in User Guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a4450a942068903b414289ba78d52267c9994029",
+            "message": "Updated User Guide",
+            "insertions": 11,
+            "deletions": 7
+          },
+          {
+            "hash": "33e022fbb8f0f9d0d4834b0d6816b1e125618134",
+            "message": "Added lines at EOF",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "721fa8ae9db8705202855c6358f2104d13235b84",
+            "message": "Fixed Checkstyle",
+            "insertions": 24,
+            "deletions": 17
+          },
+          {
+            "hash": "02d5da34e2bf3e9d40aadcc35649c9a6967edd5e",
+            "message": "Fixed more checkstyle issues",
+            "insertions": 6,
+            "deletions": 8
+          },
+          {
+            "hash": "cf04555aa7d54cc753d0208cd00445a555c40fca",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
         "commitResults": []
       }
     ],
@@ -1105,10 +1376,147 @@
         ]
       },
       {
+        "insertions": 313,
+        "deletions": 11,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "1882b7d0a6d288f6103222a2c5f1b3de4ddc228a",
+            "message": "Add FindModule, FindName, FindPriority features",
+            "insertions": 312,
+            "deletions": 3
+          },
+          {
+            "hash": "302e08b4f98c138c2e90b24e7ba2bd3b8108af85",
+            "message": "Add EOF",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "92a633912b413ef3557e9771ca48e2766a2c8951",
+            "message": "Remove unused imports",
+            "insertions": 0,
+            "deletions": 7
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-18",
+        "date": "2019-03-19",
         "commitResults": []
+      },
+      {
+        "insertions": 784,
+        "deletions": 711,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "99ba608d800d71a7c8095a12c6e46a3ece8bc02a",
+            "message": "Remove Learning Outcomes Link in README",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "028cfec5872928ca97210cda3b9a0a5dbebac9a2",
+            "message": "Update User Guide",
+            "insertions": 768,
+            "deletions": 697
+          },
+          {
+            "hash": "d56b11b2976a2178c33f192e57fadd67c94c8615",
+            "message": "Add EOF for login.json",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1249dffe5fbb4b9d8a908dea2ae7704ce8eed675",
+            "message": "Edit test cases",
+            "insertions": 15,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "112aa9f6e09fcab0de3cbc4d6d9cfd3ca6b4c583",
+            "message": "Update User Guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 183,
+        "deletions": 161,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "e4f6781af17904045e6fd366892339b6515940ea",
+            "message": "Add sort by date feature",
+            "insertions": 180,
+            "deletions": 160
+          },
+          {
+            "hash": "ef836f0039fc6eb5f1465b7b90e16eea118d3171",
+            "message": "Edit file to match checkstyle",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 229,
+        "deletions": 48,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "33842ba9d7a0732bf3729523cba09516773739a3",
+            "message": "Add methods to check days till task is due",
+            "insertions": 46,
+            "deletions": 3
+          },
+          {
+            "hash": "8ff661a0b0133041df275e60609e6df235cd7afb",
+            "message": "Add Find Date Feature",
+            "insertions": 119,
+            "deletions": 20
+          },
+          {
+            "hash": "39fef0147c434ebf9097af30557187b4e61a386b",
+            "message": "Update files",
+            "insertions": 23,
+            "deletions": 16
+          },
+          {
+            "hash": "c7fcabac91fde2ff25d68cd99bdd7023e351769d",
+            "message": "Edit for checkstyle",
+            "insertions": 21,
+            "deletions": 1
+          },
+          {
+            "hash": "5e07b40d5881e9ef49123c0a157c182092f05183",
+            "message": "Add EOF",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ef19a8706e24f0af1a9ba523f4029140cf2707ea",
+            "message": "Fix checkstyle error",
+            "insertions": 19,
+            "deletions": 7
+          }
+        ]
       }
     ],
     "nicholasleeeee": [
@@ -1439,90 +1847,69 @@
             "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 28,
+        "deletions": 11,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "650358e34fecb6064807967f001d39e5ddfa3668",
+            "message": "Updated userguide for login features",
+            "insertions": 28,
+            "deletions": 8
+          },
+          {
+            "hash": "fa8f7b453e760f78882c4888a41d6de75610b0b2",
+            "message": "Updated user guide",
+            "insertions": 0,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Justin-Ong": 612,
-    "Shengkok": 692,
-    "khairulhazril": 5817,
-    "nicholasleeeee": 447
-  },
-  "authorFileFormatContributionMap": {
-    "Justin-Ong": {
-      "adoc": 57,
-      "cs": 0,
-      "css": 0,
-      "fxml": 29,
-      "gradle": 0,
-      "html": 0,
-      "java": 526,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "Shengkok": {
-      "adoc": 97,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 595,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "khairulhazril": {
-      "adoc": 174,
-      "cs": 0,
-      "css": 1,
-      "fxml": 20,
-      "gradle": 0,
-      "html": 1,
-      "java": 5536,
-      "js": 0,
-      "json": 85,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "nicholasleeeee": {
-      "adoc": 80,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 1,
-      "html": 0,
-      "java": 366,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "Justin-Ong": 726,
+    "Shengkok": 985,
+    "khairulhazril": 6515,
+    "nicholasleeeee": 345
   },
   "authorContributionVariance": {
-    "Justin-Ong": 16290.416,
-    "Shengkok": 9987.711,
-    "khairulhazril": 9088298.0,
-    "nicholasleeeee": 39516.887
+    "Justin-Ong": 16611.715,
+    "Shengkok": 11442.862,
+    "khairulhazril": 7868366.0,
+    "nicholasleeeee": 34229.05
   },
   "authorDisplayNameMap": {
     "Justin-Ong": "ONG...TIN",

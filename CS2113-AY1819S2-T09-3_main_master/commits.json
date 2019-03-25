@@ -222,6 +222,48 @@
         "deletions": 0,
         "date": "2019-03-18",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ],
     "gautamrajulu": [
@@ -496,6 +538,61 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 72,
+        "deletions": 25,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "5e7fb8a51fec95e1abac7c643f487bf2467fc1c9",
+            "message": "UserGuide: Update 1 - 4",
+            "insertions": 30,
+            "deletions": 22
+          },
+          {
+            "hash": "ece72068583b65b302a9fe4e1b65f890f1d9abdd",
+            "message": "ListCommand: enable listing of task and project",
+            "insertions": 42,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ],
     "josephinetanadi": [
@@ -793,6 +890,75 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 1129,
+        "deletions": 358,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "03af67d694ad026db86fdb0c2fd40f86c730c653",
+            "message": "import: allow project list startup and import command",
+            "insertions": 1050,
+            "deletions": 345
+          },
+          {
+            "hash": "70660cdaa9ecee0e7193579d1e8068cdcfb45b48",
+            "message": "UserGuide: update faq and command summary",
+            "insertions": 79,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 258,
+        "deletions": 115,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "bef0523d96b93438395e64a98cfad38d1e172644",
+            "message": "Export: project list startup and implement export feature",
+            "insertions": 258,
+            "deletions": 115
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 82,
+        "deletions": 39,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "a16d7ca95737d4988a60733414418a6b7392c69d",
+            "message": "Export: export feature and resolve project listing errors",
+            "insertions": 82,
+            "deletions": 39
+          }
+        ]
       }
     ],
     "arhjaye": [
@@ -1016,6 +1182,48 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
         "commitResults": []
       }
     ],
@@ -1241,107 +1449,62 @@
         "deletions": 0,
         "date": "2019-03-18",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
     "rachellim10": 0,
-    "gautamrajulu": 50,
-    "josephinetanadi": 2620,
+    "gautamrajulu": 117,
+    "josephinetanadi": 3734,
     "arhjaye": 2,
     "andreathniah": 0
   },
-  "authorFileFormatContributionMap": {
-    "rachellim10": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "gautamrajulu": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 50,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "josephinetanadi": {
-      "adoc": 97,
-      "cs": 0,
-      "css": 0,
-      "fxml": 2,
-      "gradle": 0,
-      "html": 0,
-      "java": 2474,
-      "js": 0,
-      "json": 47,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "arhjaye": {
-      "adoc": 2,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "andreathniah": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
-  },
   "authorContributionVariance": {
     "rachellim10": 0.0,
-    "gautamrajulu": 81.107376,
-    "josephinetanadi": 282016.56,
+    "gautamrajulu": 270.3905,
+    "josephinetanadi": 280886.97,
     "arhjaye": 0.0,
     "andreathniah": 0.0
   },

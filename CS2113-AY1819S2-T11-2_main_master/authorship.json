@@ -4269,77 +4269,77 @@
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "\u003d\u003d Finding all persons containing any keyword in their name: `find`"
+        "content": "\u003d\u003d Listing all appointments of a Doctor : `DoctorAppointments`"
       },
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
         "content": ""
       },
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "Finds persons whose names contain any of the given keywords. +"
+        "content": "Displays a list of all persons who have appointments with a specific doctor. "
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "Format: `find KEYWORD [MORE_KEYWORDS]`"
+        "content": "The list of persons are sorted by on chronological order of their appointment dates."
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "For easy-readability, only the name and appointment date of each person is displayed."
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "[NOTE]"
+        "content": ""
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "\u003d\u003d\u003d\u003d"
+        "content": "Examples: "
       },
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "The search is case sensitive, the order of the keywords does not matter, only the name is searched,"
+        "content": ""
       },
       {
         "lineNumber": 106,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "and persons matching at least one keyword will be returned (i.e. `OR` search)."
+        "content": "* `DoctorAppointments DoctorTan` +"
       },
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "\u003d\u003d\u003d\u003d"
+        "content": "Shows a list of all patients who have appointments with DoctorTan."
       },
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
         "content": ""
       },
@@ -4348,7 +4348,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Examples:"
+        "content": "\u003d\u003d Finding all persons containing any keyword in their name: `find`"
       },
       {
         "lineNumber": 110,
@@ -4362,14 +4362,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "* `find John` +"
+        "content": "Finds persons whose names contain any of the given keywords. +"
       },
       {
         "lineNumber": 112,
         "author": {
           "gitId": "-"
         },
-        "content": "Returns `John Doe` but not `john`."
+        "content": "Format: `find KEYWORD [MORE_KEYWORDS]`"
       },
       {
         "lineNumber": 113,
@@ -4383,49 +4383,49 @@
         "author": {
           "gitId": "-"
         },
-        "content": "* `find Betsy Tim John` +"
+        "content": "[NOTE]"
       },
       {
         "lineNumber": 115,
         "author": {
           "gitId": "-"
         },
-        "content": "Returns Any person having names `Betsy`, `Tim`, or `John`."
+        "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 116,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "The search is case sensitive, the order of the keywords does not matter, only the name is searched,"
       },
       {
         "lineNumber": 117,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Deleting a person : `delete`"
+        "content": "and persons matching at least one keyword will be returned (i.e. `OR` search)."
       },
       {
         "lineNumber": 118,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 119,
         "author": {
           "gitId": "-"
         },
-        "content": "Deletes the specified person from the address book. Irreversible. +"
+        "content": ""
       },
       {
         "lineNumber": 120,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `delete INDEX`"
+        "content": "Examples:"
       },
       {
         "lineNumber": 121,
@@ -4439,70 +4439,70 @@
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": "* `find John` +"
       },
       {
         "lineNumber": 123,
         "author": {
           "gitId": "-"
         },
-        "content": "Deletes the person at the specified `INDEX`."
+        "content": "Returns `John Doe` but not `john`."
       },
       {
         "lineNumber": 124,
         "author": {
           "gitId": "-"
         },
-        "content": "The index refers to the index number shown in the most recent listing."
+        "content": ""
       },
       {
         "lineNumber": 125,
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": "* `find Betsy Tim John` +"
       },
       {
         "lineNumber": 126,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Returns Any person having names `Betsy`, `Tim`, or `John`."
       },
       {
         "lineNumber": 127,
         "author": {
           "gitId": "-"
         },
-        "content": "Examples:"
+        "content": ""
       },
       {
         "lineNumber": 128,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d Deleting a person : `delete`"
       },
       {
         "lineNumber": 129,
         "author": {
           "gitId": "-"
         },
-        "content": "* `list` +"
+        "content": ""
       },
       {
         "lineNumber": 130,
         "author": {
           "gitId": "-"
         },
-        "content": "`delete 2` +"
+        "content": "Deletes the specified person from the address book. Irreversible. +"
       },
       {
         "lineNumber": 131,
         "author": {
           "gitId": "-"
         },
-        "content": "Deletes the 2nd person in the address book."
+        "content": "Format: `delete INDEX`"
       },
       {
         "lineNumber": 132,
@@ -4516,133 +4516,133 @@
         "author": {
           "gitId": "-"
         },
-        "content": "* `find Betsy` +"
+        "content": "****"
       },
       {
         "lineNumber": 134,
         "author": {
           "gitId": "-"
         },
-        "content": "`delete 1` +"
+        "content": "Deletes the person at the specified `INDEX`."
       },
       {
         "lineNumber": 135,
         "author": {
           "gitId": "-"
         },
-        "content": "Deletes the 1st person in the results of the `find` command."
+        "content": "The index refers to the index number shown in the most recent listing."
       },
       {
         "lineNumber": 136,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "****"
       },
       {
         "lineNumber": 137,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d View non-private details of a person : `view`"
+        "content": ""
       },
       {
         "lineNumber": 138,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Examples:"
       },
       {
         "lineNumber": 139,
         "author": {
           "gitId": "-"
         },
-        "content": "Displays the non-private details of the specified person. +"
+        "content": ""
       },
       {
         "lineNumber": 140,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `view INDEX`"
+        "content": "* `list` +"
       },
       {
         "lineNumber": 141,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "`delete 2` +"
       },
       {
         "lineNumber": 142,
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": "Deletes the 2nd person in the address book."
       },
       {
         "lineNumber": 143,
         "author": {
           "gitId": "-"
         },
-        "content": "Views the person at the specified `INDEX`."
+        "content": ""
       },
       {
         "lineNumber": 144,
         "author": {
           "gitId": "-"
         },
-        "content": "The index refers to the index number shown in the most recent listing."
+        "content": "* `find Betsy` +"
       },
       {
         "lineNumber": 145,
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": "`delete 1` +"
       },
       {
         "lineNumber": 146,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Deletes the 1st person in the results of the `find` command."
       },
       {
         "lineNumber": 147,
         "author": {
           "gitId": "-"
         },
-        "content": "Examples:"
+        "content": ""
       },
       {
         "lineNumber": 148,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d View non-private details of a person : `view`"
       },
       {
         "lineNumber": 149,
         "author": {
           "gitId": "-"
         },
-        "content": "* `list` +"
+        "content": ""
       },
       {
         "lineNumber": 150,
         "author": {
           "gitId": "-"
         },
-        "content": "`view 2` +"
+        "content": "Displays the non-private details of the specified person. +"
       },
       {
         "lineNumber": 151,
         "author": {
           "gitId": "-"
         },
-        "content": "Views the 2nd person in the address book."
+        "content": "Format: `view INDEX`"
       },
       {
         "lineNumber": 152,
@@ -4656,133 +4656,133 @@
         "author": {
           "gitId": "-"
         },
-        "content": "* `find Betsy` +"
+        "content": "****"
       },
       {
         "lineNumber": 154,
         "author": {
           "gitId": "-"
         },
-        "content": "`view 1` +"
+        "content": "Views the person at the specified `INDEX`."
       },
       {
         "lineNumber": 155,
         "author": {
           "gitId": "-"
         },
-        "content": "Views the 1st person in the results of the `find` command."
+        "content": "The index refers to the index number shown in the most recent listing."
       },
       {
         "lineNumber": 156,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "****"
       },
       {
         "lineNumber": 157,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d View all details of a person : `viewall`"
+        "content": ""
       },
       {
         "lineNumber": 158,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Examples:"
       },
       {
         "lineNumber": 159,
         "author": {
           "gitId": "-"
         },
-        "content": "Displays all details (including private details) of the specified person. +"
+        "content": ""
       },
       {
         "lineNumber": 160,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `viewall INDEX`"
+        "content": "* `list` +"
       },
       {
         "lineNumber": 161,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "`view 2` +"
       },
       {
         "lineNumber": 162,
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": "Views the 2nd person in the address book."
       },
       {
         "lineNumber": 163,
         "author": {
           "gitId": "-"
         },
-        "content": "Views all details of the person at the specified `INDEX`."
+        "content": ""
       },
       {
         "lineNumber": 164,
         "author": {
           "gitId": "-"
         },
-        "content": "The index refers to the index number shown in the most recent listing."
+        "content": "* `find Betsy` +"
       },
       {
         "lineNumber": 165,
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": "`view 1` +"
       },
       {
         "lineNumber": 166,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Views the 1st person in the results of the `find` command."
       },
       {
         "lineNumber": 167,
         "author": {
           "gitId": "-"
         },
-        "content": "Examples:"
+        "content": ""
       },
       {
         "lineNumber": 168,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d View all details of a person : `viewall`"
       },
       {
         "lineNumber": 169,
         "author": {
           "gitId": "-"
         },
-        "content": "* `list` +"
+        "content": ""
       },
       {
         "lineNumber": 170,
         "author": {
           "gitId": "-"
         },
-        "content": "`viewall 2` +"
+        "content": "Displays all details (including private details) of the specified person. +"
       },
       {
         "lineNumber": 171,
         "author": {
           "gitId": "-"
         },
-        "content": "Views all details of the 2nd person in the address book."
+        "content": "Format: `viewall INDEX`"
       },
       {
         "lineNumber": 172,
@@ -4796,70 +4796,70 @@
         "author": {
           "gitId": "-"
         },
-        "content": "* `find Betsy` +"
+        "content": "****"
       },
       {
         "lineNumber": 174,
         "author": {
           "gitId": "-"
         },
-        "content": "`viewall 1` +"
+        "content": "Views all details of the person at the specified `INDEX`."
       },
       {
         "lineNumber": 175,
         "author": {
           "gitId": "-"
         },
-        "content": "Views all details of the 1st person in the results of the `find` command."
+        "content": "The index refers to the index number shown in the most recent listing."
       },
       {
         "lineNumber": 176,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "****"
       },
       {
         "lineNumber": 177,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Clearing all entries : `clear`"
+        "content": ""
       },
       {
         "lineNumber": 178,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Examples:"
       },
       {
         "lineNumber": 179,
         "author": {
           "gitId": "-"
         },
-        "content": "Clears all entries from the address book. +"
+        "content": ""
       },
       {
         "lineNumber": 180,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `clear`"
+        "content": "* `list` +"
       },
       {
         "lineNumber": 181,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "`viewall 2` +"
       },
       {
         "lineNumber": 182,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Exiting the program : `exit`"
+        "content": "Views all details of the 2nd person in the address book."
       },
       {
         "lineNumber": 183,
@@ -4873,52 +4873,129 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Exits the program. +"
+        "content": "* `find Betsy` +"
       },
       {
         "lineNumber": 185,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `exit`"
+        "content": "`viewall 1` +"
       },
       {
         "lineNumber": 186,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Views all details of the 1st person in the results of the `find` command."
       },
       {
         "lineNumber": 187,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Saving the data"
+        "content": ""
       },
       {
         "lineNumber": 188,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d Clearing all entries : `clear`"
       },
       {
         "lineNumber": 189,
         "author": {
           "gitId": "-"
         },
-        "content": "Address book data are saved in the hard disk automatically after any command that changes the data."
+        "content": ""
       },
       {
         "lineNumber": 190,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Clears all entries from the address book. +"
       },
       {
         "lineNumber": 191,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Format: `clear`"
+      },
+      {
+        "lineNumber": 192,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 193,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d Exiting the program : `exit`"
+      },
+      {
+        "lineNumber": 194,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 195,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Exits the program. +"
+      },
+      {
+        "lineNumber": 196,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Format: `exit`"
+      },
+      {
+        "lineNumber": 197,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 198,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d Saving the data"
+      },
+      {
+        "lineNumber": 199,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 200,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Address book data are saved in the hard disk automatically after any command that changes the data."
+      },
+      {
+        "lineNumber": 201,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 202,
         "author": {
           "gitId": "-"
         },
@@ -4929,7 +5006,7 @@
       "liguanlong": 15,
       "shawn-t": 9,
       "-": 151,
-      "matthiaslum": 5,
+      "matthiaslum": 16,
       "WuPeiHsuan": 11
     }
   },
@@ -5237,42 +5314,42 @@
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "import java.util.Map;"
+        "content": "import java.io.FileInputStream;"
       },
       {
         "lineNumber": 4,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "import java.util.HashMap;"
+        "content": "import java.io.FileOutputStream;"
       },
       {
         "lineNumber": 5,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": ""
+        "content": "import java.io.IOException;"
       },
       {
         "lineNumber": 6,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "public class AccountManager {"
+        "content": "import java.util.Map;"
       },
       {
         "lineNumber": 7,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": ""
+        "content": "import java.util.HashMap;"
       },
       {
         "lineNumber": 8,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    private boolean loginStatus;"
+        "content": "import java.util.Properties;"
       },
       {
         "lineNumber": 9,
@@ -5286,231 +5363,231 @@
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    public static final String LOGIN_PROMPT \u003d \"Please login or register in order to use the address book\";"
+        "content": "public class AccountManager {"
       },
       {
         "lineNumber": 11,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    private static final String SUCCESS \u003d \"Login Success, loading...\";"
+        "content": ""
       },
       {
         "lineNumber": 12,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    private static final String REGISTRATION_SUCCEED \u003d \"Registration succeed, please login using the username and password\";"
+        "content": "    private boolean loginStatus;"
       },
       {
         "lineNumber": 13,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    private static final String Invalid_USERNAME_OR_PASSWORD \u003d \"Invalid username or password, please try again\";"
+        "content": ""
       },
       {
         "lineNumber": 14,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    private static final String Invalid_FORMAT \u003d \"Please login or register using: \" + \"\\n\" + \"login username password\" + \"\\n\" + \"register username password\";"
+        "content": "    public static final String LOGIN_PROMPT \u003d \"Please login or register in order to use the address book\";"
       },
       {
         "lineNumber": 15,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    private static final String USERNAME_REGISTERED \u003d \"The username has already been registered, please try a new username\";"
+        "content": "    private static final String SUCCESS \u003d \"Login Success, loading...\";"
       },
       {
         "lineNumber": 16,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    private Map\u003cString, String\u003e accounts \u003d new HashMap\u003cString, String\u003e();"
+        "content": "    private static final String REGISTRATION_SUCCEED \u003d \"Registration succeed, please login using the username and password\";"
       },
       {
         "lineNumber": 17,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": ""
+        "content": "    private static final String Invalid_USERNAME_OR_PASSWORD \u003d \"Invalid username or password, please try again\";"
       },
       {
         "lineNumber": 18,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": ""
+        "content": "    private static final String Invalid_FORMAT \u003d \"Please login or register using: \" + \"\\n\" + \"login username password\" + \"\\n\" + \"register username password\";"
       },
       {
         "lineNumber": 19,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    public AccountManager(){"
+        "content": "    private static final String USERNAME_REGISTERED \u003d \"The username has already been registered, please try a new username\";"
       },
       {
         "lineNumber": 20,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "        this.loginStatus \u003d false;"
+        "content": "    private Map\u003cString, String\u003e accounts \u003d new HashMap\u003cString, String\u003e();"
       },
       {
         "lineNumber": 21,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "        this.accounts.put(\"guanlong\", \"12345\");"
+        "content": ""
       },
       {
         "lineNumber": 22,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "        this.accounts.put(\"doctorA\", \"doctorA\");"
+        "content": ""
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    }"
+        "content": "    public AccountManager(){"
       },
       {
         "lineNumber": 24,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": ""
+        "content": "        this.loginStatus \u003d false;"
       },
       {
         "lineNumber": 25,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    public void setLoginStatus(boolean newStatus){"
+        "content": "        loadAccounts();"
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "        this.loginStatus \u003d newStatus;"
+        "content": "    }"
       },
       {
         "lineNumber": 27,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    }"
+        "content": ""
       },
       {
         "lineNumber": 28,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": ""
+        "content": "    public void setLoginStatus(boolean newStatus){"
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    public boolean getLoginStatus(){"
+        "content": "        this.loginStatus \u003d newStatus;"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "        return loginStatus;"
+        "content": "    }"
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    }"
+        "content": ""
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": ""
+        "content": "    public boolean getLoginStatus(){"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    public String accountCommandHandler(String userCommandText){"
+        "content": "        return loginStatus;"
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "        String[] accountInfo \u003d userCommandText.split(\" \");"
+        "content": "    }"
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "        try {"
+        "content": ""
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "            if (accountInfo.length \u003d\u003d 3 \u0026\u0026 accountInfo[0].equals(\"login\")) {"
+        "content": "    public String accountCommandHandler(String userCommandText){"
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                if (accounts.containsKey(accountInfo[1]) \u0026\u0026 accounts.get(accountInfo[1]).equals(accountInfo[2])) {"
+        "content": "        String[] accountInfo \u003d userCommandText.split(\" \");"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                    this.loginStatus \u003d true;"
+        "content": "        try {"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                    return SUCCESS;"
+        "content": "            if (accountInfo.length \u003d\u003d 3 \u0026\u0026 accountInfo[0].equals(\"login\")) {"
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                }"
+        "content": "                if (accounts.containsKey(accountInfo[1]) \u0026\u0026 accounts.get(accountInfo[1]).equals(accountInfo[2])) {"
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                else {"
+        "content": "                    this.loginStatus \u003d true;"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                    return Invalid_USERNAME_OR_PASSWORD;"
+        "content": "                    return SUCCESS;"
       },
       {
         "lineNumber": 43,
@@ -5524,98 +5601,98 @@
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "            }"
+        "content": "                else {"
       },
       {
         "lineNumber": 45,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "            else{"
+        "content": "                    return Invalid_USERNAME_OR_PASSWORD;"
       },
       {
         "lineNumber": 46,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                if (accountInfo.length \u003d\u003d 3 \u0026\u0026 accountInfo[0].equals(\"register\")){"
+        "content": "                }"
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                    String username \u003d accountInfo[1];"
+        "content": "            }"
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                    if (accounts.containsKey(accountInfo[1]))"
+        "content": "            else{"
       },
       {
         "lineNumber": 49,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                    {"
+        "content": "                if (accountInfo.length \u003d\u003d 3 \u0026\u0026 accountInfo[0].equals(\"register\")){"
       },
       {
         "lineNumber": 50,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                        return(USERNAME_REGISTERED);"
+        "content": "                    String username \u003d accountInfo[1];"
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                    }"
+        "content": "                    if (accounts.containsKey(accountInfo[1]))"
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                    String password \u003d accountInfo[2];"
+        "content": "                    {"
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                    register(username, password);"
+        "content": "                        return(USERNAME_REGISTERED);"
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                    return REGISTRATION_SUCCEED;"
+        "content": "                    }"
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                }"
+        "content": "                    String password \u003d accountInfo[2];"
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                else{"
+        "content": "                    register(username, password);"
       },
       {
         "lineNumber": 57,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "                    return Invalid_FORMAT;"
+        "content": "                    return REGISTRATION_SUCCEED;"
       },
       {
         "lineNumber": 58,
@@ -5629,28 +5706,28 @@
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "            }"
+        "content": "                else{"
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "        }"
+        "content": "                    return Invalid_FORMAT;"
       },
       {
         "lineNumber": 61,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "        catch (Exception e){"
+        "content": "                }"
       },
       {
         "lineNumber": 62,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "            return Invalid_FORMAT;"
+        "content": "            }"
       },
       {
         "lineNumber": 63,
@@ -5664,38 +5741,248 @@
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    }"
+        "content": "        catch (Exception e){"
       },
       {
         "lineNumber": 65,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": ""
+        "content": "            return Invalid_FORMAT;"
       },
       {
         "lineNumber": 66,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    private void register(String username, String password){"
+        "content": "        }"
       },
       {
         "lineNumber": 67,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "        accounts.put(username, password);"
+        "content": "    }"
       },
       {
         "lineNumber": 68,
         "author": {
           "gitId": "liguanlong"
         },
-        "content": "    }"
+        "content": ""
       },
       {
         "lineNumber": 69,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "    private void register(String username, String password){"
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "        accounts.put(username, password);"
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "    public void storeAccounts()"
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "    {"
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "            Properties accountsFile \u003d new Properties();"
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "            for (Map.Entry\u003cString, String\u003e entry: this.accounts.entrySet()){"
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "                accountsFile.put(entry.getKey(), entry.getValue());"
+      },
+      {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "            accountsFile.store(new FileOutputStream(\"accounts.properties\"), null);"
+      },
+      {
+        "lineNumber": 80,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "        } catch (IOException e)"
+      },
+      {
+        "lineNumber": 81,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "        {"
+      },
+      {
+        "lineNumber": 82,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 83,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 84,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 85,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 86,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "    private void loadAccounts()"
+      },
+      {
+        "lineNumber": 87,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "    {"
+      },
+      {
+        "lineNumber": 88,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 89,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "            Properties accountsFile \u003d new Properties();"
+      },
+      {
+        "lineNumber": 90,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "            accountsFile.load(new FileInputStream(\"accounts.properties\"));"
+      },
+      {
+        "lineNumber": 91,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "            for (String key : accountsFile.stringPropertyNames()){"
+      },
+      {
+        "lineNumber": 92,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "                this.accounts.put(key, accountsFile.get(key).toString());"
+      },
+      {
+        "lineNumber": 93,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 94,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "        }catch (IOException e)"
+      },
+      {
+        "lineNumber": 95,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "        {"
+      },
+      {
+        "lineNumber": 96,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 97,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 98,
+        "author": {
+          "gitId": "liguanlong"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 99,
         "author": {
           "gitId": "liguanlong"
         },
@@ -5703,7 +5990,7 @@
       }
     ],
     "authorContributionMap": {
-      "liguanlong": 69
+      "liguanlong": 99
     }
   },
   {
@@ -8723,6 +9010,288 @@
     }
   },
   {
+    "path": "src/seedu/addressbook/commands/SortCommand.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "package seedu.addressbook.commands;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.addressbook.data.AddressBook;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.addressbook.data.person.ReadOnlyPerson;"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.util.*;"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.lang.*;"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "//@@author WuPeiHsuan"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": " * Lists all persons in the address book in sorted order to the user."
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "public class SortCommand extends Command {"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public static final String COMMAND_WORD \u003d \"sort\";"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \":\\n\""
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "            + \"Displays all persons in the address book as a list sorted in alphabetical order with index numbers.\\n\\t\""
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "            + \"Example: \" + COMMAND_WORD;"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public final String attribute;"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public SortCommand(String attribute) {"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        this.attribute \u003d attribute;"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public CommandResult execute() {"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        addressBook.sorted(attribute);"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        List\u003cReadOnlyPerson\u003e allPersons \u003d addressBook.getAllPersons().immutableListView();"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        return new CommandResult(getMessageForPersonSortShownSummary(allPersons, attribute), allPersons);"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "}"
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "//@@author"
+      }
+    ],
+    "authorContributionMap": {
+      "-": 9,
+      "WuPeiHsuan": 30
+    }
+  },
+  {
     "path": "src/seedu/addressbook/commands/SortDate.java",
     "lines": [
       {
@@ -9382,348 +9951,355 @@
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "    //@@author WuPeiHsuan"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "     * Sorts all persons from the address book."
       },
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "     */"
       },
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": ""
       },
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "    public void sorted(String attribute) {"
       },
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "        attribute \u003d attribute.trim();"
       },
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "        switch (attribute) {"
       },
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "            case \"name\":"
       },
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "                allPersons.SortByName();"
       },
       {
         "lineNumber": 70,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "                break;"
       },
       {
         "lineNumber": 71,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "            case \"appointment\":"
       },
       {
         "lineNumber": 72,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "                allPersons.SortByAppointment();"
       },
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "                break;"
       },
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "            case \"status\":"
       },
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "                allPersons.SortByStatus();"
       },
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "                break;"
       },
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "        }"
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "    }"
       },
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "    //@@author"
       },
       {
         "lineNumber": 80,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": ""
       },
       {
         "lineNumber": 81,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Clears all persons from the address book."
+        "content": "    /**"
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "     * Clears all persons from the address book."
       },
       {
         "lineNumber": 83,
         "author": {
           "gitId": "-"
         },
-        "content": "    public void clear() {"
+        "content": "     */"
       },
       {
         "lineNumber": 84,
         "author": {
           "gitId": "-"
         },
-        "content": "        allPersons.clear();"
+        "content": "    public void clear() {"
       },
       {
         "lineNumber": 85,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        allPersons.clear();"
       },
       {
         "lineNumber": 86,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 87,
         "author": {
-          "gitId": "shawn-t"
+          "gitId": "-"
         },
-        "content": "    public int size() {"
+        "content": ""
       },
       {
         "lineNumber": 88,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        return allPersons.size();"
+        "content": "    public int size() {"
       },
       {
         "lineNumber": 89,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    }"
+        "content": "        return allPersons.size();"
       },
       {
         "lineNumber": 90,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "-"
+          "gitId": "shawn-t"
         },
-        "content": "    /**"
+        "content": ""
       },
       {
         "lineNumber": 92,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Defensively copied UniquePersonList of all persons in the address book at the time of the call."
+        "content": "    /**"
       },
       {
         "lineNumber": 93,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "     * Defensively copied UniquePersonList of all persons in the address book at the time of the call."
       },
       {
         "lineNumber": 94,
         "author": {
           "gitId": "-"
         },
-        "content": "    public UniquePersonList getAllPersons() {"
+        "content": "     */"
       },
       {
         "lineNumber": 95,
         "author": {
           "gitId": "-"
         },
-        "content": "        return new UniquePersonList(allPersons);"
+        "content": "    public UniquePersonList getAllPersons() {"
       },
       {
         "lineNumber": 96,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        return new UniquePersonList(allPersons);"
       },
       {
         "lineNumber": 97,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 98,
         "author": {
           "gitId": "-"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 99,
         "author": {
           "gitId": "-"
         },
-        "content": "    public boolean equals(Object other) {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 100,
         "author": {
           "gitId": "-"
         },
-        "content": "        return other \u003d\u003d this // short circuit if same object"
+        "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 101,
         "author": {
           "gitId": "-"
         },
-        "content": "                || (other instanceof AddressBook // instanceof handles nulls"
+        "content": "        return other \u003d\u003d this // short circuit if same object"
       },
       {
         "lineNumber": 102,
         "author": {
           "gitId": "-"
         },
-        "content": "                \u0026\u0026 this.allPersons.equals(((AddressBook) other).allPersons));"
+        "content": "                || (other instanceof AddressBook // instanceof handles nulls"
       },
       {
         "lineNumber": 103,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "                \u0026\u0026 this.allPersons.equals(((AddressBook) other).allPersons));"
       },
       {
         "lineNumber": 104,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 105,
         "author": {
           "gitId": "-"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 106,
         "author": {
           "gitId": "-"
         },
-        "content": "    public int hashCode() {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 107,
         "author": {
           "gitId": "-"
         },
-        "content": "        return allPersons.hashCode();"
+        "content": "    public int hashCode() {"
       },
       {
         "lineNumber": 108,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        return allPersons.hashCode();"
       },
       {
         "lineNumber": 109,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 110,
         "author": {
           "gitId": "-"
         },
@@ -9732,7 +10308,8 @@
     ],
     "authorContributionMap": {
       "shawn-t": 4,
-      "-": 105
+      "-": 86,
+      "WuPeiHsuan": 20
     }
   },
   {
@@ -10154,40 +10731,54 @@
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    /**compare name for sorting function*/"
+        "content": "    //@@author WuPeiHsuan"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    @Override"
+        "content": "    /**compare name for sorting function*/"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    public int compareTo(Appointment appointment) {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "        return this.appointmentDate.compareTo(appointment.appointmentDate);"
+        "content": "    public int compareTo(Appointment appointment) {"
       },
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        return this.appointmentDate.compareTo(appointment.appointmentDate);"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "WuPeiHsuan"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 65,
+        "lineNumber": 66,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    //@@author"
+      },
+      {
+        "lineNumber": 67,
         "author": {
           "gitId": "matthiaslum"
         },
@@ -10196,7 +10787,8 @@
     ],
     "authorContributionMap": {
       "matthiaslum": 59,
-      "-": 6
+      "-": 1,
+      "WuPeiHsuan": 7
     }
   },
   {
@@ -13065,6 +13657,484 @@
     }
   },
   {
+    "path": "src/seedu/addressbook/data/person/Status.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "package seedu.addressbook.data.person;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.addressbook.data.exception.IllegalValueException;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.util.Arrays;"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.util.List;"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "//@@author WuPeiHsuan"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "public class Status implements Comparable\u003cStatus\u003e{"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public static final String EXAMPLE \u003d \"Observation\";"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public static final String MESSAGE_NAME_CONSTRAINTS \u003d \"Status should be Observation/ Critical / Waiting for Surgery \" +"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "            \"/ Therapy / Life-support / Waiting for doctor appointment\";"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public static final String NAME_VALIDATION_REGEX \u003d \"[\\\\p{Alnum} ]+\";"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public final String status;"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "     * Validates given status."
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "     *"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "     * @throws IllegalValueException if given status string is invalid."
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public Status(String status) throws IllegalValueException {"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        status \u003d status.trim();"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        if (!isValidStatus(status)) {"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "            throw new IllegalValueException(MESSAGE_NAME_CONSTRAINTS);"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        this.status \u003d status;"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "     * Returns true if a given string is a valid status."
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public static boolean isValidStatus(String test) {"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        return test.matches(NAME_VALIDATION_REGEX);"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public String toString() {"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        return status;"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public boolean equals(Object other) {"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        return other \u003d\u003d this // short circuit if same object"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "                || (other instanceof Status // instanceof handles nulls"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "                \u0026\u0026 this.status.equals(((Status) other).status)); // state check"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public int hashCode() {"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        return status.hashCode();"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    /**compare status for sorting function*/"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public int compareTo(Status status) {"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        return this.status.compareTo(status.status);"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "}"
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "//@@author"
+      }
+    ],
+    "authorContributionMap": {
+      "-": 7,
+      "WuPeiHsuan": 60
+    }
+  },
+  {
     "path": "src/seedu/addressbook/data/person/UniquePersonList.java",
     "lines": [
       {
@@ -13945,341 +15015,355 @@
       {
         "lineNumber": 126,
         "author": {
-          "gitId": "shawn-t"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    /*"
+        "content": "    //@@author WuPeiHsuan"
       },
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "     * Sorts all persons in list by name."
+        "content": "    /**"
       },
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "     */"
+        "content": "     * Sorts all persons in list by name."
       },
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    public void SortByName(){"
+        "content": "     */"
       },
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "        Comparator\u003cPerson\u003e person \u003d (p1, p2) -\u003e {"
+        "content": "    public void SortByName(){"
       },
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "            Name name1 \u003d p1.getName();"
+        "content": "        Comparator\u003cPerson\u003e person \u003d (p1, p2) -\u003e {"
       },
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "            Name name2 \u003d p2.getName();"
+        "content": "            Name name1 \u003d p1.getName();"
       },
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "            return name1.compareTo(name2);"
+        "content": "            Name name2 \u003d p2.getName();"
       },
       {
         "lineNumber": 134,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "        };"
+        "content": "            return name1.compareTo(name2);"
       },
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "        Collections.sort(internalList, person);"
+        "content": "        };"
       },
       {
         "lineNumber": 136,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    }"
+        "content": "        Collections.sort(internalList, person);"
       },
       {
         "lineNumber": 137,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    public void SortByAppointment(){"
+        "content": ""
       },
       {
         "lineNumber": 139,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "        Comparator\u003cPerson\u003e person \u003d (p1, p2) -\u003e {"
+        "content": "    public void SortByAppointment(){"
       },
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "-"
-        },
-        "content": "            Appointment appointment1 \u003d p1.getAppointment();"
-      },
-      {
-        "lineNumber": 141,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            Appointment appointment2 \u003d p2.getAppointment();"
-      },
-      {
-        "lineNumber": 142,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            return appointment1.compareTo(appointment2);"
-      },
-      {
-        "lineNumber": 143,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        };"
-      },
-      {
-        "lineNumber": 144,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        Collections.sort(internalList, person);"
-      },
-      {
-        "lineNumber": 145,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 146,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 147,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public void SortByStatus(){"
-      },
-      {
-        "lineNumber": 148,
-        "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "        Comparator\u003cPerson\u003e person \u003d (p1, p2) -\u003e {"
       },
       {
-        "lineNumber": 149,
+        "lineNumber": 141,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "            Status status1 \u003d p1.getStatus();"
+        "content": "            Appointment appointment1 \u003d p1.getAppointment();"
       },
       {
-        "lineNumber": 150,
+        "lineNumber": 142,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "            Status status2 \u003d p2.getStatus();"
+        "content": "            Appointment appointment2 \u003d p2.getAppointment();"
       },
       {
-        "lineNumber": 151,
+        "lineNumber": 143,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "            return status1.compareTo(status2);"
+        "content": "            return appointment1.compareTo(appointment2);"
       },
       {
-        "lineNumber": 152,
+        "lineNumber": 144,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "        };"
       },
       {
-        "lineNumber": 153,
+        "lineNumber": 145,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "        Collections.sort(internalList, person);"
       },
       {
-        "lineNumber": 154,
+        "lineNumber": 146,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 155,
+        "lineNumber": 147,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": ""
       },
       {
+        "lineNumber": 148,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    public void SortByStatus(){"
+      },
+      {
+        "lineNumber": 149,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        Comparator\u003cPerson\u003e person \u003d (p1, p2) -\u003e {"
+      },
+      {
+        "lineNumber": 150,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "            Status status1 \u003d p1.getStatus();"
+      },
+      {
+        "lineNumber": 151,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "            Status status2 \u003d p2.getStatus();"
+      },
+      {
+        "lineNumber": 152,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "            return status1.compareTo(status2);"
+      },
+      {
+        "lineNumber": 153,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        };"
+      },
+      {
+        "lineNumber": 154,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "        Collections.sort(internalList, person);"
+      },
+      {
+        "lineNumber": 155,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    }"
+      },
+      {
         "lineNumber": 156,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    @Override"
+        "content": "    //@@author"
       },
       {
         "lineNumber": 157,
         "author": {
           "gitId": "-"
         },
-        "content": "    public Iterator\u003cPerson\u003e iterator() {"
+        "content": ""
       },
       {
         "lineNumber": 158,
         "author": {
           "gitId": "-"
         },
-        "content": "        return internalList.iterator();"
+        "content": "    @Override"
       },
       {
         "lineNumber": 159,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "    public Iterator\u003cPerson\u003e iterator() {"
       },
       {
         "lineNumber": 160,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        return internalList.iterator();"
       },
       {
         "lineNumber": 161,
         "author": {
           "gitId": "-"
         },
-        "content": "    @Override"
+        "content": "    }"
       },
       {
         "lineNumber": 162,
         "author": {
           "gitId": "-"
         },
-        "content": "    public boolean equals(Object other) {"
+        "content": ""
       },
       {
         "lineNumber": 163,
         "author": {
           "gitId": "-"
         },
-        "content": "        return other \u003d\u003d this // short circuit if same object"
+        "content": "    @Override"
       },
       {
         "lineNumber": 164,
         "author": {
           "gitId": "-"
         },
-        "content": "                || (other instanceof UniquePersonList // instanceof handles nulls"
+        "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 165,
         "author": {
           "gitId": "-"
         },
-        "content": "                \u0026\u0026 this.internalList.equals("
+        "content": "        return other \u003d\u003d this // short circuit if same object"
       },
       {
         "lineNumber": 166,
         "author": {
           "gitId": "-"
         },
-        "content": "                        ((UniquePersonList) other).internalList));"
+        "content": "                || (other instanceof UniquePersonList // instanceof handles nulls"
       },
       {
         "lineNumber": 167,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "                \u0026\u0026 this.internalList.equals("
       },
       {
         "lineNumber": 168,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "                        ((UniquePersonList) other).internalList));"
       },
       {
         "lineNumber": 169,
         "author": {
           "gitId": "-"
         },
-        "content": "    @Override"
+        "content": "    }"
       },
       {
         "lineNumber": 170,
         "author": {
           "gitId": "-"
         },
-        "content": "    public int hashCode() {"
+        "content": ""
       },
       {
         "lineNumber": 171,
         "author": {
           "gitId": "-"
         },
-        "content": "        return internalList.hashCode();"
+        "content": "    @Override"
       },
       {
         "lineNumber": 172,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "    public int hashCode() {"
       },
       {
         "lineNumber": 173,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        return internalList.hashCode();"
       },
       {
         "lineNumber": 174,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 175,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 176,
         "author": {
           "gitId": "-"
         },
@@ -14287,8 +15371,9 @@
       }
     ],
     "authorContributionMap": {
-      "shawn-t": 9,
-      "-": 165
+      "shawn-t": 8,
+      "-": 137,
+      "WuPeiHsuan": 31
     }
   },
   {
@@ -18203,341 +19288,348 @@
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "-"
+          "gitId": "liguanlong"
         },
-        "content": "        mainApp.stop();"
+        "content": "        accountManager.storeAccounts();"
       },
       {
         "lineNumber": 74,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        mainApp.stop();"
       },
       {
         "lineNumber": 75,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 76,
         "author": {
           "gitId": "-"
         },
-        "content": "    /** Returns true of the result given is the result of an exit command */"
+        "content": ""
       },
       {
         "lineNumber": 77,
         "author": {
           "gitId": "-"
         },
-        "content": "    private boolean isExitCommand(CommandResult result) {"
+        "content": "    /** Returns true of the result given is the result of an exit command */"
       },
       {
         "lineNumber": 78,
         "author": {
           "gitId": "-"
         },
-        "content": "        return result.feedbackToUser.equals(ExitCommand.MESSAGE_EXIT_ACKNOWEDGEMENT);"
+        "content": "    private boolean isExitCommand(CommandResult result) {"
       },
       {
         "lineNumber": 79,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        return result.feedbackToUser.equals(ExitCommand.MESSAGE_EXIT_ACKNOWEDGEMENT);"
       },
       {
         "lineNumber": 80,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 81,
         "author": {
           "gitId": "-"
         },
-        "content": "    /** Clears the command input box */"
+        "content": ""
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "-"
         },
-        "content": "    private void clearCommandInput() {"
+        "content": "    /** Clears the command input box */"
       },
       {
         "lineNumber": 83,
         "author": {
           "gitId": "-"
         },
-        "content": "        commandInput.setText(\"\");"
+        "content": "    private void clearCommandInput() {"
       },
       {
         "lineNumber": 84,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        commandInput.setText(\"\");"
       },
       {
         "lineNumber": 85,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 86,
         "author": {
           "gitId": "-"
         },
-        "content": "    /** Clears the output display area */"
+        "content": ""
       },
       {
         "lineNumber": 87,
         "author": {
           "gitId": "-"
         },
-        "content": "    public void clearOutputConsole(){"
+        "content": "    /** Clears the output display area */"
       },
       {
         "lineNumber": 88,
         "author": {
           "gitId": "-"
         },
-        "content": "        outputConsole.clear();"
+        "content": "    public void clearOutputConsole(){"
       },
       {
         "lineNumber": 89,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        outputConsole.clear();"
       },
       {
         "lineNumber": 90,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 91,
         "author": {
           "gitId": "-"
         },
-        "content": "    /** Displays the result of a command execution to the user. */"
+        "content": ""
       },
       {
         "lineNumber": 92,
         "author": {
           "gitId": "-"
         },
-        "content": "    public void displayResult(CommandResult result) {"
+        "content": "    /** Displays the result of a command execution to the user. */"
       },
       {
         "lineNumber": 93,
         "author": {
           "gitId": "-"
         },
-        "content": "        clearOutputConsole();"
+        "content": "    public void displayResult(CommandResult result) {"
       },
       {
         "lineNumber": 94,
         "author": {
           "gitId": "-"
         },
-        "content": "        final Optional\u003cList\u003c? extends ReadOnlyPerson\u003e\u003e resultPersons \u003d result.getRelevantPersons();"
+        "content": "        clearOutputConsole();"
       },
       {
         "lineNumber": 95,
         "author": {
           "gitId": "-"
         },
-        "content": "        if(resultPersons.isPresent()) {"
+        "content": "        final Optional\u003cList\u003c? extends ReadOnlyPerson\u003e\u003e resultPersons \u003d result.getRelevantPersons();"
       },
       {
         "lineNumber": 96,
         "author": {
           "gitId": "-"
         },
-        "content": "            display(resultPersons.get());"
+        "content": "        if(resultPersons.isPresent()) {"
       },
       {
         "lineNumber": 97,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "            display(resultPersons.get());"
       },
       {
         "lineNumber": 98,
         "author": {
           "gitId": "-"
         },
-        "content": "        display(result.feedbackToUser);"
+        "content": "        }"
       },
       {
         "lineNumber": 99,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        display(result.feedbackToUser);"
       },
       {
         "lineNumber": 100,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 101,
         "author": {
           "gitId": "-"
         },
-        "content": "    public void displayWelcomeMessage(String version, String storageFilePath) {"
+        "content": ""
       },
       {
         "lineNumber": 102,
         "author": {
           "gitId": "-"
         },
-        "content": "        String storageFileInfo \u003d String.format(MESSAGE_USING_STORAGE_FILE, storageFilePath);"
+        "content": "    public void displayWelcomeMessage(String version, String storageFilePath) {"
       },
       {
         "lineNumber": 103,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        String storageFileInfo \u003d String.format(MESSAGE_USING_STORAGE_FILE, storageFilePath);"
+      },
+      {
+        "lineNumber": 104,
         "author": {
           "gitId": "liguanlong"
         },
         "content": "        display(MESSAGE_WELCOME, version, AccountManager.LOGIN_PROMPT, MESSAGE_PROGRAM_LAUNCH_ARGS_USAGE, storageFileInfo);"
       },
       {
-        "lineNumber": 104,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
         "lineNumber": 105,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 106,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": ""
       },
       {
         "lineNumber": 107,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Displays the list of persons in the output display area, formatted as an indexed list."
+        "content": "    /**"
       },
       {
         "lineNumber": 108,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Private contact details are hidden."
+        "content": "     * Displays the list of persons in the output display area, formatted as an indexed list."
       },
       {
         "lineNumber": 109,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "     * Private contact details are hidden."
       },
       {
         "lineNumber": 110,
         "author": {
           "gitId": "-"
         },
-        "content": "    private void display(List\u003c? extends ReadOnlyPerson\u003e persons) {"
+        "content": "     */"
       },
       {
         "lineNumber": 111,
         "author": {
           "gitId": "-"
         },
-        "content": "        display(new Formatter().format(persons));"
+        "content": "    private void display(List\u003c? extends ReadOnlyPerson\u003e persons) {"
       },
       {
         "lineNumber": 112,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        display(new Formatter().format(persons));"
       },
       {
         "lineNumber": 113,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 114,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": ""
       },
       {
         "lineNumber": 115,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Displays the given messages on the output display area, after formatting appropriately."
+        "content": "    /**"
       },
       {
         "lineNumber": 116,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "     * Displays the given messages on the output display area, after formatting appropriately."
       },
       {
         "lineNumber": 117,
         "author": {
           "gitId": "-"
         },
-        "content": "    private void display(String... messages) {"
+        "content": "     */"
       },
       {
         "lineNumber": 118,
         "author": {
           "gitId": "-"
         },
-        "content": "        outputConsole.setText(outputConsole.getText() + new Formatter().format(messages));"
+        "content": "    private void display(String... messages) {"
       },
       {
         "lineNumber": 119,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        outputConsole.setText(outputConsole.getText() + new Formatter().format(messages));"
       },
       {
         "lineNumber": 120,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 121,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 122,
         "author": {
           "gitId": "-"
         },
@@ -18545,7 +19637,7 @@
       }
     ],
     "authorContributionMap": {
-      "liguanlong": 12,
+      "liguanlong": 13,
       "-": 109
     }
   },

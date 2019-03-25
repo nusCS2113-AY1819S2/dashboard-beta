@@ -441,6 +441,122 @@
             "deletions": 3
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "ea07b44e02c636645a422b778147d4a3c541c4f9",
+            "message": "Userguide update",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 182,
+        "deletions": 60,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "f8a98637d3ff76ab578aa91ae827adad453f0308",
+            "message": "Add autocomplete feature",
+            "insertions": 128,
+            "deletions": 7
+          },
+          {
+            "hash": "05a4506e4463813a30505c228f1e4d866c0a3215",
+            "message": "trailing whitespace",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "3131f41e502ff1b1392804e5536aac3007337716",
+            "message": "Coding style 1",
+            "insertions": 9,
+            "deletions": 12
+          },
+          {
+            "hash": "8232c24e923e5619b18d5cbe56154611786e1233",
+            "message": "Coding style 2",
+            "insertions": 9,
+            "deletions": 3
+          },
+          {
+            "hash": "271ea7dba3802beea580af91acefe69c4f335fb3",
+            "message": "Coding style 3",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f3416c6124bfd1924cb86530a1e469d877cb7ad5",
+            "message": "Coding style 4",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "6591ab94914e7f8a3f20cc52cd9786e109c0a753",
+            "message": "Update autocomplete feature",
+            "insertions": 21,
+            "deletions": 23
+          },
+          {
+            "hash": "b1284115b2dc4636aca05eec4123707d634b00fd",
+            "message": "coding style",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "6ed20b489991cf4b237b469ea3d38b4ac1cf0e34",
+            "message": "coding style2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d5396667564db00e71a12c171a94ecad62848670",
+            "message": "Coding style 3",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7b7fca6970384c559c2cc2e4abed5c4799e18933",
+            "message": "Coding style 4",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ],
     "cheahzk": [
@@ -1143,6 +1259,61 @@
             "deletions": 17
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 162,
+        "deletions": 84,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "d118178960dbc47a98531865ece186042d0b241c",
+            "message": "EditCommand: Corrected some mistakes.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "4352f5e7d85321677b6e86a64830712a46cd9a2a",
+            "message": "UserGuide.adoc: Updated user guide.",
+            "insertions": 158,
+            "deletions": 80
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ],
     "jingchen-z": [
@@ -1571,6 +1742,91 @@
         "deletions": 0,
         "date": "2019-03-18",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 217,
+        "deletions": 51,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "62c8ae5a161516dcc3e1aba10251039da25c0ade",
+            "message": "Change UI layout",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "06d60e9efcf9d3e2e57a26ac52669909263de283",
+            "message": "Change UI layout 1.1",
+            "insertions": 129,
+            "deletions": 8
+          },
+          {
+            "hash": "ee3e37e06bc330312411850d047d3883acd45325",
+            "message": "Fixed divide ratio on UI",
+            "insertions": 18,
+            "deletions": 12
+          },
+          {
+            "hash": "0340b773cd369a99466968194cc7277434b1e83e",
+            "message": "Style checking 1.0",
+            "insertions": 26,
+            "deletions": 12
+          },
+          {
+            "hash": "6dee3f94db9b7f94ae22fc9d4213439b386c2c6d",
+            "message": "Style checking 1.1",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9cdbbe782b0a2d35478d34e13dc0730f4d88f16c",
+            "message": "Style checking 1.2",
+            "insertions": 25,
+            "deletions": 16
+          },
+          {
+            "hash": "4a262b582d270788cee77b5cae81ea5a2b996d3b",
+            "message": "Style checking 1.3",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "BrittonAlone": [
@@ -1934,6 +2190,80 @@
             "message": "Travis updated",
             "insertions": 2,
             "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 277,
+        "deletions": 26,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "34755770d2cf8f02b10e62bfd8cbdb1e1d97f8a9",
+            "message": "Reminder feature added",
+            "insertions": 275,
+            "deletions": 24
+          },
+          {
+            "hash": "7c59b80aa03204f58a6bcc6f4a5252311a49c216",
+            "message": "Update remind feature",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 85,
+        "deletions": 37,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "6a1ccbde7b4a6df2e73f9706740533a395ea37bf",
+            "message": "Update remind feature",
+            "insertions": 51,
+            "deletions": 33
+          },
+          {
+            "hash": "908679845ded6e7fbbf8704c11210437989ba9d0",
+            "message": "Update remind feature",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "8df2b28b77a0819aebf4af2f6da69b2f6dc3f8c7",
+            "message": "Update remind feature",
+            "insertions": 28,
+            "deletions": 0
           }
         ]
       }
@@ -2362,109 +2692,145 @@
             "deletions": 3
           }
         ]
+      },
+      {
+        "insertions": 132,
+        "deletions": 35,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "25e6c83a5d4c26342365a88c69dea47e221efe71",
+            "message": "update the function to clear before",
+            "insertions": 123,
+            "deletions": 28
+          },
+          {
+            "hash": "7664d0d456517373a503330251590cadbc399f5c",
+            "message": "update function to clear before 1.2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ccf62d6eef90768efb53fb5280f7da9acac92df7",
+            "message": "update function to clear before 3",
+            "insertions": 8,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 11,
+        "deletions": 16,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "c185b360734697cae4ff90b87fbe7ecbb20bdefd",
+            "message": "update part of UG",
+            "insertions": 11,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 683,
+        "deletions": 88,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "70b3b1810212803495e78f2915b9fb3a406ad927",
+            "message": "update feature: smart suggestion with word distance limit 3 (try 1)",
+            "insertions": 533,
+            "deletions": 1
+          },
+          {
+            "hash": "d487cf95f55d6337b42a085e3afcb885227a91b8",
+            "message": "update feature: smart suggestion with word distance limit \u003d 3 (try 2)",
+            "insertions": 33,
+            "deletions": 32
+          },
+          {
+            "hash": "be4d1b3987a819be95021b63b29e3e9c75e1f3a7",
+            "message": "add function to StringUtil",
+            "insertions": 31,
+            "deletions": 30
+          },
+          {
+            "hash": "0c7f314c0f4abbaf733bd05c08ec841bf42edf83",
+            "message": "update UG for wrong command suggestion",
+            "insertions": 17,
+            "deletions": 5
+          },
+          {
+            "hash": "339b7db92ba7ec1efb77fcd705e7fdd1381df6a2",
+            "message": "update UG for wrong command suggestion (try 2)",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "0a184b0a49df6e1269a5e75e3adf95cef80a6a47",
+            "message": "update UG for Wrong Command Suggestion (try 3)",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "e81e296677a3b63d16c5816ae6f5b2933d21c31e",
+            "message": "update UG",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "7eee973f7012a82ca54d3cb8e197f5a0c2d5af3d",
+            "message": "update wring command suggestion to include checking alphabet occurrence",
+            "insertions": 51,
+            "deletions": 4
+          },
+          {
+            "hash": "3882a91325635ae116633cb3c45763ddea16d0d4",
+            "message": "update Wrong Command Suggestion to include cheking alphabet occurrence",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Wanchunwei": 337,
-    "cheahzk": 2475,
-    "jingchen-z": 50,
-    "BrittonAlone": 233,
-    "Zeyang-Li": 578
-  },
-  "authorFileFormatContributionMap": {
-    "Wanchunwei": {
-      "adoc": 124,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 213,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "cheahzk": {
-      "adoc": 81,
-      "cs": 0,
-      "css": 0,
-      "fxml": 9,
-      "gradle": 18,
-      "html": 0,
-      "java": 2367,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "jingchen-z": {
-      "adoc": 10,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 40,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "BrittonAlone": {
-      "adoc": 54,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 179,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "Zeyang-Li": {
-      "adoc": 326,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 252,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "Wanchunwei": 454,
+    "cheahzk": 2583,
+    "jingchen-z": 207,
+    "BrittonAlone": 496,
+    "Zeyang-Li": 1186
   },
   "authorContributionVariance": {
-    "Wanchunwei": 67112.59,
-    "cheahzk": 1866960.2,
-    "jingchen-z": 12371.706,
-    "BrittonAlone": 5847.079,
-    "Zeyang-Li": 1.4729297E7
+    "Wanchunwei": 57655.676,
+    "cheahzk": 1591900.4,
+    "jingchen-z": 11824.749,
+    "BrittonAlone": 6977.609,
+    "Zeyang-Li": 1.2433391E7
   },
   "authorDisplayNameMap": {
     "Wanchunwei": "WAN...WEI",

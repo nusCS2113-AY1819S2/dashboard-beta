@@ -253,6 +253,56 @@
         "deletions": 0,
         "date": "2019-03-19",
         "commitResults": []
+      },
+      {
+        "insertions": 85,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "46a070fddff2278a73b6279ddfd84adffc5a59e8",
+            "message": "WorkoutList class done",
+            "insertions": 85,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 551,
+        "deletions": 14,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "22ca682771fddd9dfaecb5fb46237b5b556ca921",
+            "message": "Storage class and interface for workout features implemented",
+            "insertions": 551,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ],
     "swalahlah": [
@@ -482,6 +532,42 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
         "commitResults": []
       }
     ],
@@ -720,6 +806,111 @@
         "deletions": 0,
         "date": "2019-03-19",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 1695,
+        "deletions": 47,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "60da356a0eca503d304e1d9df26b9774d1fadd19",
+            "message": "Added \"ExpenditureList\" commit",
+            "insertions": 1695,
+            "deletions": 47
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 630,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "3464e39984a95f7122e9fd9f07c60567a36f469d",
+            "message": "Revert \"pull from main page to update local repo\"",
+            "insertions": 6,
+            "deletions": 630
+          }
+        ]
+      },
+      {
+        "insertions": 1328,
+        "deletions": 695,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "a2d4fcda0531462c69d706926d08ae0d2616b333",
+            "message": "Added a one liner preface to each features in the user guide",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "c1173987b558c168165984c56687ec12dd76404d",
+            "message": "Revert \"Revert \"pull from main page to update local repo\"\"",
+            "insertions": 630,
+            "deletions": 6
+          },
+          {
+            "hash": "0134ffb1ca18b46d473309d7aa41bb6a19f1835c",
+            "message": "- Edited implementation of ExpenditureList feature in developer guide - Worked on some formatting issues on use cases in developer guide",
+            "insertions": 15,
+            "deletions": 16
+          },
+          {
+            "hash": "db1bbd5dbd8634e8c65df8c5abc4f8e0215729b0",
+            "message": "Revert \"Revert \"Revert \"pull from main page to update local repo\"\"\"",
+            "insertions": 6,
+            "deletions": 630
+          },
+          {
+            "hash": "6c76e078fb2c6c273161121e4b7e4eada7d299a5",
+            "message": "- Modified app\u0027s description in README.adoc - Updated UI with newer version",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "24618db32e6b177cc15c094e5dc08143bc3b9ed6",
+            "message": "- Edited format error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bc15e21e9f73bfe9422253e59d5e3cc6278b5675",
+            "message": "Revert \"Modified README.adoc\"",
+            "insertions": 640,
+            "deletions": 18
+          },
+          {
+            "hash": "c01e096464e799bef168778b3c6a51d8b01a24c0",
+            "message": "- Modified app\u0027s description in README.adoc - Updated UI",
+            "insertions": 13,
+            "deletions": 10
+          },
+          {
+            "hash": "2cb5b28e11172a8f307a1324f71ff7fbb04bcb7b",
+            "message": "- Solved some format issues",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
       }
     ],
     "jayrometan": [
@@ -959,8 +1150,8 @@
         ]
       },
       {
-        "insertions": 623,
-        "deletions": 0,
+        "insertions": 625,
+        "deletions": 2,
         "date": "2019-03-19",
         "commitResults": [
           {
@@ -968,92 +1159,96 @@
             "message": "Updated AboutUs.adoc ContactUs.adoc DeveloperGuide.adoc",
             "insertions": 623,
             "deletions": 0
+          },
+          {
+            "hash": "09f6ae5a5871cd07b7203bd041fd6916a0473bd2",
+            "message": "Test",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "95d86c6d98671dd2857b4f6eb5b9f290c874672e",
+            "message": "Test",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 244,
+        "deletions": 26,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "592fa84a803d1e4d39ebe09415caf2685ef61b07",
+            "message": "Created the relevant models for Task",
+            "insertions": 244,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 511,
+        "deletions": 76,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "aebd53e98bc2906b54d8f892ecfab806ea21a5ef",
+            "message": "Created VBox UI for Task List. Added headings for the relevant VBoxes Connected the tasklist.json to the UI AddTaskCommand can be executed and displayed in the UI.",
+            "insertions": 141,
+            "deletions": 30
+          },
+          {
+            "hash": "5bb31c8a8cc61a9fa0cae3186ff20f01d16dae19",
+            "message": "Added Stubs to the test so that AddressBook can compile succesfully.",
+            "insertions": 104,
+            "deletions": 45
+          },
+          {
+            "hash": "d7c1eda90965ed067db77c41cffc3633d1d34fb4",
+            "message": "Committing some unversioned files that i did not commit previously",
+            "insertions": 266,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "yongjia96": 183,
+    "yongjia96": 182,
     "swalahlah": 0,
-    "weizhonglauw": 38,
-    "jayrometan": 1023
-  },
-  "authorFileFormatContributionMap": {
-    "yongjia96": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 183,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "swalahlah": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "weizhonglauw": {
-      "adoc": 38,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "jayrometan": {
-      "adoc": 304,
-      "cs": 0,
-      "css": 0,
-      "fxml": 44,
-      "gradle": 0,
-      "html": 0,
-      "java": 675,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "weizhonglauw": 1759,
+    "jayrometan": 1602
   },
   "authorContributionVariance": {
-    "yongjia96": 915.2889,
+    "yongjia96": 7867.563,
     "swalahlah": 0.0,
-    "weizhonglauw": 37.0,
-    "jayrometan": 22178.238
+    "weizhonglauw": 161027.23,
+    "jayrometan": 27333.195
   },
   "authorDisplayNameMap": {
     "yongjia96": "PAN...JIA",

@@ -8,10 +8,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 63,
         "deletions": 0,
         "date": "2019-02-11",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "288502afa781b810ee7f82027cd6d20a7a39b3a0",
+            "message": "Added AboutUs and ContactUs adoc pages",
+            "insertions": 63,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -38,28 +45,134 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 3834,
+        "deletions": 1370,
         "date": "2019-02-16",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "37fa3c8a5a9a3762d88d850a5fbe54e1e9e111d6",
+            "message": "Added checkstyles from addressbooklvl4",
+            "insertions": 432,
+            "deletions": 0
+          },
+          {
+            "hash": "6591819bc5f64ea95bc002c5796d34daa7ad266d",
+            "message": "Added plugins for checkstyle",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "178b42177898ececdb24883f0a421f7ab35502f3",
+            "message": "Rename package name and fixed checkstyle errors",
+            "insertions": 3142,
+            "deletions": 1312
+          },
+          {
+            "hash": "dc0c379e26374caa5f17cc895e8d70d693f79f11",
+            "message": "Update documents to match new project",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "755ec2028d8b01cd4cd95bf9507d3c1ed886fbba",
+            "message": "Fixed README.adoc badges",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "9e2247199c9c2e93091179ba8a3ab137f24f85d3",
+            "message": "Added Portfolio pages and Edited AboutUs.adoc",
+            "insertions": 10,
+            "deletions": 20
+          },
+          {
+            "hash": "b35e067920b696e3ec9a4c402ca02525743ab7c8",
+            "message": "Fixed Checkstyle errors",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0bd69b03c0c06a62f605432e2fa6465b934d561d",
+            "message": "Added marcusphua.adoc, profile page for marcus",
+            "insertions": 72,
+            "deletions": 0
+          },
+          {
+            "hash": "9121d74450ff853543ea6e83857710ef4fc93111",
+            "message": "Added fixes for Appveyor build issues",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "13cd228d7d8b36dd0c9e252b90ecbd41571dd51c",
+            "message": "Updated build.gradle to fixe Checkstyle bugs",
+            "insertions": 164,
+            "deletions": 27
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1376,
+        "deletions": 361,
         "date": "2019-02-17",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "4c3797ad6967dddf3ac775065a9686b38878ad79",
+            "message": "Updated UserGuide.adoc and added Portfolio pages for all team members \u0026 other misc",
+            "insertions": 1362,
+            "deletions": 114
+          },
+          {
+            "hash": "581d65a216207faf2054c031139df688c9698ddf",
+            "message": "Update Project name and version",
+            "insertions": 1,
+            "deletions": 234
+          },
+          {
+            "hash": "4f00963c61e2289ef4498a9f96c0bee34bf57fdf",
+            "message": "build.gradle: update entry point of app and other parameters",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "77cfbcde22365f222d67839618d4db6660aacba8",
+            "message": "Update tags in documents",
+            "insertions": 8,
+            "deletions": 8
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 25,
+        "deletions": 90,
         "date": "2019-02-18",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "4974371d124701d1991135b423f9d861d926196f",
+            "message": "Fix build.gradle issues with build configurations",
+            "insertions": 24,
+            "deletions": 90
+          },
+          {
+            "hash": "a7fa0a86ad2b022959e3dc2705402524055055c2",
+            "message": "Disable checkstyleTest on build.gradle",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 19,
+        "deletions": 1,
         "date": "2019-02-19",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "118014e213413f29a55903dcc9cd9a5fea176288",
+            "message": "build.gradle: fix headless task issue",
+            "insertions": 19,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -86,10 +199,41 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 601,
+        "deletions": 88,
         "date": "2019-02-24",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "b75d496ac835bf49035070f09487fffd599c9abc",
+            "message": "Refactor class and package names to suit \"planmysem\"",
+            "insertions": 457,
+            "deletions": 71
+          },
+          {
+            "hash": "0015765ae148642e1520c5b5209344fda05afc0d",
+            "message": "Update tests to fit new data",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "1b342416032b6fcd9a1475b403fe7d4e8874997d",
+            "message": "ReadOnlySlot: remove unused imports",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "b50419b00c9b8cf1f68433bbb18f006270003b91",
+            "message": "Fix Codacy errors",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "05bd806cafc708396aee0ec56259032fdef9dc19",
+            "message": "Add: semester, month, week, day classes",
+            "insertions": 130,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -98,10 +242,41 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1850,
+        "deletions": 571,
         "date": "2019-02-26",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "d07865bdfd9c9816657667fcf139972f657ce725",
+            "message": "AboutUs.adoc: update information and photos",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "832b2a779feb0faea19a9b6732031ec3d4c2c8d4",
+            "message": "Add Classes relevant to Planner",
+            "insertions": 852,
+            "deletions": 324
+          },
+          {
+            "hash": "a15587e9f1f4446f1e61b2b2e039eead3eeac3ba",
+            "message": "Revert refactor done to StorageFileTest",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4c1ef2781743b5f97d4eef5d345595234069d7f1",
+            "message": "Add separate classes to aid in development.",
+            "insertions": 934,
+            "deletions": 70
+          },
+          {
+            "hash": "d704e6a9ab23842a46921a111a64f25338a575dd",
+            "message": "update some code issues and UserGuide.adoc",
+            "insertions": 48,
+            "deletions": 161
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -110,10 +285,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 566,
+        "deletions": 156,
         "date": "2019-02-28",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "3ecf612b543b48b6965c9848a6906fcf72a15690",
+            "message": "Add: Skeleton of Add functionality (#25)",
+            "insertions": 566,
+            "deletions": 156
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -122,10 +304,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 8,
+        "deletions": 8,
         "date": "2019-03-02",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "c00e45d37fd35ff3ecc90b0bb628029b7d7de557",
+            "message": "Update documents to adhere to guidelines",
+            "insertions": 8,
+            "deletions": 8
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -134,10 +323,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 114,
+        "deletions": 67,
         "date": "2019-03-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "d32c85464be384be728ae70f37ccb12c844f7497",
+            "message": "v1.1 (#51)",
+            "insertions": 114,
+            "deletions": 67
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -152,10 +348,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1014,
+        "deletions": 421,
         "date": "2019-03-07",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "41b9b1ab772558f5a6310550ce282b51049cb625",
+            "message": " Enhanced the Add command and updated documents  (#53)",
+            "insertions": 1014,
+            "deletions": 421
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -176,10 +379,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 122,
+        "deletions": 99,
         "date": "2019-03-11",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "44554bc9c1c03145c0e4778e273c284d092c40ca",
+            "message": " Enhance add functionality  (#61)",
+            "insertions": 122,
+            "deletions": 99
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -200,10 +410,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1001,
+        "deletions": 580,
         "date": "2019-03-15",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "30a4978b7857420c05d2524b8e1e69fb596fad58",
+            "message": " Add delete command and code enhancements on edit and add command  (#75)",
+            "insertions": 1001,
+            "deletions": 580
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -218,9 +435,97 @@
         "commitResults": []
       },
       {
+        "insertions": 2913,
+        "deletions": 5066,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "656d21f8b777c0da39132004398bfdf801e36178",
+            "message": "Refactor class names, remove remaining traces of addressbook (#82)",
+            "insertions": 832,
+            "deletions": 3745
+          },
+          {
+            "hash": "8d7fa8cd4f209dfa3ca3d97ae21b9a444428eeec",
+            "message": "Add test cases for add function, Utils and other code enhancements (#88)",
+            "insertions": 2005,
+            "deletions": 1265
+          },
+          {
+            "hash": "50701a44443b81dd054862ebf801ee948ec0cbd5",
+            "message": "v1.2 (#94)",
+            "insertions": 76,
+            "deletions": 56
+          }
+        ]
+      },
+      {
+        "insertions": 147,
+        "deletions": 84,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "e3d201515f69ea0a3736e84320daf9543980a42d",
+            "message": "Update Ui.png, fix issues not detected in previous PR due to AppVeyor and Codacy Service Downtime (#95)",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "8d8db0673f5f408a78c18505b5306adb6f8d30d4",
+            "message": "Update UserGuide.adoc  (#100)",
+            "insertions": 146,
+            "deletions": 80
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-18",
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 323,
+        "deletions": 144,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "1080827e0bd7a22d0f5700000102f92057d3c383",
+            "message": "Update README.adoc and UserGuide.adoc: change table layouts  (#110)",
+            "insertions": 323,
+            "deletions": 144
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 663,
+        "deletions": 360,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "22935bb939eac7298b6397971de5540d9cfe726f",
+            "message": " Add tests for Add, Edit and Delete commands and optimise code  (#115)",
+            "insertions": 663,
+            "deletions": 360
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
         "commitResults": []
       }
     ],
@@ -334,10 +639,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 97,
+        "deletions": 2,
         "date": "2019-02-28",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "79bfcaeaf8bd79e992722a117d2f2de63c8d03e4",
+            "message": "Add: History Command  (#43)",
+            "insertions": 95,
+            "deletions": 0
+          },
+          {
+            "hash": "dc6bb09a315f6dbb6bb9440fe57391c06fddaa83",
+            "message": "Update: History command and UserGuide.adoc (#44)",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -352,10 +670,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 81,
+        "deletions": 22,
         "date": "2019-03-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "2751900b5a93a789d2e786ef7c6f67e4e3cdf161",
+            "message": "Add ListCommandP and fixed typo in AddCommandP (#46)",
+            "insertions": 67,
+            "deletions": 4
+          },
+          {
+            "hash": "056b27642591db01b0a0c2a63b7afdef5f6c8bcb",
+            "message": "Update Developer Guide for User Stories (#50)",
+            "insertions": 14,
+            "deletions": 18
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -400,10 +731,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 67,
+        "deletions": 2,
         "date": "2019-03-11",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "9099410610cd06799f4f47aa4bce0c28f65d6798",
+            "message": "Add skeleton code for FindCommandP (#62)",
+            "insertions": 67,
+            "deletions": 2
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -442,9 +780,211 @@
         "commitResults": []
       },
       {
+        "insertions": 3445,
+        "deletions": 1498,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "756f60fa2bacaa1dba46b1d8ba64c0fdf2c85061",
+            "message": "Enhance ListCommandP (#79)",
+            "insertions": 1059,
+            "deletions": 45
+          },
+          {
+            "hash": "3652153a7c99efb201c1447de0d73d4ce73b4637",
+            "message": "Add User Stories",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "36dfe6132d8a2499df358c559cb915facb0baddb",
+            "message": "Add User Stories (#83)",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "ad0c59e5c71fe2c5d86dca363425f23512b865a6",
+            "message": "Enhance FindCommand (#86)",
+            "insertions": 84,
+            "deletions": 54
+          },
+          {
+            "hash": "fa2720440d714d1eb9de2db09fde46236614faa0",
+            "message": "Merge (#12)",
+            "insertions": 2245,
+            "deletions": 1332
+          },
+          {
+            "hash": "e530225a4dbc27a20d31e2290d25c3c7361a8899",
+            "message": "Update Documentation (#89)",
+            "insertions": 43,
+            "deletions": 59
+          }
+        ]
+      },
+      {
+        "insertions": 518,
+        "deletions": 343,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "c705f9244d5130c22f97c745862c03073938554e",
+            "message": "FIx Bug in FindCommand (#97)",
+            "insertions": 13,
+            "deletions": 22
+          },
+          {
+            "hash": "889a725860237198edeee72a91db878ab12044de",
+            "message": "Update User Guide documentation (#98)",
+            "insertions": 59,
+            "deletions": 48
+          },
+          {
+            "hash": "10d7515b6dc9e69d572b7d5f73fbbd111f99cb5a",
+            "message": "Docs (#16)",
+            "insertions": 107,
+            "deletions": 94
+          },
+          {
+            "hash": "f3a75ce1cc297f4caf0a482d6ab0ea1c0355b998",
+            "message": "Merge (#17)",
+            "insertions": 145,
+            "deletions": 80
+          },
+          {
+            "hash": "95ce28b42126a1a869fff3f343d59f484fe1581d",
+            "message": "Update User Guide",
+            "insertions": 58,
+            "deletions": 28
+          },
+          {
+            "hash": "764d315477a61b011505356176ead18b37e81636",
+            "message": "Update User Guide",
+            "insertions": 53,
+            "deletions": 13
+          },
+          {
+            "hash": "b515fc30dcfb896abdafa4f9b3cbfac1d9b68004",
+            "message": "Update User Guide",
+            "insertions": 58,
+            "deletions": 31
+          },
+          {
+            "hash": "2310b836d02a215c5914ccc70daab4879dc88fa5",
+            "message": "Update User Guide",
+            "insertions": 12,
+            "deletions": 15
+          },
+          {
+            "hash": "aef56f7ac18443e146b49fc0fa2524093c3be719",
+            "message": "Update User Guide",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "efb9346b45fd5f9f8bb07b41cf22b69b5a6c1d94",
+            "message": "Update User Guide",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "4ac6174422929996e78752d30d3d50086a55e6de",
+            "message": "Update User Guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "df367d7ceb56037ec4c3d9b4ee0107599601feab",
+            "message": "Update User Guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 210,
+        "deletions": 33,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "726c5b3d16119292f1d1f172a55b37be681cb856",
+            "message": "Update User Guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "75b5fe818776362682f3fcec55269b62c3c1696e",
+            "message": "Update User Guide (#101)",
+            "insertions": 133,
+            "deletions": 31
+          },
+          {
+            "hash": "01523305abd76b75ad388edbc8ed875924a45f2b",
+            "message": "Add config file for Reposense",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "36ebc761201b6fa3eae66d77c128713037efea6e",
+            "message": "Add config file for Reposense (#102)",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "cfa7a18ac012afa5ecba46badec501652af4ecec",
+            "message": "Move config.json to _reposense folder",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "f96d6c9ae4f7eda1513269aaa1977d567fa22169",
+            "message": "Move config.json to _reposense folder (#103)",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "276b9c0941414184aa01238bb988937bc1305e0f",
+            "message": "Edit config file for reposense",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-18",
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 109,
+        "deletions": 24,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "a94474d2bc5eb8241f9f98f7d68148c355a19946",
+            "message": "Enhance list and find functionality to include tags (#111)",
+            "insertions": 109,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
         "commitResults": []
       }
     ],
@@ -492,8 +1032,8 @@
         "commitResults": []
       },
       {
-        "insertions": 110,
-        "deletions": 19,
+        "insertions": 112,
+        "deletions": 35,
         "date": "2019-02-17",
         "commitResults": [
           {
@@ -501,6 +1041,12 @@
             "message": "DeveloperGuide: Updated contents of appendices",
             "insertions": 110,
             "deletions": 19
+          },
+          {
+            "hash": "55fa543bef202fd44f91b64882de4ac2c161e0ed",
+            "message": "DeveloperGuide: Fixed minor formatting issues",
+            "insertions": 2,
+            "deletions": 16
           }
         ]
       },
@@ -633,10 +1179,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 26,
+        "deletions": 4,
         "date": "2019-03-07",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "dd833b07717872fd84fe6320e4f085a9875d9034",
+            "message": "Initialize weekType for each Day (#54)",
+            "insertions": 26,
+            "deletions": 4
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -645,10 +1198,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 183,
+        "deletions": 144,
         "date": "2019-03-09",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "0173487f5d9743a52d1188a2657844e6fd051673",
+            "message": "Update Planner to initialize planner (#55)",
+            "insertions": 183,
+            "deletions": 144
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -693,16 +1253,113 @@
         "commitResults": []
       },
       {
+        "insertions": 319,
+        "deletions": 80,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "63b345c8cd93cc688c03b76b6b44db78354aa25f",
+            "message": "Add JUnit test for Planner (#76)",
+            "insertions": 319,
+            "deletions": 80
+          }
+        ]
+      },
+      {
+        "insertions": 219,
+        "deletions": 33,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "b5a3fa51a325c8b59e9d8003bc0ea0564f9834a1",
+            "message": "Update documentation for view command (#81)",
+            "insertions": 56,
+            "deletions": 9
+          },
+          {
+            "hash": "0901dbba47a7c912b077651e4c21c766fe643a22",
+            "message": "Add view command for monthly calendar view (#87)",
+            "insertions": 163,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 39,
+        "deletions": 28,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "1d82e15214f08b2e2ebe0319772eb4dc07a91bb8",
+            "message": "Update User Guide documentation (#99)",
+            "insertions": 39,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 15,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "de93ef3b16275ab94ba46749d9b206cc982c18a2",
+            "message": "Update User Guide (#106)",
+            "insertions": 16,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 59,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "5495eadeaee1a6334f51f19a1b7e13a33b32e605",
+            "message": "Update User Guide (#108)",
+            "insertions": 24,
+            "deletions": 59
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-17",
+        "date": "2019-03-22",
         "commitResults": []
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-18",
+        "date": "2019-03-23",
         "commitResults": []
+      },
+      {
+        "insertions": 278,
+        "deletions": 263,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "d3705af5dad34427dff7932b6d450d80456be397",
+            "message": "Move Semester generation code (#116)",
+            "insertions": 278,
+            "deletions": 263
+          }
+        ]
+      },
+      {
+        "insertions": 83,
+        "deletions": 7,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "16eb09f2c2acb2e92b9252063de298c4220e280b",
+            "message": "Update Dev Guide for initialization of Semester (#117)",
+            "insertions": 83,
+            "deletions": 7
+          }
+        ]
       }
     ],
     "macchazuki": [
@@ -833,10 +1490,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 130,
+        "deletions": 13,
         "date": "2019-03-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "3d01560ebdbffb06f24b64a2490424794d30cf89",
+            "message": "Add data encryption (#49)",
+            "insertions": 130,
+            "deletions": 13
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -917,8 +1581,8 @@
         "commitResults": []
       },
       {
-        "insertions": 109,
-        "deletions": 13,
+        "insertions": 216,
+        "deletions": 24,
         "date": "2019-03-17",
         "commitResults": [
           {
@@ -938,12 +1602,18 @@
             "message": "added some documentation",
             "insertions": 23,
             "deletions": 10
+          },
+          {
+            "hash": "84f6e3b86752fb813b0eb69e410057f78266a7be",
+            "message": "Add ExportCommandP (#77)",
+            "insertions": 107,
+            "deletions": 11
           }
         ]
       },
       {
-        "insertions": 28,
-        "deletions": 4,
+        "insertions": 128,
+        "deletions": 51,
         "date": "2019-03-18",
         "commitResults": [
           {
@@ -951,92 +1621,132 @@
             "message": "Update developer guide for export",
             "insertions": 28,
             "deletions": 4
+          },
+          {
+            "hash": "73cf5b8e0a29f68b8b2fc51bc6c0b054b678730e",
+            "message": "Update developer guide for ExportCommandP (#80)",
+            "insertions": 28,
+            "deletions": 4
+          },
+          {
+            "hash": "eee2b88c4aeaef8b8dc7a05d4ece20567f8468ba",
+            "message": "Resolve checkstyle errors (#85)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c956010adad52233c159eba7c661526b03934eca",
+            "message": "Update use cases in developer guide (#90)",
+            "insertions": 71,
+            "deletions": 42
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 115,
+        "deletions": 51,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "5eea2145034f890acabe1b8f7ba84d3c56c1cf07",
+            "message": "edit user guide",
+            "insertions": 18,
+            "deletions": 19
+          },
+          {
+            "hash": "b9c819b1977ade1973f059e3bf1fd342c81838d5",
+            "message": "add encryption key skeleton",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "a981e673e423982b485444d1b2dc7bfd24c1abe6",
+            "message": "user guide edits",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "0ef8c4775ddb717b469c42149918c01b9a936530",
+            "message": "Update User Guide (#105)",
+            "insertions": 57,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 90,
+        "deletions": 42,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "262ebfc156361862c45dab83ff6a37bca4e6c9f7",
+            "message": "Add KeyStore to store encryption key",
+            "insertions": 81,
+            "deletions": 37
+          },
+          {
+            "hash": "fbfe8e6d6fdf30c0dd1ba63edf4f95cdde519674",
+            "message": "change some ab3 references to planmysem",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "fe1a641f45ea067462980e7bfb59fe70eeaf1390",
+            "message": "export location only if location exists",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "d14aa56d34ccaf1cab5c9c91643512c308674ad2",
+            "message": "Update User Guide and Dev Guide for encryption (#114)",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "seanieyap": 0,
-    "marcus-pzj": 0,
-    "dingheng4448": 64,
-    "macchazuki": 4
-  },
-  "authorFileFormatContributionMap": {
-    "seanieyap": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "marcus-pzj": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "dingheng4448": {
-      "adoc": 58,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 6,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "macchazuki": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 4,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "seanieyap": 9279,
+    "marcus-pzj": 382,
+    "dingheng4448": 821,
+    "macchazuki": 380
   },
   "authorContributionVariance": {
-    "seanieyap": 0.0,
-    "marcus-pzj": 0.0,
-    "dingheng4448": 1032.345,
-    "macchazuki": 412.62238
+    "seanieyap": 2122522.2,
+    "marcus-pzj": 552969.94,
+    "dingheng4448": 13305.565,
+    "macchazuki": 3142.2937
   },
   "authorDisplayNameMap": {
     "seanieyap": "SEA...ONG",

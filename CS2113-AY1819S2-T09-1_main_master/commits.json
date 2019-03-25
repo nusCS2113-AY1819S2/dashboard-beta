@@ -524,6 +524,116 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 691,
+        "deletions": 850,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "a323d49e9aacb471fb2a4630fe74286f0ecc784d",
+            "message": "Model: combine all degree planner related methods into AddressBook",
+            "insertions": 87,
+            "deletions": 72
+          },
+          {
+            "hash": "bee7989b2b04d74335c8af9fdad51f3502f90849",
+            "message": "Storage: combine DegreePlanner storage into AddressBook storage",
+            "insertions": 146,
+            "deletions": 35
+          },
+          {
+            "hash": "2679d91e70bae457580408435569ada3f3693141",
+            "message": "Logic: update LogicManager to handle model and storage structure",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "7b4db77da210e58a77e9a31f14493423377e746c",
+            "message": "Logic: update \u0027PlannerListAllCommand\u0027 to suit to new model structure",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "4737eb78d744c853224dc9ecf7ed22cef01e03b6",
+            "message": "Main: update MainApp to use new model and storage structures",
+            "insertions": 5,
+            "deletions": 29
+          },
+          {
+            "hash": "2905c8f05ca5a550c09b40dc707a05893b831af1",
+            "message": "Model:Util: update \u0027SampleDataUtil\u0027 to create sample \u0027DegreePlanners\u0027",
+            "insertions": 67,
+            "deletions": 0
+          },
+          {
+            "hash": "7b225d72b74afb2a975bd7744e262bdf2a51fa60",
+            "message": "Model: depreciate \u0027VersionedDegreePlannerList\u0027",
+            "insertions": 0,
+            "deletions": 521
+          },
+          {
+            "hash": "8720db247fda8aa32d4603957c48237ea2f4de0d",
+            "message": "Test: update test logic to handle new model structure",
+            "insertions": 190,
+            "deletions": 187
+          },
+          {
+            "hash": "c4c6fb27745aef80e00103ef4a63b77fa8a05cba",
+            "message": "Test:TestUtil: add classes to construct DegreePlanner related test cases",
+            "insertions": 194,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 58,
+        "deletions": 32,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "c51a2c354d8ef3d853a098596127220cd37ed7e9",
+            "message": "UI:DegreePlanner: convert FlowPane to ListView",
+            "insertions": 22,
+            "deletions": 6
+          },
+          {
+            "hash": "a80d344091bceaae6c1704b3b415f29b950f7102",
+            "message": "UI:DegreePlanner: update DegreePlannerCard style",
+            "insertions": 1,
+            "deletions": 16
+          },
+          {
+            "hash": "a38110e5c03b5afae7f796e84eb62816c2a3313e",
+            "message": "View: update degree planner related css",
+            "insertions": 35,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ],
     "WendyBaiYunwei": [
@@ -767,6 +877,42 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
         "commitResults": []
       }
     ],
@@ -1659,6 +1805,55 @@
         "deletions": 0,
         "date": "2019-03-19",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 38,
+        "deletions": 21,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "99d7fc60763c8af92e349e766719d3a9ec64c849",
+            "message": "build.gradle: add `buildJar`, update `archiveName` and dependencies (#107)",
+            "insertions": 36,
+            "deletions": 19
+          },
+          {
+            "hash": "0e05453b2a6d589194bab768ed9932654e6eaba1",
+            "message": "Storage/JsonSerializableAddressBook: address `javac` linter warnings (#108)",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ],
     "chyeo": [
@@ -2214,6 +2409,42 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ],
     "lycjackie": [
@@ -2718,109 +2949,78 @@
         "deletions": 0,
         "date": "2019-03-19",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "a74ccfc2c8302f2d04dc1b0bf522d5c25a704f93",
+            "message": "Resources/images: update application icon (#110)",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 6,
+        "deletions": 5,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "ddf86bd2d6421fc6cceb2e16b9f099ec94a3a4d7",
+            "message": "docs/UserGuide: fix repoURL (#116)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7ece63a38fc21e00d508acf381fdf926ece4074c",
+            "message": "UI: standardise `saveLocationStatus` path in status bar (#117)",
+            "insertions": 5,
+            "deletions": 4
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "truegitnovice": 2086,
+    "truegitnovice": 2102,
     "WendyBaiYunwei": 112,
-    "Creastery": 2625,
-    "chyeo": 2002,
-    "lycjackie": 614
-  },
-  "authorFileFormatContributionMap": {
-    "truegitnovice": {
-      "adoc": 382,
-      "cs": 0,
-      "css": 0,
-      "fxml": 35,
-      "gradle": 0,
-      "html": 0,
-      "java": 1669,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "WendyBaiYunwei": {
-      "adoc": 112,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "Creastery": {
-      "adoc": 195,
-      "cs": 0,
-      "css": 1,
-      "fxml": 7,
-      "gradle": 1,
-      "html": 0,
-      "java": 2334,
-      "js": 0,
-      "json": 87,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "chyeo": {
-      "adoc": 66,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 1909,
-      "js": 0,
-      "json": 27,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "lycjackie": {
-      "adoc": 143,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 2,
-      "html": 0,
-      "java": 469,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "Creastery": 2664,
+    "chyeo": 1819,
+    "lycjackie": 625
   },
   "authorContributionVariance": {
-    "truegitnovice": 55478.8,
-    "WendyBaiYunwei": 273.167,
-    "Creastery": 262442.44,
-    "chyeo": 387888.84,
-    "lycjackie": 5086.181
+    "truegitnovice": 96522.34,
+    "WendyBaiYunwei": 237.67944,
+    "Creastery": 231305.27,
+    "chyeo": 341087.16,
+    "lycjackie": 4483.7153
   },
   "authorDisplayNameMap": {
     "truegitnovice": "AHN...GYU",

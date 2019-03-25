@@ -946,8 +946,8 @@
         "commitResults": []
       },
       {
-        "insertions": 38,
-        "deletions": 41,
+        "insertions": 52,
+        "deletions": 53,
         "date": "2019-03-18",
         "commitResults": [
           {
@@ -985,6 +985,18 @@
             "message": "Update UserGuide.adoc",
             "insertions": 17,
             "deletions": 18
+          },
+          {
+            "hash": "851711c464c0106e83b9c1ad30eaf1db1dec7f5f",
+            "message": "Update DevGuide for proposed data encryption feature",
+            "insertions": 10,
+            "deletions": 4
+          },
+          {
+            "hash": "e52920a2b8813b18299a60f9f493434a21bb260c",
+            "message": "Update user stories",
+            "insertions": 4,
+            "deletions": 8
           }
         ]
       }
@@ -1376,85 +1388,15 @@
     ]
   },
   "authorFinalContributionMap": {
-    "tantantan277": 1056,
+    "tantantan277": 1053,
     "ssunil3232": 219,
-    "shanseet": 530,
+    "shanseet": 538,
     "weizhang05": 489
-  },
-  "authorFileFormatContributionMap": {
-    "tantantan277": {
-      "adoc": 91,
-      "cs": 0,
-      "css": 0,
-      "fxml": 11,
-      "gradle": 0,
-      "html": 0,
-      "java": 914,
-      "js": 0,
-      "json": 40,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "ssunil3232": {
-      "adoc": 1,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 218,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "shanseet": {
-      "adoc": 67,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 463,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "weizhang05": {
-      "adoc": 305,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 184,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
   },
   "authorContributionVariance": {
     "tantantan277": 70067.23,
     "ssunil3232": 1723.3718,
-    "shanseet": 18677.17,
+    "shanseet": 18757.422,
     "weizhang05": 8629.822
   },
   "authorDisplayNameMap": {

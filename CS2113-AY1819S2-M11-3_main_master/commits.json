@@ -254,6 +254,43 @@
         "deletions": 0,
         "date": "2019-03-17",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 78,
+        "deletions": 85,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "fa4afd4354e61ef7843f0e2e982adfe5b16f1c98",
+            "message": "Updated UserGuide.adoc",
+            "insertions": 69,
+            "deletions": 74
+          },
+          {
+            "hash": "922f1d1f45752545770973a4802f730ae86e1f63",
+            "message": "Updated add, edit, and summary of UserGuide.adoc",
+            "insertions": 9,
+            "deletions": 11
+          }
+        ]
       }
     ],
     "jemine1998": [
@@ -537,6 +574,30 @@
             "deletions": 7
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
       }
     ],
     "dannong": [
@@ -840,75 +901,60 @@
         "commitResults": []
       },
       {
+        "insertions": 25,
+        "deletions": 22,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "693a12b89f8e152e280e7093b7312abd962c7926",
+            "message": "Update Developer Guide (Shelf-Life of FlashCards)",
+            "insertions": 25,
+            "deletions": 22
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-17",
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 22,
+        "deletions": 25,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "7e2d99d1e12dffc14551d700348cc09d5aeb72a9",
+            "message": "Revert Developer Guide",
+            "insertions": 22,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
         "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "wanchinglim": 151,
-    "jemine1998": 581,
-    "dannong": 5
-  },
-  "authorFileFormatContributionMap": {
-    "wanchinglim": {
-      "adoc": 151,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "jemine1998": {
-      "adoc": 48,
-      "cs": 0,
-      "css": 0,
-      "fxml": 1,
-      "gradle": 0,
-      "html": 0,
-      "java": 532,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "dannong": {
-      "adoc": 5,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "wanchinglim": 177,
+    "jemine1998": 524,
+    "dannong": 6
   },
   "authorContributionVariance": {
-    "wanchinglim": 3102.25,
-    "jemine1998": 9417.251,
-    "dannong": 2632.8062
+    "wanchinglim": 3378.0845,
+    "jemine1998": 8541.947,
+    "dannong": 2431.2095
   },
   "authorDisplayNameMap": {
     "wanchinglim": "LIM...ING",

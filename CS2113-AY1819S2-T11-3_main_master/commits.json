@@ -374,8 +374,8 @@
         ]
       },
       {
-        "insertions": 7,
-        "deletions": 2920,
+        "insertions": 101,
+        "deletions": 2972,
         "date": "2019-03-19",
         "commitResults": [
           {
@@ -383,6 +383,86 @@
             "message": "Revert \"Added features and updated UserGuide and AboutUs\"",
             "insertions": 7,
             "deletions": 2920
+          },
+          {
+            "hash": "a14cd4579f9a6530adf8811e3b6dda138373ad4f",
+            "message": "filter",
+            "insertions": 24,
+            "deletions": 20
+          },
+          {
+            "hash": "fa76998c4f07c8662a60a0e61c67c3349eec0e3b",
+            "message": "Revert \"Editted value in cashflow to use float instead\"",
+            "insertions": 10,
+            "deletions": 11
+          },
+          {
+            "hash": "68ff9ebda5f7d0f3cb1a0f606f60e4d17f26b9ca",
+            "message": "filter",
+            "insertions": 20,
+            "deletions": 20
+          },
+          {
+            "hash": "9281664960d4e08cfc046851c21b94ed03a2055e",
+            "message": "filter command done",
+            "insertions": 35,
+            "deletions": 0
+          },
+          {
+            "hash": "c2598001d0453df0dfc61cf827292dba496cc18b",
+            "message": "dg:",
+            "insertions": 5,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 43,
+        "deletions": 2,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "1fda9de76751e01dd8286f594c5abf7afc19566d",
+            "message": "ug",
+            "insertions": 43,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 860,
+        "deletions": 860,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "ea85bacc2045cb14f2e3a44c46174393056c41d7",
+            "message": "Revert \"Display Feature\"",
+            "insertions": 205,
+            "deletions": 655
+          },
+          {
+            "hash": "ca1912d8294186c2cc24c13f9527175e10d10b54",
+            "message": "Revert \"Revert \"Display Feature\"\"",
+            "insertions": 655,
+            "deletions": 205
           }
         ]
       }
@@ -615,6 +695,36 @@
         "deletions": 0,
         "date": "2019-03-19",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
       }
     ],
     "ngkaicong": [
@@ -844,6 +954,36 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
         "commitResults": []
       }
     ],
@@ -1075,87 +1215,47 @@
         "deletions": 0,
         "date": "2019-03-19",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "frankquekch": 2468,
+    "frankquekch": 3018,
     "jacobhan": 0,
     "ngkaicong": 0,
     "yushao2": 0
   },
-  "authorFileFormatContributionMap": {
-    "frankquekch": {
-      "adoc": 133,
-      "cs": 0,
-      "css": 0,
-      "fxml": 4,
-      "gradle": 2,
-      "html": 0,
-      "java": 2257,
-      "js": 0,
-      "json": 72,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "jacobhan": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "ngkaicong": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "yushao2": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
-  },
   "authorContributionVariance": {
-    "frankquekch": 443110.7,
+    "frankquekch": 465918.84,
     "jacobhan": 0.0,
     "ngkaicong": 0.0,
     "yushao2": 0.0

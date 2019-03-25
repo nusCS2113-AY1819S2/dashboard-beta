@@ -229,6 +229,30 @@
         "deletions": 0,
         "date": "2019-03-18",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
       }
     ],
     "articstranger": [
@@ -572,6 +596,30 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
       }
     ],
     "wongyuqi": [
@@ -795,6 +843,30 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
         "commitResults": []
       }
     ],
@@ -1166,90 +1238,82 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 1601,
+        "deletions": 21,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "ca8dccdf30d2924546faee5700d7acf1bff1ed35",
+            "message": "fix zander prob",
+            "insertions": 1545,
+            "deletions": 15
+          },
+          {
+            "hash": "4ccd4b82561af11d4bed4a293a7b46f54401451b",
+            "message": "update minor comments",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "c5e93a8efb86d7ee040133f4c74e1c5b4940fd43",
+            "message": "Add delete beneficiary command parser",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "39e0cdebd5670fedfe9245a648806db2a51a06cc",
+            "message": "Add the command line of beneficiary to the parser",
+            "insertions": 22,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 234,
+        "deletions": 9,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "4ee4ec09287e76caadc794520231098f731c4ccd",
+            "message": "set basic UI and set beneficiary panel",
+            "insertions": 220,
+            "deletions": 1
+          },
+          {
+            "hash": "7048539012ebc25935d33a69d7075611755df318",
+            "message": "add panel Title, ongoing",
+            "insertions": 14,
+            "deletions": 8
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "quinnzzzzz": 5,
-    "articstranger": 205,
+    "quinnzzzzz": 4,
+    "articstranger": 100,
     "wongyuqi": 0,
-    "ndhuu": 2393
-  },
-  "authorFileFormatContributionMap": {
-    "quinnzzzzz": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 5,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "articstranger": {
-      "adoc": 43,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 162,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "wongyuqi": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "ndhuu": {
-      "adoc": 323,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 2070,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "ndhuu": 2872
   },
   "authorContributionVariance": {
-    "quinnzzzzz": 0.105186254,
-    "articstranger": 775.7649,
+    "quinnzzzzz": 0.09518136,
+    "articstranger": 706.1024,
     "wongyuqi": 0.0,
-    "ndhuu": 155648.16
+    "ndhuu": 194702.02
   },
   "authorDisplayNameMap": {
     "quinnzzzzz": "ZHA... RU",
