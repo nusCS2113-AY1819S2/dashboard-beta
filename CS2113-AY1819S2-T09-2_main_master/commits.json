@@ -553,10 +553,47 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 61,
+        "deletions": 37,
         "date": "2019-03-25",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "2831bf7e7bb5495d7657a0ee62954aa169ffd6f8",
+            "message": "Update auto complete feature",
+            "insertions": 28,
+            "deletions": 6
+          },
+          {
+            "hash": "14338e7b204b48e54e636d279bcda89885ac6e08",
+            "message": "Update auto complete feature",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "72b903d3979197699cd47ac142e799ba5853be85",
+            "message": "coding style",
+            "insertions": 12,
+            "deletions": 4
+          },
+          {
+            "hash": "2cc8ef171e5099c5cd376c41c43bdd7a62d1cb9c",
+            "message": "coding style2",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "c1613011e1ce0e0153610642e026fb3e4eb87698",
+            "message": "Update auto complete UG",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "becd68c4f4933db4151b5c1679f883fd1083fb1d",
+            "message": "update auto complete UG",
+            "insertions": 0,
+            "deletions": 22
+          }
+        ]
       }
     ],
     "cheahzk": [
@@ -1298,10 +1335,41 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1359,
+        "deletions": 127,
         "date": "2019-03-23",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "d5c58287be212766822e412231a3bc2a3a4c14ba",
+            "message": "UserGuide: Updated some part.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1c57b2f7fb985442f4053bfed9ddabbd4398a3ab",
+            "message": "Duration: Removed due to not used.",
+            "insertions": 0,
+            "deletions": 52
+          },
+          {
+            "hash": "255eec1d3e9c844dc1f8a4682fca1f217c978a11",
+            "message": "Day: Added day model.",
+            "insertions": 858,
+            "deletions": 0
+          },
+          {
+            "hash": "6b15bb3466d6cd4cfa50c8d9c82edbbe169a1329",
+            "message": "Storage: Added storage components for day model.",
+            "insertions": 438,
+            "deletions": 10
+          },
+          {
+            "hash": "0464cb00e61c372dd15bb87cc51038654cb22f21",
+            "message": "Updated comments from addressBook to taskBook.",
+            "insertions": 62,
+            "deletions": 64
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1310,10 +1378,95 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 702,
+        "deletions": 1282,
         "date": "2019-03-25",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "815dd8765edb7eb658c4f1ff84ef4da50608fd8d",
+            "message": "Category: Added category class for use of daily time planner feature for task of different category.",
+            "insertions": 295,
+            "deletions": 634
+          },
+          {
+            "hash": "1a039dda3254401b76a9a3addae750e30ad1e1a9",
+            "message": "Day: To store time for each category for a date/day.",
+            "insertions": 288,
+            "deletions": 171
+          },
+          {
+            "hash": "b8cf5f6e72a3829e0621f2e5fff08995a0c4f58f",
+            "message": "SampleDateUtil: Modified for the newly added Category class.",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "48eba94838812b81f6cc0fd1053d4e8dd36d89bb",
+            "message": "Removed some uncessary stuff.",
+            "insertions": 3,
+            "deletions": 56
+          },
+          {
+            "hash": "ffaf649e251a457fcd32b704b2b8f6844bf36934",
+            "message": "Travis checkstyle fix 1.0.",
+            "insertions": 82,
+            "deletions": 249
+          },
+          {
+            "hash": "bd9007f8b5e33d96078b99cc871a553970467ea4",
+            "message": "Travis checkstyle fix 1.1",
+            "insertions": 15,
+            "deletions": 20
+          },
+          {
+            "hash": "eda3e60bc2ec71347a1333214ebd9fe3395d0713",
+            "message": "Travis checkstyle fix 1.2",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "0c546b000087709b0bd5eea74dd2a5478b376712",
+            "message": "Travis checkstyle fix 1.3",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d2623e0f3c1c6e34ba0d0e6ed880d96fda57eb64",
+            "message": "For Travis pass.",
+            "insertions": 0,
+            "deletions": 126
+          },
+          {
+            "hash": "6239455d73cdfd5ab9d831da942fd9f396a7461c",
+            "message": "Travis fix",
+            "insertions": 0,
+            "deletions": 14
+          },
+          {
+            "hash": "7236e892e5362da9ee7d76fe3648f8c327019ddc",
+            "message": "Travis fix",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "5d8fce230a33855a9ce7dc063c4d01ead7430cd8",
+            "message": "Travis fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0fe9b7be8902c14e255bcd2c710f5edf5ff2b5ef",
+            "message": "Travis fix",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "31633cce274fb977d2c9d56a92a3fafc4fd3f8d9",
+            "message": "Travis test",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "jingchen-z": [
@@ -1780,8 +1933,8 @@
         "commitResults": []
       },
       {
-        "insertions": 217,
-        "deletions": 51,
+        "insertions": 414,
+        "deletions": 119,
         "date": "2019-03-25",
         "commitResults": [
           {
@@ -1823,6 +1976,102 @@
           {
             "hash": "4a262b582d270788cee77b5cae81ea5a2b996d3b",
             "message": "Style checking 1.3",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "089ef2fbe56e6c14ab5637f3ecc7dc50aab047ae",
+            "message": "Calendar created v1.0",
+            "insertions": 156,
+            "deletions": 23
+          },
+          {
+            "hash": "28392184ad85b4d7deb3775ea8dbf89395113ae3",
+            "message": "Style fixing 1.0",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "6b41d5c680231d008d0fcc75c1e22f039de23f6e",
+            "message": "Style fixing 1.1",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "d30b07c120d2bf8d8acc7ddaefdae4d0c095e157",
+            "message": "Style fixing 1.2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b5359f434fc74acd245f800b01a7942713fb1725",
+            "message": "Change calendar background color",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "bb5596a29d0b51b480e2454ea10847b342666a34",
+            "message": "Style fixing 1.3",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "68dfd423f414a544a44335515d0e5d0b69fb8bab",
+            "message": "Style fixing 1.4",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "eeaab5921edec9dbf2d48655b9cce6c6a9a14d5c",
+            "message": "Style fixing 1.5",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "ac6c8afcfa0a368d6e8ece7b667148711bf95f9d",
+            "message": "Style fixing 1.6",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1c2810246b3c555193d33d8823b77366e940e6e8",
+            "message": "Style fixing 1.7",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "6929a54ccec3d36ab179a8e4e34280cdd5dda9f6",
+            "message": "Style fixing 1.8",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "499408c61a271c8e0f35d01c30c7942942323b3b",
+            "message": "Style fixing 1.9",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "1e2e7c06014398e81ecc9148c023551f4ae4fcef",
+            "message": "Style fixing 2.0",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "0b8b9869e6fe489c39fd4b6406e7b9210cfc4bc3",
+            "message": "Style fixing 2.1",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "0f048e830dd6511417eb34e26755c251dd407207",
+            "message": "Fix UI",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "af72b252e0b216f6241643cf4a0d6a371d4449db",
+            "message": "Update GUI default setting",
             "insertions": 2,
             "deletions": 2
           }
@@ -2243,8 +2492,8 @@
         ]
       },
       {
-        "insertions": 85,
-        "deletions": 37,
+        "insertions": 208,
+        "deletions": 193,
         "date": "2019-03-25",
         "commitResults": [
           {
@@ -2264,6 +2513,60 @@
             "message": "Update remind feature",
             "insertions": 28,
             "deletions": 0
+          },
+          {
+            "hash": "c5fc6d43751813e017eb6e64f7052c9838d10e3d",
+            "message": "UG update",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "b22ba03acf12fc59618180f1b2364eb3c058d2d1",
+            "message": "List commands merge together",
+            "insertions": 79,
+            "deletions": 145
+          },
+          {
+            "hash": "49f97a105cccf201c1d8d1fa2d3e660fb9b19e58",
+            "message": "List commands merge together",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "c8e7fde7ed8029119df584e57de64e4e12961d04",
+            "message": "List commands merge together",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "47ab5fca49781b4f7a9dfc21fa77d0749617b31e",
+            "message": "Update",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1bf6dcad97763dd15eb4f5fba6d63d3f8de89ccd",
+            "message": "Update",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "25438c8ff72dcabffa3ff57a25bf8c8e222ac147",
+            "message": "Test for list command update",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "a312fa65697dce4e065113e589412a0544bf67a4",
+            "message": "test for list command update",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8818322065df52c7d74197780ac258cfbe059d4d",
+            "message": "Test for list command update",
+            "insertions": 4,
+            "deletions": 2
           }
         ]
       }
@@ -2811,26 +3114,138 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 91,
+        "deletions": 84,
         "date": "2019-03-25",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "374e4335c5e5a4ce98236639f33654fc05ff1ff0",
+            "message": "update UG",
+            "insertions": 66,
+            "deletions": 37
+          },
+          {
+            "hash": "1855c2fa10b22efa3229da5d691d1dafd54b560c",
+            "message": "update UG (try 2)",
+            "insertions": 18,
+            "deletions": 38
+          },
+          {
+            "hash": "73be1a11cc466cd86c23f5cd8ff45c6ee3661461",
+            "message": "update UG (try 3)",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "3a05168e3d96cd1ccc0e9c3216b115bac4af3629",
+            "message": "update UG (try 4)",
+            "insertions": 4,
+            "deletions": 5
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Wanchunwei": 454,
-    "cheahzk": 2583,
-    "jingchen-z": 207,
-    "BrittonAlone": 496,
-    "Zeyang-Li": 1186
+    "Wanchunwei": 479,
+    "cheahzk": 3238,
+    "jingchen-z": 339,
+    "BrittonAlone": 419,
+    "Zeyang-Li": 1228
+  },
+  "authorFileFormatContributionMap": {
+    "Wanchunwei": {
+      "adoc": 140,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 339,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "cheahzk": {
+      "adoc": 150,
+      "cs": 0,
+      "css": 0,
+      "fxml": 26,
+      "gradle": 18,
+      "html": 0,
+      "java": 3044,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "jingchen-z": {
+      "adoc": 8,
+      "cs": 0,
+      "css": 0,
+      "fxml": 22,
+      "gradle": 0,
+      "html": 0,
+      "java": 309,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "BrittonAlone": {
+      "adoc": 39,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 380,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "Zeyang-Li": {
+      "adoc": 381,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 847,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
   },
   "authorContributionVariance": {
-    "Wanchunwei": 57655.676,
-    "cheahzk": 1591900.4,
-    "jingchen-z": 11824.749,
-    "BrittonAlone": 6977.609,
-    "Zeyang-Li": 1.2433391E7
+    "Wanchunwei": 57617.934,
+    "cheahzk": 1667514.0,
+    "jingchen-z": 16281.704,
+    "BrittonAlone": 9918.493,
+    "Zeyang-Li": 1.2429489E7
   },
   "authorDisplayNameMap": {
     "Wanchunwei": "WAN...WEI",

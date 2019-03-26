@@ -630,10 +630,30 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 5,
+        "deletions": 2,
         "date": "2019-03-25",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "cae52fdae95e77ba10b682266e632c1e49e9add8",
+            "message": "UI: update `DegreePlannerCard` to display module codes in sorted order (#118)",
+            "insertions": 5,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 47,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "299db7d08fad6db7da588ad499627a89a283efb0",
+            "message": "DeveloperGuide: update implementation for \u0027PlannerList\u0027 (#102)",
+            "insertions": 47,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "WendyBaiYunwei": [
@@ -913,6 +933,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
         "commitResults": []
       }
     ],
@@ -1850,9 +1876,34 @@
         "commitResults": []
       },
       {
+        "insertions": 344,
+        "deletions": 40,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "9084f56db719985f7893a7c4b1f4116a88a34aeb",
+            "message": "Storage: add more checks in `JsonSerializable`-related classes",
+            "insertions": 109,
+            "deletions": 18
+          },
+          {
+            "hash": "e81ecc05d94e15cd035aa027c530e53a2014b18a",
+            "message": "Model: add more checks in `AddressBook` class during edit/delete modules",
+            "insertions": 234,
+            "deletions": 21
+          },
+          {
+            "hash": "7d55c1a32c117cea8ca5548763c6d358b183cfb7",
+            "message": "MainApp: bump `MainApp#VERSION` to v1.2.1 for release (#120)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-25",
+        "date": "2019-03-26",
         "commitResults": []
       }
     ],
@@ -2423,10 +2474,47 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 192,
+        "deletions": 242,
         "date": "2019-03-22",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "4f2a462cd41aba408cf58c5e31c704deee791e94",
+            "message": "requirement: update logic of new command and checks",
+            "insertions": 36,
+            "deletions": 96
+          },
+          {
+            "hash": "ab6a8cd593885fdb811cfcca29131fca43339bcb",
+            "message": "Update to files to reference updated methods",
+            "insertions": 43,
+            "deletions": 72
+          },
+          {
+            "hash": "f50bf6133fd68ac714417e30eba85c11b8632e0b",
+            "message": "RequirementAddCommand: update methods and to receive data parsed",
+            "insertions": 46,
+            "deletions": 28
+          },
+          {
+            "hash": "e7d783021db8d3e6b2585a50576887c21dc5bb84",
+            "message": "AddCommandTest: update to reference updated methods",
+            "insertions": 36,
+            "deletions": 29
+          },
+          {
+            "hash": "3b83bef87a86c97d49c0edaa5f67ab7a1425b482",
+            "message": "test: update on test data generated",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "e799553f47ab3cc20498973acca73c450db6d6e5",
+            "message": "RequirementAddCommandTest: update to add in new test cases",
+            "insertions": 22,
+            "deletions": 8
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -2441,9 +2529,22 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 36,
         "deletions": 0,
         "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "dd67dd0b4c8624f508ed831e95ad8f92e443ea73",
+            "message": "DeveloperGuide: include design considerations on requirement_add command (#105)",
+            "insertions": 36,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
         "commitResults": []
       }
     ],
@@ -2988,7 +3089,7 @@
         "commitResults": []
       },
       {
-        "insertions": 6,
+        "insertions": 64,
         "deletions": 5,
         "date": "2019-03-25",
         "commitResults": [
@@ -3003,24 +3104,123 @@
             "message": "UI: standardise `saveLocationStatus` path in status bar (#117)",
             "insertions": 5,
             "deletions": 4
+          },
+          {
+            "hash": "4b452f10208cde4c1f1593ecd7b54181439c08c7",
+            "message": "docs/DeveloperGuide: update `find` command implementation details (#100)",
+            "insertions": 58,
+            "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "truegitnovice": 2102,
+    "truegitnovice": 2133,
     "WendyBaiYunwei": 112,
-    "Creastery": 2664,
-    "chyeo": 1819,
-    "lycjackie": 625
+    "Creastery": 2976,
+    "chyeo": 1821,
+    "lycjackie": 683
+  },
+  "authorFileFormatContributionMap": {
+    "truegitnovice": {
+      "adoc": 425,
+      "cs": 0,
+      "css": 26,
+      "fxml": 34,
+      "gradle": 0,
+      "html": 0,
+      "java": 1571,
+      "js": 0,
+      "json": 77,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "WendyBaiYunwei": {
+      "adoc": 112,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 0,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "Creastery": {
+      "adoc": 198,
+      "cs": 0,
+      "css": 1,
+      "fxml": 7,
+      "gradle": 21,
+      "html": 0,
+      "java": 2662,
+      "js": 0,
+      "json": 87,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "chyeo": {
+      "adoc": 102,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 1692,
+      "js": 0,
+      "json": 27,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "lycjackie": {
+      "adoc": 202,
+      "cs": 0,
+      "css": 0,
+      "fxml": 1,
+      "gradle": 2,
+      "html": 0,
+      "java": 476,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 2,
+      "xml": 0
+    }
   },
   "authorContributionVariance": {
-    "truegitnovice": 96522.34,
-    "WendyBaiYunwei": 237.67944,
-    "Creastery": 231305.27,
-    "chyeo": 341087.16,
-    "lycjackie": 4483.7153
+    "truegitnovice": 94413.76,
+    "WendyBaiYunwei": 232.63986,
+    "Creastery": 227067.44,
+    "chyeo": 334439.38,
+    "lycjackie": 4432.8887
   },
   "authorDisplayNameMap": {
     "truegitnovice": "AHN...GYU",

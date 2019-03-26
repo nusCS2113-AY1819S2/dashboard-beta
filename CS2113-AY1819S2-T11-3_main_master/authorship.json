@@ -22997,9 +22997,9 @@
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.FilterCommand;"
+        "content": "import seedu.address.logic.commands.DisplayCommand;"
       },
       {
         "lineNumber": 15,
@@ -23020,56 +23020,56 @@
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.FindCommand;"
+        "content": "import seedu.address.logic.commands.FilterCommand;"
       },
       {
         "lineNumber": 18,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.HelpCommand;"
+        "content": "import seedu.address.logic.commands.FindCommand;"
       },
       {
         "lineNumber": 19,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.HistoryCommand;"
+        "content": "import seedu.address.logic.commands.HelpCommand;"
       },
       {
         "lineNumber": 20,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.ListCommand;"
+        "content": "import seedu.address.logic.commands.HistoryCommand;"
       },
       {
         "lineNumber": 21,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.RedoCommand;"
+        "content": "import seedu.address.logic.commands.ListCommand;"
       },
       {
         "lineNumber": 22,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.SelectCommand;"
+        "content": "import seedu.address.logic.commands.RedoCommand;"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.UndoCommand;"
+        "content": "import seedu.address.logic.commands.SelectCommand;"
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.DisplayCommand;"
+        "content": "import seedu.address.logic.commands.UndoCommand;"
       },
       {
         "lineNumber": 25,
@@ -23223,409 +23223,416 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        if (!matcher.matches()) {"
+        "content": ""
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "-"
         },
-        "content": "            throw new ParseException(String.format(MESSAGE_INVALID_COMMAND_FORMAT, HelpCommand.MESSAGE_USAGE));"
+        "content": "        if (!matcher.matches()) {"
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "            throw new ParseException(String.format(MESSAGE_INVALID_COMMAND_FORMAT, HelpCommand.MESSAGE_USAGE));"
       },
       {
         "lineNumber": 49,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 50,
         "author": {
           "gitId": "-"
         },
-        "content": "        final String commandWord \u003d matcher.group(\"commandWord\");"
+        "content": ""
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "-"
         },
-        "content": "        final String arguments \u003d matcher.group(\"arguments\");"
+        "content": "        final String commandWord \u003d matcher.group(\"commandWord\");"
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "-"
         },
-        "content": "        switch (commandWord) {"
+        "content": "        final String arguments \u003d matcher.group(\"arguments\");"
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        switch (commandWord) {"
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "-"
         },
-        "content": "        case AddCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new AddCommandParser().parse(arguments);"
+        "content": "        case AddCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new AddCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 57,
         "author": {
           "gitId": "-"
         },
-        "content": "        case EditCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 58,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new EditCommandParser().parse(arguments);"
+        "content": "        case EditCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new EditCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "-"
         },
-        "content": "        case SelectCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 61,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new SelectCommandParser().parse(arguments);"
+        "content": "        case SelectCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 62,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new SelectCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 63,
         "author": {
           "gitId": "-"
         },
-        "content": "        case DeleteCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 64,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new DeleteCommandParser().parse(arguments);"
+        "content": "        case DeleteCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 65,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new DeleteCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 66,
         "author": {
           "gitId": "-"
         },
-        "content": "        case ClearCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 67,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new ClearCommand();"
+        "content": "        case ClearCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 68,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new ClearCommand();"
       },
       {
         "lineNumber": 69,
         "author": {
           "gitId": "-"
         },
-        "content": "        case FindCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 70,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new FindCommandParser().parse(arguments);"
+        "content": "        case FindCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 71,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new FindCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "-"
         },
-        "content": "        case ListCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 73,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new ListCommand();"
+        "content": "        case ListCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 74,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new ListCommand();"
       },
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        case DisplayCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 76,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "                return new DisplayCommandParser().parse(arguments);"
+        "content": "        case DisplayCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 77,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": ""
+        "content": "            return new DisplayCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "        case HistoryCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 79,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new HistoryCommand();"
+        "content": "        case HistoryCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 80,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new HistoryCommand();"
       },
       {
         "lineNumber": 81,
         "author": {
           "gitId": "-"
         },
-        "content": "        case BitcoinCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new BitcoinCommand();"
+        "content": "        case BitcoinCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 83,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new BitcoinCommand();"
       },
       {
         "lineNumber": 84,
         "author": {
           "gitId": "-"
         },
-        "content": "        case ExitCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 85,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new ExitCommand();"
+        "content": "        case ExitCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 86,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new ExitCommand();"
       },
       {
         "lineNumber": 87,
         "author": {
           "gitId": "-"
         },
-        "content": "        case HelpCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 88,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new HelpCommand();"
+        "content": "        case HelpCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 89,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new HelpCommand();"
       },
       {
         "lineNumber": 90,
         "author": {
           "gitId": "-"
         },
-        "content": "        case UndoCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 91,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new UndoCommand();"
+        "content": "        case UndoCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 92,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new UndoCommand();"
       },
       {
         "lineNumber": 93,
         "author": {
           "gitId": "-"
         },
-        "content": "        case RedoCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 94,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new RedoCommand();"
+        "content": "        case RedoCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 95,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new RedoCommand();"
       },
       {
         "lineNumber": 96,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        case FilterCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 97,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "            return new FilterCommandParser().parse(arguments);"
+        "content": "        case FilterCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 98,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": ""
+        "content": "            return new FilterCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "        default:"
+        "content": ""
       },
       {
         "lineNumber": 100,
         "author": {
           "gitId": "-"
         },
-        "content": "            throw new ParseException(MESSAGE_UNKNOWN_COMMAND);"
+        "content": "        default:"
       },
       {
         "lineNumber": 101,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "            throw new ParseException(MESSAGE_UNKNOWN_COMMAND);"
       },
       {
         "lineNumber": 102,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        }"
       },
       {
         "lineNumber": 103,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 104,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 105,
         "author": {
           "gitId": "-"
         },
@@ -23633,8 +23640,8 @@
       }
     ],
     "authorContributionMap": {
-      "frankquekch": 8,
-      "-": 96
+      "frankquekch": 6,
+      "-": 99
     }
   },
   {
@@ -26018,9 +26025,9 @@
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            throw new ParseException(CashFlow.MESSAGE_CASH_FLOW_CONSTRAINTS);"
+        "content": "            throw new ParseException(CashFlow.MESSAGE_CONSTRAINTS);"
       },
       {
         "lineNumber": 78,
@@ -26032,9 +26039,9 @@
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        return new CashFlow(trimmedCashFlow);"
+        "content": "        return CashFlow.getCashFlow(trimmedCashFlow);"
       },
       {
         "lineNumber": 80,
@@ -26241,8 +26248,8 @@
       }
     ],
     "authorContributionMap": {
-      "frankquekch": 19,
-      "-": 89
+      "frankquekch": 17,
+      "-": 91
     }
   },
   {
@@ -30270,16 +30277,16 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    public static final String MESSAGE_CASH_FLOW_CONSTRAINTS \u003d"
+        "content": "    public static final String MESSAGE_CONSTRAINTS \u003d"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            \"Any form of cash flow should consist of \u0027+\u0027 or \u0027-\u0027, \""
+        "content": "            \"Any form of cash flow should consist of \u0027+\u0027 or \u0027-\u0027 (Optional), \""
       },
       {
         "lineNumber": 14,
@@ -30403,9 +30410,9 @@
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    private static final String CASHFLOW_VALIDATION_REGEX \u003d \"^[+-](0|[1-9]\\\\d{0,11})(\\\\.\\\\d{1,2})?\";"
+        "content": "    private static final String CASHFLOW_VALIDATION_REGEX \u003d \"^[+-]?(0|[1-9]\\\\d{0,11})(\\\\.\\\\d{1,2})?\";"
       },
       {
         "lineNumber": 32,
@@ -30438,355 +30445,509 @@
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    public CashFlow(String cashFlow) {"
+        "content": "    private CashFlow(String cashFlow) {"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        requireNonNull(cashFlow);"
+        "content": "        this(Double.parseDouble(cashFlow));"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        checkArgument(isValidCashFlow(cashFlow), MESSAGE_CASH_FLOW_CONSTRAINTS);"
+        "content": "    }"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        this.value \u003d cashFlow;"
+        "content": ""
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        valueDouble \u003d Double.valueOf(cashFlow);"
+        "content": "    private CashFlow(Double cashFlow) {"
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        checkArgument(isFinite(valueDouble), MESSAGE_CASH_FLOW_CONSTRAINTS);"
+        "content": "        requireNonNull(cashFlow);"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    }"
+        "content": "        checkArgument(isValidCashFlow(cashFlow.toString()), MESSAGE_CONSTRAINTS);"
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": ""
+        "content": "        this.valueDouble \u003d cashFlow;"
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    public CashFlow(Double cashFlow) {"
+        "content": "        value \u003d cashFlow.toString();"
       },
       {
         "lineNumber": 45,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        requireNonNull(cashFlow);"
+        "content": "    }"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        checkArgument(isValidCashFlow(cashFlow.toString()), MESSAGE_CASH_FLOW_CONSTRAINTS);"
+        "content": ""
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "        this.valueDouble \u003d cashFlow;"
-      },
-      {
-        "lineNumber": 48,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "        value \u003d cashFlow.toString();"
-      },
-      {
-        "lineNumber": 49,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 50,
-        "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * Static method to get an instance of CashFlow using the class\u0027s private constructors"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * Checks whether the supplied argument cashFlow is of type String or Double and calls the correct constructor"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * for it."
+      },
+      {
         "lineNumber": 51,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "     * Returns if a given string is a valid cashflow parameter."
+        "content": "     *"
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "     */"
+        "content": "     * If the supplied argument is not an instance of String or Double, Throws an IllegalArgumentException."
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    public static boolean isValidCashFlow(String test) {"
+        "content": "     * @param cashFlow (Float/String) -- The value of the CashFlow"
       },
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        return test.matches(CASHFLOW_VALIDATION_REGEX);"
+        "content": "     * @return the generated CashFlow Instance"
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    }"
+        "content": "     */"
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "    public static CashFlow getCashFlow (Object cashFlow) {"
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    @Override"
+        "content": "        CashFlow cashFlowInstance;"
       },
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    public String toString() {"
+        "content": "        if (cashFlow instanceof String){"
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        if (String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble)).equals(\"0.00\")) {"
+        "content": "            String cashFlowStr \u003d (String) cashFlow;"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            return CURRENCY + String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble));"
+        "content": "            cashFlowInstance \u003d new CashFlow(cashFlowStr);"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        } else if (valueDouble \u003e 0) {"
+        "content": "            return cashFlowInstance;"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "            return POSITIVE_SIGN + CURRENCY + String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble));"
-      },
-      {
-        "lineNumber": 63,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "        } else {"
-      },
-      {
-        "lineNumber": 64,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "            return NEGATIVE_SIGN + CURRENCY + String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble));"
-      },
-      {
-        "lineNumber": 65,
-        "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        else if (cashFlow instanceof Double){"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            Double cashFlowDbl \u003d (Double) cashFlow;"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            cashFlowInstance \u003d new CashFlow(cashFlowDbl);"
+      },
+      {
         "lineNumber": 66,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    }"
+        "content": "            return cashFlowInstance;"
       },
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    public double toDouble () {"
+        "content": ""
       },
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        return valueDouble;"
+        "content": "        requireNonNull(cashFlow);"
       },
       {
         "lineNumber": 70,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    }"
+        "content": "        throw new IllegalArgumentException(\"CashFlow requires a double/ string argument for its constructor\");"
       },
       {
         "lineNumber": 71,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    public boolean isNotLarger (double cashin) {"
+        "content": "    /**"
       },
       {
         "lineNumber": 73,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        return (cashin \u003e\u003d valueDouble);"
+        "content": "     * Returns if a given string is a valid cashflow parameter."
       },
       {
         "lineNumber": 74,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    }"
+        "content": "     */"
       },
       {
         "lineNumber": 75,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": ""
+        "content": "    public static boolean isValidCashFlow(String test) {"
       },
       {
         "lineNumber": 76,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    @Override"
+        "content": "        return test.matches(CASHFLOW_VALIDATION_REGEX);"
       },
       {
         "lineNumber": 77,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    public boolean equals(Object other) {"
+        "content": "    }"
       },
       {
         "lineNumber": 78,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        return other \u003d\u003d this // short circuit if same object"
+        "content": ""
       },
       {
         "lineNumber": 79,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "                || (other instanceof CashFlow // instanceof handles nulls"
+        "content": "    @Override"
       },
       {
         "lineNumber": 80,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "                \u0026\u0026 value.equals(((CashFlow) other).value)); // state check"
+        "content": "    public String toString() {"
       },
       {
         "lineNumber": 81,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    }"
+        "content": "        if (String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble)).equals(\"0.00\")) {"
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": ""
+        "content": "            return CURRENCY + String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble));"
       },
       {
         "lineNumber": 83,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    public int hashCode() {"
+        "content": "        } else if (valueDouble \u003e 0) {"
       },
       {
         "lineNumber": 84,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        return value.hashCode();"
+        "content": "            return POSITIVE_SIGN + CURRENCY + String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble));"
       },
       {
         "lineNumber": 85,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    }"
+        "content": "        } else {"
       },
       {
         "lineNumber": 86,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "            return NEGATIVE_SIGN + CURRENCY + String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble));"
+      },
+      {
+        "lineNumber": 87,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 88,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 89,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 90,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    public double toDouble () {"
+      },
+      {
+        "lineNumber": 91,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "        return valueDouble;"
+      },
+      {
+        "lineNumber": 92,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 93,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 94,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    public boolean isNotLarger (double cashin) {"
+      },
+      {
+        "lineNumber": 95,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "        return (cashin \u003e\u003d valueDouble);"
+      },
+      {
+        "lineNumber": 96,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 97,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 98,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 99,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    public boolean equals(Object other) {"
+      },
+      {
+        "lineNumber": 100,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "        return other \u003d\u003d this // short circuit if same object"
+      },
+      {
+        "lineNumber": 101,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "                || (other instanceof CashFlow // instanceof handles nulls"
+      },
+      {
+        "lineNumber": 102,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "                \u0026\u0026 value.equals(((CashFlow) other).value)); // state check"
+      },
+      {
+        "lineNumber": 103,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 104,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 105,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    public int hashCode() {"
+      },
+      {
+        "lineNumber": 106,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "        return value.hashCode();"
+      },
+      {
+        "lineNumber": 107,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 108,
         "author": {
           "gitId": "frankquekch"
         },
@@ -30794,7 +30955,8 @@
       }
     ],
     "authorContributionMap": {
-      "frankquekch": 86
+      "frankquekch": 75,
+      "-": 33
     }
   },
   {
@@ -35369,9 +35531,9 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            new Entry(new Name(\"Salary from Alex Yeoh\"), new Date(\"11-11-2019\"), new CashFlow(\"+100\"),"
+        "content": "            new Entry(new Name(\"Salary from Alex Yeoh\"), new Date(\"11-11-2019\"), CashFlow.getCashFlow(\"+100\"),"
       },
       {
         "lineNumber": 22,
@@ -35383,9 +35545,9 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            new Entry(new Name(\"Lunch with Bernice Yu\"), new Date(\"12-12-2018\"), new CashFlow(\"+100\"),"
+        "content": "            new Entry(new Name(\"Lunch with Bernice Yu\"), new Date(\"12-12-2018\"), CashFlow.getCashFlow(\"+100\"),"
       },
       {
         "lineNumber": 24,
@@ -35397,9 +35559,9 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            new Entry(new Name(\"Burger with Charlotte Oliveiro\"), new Date(\"11-11-2019\"), new CashFlow(\"+100\"),"
+        "content": "            new Entry(new Name(\"Burger with Charlotte Oliveiro\"), new Date(\"11-11-2019\"), CashFlow.getCashFlow(\"+100\"),"
       },
       {
         "lineNumber": 26,
@@ -35411,9 +35573,9 @@
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            new Entry(new Name(\"School Loan\"), new Date(\"12-12-2018\"), new CashFlow(\"+100\"),"
+        "content": "            new Entry(new Name(\"School Loan\"), new Date(\"12-12-2018\"), CashFlow.getCashFlow(\"+100\"),"
       },
       {
         "lineNumber": 28,
@@ -35425,9 +35587,9 @@
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            new Entry(new Name(\"Income\"), new Date(\"12-12-2019\"), new CashFlow(\"+100\"),"
+        "content": "            new Entry(new Name(\"Income\"), new Date(\"12-12-2019\"), CashFlow.getCashFlow(\"+100\"),"
       },
       {
         "lineNumber": 30,
@@ -35439,9 +35601,9 @@
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            new Entry(new Name(\"Dinner with Roy Balakrishnan\"), new Date(\"11-11-2019\"), new CashFlow(\"+100\"),"
+        "content": "            new Entry(new Name(\"Dinner with Roy Balakrishnan\"), new Date(\"11-11-2019\"), CashFlow.getCashFlow(\"+100\"),"
       },
       {
         "lineNumber": 32,
@@ -35599,8 +35761,8 @@
       }
     ],
     "authorContributionMap": {
-      "frankquekch": 14,
-      "-": 39
+      "frankquekch": 8,
+      "-": 45
     }
   },
   {
@@ -36232,9 +36394,9 @@
       {
         "lineNumber": 90,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            throw new IllegalValueException(CashFlow.MESSAGE_CASH_FLOW_CONSTRAINTS);"
+        "content": "            throw new IllegalValueException(CashFlow.MESSAGE_CONSTRAINTS);"
       },
       {
         "lineNumber": 91,
@@ -36246,9 +36408,9 @@
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        final CashFlow modelCashFlow \u003d new CashFlow(cashFlow);"
+        "content": "        final CashFlow modelCashFlow \u003d CashFlow.getCashFlow(cashFlow);"
       },
       {
         "lineNumber": 93,
@@ -36301,8 +36463,8 @@
       }
     ],
     "authorContributionMap": {
-      "frankquekch": 31,
-      "-": 68
+      "frankquekch": 29,
+      "-": 70
     }
   },
   {
@@ -50555,7 +50717,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        public void setUserPrefs(ReadOnlyUserPrefs userPrefs) {"
+        "content": "        public void sortFilteredEntryList(String category, Boolean reversed) {"
       },
       {
         "lineNumber": 97,
@@ -50590,7 +50752,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        public ReadOnlyUserPrefs getUserPrefs() {"
+        "content": "        public void setUserPrefs(ReadOnlyUserPrefs userPrefs) {"
       },
       {
         "lineNumber": 102,
@@ -50625,7 +50787,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        public GuiSettings getGuiSettings() {"
+        "content": "        public ReadOnlyUserPrefs getUserPrefs() {"
       },
       {
         "lineNumber": 107,
@@ -50660,7 +50822,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        public void setGuiSettings(GuiSettings guiSettings) {"
+        "content": "        public GuiSettings getGuiSettings() {"
       },
       {
         "lineNumber": 112,
@@ -50695,7 +50857,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        public Path getAddressBookFilePath() {"
+        "content": "        public void setGuiSettings(GuiSettings guiSettings) {"
       },
       {
         "lineNumber": 117,
@@ -50730,7 +50892,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        public void setAddressBookFilePath(Path addressBookFilePath) {"
+        "content": "        public Path getAddressBookFilePath() {"
       },
       {
         "lineNumber": 122,
@@ -50763,9 +50925,9 @@
       {
         "lineNumber": 126,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        public void addEntry(Entry entry) {"
+        "content": "        public void setAddressBookFilePath(Path addressBookFilePath) {"
       },
       {
         "lineNumber": 127,
@@ -50798,9 +50960,9 @@
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "        public void setAddressBook(ReadOnlyAddressBook newData) {"
+        "content": "        public void addEntry(Entry entry) {"
       },
       {
         "lineNumber": 132,
@@ -50835,7 +50997,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        public ReadOnlyAddressBook getAddressBook() {"
+        "content": "        public void setAddressBook(ReadOnlyAddressBook newData) {"
       },
       {
         "lineNumber": 137,
@@ -50868,9 +51030,9 @@
       {
         "lineNumber": 141,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        public boolean hasEntry(Entry entry) {"
+        "content": "        public ReadOnlyAddressBook getAddressBook() {"
       },
       {
         "lineNumber": 142,
@@ -50905,7 +51067,7 @@
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        public void deleteEntry(Entry target) {"
+        "content": "        public boolean hasEntry(Entry entry) {"
       },
       {
         "lineNumber": 147,
@@ -50940,7 +51102,7 @@
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        public void setEntry(Entry target, Entry editedEntry) {"
+        "content": "        public void deleteEntry(Entry target) {"
       },
       {
         "lineNumber": 152,
@@ -50975,7 +51137,7 @@
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        public ObservableList\u003cEntry\u003e getFilteredEntryList() {"
+        "content": "        public void setEntry(Entry target, Entry editedEntry) {"
       },
       {
         "lineNumber": 157,
@@ -51010,7 +51172,7 @@
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        public void updateFilteredEntryList(Predicate\u003cEntry\u003e predicate) {"
+        "content": "        public ObservableList\u003cEntry\u003e getFilteredEntryList() {"
       },
       {
         "lineNumber": 162,
@@ -51043,9 +51205,9 @@
       {
         "lineNumber": 166,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "        public boolean canUndoAddressBook() {"
+        "content": "        public void updateFilteredEntryList(Predicate\u003cEntry\u003e predicate) {"
       },
       {
         "lineNumber": 167,
@@ -51080,7 +51242,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        public boolean canRedoAddressBook() {"
+        "content": "        public boolean canUndoAddressBook() {"
       },
       {
         "lineNumber": 172,
@@ -51115,7 +51277,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        public void undoAddressBook() {"
+        "content": "        public boolean canRedoAddressBook() {"
       },
       {
         "lineNumber": 177,
@@ -51150,7 +51312,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        public void redoAddressBook() {"
+        "content": "        public void undoAddressBook() {"
       },
       {
         "lineNumber": 182,
@@ -51185,7 +51347,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        public void commitAddressBook() {"
+        "content": "        public void redoAddressBook() {"
       },
       {
         "lineNumber": 187,
@@ -51218,9 +51380,9 @@
       {
         "lineNumber": 191,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        public ReadOnlyProperty\u003cEntry\u003e selectedEntryProperty() {"
+        "content": "        public void commitAddressBook() {"
       },
       {
         "lineNumber": 192,
@@ -51255,7 +51417,7 @@
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        public Entry getSelectedEntry() {"
+        "content": "        public ReadOnlyProperty\u003cEntry\u003e selectedEntryProperty() {"
       },
       {
         "lineNumber": 197,
@@ -51290,7 +51452,7 @@
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        public void setSelectedEntry(Entry entry) {"
+        "content": "        public Entry getSelectedEntry() {"
       },
       {
         "lineNumber": 202,
@@ -51311,84 +51473,84 @@
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": ""
       },
       {
         "lineNumber": 205,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        @Override"
       },
       {
         "lineNumber": 206,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "    /**"
+        "content": "        public void setSelectedEntry(Entry entry) {"
       },
       {
         "lineNumber": 207,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "     * A Model stub that contains a single entry."
+        "content": "            throw new AssertionError(\"This method should not be called.\");"
       },
       {
         "lineNumber": 208,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "        }"
       },
       {
         "lineNumber": 209,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    private class ModelStubWithEntry extends ModelStub {"
+        "content": "    }"
       },
       {
         "lineNumber": 210,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "        private final Entry entry;"
-      },
-      {
-        "lineNumber": 211,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
+        "lineNumber": 211,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    /**"
+      },
+      {
         "lineNumber": 212,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        ModelStubWithEntry(Entry entry) {"
+        "content": "     * A Model stub that contains a single entry."
       },
       {
         "lineNumber": 213,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            requireNonNull(entry);"
+        "content": "     */"
       },
       {
         "lineNumber": 214,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "            this.entry \u003d entry;"
+        "content": "    private class ModelStubWithEntry extends ModelStub {"
       },
       {
         "lineNumber": 215,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "        }"
+        "content": "        private final Entry entry;"
       },
       {
         "lineNumber": 216,
@@ -51400,198 +51562,198 @@
       {
         "lineNumber": 217,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "        @Override"
+        "content": "        ModelStubWithEntry(Entry entry) {"
       },
       {
         "lineNumber": 218,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        public boolean hasEntry(Entry entry) {"
+        "content": "            requireNonNull(entry);"
       },
       {
         "lineNumber": 219,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "            requireNonNull(entry);"
+        "content": "            this.entry \u003d entry;"
       },
       {
         "lineNumber": 220,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            return this.entry.isSameEntry(entry);"
+        "content": "        }"
       },
       {
         "lineNumber": 221,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": ""
       },
       {
         "lineNumber": 222,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 223,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 224,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    /**"
-      },
-      {
-        "lineNumber": 225,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "     * A Model stub that always accept the entry being added."
-      },
-      {
-        "lineNumber": 226,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     */"
-      },
-      {
-        "lineNumber": 227,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "    private class ModelStubAcceptingEntryAdded extends ModelStub {"
-      },
-      {
-        "lineNumber": 228,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "        final ArrayList\u003cEntry\u003e entrysAdded \u003d new ArrayList\u003c\u003e();"
-      },
-      {
-        "lineNumber": 229,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 230,
-        "author": {
-          "gitId": "-"
-        },
         "content": "        @Override"
       },
       {
-        "lineNumber": 231,
+        "lineNumber": 223,
         "author": {
           "gitId": "frankquekch"
         },
         "content": "        public boolean hasEntry(Entry entry) {"
       },
       {
-        "lineNumber": 232,
+        "lineNumber": 224,
         "author": {
           "gitId": "frankquekch"
         },
         "content": "            requireNonNull(entry);"
+      },
+      {
+        "lineNumber": 225,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "            return this.entry.isSameEntry(entry);"
+      },
+      {
+        "lineNumber": 226,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 227,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 228,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 229,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 230,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "     * A Model stub that always accept the entry being added."
+      },
+      {
+        "lineNumber": 231,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 232,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    private class ModelStubAcceptingEntryAdded extends ModelStub {"
       },
       {
         "lineNumber": 233,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "            return entrysAdded.stream().anyMatch(entry::isSameEntry);"
+        "content": "        final ArrayList\u003cEntry\u003e entrysAdded \u003d new ArrayList\u003c\u003e();"
       },
       {
         "lineNumber": 234,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": ""
       },
       {
         "lineNumber": 235,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        @Override"
       },
       {
         "lineNumber": 236,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "        @Override"
+        "content": "        public boolean hasEntry(Entry entry) {"
       },
       {
         "lineNumber": 237,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        public void addEntry(Entry entry) {"
+        "content": "            requireNonNull(entry);"
       },
       {
         "lineNumber": 238,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "            requireNonNull(entry);"
+        "content": "            return entrysAdded.stream().anyMatch(entry::isSameEntry);"
       },
       {
         "lineNumber": 239,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "            entrysAdded.add(entry);"
-      },
-      {
-        "lineNumber": 240,
         "author": {
           "gitId": "-"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 241,
+        "lineNumber": 240,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 242,
+        "lineNumber": 241,
         "author": {
           "gitId": "-"
         },
         "content": "        @Override"
       },
       {
+        "lineNumber": 242,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "        public void addEntry(Entry entry) {"
+      },
+      {
         "lineNumber": 243,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "        public void commitAddressBook() {"
+        "content": "            requireNonNull(entry);"
       },
       {
         "lineNumber": 244,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "            // called by {@code AddCommand#execute()}"
+        "content": "            entrysAdded.add(entry);"
       },
       {
         "lineNumber": 245,
@@ -51619,14 +51781,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        public ReadOnlyAddressBook getAddressBook() {"
+        "content": "        public void commitAddressBook() {"
       },
       {
         "lineNumber": 249,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new AddressBook();"
+        "content": "            // called by {@code AddCommand#execute()}"
       },
       {
         "lineNumber": 250,
@@ -51640,17 +51802,52 @@
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": ""
       },
       {
         "lineNumber": 252,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        @Override"
       },
       {
         "lineNumber": 253,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        public ReadOnlyAddressBook getAddressBook() {"
+      },
+      {
+        "lineNumber": 254,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            return new AddressBook();"
+      },
+      {
+        "lineNumber": 255,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 256,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 257,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 258,
         "author": {
           "gitId": "-"
         },
@@ -51659,7 +51856,7 @@
     ],
     "authorContributionMap": {
       "frankquekch": 44,
-      "-": 209
+      "-": 214
     }
   },
   {
@@ -59595,7 +59792,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "                + TAG_DESC_HUSBAND + TAG_DESC_FRIEND, Date.MESSAGE_CONSTRAINTS);"
+        "content": "                + TAG_DESC_HUSBAND + TAG_DESC_FRIEND, Date.MESSAGE_DATE_CONSTRAINTS);"
       },
       {
         "lineNumber": 114,
@@ -61533,7 +61730,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        assertParseFailure(parser, \"1\" + INVALID_DATE_DESC, Date.MESSAGE_CONSTRAINTS); // invalid date"
+        "content": "        assertParseFailure(parser, \"1\" + INVALID_DATE_DESC, Date.MESSAGE_DATE_CONSTRAINTS); // invalid date"
       },
       {
         "lineNumber": 80,
@@ -61568,7 +61765,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        assertParseFailure(parser, \"1\" + INVALID_DATE_DESC + CASHFLOW_DESC_AMY, Date.MESSAGE_CONSTRAINTS);"
+        "content": "        assertParseFailure(parser, \"1\" + INVALID_DATE_DESC + CASHFLOW_DESC_AMY, Date.MESSAGE_DATE_CONSTRAINTS);"
       },
       {
         "lineNumber": 85,
@@ -61596,7 +61793,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        assertParseFailure(parser, \"1\" + DATE_DESC_BOB + INVALID_DATE_DESC, Date.MESSAGE_CONSTRAINTS);"
+        "content": "        assertParseFailure(parser, \"1\" + DATE_DESC_BOB + INVALID_DATE_DESC, Date.MESSAGE_DATE_CONSTRAINTS);"
       },
       {
         "lineNumber": 89,
@@ -63481,9 +63678,9 @@
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        CashFlow expectedCashFlow \u003d new CashFlow(VALID_CASHFLOW);"
+        "content": "        CashFlow expectedCashFlow \u003d CashFlow.getCashFlow(VALID_CASHFLOW);"
       },
       {
         "lineNumber": 125,
@@ -63530,9 +63727,9 @@
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        CashFlow expectedCashFlow \u003d new CashFlow(VALID_CASHFLOW);"
+        "content": "        CashFlow expectedCashFlow \u003d CashFlow.getCashFlow(VALID_CASHFLOW);"
       },
       {
         "lineNumber": 132,
@@ -63907,8 +64104,8 @@
       }
     ],
     "authorContributionMap": {
-      "frankquekch": 28,
-      "-": 156
+      "frankquekch": 26,
+      "-": 158
     }
   },
   {
@@ -71642,7 +71839,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        String expectedMessage \u003d Date.MESSAGE_CONSTRAINTS;"
+        "content": "        String expectedMessage \u003d Date.MESSAGE_DATE_CONSTRAINTS;"
       },
       {
         "lineNumber": 73,
@@ -74212,9 +74409,9 @@
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        descriptor.setCashFlow(new CashFlow(cashFlow));"
+        "content": "        descriptor.setCashFlow(CashFlow.getCashFlow(cashFlow));"
       },
       {
         "lineNumber": 61,
@@ -74344,8 +74541,8 @@
       }
     ],
     "authorContributionMap": {
-      "frankquekch": 77,
-      "-": 1
+      "frankquekch": 76,
+      "-": 2
     }
   },
   {
@@ -74557,9 +74754,9 @@
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        cashFlow \u003d new Income(DEFAULT_CASHFLOW);"
+        "content": "        cashFlow \u003d CashFlow.getCashFlow(DEFAULT_CASHFLOW);"
       },
       {
         "lineNumber": 31,
@@ -74795,30 +74992,30 @@
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        if (Expense.isValidExpense(cashFlow)) {"
+        "content": "        if (CashFlow.isValidCashFlow(cashFlow)) {"
       },
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            this.cashFlow \u003d new Expense(cashFlow);"
+        "content": "            this.cashFlow \u003d CashFlow.getCashFlow(cashFlow);"
       },
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        } else if (Income.isValidIncome(cashFlow)) {"
+        "content": "        } else if (CashFlow.isValidCashFlow(cashFlow)) {"
       },
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            this.cashFlow \u003d new Income(cashFlow);"
+        "content": "            this.cashFlow \u003d CashFlow.getCashFlow(cashFlow);"
       },
       {
         "lineNumber": 68,
@@ -74941,8 +75138,8 @@
       }
     ],
     "authorContributionMap": {
-      "frankquekch": 33,
-      "-": 51
+      "frankquekch": 28,
+      "-": 56
     }
   },
   {
@@ -77758,7 +77955,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "            CashFlow cashflow \u003d new CashFlow(\"-0.90\");"
+        "content": "            CashFlow cashflow \u003d CashFlow.getCashFlow(\"-0.90\");"
       },
       {
         "lineNumber": 86,
@@ -79281,7 +79478,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        assertCommandFailure(command, Date.MESSAGE_CONSTRAINTS);"
+        "content": "        assertCommandFailure(command, Date.MESSAGE_DATE_CONSTRAINTS);"
       },
       {
         "lineNumber": 125,
@@ -85099,7 +85296,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "                        + INVALID_DATE_DESC, Date.MESSAGE_CONSTRAINTS);"
+        "content": "                        + INVALID_DATE_DESC, Date.MESSAGE_DATE_CONSTRAINTS);"
       },
       {
         "lineNumber": 166,

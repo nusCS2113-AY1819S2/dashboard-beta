@@ -201,16 +201,42 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 18,
+        "deletions": 1,
         "date": "2019-03-10",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "613ac405001135bcee42e47d32efcdd807cead0f",
+            "message": "Add layout for Undo and Redo",
+            "insertions": 18,
+            "deletions": 1
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 60,
+        "deletions": 37,
         "date": "2019-03-11",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "0ca40f38078f36ab1366943c80d14567fcdaa134",
+            "message": "Add lists of undoable and redoable commands",
+            "insertions": 23,
+            "deletions": 8
+          },
+          {
+            "hash": "e16c8ad2e32ed61f44dc39cd04797e4711339e00",
+            "message": "Simplified code",
+            "insertions": 23,
+            "deletions": 17
+          },
+          {
+            "hash": "95e35c2560f0590f18b3073e3c21a2f379112c49",
+            "message": "Fix checkstyles",
+            "insertions": 14,
+            "deletions": 12
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -329,6 +355,99 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 164,
+        "deletions": 22,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "6ef22a92c8928231a2f136826a3ceb87e93e3910",
+            "message": "Add undoableList logic",
+            "insertions": 164,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 248,
+        "deletions": 51,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "a5ae9399037654c722b10968f4493dc6f3b7664d",
+            "message": "View Undo List and Redo List on the GUI and comment out the Browser Panel",
+            "insertions": 231,
+            "deletions": 45
+          },
+          {
+            "hash": "5df42554800b74bb7ee73703cd269029ba429a8e",
+            "message": "Add browser back for testing purposes",
+            "insertions": 17,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 62,
+        "deletions": 29,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "34cfd58c308ded61dde39672fa30e3aa6f74e0fb",
+            "message": "Remove browser in tests",
+            "insertions": 40,
+            "deletions": 18
+          },
+          {
+            "hash": "3e235ae29aaf29368a0260d730fdd00c06fcf7a7",
+            "message": "Update test cases",
+            "insertions": 13,
+            "deletions": 4
+          },
+          {
+            "hash": "08c4ee70f1a0951ff076cebfec07e5378119a517",
+            "message": "Fix checkstyles",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6beb515e70432522251738199a6992c4d24e9ba7",
+            "message": "Fix checkstyle again",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "ae13cb17e2236df0bf9b150357d917556b5cba2f",
+            "message": "Fix HelpWindow test",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ],
     "ssunil3232": [
@@ -543,7 +662,7 @@
         "commitResults": []
       },
       {
-        "insertions": 237,
+        "insertions": 266,
         "deletions": 19,
         "date": "2019-03-17",
         "commitResults": [
@@ -582,14 +701,106 @@
             "message": "CheckStyle Fix",
             "insertions": 2,
             "deletions": 1
+          },
+          {
+            "hash": "1bcd44719ad8b95900d126902e009ee9b2f607b0",
+            "message": "Listing out the Freshmen. Temporary ArrayList to store.",
+            "insertions": 29,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 19,
+        "deletions": 15,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "e8f14c218a43c27d9337d8d7bfe8ecd0d3c250eb",
+            "message": "Change from Storage to Model",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "bcd82842fff7f10d5ca992a24dcd202a50314229",
+            "message": "EOF Corrected",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "11d61203361d70f988e7e6c3426250f830b27012",
+            "message": "EOF correction",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "d1ffc17f9f03f99aa593b7a3eb28305dc422d53f",
+            "message": "Checkstyle correction",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "e64944eabd18f593eb8db601680595a588eae792",
+            "message": "Merge Update",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "d6d881095a6c488fd8166ecc9e9c6677a667e50f",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 12,
+            "deletions": 0
           }
         ]
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-18",
+        "date": "2019-03-19",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 190,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "131da4aa9af6af40af79d14c0c0e9ab8438487d6",
+            "message": "Merged Conflicts",
+            "insertions": 0,
+            "deletions": 190
+          }
+        ]
       }
     ],
     "shanseet": [
@@ -999,6 +1210,68 @@
             "deletions": 8
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 205,
+        "deletions": 98,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "fa3c7a43a4133980ec5f7f053c2aa8c15b5d0102",
+            "message": "Update UserGuide.adoc",
+            "insertions": 175,
+            "deletions": 83
+          },
+          {
+            "hash": "cf4bb04c9d560a533472ae4d85b4ef31edadbff3",
+            "message": "Update user guide reference links",
+            "insertions": 30,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 2,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "08bf6891f20b1fa9206e02814844cb4ecef5920a",
+            "message": "update for white space error",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "weizhang05": [
@@ -1384,20 +1657,132 @@
             "deletions": 3
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "tantantan277": 1053,
-    "ssunil3232": 219,
-    "shanseet": 538,
+    "tantantan277": 1473,
+    "ssunil3232": 254,
+    "shanseet": 708,
     "weizhang05": 489
   },
+  "authorFileFormatContributionMap": {
+    "tantantan277": {
+      "adoc": 81,
+      "cs": 0,
+      "css": 0,
+      "fxml": 104,
+      "gradle": 0,
+      "html": 0,
+      "java": 1248,
+      "js": 0,
+      "json": 40,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "ssunil3232": {
+      "adoc": 13,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 241,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "shanseet": {
+      "adoc": 247,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 461,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "weizhang05": {
+      "adoc": 305,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 184,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
   "authorContributionVariance": {
-    "tantantan277": 70067.23,
-    "ssunil3232": 1723.3718,
-    "shanseet": 18757.422,
-    "weizhang05": 8629.822
+    "tantantan277": 60734.188,
+    "ssunil3232": 2558.9268,
+    "shanseet": 17565.648,
+    "weizhang05": 7303.8237
   },
   "authorDisplayNameMap": {
     "tantantan277": "PHA...TAN",

@@ -2867,84 +2867,84 @@
         "author": {
           "gitId": "-"
         },
-        "content": "* **Alternative 1:** Use a JSON file to store the username password pairs ."
+        "content": "* **Alternative 1 (current choice):** Use a Java Properties file to store the username password pairs ."
       },
       {
         "lineNumber": 340,
         "author": {
           "gitId": "-"
         },
-        "content": "** Pros: More compatible with HashMap and have a smaller size compared with XML."
+        "content": "** Pros: High readability, easy to implement as it only requires java.util package to work, small in file size."
       },
       {
         "lineNumber": 341,
         "author": {
           "gitId": "-"
         },
-        "content": "** Cons: Larger file size compared with CSV."
+        "content": "** Cons: Does not support hierarchical data structure well."
       },
       {
         "lineNumber": 342,
         "author": {
           "gitId": "-"
         },
-        "content": "* ** Alternative 2:** Use a CSV file to store the username password pairs."
+        "content": "* **Alternative 2:** Use a JSON file to store the username password pairs ."
       },
       {
         "lineNumber": 343,
         "author": {
           "gitId": "-"
         },
-        "content": "** Pros: Smallest in file size."
+        "content": "** Pros: Key-vaule pair format, similar to HashMap."
       },
       {
         "lineNumber": 344,
         "author": {
           "gitId": "-"
         },
-        "content": "** Cons: complicated to convert to/from HashMap. "
+        "content": "** Cons: Large in file size."
       },
       {
         "lineNumber": 345,
         "author": {
           "gitId": "-"
         },
-        "content": "* ** Alternative 2:** Use a XML file to store the username password pairs"
+        "content": "* ** Alternative 3:** Use a CSV file to store the username password pairs."
       },
       {
         "lineNumber": 346,
         "author": {
           "gitId": "-"
         },
-        "content": "** Pros: More compatible with HashMap. "
+        "content": "** Pros: Small in file size."
       },
       {
         "lineNumber": 347,
         "author": {
           "gitId": "-"
         },
-        "content": "** Cons: Largest in file size."
+        "content": "** Cons: Complicated to convert to/from HashMap. "
       },
       {
         "lineNumber": 348,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "* ** Alternative 4:** Use a XML file to store the username password pairs"
       },
       {
         "lineNumber": 349,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Add appointment feature "
+        "content": "** Pros: Compatible with HashMap. "
       },
       {
         "lineNumber": 350,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d\u003d Current Implementation"
+        "content": "** Cons: Large in file size."
       },
       {
         "lineNumber": 351,
@@ -2958,189 +2958,189 @@
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "the add appointment feature facilitated by the `Appointment` class, it implements the following operations:"
+        "content": "\u003d\u003d\u003d Add appointment feature "
       },
       {
         "lineNumber": 353,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
       {
         "lineNumber": 354,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `Appointment(String)` -- The constructor for the class `Appointment`."
+        "content": ""
       },
       {
         "lineNumber": 355,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `toString()` -- Returns a String containing the date of the appointment."
+        "content": "the add appointment feature facilitated by the `Appointment` class, it implements the following operations:"
       },
       {
         "lineNumber": 356,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `isValidDate()` -- Checks if the date is alphanumeric."
+        "content": ""
       },
       {
         "lineNumber": 357,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `equals(Object)` -- Checks if two appointment dates are equal."
+        "content": "* `Appointment(String)` -- The constructor for the class `Appointment`."
       },
       {
         "lineNumber": 358,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "* `toString()` -- Returns a String containing the date of the appointment."
       },
       {
         "lineNumber": 359,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "In addition to the Appointment class, we update the ReadOnlyPerson interface and the Person class (which implements the interface) to ensure that every Person object is constructed with an Appointment class. To be specific, the following operations are added or updated."
+        "content": "* `isValidDate()` -- Checks if the date is alphanumeric."
       },
       {
         "lineNumber": 360,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "* `equals(Object)` -- Checks if two appointment dates are equal."
       },
       {
         "lineNumber": 361,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `Person(Apppointment appointment)` --  The class `Person` now requires a person object during its construction."
+        "content": ""
       },
       {
         "lineNumber": 362,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `getAppointment()` -- The class `Person` implements a method that returns the Appointment object of a Person."
+        "content": "In addition to the Appointment class, we update the ReadOnlyPerson interface and the Person class (which implements the interface) to ensure that every Person object is constructed with an Appointment class. To be specific, the following operations are added or updated."
       },
       {
         "lineNumber": 363,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `getAsTextShowAll()` -- This operation is updated to allow a person\u0027s appointment date to be printed when an addresbook\u0027s lastShownList is printed onto the UI."
+        "content": ""
       },
       {
         "lineNumber": 364,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "* `Person(Apppointment appointment)` --  The class `Person` now requires a person object during its construction."
       },
       {
         "lineNumber": 365,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Next, the parser is updated to recognize user input corresponding to the Appointment object of a person. It works together with an updated `Add` Command. When adding a new person through the add command, the user has to write `m/APPOINTMENTDATE\u0027 to signify the `Appointment` portion of a `Person`. "
+        "content": "* `getAppointment()` -- The class `Person` implements a method that returns the Appointment object of a Person."
       },
       {
         "lineNumber": 366,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "* `getAsTextShowAll()` -- This operation is updated to allow a person\u0027s appointment date to be printed when an addresbook\u0027s lastShownList is printed onto the UI."
       },
       {
         "lineNumber": 367,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Given below is an example usage scenario and how the `Appointment` feature is incorporated at each step."
+        "content": ""
       },
       {
         "lineNumber": 368,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Next, the parser is updated to recognize user input corresponding to the Appointment object of a person. It works together with an updated `Add` Command. When adding a new person through the add command, the user has to write `m/APPOINTMENTDATE\u0027 to signify the `Appointment` portion of a `Person`. "
       },
       {
         "lineNumber": 369,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step 1. The user executes command `Add NAME [p]p/PHONE [p]e/EMAIL [p]a/ADDRESS m/APPOINTMENT [t/TAG]...\\n\\t\"`"
+        "content": ""
       },
       {
         "lineNumber": 370,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Given below is an example usage scenario and how the `Appointment` feature is incorporated at each step."
       },
       {
         "lineNumber": 371,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step 2. The parser parses the user command, and creates the relevant object for `Appointment`, `Address` etc, and a new `Person` object is constructed. The `Logic` class executes the `AddCommand` with the prepared arguments. "
+        "content": ""
       },
       {
         "lineNumber": 372,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Step 1. The user executes command `Add NAME [p]p/PHONE [p]e/EMAIL [p]a/ADDRESS m/APPOINTMENT [t/TAG]...\\n\\t\"`"
       },
       {
         "lineNumber": 373,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step 3. The `Addressbook` trys to add the new person into the `uniquePersonList`. But first, the `uniquePersonList` checks if the new Person object is a duplicate of an existing Person object in the Addressbook. If the Person is not a duplicate, it is added into the Addresbook and the Addressbook is saved."
+        "content": ""
       },
       {
         "lineNumber": 374,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Step 2. The parser parses the user command, and creates the relevant object for `Appointment`, `Address` etc, and a new `Person` object is constructed. The `Logic` class executes the `AddCommand` with the prepared arguments. "
       },
       {
         "lineNumber": 375,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step4. The successful execution returns a MESSAGE_SUCCESS along with the added person. The MainWindow displays the result and prints the added person into the GUI."
+        "content": ""
       },
       {
         "lineNumber": 376,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Step 3. The `Addressbook` trys to add the new person into the `uniquePersonList`. But first, the `uniquePersonList` checks if the new Person object is a duplicate of an existing Person object in the Addressbook. If the Person is not a duplicate, it is added into the Addresbook and the Addressbook is saved."
       },
       {
         "lineNumber": 377,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "\u003d\u003d\u003d DoctorAppointments command "
+        "content": ""
       },
       {
         "lineNumber": 378,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "\u003d\u003d\u003d\u003d Current Implementation"
+        "content": "Step4. The successful execution returns a MESSAGE_SUCCESS along with the added person. The MainWindow displays the result and prints the added person into the GUI."
       },
       {
         "lineNumber": 379,
@@ -3154,42 +3154,42 @@
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "This is a new command, that is executed as `DoctorAppointments DOCTORNAME`. It finds all Persons in the addressbook that are assigned to a doctor with the same name as DOCTORNAME. Then, it prints out a list of them sorted according to Appointment dates. The first person from the top has the earliest appointment date. Let us split the implementation documentation into two parts. (1) Returning a list of persons corresponding to the user input\u0027s name of the doctor in chronological order. (2)Printing only the relevant information of these persons in a neat manner similar to a time-table."
+        "content": "\u003d\u003d\u003d DoctorAppointments command "
       },
       {
         "lineNumber": 381,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
       {
         "lineNumber": 382,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "For the first part, finding and sorting the list of corresponding persons is facilitated by the `DoctorAppointmentsCommand` class and the `Person` class. The following operations are implemented in the `DoctorAppointmentsCommand` class."
+        "content": ""
       },
       {
         "lineNumber": 383,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "This is a new command, that is executed as `DoctorAppointments DOCTORNAME`. It finds all Persons in the addressbook that are assigned to a doctor with the same name as DOCTORNAME. Then, it prints out a list of them sorted according to Appointment dates. The first person from the top has the earliest appointment date. Let us split the implementation documentation into two parts. (1) Returning a list of persons corresponding to the user input\u0027s name of the doctor in chronological order. (2)Printing only the relevant information of these persons in a neat manner similar to a time-table."
       },
       {
         "lineNumber": 384,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `execute()` -- Upon execution, a new `Indicator` class stores information indicating that `DoctorAppointmentsCommand` is the most recently invoked command. Then, the following method `getPersonsWithNameContainingAnyKeyword(keywords)` is called. "
+        "content": ""
       },
       {
         "lineNumber": 385,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `getPersonsWithNameContainingAnyKeyword(keywords)` -- This method is adapted from the `FindCommand` class method. In addition to the original command, this method utilizes the package on LocalDate and Collections.Sort. This method updates a `LocalDate` field in a `Person` object (to be explained in the next paragraph). This method also calls SortDate() which is a separate sorting class that helps to compare `LocalDate` dates and sort them based on chronological order. This method returns an ArrayList of Persons that have the doctor\u0027s name corresponding to the user input\u0027s doctor. The ArrayList is sorted based on their appointment dates."
+        "content": "For the first part, finding and sorting the list of corresponding persons is facilitated by the `DoctorAppointmentsCommand` class and the `Person` class. The following operations are implemented in the `DoctorAppointmentsCommand` class."
       },
       {
         "lineNumber": 386,
@@ -3203,28 +3203,28 @@
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "We update the `Person` class to contain an additional field `LocalDate date` which is originally set to null for every person in the addressbook. Then the following getters and setters are implemented in the `Person` class and their method signatures are updated in the `ReadOnlyPerson` interface."
+        "content": "* `execute()` -- Upon execution, a new `Indicator` class stores information indicating that `DoctorAppointmentsCommand` is the most recently invoked command. Then, the following method `getPersonsWithNameContainingAnyKeyword(keywords)` is called. "
       },
       {
         "lineNumber": 388,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "* `getPersonsWithNameContainingAnyKeyword(keywords)` -- This method is adapted from the `FindCommand` class method. In addition to the original command, this method utilizes the package on LocalDate and Collections.Sort. This method updates a `LocalDate` field in a `Person` object (to be explained in the next paragraph). This method also calls SortDate() which is a separate sorting class that helps to compare `LocalDate` dates and sort them based on chronological order. This method returns an ArrayList of Persons that have the doctor\u0027s name corresponding to the user input\u0027s doctor. The ArrayList is sorted based on their appointment dates."
       },
       {
         "lineNumber": 389,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `getLocalDate()`"
+        "content": ""
       },
       {
         "lineNumber": 390,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `setLocalDate()`"
+        "content": "We update the `Person` class to contain an additional field `LocalDate date` which is originally set to null for every person in the addressbook. Then the following getters and setters are implemented in the `Person` class and their method signatures are updated in the `ReadOnlyPerson` interface."
       },
       {
         "lineNumber": 391,
@@ -3238,168 +3238,168 @@
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Given below is an example usage scenario and how the Persons corresponding to a certain doctor are sorted and listed in Chronological order."
+        "content": "* `getLocalDate()`"
       },
       {
         "lineNumber": 393,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "* `setLocalDate()`"
       },
       {
         "lineNumber": 394,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step 1. The user executes command `DoctorAppointments DOCTORNAME\"`"
+        "content": ""
       },
       {
         "lineNumber": 395,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Given below is an example usage scenario and how the Persons corresponding to a certain doctor are sorted and listed in Chronological order."
       },
       {
         "lineNumber": 396,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step 2. The parser parses the command and prepares the keyword arguments for the `DoctorAppointmentsCommand` class. "
+        "content": ""
       },
       {
         "lineNumber": 397,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Step 1. The user executes command `DoctorAppointments DOCTORNAME\"`"
       },
       {
         "lineNumber": 398,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step 3. `DoctorAppointmentsCommand` is executed and the `Indicator` class records that this is the most recently invoked command. The execute command calls `getPersonsWithNameContainingAnyKeyword(keywords)`. For every Person in the existing addressbook, the Doctor\u0027s name is checked against the keyword (containing DOCTORNAME). If the doctor\u0027s name of the Person corresponds to DOCTORNAME, the `LocalDate` class parses the person\u0027s appointment date, and the Person\u0027s `LocalDate` date field is set to be the parsed appointment date."
+        "content": ""
       },
       {
         "lineNumber": 399,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Step 2. The parser parses the command and prepares the keyword arguments for the `DoctorAppointmentsCommand` class. "
       },
       {
         "lineNumber": 400,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step 4. The person is added into the matchedPersons list."
+        "content": ""
       },
       {
         "lineNumber": 401,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Step 3. `DoctorAppointmentsCommand` is executed and the `Indicator` class records that this is the most recently invoked command. The execute command calls `getPersonsWithNameContainingAnyKeyword(keywords)`. For every Person in the existing addressbook, the Doctor\u0027s name is checked against the keyword (containing DOCTORNAME). If the doctor\u0027s name of the Person corresponds to DOCTORNAME, the `LocalDate` class parses the person\u0027s appointment date, and the Person\u0027s `LocalDate` date field is set to be the parsed appointment date."
       },
       {
         "lineNumber": 402,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step 5. The list of matchedPersons are sorted based on the `Localdate` date field in each person."
+        "content": ""
       },
       {
         "lineNumber": 403,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Step 4. The person is added into the matchedPersons list."
       },
       {
         "lineNumber": 404,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step 6. The sorted list of matchedPersons are returned and displayed in a table format (explained in second part)"
+        "content": ""
       },
       {
         "lineNumber": 405,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Step 5. The list of matchedPersons are sorted based on the `Localdate` date field in each person."
       },
       {
         "lineNumber": 406,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "For the second part of the implementation, we discuss how the list of matchedPersons is formatted to print in a certain manner. To facilitate the printing, we mainly update the format() method of the UI `Formatter` class. "
+        "content": ""
       },
       {
         "lineNumber": 407,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Step 6. The sorted list of matchedPersons are returned and displayed in a table format (explained in second part)"
       },
       {
         "lineNumber": 408,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "To facilitate the update, a new `Indicator` class is created and a new method is implemented in the `ReadonlyPerson` interface."
+        "content": ""
       },
       {
         "lineNumber": 409,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "For the second part of the implementation, we discuss how the list of matchedPersons is formatted to print in a certain manner. To facilitate the printing, we mainly update the format() method of the UI `Formatter` class. "
       },
       {
         "lineNumber": 410,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `Indicator.setLastCommand(String)` --when called, stores a String that records the last invoked user Command."
+        "content": ""
       },
       {
         "lineNumber": 411,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `Indicator.getLastCommand()` --when called, provides information on the last invoked user Command."
+        "content": "To facilitate the update, a new `Indicator` class is created and a new method is implemented in the `ReadonlyPerson` interface."
       },
       {
         "lineNumber": 412,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `getAsTextNameDateDoctor()` --This is a method of the `ReadOnlyPerson` interface. It is a new String builder that builds a String of information about the Person. The information contains only the name and appointment date of the person. The String is padded on the right with whitespace to ensure a tabular format."
+        "content": ""
       },
       {
         "lineNumber": 413,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "* `Indicator.setLastCommand(String)` --when called, stores a String that records the last invoked user Command."
       },
       {
         "lineNumber": 414,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "The UI `Formatter` is updated in the following way."
+        "content": "* `Indicator.getLastCommand()` --when called, provides information on the last invoked user Command."
       },
       {
         "lineNumber": 415,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `format(Persons)` --Checks if the last invoked user Command is the `DoctorAppointmentsCommand`. If it is, calls the new String builder method `getAsTextNameDateDoctor()` for each Person to be formatted."
+        "content": "* `getAsTextNameDateDoctor()` --This is a method of the `ReadOnlyPerson` interface. It is a new String builder that builds a String of information about the Person. The information contains only the name and appointment date of the person. The String is padded on the right with whitespace to ensure a tabular format."
       },
       {
         "lineNumber": 416,
@@ -3413,75 +3413,75 @@
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Given below is an example usage scenario and the formatter formats the Person to be printed in a tabular format. It continues from Step 6 above. "
+        "content": "The UI `Formatter` is updated in the following way."
       },
       {
         "lineNumber": 418,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "* `format(Persons)` --Checks if the last invoked user Command is the `DoctorAppointmentsCommand`. If it is, calls the new String builder method `getAsTextNameDateDoctor()` for each Person to be formatted."
       },
       {
         "lineNumber": 419,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step 7. When the dispay method is called in step 6, the format method in `Formatter` is called. "
+        "content": ""
       },
       {
         "lineNumber": 420,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Given below is an example usage scenario and the formatter formats the Person to be printed in a tabular format. It continues from Step 6 above. "
       },
       {
         "lineNumber": 421,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step 8. A separate String builder method getAsTextNameDateDoctor() is called, and the String is padded on the right by whitespace. "
+        "content": ""
       },
       {
         "lineNumber": 422,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Step 7. When the dispay method is called in step 6, the format method in `Formatter` is called. "
       },
       {
         "lineNumber": 423,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "Step 9. The `MainWindow` displays the newly formatted Persons in neat rows, displaying only the relevant information on Name and Appointment Date."
+        "content": ""
       },
       {
         "lineNumber": 424,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Step 8. A separate String builder method getAsTextNameDateDoctor() is called, and the String is padded on the right by whitespace. "
       },
       {
         "lineNumber": 425,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "[appendix]"
+        "content": ""
       },
       {
         "lineNumber": 426,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "\u003d\u003d Non Functional Requirements"
+        "content": "Step 9. The `MainWindow` displays the newly formatted Persons in neat rows, displaying only the relevant information on Name and Appointment Date."
       },
       {
         "lineNumber": 427,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
         "content": ""
       },
@@ -3490,49 +3490,49 @@
         "author": {
           "gitId": "-"
         },
-        "content": ". Should work on any \u003c\u003cmainstream-os, mainstream OS\u003e\u003e as long as it has Java 9 or higher installed."
+        "content": "[appendix]"
       },
       {
         "lineNumber": 429,
         "author": {
           "gitId": "-"
         },
-        "content": ". Should be able to hold up to 1000 persons."
+        "content": "\u003d\u003d Non Functional Requirements"
       },
       {
         "lineNumber": 430,
         "author": {
           "gitId": "-"
         },
-        "content": ". Should come with automated unit tests and open source code."
+        "content": ""
       },
       {
         "lineNumber": 431,
         "author": {
           "gitId": "-"
         },
-        "content": ". Should favor DOS style commands over Unix-style commands."
+        "content": ". Should work on any \u003c\u003cmainstream-os, mainstream OS\u003e\u003e as long as it has Java 9 or higher installed."
       },
       {
         "lineNumber": 432,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": ". Should be able to hold up to 1000 persons."
       },
       {
         "lineNumber": 433,
         "author": {
           "gitId": "-"
         },
-        "content": "[appendix]"
+        "content": ". Should come with automated unit tests and open source code."
       },
       {
         "lineNumber": 434,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Glossary"
+        "content": ". Should favor DOS style commands over Unix-style commands."
       },
       {
         "lineNumber": 435,
@@ -3546,14 +3546,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "[[mainstream-os]] Mainstream OS::"
+        "content": "[appendix]"
       },
       {
         "lineNumber": 437,
         "author": {
           "gitId": "-"
         },
-        "content": "Windows, Linux, Unix, OS-X"
+        "content": "\u003d\u003d Glossary"
       },
       {
         "lineNumber": 438,
@@ -3567,10 +3567,31 @@
         "author": {
           "gitId": "-"
         },
-        "content": "[[private-contact-detail]] Private contact detail::"
+        "content": "[[mainstream-os]] Mainstream OS::"
       },
       {
         "lineNumber": 440,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Windows, Linux, Unix, OS-X"
+      },
+      {
+        "lineNumber": 441,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 442,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "[[private-contact-detail]] Private contact detail::"
+      },
+      {
+        "lineNumber": 443,
         "author": {
           "gitId": "-"
         },
@@ -3579,7 +3600,7 @@
     ],
     "authorContributionMap": {
       "shawn-t": 168,
-      "-": 155,
+      "-": 158,
       "matthiaslum": 77,
       "WuPeiHsuan": 40
     }
@@ -3891,21 +3912,21 @@
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "liguanlong"
+          "gitId": "-"
         },
-        "content": "* `login guanlong 12345` +"
+        "content": "* `login Doe 12345` +"
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "liguanlong"
+          "gitId": "-"
         },
-        "content": "Logged in as guanlong if the account and password are correct."
+        "content": "Logged in as Doe if the account and password are correct."
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "liguanlong"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3914,7 +3935,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Adding a person: `add`"
+        "content": "\u003d\u003d Register a new account: `register`"
       },
       {
         "lineNumber": 48,
@@ -3928,14 +3949,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Adds a person to the address book. +"
+        "content": "Allow the user to register a new account in the system +"
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "Format: `add NAME [p]p/PHONE_NUMBER [p]e/EMAIL [p]a/ADDRESS m/APPOINTMENTDATE d/DOCTORNAME s/STATUS [t/TAG]...`"
+        "content": "Format: `register username password`"
       },
       {
         "lineNumber": 51,
@@ -3949,70 +3970,70 @@
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": "Examples:"
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "-"
         },
-        "content": "Words in `UPPER_CASE` are the parameters, items in `SQUARE_BRACKETS` are optional,"
+        "content": ""
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "-"
         },
-        "content": "items with `...` after them can have multiple instances. Order of parameters are fixed."
+        "content": "* `register Doe 12345` +"
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "A new account is registered if the username chosen has not been registered before."
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "liguanlong"
         },
-        "content": "Note that the appointment date must be in the format of YYYY MM DD, in other for the DoctorAppointment Command to work."
+        "content": ""
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d Adding a person: `add`"
       },
       {
         "lineNumber": 58,
         "author": {
           "gitId": "-"
         },
-        "content": "Put a `p` before the phone / email / address prefixes to mark it as `private`. `private` details can only"
+        "content": ""
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "-"
         },
-        "content": "be seen using the `viewall` command."
+        "content": "Adds a person to the address book. +"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "Format: `add NAME [p]p/PHONE_NUMBER [p]e/EMAIL [p]a/ADDRESS m/APPOINTMENTDATE d/DOCTORNAME s/STATUS [t/TAG]...`"
       },
       {
         "lineNumber": 61,
         "author": {
           "gitId": "-"
         },
-        "content": "Persons can have any number of tags (including 0)"
+        "content": ""
       },
       {
         "lineNumber": 62,
@@ -4026,14 +4047,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Words in `UPPER_CASE` are the parameters, items in `SQUARE_BRACKETS` are optional,"
       },
       {
         "lineNumber": 64,
         "author": {
           "gitId": "-"
         },
-        "content": "Examples:"
+        "content": "items with `...` after them can have multiple instances. Order of parameters are fixed."
       },
       {
         "lineNumber": 65,
@@ -4047,49 +4068,49 @@
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `add John Doe p/98765432 e/johnd@gmail.com a/John street, block 123, #01-01 m/2009 12 11 d/DoctorTan s/observation`"
+        "content": "Note that the appointment date must be in the format of YYYY MM DD, in other for the DoctorAppointment Command to work."
       },
       {
         "lineNumber": 67,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "* `add Betsy Crowe pp/1234567 e/betsycrowe@gmail.com pa/Newgate Prison m/2011 21 04 d/DoctorTan s/observation t/criminal t/friend`"
+        "content": ""
       },
       {
         "lineNumber": 68,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Put a `p` before the phone / email / address prefixes to mark it as `private`. `private` details can only"
       },
       {
         "lineNumber": 69,
         "author": {
-          "gitId": "shawn-t"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d Finding out the current length of the address book : `length`"
+        "content": "be seen using the `viewall` command."
       },
       {
         "lineNumber": 70,
         "author": {
-          "gitId": "shawn-t"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 71,
         "author": {
-          "gitId": "shawn-t"
+          "gitId": "-"
         },
-        "content": "Shows the number of entries in the address book. +"
+        "content": "Persons can have any number of tags (including 0)"
       },
       {
         "lineNumber": 72,
         "author": {
-          "gitId": "shawn-t"
+          "gitId": "-"
         },
-        "content": "Format: `length`"
+        "content": "****"
       },
       {
         "lineNumber": 73,
@@ -4103,7 +4124,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Listing all persons : `list`"
+        "content": "Examples:"
       },
       {
         "lineNumber": 75,
@@ -4115,16 +4136,16 @@
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "Shows a list of all persons in the address book. +"
+        "content": "* `add John Doe p/98765432 e/johnd@gmail.com a/John street, block 123, #01-01 m/2009 12 11 d/DoctorTan s/observation`"
       },
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "Format: `list`"
+        "content": "* `add Betsy Crowe pp/1234567 e/betsycrowe@gmail.com pa/Newgate Prison m/2011 21 04 d/DoctorTan s/observation t/criminal t/friend`"
       },
       {
         "lineNumber": 78,
@@ -4138,7 +4159,7 @@
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "\u003d\u003d Referring person indicated by user : `refer`"
+        "content": "\u003d\u003d Finding out the current length of the address book : `length`"
       },
       {
         "lineNumber": 80,
@@ -4152,19 +4173,19 @@
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "Refer person to a doctor if there is only one entry and shows a list of all persons in the address book with the keyword if there are multiple entries. +"
+        "content": "Shows the number of entries in the address book. +"
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "Format: `refer John`"
+        "content": "Format: `length`"
       },
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "shawn-t"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4173,7 +4194,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Listing all persons in sorted order : `sort`"
+        "content": "\u003d\u003d Listing all persons : `list`"
       },
       {
         "lineNumber": 85,
@@ -4185,303 +4206,303 @@
       {
         "lineNumber": 86,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "-"
         },
-        "content": "Shows a list of all persons sorted by desired attribute in alphabetical order in the address book. +"
+        "content": "Shows a list of all persons in the address book. +"
       },
       {
         "lineNumber": 87,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "-"
         },
-        "content": "Desired attribute could be name, appointment or status. +"
+        "content": "Format: `list`"
       },
       {
         "lineNumber": 88,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "-"
         },
-        "content": "Format: `sort DESIRED_ATTRIBUTE`"
+        "content": ""
       },
       {
         "lineNumber": 89,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "shawn-t"
         },
-        "content": ""
+        "content": "\u003d\u003d Referring person indicated by user : `refer`"
       },
       {
         "lineNumber": 90,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "shawn-t"
         },
-        "content": "Examples:"
+        "content": ""
       },
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "shawn-t"
         },
-        "content": ""
+        "content": "Refer person to a doctor if there is only one entry and shows a list of all persons in the address book with the keyword if there are multiple entries. +"
       },
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "shawn-t"
         },
-        "content": "* `sort name` +"
+        "content": "Format: `refer John`"
       },
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "WuPeiHsuan"
-        },
-        "content": "Shows a list of all persons sorted by name in alphabetical order in the address book. "
-      },
-      {
-        "lineNumber": 94,
-        "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "shawn-t"
         },
         "content": ""
       },
       {
+        "lineNumber": 94,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d Listing all persons in sorted order : `sort`"
+      },
+      {
         "lineNumber": 95,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "-"
         },
-        "content": "* `sort status` +"
+        "content": ""
       },
       {
         "lineNumber": 96,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "Shows a list of all persons sorted by status in alphabetical order in the address book. "
+        "content": "Shows a list of all persons sorted by desired attribute in alphabetical order in the address book. +"
       },
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "Desired attribute could be name, appointment or status. +"
       },
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "\u003d\u003d Listing all appointments of a Doctor : `DoctorAppointments`"
+        "content": "Format: `sort DESIRED_ATTRIBUTE`"
       },
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "WuPeiHsuan"
         },
         "content": ""
       },
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "Displays a list of all persons who have appointments with a specific doctor. "
+        "content": "Examples:"
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "The list of persons are sorted by on chronological order of their appointment dates."
+        "content": ""
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "For easy-readability, only the name and appointment date of each person is displayed."
+        "content": "* `sort name` +"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "Shows a list of all persons sorted by name in alphabetical order in the address book. "
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "matthiaslum"
-        },
-        "content": "Examples: "
-      },
-      {
-        "lineNumber": 105,
-        "author": {
-          "gitId": "matthiaslum"
+          "gitId": "WuPeiHsuan"
         },
         "content": ""
       },
       {
+        "lineNumber": 105,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "* `sort status` +"
+      },
+      {
         "lineNumber": 106,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "* `DoctorAppointments DoctorTan` +"
+        "content": "Shows a list of all persons sorted by status in alphabetical order in the address book. "
       },
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "Shows a list of all patients who have appointments with DoctorTan."
+        "content": ""
       },
       {
         "lineNumber": 108,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "\u003d\u003d Listing all appointments of a Doctor : `DoctorAppointments`"
       },
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Finding all persons containing any keyword in their name: `find`"
-      },
-      {
-        "lineNumber": 110,
-        "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
         "content": ""
       },
       {
+        "lineNumber": 110,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "Displays a list of all persons who have appointments with a specific doctor. "
+      },
+      {
         "lineNumber": 111,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "Finds persons whose names contain any of the given keywords. +"
+        "content": "The list of persons are sorted by on chronological order of their appointment dates."
       },
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "Format: `find KEYWORD [MORE_KEYWORDS]`"
+        "content": "For easy-readability, only the name and appointment date of each person is displayed."
       },
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
         "content": ""
       },
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "[NOTE]"
+        "content": "Examples: "
       },
       {
         "lineNumber": 115,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "\u003d\u003d\u003d\u003d"
+        "content": ""
       },
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "The search is case sensitive, the order of the keywords does not matter, only the name is searched,"
+        "content": "* `DoctorAppointments DoctorTan` +"
       },
       {
         "lineNumber": 117,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "and persons matching at least one keyword will be returned (i.e. `OR` search)."
+        "content": "Shows a list of all patients who have appointments with DoctorTan."
       },
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "\u003d\u003d\u003d\u003d"
+        "content": ""
       },
       {
         "lineNumber": 119,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d Finding all persons containing any keyword in their name: `find`"
       },
       {
         "lineNumber": 120,
         "author": {
           "gitId": "-"
         },
-        "content": "Examples:"
+        "content": ""
       },
       {
         "lineNumber": 121,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Finds persons whose names contain any of the given keywords. +"
       },
       {
         "lineNumber": 122,
         "author": {
           "gitId": "-"
         },
-        "content": "* `find John` +"
+        "content": "Format: `find KEYWORD [MORE_KEYWORDS]`"
       },
       {
         "lineNumber": 123,
         "author": {
           "gitId": "-"
         },
-        "content": "Returns `John Doe` but not `john`."
+        "content": ""
       },
       {
         "lineNumber": 124,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "[NOTE]"
       },
       {
         "lineNumber": 125,
         "author": {
           "gitId": "-"
         },
-        "content": "* `find Betsy Tim John` +"
+        "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 126,
         "author": {
           "gitId": "-"
         },
-        "content": "Returns Any person having names `Betsy`, `Tim`, or `John`."
+        "content": "The search is case sensitive, the order of the keywords does not matter, only the name is searched,"
       },
       {
         "lineNumber": 127,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "and persons matching at least one keyword will be returned (i.e. `OR` search)."
       },
       {
         "lineNumber": 128,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Deleting a person : `delete`"
+        "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 129,
@@ -4495,49 +4516,49 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Deletes the specified person from the address book. Irreversible. +"
+        "content": "Examples:"
       },
       {
         "lineNumber": 131,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `delete INDEX`"
+        "content": ""
       },
       {
         "lineNumber": 132,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "* `find John` +"
       },
       {
         "lineNumber": 133,
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": "Returns `John Doe` but not `john`."
       },
       {
         "lineNumber": 134,
         "author": {
           "gitId": "-"
         },
-        "content": "Deletes the person at the specified `INDEX`."
+        "content": ""
       },
       {
         "lineNumber": 135,
         "author": {
           "gitId": "-"
         },
-        "content": "The index refers to the index number shown in the most recent listing."
+        "content": "* `find Betsy Tim John` +"
       },
       {
         "lineNumber": 136,
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": "Returns Any person having names `Betsy`, `Tim`, or `John`."
       },
       {
         "lineNumber": 137,
@@ -4551,7 +4572,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Examples:"
+        "content": "\u003d\u003d Deleting a person : `delete`"
       },
       {
         "lineNumber": 139,
@@ -4565,49 +4586,49 @@
         "author": {
           "gitId": "-"
         },
-        "content": "* `list` +"
+        "content": "Deletes the specified person from the address book. Irreversible. +"
       },
       {
         "lineNumber": 141,
         "author": {
           "gitId": "-"
         },
-        "content": "`delete 2` +"
+        "content": "Format: `delete INDEX`"
       },
       {
         "lineNumber": 142,
         "author": {
           "gitId": "-"
         },
-        "content": "Deletes the 2nd person in the address book."
+        "content": ""
       },
       {
         "lineNumber": 143,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "****"
       },
       {
         "lineNumber": 144,
         "author": {
           "gitId": "-"
         },
-        "content": "* `find Betsy` +"
+        "content": "Deletes the person at the specified `INDEX`."
       },
       {
         "lineNumber": 145,
         "author": {
           "gitId": "-"
         },
-        "content": "`delete 1` +"
+        "content": "The index refers to the index number shown in the most recent listing."
       },
       {
         "lineNumber": 146,
         "author": {
           "gitId": "-"
         },
-        "content": "Deletes the 1st person in the results of the `find` command."
+        "content": "****"
       },
       {
         "lineNumber": 147,
@@ -4621,7 +4642,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d View non-private details of a person : `view`"
+        "content": "Examples:"
       },
       {
         "lineNumber": 149,
@@ -4635,49 +4656,49 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Displays the non-private details of the specified person. +"
+        "content": "* `list` +"
       },
       {
         "lineNumber": 151,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `view INDEX`"
+        "content": "`delete 2` +"
       },
       {
         "lineNumber": 152,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Deletes the 2nd person in the address book."
       },
       {
         "lineNumber": 153,
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": ""
       },
       {
         "lineNumber": 154,
         "author": {
           "gitId": "-"
         },
-        "content": "Views the person at the specified `INDEX`."
+        "content": "* `find Betsy` +"
       },
       {
         "lineNumber": 155,
         "author": {
           "gitId": "-"
         },
-        "content": "The index refers to the index number shown in the most recent listing."
+        "content": "`delete 1` +"
       },
       {
         "lineNumber": 156,
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": "Deletes the 1st person in the results of the `find` command."
       },
       {
         "lineNumber": 157,
@@ -4691,7 +4712,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Examples:"
+        "content": "\u003d\u003d View non-private details of a person : `view`"
       },
       {
         "lineNumber": 159,
@@ -4705,49 +4726,49 @@
         "author": {
           "gitId": "-"
         },
-        "content": "* `list` +"
+        "content": "Displays the non-private details of the specified person. +"
       },
       {
         "lineNumber": 161,
         "author": {
           "gitId": "-"
         },
-        "content": "`view 2` +"
+        "content": "Format: `view INDEX`"
       },
       {
         "lineNumber": 162,
         "author": {
           "gitId": "-"
         },
-        "content": "Views the 2nd person in the address book."
+        "content": ""
       },
       {
         "lineNumber": 163,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "****"
       },
       {
         "lineNumber": 164,
         "author": {
           "gitId": "-"
         },
-        "content": "* `find Betsy` +"
+        "content": "Views the person at the specified `INDEX`."
       },
       {
         "lineNumber": 165,
         "author": {
           "gitId": "-"
         },
-        "content": "`view 1` +"
+        "content": "The index refers to the index number shown in the most recent listing."
       },
       {
         "lineNumber": 166,
         "author": {
           "gitId": "-"
         },
-        "content": "Views the 1st person in the results of the `find` command."
+        "content": "****"
       },
       {
         "lineNumber": 167,
@@ -4761,7 +4782,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d View all details of a person : `viewall`"
+        "content": "Examples:"
       },
       {
         "lineNumber": 169,
@@ -4775,49 +4796,49 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Displays all details (including private details) of the specified person. +"
+        "content": "* `list` +"
       },
       {
         "lineNumber": 171,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `viewall INDEX`"
+        "content": "`view 2` +"
       },
       {
         "lineNumber": 172,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Views the 2nd person in the address book."
       },
       {
         "lineNumber": 173,
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": ""
       },
       {
         "lineNumber": 174,
         "author": {
           "gitId": "-"
         },
-        "content": "Views all details of the person at the specified `INDEX`."
+        "content": "* `find Betsy` +"
       },
       {
         "lineNumber": 175,
         "author": {
           "gitId": "-"
         },
-        "content": "The index refers to the index number shown in the most recent listing."
+        "content": "`view 1` +"
       },
       {
         "lineNumber": 176,
         "author": {
           "gitId": "-"
         },
-        "content": "****"
+        "content": "Views the 1st person in the results of the `find` command."
       },
       {
         "lineNumber": 177,
@@ -4831,7 +4852,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Examples:"
+        "content": "\u003d\u003d View all details of a person : `viewall`"
       },
       {
         "lineNumber": 179,
@@ -4845,49 +4866,49 @@
         "author": {
           "gitId": "-"
         },
-        "content": "* `list` +"
+        "content": "Displays all details (including private details) of the specified person. +"
       },
       {
         "lineNumber": 181,
         "author": {
           "gitId": "-"
         },
-        "content": "`viewall 2` +"
+        "content": "Format: `viewall INDEX`"
       },
       {
         "lineNumber": 182,
         "author": {
           "gitId": "-"
         },
-        "content": "Views all details of the 2nd person in the address book."
+        "content": ""
       },
       {
         "lineNumber": 183,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "****"
       },
       {
         "lineNumber": 184,
         "author": {
           "gitId": "-"
         },
-        "content": "* `find Betsy` +"
+        "content": "Views all details of the person at the specified `INDEX`."
       },
       {
         "lineNumber": 185,
         "author": {
           "gitId": "-"
         },
-        "content": "`viewall 1` +"
+        "content": "The index refers to the index number shown in the most recent listing."
       },
       {
         "lineNumber": 186,
         "author": {
           "gitId": "-"
         },
-        "content": "Views all details of the 1st person in the results of the `find` command."
+        "content": "****"
       },
       {
         "lineNumber": 187,
@@ -4901,7 +4922,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Clearing all entries : `clear`"
+        "content": "Examples:"
       },
       {
         "lineNumber": 189,
@@ -4915,49 +4936,49 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Clears all entries from the address book. +"
+        "content": "* `list` +"
       },
       {
         "lineNumber": 191,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `clear`"
+        "content": "`viewall 2` +"
       },
       {
         "lineNumber": 192,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Views all details of the 2nd person in the address book."
       },
       {
         "lineNumber": 193,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Exiting the program : `exit`"
+        "content": ""
       },
       {
         "lineNumber": 194,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "* `find Betsy` +"
       },
       {
         "lineNumber": 195,
         "author": {
           "gitId": "-"
         },
-        "content": "Exits the program. +"
+        "content": "`viewall 1` +"
       },
       {
         "lineNumber": 196,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `exit`"
+        "content": "Views all details of the 1st person in the results of the `find` command."
       },
       {
         "lineNumber": 197,
@@ -4971,7 +4992,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Saving the data"
+        "content": "\u003d\u003d Clearing all entries : `clear`"
       },
       {
         "lineNumber": 199,
@@ -4985,17 +5006,87 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Address book data are saved in the hard disk automatically after any command that changes the data."
+        "content": "Clears all entries from the address book. +"
       },
       {
         "lineNumber": 201,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Format: `clear`"
       },
       {
         "lineNumber": 202,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 203,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d Exiting the program : `exit`"
+      },
+      {
+        "lineNumber": 204,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 205,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Exits the program. +"
+      },
+      {
+        "lineNumber": 206,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Format: `exit`"
+      },
+      {
+        "lineNumber": 207,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 208,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d Saving the data"
+      },
+      {
+        "lineNumber": 209,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 210,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Address book data are saved in the hard disk automatically after any command that changes the data."
+      },
+      {
+        "lineNumber": 211,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 212,
         "author": {
           "gitId": "-"
         },
@@ -5003,9 +5094,9 @@
       }
     ],
     "authorContributionMap": {
-      "liguanlong": 15,
+      "liguanlong": 13,
       "shawn-t": 9,
-      "-": 151,
+      "-": 163,
       "matthiaslum": 16,
       "WuPeiHsuan": 11
     }

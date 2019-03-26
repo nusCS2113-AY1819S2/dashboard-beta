@@ -527,6 +527,25 @@
         "deletions": 0,
         "date": "2019-03-25",
         "commitResults": []
+      },
+      {
+        "insertions": 1008,
+        "deletions": 922,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "b99339bd98f4827b0fe0097ed95c8a6dbcc60628",
+            "message": " Update UserGuide.adoc with \"Managing Slots\" and diagrams  (#119)",
+            "insertions": 862,
+            "deletions": 371
+          },
+          {
+            "hash": "c87980daa5edf461b6f1a0a33f265082114e00ac",
+            "message": " Edit Data Classes, remove unnecessary dependencies  (#120)",
+            "insertions": 146,
+            "deletions": 551
+          }
+        ]
       }
     ],
     "marcus-pzj": [
@@ -982,9 +1001,22 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 29,
         "deletions": 0,
         "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "484ba2d07b6672e311c7a8d751a52b674215beed",
+            "message": "Update Developer Guide for FindCommand (#118)",
+            "insertions": 29,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
         "commitResults": []
       }
     ],
@@ -1360,6 +1392,12 @@
             "deletions": 7
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
       }
     ],
     "macchazuki": [
@@ -1733,20 +1771,96 @@
         "deletions": 0,
         "date": "2019-03-25",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "seanieyap": 9279,
-    "marcus-pzj": 382,
-    "dingheng4448": 821,
-    "macchazuki": 380
+    "seanieyap": 9397,
+    "marcus-pzj": 516,
+    "dingheng4448": 809,
+    "macchazuki": 375
+  },
+  "authorFileFormatContributionMap": {
+    "seanieyap": {
+      "adoc": 2123,
+      "cs": 0,
+      "css": 2028,
+      "fxml": 3,
+      "gradle": 89,
+      "html": 0,
+      "java": 3761,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 959,
+      "xml": 434
+    },
+    "marcus-pzj": {
+      "adoc": 168,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 298,
+      "js": 0,
+      "json": 50,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "dingheng4448": {
+      "adoc": 233,
+      "cs": 0,
+      "css": 1,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 575,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "macchazuki": {
+      "adoc": 104,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 271,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
   },
   "authorContributionVariance": {
-    "seanieyap": 2122522.2,
-    "marcus-pzj": 552969.94,
-    "dingheng4448": 13305.565,
-    "macchazuki": 3142.2937
+    "seanieyap": 2116864.2,
+    "marcus-pzj": 540982.1,
+    "dingheng4448": 13061.136,
+    "macchazuki": 3080.7654
   },
   "authorDisplayNameMap": {
     "seanieyap": "SEA...ONG",

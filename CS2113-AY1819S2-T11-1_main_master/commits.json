@@ -128,16 +128,66 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 75,
+        "deletions": 12,
         "date": "2019-03-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "ac01164942361d82593fc2579d4c1102fb8c752f",
+            "message": "Updated About Us page to include my picture. Created a windrich.adoc file under docs/team/ which acts as my project portfolio page (to be edited later)",
+            "insertions": 75,
+            "deletions": 12
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 46,
+        "deletions": 21,
         "date": "2019-03-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "68e9e1db95a629549448e92e9cc8b9c339c022d5",
+            "message": "updated AboutUs.adoc top part (SE-EDU section)",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "5ccea6592f2e3eed4c48fc2133d855d7cbab008d",
+            "message": "deleted an unnecessary \"+\" in the About Us page",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8e96833a66fcc3b4ab961e859d533966663b465f",
+            "message": "Set up and show Coveralls, AppVeyor. Changed the writeup to fit our target users",
+            "insertions": 13,
+            "deletions": 14
+          },
+          {
+            "hash": "0f4ca8515faf8354b44107f40be8cb94b1235128",
+            "message": "Fixed typo in readme",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0cda8770b5c9aade92e26dc6151a18ec5021225a",
+            "message": "added a command alias \"c\" for clear and \"f\" for find",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "8b80fcece5a2749e70301813c795e80c01526f1d",
+            "message": "added two test classes in AddressBookParserTest for clear and find aliases",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "c7add621a3702acaa9331cdcb31a1d5db345d2e5",
+            "message": "updated UserGuide for aliases of clear and find commands",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -218,10 +268,16 @@
         "commitResults": []
       },
       {
-        "insertions": 5,
-        "deletions": 5,
+        "insertions": 38,
+        "deletions": 6,
         "date": "2019-03-18",
         "commitResults": [
+          {
+            "hash": "1588c5f20e8ad67cba2c86aa2b922e0f3fa5ff20",
+            "message": "updated Developer Guide of future enhancement - Check Availability for Events",
+            "insertions": 33,
+            "deletions": 1
+          },
           {
             "hash": "bbb94694e848df0d4fcad0a6e8f4faa0f70ae333",
             "message": "fixed line 894 trailing whitespace",
@@ -272,6 +328,42 @@
             "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ],
     "JKupoluyi": [
@@ -540,14 +632,93 @@
         "deletions": 0,
         "date": "2019-03-19",
         "commitResults": []
-      }
-    ],
-    "sameow": [
+      },
       {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-02-10",
+        "date": "2019-03-20",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      }
+    ],
+    "Sameow": [
+      {
+        "insertions": 10,
+        "deletions": 10,
+        "date": "2019-02-10",
+        "commitResults": [
+          {
+            "hash": "e33a8b10766ab89e27e9d65b4dfff6c1bfc7e069",
+            "message": "updated URL. Travis tests should be working now. (We didnt fail any test before though)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "752dd9593fabc63fccf21ad2989756cfc4ea466d",
+            "message": "just following Week 4 exercise",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "816088bf176417b4efe8c13d2c5a718059156c2a",
+            "message": "imaginary bug fix",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "b645b0ce774624927d07c6c45e093e467d6a77f0",
+            "message": "7. Add another commit to the feature1 branch.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "58228f101bd812e3119f166b37da513f573d2ad8",
+            "message": "8. Switch to the master branch and add one more commit.",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "7ad25f54702529f325d66f9412fe25a851810653",
+            "message": "10. Create a new branch called add-countries, switch to it, and add some commits to it",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "62b3d453cea9ec932a6cdcc5fc53d5495d378e3c",
+            "message": "Removed additional lines used for tutorial",
+            "insertions": 0,
+            "deletions": 4
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -622,10 +793,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 4,
+        "deletions": 4,
         "date": "2019-02-23",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "297b7d894b3a4fdd3ae81f8c14353e065cf8aadc",
+            "message": "Added my info to about us page",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -670,16 +848,42 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1,
+        "deletions": 1,
         "date": "2019-03-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "67196a01524f4ebf205bfe76bcbf27a11230e082",
+            "message": "fixed missing semicolon",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "5498fb88c0897c4ae4e5addf8f9ae2a4b28dc648",
+            "message": "checkstyle complain about *",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
+        "insertions": 105,
         "deletions": 0,
         "date": "2019-03-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "7d1cda804effc0314908a4a210c50721daedd3e5",
+            "message": "Acknowledge the original source of the code",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "a4a609615001fccd0b002d6e8d52a3ff750a9184",
+            "message": "implemented a command such that the user is able to remove a particular tag from everyone in the address book",
+            "insertions": 104,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -760,16 +964,84 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 44,
+        "deletions": 13,
         "date": "2019-03-18",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "f8a4d0e75bd4966967a235070d36566aa8b24059",
+            "message": "Touched up user guide, describe the implementation of planned enhancement",
+            "insertions": 44,
+            "deletions": 13
+          }
+        ]
       },
       {
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-19",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 37,
+        "deletions": 9,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "aacdbca42c5a57b355f9a1764790846b05172984",
+            "message": "Trying to get image working",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "395b56f76dcbfebd0d36d3458ed72fb86e716057",
+            "message": "trying to rescue my reposense",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "b6bf7131a09c8854fd14a19e44cf6147fa30110f",
+            "message": "Ensure reposense working for team. Added more details to user guide",
+            "insertions": 17,
+            "deletions": 8
+          },
+          {
+            "hash": "93cda24ce13b84ac48ab2838293741c537ad6319",
+            "message": "No newline",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "Shizhe-NUS": [
@@ -1052,25 +1324,131 @@
         "deletions": 0,
         "date": "2019-03-19",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "windrichie": 29,
-    "JKupoluyi": 31,
-    "sameow": 0,
+    "windrichie": 179,
+    "JKupoluyi": 30,
+    "Sameow": 181,
     "Shizhe-NUS": 87
   },
+  "authorFileFormatContributionMap": {
+    "windrichie": {
+      "adoc": 132,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 47,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "JKupoluyi": {
+      "adoc": 30,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 0,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "Sameow": {
+      "adoc": 51,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 104,
+      "js": 0,
+      "json": 26,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "Shizhe-NUS": {
+      "adoc": 41,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 46,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
   "authorContributionVariance": {
-    "windrichie": 23.709833,
-    "JKupoluyi": 812.5789,
-    "sameow": 0.0,
-    "Shizhe-NUS": 107.155136
+    "windrichie": 310.54288,
+    "JKupoluyi": 704.71686,
+    "Sameow": 353.87793,
+    "Shizhe-NUS": 93.640495
   },
   "authorDisplayNameMap": {
-    "windrichie": "WIN...ICH",
-    "JKupoluyi": "Kup...emi",
-    "sameow": "SAM...ONG",
-    "Shizhe-NUS": "YAN...ZHE"
+    "windrichie": "Windrich",
+    "JKupoluyi": "JKupoluyi",
+    "Sameow": "Samuel Ong",
+    "Shizhe-NUS": "Shizhe"
   }
 }

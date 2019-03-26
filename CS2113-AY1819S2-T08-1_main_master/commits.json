@@ -253,6 +253,30 @@
         "deletions": 0,
         "date": "2019-03-22",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
       }
     ],
     "articstranger": [
@@ -620,6 +644,80 @@
         "deletions": 0,
         "date": "2019-03-22",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 130,
+        "deletions": 14,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "ae140247db9e23bfb0cafe7d5f5986bd9c16ff8e",
+            "message": "Messages.java: added mapping success message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "64941a937cb835b9d6f0431f46460858fde698c4",
+            "message": "MapCommand: updated with working functionality",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "f565924a38415e5579a2b8ff30828565a4106d97",
+            "message": "MapObject: added functions to access private variables",
+            "insertions": 18,
+            "deletions": 1
+          },
+          {
+            "hash": "99c3d6313457300d1049587768af78b367146735",
+            "message": "Model and ModelManager: added helper functions for MapCommand",
+            "insertions": 82,
+            "deletions": 0
+          },
+          {
+            "hash": "bab2b7408e739febe53098b8f56fcdd29e400d71",
+            "message": "Volunteer.java: added a points field for mapping",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "b4c2ce26b691982e19d23455b2f137a34a120603",
+            "message": "AddCommandTest: added overrides for MapCommand methods",
+            "insertions": 21,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 200,
+        "deletions": 114,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "fd99e40ad8475e143c4193e2d8d4ba4bed077c34",
+            "message": "checkstyle formatting",
+            "insertions": 183,
+            "deletions": 106
+          },
+          {
+            "hash": "d4e7f5f9f43e7adfe03498f41ed272b74fbd9c44",
+            "message": "more checkstyle fixes",
+            "insertions": 17,
+            "deletions": 8
+          }
+        ]
       }
     ],
     "wongyuqi": [
@@ -867,6 +965,30 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
         "commitResults": []
       }
     ],
@@ -1283,8 +1405,8 @@
         "commitResults": []
       },
       {
-        "insertions": 234,
-        "deletions": 9,
+        "insertions": 268,
+        "deletions": 32,
         "date": "2019-03-22",
         "commitResults": [
           {
@@ -1298,6 +1420,81 @@
             "message": "add panel Title, ongoing",
             "insertions": 14,
             "deletions": 8
+          },
+          {
+            "hash": "75760825bd6fd5f1191c1195579441e9c966ceda",
+            "message": "have label UI",
+            "insertions": 19,
+            "deletions": 10
+          },
+          {
+            "hash": "257d596a1ef706dfd1e589619d0c6de745ddfdc9",
+            "message": "Update storage of beneficiaries",
+            "insertions": 15,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 54,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "e8e068d9e08f42d161b34b81bb2801674071ae90",
+            "message": "Update the beneficiary logic on deletion",
+            "insertions": 54,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 90,
+        "deletions": 11,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "828c438d7de8945459c492cf40e472a4492656a7",
+            "message": "Update beneficiary for project title list",
+            "insertions": 88,
+            "deletions": 6
+          },
+          {
+            "hash": "448c55d84de42094950a116b2284b50f08c3da0e",
+            "message": "shift Ui text beneficiary out of beneficiary panel class",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "c3ad48f1a6ab1b8f9c3cfc97a6f23c426991f972",
+            "message": "update after merge",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 116,
+        "deletions": 26,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "c1e0f738cafb74d2344e8dfe22386432dc23f397",
+            "message": "update UI for volunteer and beneficiary",
+            "insertions": 101,
+            "deletions": 25
+          },
+          {
+            "hash": "43272bafe0880b93f69b9ffdc03d3dc02dc80527",
+            "message": "volunteer strorage",
+            "insertions": 15,
+            "deletions": 1
           }
         ]
       }
@@ -1305,15 +1502,85 @@
   },
   "authorFinalContributionMap": {
     "quinnzzzzz": 4,
-    "articstranger": 100,
+    "articstranger": 348,
     "wongyuqi": 0,
-    "ndhuu": 2872
+    "ndhuu": 3170
+  },
+  "authorFileFormatContributionMap": {
+    "quinnzzzzz": {
+      "adoc": 0,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 4,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "articstranger": {
+      "adoc": 43,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 305,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "wongyuqi": {
+      "adoc": 0,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 0,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "ndhuu": {
+      "adoc": 323,
+      "cs": 0,
+      "css": 6,
+      "fxml": 122,
+      "gradle": 0,
+      "html": 0,
+      "java": 2719,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
   },
   "authorContributionVariance": {
-    "quinnzzzzz": 0.09518136,
-    "articstranger": 706.1024,
+    "quinnzzzzz": 0.08691358,
+    "articstranger": 3057.666,
     "wongyuqi": 0.0,
-    "ndhuu": 194702.02
+    "ndhuu": 178594.86
   },
   "authorDisplayNameMap": {
     "quinnzzzzz": "ZHA... RU",
