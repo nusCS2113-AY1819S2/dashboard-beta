@@ -287,8 +287,8 @@
         ]
       },
       {
-        "insertions": 27,
-        "deletions": 2,
+        "insertions": 88,
+        "deletions": 74,
         "date": "2019-03-19",
         "commitResults": [
           {
@@ -326,6 +326,156 @@
             "message": "fixed stupid travis error",
             "insertions": 2,
             "deletions": 2
+          },
+          {
+            "hash": "fda994b8becb8933aad1e89687e53dd60c302b60",
+            "message": "Update EditCommand.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "dc7525a733b9d63dc58d99f046ce115e78e258c8",
+            "message": "Update AddCommandParser.java",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "a8eb751247e78486b13331f072b8ba48721a83b0",
+            "message": "Update EditCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "020ae2a2a5cd4f778d00e20e2af64084650e9c5a",
+            "message": "Update ParserUtil.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e7d4e6fecc8b680745e543606e3bbe5e7cf211dd",
+            "message": "Update AddressBook.java",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "8135c47c89f3fa898a5d7e036cb3e0ca3cd5907b",
+            "message": "Update Module.java",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "3e705f68377166881087934b1ad08cd6f8bd43ef",
+            "message": "Update Module.java",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "ab77f553a7135e168eee4a70fb62d63d6c189b4c",
+            "message": "Update Person.java",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "e529a7edee29bef5df9004af5465958ec96a6d6a",
+            "message": "Update SampleDataUtil.java",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "d9e09e7fbe12c62d125f47c4fb9560aa1b980e77",
+            "message": "Update JsonAdaptedPerson.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "df4740e26f56b2cdd2f391e0e42387edbaa794df",
+            "message": "close bracket",
+            "insertions": 0,
+            "deletions": 19
+          },
+          {
+            "hash": "4b1baa92d10fb05b69e82e5e686184e40e62327c",
+            "message": "Update AddCommandParser.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f71cb058a01dc0cc84399ad961aa541c02a4215d",
+            "message": "Update AddressBook.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c10e21e4bcc17700767b943c5f23aff727ac0472",
+            "message": "Update Module.java",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "f8b98971597b25eb1678f529a3dee865f024478a",
+            "message": "Update JsonAdaptedPerson.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "670a7ed1265eafbb2eaeede26ee03cb4b1fd8bc7",
+            "message": "Update CommandTestUtil.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "56b8c94faee5d978ef83b8af61c6b26356d9d1f1",
+            "message": "Update EditCommandParserTest.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7d828f2b4800058af6d1f5102a7b5515a8a83276",
+            "message": "Update JsonAdaptedPersonTest.java",
+            "insertions": 12,
+            "deletions": 7
+          },
+          {
+            "hash": "59398906f85c477bdc47bf3e110396e82c1ddc74",
+            "message": "Update EditPersonDescriptorBuilder.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a9ae518da531246409744b1308267a9b59018dda",
+            "message": "Update PersonBuilder.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e32ae95c375560f5330c3e67a1c80f83f3c09aa4",
+            "message": "Update PersonListPanelTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ddf1ce7176ef61c7440985d0c81abdfb3475ce56",
+            "message": "Update JsonAdaptedPersonTest.java",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "8283a9633b0244eee8aba75496ed3aad6db17372",
+            "message": "Update JsonAdaptedPersonTest.java",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "d47f96d4e5daccc2db6be030aea0d30a0fa5a1e6",
+            "message": "Update JsonAdaptedPersonTest.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e4e17ff6e0a145a3d71be1f7e2ff72c17da81ce9",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 0,
+            "deletions": 3
           }
         ]
       },
@@ -360,10 +510,176 @@
         "commitResults": []
       },
       {
+        "insertions": 541,
+        "deletions": 1,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "81f1582cee0460388af77a09eba4cfadc3683f9a",
+            "message": "Created an Event model which contains classes: Event, Title, Venue, Date, Time, Description, DressCode, and TargetAudience.",
+            "insertions": 32,
+            "deletions": 0
+          },
+          {
+            "hash": "30f6f4fa131c0f9c26f6a81014ed8d4c34aba197",
+            "message": "Instantiates classes in Event model: Event, Title, Venue, Date, Time, Description, DressCode, and TargetAudience.",
+            "insertions": 509,
+            "deletions": 1
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-25",
+        "date": "2019-03-26",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 633,
+        "deletions": 42,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "30f1e71ff9ae8c58828f46d68b01f3675714797f",
+            "message": "Added a new command - AddEventCommand with AddEventCommandParser and updated AddressBookParser, CliSyntax, ParserUtil accordingly Added Classes: - EventCalendar - ReadOnlyEventCalendar and updated Model and ModelManager to implement EventCalendar object",
+            "insertions": 617,
+            "deletions": 30
+          },
+          {
+            "hash": "f06b5a3da49f252f712ce33748f9fa4e5f85bfac",
+            "message": "Fixed regex exceptions for Description - to include punctuations Added a new parseexception for Time - to include both start time and end time Fixed a silly bug in ParserUtil - missing \"!\"",
+            "insertions": 16,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 885,
+        "deletions": 304,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "281fc229bb64298126e08a7a95cee925fdedf749",
+            "message": "- Added the necessary classes for the Storage component of Event Calendar. Now Events can be added to the Event Calendar and will be stored in \"data\\eventcalendar.json\" - Fixed regex expressions of TargetAudience, DressCode and Description to allow empty strings because they\u0027re optional. - Added functions to enable reading from json files to return the Model type of EventCalendar",
+            "insertions": 294,
+            "deletions": 0
+          },
+          {
+            "hash": "19ebb26d96d3ea30e0d383f5bcac5d1208405f58",
+            "message": "Adding unstaged files from previous commit. (Forgot lol)",
+            "insertions": 309,
+            "deletions": 149
+          },
+          {
+            "hash": "df0f49e071d91e7dd26ec1ccc84c64cfdb3fb91a",
+            "message": "fixed all erorrs in Tests, all due to Initialization of ModelManager and StorageManager (missing arguments for newly added EventCalendar stuff)",
+            "insertions": 100,
+            "deletions": 53
+          },
+          {
+            "hash": "578f14d2d0a79276b91a7edbbe799fd2eca17061",
+            "message": "fixed Travis Checkstyle errors - Attempt#1",
+            "insertions": 135,
+            "deletions": 86
+          },
+          {
+            "hash": "1662af0fef84616f7d15892bc996bd70b3a838ba",
+            "message": "- Fixed Travis checkstyle errors - Attempt #2 - added @@author tags",
+            "insertions": 25,
+            "deletions": 5
+          },
+          {
+            "hash": "b242bbfa9128b66cecb1741a97def89f02255049",
+            "message": "Fixed Travis checkstyle errors - Attempt #3",
+            "insertions": 15,
+            "deletions": 4
+          },
+          {
+            "hash": "a8272327723bfa998e0bc5c7e35a10dfa365e4a8",
+            "message": "Fixed Travis checkstyle errros - Attempt #4",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e74532e5b83ce9bbbe15011d56ab91066fe142ef",
+            "message": "Fixed Travis checkstyle erorrs - Attempt #5",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fd5dd8bdb15332b8784b8572726996c7bb54a1c0",
+            "message": "re-added useful comment and attempted to fix developer guide",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "ea11b41000faf408f5a15bf63b4fa8edcadcd05f",
+            "message": "attempt #2 fix dev guide",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 344,
+        "deletions": 39,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "1b7fd62bcf3920ffc1c5208a817cc58e20756f62",
+            "message": "updated Title\u0027s validation_regex from Alnum to Graph",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fc9d82e9a8a55989958badf40267424bc5788cbb",
+            "message": "- Added ListEventCommand which shows the events in the left panel of the GUI - Added xml and UI classes for the Events to show",
+            "insertions": 292,
+            "deletions": 16
+          },
+          {
+            "hash": "e2d8547f5445029e42f0544b52828b6b2dc198bb",
+            "message": "Fixed Travis checkstyle erorrs - Attempt #1",
+            "insertions": 27,
+            "deletions": 15
+          },
+          {
+            "hash": "936d748e98e456631f26f4ba9283b95f507cbea9",
+            "message": "Fixed Travis error - updated AddCommandTest",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "9cc964823361ba618a5d9bd917000ffc487afdcc",
+            "message": "Added comment for Regex expressions",
+            "insertions": 10,
+            "deletions": 3
+          },
+          {
+            "hash": "ccc03299aad78f067d026e8c0d7f59b0617347b2",
+            "message": "Fixed Travis checkstyle error",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
       }
     ],
     "JKupoluyi": [
@@ -622,16 +938,60 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 193,
+        "deletions": 114,
         "date": "2019-03-18",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "17d60b3585008ec665d0ed3eaf4a659d3c3d926b",
+            "message": "Added module as a parameter for a person.",
+            "insertions": 165,
+            "deletions": 26
+          },
+          {
+            "hash": "3705ebe6eb752bf446c3734ca6e76515cac7dc63",
+            "message": "Added new modules parameter for the person",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7e6d0b6db5e9d58edaa597cc03d8f5031481eed1",
+            "message": "no message",
+            "insertions": 24,
+            "deletions": 84
+          },
+          {
+            "hash": "62d921eb2cbdc8bc95b07977168600b9cd352c21",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5192a7a31b3591a0d51c7379a064ce2f5ff217f1",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 8,
+        "deletions": 8,
         "date": "2019-03-19",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "87deb2b7884f3a5b9359f4a00569bedef3bcb510",
+            "message": "Updated the Dev Guide with CheckAvailability feature",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "ea8c20156582f30d9aa0ccd4ee925873f4fa0d1a",
+            "message": "Edited the dev guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -652,10 +1012,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 60,
+        "deletions": 62,
         "date": "2019-03-23",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "dfa6f317b979841ba93593798081e1b7f5603da3",
+            "message": "Test Edits",
+            "insertions": 53,
+            "deletions": 43
+          },
+          {
+            "hash": "9c47e8fc4869f94ffd4e38a57e62362ff356360f",
+            "message": "Changed some of the test code.",
+            "insertions": 7,
+            "deletions": 19
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -664,9 +1037,174 @@
         "commitResults": []
       },
       {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "8bd3063509f6167956b0a504e2228f2108200bd3",
+            "message": "no message",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 59,
+        "deletions": 41,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "63893ac787eb3ba99c7bd874a935f134b88ca6b0",
+            "message": "Update LogicManagerTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "47e588bc84082eae85b8ac7caee9d605bf305c5f",
+            "message": "Update AddCommandParserTest.java",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "d02f50717f3d694b7edec32a4b1f9c1a88201d2e",
+            "message": "Update EditCommandParserTest.java",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "2d4eadc401b0c19663cc5e6eaabeeba05e2d068d",
+            "message": "Update JsonSerializableAddressBookTest.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "682ec490533cc847259475d635911be56978c0d3",
+            "message": "Update TypicalPersons.java",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "70c14c159f30f9bddf922ce02d79d575f5d1167c",
+            "message": "Update HelpWindowTest.java",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "5fceda05e538865f0e785ae4fdb291886deda5f1",
+            "message": "Update AddCommandSystemTest.java",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "e6485753ac0bc263ecfbf54fa0d08db74c93304f",
+            "message": "Update ClearCommandSystemTest.java",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "06bab56e5c45b13251a3d4544c954b698f5104a8",
+            "message": "Update DeleteCommandSystemTest.java",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "3ef746956d06c0984ca91dc5e126c7df332f8d0b",
+            "message": "Update EditCommandSystemTest.java",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "98403361225c9013e1655c05908e263f9366ea3d",
+            "message": "Update FindCommandSystemTest.java",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "4a7c57f806b08b51edc7881ea3845ab5fb3b2653",
+            "message": "Update SelectCommandSystemTest.java",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "4e1dcf4782824178e5655587961006fa120f1fd1",
+            "message": "Update AddCommandParserTest.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a1f32a03de4171c93d636a1c4a300fec2076290b",
+            "message": "Update HelpWindowTest.java",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 30,
+        "deletions": 29,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "c63ce73d31c1540d3babadc9eacc2e70bf37bcbc",
+            "message": "Update AddCommandParserTest.java",
+            "insertions": 20,
+            "deletions": 20
+          },
+          {
+            "hash": "6cf75764530767d4a04c49d0e7c3db26fdebc232",
+            "message": "Update JsonSerializableAddressBookTest.java",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "2f9494763c206b50e5e1591783fe726cff2451b5",
+            "message": "Update TypicalPersons.java",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "48ed02e584b4477864127e462e8a9bc885bb9611",
+            "message": "Update EditCommandParserTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "582928628471436ca493514d3752d95e1023f825",
+            "message": "Update HelpWindowTest.java",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-25",
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
         "commitResults": []
       }
     ],
@@ -1013,10 +1551,16 @@
         "commitResults": []
       },
       {
-        "insertions": 37,
-        "deletions": 9,
+        "insertions": 44,
+        "deletions": 16,
         "date": "2019-03-25",
         "commitResults": [
+          {
+            "hash": "dbd398edfe55b3fe1fb520bc97cf3763767324ac",
+            "message": "Fixing a travis error",
+            "insertions": 2,
+            "deletions": 2
+          },
           {
             "hash": "aacdbca42c5a57b355f9a1764790846b05172984",
             "message": "Trying to get image working",
@@ -1036,12 +1580,85 @@
             "deletions": 8
           },
           {
+            "hash": "bb9ef2188ea4ad8702154b32051a2031d4f26c1a",
+            "message": "Reverting to debug Netlify",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7e1699855e4b3afa89698cd4e7f9d93d4915d37a",
+            "message": "Trying to revert changes to debug Netlify",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
             "hash": "93cda24ce13b84ac48ab2838293741c537ad6319",
             "message": "No newline",
             "insertions": 1,
             "deletions": 1
+          },
+          {
+            "hash": "539cf4653c795d4bad39b6c9d2ee251610d70c54",
+            "message": "Testing for Netlify errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "df1d1bc06896de6d0eeed0bbd4b864fb3b6e93b1",
+            "message": "Solved travis error (will netlify have problem again?)",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "7d4c0600465391c44188394ed9b43704c7d3c7db",
+            "message": "Making a release",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
       }
     ],
     "Shizhe-NUS": [
@@ -1360,24 +1977,66 @@
         "deletions": 0,
         "date": "2019-03-25",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "windrichie": 179,
-    "JKupoluyi": 30,
-    "Sameow": 181,
-    "Shizhe-NUS": 87
+    "windrichie": 2276,
+    "JKupoluyi": 277,
+    "Sameow": 168,
+    "Shizhe-NUS": 71
   },
   "authorFileFormatContributionMap": {
     "windrichie": {
-      "adoc": 132,
+      "adoc": 121,
       "cs": 0,
       "css": 0,
-      "fxml": 0,
+      "fxml": 44,
       "gradle": 0,
       "html": 0,
-      "java": 47,
+      "java": 2111,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1388,13 +2047,13 @@
       "xml": 0
     },
     "JKupoluyi": {
-      "adoc": 30,
+      "adoc": 56,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 0,
+      "java": 221,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1405,13 +2064,13 @@
       "xml": 0
     },
     "Sameow": {
-      "adoc": 51,
+      "adoc": 42,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 104,
+      "java": 100,
       "js": 0,
       "json": 26,
       "jsp": 0,
@@ -1422,13 +2081,13 @@
       "xml": 0
     },
     "Shizhe-NUS": {
-      "adoc": 41,
+      "adoc": 42,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 46,
+      "java": 29,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1440,10 +2099,10 @@
     }
   },
   "authorContributionVariance": {
-    "windrichie": 310.54288,
-    "JKupoluyi": 704.71686,
-    "Sameow": 353.87793,
-    "Shizhe-NUS": 93.640495
+    "windrichie": 42266.7,
+    "JKupoluyi": 2789.768,
+    "Sameow": 334.9214,
+    "Shizhe-NUS": 81.610886
   },
   "authorDisplayNameMap": {
     "windrichie": "Windrich",

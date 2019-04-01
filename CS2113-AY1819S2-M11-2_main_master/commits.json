@@ -621,6 +621,130 @@
             "deletions": 7
           }
         ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "9c88f23e44f97ab6b2c529e2a66f7db58ca17e01",
+            "message": "Fix name formatting",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 48,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "98e87930d52821a41c4e33a244bb83bd41b8db1b",
+            "message": "Add daysLeft to task card Rename tests",
+            "insertions": 15,
+            "deletions": 14
+          },
+          {
+            "hash": "9021a5d691fcb28d597164d6a9be2becb8859c95",
+            "message": "Rename person to task",
+            "insertions": 33,
+            "deletions": 33
+          },
+          {
+            "hash": "57fa5f878403ac22e1e7bcde1476e49b4f635fb7",
+            "message": "Fix import order",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 79,
+        "deletions": 65,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "edeea63e8a722b9bc04e9912e13ef7a81e42f5e6",
+            "message": "Update Developer Guide",
+            "insertions": 79,
+            "deletions": 65
+          }
+        ]
+      },
+      {
+        "insertions": 146,
+        "deletions": 42,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "3125de6dcfd46a359e03c86927875f74c7784b6f",
+            "message": "Update Developer Guide",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "970b37eb1921e81efe619df8d2f0dc68d3f453b8",
+            "message": "Update DG Minor formatting fixes",
+            "insertions": 9,
+            "deletions": 13
+          },
+          {
+            "hash": "8241cc4845271a2e8b9079bb829ed69ff22726aa",
+            "message": "Minor fix in wording",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9b8c62cf6a7df09b69c1db1343b01bcef715cfe2",
+            "message": "Update tests",
+            "insertions": 123,
+            "deletions": 13
+          },
+          {
+            "hash": "bfa2985af89d511cacfcc233c04496ba4b4ef283",
+            "message": "Fix Checkstyle",
+            "insertions": 3,
+            "deletions": 9
+          },
+          {
+            "hash": "066cf0899d5d9ede101e99a88111ba1762aad25f",
+            "message": "Update tests",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e53ce5014d49fdab7cac89b9ab5cb566f2916090",
+            "message": "Update tests",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "03d9c61279e1cd931e181492276dd9a99079d267",
+            "message": "Update Dev Guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "Shengkok": [
@@ -1007,6 +1131,130 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 4,
+        "deletions": 54,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "2bbc8bb67a4755f24f1f3ee9a4b041bb219ca3c9",
+            "message": "removed some unnecessary code",
+            "insertions": 4,
+            "deletions": 54
+          }
+        ]
+      },
+      {
+        "insertions": 22,
+        "deletions": 13,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "6fa67e47fa587ba25345ad98258bec7c1f815fca",
+            "message": "Updated developer guide",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "f9e8919ce88b1a5a5def9b874b48ba5626bb0d99",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "19b986254a4facf61fdc4adefca50d8595f9aee6",
+            "message": "Fixed issue of UML diagrams not displaying",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2a677511930f2fef6562d126ea6452cd4cd17303",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 8,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 1,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "80f2f664e24459f8f6e1c49dc9eb49b34bb42ae5",
+            "message": "newline at eof",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "49add39c45792d1e83b819a401ee8d2d7123db2f",
+            "message": "Fix newline at eof issue",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 21,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "7dc6101564f45faf9255ae7a2dd6d5a797518e3d",
+            "message": "Add new notes sequence diagram for standardization",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ad8185bc7137d027da553fed57771b6b3cf91a58",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cd425445722d64930cfbe4a0cf67bcc6db127bc5",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b5fe9d3f1957f7c460a07aaa5f43669e44f7faec",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 16,
+            "deletions": 14
+          },
+          {
+            "hash": "1aaf8776ecfa6dfce45b11079e92ef7aabc8f654",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "bf16f119e3f1338220f827fc2c40fe1eed118d8a",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
         "commitResults": []
       }
     ],
@@ -1476,8 +1724,8 @@
         ]
       },
       {
-        "insertions": 229,
-        "deletions": 48,
+        "insertions": 1263,
+        "deletions": 642,
         "date": "2019-03-24",
         "commitResults": [
           {
@@ -1515,6 +1763,208 @@
             "message": "Fix checkstyle error",
             "insertions": 19,
             "deletions": 7
+          },
+          {
+            "hash": "cedae7bdd44adc1a94328b9068c2a97c06218c6d",
+            "message": "Edit test cases",
+            "insertions": 536,
+            "deletions": 427
+          },
+          {
+            "hash": "02ef9a27eb5f2539aeb57a71c85198450b1892a5",
+            "message": "Edit test cases",
+            "insertions": 131,
+            "deletions": 131
+          },
+          {
+            "hash": "4a4d8662ae64d6822fd8a68302bd2ee9e0d18efe",
+            "message": "Add EOF",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7fad66aa19687af86d1b959b5f53ed7d31af64df",
+            "message": "Edit to fit checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ceb67a7591e28c7b90914311ff910a152fd79263",
+            "message": "Edit for checkstyle",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "ff7683fee2a1015352a5ef918b80189e69d04099",
+            "message": "Add Test Cases",
+            "insertions": 331,
+            "deletions": 1
+          },
+          {
+            "hash": "2278e3be46cb40f0a22cb568f32345eb608c9d26",
+            "message": "Add EOF",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6cd8bb37d7d07eeec1a04a30098cd9b11ddfcb6f",
+            "message": "Fix Checkstyle",
+            "insertions": 30,
+            "deletions": 29
+          },
+          {
+            "hash": "8cc2f9d57924d9730f4322211113d92e0b0222e3",
+            "message": "Edit for checkstyle error",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 60,
+        "deletions": 24,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "056b97b037d63395313773e05ef9dfad51d6b89d",
+            "message": "Edit files to add daysLeft label",
+            "insertions": 54,
+            "deletions": 18
+          },
+          {
+            "hash": "2e621e3fa839cadcff4512f5d2033c61c2fedd41",
+            "message": "Change colour of overdue tasks",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "78872f3b88fed397fba6929d90fd294fc13c6c8f",
+            "message": "Add EOF",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 3,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "befc27967113c62d2b109e8a44b359acc103f9d5",
+            "message": "Add Find Upcoming feature",
+            "insertions": 4,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 507,
+        "deletions": 402,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "6bec2e7e5c050acaa59671477b4e2bf6fa569b98",
+            "message": "Edit Test Case",
+            "insertions": 15,
+            "deletions": 5
+          },
+          {
+            "hash": "6e4355d01751631bdd90795c1a4270c618d18183",
+            "message": "Edit out a Test Case",
+            "insertions": 341,
+            "deletions": 341
+          },
+          {
+            "hash": "8feedc03538cd914e1f596dadb0211a78d7dd035",
+            "message": "Update DG",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "3259b85635c016dc8e958974b97752d7a1ff0f38",
+            "message": "Update DG",
+            "insertions": 101,
+            "deletions": 10
+          },
+          {
+            "hash": "1e494a7c661f446f8e5a44b7edb2c0229ef2dafc",
+            "message": "Edit DG to show Sort Sequence Diagram",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "fe35079815c9610c16ed38d19ecedac6a0d06e29",
+            "message": "Update DG",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "70e793907f0ab33dcddfb13496db6871725ba236",
+            "message": "Update links in DG",
+            "insertions": 24,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 17,
+        "deletions": 17,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "d855ffbfaf0fad9b995a2190b020b0e8bd81c87e",
+            "message": "Edit DG",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "076d0d634501727fdd2329e75032dd882c0c5e5b",
+            "message": "Update DG",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "2f043487c7dfd7d964b29b027f4a7e2ec7bf4a31",
+            "message": "Update DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7df1163f2febeb8d3ff57fe76b4b018356f3acf4",
+            "message": "Resize Account Class Diagram",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "07a977aba589de14b3685663d11bfaeb4c297188",
+            "message": "Resize account class diagram to fit words in the box",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1b6c42bfddbc14b1cd03ad00bfcd5a84ef08a1cf",
+            "message": "Resize notes class diagram to fit the words",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       }
@@ -1896,24 +2346,66 @@
         "deletions": 0,
         "date": "2019-03-24",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Justin-Ong": 726,
-    "Shengkok": 985,
-    "khairulhazril": 6515,
-    "nicholasleeeee": 345
+    "Justin-Ong": 929,
+    "Shengkok": 979,
+    "khairulhazril": 6864,
+    "nicholasleeeee": 321
   },
   "authorFileFormatContributionMap": {
     "Justin-Ong": {
-      "adoc": 70,
+      "adoc": 135,
       "cs": 0,
       "css": 0,
-      "fxml": 32,
+      "fxml": 33,
       "gradle": 2,
       "html": 0,
-      "java": 620,
+      "java": 757,
       "js": 0,
       "json": 2,
       "jsp": 0,
@@ -1924,15 +2416,15 @@
       "xml": 0
     },
     "Shengkok": {
-      "adoc": 89,
+      "adoc": 119,
       "cs": 0,
       "css": 0,
       "fxml": 45,
       "gradle": 0,
       "html": 0,
-      "java": 851,
+      "java": 814,
       "js": 0,
-      "json": 0,
+      "json": 1,
       "jsp": 0,
       "md": 0,
       "py": 0,
@@ -1941,13 +2433,13 @@
       "xml": 0
     },
     "khairulhazril": {
-      "adoc": 291,
+      "adoc": 428,
       "cs": 0,
       "css": 1,
       "fxml": 19,
       "gradle": 0,
       "html": 1,
-      "java": 6118,
+      "java": 6330,
       "js": 0,
       "json": 85,
       "jsp": 0,
@@ -1958,13 +2450,13 @@
       "xml": 0
     },
     "nicholasleeeee": {
-      "adoc": 71,
+      "adoc": 65,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 1,
       "html": 0,
-      "java": 273,
+      "java": 255,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1976,10 +2468,10 @@
     }
   },
   "authorContributionVariance": {
-    "Justin-Ong": 16611.715,
-    "Shengkok": 11442.862,
-    "khairulhazril": 7868366.0,
-    "nicholasleeeee": 34229.05
+    "Justin-Ong": 15068.804,
+    "Shengkok": 9935.78,
+    "khairulhazril": 6845324.0,
+    "nicholasleeeee": 29642.615
   },
   "authorDisplayNameMap": {
     "Justin-Ong": "ONG...TIN",

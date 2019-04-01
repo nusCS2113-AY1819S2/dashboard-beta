@@ -654,6 +654,61 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 556,
+        "deletions": 14,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "817f453f345daec798a55e7b79d431a642c2f8ba",
+            "message": "Logic: update to handle \u0027planner_move\u0027 command",
+            "insertions": 204,
+            "deletions": 0
+          },
+          {
+            "hash": "39cd71cac0bfd52996e965785c4cec68e6b1596d",
+            "message": "Model: update to handle \u0027planner_move\u0027 command",
+            "insertions": 33,
+            "deletions": 1
+          },
+          {
+            "hash": "297fa2eeddf6231403adb597ad11b72e427e9beb",
+            "message": "Test: update to include test for \u0027planner_move\u0027 command",
+            "insertions": 319,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
       }
     ],
     "WendyBaiYunwei": [
@@ -939,6 +994,42 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
         "commitResults": []
       }
     ],
@@ -1905,6 +1996,126 @@
         "deletions": 0,
         "date": "2019-03-26",
         "commitResults": []
+      },
+      {
+        "insertions": 135,
+        "deletions": 79,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "70a5fd550c911850bf57e5529d779714056bd02d",
+            "message": "Model \u0026 Storage: add more checks to co-requisites cascading (#122)",
+            "insertions": 135,
+            "deletions": 79
+          }
+        ]
+      },
+      {
+        "insertions": 57,
+        "deletions": 1,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "13db035dc58b6273878eb84bfa9a57bdad59ba5c",
+            "message": "Model/util: update `SampleDataUtil#getSampleDegreePlanners()` (#131)",
+            "insertions": 57,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 400,
+        "deletions": 20,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "38f7c5ac9b974c6d7b769079a69380542a9ef9eb",
+            "message": " Model/util: add and use `InitialDataUtil` class (#134)",
+            "insertions": 223,
+            "deletions": 12
+          },
+          {
+            "hash": "98431c021497eb62b9d21cd07d4f868118965ad8",
+            "message": "Logic/parser: add and use `BooleanExpressionTokenizer`",
+            "insertions": 172,
+            "deletions": 5
+          },
+          {
+            "hash": "64ec9fe2b088904ff0c90231cbeb11f83fb9e796",
+            "message": "Model: update `Name#VALIDATION_REGEX` and `Name#MESSAGE_CONSTRAINTS` (#135)",
+            "insertions": 5,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "d1dd12a6eb9faa621278ce71a5882e77f90379d3",
+            "message": "test/CommandParserTestUtil: address `javac` linter warnings (#137)",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 257,
+        "deletions": 129,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "a7f537547fbcc9686a07d54d06369122629727ac",
+            "message": "Model/module: update `Module#toString()` (#138)",
+            "insertions": 13,
+            "deletions": 20
+          },
+          {
+            "hash": "d1b43acabf4ce3dec4ea909a507621f9ba3d19d0",
+            "message": "Logic/commands: update `ClearCommand#MESSAGE_SUCCESS` (#143)",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "09896cc753a226e57a2eb1310f9651d1bacec182",
+            "message": "Logic/command: update `HistoryCommand#execute(...)` \u0026 error message (#141)",
+            "insertions": 20,
+            "deletions": 9
+          },
+          {
+            "hash": "f1bd439c23c06250524475f4bfff342046008efc",
+            "message": "Logic: update `DeleteCommand` success and error messages (#142)",
+            "insertions": 19,
+            "deletions": 4
+          },
+          {
+            "hash": "44b07094966cb3be476bc8303d0f5125321db39f",
+            "message": "Logic: update `AddCommand` success and error messages (#140)",
+            "insertions": 64,
+            "deletions": 37
+          },
+          {
+            "hash": "0d171203c9c4badc4f4c8190d618709f29925764",
+            "message": "Logic: update `EditCommand` success and error messages (#139)",
+            "insertions": 137,
+            "deletions": 56
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "32ac6ee0e0f65c669ef4d3818e08dba11604421b",
+            "message": "docs: update `Ui.png` and increase width in documentations (#147)",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "chyeo": [
@@ -2542,9 +2753,102 @@
         ]
       },
       {
+        "insertions": 399,
+        "deletions": 9,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "0fc735ad74dff29f96b1d460d76170e86208b44e",
+            "message": "Logic: implement logic for \u0027requirement_remove\u0027 command",
+            "insertions": 136,
+            "deletions": 0
+          },
+          {
+            "hash": "dcb0e39a153b8999c836986dd9a4cac49e91df01",
+            "message": "AddressBookParser: update to take in \u0027requirement_remove\u0027 command",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "fe50e68280d7202f3ba70ebdcac4be57cccbfa51",
+            "message": "RequirementRemoveCommandTest: create test cases for implemented command",
+            "insertions": 259,
+            "deletions": 9
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-26",
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 436,
+        "deletions": 29,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "ea4b496bb17c127d2777ad0493efccfae6c9185d",
+            "message": "Logic: implement \u0027requirement_list\u0027 command",
+            "insertions": 115,
+            "deletions": 5
+          },
+          {
+            "hash": "a3c88622c062b5ac16355d3d5ac1297ee32e050f",
+            "message": "test: creating test cases for new command",
+            "insertions": 71,
+            "deletions": 2
+          },
+          {
+            "hash": "b296c335d985341b5cf5f308e8c18f9ac174b711",
+            "message": "view: creating UI panels to display requirement categories",
+            "insertions": 53,
+            "deletions": 2
+          },
+          {
+            "hash": "3a3c229c368cc12283c08143b56b9bbbc7ccd6f0",
+            "message": "UI: implement the logic to display the requirement categories",
+            "insertions": 159,
+            "deletions": 0
+          },
+          {
+            "hash": "57423a9f83af5ec2ad4708d63db8ee450edac1d0",
+            "message": "Update CSS for display the requirement categories",
+            "insertions": 38,
+            "deletions": 20
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 6,
+        "deletions": 7,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "4f95dbad14fb2f7c5ece50e193bf99539e6ba6b8",
+            "message": "Fixing files with merge conflict issues",
+            "insertions": 6,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
         "commitResults": []
       }
     ],
@@ -3089,8 +3393,8 @@
         "commitResults": []
       },
       {
-        "insertions": 64,
-        "deletions": 5,
+        "insertions": 475,
+        "deletions": 117,
         "date": "2019-03-25",
         "commitResults": [
           {
@@ -3106,10 +3410,76 @@
             "deletions": 4
           },
           {
+            "hash": "bbe2af9b0876b36196c15902904757bc37d4eb43",
+            "message": "Logic: create `BooleanExpressionParser` class",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "dc39f75357e97619092dee3f43b669de4cb4a031",
+            "message": "Logic: create `Operator` class",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "6a1bbaf1847524d9e914d7cc6dd6d4c8f42518b7",
+            "message": "Logic: add helper method on Operator",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "b2cf5be1f24491605b8d121281771f7b5f7c781f",
+            "message": "Logic: add helper method for `BooleanExpressionParser`",
+            "insertions": 43,
+            "deletions": 0
+          },
+          {
+            "hash": "fcc701dbf43fcee9d33f2fe04cb0d38fa8451766",
+            "message": "Logic: add helper method on Operator",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
             "hash": "4b452f10208cde4c1f1593ecd7b54181439c08c7",
             "message": "docs/DeveloperGuide: update `find` command implementation details (#100)",
             "insertions": 58,
             "deletions": 0
+          },
+          {
+            "hash": "165b55b7cfa3996ca5691a6cac443669ab56390f",
+            "message": "Logic: implement `BooleanExpressionParser#parse`",
+            "insertions": 97,
+            "deletions": 0
+          },
+          {
+            "hash": "cf8bd29bd127fb14ac0154b81a35e2805b83e8de",
+            "message": "Logic: utilise `BooleanExpressionParser#parse`",
+            "insertions": 1,
+            "deletions": 50
+          },
+          {
+            "hash": "377aaa302515a13ae01b8cc10522b7b3c9eb7874",
+            "message": "test/parser: update `ParserTest` unit test",
+            "insertions": 75,
+            "deletions": 37
+          },
+          {
+            "hash": "41dfc7bd2aded1b90d2a894144796a24110c5cfd",
+            "message": "systemtest/FindCommanSystemTest: fix broken unit tests",
+            "insertions": 23,
+            "deletions": 17
+          },
+          {
+            "hash": "39226387202af1fd888ec1faafe0a7c7ccce6567",
+            "message": "systemtest/FindCommanSystemTest: add unit tests",
+            "insertions": 73,
+            "deletions": 1
+          },
+          {
+            "hash": "8e3af821f16a4014e66629c621615723399a2e8b",
+            "message": "FindCommand: update `MESSAGE_USAGE`",
+            "insertions": 21,
+            "deletions": 7
           }
         ]
       },
@@ -3118,27 +3488,84 @@
         "deletions": 0,
         "date": "2019-03-26",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 4,
+        "deletions": 8,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "8d328f5147352dfbf2e7df9c6daf2c5a7a59881b",
+            "message": "Logic: adopt `CliSyntax` for consistency",
+            "insertions": 4,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 86,
+        "deletions": 81,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "b6b35e2ce08b362c6cb29ca61a4ded2aee291c06",
+            "message": "Logic: Improve `BooleanExpressionParser#getKeywordsPredicate`",
+            "insertions": 86,
+            "deletions": 81
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 525,
+        "deletions": 31,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "da90b9cb4aa15c282e202e01c3aaf95c267e4d5a",
+            "message": "UI: add new css `WhiteTheme.css` (#144)",
+            "insertions": 525,
+            "deletions": 31
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "truegitnovice": 2133,
+    "truegitnovice": 2629,
     "WendyBaiYunwei": 112,
-    "Creastery": 2976,
-    "chyeo": 1821,
-    "lycjackie": 683
+    "Creastery": 3628,
+    "chyeo": 2617,
+    "lycjackie": 1534
   },
   "authorFileFormatContributionMap": {
     "truegitnovice": {
       "adoc": 425,
       "cs": 0,
       "css": 26,
-      "fxml": 34,
+      "fxml": 23,
       "gradle": 0,
       "html": 0,
-      "java": 1571,
+      "java": 2086,
       "js": 0,
-      "json": 77,
+      "json": 69,
       "jsp": 0,
       "md": 0,
       "py": 0,
@@ -3164,15 +3591,15 @@
       "xml": 0
     },
     "Creastery": {
-      "adoc": 198,
+      "adoc": 200,
       "cs": 0,
       "css": 1,
-      "fxml": 7,
+      "fxml": 6,
       "gradle": 21,
       "html": 0,
-      "java": 2662,
+      "java": 3314,
       "js": 0,
-      "json": 87,
+      "json": 86,
       "jsp": 0,
       "md": 0,
       "py": 0,
@@ -3183,13 +3610,13 @@
     "chyeo": {
       "adoc": 102,
       "cs": 0,
-      "css": 0,
-      "fxml": 0,
+      "css": 23,
+      "fxml": 52,
       "gradle": 0,
       "html": 0,
-      "java": 1692,
+      "java": 2412,
       "js": 0,
-      "json": 27,
+      "json": 28,
       "jsp": 0,
       "md": 0,
       "py": 0,
@@ -3200,11 +3627,11 @@
     "lycjackie": {
       "adoc": 202,
       "cs": 0,
-      "css": 0,
-      "fxml": 1,
+      "css": 459,
+      "fxml": 13,
       "gradle": 2,
       "html": 0,
-      "java": 476,
+      "java": 856,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -3216,11 +3643,11 @@
     }
   },
   "authorContributionVariance": {
-    "truegitnovice": 94413.76,
-    "WendyBaiYunwei": 232.63986,
-    "Creastery": 227067.44,
-    "chyeo": 334439.38,
-    "lycjackie": 4432.8887
+    "truegitnovice": 88619.28,
+    "WendyBaiYunwei": 206.37813,
+    "Creastery": 203845.8,
+    "chyeo": 300347.44,
+    "lycjackie": 15555.133
   },
   "authorDisplayNameMap": {
     "truegitnovice": "AHN...GYU",

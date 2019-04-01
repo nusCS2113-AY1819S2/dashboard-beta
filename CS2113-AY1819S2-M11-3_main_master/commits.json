@@ -291,6 +291,73 @@
             "deletions": 11
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 45,
+        "deletions": 51,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "d7776fe86971aae8a6ae1264c979c4346f14e328",
+            "message": "Updated UserGuide.adoc",
+            "insertions": 45,
+            "deletions": 51
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
       }
     ],
     "jemine1998": [
@@ -598,6 +665,106 @@
         "deletions": 0,
         "date": "2019-03-21",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 186,
+        "deletions": 34,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "37e980553a8d525fa612b4fbd562057a66d3eb9f",
+            "message": "adding a sort command",
+            "insertions": 186,
+            "deletions": 34
+          }
+        ]
+      },
+      {
+        "insertions": 159,
+        "deletions": 97,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "b38b91d326c65d40c23abf4e8b0f8558d4ed52f4",
+            "message": "revised status foot bar UI",
+            "insertions": 159,
+            "deletions": 97
+          }
+        ]
+      },
+      {
+        "insertions": 106,
+        "deletions": 2,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "6862978ff4982eea9fa7e18fb6c46f242f90ae1c",
+            "message": "edited difficulty",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ae49e37be7f08cdcca7228896dd6f3c499ee49c5",
+            "message": "added select subject command",
+            "insertions": 105,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 101,
+        "deletions": 28,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "2c28ad7c0999028e3cf0e8f36fea69c716612550",
+            "message": "edited developer guide",
+            "insertions": 89,
+            "deletions": 11
+          },
+          {
+            "hash": "994917342a18c1b8931f7cea074f25bdd9542177",
+            "message": "no message",
+            "insertions": 12,
+            "deletions": 17
+          }
+        ]
       }
     ],
     "dannong": [
@@ -943,17 +1110,77 @@
         "deletions": 0,
         "date": "2019-03-21",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "wanchinglim": 177,
-    "jemine1998": 524,
-    "dannong": 6
+    "wanchinglim": 205,
+    "jemine1998": 867,
+    "dannong": 7
   },
   "authorFileFormatContributionMap": {
     "wanchinglim": {
-      "adoc": 177,
+      "adoc": 205,
       "cs": 0,
       "css": 0,
       "fxml": 0,
@@ -970,15 +1197,15 @@
       "xml": 0
     },
     "jemine1998": {
-      "adoc": 48,
+      "adoc": 31,
       "cs": 0,
       "css": 0,
       "fxml": 1,
       "gradle": 0,
       "html": 0,
-      "java": 475,
+      "java": 826,
       "js": 0,
-      "json": 0,
+      "json": 9,
       "jsp": 0,
       "md": 0,
       "py": 0,
@@ -987,7 +1214,7 @@
       "xml": 0
     },
     "dannong": {
-      "adoc": 6,
+      "adoc": 7,
       "cs": 0,
       "css": 0,
       "fxml": 0,
@@ -1005,9 +1232,9 @@
     }
   },
   "authorContributionVariance": {
-    "wanchinglim": 3378.0845,
-    "jemine1998": 8541.947,
-    "dannong": 2431.2095
+    "wanchinglim": 2869.819,
+    "jemine1998": 9012.825,
+    "dannong": 1985.2896
   },
   "authorDisplayNameMap": {
     "wanchinglim": "LIM...ING",

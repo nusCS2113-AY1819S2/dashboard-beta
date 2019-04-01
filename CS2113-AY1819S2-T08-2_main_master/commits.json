@@ -299,9 +299,64 @@
         ]
       },
       {
+        "insertions": 378,
+        "deletions": 26,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "b174f1001f521c4f3479ca657ad907a6aceb1f3c",
+            "message": "Main App and UserPref updated, bug fixed.",
+            "insertions": 39,
+            "deletions": 3
+          },
+          {
+            "hash": "bbffeafd5f28b59b8eae51ef2afe108554ec7c4f",
+            "message": "Model, Logic, Command updated for the RandomCommand",
+            "insertions": 339,
+            "deletions": 23
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-25",
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
         "commitResults": []
       }
     ],
@@ -568,6 +623,48 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
         "commitResults": []
       }
     ],
@@ -911,6 +1008,73 @@
             "deletions": 3
           }
         ]
+      },
+      {
+        "insertions": 180,
+        "deletions": 42,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "b721620ac434fba5fd90f4b52810e29f13e183e6",
+            "message": "Modified logic manager - added purchases can now be seen in the expenditure list section",
+            "insertions": 13,
+            "deletions": 3
+          },
+          {
+            "hash": "8ef53c8234f41ab729de94b130b3e248d35685c7",
+            "message": "Changed some format in userguide - daily task, expenditure list etc. are now under \"features\"",
+            "insertions": 138,
+            "deletions": 36
+          },
+          {
+            "hash": "fae5cc1c04d7c6bd2e62db53eaf05b61ad339735",
+            "message": "added ClearExpListCommand (able to work)",
+            "insertions": 26,
+            "deletions": 1
+          },
+          {
+            "hash": "7c4ae03ca574581002209b83223d488b99da1c25",
+            "message": "edited userguide under \"clearing expenditure list\"",
+            "insertions": 3,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
       }
     ],
     "jayrometan": [
@@ -1235,14 +1399,96 @@
         "deletions": 0,
         "date": "2019-03-25",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 52,
+        "deletions": 19,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "ece9a17607c6bd0791350bd1dc02a310cd285124",
+            "message": "Added Verification of Duplication for AddTask Command",
+            "insertions": 52,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 118,
+        "deletions": 69,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "97a12efec3703367851074ce564e71630dbd2b27",
+            "message": "Added validation of input date and time. If entered an invalid date with a format ddMMyy e.g. 241519 , this would cause an exception. The same goes for time.",
+            "insertions": 90,
+            "deletions": 48
+          },
+          {
+            "hash": "23684a88157d64e0cdc749e8a92471889bd80a57",
+            "message": "added display for the invalid dates and times with the error messages!",
+            "insertions": 28,
+            "deletions": 21
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 60,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "3bd7e4bc7dbdbe492cef80aaeeebdf1d6244396d",
+            "message": "Adding the json files",
+            "insertions": 60,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 591,
+        "deletions": 102,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "06bb0fe9a37152124dbec5327f9378da3c5d3375",
+            "message": "Uploading the Developer Guide for 010419 CS2101 lesson",
+            "insertions": 229,
+            "deletions": 59
+          },
+          {
+            "hash": "1c00ceaf59385c298afefd856d094d69a27dcdb9",
+            "message": "Some minor fixes",
+            "insertions": 362,
+            "deletions": 43
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "yongjia96": 182,
+    "yongjia96": 1163,
     "swalahlah": 0,
-    "weizhonglauw": 1759,
-    "jayrometan": 1602
+    "weizhonglauw": 1807,
+    "jayrometan": 2284
   },
   "authorFileFormatContributionMap": {
     "yongjia96": {
@@ -1252,7 +1498,7 @@
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 182,
+      "java": 1163,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1280,13 +1526,13 @@
       "xml": 0
     },
     "weizhonglauw": {
-      "adoc": 68,
+      "adoc": 99,
       "cs": 0,
       "css": 0,
       "fxml": 51,
       "gradle": 0,
       "html": 0,
-      "java": 1640,
+      "java": 1657,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1297,15 +1543,15 @@
       "xml": 0
     },
     "jayrometan": {
-      "adoc": 226,
+      "adoc": 429,
       "cs": 0,
       "css": 0,
       "fxml": 53,
       "gradle": 0,
       "html": 0,
-      "java": 1323,
+      "java": 1742,
       "js": 0,
-      "json": 0,
+      "json": 60,
       "jsp": 0,
       "md": 0,
       "py": 0,
@@ -1315,10 +1561,10 @@
     }
   },
   "authorContributionVariance": {
-    "yongjia96": 7867.563,
+    "yongjia96": 9707.686,
     "swalahlah": 0.0,
-    "weizhonglauw": 161027.23,
-    "jayrometan": 27333.195
+    "weizhonglauw": 140320.36,
+    "jayrometan": 32050.201
   },
   "authorDisplayNameMap": {
     "yongjia96": "PAN...JIA",

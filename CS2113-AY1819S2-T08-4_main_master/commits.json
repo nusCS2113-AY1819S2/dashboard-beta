@@ -444,9 +444,179 @@
         ]
       },
       {
+        "insertions": 491,
+        "deletions": 127,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "558d8d416e6aa50dd2239f4f514ab53bb243c254",
+            "message": "Create and parse stat command",
+            "insertions": 31,
+            "deletions": 0
+          },
+          {
+            "hash": "3da8a9d496d5500d99712e79fe1a3f12dfec8107",
+            "message": "Update birthday attr to get age Update major attr to accept SOC majors only",
+            "insertions": 15,
+            "deletions": 5
+          },
+          {
+            "hash": "1e12fdd84894cfd1f05818ce7983ccb7ccd7f98d",
+            "message": "Logic of stat command",
+            "insertions": 164,
+            "deletions": 0
+          },
+          {
+            "hash": "9b8777710f259ca93a1d020bbf7e8f2da83c3d77",
+            "message": "Rename and add UI parts for stat command",
+            "insertions": 102,
+            "deletions": 27
+          },
+          {
+            "hash": "2fe2e5d7f283bfba54f306e83be003686a7329bb",
+            "message": "Update test cases",
+            "insertions": 80,
+            "deletions": 59
+          },
+          {
+            "hash": "03eba1752513e7fc615247288a6e65428060ae87",
+            "message": "Fix checkstyles",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "17d5419efaa586a3364979b5a1a0da79e506a390",
+            "message": "Clean Sex and Major value",
+            "insertions": 35,
+            "deletions": 6
+          },
+          {
+            "hash": "4b4aec85aa87fcae6be4c75f201f723c3415e9be",
+            "message": "Clean major and sex data again",
+            "insertions": 40,
+            "deletions": 15
+          },
+          {
+            "hash": "5373582d45e42c457f73761ef0e28250797d7d44",
+            "message": "clean Sex data",
+            "insertions": 13,
+            "deletions": 8
+          },
+          {
+            "hash": "9ee8e9cf20173e864a0dd1b82daeda31c247c712",
+            "message": "Fix checkstyles",
+            "insertions": 7,
+            "deletions": 4
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-25",
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 702,
+        "deletions": 146,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "89159ceee85ee78ac29058d0dbfa11b2d296aaa5",
+            "message": "Improve code readability",
+            "insertions": 20,
+            "deletions": 37
+          },
+          {
+            "hash": "e0bdcf44b09507c3612f8fb86f049241cfdce3ba",
+            "message": "Fix checkstyles",
+            "insertions": 17,
+            "deletions": 16
+          },
+          {
+            "hash": "87e54f62e05cbffc5223a363c364d0255bf8b12b",
+            "message": "Edit UI",
+            "insertions": 82,
+            "deletions": 27
+          },
+          {
+            "hash": "97fa5b652ceb0c08c4c631be9eee04a57c9df986",
+            "message": "Fix checkstyles",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8d0fb35ec1ed8ae3a473fb8c193a6e166d1ebb9c",
+            "message": "Update test cases",
+            "insertions": 11,
+            "deletions": 9
+          },
+          {
+            "hash": "55ae1fb537957d5e356d79520606a31a476ed2e8",
+            "message": "Auto save charts to folder chart/",
+            "insertions": 522,
+            "deletions": 35
+          },
+          {
+            "hash": "a368d66e62a14aa9457aad2a541bf54fb641ef14",
+            "message": "Fix checkstyles",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "45467e55c506a99d0897f0b82093b9d216264de7",
+            "message": "Fix checkstyles",
+            "insertions": 43,
+            "deletions": 17
+          },
+          {
+            "hash": "9f36137d1e478dd93be3e0822a5d321eded85688",
+            "message": "Fix tests",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "716bdd9f9d689a360887c1ff5db04b355dc9714c",
+            "message": "Fix checkstyles",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "a0ecb61c3c3eb995d72e0845bb4eba3139ce5126",
+            "message": "Remove printing",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
         "commitResults": []
       }
     ],
@@ -662,8 +832,8 @@
         "commitResults": []
       },
       {
-        "insertions": 266,
-        "deletions": 19,
+        "insertions": 515,
+        "deletions": 23,
         "date": "2019-03-17",
         "commitResults": [
           {
@@ -683,6 +853,18 @@
             "message": "Checkstyle Corrections added",
             "insertions": 10,
             "deletions": 1
+          },
+          {
+            "hash": "1d4b8032ffd07fecbb675a30f6ff5cb258aed988",
+            "message": "Listing of Freshmen",
+            "insertions": 29,
+            "deletions": 0
+          },
+          {
+            "hash": "8ba17acb4273ce2357bb19f42ea055cae950e2d3",
+            "message": "Add OGL Command",
+            "insertions": 219,
+            "deletions": 2
           },
           {
             "hash": "4058ad2cff34788b4d120070953a1bf834a9d589",
@@ -707,6 +889,12 @@
             "message": "Listing out the Freshmen. Temporary ArrayList to store.",
             "insertions": 29,
             "deletions": 0
+          },
+          {
+            "hash": "34550c7a52b39fec2e606de7224a2073c429ff84",
+            "message": "Checkstyle Corrections for AddOGL Command",
+            "insertions": 1,
+            "deletions": 2
           }
         ]
       },
@@ -790,8 +978,8 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 190,
+        "insertions": 211,
+        "deletions": 378,
         "date": "2019-03-25",
         "commitResults": [
           {
@@ -799,8 +987,143 @@
             "message": "Merged Conflicts",
             "insertions": 0,
             "deletions": 190
+          },
+          {
+            "hash": "4cd6fa5d1352a66164909095f73103425d934620",
+            "message": "Delete AddressBookParser.java",
+            "insertions": 0,
+            "deletions": 95
+          },
+          {
+            "hash": "9d1713809d6940f488e4553baa476838985f3637",
+            "message": "Undo the delete",
+            "insertions": 58,
+            "deletions": 37
+          },
+          {
+            "hash": "6dc484d159a2b09639c05f61aa261fb08bcbfe4a",
+            "message": "Checkstyle corrections",
+            "insertions": 38,
+            "deletions": 38
+          },
+          {
+            "hash": "8c5ba437f228ed8e514c82f7e7415eff34db4c7f",
+            "message": "Edits with respect to comments",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "eb95afa860736cd39ff5c916e7207cde20ceb13b",
+            "message": "Updated the list Participant Command with a working list",
+            "insertions": 104,
+            "deletions": 6
+          },
+          {
+            "hash": "e5fd566e0bc6d4a85b6d960887a2920414615b52",
+            "message": "Checkstyle Correction",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "2e34c1bc4f2e69804ca9c03d0b0e5d1e412664b9",
+            "message": "Checkstyle Corrected Changes",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "5089bab55c718dff123061778d429f0ff1005f3c",
+            "message": "Checkstyle Corrected",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "ba4984b22ffba104c3fb062e7e7b022036ba8c2b",
+            "message": "Checkstyle Corrections",
+            "insertions": 2,
+            "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 141,
+        "deletions": 10,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "0e483de233ee5e318bba819c26d9af716aadb508",
+            "message": "Fixed the List Operation for OGL Listing",
+            "insertions": 128,
+            "deletions": 1
+          },
+          {
+            "hash": "3afb27d278792bee611096b6cc7fa67059d9998e",
+            "message": "Checkstyle Corrected",
+            "insertions": 12,
+            "deletions": 8
+          },
+          {
+            "hash": "323bafcd92af8660fa6cb40036164877be16acad",
+            "message": "Checkstyle Corrections",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 2,
+        "deletions": 1,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "2924142f9e2b2b9a4595911398c44266001ab792",
+            "message": "Updates to merged conflict",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 73,
+        "deletions": 31,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "8f87b09e30fb01660052a6cdd10d0de9217207a9",
+            "message": "Update to User Guide adoc",
+            "insertions": 58,
+            "deletions": 16
+          },
+          {
+            "hash": "421f9910aa537db9d2f6ea892d97ba83e44a5dba",
+            "message": "Rename the \"Participant\" tag to \"Freshman\"",
+            "insertions": 15,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
       }
     ],
     "shanseet": [
@@ -1272,6 +1595,165 @@
             "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 52,
+        "deletions": 37,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "2905b5d4591b184f6c7a2d3a933fde637c9994c3",
+            "message": "update add commands to check for existent groups",
+            "insertions": 12,
+            "deletions": 1
+          },
+          {
+            "hash": "54df1305f2f44b6c76adeaf2d7775b792140c30e",
+            "message": "update test data as well as edit commands to not accept group unless already added",
+            "insertions": 26,
+            "deletions": 21
+          },
+          {
+            "hash": "585012caa0e7cf99dac619fa3b42bf266be0aebf",
+            "message": "more updates to add persons commands and editing for tests",
+            "insertions": 12,
+            "deletions": 13
+          },
+          {
+            "hash": "c936ce9e05d8e2e136333cc1af3a77fb65f2909e",
+            "message": "update for edit command for empty group",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "82fdd7c60cf79914dfb173e09b14f7e663fdf391",
+            "message": "update test util person builder group field",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 399,
+        "deletions": 44,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "a22a13e153a42d970d11775ff4c896d285f7e65e",
+            "message": "added viewGroupsCommand, edited sampleutil data to have empty group fields. All groups and houses in uppercase.",
+            "insertions": 51,
+            "deletions": 11
+          },
+          {
+            "hash": "977362cb74ae0d526cfb24df515dc3647cc42901",
+            "message": "edit view_g result format",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "5921e007cf28d09c03bc85ae2159c258ef509524",
+            "message": "added EditGroupCommand",
+            "insertions": 106,
+            "deletions": 0
+          },
+          {
+            "hash": "9969994b36ab568ac46b73bfccac2183521c3b81",
+            "message": "fix EOF newline error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0171a4e06735d87890f15832d65e4695ffa6c46c",
+            "message": "update for checkstyle",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "1453c2a7a18431195ab7c8abea47fe5a53af9de1",
+            "message": "fix editgroup to edit all people in old group to new group",
+            "insertions": 23,
+            "deletions": 3
+          },
+          {
+            "hash": "b47391122a6d3369feb5ef567151026a7e7abf53",
+            "message": "fixed jsonadapatedgroup storage bug",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fa95d13d68a403e4699943175053097f62b86da5",
+            "message": "add viewhouses command, changed house names to Sentence case and all caps",
+            "insertions": 44,
+            "deletions": 2
+          },
+          {
+            "hash": "2f42acd1bd5db15600e30398e324e89d60fde98b",
+            "message": "update model to support filteredhouseslist, modify addhouse to throw error when empty or when more than two words",
+            "insertions": 32,
+            "deletions": 19
+          },
+          {
+            "hash": "d4e9dab83d4e33d54a9c732a63e16acba7d96d41",
+            "message": "add edithouse command, allows user to edit house name",
+            "insertions": 129,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 60,
+        "deletions": 44,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "c28554a791d22e0003ba68d1e22bc91909e36108",
+            "message": "update for checkstyle",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "37d9bfbfabfb0acd0e2e054155a08000c113a8c0",
+            "message": "minor update for undoredo list, for add/edit group/house commands",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "32b6d29634e46a7c9391bdb19e55e9068833c935",
+            "message": "update test for minor change in model",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5f8f8142367595600bdfee3ed3c01ab7264860c1",
+            "message": "Update Dev Guide",
+            "insertions": 50,
+            "deletions": 32
+          }
+        ]
       }
     ],
     "weizhang05": [
@@ -1671,16 +2153,192 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1180,
+        "deletions": 1111,
         "date": "2019-03-21",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "826f14e6e27b8174a640d89253487d4d784afec4",
+            "message": "refactor Person to Participant",
+            "insertions": 669,
+            "deletions": 0
+          },
+          {
+            "hash": "6ca2c66916b65efd8c20c38b203d07be5417ab00",
+            "message": "deleted duplicate and refactor Person to Participant",
+            "insertions": 215,
+            "deletions": 876
+          },
+          {
+            "hash": "4459f6171cb2811e54f3d1d5d7394ce89bf6db09",
+            "message": "refactor person to participant",
+            "insertions": 35,
+            "deletions": 172
+          },
+          {
+            "hash": "7f68de2d92ce5066bb86c0e0ae35be792ef8d164",
+            "message": "refactor person to participant",
+            "insertions": 193,
+            "deletions": 56
+          },
+          {
+            "hash": "2c82867072f848b75cc254406e77a9cd881ee9a9",
+            "message": "fix style check",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "b8b5d54b28245db190eb7f1c8a81d69fe6543eb6",
+            "message": "fix style check",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b4149d46e323957bc6f9aa6a06e1c7a52de8b398",
+            "message": "changed default person to participants",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "539dab7504e4f3eb1d751f434e1438dbb9e813df",
+            "message": "created JsonAdaptedGroup",
+            "insertions": 57,
+            "deletions": 0
+          },
+          {
+            "hash": "7234e7e4830bc47dcc5ecdce4ab82f219953c809",
+            "message": "added spacing in between imports",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 311,
+        "deletions": 50,
         "date": "2019-03-22",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "13548b207e41159d83e3b35abc278f50bd42f332",
+            "message": "fix style check",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a84d906bfef1f93897ae647404437f413f4465d7",
+            "message": "updated Group class",
+            "insertions": 13,
+            "deletions": 3
+          },
+          {
+            "hash": "aaddc8da12c293289e7f88d1e499567f26eb3297",
+            "message": "created UniqueGroupList class",
+            "insertions": 126,
+            "deletions": 0
+          },
+          {
+            "hash": "5122901985f8a5393fa49c236602026a5be9695f",
+            "message": "added groups to AddressBook class",
+            "insertions": 12,
+            "deletions": 3
+          },
+          {
+            "hash": "c448f03aa55da5804958cfc2842008c82324fdfb",
+            "message": "updated ReadOnlyAddressBook interface with group",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "cb1465a9743bd393d7a6ed4652670120047cdda3",
+            "message": "updated AddressBook with group functions",
+            "insertions": 48,
+            "deletions": 0
+          },
+          {
+            "hash": "669577c20d9d6ced14a5829e2a5c76e1e130d67e",
+            "message": "refactor default sample data to Participants",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "e8ff9ece487bf1f1afeed557047a1bdca2bb490c",
+            "message": "created sample groups data",
+            "insertions": 29,
+            "deletions": 0
+          },
+          {
+            "hash": "ca6a8a6eb146f208bb7686c0bdfd9342670d9047",
+            "message": "fixed typo in mock data generation",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9f92fd8fc8f3a680358ef427354cc28d02c86d92",
+            "message": "fixed isSameGroup check in Group class",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "8f4ccd8e281a1ad3b498cdd5cd16d713e6910d86",
+            "message": "revert MainApp and added comments in AddressBook",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "ae10a5ab70f1c3ade3672fa46797e96cc91ac056",
+            "message": "fix style check",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "e36afd4610681cd0636192301e70320442d54172",
+            "message": "fix style check",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "06ff76a23af8ff888e9fe3e09f349ee0718a0921",
+            "message": "fix style check",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b240cb7d5ca2afc8ecf0150e438e6a8d818817ca",
+            "message": "fix style check",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "361d1f04e1468d64444332ba9e3ee8fde84447ea",
+            "message": "fix style check",
+            "insertions": 16,
+            "deletions": 21
+          },
+          {
+            "hash": "be35325bf69a63453e8b5c5a678deb7876700130",
+            "message": "fix style check",
+            "insertions": 18,
+            "deletions": 1
+          },
+          {
+            "hash": "89f7e59f35b4ea29ee1b4789396067134f16ed42",
+            "message": "refactor persons to groups and fix style check",
+            "insertions": 11,
+            "deletions": 6
+          },
+          {
+            "hash": "ae80af83f69d4eee69329d9e5af77915a9e50483",
+            "message": "fix AddressBookTest and fix style check",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "c062633d211f3f15c9e223ccd1906c2cc26b9393",
+            "message": "added group to JsonSerializableAddressBook",
+            "insertions": 5,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1695,30 +2353,273 @@
         "commitResults": []
       },
       {
+        "insertions": 425,
+        "deletions": 133,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "a8cb4e5591454094107f38f6069e02a3f10943e4",
+            "message": "temporarily removed addFreshman in AddParticipantCommand",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "fbfa607892358783336069c3e7f99b448df12f78",
+            "message": "updated model interface",
+            "insertions": 70,
+            "deletions": 25
+          },
+          {
+            "hash": "f1fe35639743cae03fefb8aede62c21711c59001",
+            "message": "added skeleton class for GroupList",
+            "insertions": 109,
+            "deletions": 35
+          },
+          {
+            "hash": "88057f2a492171be5798557ed699a11bcbe0f239",
+            "message": "added skeleton class for GroupList",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "d08232478873719794cb3a0f07387531656978b2",
+            "message": "updated ModelManager",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "a8418ac44820c5c9a53f6d2d7ff526a05114ecd6",
+            "message": "fix style check",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "559ce5cf2c75130f27096d3779683dd126a4b3fe",
+            "message": "reupdated Model interface for handling Groups",
+            "insertions": 35,
+            "deletions": 6
+          },
+          {
+            "hash": "88472e31bfdd0efe3a8b4f0e3cc584ab6afa43d9",
+            "message": "reupdated Model interface for handling Houses",
+            "insertions": 34,
+            "deletions": 1
+          },
+          {
+            "hash": "1a4cb395bf7b75991030752bd73d1993da6bc8f7",
+            "message": "clean up Model interface",
+            "insertions": 7,
+            "deletions": 24
+          },
+          {
+            "hash": "ef2eab5cf0c78b834225e0c187c0c4a930b6e03a",
+            "message": "created GroupList",
+            "insertions": 52,
+            "deletions": 0
+          },
+          {
+            "hash": "45fd8bfad55c56c089571b9f536566f9bc3d7fb9",
+            "message": "updated Group model. further changes TBC",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "d490e2c68e26af6ea4e5583f433c607ad864d60b",
+            "message": "updated Group handler in ModelManager (untested)",
+            "insertions": 111,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 426,
+        "deletions": 72,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "86180f8c04e1b993b4546723bf3a3f77746599f5",
+            "message": "updated ReadOnlyAddressBook interface",
+            "insertions": 7,
+            "deletions": 0
+          },
+          {
+            "hash": "0daed606d027c09b125e756d2cf6f18e929bcd9b",
+            "message": "created UniqueHouseList",
+            "insertions": 140,
+            "deletions": 0
+          },
+          {
+            "hash": "0abefec012ea31bfdc7b47c66f6c8aaaee9d7f6a",
+            "message": "updated House model",
+            "insertions": 41,
+            "deletions": 5
+          },
+          {
+            "hash": "eb77b9f996193e335ab10ad871ff94c4edf7ab44",
+            "message": "updated Group model",
+            "insertions": 28,
+            "deletions": 11
+          },
+          {
+            "hash": "668cd3d79abfed60b4a861d0fc8eb502f33fbc30",
+            "message": "updated AddressBook model",
+            "insertions": 73,
+            "deletions": 14
+          },
+          {
+            "hash": "7cea650f3e4a8860a6e2f45b645c888d10fdde16",
+            "message": "updated Model and ModelManager (temporarily commented out House ops)",
+            "insertions": 47,
+            "deletions": 2
+          },
+          {
+            "hash": "1827214bd82abdb9c7587430d099b003d2363a22",
+            "message": "updated AddGroup and AddHouse command",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "c5ebef7b6b18aa96b247e5981725687c4143d864",
+            "message": "updated JsonSerializableAddressBook mapping of JSON",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "125a7122ada99c0c40a0d398aa4a2d50b17f1d67",
+            "message": "update Test file that implements updated interfaces",
+            "insertions": 69,
+            "deletions": 22
+          },
+          {
+            "hash": "d2e0305421444e756bf43fd88587c193b2e20af7",
+            "message": "style check fix",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "47d53aaa4923644610a7876ee0edc76129b13d74",
+            "message": "style check fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4ceb434037a48a262b84407f932e528a0caa0037",
+            "message": "style check fix",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "ce2f30fcb67ecab72a3ca023d553db56c6ad03df",
+            "message": "style check fix of sample test data",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 152,
+        "deletions": 9,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "f74f29974a8996f17e3ac92083858fc8030823c6",
+            "message": "created JsonAdaptedHouse",
+            "insertions": 49,
+            "deletions": 0
+          },
+          {
+            "hash": "860ea5a596d7ae973b65a7b309e6513b28932949",
+            "message": "updated JsonSerializableAddressBook for House objects",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "a177ca6cd2e45fd3ac9dcc19a66931d49a51f40e",
+            "message": "updated test json files with Houses",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "ee23c6a262b5e634dd23db33a7d7f0b18e8004ff",
+            "message": "style check fix",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "1bb1a0ae46766304c3bc6a0a2764580e4b6d5187",
+            "message": "added conversion of storage to model for Group and House objects",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "c1b027d8726f92eda716dc9ae8a1fb9fd40ff5a1",
+            "message": "created HouseList",
+            "insertions": 52,
+            "deletions": 0
+          },
+          {
+            "hash": "fc416a0d8800eac9e18228b1b3658b5d69a565fe",
+            "message": "corrected naming convention in comments in HouseList",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "2aefe848ed07391e2a3f69fe4c0f13f7feed9df2",
+            "message": "updated ModelManager for handling House objects",
+            "insertions": 14,
+            "deletions": 2
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-25",
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
         "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "tantantan277": 1473,
-    "ssunil3232": 254,
-    "shanseet": 708,
-    "weizhang05": 489
+    "tantantan277": 2344,
+    "ssunil3232": 696,
+    "shanseet": 1079,
+    "weizhang05": 1816
   },
   "authorFileFormatContributionMap": {
     "tantantan277": {
-      "adoc": 81,
+      "adoc": 78,
       "cs": 0,
-      "css": 0,
-      "fxml": 104,
+      "css": 378,
+      "fxml": 152,
       "gradle": 0,
       "html": 0,
-      "java": 1248,
+      "java": 1703,
       "js": 0,
-      "json": 40,
+      "json": 33,
       "jsp": 0,
       "md": 0,
       "py": 0,
@@ -1727,13 +2628,13 @@
       "xml": 0
     },
     "ssunil3232": {
-      "adoc": 13,
+      "adoc": 71,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 241,
+      "java": 625,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1744,15 +2645,15 @@
       "xml": 0
     },
     "shanseet": {
-      "adoc": 247,
+      "adoc": 270,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 461,
+      "java": 802,
       "js": 0,
-      "json": 0,
+      "json": 7,
       "jsp": 0,
       "md": 0,
       "py": 0,
@@ -1767,9 +2668,9 @@
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 184,
+      "java": 1505,
       "js": 0,
-      "json": 0,
+      "json": 6,
       "jsp": 0,
       "md": 0,
       "py": 0,
@@ -1779,10 +2680,10 @@
     }
   },
   "authorContributionVariance": {
-    "tantantan277": 60734.188,
-    "ssunil3232": 2558.9268,
-    "shanseet": 17565.648,
-    "weizhang05": 7303.8237
+    "tantantan277": 70215.93,
+    "ssunil3232": 12385.596,
+    "shanseet": 18585.758,
+    "weizhang05": 115460.77
   },
   "authorDisplayNameMap": {
     "tantantan277": "PHA...TAN",

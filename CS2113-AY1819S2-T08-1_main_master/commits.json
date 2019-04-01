@@ -277,6 +277,30 @@
         "deletions": 0,
         "date": "2019-03-26",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
       }
     ],
     "articstranger": [
@@ -701,8 +725,8 @@
         ]
       },
       {
-        "insertions": 200,
-        "deletions": 114,
+        "insertions": 295,
+        "deletions": 140,
         "date": "2019-03-26",
         "commitResults": [
           {
@@ -716,6 +740,61 @@
             "message": "more checkstyle fixes",
             "insertions": 17,
             "deletions": 8
+          },
+          {
+            "hash": "108d2b25b95844fbd6d322d12a906d68d06dbed0",
+            "message": "updated map command with input checks",
+            "insertions": 65,
+            "deletions": 9
+          },
+          {
+            "hash": "108c38d14f98349b2b979dfc54ee5627bb2540e2",
+            "message": "extracted isValidInt method to ParserUtil",
+            "insertions": 17,
+            "deletions": 16
+          },
+          {
+            "hash": "4e7ab47fa04b4efde831a36571e22b71b6932478",
+            "message": "ModelManager: added sorting function(non functional)",
+            "insertions": 13,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 38,
+        "deletions": 42,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "1c2a7e180b236498496c8cd07469b70d15c81e42",
+            "message": "SortCommandParser: deleted(obsolete)",
+            "insertions": 0,
+            "deletions": 9
+          },
+          {
+            "hash": "41ff674c0f5f26e7c3054354b1b79f20d5d5a57f",
+            "message": "SortCommand: fixed call to model/ModelManager AddressBookParser: changed to call SortCommand() directly Model and ModelManager: updated sortVolunteers method",
+            "insertions": 38,
+            "deletions": 33
           }
         ]
       }
@@ -989,6 +1068,30 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
         "commitResults": []
       }
     ],
@@ -1480,8 +1583,8 @@
         ]
       },
       {
-        "insertions": 116,
-        "deletions": 26,
+        "insertions": 139,
+        "deletions": 38,
         "date": "2019-03-26",
         "commitResults": [
           {
@@ -1495,16 +1598,52 @@
             "message": "volunteer strorage",
             "insertions": 15,
             "deletions": 1
+          },
+          {
+            "hash": "1719e3a865cd1bf2df453e8e0b58ccc56fa1e5c9",
+            "message": "fix volunteer storage problem",
+            "insertions": 22,
+            "deletions": 11
+          },
+          {
+            "hash": "674070f6746b9e882dbbfab80421ec62dcad821a",
+            "message": "fix volunteer storage problem",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "quinnzzzzz": 4,
-    "articstranger": 348,
+    "quinnzzzzz": 7,
+    "articstranger": 412,
     "wongyuqi": 0,
-    "ndhuu": 3170
+    "ndhuu": 3055
   },
   "authorFileFormatContributionMap": {
     "quinnzzzzz": {
@@ -1514,7 +1653,7 @@
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 4,
+      "java": 7,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1525,13 +1664,13 @@
       "xml": 0
     },
     "articstranger": {
-      "adoc": 43,
+      "adoc": 25,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 305,
+      "java": 387,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1565,7 +1704,7 @@
       "fxml": 122,
       "gradle": 0,
       "html": 0,
-      "java": 2719,
+      "java": 2604,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1577,10 +1716,10 @@
     }
   },
   "authorContributionVariance": {
-    "quinnzzzzz": 0.08691358,
-    "articstranger": 3057.666,
+    "quinnzzzzz": 0.07996675,
+    "articstranger": 4665.11,
     "wongyuqi": 0.0,
-    "ndhuu": 178594.86
+    "ndhuu": 165902.83
   },
   "authorDisplayNameMap": {
     "quinnzzzzz": "ZHA... RU",

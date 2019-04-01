@@ -546,6 +546,75 @@
             "deletions": 551
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 4104,
+        "deletions": 2258,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "054da6ad006056813c73f6f6b0c5e51cc797866f",
+            "message": " Update entire project to follow better software engineering practices  (#123)",
+            "insertions": 4104,
+            "deletions": 2258
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 189,
+        "deletions": 74,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "f7a762ce58a1a314762a965f3bb99efc60b8bf01",
+            "message": " Update diagrams and minor text in DeveloperGuide and AboutUs  (#127)",
+            "insertions": 189,
+            "deletions": 74
+          }
+        ]
+      },
+      {
+        "insertions": 298,
+        "deletions": 138,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "6975184317e8a5dd6f6615dd27b0034e449a3db6",
+            "message": " Fix storage bug  (#132)",
+            "insertions": 54,
+            "deletions": 52
+          },
+          {
+            "hash": "f148d8f44d8584445250a781374cafb76e4f9459",
+            "message": "Update DeveloperGuide.adoc with Slot management details  (#135)",
+            "insertions": 238,
+            "deletions": 86
+          },
+          {
+            "hash": "7bcac7c0a25b10c2ae51bfb9669b1bed0591124b",
+            "message": " Update DeveloperGuide.adoc added whitespace between sections  (#136)",
+            "insertions": 6,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "marcus-pzj": [
@@ -1018,6 +1087,62 @@
         "deletions": 0,
         "date": "2019-03-26",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 241,
+        "deletions": 58,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "713fb250da656960fb060fffb6596cf762aa8b18",
+            "message": "Enhance FindCommand to use Levenshtein Distance (#126)",
+            "insertions": 168,
+            "deletions": 23
+          },
+          {
+            "hash": "d69716f55bc84ba0a2ba54eb46d24b75732d4c51",
+            "message": "Edit FindCommand to generate lastShownList (#128)",
+            "insertions": 73,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 90,
+        "deletions": 98,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "56aaa0cb5e0f1bafd76dfb96bd41d91ea29d37bb",
+            "message": "Update History Framework \u0026 Update Dev Guide (#133)",
+            "insertions": 90,
+            "deletions": 98
+          }
+        ]
       }
     ],
     "dingheng4448": [
@@ -1398,6 +1523,68 @@
         "deletions": 0,
         "date": "2019-03-26",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 182,
+        "deletions": 23,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "b28443acc46d72c628d0805d0a460ab7e931863e",
+            "message": "Update view command (#124)",
+            "insertions": 182,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 339,
+        "deletions": 73,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "596b4dce28672a70d061fc5ef229fc1de4d3564d",
+            "message": "Update view command  (#129)",
+            "insertions": 224,
+            "deletions": 47
+          },
+          {
+            "hash": "d636243c5b07a38c9b9a1f2c7d732e115008f3da",
+            "message": "Update Dev Guide for view feature (#134)",
+            "insertions": 70,
+            "deletions": 24
+          },
+          {
+            "hash": "1143895984678908fda74e3a5503e82fbef126c7",
+            "message": "Update Dev Guide introduction (#137)",
+            "insertions": 45,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "macchazuki": [
@@ -1777,24 +1964,67 @@
         "deletions": 0,
         "date": "2019-03-26",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 132,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "b0f6479f60f1afd7561f1121fdd4b683b9c98fca",
+            "message": "Add import command (#131)",
+            "insertions": 132,
+            "deletions": 0
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "seanieyap": 9397,
-    "marcus-pzj": 516,
-    "dingheng4448": 809,
-    "macchazuki": 375
+    "seanieyap": 11897,
+    "marcus-pzj": 730,
+    "dingheng4448": 1181,
+    "macchazuki": 494
   },
   "authorFileFormatContributionMap": {
     "seanieyap": {
-      "adoc": 2123,
+      "adoc": 2399,
       "cs": 0,
       "css": 2028,
       "fxml": 3,
       "gradle": 89,
       "html": 0,
-      "java": 3761,
+      "java": 5985,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1805,13 +2035,13 @@
       "xml": 434
     },
     "marcus-pzj": {
-      "adoc": 168,
+      "adoc": 227,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 298,
+      "java": 453,
       "js": 0,
       "json": 50,
       "jsp": 0,
@@ -1822,13 +2052,13 @@
       "xml": 0
     },
     "dingheng4448": {
-      "adoc": 233,
+      "adoc": 320,
       "cs": 0,
       "css": 1,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 575,
+      "java": 860,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1845,7 +2075,7 @@
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 271,
+      "java": 390,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1857,10 +2087,10 @@
     }
   },
   "authorContributionVariance": {
-    "seanieyap": 2116864.2,
-    "marcus-pzj": 540982.1,
-    "dingheng4448": 13061.136,
-    "macchazuki": 3080.7654
+    "seanieyap": 2540755.8,
+    "marcus-pzj": 479418.12,
+    "dingheng4448": 14750.745,
+    "macchazuki": 3003.895
   },
   "authorDisplayNameMap": {
     "seanieyap": "SEA...ONG",

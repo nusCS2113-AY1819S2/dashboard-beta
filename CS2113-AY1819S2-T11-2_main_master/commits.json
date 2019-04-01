@@ -128,10 +128,29 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 126,
+        "deletions": 8,
         "date": "2019-03-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "6da8dd01f252f8956e8c2ac888ee451b9014dd7a",
+            "message": "Added a login feature",
+            "insertions": 70,
+            "deletions": 8
+          },
+          {
+            "hash": "66f5e50c31d55e10ddf63c4ab6dace6c5b0b6bb8",
+            "message": "Update UserGuide.adoc",
+            "insertions": 15,
+            "deletions": 0
+          },
+          {
+            "hash": "50e191182dc793c6f6ccd73cd559ebc2b04f5eff",
+            "message": "Added the test for Login class",
+            "insertions": 41,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -176,10 +195,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 30,
+        "deletions": 4,
         "date": "2019-03-11",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "69cac52629c39c89b8818c0baa37ba29e6bdb9f9",
+            "message": "Update on registration",
+            "insertions": 21,
+            "deletions": 3
+          },
+          {
+            "hash": "c92738fc3fe29a0d2e636b3b6acca437c85e8bbf",
+            "message": "Update the test on registration",
+            "insertions": 9,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -218,10 +250,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 22,
+        "deletions": 28,
         "date": "2019-03-18",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "8d3e9e7451df8741acd6848ea24a9e643221fff9",
+            "message": "update on login feature",
+            "insertions": 22,
+            "deletions": 22
+          },
+          {
+            "hash": "9b50928cff1e7c73670f80b95a12c8bbf158c096",
+            "message": "upadte on login variable name",
+            "insertions": 0,
+            "deletions": 6
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -275,6 +320,61 @@
             "message": "Added store/load accounts feature",
             "insertions": 33,
             "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 174,
+        "deletions": 46,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "3aa6a091c86a21fa7fd7f0345aa358c963c26299",
+            "message": "update",
+            "insertions": 117,
+            "deletions": 18
+          },
+          {
+            "hash": "bd52498134bd924219c6fc0285aa89c4444f8f71",
+            "message": "Update on Password Security",
+            "insertions": 55,
+            "deletions": 28
+          },
+          {
+            "hash": "4fc304ac9c105dabc8a6648f682adb51c4b61656",
+            "message": "Update",
+            "insertions": 2,
+            "deletions": 0
           }
         ]
       }
@@ -413,10 +513,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 35,
         "deletions": 0,
         "date": "2019-03-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "ca2a1d740a7baca090ff64a78be9e50d774c19b9",
+            "message": "length command",
+            "insertions": 34,
+            "deletions": 0
+          },
+          {
+            "hash": "b492fc1e51c271977ebb58ba59dded5372078cc4",
+            "message": "length command added",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -485,10 +598,53 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 178,
+        "deletions": 38,
         "date": "2019-03-16",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "a90ee76bb413e9779e2f1e244c18c6e948638e03",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b47f192aec909bc155d7872c7f68b7aba486ce20",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "0e60a303fd163097081aeb84fa33e5fd71f2654f",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "3a0ebf9e5f3d79b7e1b135542311aefdae061ca7",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "d2e5619f11a8d729acaa6facf3338bab094e8508",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "81ed4a12828b1ab6ea84c61a09a3e29c55224444",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 147,
+            "deletions": 25
+          },
+          {
+            "hash": "a3e3dbce1fa8fdba10e4ea64e86fcfb956ab68d6",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -497,10 +653,53 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 174,
+        "deletions": 16,
         "date": "2019-03-18",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "6bf143b9fe930eddf8c6edcfd7eba204d0352a56",
+            "message": "test branch commit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "16e2724d89d4f9c243c11c7d5e128410dc8cd818",
+            "message": "Dummy Refer Command Implementation",
+            "insertions": 147,
+            "deletions": 5
+          },
+          {
+            "hash": "976e97f0f0366a87396154b078d10b19a4ca4544",
+            "message": "user guide and help command helplist updated",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "b736ad7cfa2fc359379bde7f2b52bd5acda8e7e5",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e51a10cb2b193c785f2965d60e7f86d2e8ba949e",
+            "message": "Update UserGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "4e66c7df2af94fc76009d1aaaab323518011f5c1",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "f7f5e7c654d99d6cbe00c918ea67ec569e7d500b",
+            "message": "slighty modification to dummy refer command",
+            "insertions": 11,
+            "deletions": 6
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -542,6 +741,42 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
         "commitResults": []
       }
     ],
@@ -679,10 +914,71 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 149,
+        "deletions": 38,
         "date": "2019-03-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "2084a56fe7f9843fd1c79299a99800d5359700ca",
+            "message": "Added appointment class",
+            "insertions": 108,
+            "deletions": 16
+          },
+          {
+            "hash": "40e1804bbdf9f35d00b73945e989c21b76f13e14",
+            "message": "Update UserGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "2a0b39456909cc46d81908cde9275b71064c64bd",
+            "message": "Update UserGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "38d6cace74e8c682a7ec5eed628a36e02d6e3ed6",
+            "message": "Update UserGuide.adoc",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "914a199b85e058c6000606b3442e347ccf39eb41",
+            "message": "Update UserGuide.adoc",
+            "insertions": 18,
+            "deletions": 3
+          },
+          {
+            "hash": "bec5280daa25258c34a15c5770ac89b451769893",
+            "message": "Update UserGuide.adoc",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "a7be2ab08eac40ed034639979b0f9bc916d539a6",
+            "message": "Update UserGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "9a1f0c2ed3328cb866be0b1b5149638b041d73eb",
+            "message": "Update UserGuide.adoc",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "269dd928a00821319acba51422198787fd3e14ef",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d02c5c257aabceeda47fe3db84c70b906188d000",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -751,10 +1047,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 379,
+        "deletions": 46,
         "date": "2019-03-16",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "072c4fdf71d75af7a58e33e1974b9490db339b51",
+            "message": "Added a command that prints the appointment schedule",
+            "insertions": 377,
+            "deletions": 45
+          },
+          {
+            "hash": "a1d10445c34abc91b787bf1ab5a184d6937a120b",
+            "message": "Update Command.java",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -763,16 +1072,66 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 35,
+        "deletions": 4,
         "date": "2019-03-18",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "6f6263c9ced39ddb94eea659a3dc06bb26b2b220",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 28,
+            "deletions": 0
+          },
+          {
+            "hash": "39c94b31db1bac6535fa711d7e59937dc53ecd00",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "7831df8f51c5a9e9dca657df3d28a8bd6929c8e9",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ea645bbd84d1d6c6a6aedd6fba2e80b1c3ab9323",
+            "message": "Update UserGuide.adoc",
+            "insertions": 5,
+            "deletions": 3
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 63,
+        "deletions": 4,
         "date": "2019-03-19",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "2eeb9025746a4b32745be712b718cd31a4200c71",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 50,
+            "deletions": 2
+          },
+          {
+            "hash": "bc4006d791a4d03251e5ba8aba2c990faeb4ca49",
+            "message": "Update UserGuide.adoc",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "cf2ed3fe10943c0e61f5a8743f67992099f2da8b",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "58e9f7f643c0801780407bc3f10bb18d12bbfcb6",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -808,6 +1167,42 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
         "commitResults": []
       }
     ],
@@ -945,16 +1340,72 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 47,
+        "deletions": 27,
         "date": "2019-03-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "05edbac021bf2c5c6d7b0c3ca8d8b749c2ed7dc1",
+            "message": "Update README.adoc",
+            "insertions": 6,
+            "deletions": 17
+          },
+          {
+            "hash": "85fe342848ad4cf2dd9f0887ea570ea5abbc8c14",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4022bf6017e8ed4b59c9e990da7ac37a58ec6f97",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e8d14436b5075cad6207924c6586b7f6226e580d",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2972c82b5eb168ae52c5adfead45786a059f9808",
+            "message": "Update README.adoc",
+            "insertions": 3,
+            "deletions": 6
+          },
+          {
+            "hash": "ce85f08504cc8cabf300ae3fa830e192ba0d3c8c",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "605e6f4482197c2e4fd731b3c6cb81e2e462b498",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "7484305332e5ce8cad4b1ae94281e78b6f1a3571",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 33,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 2,
+        "deletions": 2,
         "date": "2019-03-05",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "04fce55bc0aeb3dcb45afd3a58da5f4789c57b05",
+            "message": "Update AboutUs.adoc",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1011,16 +1462,36 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 27,
+        "deletions": 2,
         "date": "2019-03-15",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "411faa566683dc8eca89e26f997fa7999e1ca042",
+            "message": "Update Developer Guide",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "e32acaef86c037e637d7c20a37fc09d5469b83a3",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 11,
+        "deletions": 2,
         "date": "2019-03-16",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "dd73a5ccd3e1ff57ece733be3b8050efd9b5568c",
+            "message": "Update UserGuide.adoc",
+            "insertions": 11,
+            "deletions": 2
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1075,24 +1546,60 @@
         "deletions": 0,
         "date": "2019-03-25",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "liguanlong": 168,
-    "shawn-t": 360,
-    "matthiaslum": 456,
-    "WuPeiHsuan": 208
+    "liguanlong": 336,
+    "shawn-t": 359,
+    "matthiaslum": 452,
+    "WuPeiHsuan": 270
   },
   "authorFileFormatContributionMap": {
     "liguanlong": {
-      "adoc": 13,
+      "adoc": 152,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 155,
+      "java": 184,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1103,7 +1610,7 @@
       "xml": 0
     },
     "shawn-t": {
-      "adoc": 177,
+      "adoc": 176,
       "cs": 0,
       "css": 0,
       "fxml": 0,
@@ -1120,13 +1627,13 @@
       "xml": 0
     },
     "matthiaslum": {
-      "adoc": 93,
+      "adoc": 90,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 359,
+      "java": 358,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1137,13 +1644,13 @@
       "xml": 0
     },
     "WuPeiHsuan": {
-      "adoc": 60,
+      "adoc": 55,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 148,
+      "java": 215,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1155,10 +1662,10 @@
     }
   },
   "authorContributionVariance": {
-    "liguanlong": 46376.586,
-    "shawn-t": 0.0,
-    "matthiaslum": 0.0,
-    "WuPeiHsuan": 0.0
+    "liguanlong": 41742.46,
+    "shawn-t": 1601.8265,
+    "matthiaslum": 4225.869,
+    "WuPeiHsuan": 124.279884
   },
   "authorDisplayNameMap": {
     "liguanlong": "LI ...ONG",

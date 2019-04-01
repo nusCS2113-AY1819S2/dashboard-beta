@@ -594,6 +594,48 @@
             "deletions": 22
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
       }
     ],
     "cheahzk": [
@@ -1467,6 +1509,48 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
       }
     ],
     "jingchen-z": [
@@ -2076,6 +2160,122 @@
             "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 144,
+        "deletions": 12,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "f2f07893c220c1c5c7f6cdbea03d7e5b2cee4c51",
+            "message": "Add month command, changes calendar view",
+            "insertions": 120,
+            "deletions": 4
+          },
+          {
+            "hash": "5231532cef0c821a634341401c487261c85ae07c",
+            "message": "Style fixing 1.0",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "cd9938e4e15962e2e0d873019143bb2d450b153e",
+            "message": "Updated UserGuide.adoc",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "4a7208d3b0119c2dfa95ad827905ada3128bac5b",
+            "message": "Style fixing 1.1",
+            "insertions": 8,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 215,
+        "deletions": 31,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "ee6caeb819a5e2cfc1525d70304a1c274cd38958",
+            "message": "Timeline in progress 1.0",
+            "insertions": 174,
+            "deletions": 1
+          },
+          {
+            "hash": "55361533b8203c3ead73c6e68638f9273a042b78",
+            "message": "Timeline in progress 1.1",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "273c2a935dc3f804641bceb0de3de8b7e6c9394b",
+            "message": "Style fixgin 1.0",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "b37e0ed279e739a55bfd7667166ed7a36ac455dc",
+            "message": "Style fixgin 1.1",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "65f8dbcc1f8f51244443028003e73385771d1b4c",
+            "message": "Style fixgin 1.2",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1a55687f28919308bbeacc44b35d906484601a7f",
+            "message": "Style fixgin 1.3",
+            "insertions": 29,
+            "deletions": 14
+          },
+          {
+            "hash": "d57e91fed9c5c4d5cd4529a02a7aa9ba3fba03ef",
+            "message": "Style fixgin 1.4",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d83c190dbd2e7a9453f2944326a86ed781d7dab6",
+            "message": "Style fixgin 1.5",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "BrittonAlone": [
@@ -2569,6 +2769,48 @@
             "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
       }
     ],
     "Zeyang-Li": [
@@ -3143,14 +3385,56 @@
             "deletions": 5
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
     "Wanchunwei": 479,
     "cheahzk": 3238,
-    "jingchen-z": 339,
-    "BrittonAlone": 419,
+    "jingchen-z": 654,
+    "BrittonAlone": 420,
     "Zeyang-Li": 1228
   },
   "authorFileFormatContributionMap": {
@@ -3189,13 +3473,13 @@
       "xml": 0
     },
     "jingchen-z": {
-      "adoc": 8,
+      "adoc": 21,
       "cs": 0,
       "css": 0,
       "fxml": 22,
       "gradle": 0,
       "html": 0,
-      "java": 309,
+      "java": 611,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -3206,13 +3490,13 @@
       "xml": 0
     },
     "BrittonAlone": {
-      "adoc": 39,
+      "adoc": 38,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 380,
+      "java": 382,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -3241,11 +3525,11 @@
     }
   },
   "authorContributionVariance": {
-    "Wanchunwei": 57617.934,
-    "cheahzk": 1667514.0,
-    "jingchen-z": 16281.704,
-    "BrittonAlone": 9918.493,
-    "Zeyang-Li": 1.2429489E7
+    "Wanchunwei": 50116.11,
+    "cheahzk": 1462131.5,
+    "jingchen-z": 15325.855,
+    "BrittonAlone": 8684.315,
+    "Zeyang-Li": 1.0763264E7
   },
   "authorDisplayNameMap": {
     "Wanchunwei": "WAN...WEI",

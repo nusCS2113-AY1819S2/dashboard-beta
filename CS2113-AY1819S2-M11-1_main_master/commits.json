@@ -354,6 +354,67 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 158,
+        "deletions": 39,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "3d04ee7f71636d7b5f130649b1786a9ccc4fa731",
+            "message": "add GetLeagueFinance command, fix Histogram in finance",
+            "insertions": 142,
+            "deletions": 26
+          },
+          {
+            "hash": "60d0f0b5fbc24ecb2ae9113089b8093f6a47999d",
+            "message": "fix checkstyle",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "d314f0f078dcc2878714b81eda3d611b1e8108c9",
+            "message": "fix travis",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "warheade": [
@@ -490,10 +551,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 46,
         "deletions": 0,
         "date": "2019-03-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "f34c54702091eb08edc2660428e0769df9a46c9f",
+            "message": "Update User Guide to add in details of Player Class",
+            "insertions": 46,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -628,6 +696,220 @@
         "deletions": 0,
         "date": "2019-03-24",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 1545,
+        "deletions": 1174,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "02ad14a3b9c8d080ad377485d70fd4fbf3f62367",
+            "message": "conversion to player is done modified addplayer listplayer viewall player removed private attribute and view command multiple other details use this as basis for development",
+            "insertions": 1545,
+            "deletions": 1174
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 678,
+        "deletions": 517,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "d45816c316c7a190e4bcd71fdfa41dfb9c7a8d9c",
+            "message": "updated test files edited player classes for extra safety",
+            "insertions": 370,
+            "deletions": 259
+          },
+          {
+            "hash": "848ea0f5f74e72aa74d3602fdc80eb101ff51e8d",
+            "message": "edit test cases to pass Travis attempt 2",
+            "insertions": 99,
+            "deletions": 81
+          },
+          {
+            "hash": "abe635cd40afa657472c385a9ac35597064b009a",
+            "message": "edit test cases to pass travis attempt 3",
+            "insertions": 26,
+            "deletions": 12
+          },
+          {
+            "hash": "ea4eed5f096e07cb353087dabe7ca1f8002a26f9",
+            "message": "edit test cases to pass travis attempt 4",
+            "insertions": 24,
+            "deletions": 2
+          },
+          {
+            "hash": "390ee568b12be98ca5ecee0cdeadd14e4e823239",
+            "message": "edit to pass checkstyle attempt 1",
+            "insertions": 159,
+            "deletions": 163
+          }
+        ]
+      },
+      {
+        "insertions": 669,
+        "deletions": 499,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "682aa41091eb84c2097d4902d684d519a6d9dc2f",
+            "message": "edit to fit checkstyle attempt 2",
+            "insertions": 41,
+            "deletions": 46
+          },
+          {
+            "hash": "79a795b743620c12af8cfd054d40a2ba94b66294",
+            "message": "edit to pass Travis attempt 3",
+            "insertions": 48,
+            "deletions": 47
+          },
+          {
+            "hash": "b9fb16a84269f10419019635d0fc8c88436526e9",
+            "message": "Update Command.java",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "00ac69a2cb48fc29f8d8eb6da2226927d440b50b",
+            "message": "Update CommandResult.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "b62033417fe957d442ca626c9990f3e9d8f92e9d",
+            "message": "edit to pass travis attempt 4",
+            "insertions": 187,
+            "deletions": 85
+          },
+          {
+            "hash": "767d11990e4bb5116e62228b1842d9360400c429",
+            "message": "Update Command.java",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "00322d7a398b2f73dbf0ce7a0eb00cf60bea725f",
+            "message": "edit to fix code for checkstyle attempt 6",
+            "insertions": 4,
+            "deletions": 6
+          },
+          {
+            "hash": "5a66d8b09be4b5f0be3c227fe8d48a8918084ba9",
+            "message": "edit code to pass checkstyle attempt ronaldo",
+            "insertions": 11,
+            "deletions": 12
+          },
+          {
+            "hash": "4702b69ba98ee46ce1c3d00e50b7f7e13c7d731d",
+            "message": "edit to fix code for checkstyle attempt 8",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "7b7400e6d3be56172c18e0446622e82d6d1b3a41",
+            "message": "edit to fix code style attempt Suarez",
+            "insertions": 267,
+            "deletions": 195
+          },
+          {
+            "hash": "64f2b18b1b774e7d5a0f253463d64621f5c53cbd",
+            "message": "edit to pass checkstyle attempt messi",
+            "insertions": 67,
+            "deletions": 73
+          },
+          {
+            "hash": "d8e8e25afe6e8bd24f3a899a4165c7079e881bc2",
+            "message": "edit to pass checkstyle attempt 11",
+            "insertions": 21,
+            "deletions": 11
+          },
+          {
+            "hash": "62217d156222ed6b307abc8ed34946625fe9d07e",
+            "message": "edit to pass checkstyle attempt 12",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 331,
+        "deletions": 476,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "dfc72f16b2a7a67e479c0d1e1132e11c640fa5ba",
+            "message": "updated Player package to avoid naming conflicts updated user guide for player part small changes here and there",
+            "insertions": 220,
+            "deletions": 186
+          },
+          {
+            "hash": "17c60f86f53dee938f642fb3076263b676dec45c",
+            "message": "edit for checkstyle attempt 1",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "1457f8ef8750073d48943d2b46c7742575f15f0d",
+            "message": "edit for checkstyle attempt 2",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4990888fc109ba7c5526b4090dde212b33a23e19",
+            "message": "edit for checkstyle attempt 3",
+            "insertions": 23,
+            "deletions": 23
+          },
+          {
+            "hash": "ffc7dff073242db4026727973a86676b0b717a2d",
+            "message": "add reposense config.json test 1",
+            "insertions": 28,
+            "deletions": 0
+          },
+          {
+            "hash": "512db59c2e945cd294630e4b63b9085feb2446c3",
+            "message": "extra edit for Ying Rong\u0027s repo name",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1270f18a997dc35eef31edf2f072b80a7675ca5b",
+            "message": "config.json attempt 3",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "37f5da6e3831a69318224200df21b249c9e0e7a3",
+            "message": "minor changes removed some redundance classes",
+            "insertions": 1,
+            "deletions": 242
+          },
+          {
+            "hash": "d3397350365e44921795bf638dea4eec9c063739",
+            "message": "edited User guide and Developer guide",
+            "insertions": 51,
+            "deletions": 15
+          }
+        ]
       }
     ],
     "yingrong1996": [
@@ -982,6 +1264,48 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
         "commitResults": []
       }
     ],
@@ -1425,58 +1749,119 @@
             "deletions": 5
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 381,
+        "deletions": 40,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "1c7b0f8c6b026a44c477cb4eb2f0201ed36bd8e0",
+            "message": "Add UpdateMatch",
+            "insertions": 372,
+            "deletions": 30
+          },
+          {
+            "hash": "3eeca64dd486e34bd62ded7274dfa26e73973c24",
+            "message": "Fix to pass checkstyle",
+            "insertions": 8,
+            "deletions": 9
+          },
+          {
+            "hash": "4f8325707ff7207b30bb4361632765c5e94cd885",
+            "message": "Fix to pass checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "huyidi": 730,
-    "warheade": 458,
-    "yingrong1996": 1973,
-    "E0176106": 1788
+    "huyidi": 800,
+    "warheade": 2603,
+    "yingrong1996": 1591,
+    "E0176106": 2058
   },
   "authorFileFormatContributionMap": {
     "huyidi": {
-      "adoc": 160,
+      "adoc": 129,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 570,
+      "java": 665,
       "js": 0,
       "json": 0,
       "jsp": 0,
       "md": 0,
       "py": 0,
       "tag": 0,
-      "txt": 0,
+      "txt": 6,
       "xml": 0
     },
     "warheade": {
-      "adoc": 119,
+      "adoc": 250,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 339,
+      "java": 2270,
       "js": 0,
-      "json": 0,
+      "json": 26,
       "jsp": 0,
       "md": 0,
       "py": 0,
       "tag": 0,
-      "txt": 0,
+      "txt": 57,
       "xml": 0
     },
     "yingrong1996": {
-      "adoc": 109,
+      "adoc": 106,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 0,
       "html": 0,
-      "java": 1864,
+      "java": 1485,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1487,33 +1872,33 @@
       "xml": 0
     },
     "E0176106": {
-      "adoc": 205,
+      "adoc": 190,
       "cs": 0,
       "css": 0,
       "fxml": 0,
       "gradle": 76,
       "html": 0,
-      "java": 1075,
+      "java": 1344,
       "js": 0,
       "json": 0,
       "jsp": 0,
       "md": 0,
       "py": 0,
       "tag": 0,
-      "txt": 0,
+      "txt": 16,
       "xml": 432
     }
   },
   "authorContributionVariance": {
-    "huyidi": 20834.69,
-    "warheade": 5366.1196,
-    "yingrong1996": 73787.055,
-    "E0176106": 177506.05
+    "huyidi": 18588.64,
+    "warheade": 204704.95,
+    "yingrong1996": 64411.566,
+    "E0176106": 155869.88
   },
   "authorDisplayNameMap": {
-    "huyidi": "HU ...IDI",
-    "warheade": "WAN...NAN",
-    "yingrong1996": "LEE...ONG",
-    "E0176106": "LEE...TIN"
+    "huyidi": "Hu Yidi",
+    "warheade": "Wang Jiannan",
+    "yingrong1996": "Ying Rong",
+    "E0176106": "Justin Lee"
   }
 }

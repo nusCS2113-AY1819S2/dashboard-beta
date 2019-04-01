@@ -465,6 +465,48 @@
             "deletions": 205
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
       }
     ],
     "jacobhan": [
@@ -724,6 +766,55 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 25,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "423dfec47228a3c22aade1cd0065490e8f985920",
+            "message": "add reposense json file",
+            "insertions": 25,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
         "commitResults": []
       }
     ],
@@ -985,6 +1076,48 @@
         "deletions": 0,
         "date": "2019-03-24",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
       }
     ],
     "yushao2": [
@@ -1245,14 +1378,96 @@
         "deletions": 0,
         "date": "2019-03-24",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 89,
+        "deletions": 11,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "b889efca40ab8fa0c63e3d5757ba3e00d51270c5",
+            "message": "Added logic and predicates for report command",
+            "insertions": 89,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 34,
+        "deletions": 22,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "eeb1b4f9835a5ae1c4c67674ae89f9d305ff2e8d",
+            "message": "ReportCommand base functionality working",
+            "insertions": 34,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 117,
+        "deletions": 42,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "ccca82033eeed38dec76609e002961e6c0597f7f",
+            "message": "Made changes to some of the logic",
+            "insertions": 76,
+            "deletions": 5
+          },
+          {
+            "hash": "d2c938907134bb5090eb8b10f05f6297a5db30ea",
+            "message": "Added functionality of report, TODO: Make GUI for it",
+            "insertions": 41,
+            "deletions": 6
+          },
+          {
+            "hash": "4c659d9fe5993e18a2e8a5c4ea7e219000fa5ec6",
+            "message": "Removed redundant files",
+            "insertions": 0,
+            "deletions": 31
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 200,
+        "deletions": 14,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "b55c473b68a29beba451730fd213aef50d2a6b73",
+            "message": "Added Pie Chart Window for report",
+            "insertions": 200,
+            "deletions": 14
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "frankquekch": 2987,
+    "frankquekch": 2978,
     "jacobhan": 0,
     "ngkaicong": 0,
-    "yushao2": 0
+    "yushao2": 404
   },
   "authorFileFormatContributionMap": {
     "frankquekch": {
@@ -1262,7 +1477,7 @@
       "fxml": 5,
       "gradle": 14,
       "html": 0,
-      "java": 2659,
+      "java": 2650,
       "js": 0,
       "json": 72,
       "jsp": 0,
@@ -1310,10 +1525,10 @@
       "adoc": 0,
       "cs": 0,
       "css": 0,
-      "fxml": 0,
+      "fxml": 18,
       "gradle": 0,
       "html": 0,
-      "java": 0,
+      "java": 386,
       "js": 0,
       "json": 0,
       "jsp": 0,
@@ -1325,10 +1540,10 @@
     }
   },
   "authorContributionVariance": {
-    "frankquekch": 465918.84,
-    "jacobhan": 0.0,
+    "frankquekch": 408573.56,
+    "jacobhan": 12.25,
     "ngkaicong": 0.0,
-    "yushao2": 0.0
+    "yushao2": 1572.3236
   },
   "authorDisplayNameMap": {
     "frankquekch": "DOM...HAO",
