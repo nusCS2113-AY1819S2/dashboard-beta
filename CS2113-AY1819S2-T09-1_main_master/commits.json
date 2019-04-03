@@ -705,10 +705,36 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 99,
+        "deletions": 19,
         "date": "2019-04-01",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "b86f5fd441ede00d696ae0be2617713f373cf612",
+            "message": "docs/UserGuide: update \u0027planner_move\u0027 command (#145)",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "f86ae2a3d2ce2253d3b3bf9efd5063a65b77c520",
+            "message": "docs/DeveloperGuide: update \u0027planner_move\u0027 command (#154)",
+            "insertions": 90,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 152,
+        "deletions": 153,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "8f5b1379a078a254ed0cb2c26593f379c6fa00a6",
+            "message": "docs/DeveloperGuide: update minor styles and formats (#159)",
+            "insertions": 152,
+            "deletions": 153
+          }
+        ]
       }
     ],
     "WendyBaiYunwei": [
@@ -1027,9 +1053,34 @@
         "commitResults": []
       },
       {
+        "insertions": 208,
+        "deletions": 32,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "bbb7688d6c24082d227503e4e94d08ca49527216",
+            "message": "[#80] Logic/commands: implement `planner_add` command (#109)",
+            "insertions": 157,
+            "deletions": 2
+          },
+          {
+            "hash": "ab02a0adcee8308e224fd6691f6db4c15da54dd1",
+            "message": "docs/UserGuide: update `planner_add` and `planner_delete` (#128)",
+            "insertions": 27,
+            "deletions": 18
+          },
+          {
+            "hash": "43c148fe5fe36c55ca7f3357dedc8ad6754cbba9",
+            "message": "developer guide: amend planner_add and planner_delete (#127)",
+            "insertions": 24,
+            "deletions": 12
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-01",
+        "date": "2019-04-02",
         "commitResults": []
       }
     ],
@@ -2105,8 +2156,8 @@
         ]
       },
       {
-        "insertions": 2,
-        "deletions": 2,
+        "insertions": 37,
+        "deletions": 27,
         "date": "2019-04-01",
         "commitResults": [
           {
@@ -2114,8 +2165,32 @@
             "message": "docs: update `Ui.png` and increase width in documentations (#147)",
             "insertions": 2,
             "deletions": 2
+          },
+          {
+            "hash": "d0db8352cd0c673728d652e5c3dbba7ff4cd95b4",
+            "message": "docs/UserGuide: update module management sections (#151)",
+            "insertions": 34,
+            "deletions": 19
+          },
+          {
+            "hash": "360ffaa76a868517c4f2f2fc3e89ff1240e004c8",
+            "message": "docs/DeveloperGuide: update class diagrams (#156)",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "fef8a9dfc204704117d7497f272d55a5a83dc140",
+            "message": "MainApp: bump `MainApp#VERSION` to v1.3 for release (#157)",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
       }
     ],
     "chyeo": [
@@ -2846,9 +2921,28 @@
         ]
       },
       {
+        "insertions": 120,
+        "deletions": 52,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "b492dc90d1a7c75ad5ba80495b6880171c2c1d88",
+            "message": "docs/UserGuide: update requirement-related command usages (#149)",
+            "insertions": 24,
+            "deletions": 24
+          },
+          {
+            "hash": "c002733bb919b8ea84a5de47154e1ff27ef9e02c",
+            "message": "docs/DeveloperGuide: update requirement design considerations (#155)",
+            "insertions": 96,
+            "deletions": 28
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-01",
+        "date": "2019-04-02",
         "commitResults": []
       }
     ],
@@ -3534,8 +3628,8 @@
         "commitResults": []
       },
       {
-        "insertions": 525,
-        "deletions": 31,
+        "insertions": 658,
+        "deletions": 61,
         "date": "2019-04-01",
         "commitResults": [
           {
@@ -3543,111 +3637,42 @@
             "message": "UI: add new css `WhiteTheme.css` (#144)",
             "insertions": 525,
             "deletions": 31
+          },
+          {
+            "hash": "26cb061b0984d7922ae094bba71381226757d0e1",
+            "message": "docs/UserGuide: update `find` command usage (#152)",
+            "insertions": 75,
+            "deletions": 21
+          },
+          {
+            "hash": "3eed8ec1991257de4786361ed6e55d9dd54a6d25",
+            "message": "docs/DeveloperGuide: update `find` command implementation details (#153)",
+            "insertions": 58,
+            "deletions": 9
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "truegitnovice": 2629,
-    "WendyBaiYunwei": 112,
-    "Creastery": 3628,
-    "chyeo": 2617,
-    "lycjackie": 1534
-  },
-  "authorFileFormatContributionMap": {
-    "truegitnovice": {
-      "adoc": 425,
-      "cs": 0,
-      "css": 26,
-      "fxml": 23,
-      "gradle": 0,
-      "html": 0,
-      "java": 2086,
-      "js": 0,
-      "json": 69,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "WendyBaiYunwei": {
-      "adoc": 112,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "Creastery": {
-      "adoc": 200,
-      "cs": 0,
-      "css": 1,
-      "fxml": 6,
-      "gradle": 21,
-      "html": 0,
-      "java": 3314,
-      "js": 0,
-      "json": 86,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "chyeo": {
-      "adoc": 102,
-      "cs": 0,
-      "css": 23,
-      "fxml": 52,
-      "gradle": 0,
-      "html": 0,
-      "java": 2412,
-      "js": 0,
-      "json": 28,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "lycjackie": {
-      "adoc": 202,
-      "cs": 0,
-      "css": 459,
-      "fxml": 13,
-      "gradle": 2,
-      "html": 0,
-      "java": 856,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 2,
-      "xml": 0
-    }
+    "truegitnovice": 2837,
+    "WendyBaiYunwei": 306,
+    "Creastery": 3639,
+    "chyeo": 2650,
+    "lycjackie": 1530
   },
   "authorContributionVariance": {
-    "truegitnovice": 88619.28,
-    "WendyBaiYunwei": 206.37813,
-    "Creastery": 203845.8,
-    "chyeo": 300347.44,
-    "lycjackie": 15555.133
+    "truegitnovice": 87491.164,
+    "WendyBaiYunwei": 1262.862,
+    "Creastery": 200226.19,
+    "chyeo": 294582.5,
+    "lycjackie": 18985.21
   },
   "authorDisplayNameMap": {
     "truegitnovice": "AHN...GYU",

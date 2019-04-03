@@ -358,6 +358,25 @@
         "deletions": 0,
         "date": "2019-03-31",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 8,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "6fa1723d22496e4cda3bbe4bdd23ec4c4b730faf",
+            "message": "DeveloperGuide: Fixed formatting issues",
+            "insertions": 0,
+            "deletions": 8
+          }
+        ]
       }
     ],
     "jemine1998": [
@@ -765,6 +784,43 @@
             "deletions": 17
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 266,
+        "deletions": 52,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "b9aa75fc7c4150bfaa16175e4da8403366319ab4",
+            "message": "Developer Guide Change",
+            "insertions": 99,
+            "deletions": 24
+          },
+          {
+            "hash": "7efe7957e5c61efeea45274c1ed645329f9bae15",
+            "message": "updated",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "e6d44b335d85841b37a7ce9422ebf8abafa845af",
+            "message": "no message",
+            "insertions": 31,
+            "deletions": 22
+          },
+          {
+            "hash": "a434c87a558b72335fc8e783439434add3c317ce",
+            "message": "Update jeminekan.adoc",
+            "insertions": 130,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "dannong": [
@@ -1170,71 +1226,37 @@
         "deletions": 0,
         "date": "2019-03-31",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "cda6e7276b5214511d8011a2ed109e0a072d6304",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "wanchinglim": 205,
-    "jemine1998": 867,
-    "dannong": 7
-  },
-  "authorFileFormatContributionMap": {
-    "wanchinglim": {
-      "adoc": 205,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "jemine1998": {
-      "adoc": 31,
-      "cs": 0,
-      "css": 0,
-      "fxml": 1,
-      "gradle": 0,
-      "html": 0,
-      "java": 826,
-      "js": 0,
-      "json": 9,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "dannong": {
-      "adoc": 7,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "wanchinglim": 198,
+    "jemine1998": 1094,
+    "dannong": 6
   },
   "authorContributionVariance": {
-    "wanchinglim": 2869.819,
-    "jemine1998": 9012.825,
-    "dannong": 1985.2896
+    "wanchinglim": 2762.434,
+    "jemine1998": 10218.038,
+    "dannong": 1914.0337
   },
   "authorDisplayNameMap": {
     "wanchinglim": "LIM...ING",

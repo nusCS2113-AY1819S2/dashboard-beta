@@ -6228,231 +6228,231 @@
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "In this section, the detailed implementations of classes and features will be shown."
       },
       {
         "lineNumber": 168,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 169,
         "author": {
           "gitId": "huyidi"
         },
         "content": "\u003d\u003d Documentation"
       },
       {
-        "lineNumber": 169,
+        "lineNumber": 170,
         "author": {
           "gitId": "warheade"
         },
         "content": "Following AddressBook3, our League Tracker uses AsciiDoc for writing documentation.We choose AsciiDoc as it provides both a human-readable,"
       },
       {
-        "lineNumber": 170,
+        "lineNumber": 171,
         "author": {
           "gitId": "warheade"
         },
         "content": "plain-text writing format as well as a text processor and toolchain that are able to translate AsciiDoc documents into different formats(called backend),"
       },
       {
-        "lineNumber": 171,
+        "lineNumber": 172,
         "author": {
           "gitId": "warheade"
         },
         "content": "including HTML,DocBook and PDF."
       },
       {
-        "lineNumber": 172,
+        "lineNumber": 173,
         "author": {
           "gitId": "huyidi"
         },
         "content": ""
-      },
-      {
-        "lineNumber": 173,
-        "author": {
-          "gitId": "warheade"
-        },
-        "content": "\u003d\u003d\u003d Editing Documentation"
       },
       {
         "lineNumber": 174,
         "author": {
           "gitId": "warheade"
         },
-        "content": "In your IntelliJ IDE, open `Main` \u003e `docs` \u003e `templates` and select the documentation file (eg. `DeveloperGuide.adoc`) to open and edit."
+        "content": "\u003d\u003d\u003d Editing Documentation"
       },
       {
         "lineNumber": 175,
         "author": {
           "gitId": "warheade"
         },
-        "content": "IntelliJ IDE will notify to download the AsciiDoc Plugin. With the plugin, a preview of the documentation will be shown on the screen when the documentation is being"
+        "content": "In your IntelliJ IDE, open `Main` \u003e `docs` \u003e `templates` and select the documentation file (eg. `DeveloperGuide.adoc`) to open and edit."
       },
       {
         "lineNumber": 176,
         "author": {
           "gitId": "warheade"
         },
-        "content": "edited for ease of developers."
+        "content": "IntelliJ IDE will notify to download the AsciiDoc Plugin. With the plugin, a preview of the documentation will be shown on the screen when the documentation is being"
       },
       {
         "lineNumber": 177,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "edited for ease of developers."
       },
       {
         "lineNumber": 178,
         "author": {
-          "gitId": "warheade"
+          "gitId": "huyidi"
         },
-        "content": "\u003d\u003d\u003d Publishing Documentation"
+        "content": ""
       },
       {
         "lineNumber": 179,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Auto-publishing of documentations has been enabled in League Tracker using Travis CI. A guide of doing so is provided below."
+        "content": "\u003d\u003d\u003d Publishing Documentation"
       },
       {
         "lineNumber": 180,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "Auto-publishing of documentations has been enabled in League Tracker using Travis CI. A guide of doing so is provided below."
+      },
+      {
+        "lineNumber": 181,
         "author": {
           "gitId": "huyidi"
         },
         "content": ""
       },
       {
-        "lineNumber": 181,
+        "lineNumber": 182,
         "author": {
           "gitId": "warheade"
         },
         "content": "1. Ensure that you have set up Travis CI properly for the project."
       },
       {
-        "lineNumber": 182,
+        "lineNumber": 183,
         "author": {
           "gitId": "huyidi"
         },
         "content": ""
-      },
-      {
-        "lineNumber": 183,
-        "author": {
-          "gitId": "warheade"
-        },
-        "content": "2. On Github, create a new user account give this account collaborator and admin access to the repo."
       },
       {
         "lineNumber": 184,
         "author": {
           "gitId": "warheade"
         },
-        "content": "   Using this account, generate a personal access token using this link: https://github.com/settings/tokens/new"
+        "content": "2. On Github, create a new user account give this account collaborator and admin access to the repo."
       },
       {
         "lineNumber": 185,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "   Using this account, generate a personal access token using this link: https://github.com/settings/tokens/new"
       },
       {
         "lineNumber": 186,
         "author": {
-          "gitId": "warheade"
+          "gitId": "huyidi"
         },
-        "content": "[TIP]"
+        "content": ""
       },
       {
         "lineNumber": 187,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Personal access tokens serve as passwords so they must be kept secret to protect your accounts. Delete and regenerate if it is leaked."
+        "content": "[TIP]"
       },
       {
         "lineNumber": 188,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "Personal access tokens serve as passwords so they must be kept secret to protect your accounts. Delete and regenerate if it is leaked."
       },
       {
         "lineNumber": 189,
         "author": {
           "gitId": "warheade"
         },
-        "content": "[TIP]"
+        "content": ""
       },
       {
         "lineNumber": 190,
         "author": {
           "gitId": "warheade"
         },
-        "content": "We use a new user account to generate the token for teamName projects to prevent teamName members from gaining access to other teamName members\u0027 repos."
+        "content": "[TIP]"
       },
       {
         "lineNumber": 191,
         "author": {
           "gitId": "warheade"
         },
-        "content": "    If you are the only one with write access to the repo, you can use your own account to generate the token."
+        "content": "We use a new user account to generate the token for teamName projects to prevent teamName members from gaining access to other teamName members\u0027 repos."
       },
       {
         "lineNumber": 192,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "    If you are the only one with write access to the repo, you can use your own account to generate the token."
       },
       {
         "lineNumber": 193,
         "author": {
           "gitId": "warheade"
         },
-        "content": "   * Add a description for the token. (e.g. Travis CI - auto-publishing)"
+        "content": ""
       },
       {
         "lineNumber": 194,
         "author": {
           "gitId": "warheade"
         },
-        "content": "   * Check the `public repo` checkbox."
+        "content": "   * Add a description for the token. (e.g. Travis CI - auto-publishing)"
       },
       {
         "lineNumber": 195,
         "author": {
           "gitId": "warheade"
         },
-        "content": "   * Click `Generate Token` to grant access for Travis CI to the repo of the project."
+        "content": "   * Check the `public repo` checkbox."
       },
       {
         "lineNumber": 196,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "   * Click `Generate Token` to grant access for Travis CI to the repo of the project."
       },
       {
         "lineNumber": 197,
         "author": {
           "gitId": "warheade"
         },
-        "content": ".Generating personal token for auto-publishing on Github"
+        "content": ""
       },
       {
         "lineNumber": 198,
         "author": {
           "gitId": "warheade"
         },
-        "content": "image::generate_token.png[width\u003d\"600\"]"
+        "content": ".Generating personal token for auto-publishing on Github"
       },
       {
         "lineNumber": 199,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "image::generate_token.png[width\u003d\"600\"]"
       },
       {
         "lineNumber": 200,
@@ -6466,287 +6466,287 @@
         "author": {
           "gitId": "huyidi"
         },
-        "content": "\u003d\u003d\u003d Converting Documentation to PDF format"
+        "content": ""
       },
       {
         "lineNumber": 202,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d Converting Documentation to PDF format"
       },
       {
         "lineNumber": 203,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "We use https://www.google.com/chrome/browser/desktop/[Google Chrome] for converting documentation to PDF format, as Chrome\u0027s PDF engine preserves hyperlinks used in webpages."
+        "content": ""
       },
       {
         "lineNumber": 204,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "We use https://www.google.com/chrome/browser/desktop/[Google Chrome] for converting documentation to PDF format, as Chrome\u0027s PDF engine preserves hyperlinks used in webpages."
       },
       {
         "lineNumber": 205,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "Here are the steps to convert the project documentation files to PDF format."
+        "content": ""
       },
       {
         "lineNumber": 206,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "Here are the steps to convert the project documentation files to PDF format."
       },
       {
         "lineNumber": 207,
+        "author": {
+          "gitId": "huyidi"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 208,
         "author": {
           "gitId": "warheade"
         },
         "content": ".  Use asciidoctor to convert AsciiDoc files in docs to HTML format. Generated HTML files can be found in `build/docs`."
       },
       {
-        "lineNumber": 208,
+        "lineNumber": 209,
         "author": {
           "gitId": "huyidi"
         },
         "content": ".  Go to your generated HTML files in the `build/docs` folder, right click on them and select `Open with` -\u003e `Google Chrome`."
       },
       {
-        "lineNumber": 209,
+        "lineNumber": 210,
         "author": {
           "gitId": "huyidi"
         },
         "content": ".  Within Chrome, click on the `Print` option in Chrome\u0027s menu."
       },
       {
-        "lineNumber": 210,
+        "lineNumber": 211,
         "author": {
           "gitId": "huyidi"
         },
         "content": ".  Set the destination to `Save as PDF`, then click `Save` to save a copy of the file in PDF format. For best results, use the settings indicated in the screenshot below."
       },
       {
-        "lineNumber": 211,
-        "author": {
-          "gitId": "huyidi"
-        },
-        "content": ""
-      },
-      {
         "lineNumber": 212,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ".Saving documentation as PDF files in Chrome"
+        "content": ""
       },
       {
         "lineNumber": 213,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "image::chrome_save_as_pdf.png[width\u003d\"300\"]"
+        "content": ".Saving documentation as PDF files in Chrome"
       },
       {
         "lineNumber": 214,
         "author": {
-          "gitId": "-"
+          "gitId": "huyidi"
         },
-        "content": ""
+        "content": "image::chrome_save_as_pdf.png[width\u003d\"300\"]"
       },
       {
         "lineNumber": 215,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Testing"
+        "content": ""
       },
       {
         "lineNumber": 216,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d Testing"
       },
       {
         "lineNumber": 217,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Running Tests"
+        "content": ""
       },
       {
         "lineNumber": 218,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d Running Tests"
       },
       {
         "lineNumber": 219,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "There are three ways to run tests."
+        "content": ""
       },
       {
         "lineNumber": 220,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "There are three ways to run tests."
       },
       {
         "lineNumber": 221,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "[TIP]"
+        "content": ""
       },
       {
         "lineNumber": 222,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "The most reliable way to run tests is the 3rd one. The first two methods might fail some GUI tests due to platform/resolution-specific idiosyncrasies."
+        "content": "[TIP]"
       },
       {
         "lineNumber": 223,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "The most reliable way to run tests is the 3rd one. The first two methods might fail some GUI tests due to platform/resolution-specific idiosyncrasies."
       },
       {
         "lineNumber": 224,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "*Method 1: Using IntelliJ JUnit test runner*"
+        "content": ""
       },
       {
         "lineNumber": 225,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "*Method 1: Using IntelliJ JUnit test runner*"
       },
       {
         "lineNumber": 226,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "* To run all tests, right-click on the `src/test/java` folder and choose `Run \u0027All Tests\u0027`"
+        "content": ""
       },
       {
         "lineNumber": 227,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "* To run a subset of tests, you can right-click on a test package, test class, or a test and choose `Run \u0027ABC\u0027`"
+        "content": "* To run all tests, right-click on the `src/test/java` folder and choose `Run \u0027All Tests\u0027`"
       },
       {
         "lineNumber": 228,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "* To run a subset of tests, you can right-click on a test package, test class, or a test and choose `Run \u0027ABC\u0027`"
       },
       {
         "lineNumber": 229,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "*Method 2: Using Gradle*"
+        "content": ""
       },
       {
         "lineNumber": 230,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "*Method 2: Using Gradle*"
       },
       {
         "lineNumber": 231,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "* Open a console and run the command `gradlew clean allTests` (Mac/Linux: `./gradlew clean allTests`)"
+        "content": ""
       },
       {
         "lineNumber": 232,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "* Open a console and run the command `gradlew clean allTests` (Mac/Linux: `./gradlew clean allTests`)"
       },
       {
         "lineNumber": 233,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "[NOTE]"
+        "content": ""
       },
       {
         "lineNumber": 234,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "See \u003c\u003cUsingGradle#, UsingGradle.adoc\u003e\u003e for more info on how to run tests using Gradle."
+        "content": "[NOTE]"
       },
       {
         "lineNumber": 235,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "See \u003c\u003cUsingGradle#, UsingGradle.adoc\u003e\u003e for more info on how to run tests using Gradle."
       },
       {
         "lineNumber": 236,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "*Method 3: Using Gradle (headless)*"
+        "content": ""
       },
       {
         "lineNumber": 237,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "*Method 3: Using Gradle (headless)*"
       },
       {
         "lineNumber": 238,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "Thanks to the https://github.com/TestFX/TestFX[TestFX] library we use, our GUI tests can be run in the _headless_ mode. In the headless mode, GUI tests do not show up on the screen. That means the developer can do other things on the Computer while the tests are running."
+        "content": ""
       },
       {
         "lineNumber": 239,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "Thanks to the https://github.com/TestFX/TestFX[TestFX] library we use, our GUI tests can be run in the _headless_ mode. In the headless mode, GUI tests do not show up on the screen. That means the developer can do other things on the Computer while the tests are running."
       },
       {
         "lineNumber": 240,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "To run tests in headless mode, open a console and run the command `gradlew clean headless allTests` (Mac/Linux: `./gradlew clean headless allTests`)"
+        "content": ""
       },
       {
         "lineNumber": 241,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "To run tests in headless mode, open a console and run the command `gradlew clean headless allTests` (Mac/Linux: `./gradlew clean headless allTests`)"
       },
       {
         "lineNumber": 242,
@@ -6758,184 +6758,184 @@
       {
         "lineNumber": 243,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "huyidi"
         },
-        "content": "\u003d\u003d Dev Ops"
+        "content": ""
       },
       {
         "lineNumber": 244,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "\u003d\u003d Dev Ops"
       },
       {
         "lineNumber": 245,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "\u003d\u003d\u003d Build Automation"
+        "content": ""
       },
       {
         "lineNumber": 246,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d Build Automation"
       },
       {
         "lineNumber": 247,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "See \u003c\u003cUsingGradle#, UsingGradle.adoc\u003e\u003e to learn how to use Gradle for build automation."
+        "content": ""
       },
       {
         "lineNumber": 248,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "See \u003c\u003cUsingGradle#, UsingGradle.adoc\u003e\u003e to learn how to use Gradle for build automation."
       },
       {
         "lineNumber": 249,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "\u003d\u003d\u003d Continuous Integration"
+        "content": ""
       },
       {
         "lineNumber": 250,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d Continuous Integration"
       },
       {
         "lineNumber": 251,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "We use https://travis-ci.org/[Travis CI] and https://www.appveyor.com/[AppVeyor] to perform _Continuous Integration_ on our projects. See \u003c\u003cUsingTravis#, UsingTravis.adoc\u003e\u003e and \u003c\u003cUsingAppVeyor#, UsingAppVeyor.adoc\u003e\u003e for more details."
+        "content": ""
       },
       {
         "lineNumber": 252,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "We use https://travis-ci.org/[Travis CI] and https://www.appveyor.com/[AppVeyor] to perform _Continuous Integration_ on our projects. See \u003c\u003cUsingTravis#, UsingTravis.adoc\u003e\u003e and \u003c\u003cUsingAppVeyor#, UsingAppVeyor.adoc\u003e\u003e for more details."
       },
       {
         "lineNumber": 253,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "\u003d\u003d\u003d Coverage Reporting"
+        "content": ""
       },
       {
         "lineNumber": 254,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d Coverage Reporting"
       },
       {
         "lineNumber": 255,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "We use https://coveralls.io/[Coveralls] to track the code coverage of our projects. See \u003c\u003cUsingCoveralls#, UsingCoveralls.adoc\u003e\u003e for more details."
+        "content": ""
       },
       {
         "lineNumber": 256,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "We use https://coveralls.io/[Coveralls] to track the code coverage of our projects. See \u003c\u003cUsingCoveralls#, UsingCoveralls.adoc\u003e\u003e for more details."
       },
       {
         "lineNumber": 257,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "\u003d\u003d\u003d Documentation Previews"
+        "content": ""
       },
       {
         "lineNumber": 258,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "When a pull request has changes to asciidoc files, you can use https://www.netlify.com/[Netlify] to see a preview of how the HTML version of those asciidoc files will look like when the pull request is merged. See \u003c\u003cUsingNetlify#, UsingNetlify.adoc\u003e\u003e for more details."
+        "content": "\u003d\u003d\u003d Documentation Previews"
       },
       {
         "lineNumber": 259,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "When a pull request has changes to asciidoc files, you can use https://www.netlify.com/[Netlify] to see a preview of how the HTML version of those asciidoc files will look like when the pull request is merged. See \u003c\u003cUsingNetlify#, UsingNetlify.adoc\u003e\u003e for more details."
       },
       {
         "lineNumber": 260,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "\u003d\u003d\u003d Making a Release"
+        "content": ""
       },
       {
         "lineNumber": 261,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d Making a Release"
       },
       {
         "lineNumber": 262,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "Here are the steps to create a new release."
+        "content": ""
       },
       {
         "lineNumber": 263,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "Here are the steps to create a new release."
       },
       {
         "lineNumber": 264,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ".  Update the version number in link:{repoURL}/src/main/java/seedu/address/MainApp.java[`MainApp.java`]."
+        "content": ""
       },
       {
         "lineNumber": 265,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ".  Generate a JAR file \u003c\u003cUsingGradle#creating-the-jar-file, using Gradle\u003e\u003e."
+        "content": ".  Update the version number in link:{repoURL}/src/main/java/seedu/address/MainApp.java[`MainApp.java`]."
       },
       {
         "lineNumber": 266,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ".  Tag the repo with the version number. e.g. `v0.1`"
+        "content": ".  Generate a JAR file \u003c\u003cUsingGradle#creating-the-jar-file, using Gradle\u003e\u003e."
       },
       {
         "lineNumber": 267,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ".  https://help.github.com/articles/creating-releases/[Create a new release using GitHub] and upload the JAR file you created."
+        "content": ".  Tag the repo with the version number. e.g. `v0.1`"
       },
       {
         "lineNumber": 268,
         "author": {
-          "gitId": "-"
+          "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": ".  https://help.github.com/articles/creating-releases/[Create a new release using GitHub] and upload the JAR file you created."
       },
       {
         "lineNumber": 269,
@@ -6949,77 +6949,77 @@
         "author": {
           "gitId": "-"
         },
-        "content": "[appendix]"
+        "content": ""
       },
       {
         "lineNumber": 271,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d Product Scope"
+        "content": "[appendix]"
       },
       {
         "lineNumber": 272,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "\u003d\u003d Product Scope"
       },
       {
         "lineNumber": 273,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "*Target user profile*:"
+        "content": ""
       },
       {
         "lineNumber": 274,
+        "author": {
+          "gitId": "yingrong1996"
+        },
+        "content": "*Target user profile*:"
+      },
+      {
+        "lineNumber": 275,
         "author": {
           "gitId": "E0176106"
         },
         "content": "* Football League Operators +"
       },
       {
-        "lineNumber": 275,
+        "lineNumber": 276,
         "author": {
           "gitId": "warheade"
         },
         "content": "* Has a need to manage profiles of teams and players in a league +"
       },
       {
-        "lineNumber": 276,
+        "lineNumber": 277,
         "author": {
           "gitId": "warheade"
         },
         "content": "* Has a need to collect and view specific data regarding the league (matches\u0027, teams\u0027 and players\u0027 information in the league)  +"
       },
       {
-        "lineNumber": 277,
+        "lineNumber": 278,
         "author": {
           "gitId": "warheade"
         },
         "content": "* Comfortable with typing +"
       },
       {
-        "lineNumber": 278,
+        "lineNumber": 279,
         "author": {
           "gitId": "E0176106"
         },
         "content": "* Prefer desktop apps over other type +"
       },
       {
-        "lineNumber": 279,
-        "author": {
-          "gitId": "yingrong1996"
-        },
-        "content": "* Reasonably comfortable using CLI apps"
-      },
-      {
         "lineNumber": 280,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "* Reasonably comfortable using CLI apps"
       },
       {
         "lineNumber": 281,
@@ -7031,49 +7031,49 @@
       {
         "lineNumber": 282,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "yingrong1996"
         },
-        "content": "*Value proposition*: "
+        "content": ""
       },
       {
         "lineNumber": 283,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ""
+        "content": "*Value proposition*: "
       },
       {
         "lineNumber": 284,
         "author": {
-          "gitId": "warheade"
+          "gitId": "E0176106"
         },
-        "content": "* Manage league/teamName/player faster than a typical mouse/GUI driven app. +"
+        "content": ""
       },
       {
         "lineNumber": 285,
         "author": {
           "gitId": "warheade"
         },
-        "content": "* Easy access to records needed. +"
+        "content": "* Manage league/teamName/player faster than a typical mouse/GUI driven app. +"
       },
       {
         "lineNumber": 286,
         "author": {
           "gitId": "warheade"
         },
-        "content": "* Provide crucial analysis of records in the league"
+        "content": "* Easy access to records needed. +"
       },
       {
         "lineNumber": 287,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "* Provide crucial analysis of records in the league"
       },
       {
         "lineNumber": 288,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7082,175 +7082,175 @@
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "[appendix]"
+        "content": ""
       },
       {
         "lineNumber": 290,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "\u003d\u003d User Stories"
+        "content": "[appendix]"
       },
       {
         "lineNumber": 291,
         "author": {
-          "gitId": "-"
+          "gitId": "yingrong1996"
         },
-        "content": "Priorities: High (must have) - `* * \\*`, Medium (nice to have) - `* \\*`, Low (unlikely to have) - `*`"
+        "content": "\u003d\u003d User Stories"
       },
       {
         "lineNumber": 292,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Priorities: High (must have) - `* * \\*`, Medium (nice to have) - `* \\*`, Low (unlikely to have) - `*`"
       },
       {
         "lineNumber": 293,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
-        "content": "[width\u003d\"59%\",cols\u003d\"22%,\u003c23%,\u003c25%,\u003c30%\",options\u003d\"header\",]"
+        "content": ""
       },
       {
         "lineNumber": 294,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "|\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d"
+        "content": "[width\u003d\"59%\",cols\u003d\"22%,\u003c23%,\u003c25%,\u003c30%\",options\u003d\"header\",]"
       },
       {
         "lineNumber": 295,
+        "author": {
+          "gitId": "yingrong1996"
+        },
+        "content": "|\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d"
+      },
+      {
+        "lineNumber": 296,
         "author": {
           "gitId": "-"
         },
         "content": "|Priority |As a ... |I want to ... |So that I can..."
       },
       {
-        "lineNumber": 296,
+        "lineNumber": 297,
         "author": {
           "gitId": "huyidi"
         },
         "content": "|`* * *` |League Organiser |add, edit and delete players into the records | add new player when they join,delete old player when they retire"
       },
       {
-        "lineNumber": 297,
+        "lineNumber": 298,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 298,
+        "lineNumber": 299,
         "author": {
           "gitId": "warheade"
         },
         "content": "|`* * *` |League Organiser |add, edit and delete teams into current league| add new teamName that move up major league"
       },
       {
-        "lineNumber": 299,
+        "lineNumber": 300,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 300,
+        "lineNumber": 301,
         "author": {
           "gitId": "yingrong1996"
         },
         "content": "|`* * *` |League Organiser |list all teams and player. | See all current teams and player"
       },
       {
-        "lineNumber": 301,
+        "lineNumber": 302,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 302,
+        "lineNumber": 303,
         "author": {
           "gitId": "huyidi"
         },
         "content": "|`* * *` |League Organiser |see the performance of players in the league | know player\u0027s goals scored and Penalties."
       },
       {
-        "lineNumber": 303,
+        "lineNumber": 304,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 304,
+        "lineNumber": 305,
         "author": {
           "gitId": "warheade"
         },
         "content": "|`* * *` |League Organiser |see the teams ranking in league | know which teamName is currently leading in points"
       },
       {
-        "lineNumber": 305,
+        "lineNumber": 306,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 306,
+        "lineNumber": 307,
         "author": {
           "gitId": "huyidi"
         },
         "content": "|`* * *` |League Organiser |keep track on the future match up for the playing teams| see the match scheduling"
       },
       {
-        "lineNumber": 307,
+        "lineNumber": 308,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 308,
+        "lineNumber": 309,
         "author": {
           "gitId": "huyidi"
         },
         "content": "|`* * *` |League Organiser |add, edit and delete matches in current league | edit the match schedule"
       },
       {
-        "lineNumber": 309,
+        "lineNumber": 310,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 310,
+        "lineNumber": 311,
         "author": {
           "gitId": "warheade"
         },
         "content": "|`* * *` |League Organiser |see the real-time balancing of income of each teamName | know the financial condition of each teamName"
       },
       {
-        "lineNumber": 311,
+        "lineNumber": 312,
         "author": {
           "gitId": "-"
         },
         "content": ""
-      },
-      {
-        "lineNumber": 312,
-        "author": {
-          "gitId": "warheade"
-        },
-        "content": "|`* *` |League Organiser |see the statistic of each teamName | know the percentage of winnings, average of fouls per matches of each teamName"
       },
       {
         "lineNumber": 313,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "|`* *` |League Organiser |see the statistic of each teamName | know the percentage of winnings, average of fouls per matches of each teamName"
       },
       {
         "lineNumber": 314,
@@ -7262,107 +7262,107 @@
       {
         "lineNumber": 315,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
-        "content": "|\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d"
+        "content": ""
       },
       {
         "lineNumber": 316,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "|\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 317,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": "_{More to be added}_"
+        "content": ""
       },
       {
         "lineNumber": 318,
         "author": {
-          "gitId": "-"
+          "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "_{More to be added}_"
       },
       {
         "lineNumber": 319,
         "author": {
           "gitId": "-"
         },
-        "content": "[appendix]"
+        "content": ""
       },
       {
         "lineNumber": 320,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "[appendix]"
+      },
+      {
+        "lineNumber": 321,
         "author": {
           "gitId": "yingrong1996"
         },
         "content": "\u003d\u003d Non Functional Requirements"
       },
       {
-        "lineNumber": 321,
+        "lineNumber": 322,
         "author": {
           "gitId": "-"
         },
         "content": ""
-      },
-      {
-        "lineNumber": 322,
-        "author": {
-          "gitId": "yingrong1996"
-        },
-        "content": ". Quality requirement: The system should be efficient enough for organiser to quickly updat and keep track of the teams playing in the league."
       },
       {
         "lineNumber": 323,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ". Performance requirements: The system should be able to present the information in an orgainised format as the data could be confusing."
+        "content": ". Quality requirement: The system should be efficient enough for organiser to quickly updat and keep track of the teams playing in the league."
       },
       {
         "lineNumber": 324,
         "author": {
           "gitId": "yingrong1996"
         },
-        "content": ". Project scope: The product is developed solely for the use of league organiser."
+        "content": ". Performance requirements: The system should be able to present the information in an orgainised format as the data could be confusing."
       },
       {
         "lineNumber": 325,
         "author": {
-          "gitId": "warheade"
+          "gitId": "yingrong1996"
         },
-        "content": ". Computer Environment: The product should work on any mainstream OS as long as it has Java 8 (revision 1.8.0_201 or higher) installed."
+        "content": ". Project scope: The product is developed solely for the use of league organiser."
       },
       {
         "lineNumber": 326,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". UI Justifiability: A user with above average typing speed for regular English text (i.e. not code, not system admin commands) should be able to accomplish most of the tasks faster using commands than using the mouse."
+        "content": ". Computer Environment: The product should work on any mainstream OS as long as it has Java 8 (revision 1.8.0_201 or higher) installed."
       },
       {
         "lineNumber": 327,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": ". UI Justifiability: A user with above average typing speed for regular English text (i.e. not code, not system admin commands) should be able to accomplish most of the tasks faster using commands than using the mouse."
       },
       {
         "lineNumber": 328,
         "author": {
-          "gitId": "yingrong1996"
+          "gitId": "-"
         },
-        "content": "_{More to be added}_"
+        "content": ""
       },
       {
         "lineNumber": 329,
         "author": {
-          "gitId": "-"
+          "gitId": "yingrong1996"
         },
-        "content": ""
+        "content": "_{More to be added}_"
       },
       {
         "lineNumber": 330,
@@ -7374,135 +7374,135 @@
       {
         "lineNumber": 331,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
-        "content": "[appendix]"
+        "content": ""
       },
       {
         "lineNumber": 332,
         "author": {
           "gitId": "warheade"
         },
-        "content": "\u003d\u003d Use Cases"
+        "content": "[appendix]"
       },
       {
         "lineNumber": 333,
         "author": {
           "gitId": "warheade"
         },
-        "content": "(For all use cases below, the System is the League Tracker and the Actor is the user, unless specified otherwise)"
+        "content": "\u003d\u003d Use Cases"
       },
       {
         "lineNumber": 334,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "(For all use cases below, the System is the League Tracker and the Actor is the user, unless specified otherwise)"
       },
       {
         "lineNumber": 335,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Use Case: Add Player"
+        "content": ""
       },
       {
         "lineNumber": 336,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "Use Case: Add Player"
       },
       {
         "lineNumber": 337,
         "author": {
           "gitId": "-"
         },
-        "content": "*MSS*"
+        "content": ""
       },
       {
         "lineNumber": 338,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "*MSS*"
       },
       {
         "lineNumber": 339,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
-        "content": ". User requests to add a specific player in the League"
+        "content": ""
       },
       {
         "lineNumber": 340,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". User specify the following detail:"
+        "content": ". User requests to add a specific player in the League"
       },
       {
         "lineNumber": 341,
         "author": {
           "gitId": "warheade"
         },
-        "content": "  Name, Position Played, Age, Salary, Goals Scored, Goals Assisted, Team Name, Nationality,"
+        "content": ". User specify the following detail:"
       },
       {
         "lineNumber": 342,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Jersey Number, Appearance,HealthStatus, Tags(optional)"
+        "content": "  Name, Position Played, Age, Salary, Goals Scored, Goals Assisted, Team Name, Nationality,"
       },
       {
         "lineNumber": 343,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". System adds the person."
+        "content": "Jersey Number, Appearance,HealthStatus, Tags(optional)"
       },
       {
         "lineNumber": 344,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". If successful, a message will be shown and a new player is added"
+        "content": ". System adds the person."
       },
       {
         "lineNumber": 345,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". If not successful, a message specifying reason for failure will be shown and command list"
+        "content": ". If successful, a message will be shown and a new player is added"
       },
       {
         "lineNumber": 346,
         "author": {
           "gitId": "warheade"
         },
-        "content": "  will be printed"
+        "content": ". If not successful, a message specifying reason for failure will be shown and command list"
       },
       {
         "lineNumber": 347,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": "+"
+        "content": "  will be printed"
       },
       {
         "lineNumber": 348,
         "author": {
           "gitId": "-"
         },
-        "content": "Use case ends."
+        "content": "+"
       },
       {
         "lineNumber": 349,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Use case ends."
       },
       {
         "lineNumber": 350,
@@ -7514,7 +7514,7 @@
       {
         "lineNumber": 351,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7523,117 +7523,117 @@
         "author": {
           "gitId": "warheade"
         },
-        "content": "Use Case: Delete Player"
+        "content": ""
       },
       {
         "lineNumber": 353,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "Use Case: Delete Player"
       },
       {
         "lineNumber": 354,
         "author": {
           "gitId": "warheade"
         },
-        "content": "*MSS*"
+        "content": ""
       },
       {
         "lineNumber": 355,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "*MSS*"
       },
       {
         "lineNumber": 356,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". (Optional) User requests to list all players in the league"
+        "content": ""
       },
       {
         "lineNumber": 357,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". (Optional) System shows a list of players"
+        "content": ". (Optional) User requests to list all players in the league"
       },
       {
         "lineNumber": 358,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". User requests to delete a specific player in the list"
+        "content": ". (Optional) System shows a list of players"
       },
       {
         "lineNumber": 359,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". User specify the following detail:"
+        "content": ". User requests to delete a specific player in the list"
       },
       {
         "lineNumber": 360,
         "author": {
           "gitId": "warheade"
         },
-        "content": "  Name, Team,Jersey Number"
+        "content": ". User specify the following detail:"
       },
       {
         "lineNumber": 361,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". System adds the person."
+        "content": "  Name, Team,Jersey Number"
       },
       {
         "lineNumber": 362,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". If successful, a message will be shown and the player is deleted"
+        "content": ". System adds the person."
       },
       {
         "lineNumber": 363,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". If not successful, a message specifying reason for failure will be shown and command list"
+        "content": ". If successful, a message will be shown and the player is deleted"
       },
       {
         "lineNumber": 364,
         "author": {
           "gitId": "warheade"
         },
-        "content": "  will be printed"
+        "content": ". If not successful, a message specifying reason for failure will be shown and command list"
       },
       {
         "lineNumber": 365,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": "+"
+        "content": "  will be printed"
       },
       {
         "lineNumber": 366,
         "author": {
           "gitId": "-"
         },
-        "content": "Use case ends."
+        "content": "+"
       },
       {
         "lineNumber": 367,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Use case ends."
       },
       {
         "lineNumber": 368,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7649,124 +7649,124 @@
         "author": {
           "gitId": "warheade"
         },
-        "content": "Use Case: Transfer Player (coming in v1.4)"
+        "content": ""
       },
       {
         "lineNumber": 371,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "Use Case: Transfer Player (coming in v1.4)"
       },
       {
         "lineNumber": 372,
         "author": {
           "gitId": "warheade"
         },
-        "content": "*MSS*"
+        "content": ""
       },
       {
         "lineNumber": 373,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "*MSS*"
       },
       {
         "lineNumber": 374,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". (Optional) User requests to list all players in the league"
+        "content": ""
       },
       {
         "lineNumber": 375,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". (Optional) System shows a list of players"
+        "content": ". (Optional) User requests to list all players in the league"
       },
       {
         "lineNumber": 376,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". User requests to transfer a specific player in the list"
+        "content": ". (Optional) System shows a list of players"
       },
       {
         "lineNumber": 377,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". User specify the following detail:"
+        "content": ". User requests to transfer a specific player in the list"
       },
       {
         "lineNumber": 378,
         "author": {
           "gitId": "warheade"
         },
-        "content": "  Name,Team,Jersey Number,Original Team,Destination Team"
+        "content": ". User specify the following detail:"
       },
       {
         "lineNumber": 379,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". System transfers the player."
+        "content": "  Name,Team,Jersey Number,Original Team,Destination Team"
       },
       {
         "lineNumber": 380,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". If successful, a message will be shown and the player\u0027s details as well as details for teams will"
+        "content": ". System transfers the player."
       },
       {
         "lineNumber": 381,
         "author": {
           "gitId": "warheade"
         },
-        "content": "  be updated."
+        "content": ". If successful, a message will be shown and the player\u0027s details as well as details for teams will"
       },
       {
         "lineNumber": 382,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". If not successful, a message specifying reason for failure will be shown and command list"
+        "content": "  be updated."
       },
       {
         "lineNumber": 383,
         "author": {
           "gitId": "warheade"
         },
-        "content": "  will be printed"
+        "content": ". If not successful, a message specifying reason for failure will be shown and command list"
       },
       {
         "lineNumber": 384,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "  will be printed"
+      },
+      {
+        "lineNumber": 385,
         "author": {
           "gitId": "-"
         },
         "content": "+"
       },
       {
-        "lineNumber": 385,
+        "lineNumber": 386,
         "author": {
           "gitId": "warheade"
         },
         "content": "Use case ends."
       },
       {
-        "lineNumber": 386,
-        "author": {
-          "gitId": "warheade"
-        },
-        "content": ""
-      },
-      {
         "lineNumber": 387,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
         "content": ""
       },
@@ -7780,250 +7780,257 @@
       {
         "lineNumber": 389,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
-        "content": "Use Case: Edit Player"
+        "content": ""
       },
       {
         "lineNumber": 390,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "Use Case: Edit Player"
       },
       {
         "lineNumber": 391,
         "author": {
           "gitId": "warheade"
         },
-        "content": "*MSS*"
+        "content": ""
       },
       {
         "lineNumber": 392,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "*MSS*"
       },
       {
         "lineNumber": 393,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". (Optional) User requests to list all players in the league"
+        "content": ""
       },
       {
         "lineNumber": 394,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". (Optional) System shows a list of players"
+        "content": ". (Optional) User requests to list all players in the league"
       },
       {
         "lineNumber": 395,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". User requests to edit a specific player in the list"
+        "content": ". (Optional) System shows a list of players"
       },
       {
         "lineNumber": 396,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". User first specifies the name, teamName and Jersey Number of the player"
+        "content": ". User requests to edit a specific player in the list"
       },
       {
         "lineNumber": 397,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". System returns a message of whether the player exists"
+        "content": ". User first specifies the name, teamName and Jersey Number of the player"
       },
       {
         "lineNumber": 398,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". If the player exists, a \"Please enter new details\" Message will be shown by system to ask for"
+        "content": ". System returns a message of whether the player exists"
       },
       {
         "lineNumber": 399,
         "author": {
           "gitId": "warheade"
         },
-        "content": "  input. Otherwise, a PlayerNotFound exception Message will be printed followed by the list of commands"
+        "content": ". If the player exists, a \"Please enter new details\" Message will be shown by system to ask for"
       },
       {
         "lineNumber": 400,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". Assume the player exists, user then specifies the following detail to be reflected in the new profile:"
+        "content": "  input. Otherwise, a PlayerNotFound exception Message will be printed followed by the list of commands"
       },
       {
         "lineNumber": 401,
         "author": {
           "gitId": "warheade"
         },
-        "content": "  Name,Team,Jersey Number,Original Team,Destination Team"
+        "content": ". Assume the player exists, user then specifies the following detail to be reflected in the new profile:"
       },
       {
         "lineNumber": 402,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". System updates the player."
+        "content": "  Name,Team,Jersey Number,Original Team,Destination Team"
       },
       {
         "lineNumber": 403,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". If successful, a message will be shown and the player\u0027s details will"
+        "content": ". System updates the player."
       },
       {
         "lineNumber": 404,
         "author": {
           "gitId": "warheade"
         },
-        "content": "  be updated."
+        "content": ". If successful, a message will be shown and the player\u0027s details will"
       },
       {
         "lineNumber": 405,
         "author": {
           "gitId": "warheade"
         },
-        "content": ". If not successful, a message specifying reason for failure will be shown and command list"
+        "content": "  be updated."
       },
       {
         "lineNumber": 406,
         "author": {
           "gitId": "warheade"
         },
-        "content": "  will be printed"
+        "content": ". If not successful, a message specifying reason for failure will be shown and command list"
       },
       {
         "lineNumber": 407,
         "author": {
           "gitId": "warheade"
         },
-        "content": "+"
+        "content": "  will be printed"
       },
       {
         "lineNumber": 408,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Use case ends."
+        "content": "+"
       },
       {
         "lineNumber": 409,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "Use case ends."
       },
       {
         "lineNumber": 410,
         "author": {
           "gitId": "-"
         },
-        "content": "[appendix]"
+        "content": ""
       },
       {
         "lineNumber": 411,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Glossary"
+        "content": "[appendix]"
       },
       {
         "lineNumber": 412,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d Glossary"
       },
       {
         "lineNumber": 413,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
-        "content": "*League*: a group of football teams which play each other over a period for a championship."
+        "content": ""
       },
       {
         "lineNumber": 414,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "*League*: a group of football teams which play each other over a period for a championship."
       },
       {
         "lineNumber": 415,
         "author": {
           "gitId": "warheade"
         },
-        "content": "*Transfer*: the action taken whenever a player under contract moves between clubs. It refers to the transferring of a player\u0027s registration from one association football club to another."
+        "content": ""
       },
       {
         "lineNumber": 416,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "*Transfer*: the action taken whenever a player under contract moves between clubs. It refers to the transferring of a player\u0027s registration from one association football club to another."
       },
       {
         "lineNumber": 417,
         "author": {
           "gitId": "warheade"
         },
-        "content": "image::transfer.png[width\u003d\"300\"]"
+        "content": ""
       },
       {
         "lineNumber": 418,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "image::transfer.png[width\u003d\"300\"]"
       },
       {
         "lineNumber": 419,
         "author": {
           "gitId": "warheade"
         },
-        "content": "*Jersey Number*: a number allocated to each player in a teamName to uniquely identify the player. Jersey Numbers usually range from 1 to 35 and will be printed at the back"
+        "content": ""
       },
       {
         "lineNumber": 420,
         "author": {
           "gitId": "warheade"
         },
-        "content": "                 of players\u0027 jerseys during matches for identification purposes."
+        "content": "*Jersey Number*: a number allocated to each player in a teamName to uniquely identify the player. Jersey Numbers usually range from 1 to 35 and will be printed at the back"
       },
       {
         "lineNumber": 421,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "                 of players\u0027 jerseys during matches for identification purposes."
       },
       {
         "lineNumber": 422,
         "author": {
           "gitId": "warheade"
         },
-        "content": "*Mainstream OS*: Windows, Linux, Unix, OS-X"
+        "content": ""
       },
       {
         "lineNumber": 423,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "*Mainstream OS*: Windows, Linux, Unix, OS-X"
+      },
+      {
+        "lineNumber": 424,
         "author": {
           "gitId": "huyidi"
         },
         "content": ""
       },
       {
-        "lineNumber": 424,
+        "lineNumber": 425,
         "author": {
           "gitId": "-"
         },
@@ -8032,7 +8039,7 @@
     ],
     "authorContributionMap": {
       "huyidi": 59,
-      "warheade": 187,
+      "warheade": 188,
       "yingrong1996": 106,
       "-": 68,
       "E0176106": 4
@@ -8275,51 +8282,51 @@
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": "image::Ui.png[]"
+        "content": ".Welcome page of the GUI"
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "+"
+        "content": "image::Ui.png[]"
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ".  Type the command in the command box and press kbd:[Enter] to execute it."
+        "content": "+"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "E0176106"
         },
-        "content": "+"
+        "content": ".  Type the command in the command box and press kbd:[Enter] to execute it."
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "image::UiCommandBox.png[]"
+        "content": "+"
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": ".Location of Command Box in GUI"
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "\u003d\u003d Viewing Help"
+        "content": "image::UiCommandBox.png[]"
       },
       {
         "lineNumber": 41,
@@ -8333,7 +8340,7 @@
         "author": {
           "gitId": "E0176106"
         },
-        "content": "You can view the information of all commands in the League Tracker by using the Help command."
+        "content": "\u003d\u003d Viewing Help"
       },
       {
         "lineNumber": 43,
@@ -8345,9 +8352,9 @@
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
-        "content": "Format: `help`"
+        "content": "You can view the information of all commands in the League Tracker by using the Help command."
       },
       {
         "lineNumber": 45,
@@ -8361,21 +8368,21 @@
         "author": {
           "gitId": "-"
         },
-        "content": "[TIP]"
+        "content": "Format: `help`"
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d\u003d"
+        "content": ""
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "-"
         },
-        "content": "Help is also shown if you enter an incorrect command e.g. `abcd`"
+        "content": "[TIP]"
       },
       {
         "lineNumber": 49,
@@ -8389,14 +8396,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Help is also shown if you enter an incorrect command e.g. `abcd`"
       },
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d Features"
+        "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 52,
@@ -8408,9 +8415,9 @@
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "warheade"
+          "gitId": "E0176106"
         },
-        "content": "The League Tracker has four main features: player feature, teamName feature,  match feature and finance feature. These features will help you to manage useful information of your league more conveniently and effectively."
+        "content": "\u003d\u003d Features"
       },
       {
         "lineNumber": 54,
@@ -8422,156 +8429,156 @@
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "\u003d\u003d\u003d Players"
+        "content": "The League Tracker has four main features: player feature, teamName feature,  match feature and finance feature. These features will help you to manage useful information of your league more conveniently and effectively."
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "The players feature in the application helps you to manage information of players in the league. +"
+        "content": ""
       },
       {
         "lineNumber": 57,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "{empty} +"
+        "content": "\u003d\u003d\u003d Players"
       },
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
-        "content": ""
+        "content": "The players feature in the application helps you to manage information of players in the league. +"
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d\u003d *Add Player*"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 60,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "\u003d\u003d\u003d\u003d *Add Player*"
+      },
+      {
+        "lineNumber": 62,
         "author": {
           "gitId": "huyidi"
         },
         "content": "You can use the Add Player command to add a new player to the League Tracker. +"
       },
       {
-        "lineNumber": 61,
+        "lineNumber": 63,
         "author": {
           "gitId": "-"
         },
         "content": ""
-      },
-      {
-        "lineNumber": 62,
-        "author": {
-          "gitId": "warheade"
-        },
-        "content": "Format ：`AddPlayer NAME p/POSITION a/AGE sal/SALARY gs/GOALS_SCORED ga/GOALS_ASSISTED tm/TEAM ctry/COUNTRY jn/JERSEY_NUMBER"
-      },
-      {
-        "lineNumber": 63,
-        "author": {
-          "gitId": "warheade"
-        },
-        "content": "app/APPEARANCE hs/HEALTHSTATUS t/TAGS`"
       },
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "Format ：`addPlayer NAME p/POSITION a/AGE sal/SALARY gs/GOALS_SCORED ga/GOALS_ASSISTED tm/TEAM ctry/COUNTRY jn/JERSEY_NUMBER"
       },
       {
         "lineNumber": 65,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Example: +"
+        "content": "app/APPEARANCE hs/HEALTHSTATUS t/TAGS`"
       },
       {
         "lineNumber": 66,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "Example: +"
+      },
+      {
+        "lineNumber": 68,
         "author": {
           "gitId": "warheade"
         },
         "content": "`AddPlayer Lionel Messi p/RW a/31 sal/0 gs/20 ga/20 tm/FC Barcelona ctry/Argentina jn/10 app/54 hs/Healthy`"
       },
       {
-        "lineNumber": 67,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "{empty} +"
-      },
-      {
-        "lineNumber": 68,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "{empty} +"
-      },
-      {
         "lineNumber": 69,
         "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
-        "content": ""
+        "content": "{empty} +"
       },
       {
         "lineNumber": 70,
         "author": {
-          "gitId": "warheade"
+          "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d\u003d *Quick-add Player*"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 71,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
-        "content": "As a full-detail AddPlayer Command requires numerous attribute inputs from users,"
+        "content": ""
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "warheade"
         },
-        "content": "League Tracker provides an alternative command to add player faster with less attribute input"
+        "content": "If the player has been successfully added, a success message will be displayed to the user with all attributes"
       },
       {
         "lineNumber": 73,
         "author": {
           "gitId": "warheade"
         },
-        "content": "needed from the user. You can use the AddFast Player command to add a new player to the League Tracker."
+        "content": "listed(see figure 3)"
       },
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
-        "content": "Only NAME, POSITION, AGE, SALARY, TEAM, COUNTRY, JERSEY_NUMBER and TAGS (optional) are needed as input."
+        "content": ""
       },
       {
         "lineNumber": 75,
         "author": {
           "gitId": "warheade"
         },
-        "content": "GOALS_SCORED,GOALS_ASSISTED,APPEARANCE and HEALTH_STATUS are set to default values (0,0,0 and Healthy)"
+        "content": ".Success Message displayed after adding a player"
       },
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "image::addSuccess.png[]"
       },
       {
         "lineNumber": 77,
@@ -8583,100 +8590,100 @@
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
-        "content": "Format ：`AddFast NAME p/POSITION a/AGE sal/SALARY tm/TEAM ctry/COUNTRY jn/JERSEY_NUMBER t/TAGS`"
+        "content": ""
       },
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d\u003d *Quick-add Player*"
       },
       {
         "lineNumber": 80,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Example: +"
+        "content": "As a full-detail AddPlayer Command requires numerous attribute inputs from users,"
       },
       {
         "lineNumber": 81,
         "author": {
           "gitId": "warheade"
         },
-        "content": "`AddFast Lionel Messi p/RW a/31 sal/0 tm/FC Barcelona ctry/Argentina jn/10`"
+        "content": "League Tracker provides an alternative command to add player faster with less attribute input"
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": "needed from the user. You can use the AddFast Player command to add a new player to the League Tracker."
       },
       {
         "lineNumber": 83,
         "author": {
           "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": "Only NAME, POSITION, AGE, SALARY, TEAM, COUNTRY, JERSEY_NUMBER and TAGS (optional) are needed as input."
       },
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "GOALS_SCORED,GOALS_ASSISTED,APPEARANCE and HEALTH_STATUS are set to default values (0,0,0 and Healthy)"
       },
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d\u003d *Delete Player By Index*"
+        "content": ""
       },
       {
         "lineNumber": 86,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
-        "content": "You can use the Delete Player command to delete an existing player in the League Tracker. +"
+        "content": ""
       },
       {
         "lineNumber": 87,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "Format ：`addFast NAME p/POSITION a/AGE sal/SALARY tm/TEAM ctry/COUNTRY jn/JERSEY_NUMBER t/TAGS`"
       },
       {
         "lineNumber": 88,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Format ：`delete Index`"
+        "content": ""
       },
       {
         "lineNumber": 89,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "Example: +"
       },
       {
         "lineNumber": 90,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Example: +"
+        "content": "`addFast Lionel Messi p/RW a/31 sal/0 tm/FC Barcelona ctry/Argentina jn/10`"
       },
       {
         "lineNumber": 91,
         "author": {
           "gitId": "warheade"
         },
-        "content": "`delete 1`"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 92,
@@ -8690,42 +8697,42 @@
         "author": {
           "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": ""
       },
       {
         "lineNumber": 94,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "If the player has been successfully added, a success message will be displayed to the user with all attributes listed"
       },
       {
         "lineNumber": 95,
         "author": {
           "gitId": "warheade"
         },
-        "content": "\u003d\u003d\u003d\u003d *Delete Player By Name and Team Name(coming in v1.4)*"
+        "content": "(including those that assume default values)(See figure 4)"
       },
       {
         "lineNumber": 96,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "warheade"
         },
-        "content": "You can use the Delete Player command to delete an existing player in the League Tracker. +"
+        "content": ""
       },
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": ".Success Message displayed after using addFast Command to add a player"
       },
       {
         "lineNumber": 98,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Format ：`deletePlayer NAME TEAM`"
+        "content": "image::addFastSuccess.png[]"
       },
       {
         "lineNumber": 99,
@@ -8739,173 +8746,173 @@
         "author": {
           "gitId": "warheade"
         },
-        "content": "Example: +"
+        "content": ""
       },
       {
         "lineNumber": 101,
         "author": {
           "gitId": "warheade"
         },
-        "content": "`delete Lionel Messi tm/FC Barcelona`"
+        "content": "\u003d\u003d\u003d\u003d *Delete Player By Index*"
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": "You can use the Delete Player command to delete an existing player in the League Tracker."
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": ""
       },
       {
         "lineNumber": 104,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "First do a `List` command to obtain the index of player in the league record. Then perform `Delete` command using this"
       },
       {
         "lineNumber": 105,
         "author": {
           "gitId": "warheade"
         },
-        "content": "\u003d\u003d\u003d\u003d *View Player Profile By Index*"
+        "content": "index."
       },
       {
         "lineNumber": 106,
         "author": {
           "gitId": "warheade"
         },
-        "content": "You can use the Display Player Profile command to display the whole profile of a selected player. +"
+        "content": ""
       },
       {
         "lineNumber": 107,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "Format ：`delete Index`"
       },
       {
         "lineNumber": 108,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Format ：`DisplayProfile Index`"
+        "content": ""
       },
       {
         "lineNumber": 109,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "Example:"
       },
       {
         "lineNumber": 110,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Example: +"
+        "content": ""
       },
       {
         "lineNumber": 111,
         "author": {
           "gitId": "warheade"
         },
-        "content": "`DisplayProfile 1`"
+        "content": "1. Do a list command to see the index of all players in the league record.(See figure 5)"
       },
       {
         "lineNumber": 112,
         "author": {
           "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": ""
       },
       {
         "lineNumber": 113,
         "author": {
           "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": ".Information of all players in the league record after executing the list command"
       },
       {
         "lineNumber": 114,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "image::delete_PlayerListed.png[]"
       },
       {
         "lineNumber": 115,
         "author": {
           "gitId": "warheade"
         },
-        "content": "\u003d\u003d\u003d\u003d *View Player Profile By Name and TeamName(coming in v1.4)*"
+        "content": ""
       },
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "You can use the Display Player Profile command to display the whole profile of a selected player. +"
+        "content": "2. Assume that the user wants to delete the player named \"Cristiano Ronaldo\" with index 2, the user just needs to input"
       },
       {
         "lineNumber": 117,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "`delete 2` as the delete command."
       },
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "E0176106"
-        },
-        "content": "Format ：`DisplayProfile NAME TEAM`"
-      },
-      {
-        "lineNumber": 119,
-        "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
         "content": ""
       },
       {
+        "lineNumber": 119,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "3. If successfully deleted, a message will be shown to the player(See figure 6)"
+      },
+      {
         "lineNumber": 120,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "Example: +"
+        "content": ""
       },
       {
         "lineNumber": 121,
         "author": {
           "gitId": "warheade"
         },
-        "content": "`DisplayProfile Lionel Messi tm/FC Barcelona`"
+        "content": ".Success Message displayed after using delete Command to delete a player"
       },
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": "image::deleteSuccess.png[]"
       },
       {
         "lineNumber": 123,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": ""
       },
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
         "content": ""
       },
@@ -8914,14 +8921,14 @@
         "author": {
           "gitId": "warheade"
         },
-        "content": "\u003d\u003d\u003d\u003d *Edit Player(coming in v1.4)*"
+        "content": "\u003d\u003d\u003d\u003d *Delete Player By Name and Team Name(coming in v1.4)*"
       },
       {
         "lineNumber": 126,
         "author": {
           "gitId": "huyidi"
         },
-        "content": "You can use the Edit Player command to edit information of an existing player in the League Tracker. +"
+        "content": "You can use the Delete Player command to delete an existing player in the League Tracker. +"
       },
       {
         "lineNumber": 127,
@@ -8935,35 +8942,35 @@
         "author": {
           "gitId": "warheade"
         },
-        "content": "Format ：`EditPlayer OLDNAME OLDTEAM POSITION AGE GENDER PENALTY GOALSSCORED GOALSASSISTED"
+        "content": "Format ：`deletePlayer NAME TEAM`"
       },
       {
         "lineNumber": 129,
         "author": {
           "gitId": "warheade"
         },
-        "content": "TEAM RANKINLEAGUE COUNTRY JERSEYNUMBER APPEARANCE HEALTHSTATUS`"
+        "content": ""
       },
       {
         "lineNumber": 130,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "Example: +"
       },
       {
         "lineNumber": 131,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Example: +"
+        "content": "`delete Lionel Messi tm/FC Barcelona`"
       },
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "warheade"
+          "gitId": "E0176106"
         },
-        "content": "`EditPlayer Lionel_Messi Real_Madrid RW 31 Male 0 20 20 FC_Barcelona 1 Argentina 10 20 Healthy`"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 133,
@@ -8975,58 +8982,58 @@
       {
         "lineNumber": 134,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": ""
       },
       {
         "lineNumber": 135,
         "author": {
           "gitId": "warheade"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d\u003d *View Player Profile By Index*"
       },
       {
         "lineNumber": 136,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "\u003d\u003d\u003d\u003d *List All Players*"
+        "content": "You can use the Display Player Profile command to display the whole profile of a selected player. +"
       },
       {
         "lineNumber": 137,
         "author": {
-          "gitId": "E0176106"
-        },
-        "content": "You can use the List All Player command to see the list of all players in the league. +"
-      },
-      {
-        "lineNumber": 138,
-        "author": {
-          "gitId": "huyidi"
+          "gitId": "warheade"
         },
         "content": ""
       },
       {
+        "lineNumber": 138,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "Format ：`viewall Index`"
+      },
+      {
         "lineNumber": 139,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "Format ：`ListAllPlayer`"
+        "content": ""
       },
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": "Example: +"
       },
       {
         "lineNumber": 141,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": "`viewall 1`"
       },
       {
         "lineNumber": 142,
@@ -9040,68 +9047,68 @@
         "author": {
           "gitId": "warheade"
         },
-        "content": "\u003d\u003d\u003d\u003d *List Player(not in v1.3)*"
+        "content": "If the player with the index exists, a success message will be displayed to the user containing all information"
       },
       {
         "lineNumber": 144,
         "author": {
           "gitId": "warheade"
         },
-        "content": "You can use the List Player command to see the list of players in a selected teamName. +"
+        "content": "regarding the player"
       },
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
         "content": ""
       },
       {
         "lineNumber": 146,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "Format ：`ListPlayer NameOfTeam` +"
+        "content": ".Success Message displayed to user with a viewAll Command by index"
       },
       {
         "lineNumber": 147,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "image::viewAllSuccess.png[]"
       },
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "Example: +"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 149,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "`ListPlayer Liverpool`"
+        "content": ""
       },
       {
         "lineNumber": 150,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": "\u003d\u003d\u003d\u003d *View Player Profile By Name and TeamName(coming in v1.4)*"
       },
       {
         "lineNumber": 151,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "{empty} +"
+        "content": "You can use the Display Player Profile command to display the whole profile of a selected player. +"
       },
       {
         "lineNumber": 152,
         "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
         "content": ""
       },
@@ -9110,105 +9117,105 @@
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d Teams"
+        "content": "Format ：`DisplayProfile NAME TEAM`"
       },
       {
         "lineNumber": 154,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "The teams feature in the application helps you to manage information of football teams in the league. "
+        "content": ""
       },
       {
         "lineNumber": 155,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "{empty} +"
+        "content": "Example: +"
       },
       {
         "lineNumber": 156,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": "`DisplayProfile Lionel Messi tm/FC Barcelona`"
       },
       {
         "lineNumber": 157,
         "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
-        "content": ""
+        "content": "{empty} +"
       },
       {
         "lineNumber": 158,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d\u003d *Add Team*"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 159,
         "author": {
-          "gitId": "warheade"
-        },
-        "content": "You can use the Add Team command to add a new teamName to the League Tracker. +"
-      },
-      {
-        "lineNumber": 160,
-        "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
         "content": ""
       },
       {
+        "lineNumber": 160,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "\u003d\u003d\u003d\u003d *Edit Player(coming in v1.4)*"
+      },
+      {
         "lineNumber": 161,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "Format : `AddTeam NAME c/COUNTRY g/GOAL SCORED p/POINTS`"
+        "content": "You can use the Edit Player command to edit information of an existing player in the League Tracker. +"
       },
       {
         "lineNumber": 162,
         "author": {
-          "gitId": "-"
+          "gitId": "huyidi"
         },
         "content": ""
       },
       {
         "lineNumber": 163,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "Example: +"
+        "content": "Format ：`EditPlayer OLDNAME OLDTEAM POSITION AGE GENDER PENALTY GOALSSCORED GOALSASSISTED"
       },
       {
         "lineNumber": 164,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "warheade"
         },
-        "content": " `AddTeam Liverpool c/United Kingdom g/64 p/70` +"
+        "content": "TEAM RANKINLEAGUE COUNTRY JERSEYNUMBER APPEARANCE HEALTHSTATUS`"
       },
       {
         "lineNumber": 165,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": " "
+        "content": ""
       },
       {
         "lineNumber": 166,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Adds a new teamName with the specified details."
+        "content": "Example: +"
       },
       {
         "lineNumber": 167,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": "`EditPlayer Lionel_Messi Real_Madrid RW 31 Male 0 20 20 FC_Barcelona 1 Argentina 10 20 Healthy`"
       },
       {
         "lineNumber": 168,
@@ -9220,100 +9227,100 @@
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
-        "content": ""
+        "content": "{empty} +"
       },
       {
         "lineNumber": 170,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d\u003d *Delete Team*"
+        "content": ""
       },
       {
         "lineNumber": 171,
         "author": {
           "gitId": "warheade"
         },
-        "content": "You can use the Delete Team command to delete an existing teamName from League Tracker. +"
+        "content": "\u003d\u003d\u003d\u003d *List All Players in the league*"
       },
       {
         "lineNumber": 172,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "You can use the `list` command to see the list of all players in the league. +"
       },
       {
         "lineNumber": 173,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "Format : `DelTeam INDEX`"
+        "content": ""
       },
       {
         "lineNumber": 174,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "Format ：`list`"
       },
       {
         "lineNumber": 175,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "Example: +"
+        "content": ""
       },
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "A list of all players\u0027 information will be displayed following the command.(See figure 8)"
       },
       {
         "lineNumber": 177,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "* `ListTeam` +"
+        "content": ""
       },
       {
         "lineNumber": 178,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "* `DelTeam 1` +"
+        "content": ".Successful output of a list Command"
       },
       {
         "lineNumber": 179,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "image::listSuccess.png[]"
+      },
+      {
+        "lineNumber": 180,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 180,
+        "lineNumber": 181,
         "author": {
           "gitId": "warheade"
         },
-        "content": "Deletes the 1st teamName in the teamName list."
-      },
-      {
-        "lineNumber": 181,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "{empty} +"
+        "content": "\u003d\u003d\u003d\u003d *List Players in a team(not in v1.3)*"
       },
       {
         "lineNumber": 182,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": "You can use the List Player command to see the list of players in a selected teamName. +"
       },
       {
         "lineNumber": 183,
@@ -9327,56 +9334,56 @@
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d\u003d *Edit Team*"
+        "content": "Format ：`ListPlayer NameOfTeam` +"
       },
       {
         "lineNumber": 185,
         "author": {
-          "gitId": "warheade"
+          "gitId": "-"
         },
-        "content": "You can use the Edit Team command to edit information of a teamName in League Tracker. +"
+        "content": ""
       },
       {
         "lineNumber": 186,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Format : `EditTeam INDEX [c/COUNTRY] [g/GOAL SCORED] [p/POINTS]`"
+        "content": "Example: +"
       },
       {
         "lineNumber": 187,
         "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
-        "content": ""
+        "content": "`ListPlayer Liverpool`"
       },
       {
         "lineNumber": 188,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Example: +"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 189,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "{empty} +"
+      },
+      {
+        "lineNumber": 190,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 190,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "* `ListTeam` +"
-      },
-      {
         "lineNumber": 191,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "* `EditTeam 1 c/Singapore` +"
+        "content": ""
       },
       {
         "lineNumber": 192,
@@ -9388,16 +9395,16 @@
       {
         "lineNumber": 193,
         "author": {
-          "gitId": "warheade"
+          "gitId": "E0176106"
         },
-        "content": "Edits the nationality of the 1st teamName in the teamName list to Singapore."
+        "content": "\u003d\u003d\u003d Teams"
       },
       {
         "lineNumber": 194,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "{empty} +"
+        "content": "The teams feature in the application helps you to manage information of football teams in the league. "
       },
       {
         "lineNumber": 195,
@@ -9409,79 +9416,79 @@
       {
         "lineNumber": 196,
         "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
-        "content": ""
+        "content": "{empty} +"
       },
       {
         "lineNumber": 197,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d\u003d *List Team*"
+        "content": ""
       },
       {
         "lineNumber": 198,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "You can use the list Team command to see the list of all current teams in the league. +"
+        "content": "\u003d\u003d\u003d\u003d *Add Team*"
       },
       {
         "lineNumber": 199,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "You can use the Add Team command to add a new teamName to the League Tracker. +"
       },
       {
         "lineNumber": 200,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "Format : `ListTeam`"
+        "content": ""
       },
       {
         "lineNumber": 201,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "{empty} +"
+        "content": "Format : `AddTeam NAME c/COUNTRY g/GOAL SCORED p/POINTS`"
       },
       {
         "lineNumber": 202,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "{empty} +"
-      },
-      {
-        "lineNumber": 203,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 204,
+        "lineNumber": 203,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d Matches"
+        "content": "Example: +"
+      },
+      {
+        "lineNumber": 204,
+        "author": {
+          "gitId": "huyidi"
+        },
+        "content": " `AddTeam Liverpool c/United Kingdom g/64 p/70` +"
       },
       {
         "lineNumber": 205,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "The Match Schedule Feature in the application helps you to manage information of matches in the league. "
+        "content": " "
       },
       {
         "lineNumber": 206,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": "Adds a new teamName with the specified details."
       },
       {
         "lineNumber": 207,
@@ -9493,107 +9500,107 @@
       {
         "lineNumber": 208,
         "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
-        "content": ""
+        "content": "{empty} +"
       },
       {
         "lineNumber": 209,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d\u003d *Add Matches*"
+        "content": ""
       },
       {
         "lineNumber": 210,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "You can use the Add Matches command to add a new match to the League Tracker. +"
+        "content": "\u003d\u003d\u003d\u003d *Delete Team*"
       },
       {
         "lineNumber": 211,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "You can use the Delete Team command to delete an existing teamName from League Tracker. +"
       },
       {
         "lineNumber": 212,
         "author": {
-          "gitId": "E0176106"
-        },
-        "content": "Format : `AddMatch dd/mm/yyyy h/hometeam a/awayteam`"
-      },
-      {
-        "lineNumber": 213,
-        "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
+        "lineNumber": 213,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Format : `DelTeam INDEX`"
+      },
+      {
         "lineNumber": 214,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
-        "content": "Example: +"
+        "content": ""
       },
       {
         "lineNumber": 215,
         "author": {
           "gitId": "E0176106"
         },
-        "content": " `AddMatch 28/02/2019 h/Fulham a/Chelsea` +"
+        "content": "Example: +"
       },
       {
         "lineNumber": 216,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "-"
         },
-        "content": " "
+        "content": ""
       },
       {
         "lineNumber": 217,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Adds a new match with the specified details."
+        "content": "* `ListTeam` +"
       },
       {
         "lineNumber": 218,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "{empty} +"
+        "content": "* `DelTeam 1` +"
       },
       {
         "lineNumber": 219,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "{empty} +"
+        "content": ""
       },
       {
         "lineNumber": 220,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": " "
+        "content": "Deletes the 1st teamName in the teamName list."
       },
       {
         "lineNumber": 221,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d\u003d *Delete Matches*"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 222,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "You can use the Delete Matches command to delete an existing match from League Tracker. +"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 223,
@@ -9607,21 +9614,21 @@
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Format : `DeleteMatch INDEX`"
+        "content": "\u003d\u003d\u003d\u003d *Edit Team*"
       },
       {
         "lineNumber": 225,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "You can use the Edit Team command to edit information of a teamName in League Tracker. +"
       },
       {
         "lineNumber": 226,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "E0176106"
         },
-        "content": "Example: +"
+        "content": "Format : `EditTeam INDEX [c/COUNTRY] [g/GOAL SCORED] [p/POINTS]`"
       },
       {
         "lineNumber": 227,
@@ -9635,166 +9642,166 @@
         "author": {
           "gitId": "E0176106"
         },
-        "content": "* `ListMatches` +"
+        "content": "Example: +"
       },
       {
         "lineNumber": 229,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "* `DeleteMatch 1` +"
-      },
-      {
-        "lineNumber": 230,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
+        "lineNumber": 230,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "* `ListTeam` +"
+      },
+      {
         "lineNumber": 231,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Deletes the 1st match in the match list."
+        "content": "* `EditTeam 1 c/Singapore` +"
       },
       {
         "lineNumber": 232,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "{empty} +"
+        "content": ""
       },
       {
         "lineNumber": 233,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "warheade"
         },
-        "content": "{empty} +"
+        "content": "Edits the nationality of the 1st teamName in the teamName list to Singapore."
       },
       {
         "lineNumber": 234,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "E0176106"
         },
-        "content": ""
+        "content": "{empty} +"
       },
       {
         "lineNumber": 235,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d\u003d *List Matches*"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 236,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "You can use the List Matches command to see the list of all matches in the current league. +"
+        "content": ""
       },
       {
         "lineNumber": 237,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "E0176106"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d\u003d *List Team*"
       },
       {
         "lineNumber": 238,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Format : `ListMatches`"
+        "content": "You can use the list Team command to see the list of all current teams in the league. +"
       },
       {
         "lineNumber": 239,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "-"
         },
-        "content": "{empty} +"
+        "content": ""
       },
       {
         "lineNumber": 240,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "{empty} +"
+        "content": "Format : `ListTeam`"
       },
       {
         "lineNumber": 241,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ""
+        "content": "{empty} +"
       },
       {
         "lineNumber": 242,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d Finance"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 243,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "The Finance Feature in the application helps you to manage and keep track of financial conditions in the league."
-      },
-      {
-        "lineNumber": 244,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "{empty} +"
-      },
-      {
-        "lineNumber": 245,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "{empty} +"
-      },
-      {
-        "lineNumber": 246,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 247,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "\u003d\u003d\u003d\u003d *Get League Finance*"
-      },
-      {
-        "lineNumber": 248,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "You can use the Get League Finance command to view the total financial income in USD of the league. +"
-      },
-      {
-        "lineNumber": 249,
         "author": {
           "gitId": "huyidi"
         },
         "content": ""
       },
       {
+        "lineNumber": 244,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "\u003d\u003d\u003d Matches"
+      },
+      {
+        "lineNumber": 245,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "The Match Schedule Feature in the application helps you to manage information of matches in the league. "
+      },
+      {
+        "lineNumber": 246,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "{empty} +"
+      },
+      {
+        "lineNumber": 247,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "{empty} +"
+      },
+      {
+        "lineNumber": 248,
+        "author": {
+          "gitId": "huyidi"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 249,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "\u003d\u003d\u003d\u003d *Add Matches*"
+      },
+      {
         "lineNumber": 250,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Format : `GetLeagueFinance`"
+        "content": "You can use the Add Matches command to add a new match to the League Tracker. +"
       },
       {
         "lineNumber": 251,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
         "content": ""
       },
@@ -9803,82 +9810,82 @@
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Example: +"
+        "content": "Format : `addmatch dd/mm/yyyy h/hometeam a/awayteam`"
       },
       {
         "lineNumber": 253,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "`GetLeagueFinance`"
-      },
-      {
-        "lineNumber": 254,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "{empty} +"
-      },
-      {
-        "lineNumber": 255,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "{empty} +"
-      },
-      {
-        "lineNumber": 256,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 257,
-        "author": {
-          "gitId": "E0176106"
-        },
-        "content": "\u003d\u003d\u003d\u003d *Get Team Finance*"
-      },
-      {
-        "lineNumber": 258,
-        "author": {
-          "gitId": "warheade"
-        },
-        "content": "You can use the Get Team Finance command to view the financial condition in USD of a selected teamName in League Tracker. +"
-      },
-      {
-        "lineNumber": 259,
         "author": {
           "gitId": "huyidi"
         },
         "content": ""
       },
       {
-        "lineNumber": 260,
+        "lineNumber": 254,
+        "author": {
+          "gitId": "huyidi"
+        },
+        "content": "Example: +"
+      },
+      {
+        "lineNumber": 255,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Format : `GetTeamFinance INDEX`"
+        "content": " `addmatch 28/02/2019 h/Fulham a/Chelsea` +"
+      },
+      {
+        "lineNumber": 256,
+        "author": {
+          "gitId": "huyidi"
+        },
+        "content": " "
+      },
+      {
+        "lineNumber": 257,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Adds a new match with the specified details."
+      },
+      {
+        "lineNumber": 258,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "{empty} +"
+      },
+      {
+        "lineNumber": 259,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "{empty} +"
+      },
+      {
+        "lineNumber": 260,
+        "author": {
+          "gitId": "-"
+        },
+        "content": " "
       },
       {
         "lineNumber": 261,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d\u003d *Delete Matches*"
       },
       {
         "lineNumber": 262,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Example: +"
+        "content": "You can use the Delete Matches command to delete an existing match from League Tracker. +"
       },
       {
         "lineNumber": 263,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
         "content": ""
       },
@@ -9887,145 +9894,145 @@
         "author": {
           "gitId": "E0176106"
         },
-        "content": "* `ListTeam` +"
+        "content": "Format : `deletematch INDEX`"
       },
       {
         "lineNumber": 265,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "* `GetTeamFinance 1`"
+        "content": ""
       },
       {
         "lineNumber": 266,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "{empty} +"
+        "content": "Example: +"
       },
       {
         "lineNumber": 267,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "{empty} +"
+        "content": ""
       },
       {
         "lineNumber": 268,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ""
+        "content": "* `listmatch` +"
       },
       {
         "lineNumber": 269,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d\u003d *List Team Finance*"
+        "content": "* `deletematch 1` +"
       },
       {
         "lineNumber": 270,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "You can use the List Team Finance command to view the list of financial condition in USD of all Teams in the league. +"
+        "content": ""
       },
       {
         "lineNumber": 271,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ""
+        "content": "Deletes the 1st match in the match list."
       },
       {
         "lineNumber": 272,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Format : `ListTeamFinance`"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 273,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ""
+        "content": "{empty} +"
       },
       {
         "lineNumber": 274,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "Example: +"
+        "content": ""
       },
       {
         "lineNumber": 275,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "`ListTeamFinance` +"
+        "content": "\u003d\u003d\u003d\u003d *List Matches*"
       },
       {
         "lineNumber": 276,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ""
+        "content": "You can use the List Matches command to see the list of all matches in the current league. +"
       },
       {
         "lineNumber": 277,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "\u003d\u003d Exiting the program"
+        "content": ""
       },
       {
         "lineNumber": 278,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ""
+        "content": "Format : `listmatch`"
       },
       {
         "lineNumber": 279,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "You can use the Exit command to exit the program. +"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 280,
         "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
-        "content": ""
+        "content": "{empty} +"
       },
       {
         "lineNumber": 281,
         "author": {
-          "gitId": "-"
-        },
-        "content": "Format: `exit`"
-      },
-      {
-        "lineNumber": 282,
-        "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
         "content": ""
       },
       {
+        "lineNumber": 282,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "\u003d\u003d\u003d\u003d *Update Matches*"
+      },
+      {
         "lineNumber": 283,
         "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
-        "content": "\u003d\u003d Saving the data"
+        "content": "You can use the Update Matches command to update the outcome of an existing match in League Tracker. +"
       },
       {
         "lineNumber": 284,
         "author": {
-          "gitId": "-"
+          "gitId": "E0176106"
         },
         "content": ""
       },
@@ -10034,7 +10041,7 @@
         "author": {
           "gitId": "E0176106"
         },
-        "content": "League tracker data are saved in the hard disk automatically after any command that changes the data."
+        "content": "Format : `updatematch INDEX h/homerevenue a/awayrevenue g/goalscorer o/owngoalscorer`"
       },
       {
         "lineNumber": 286,
@@ -10046,9 +10053,9 @@
       {
         "lineNumber": 287,
         "author": {
-          "gitId": "huyidi"
+          "gitId": "E0176106"
         },
-        "content": "You do not need to save data manually. League tracker data are saved in a file called `leaguetracker.txt` in the project root folder."
+        "content": "Example: +"
       },
       {
         "lineNumber": 288,
@@ -10062,112 +10069,112 @@
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d FAQ"
+        "content": "* `listmatch` +"
       },
       {
         "lineNumber": 290,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ""
+        "content": "* `updatematch 1 h/200 a/100 g/Gonzalo Higuain g/Calum Chambers o/Tim Ream` +"
       },
       {
         "lineNumber": 291,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "*Q: How do I transfer my data to another Computer?* +"
+        "content": ""
       },
       {
         "lineNumber": 292,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ""
+        "content": "Updates the 1st match in the match list with specified match results."
       },
       {
         "lineNumber": 293,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "A: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous LeagueTracker folder."
+        "content": "{empty} +"
       },
       {
         "lineNumber": 294,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ""
+        "content": "{empty} +"
       },
       {
         "lineNumber": 295,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d Command Summary"
+        "content": ""
       },
       {
         "lineNumber": 296,
         "author": {
           "gitId": "E0176106"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d Finance"
       },
       {
         "lineNumber": 297,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d Players"
+        "content": "The Finance Feature in the application helps you to manage and keep track of financial conditions in the league."
       },
       {
         "lineNumber": 298,
         "author": {
-          "gitId": "warheade"
+          "gitId": "E0176106"
         },
-        "content": ""
+        "content": "{empty} +"
       },
       {
         "lineNumber": 299,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Add a Player to League : `AddPlayer` +"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 300,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Delete a Player from League : `DeletePlayer` +"
+        "content": ""
       },
       {
         "lineNumber": 301,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Display a Player\u0027s Profile : `DisplayProfile` +"
+        "content": "\u003d\u003d\u003d\u003d *Get League Finance*"
       },
       {
         "lineNumber": 302,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Edit a Player\u0027s Profile : `EditPlayer` +"
+        "content": "You can use the Get League Finance command to view the total financial income in USD of the league. +"
       },
       {
         "lineNumber": 303,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "List all Players in the league : `ListAllPlayer` +"
+        "content": ""
       },
       {
         "lineNumber": 304,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "List Players in a Team : `ListPlayer`"
+        "content": "Format : `getLeagueFinance`"
       },
       {
         "lineNumber": 305,
@@ -10181,77 +10188,77 @@
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d Teams"
+        "content": "Example: +"
       },
       {
         "lineNumber": 307,
         "author": {
           "gitId": "huyidi"
         },
-        "content": ""
+        "content": "`getLeagueFinance`"
       },
       {
         "lineNumber": 308,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Add Team to League : `AddTeam` +"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 309,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Delete Team from League : `DelTeam` +"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 310,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Edit Team\u0027s Profile : `EditTeam` +"
+        "content": ""
       },
       {
         "lineNumber": 311,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "List Team in League : `ListTeam`"
+        "content": "\u003d\u003d\u003d\u003d *Get Team Finance*"
       },
       {
         "lineNumber": 312,
         "author": {
-          "gitId": "-"
+          "gitId": "warheade"
         },
-        "content": ""
+        "content": "You can use the Get Team Finance command to view the financial condition in USD of a selected teamName in League Tracker. +"
       },
       {
         "lineNumber": 313,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "\u003d\u003d\u003d Match Schedule"
+        "content": ""
       },
       {
         "lineNumber": 314,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "Add Match to League : `AddMatch` +"
+        "content": "Format : `finance INDEX`"
       },
       {
         "lineNumber": 315,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Delete Match from League : `DeleteMatch` +"
+        "content": ""
       },
       {
         "lineNumber": 316,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "List Matches in League : `ListMatches`"
+        "content": "Example: +"
       },
       {
         "lineNumber": 317,
@@ -10265,41 +10272,412 @@
         "author": {
           "gitId": "E0176106"
         },
-        "content": "\u003d\u003d\u003d Finance"
+        "content": "* `ListTeam` +"
       },
       {
         "lineNumber": 319,
         "author": {
-          "gitId": "E0176106"
+          "gitId": "huyidi"
         },
-        "content": "Get League Finance : `GetLeagueFinance` +"
+        "content": "* `finance 1`"
       },
       {
         "lineNumber": 320,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "Get Team Finance : `GetTeamFinance` +"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 321,
         "author": {
           "gitId": "E0176106"
         },
-        "content": "List Team Finance : `ListTeamFinance`"
+        "content": "{empty} +"
       },
       {
         "lineNumber": 322,
         "author": {
+          "gitId": "E0176106"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 323,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "\u003d\u003d\u003d\u003d *List Team Finance*"
+      },
+      {
+        "lineNumber": 324,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "You can use the List Team Finance command to view the list of financial condition in USD of all Teams in the league. +"
+      },
+      {
+        "lineNumber": 325,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 326,
+        "author": {
+          "gitId": "huyidi"
+        },
+        "content": "Format : `listFinance`"
+      },
+      {
+        "lineNumber": 327,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 328,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Example: +"
+      },
+      {
+        "lineNumber": 329,
+        "author": {
+          "gitId": "huyidi"
+        },
+        "content": "`listFinance` +"
+      },
+      {
+        "lineNumber": 330,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 331,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "\u003d\u003d Exiting the program"
+      },
+      {
+        "lineNumber": 332,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 333,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "You can use the Exit command to exit the program. +"
+      },
+      {
+        "lineNumber": 334,
+        "author": {
           "gitId": "-"
         },
         "content": ""
+      },
+      {
+        "lineNumber": 335,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Format: `exit`"
+      },
+      {
+        "lineNumber": 336,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 337,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d Saving the data"
+      },
+      {
+        "lineNumber": 338,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 339,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "League tracker data are saved in the hard disk automatically after any command that changes the data."
+      },
+      {
+        "lineNumber": 340,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 341,
+        "author": {
+          "gitId": "huyidi"
+        },
+        "content": "You do not need to save data manually. League tracker data are saved in a file called `leaguetracker.txt` in the project root folder."
+      },
+      {
+        "lineNumber": 342,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 343,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "\u003d\u003d FAQ"
+      },
+      {
+        "lineNumber": 344,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 345,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "*Q: How do I transfer my data to another Computer?* +"
+      },
+      {
+        "lineNumber": 346,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 347,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "A: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous LeagueTracker folder."
+      },
+      {
+        "lineNumber": 348,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 349,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "\u003d\u003d Command Summary"
+      },
+      {
+        "lineNumber": 350,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 351,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "\u003d\u003d\u003d Players"
+      },
+      {
+        "lineNumber": 352,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 353,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Add a Player to League : `AddPlayer` +"
+      },
+      {
+        "lineNumber": 354,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Delete a Player from League : `DeletePlayer` +"
+      },
+      {
+        "lineNumber": 355,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Display a Player\u0027s Profile : `DisplayProfile` +"
+      },
+      {
+        "lineNumber": 356,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Edit a Player\u0027s Profile : `EditPlayer` +"
+      },
+      {
+        "lineNumber": 357,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "List all Players in the league : `ListAllPlayer` +"
+      },
+      {
+        "lineNumber": 358,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "List Players in a Team : `ListPlayer`"
+      },
+      {
+        "lineNumber": 359,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 360,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "\u003d\u003d\u003d Teams"
+      },
+      {
+        "lineNumber": 361,
+        "author": {
+          "gitId": "huyidi"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 362,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Add Team to League : `AddTeam` +"
+      },
+      {
+        "lineNumber": 363,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Delete Team from League : `DelTeam` +"
+      },
+      {
+        "lineNumber": 364,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Edit Team\u0027s Profile : `EditTeam` +"
+      },
+      {
+        "lineNumber": 365,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "List Team in League : `ListTeam`"
+      },
+      {
+        "lineNumber": 366,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 367,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "\u003d\u003d\u003d Match Schedule"
+      },
+      {
+        "lineNumber": 368,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Add Match to League : `AddMatch` +"
+      },
+      {
+        "lineNumber": 369,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Delete Match from League : `DeleteMatch` +"
+      },
+      {
+        "lineNumber": 370,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "List Matches in League : `ListMatches`"
+      },
+      {
+        "lineNumber": 371,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 372,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "\u003d\u003d\u003d Finance"
+      },
+      {
+        "lineNumber": 373,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Get League Finance : `GetLeagueFinance` +"
+      },
+      {
+        "lineNumber": 374,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "Get Team Finance : `GetTeamFinance` +"
+      },
+      {
+        "lineNumber": 375,
+        "author": {
+          "gitId": "E0176106"
+        },
+        "content": "List Team Finance : `ListTeamFinance`"
       }
     ],
     "authorContributionMap": {
-      "huyidi": 21,
-      "warheade": 61,
-      "E0176106": 173,
+      "huyidi": 34,
+      "warheade": 100,
+      "E0176106": 174,
       "-": 67
     }
   },
@@ -10346,28 +10724,28 @@
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003cage\u003e30\u003c/age\u003e"
+        "content": "        \u003cage\u003e31\u003c/age\u003e"
       },
       {
         "lineNumber": 7,
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003csalary\u003e200\u003c/salary\u003e"
+        "content": "        \u003csalary\u003e0\u003c/salary\u003e"
       },
       {
         "lineNumber": 8,
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003cgoalsScored\u003e30\u003c/goalsScored\u003e"
+        "content": "        \u003cgoalsScored\u003e0\u003c/goalsScored\u003e"
       },
       {
         "lineNumber": 9,
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003cgoalsAssisted\u003e20\u003c/goalsAssisted\u003e"
+        "content": "        \u003cgoalsAssisted\u003e0\u003c/goalsAssisted\u003e"
       },
       {
         "lineNumber": 10,
@@ -10395,7 +10773,7 @@
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003cappearance\u003e54\u003c/appearance\u003e"
+        "content": "        \u003cappearance\u003e0\u003c/appearance\u003e"
       },
       {
         "lineNumber": 14,
@@ -10423,7 +10801,7 @@
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003cname\u003eLuis Suarez\u003c/name\u003e"
+        "content": "        \u003cname\u003eCristiano Ronaldo\u003c/name\u003e"
       },
       {
         "lineNumber": 18,
@@ -10437,56 +10815,56 @@
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003cage\u003e32\u003c/age\u003e"
+        "content": "        \u003cage\u003e33\u003c/age\u003e"
       },
       {
         "lineNumber": 20,
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003csalary\u003e200\u003c/salary\u003e"
+        "content": "        \u003csalary\u003e10\u003c/salary\u003e"
       },
       {
         "lineNumber": 21,
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003cgoalsScored\u003e30\u003c/goalsScored\u003e"
+        "content": "        \u003cgoalsScored\u003e0\u003c/goalsScored\u003e"
       },
       {
         "lineNumber": 22,
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003cgoalsAssisted\u003e20\u003c/goalsAssisted\u003e"
+        "content": "        \u003cgoalsAssisted\u003e0\u003c/goalsAssisted\u003e"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003cteamName\u003eFC Barcelona\u003c/teamName\u003e"
+        "content": "        \u003cteamName\u003eJuventus\u003c/teamName\u003e"
       },
       {
         "lineNumber": 24,
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003cnationality\u003eUruguay\u003c/nationality\u003e"
+        "content": "        \u003cnationality\u003ePortugal\u003c/nationality\u003e"
       },
       {
         "lineNumber": 25,
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003cjerseyNumber\u003e9\u003c/jerseyNumber\u003e"
+        "content": "        \u003cjerseyNumber\u003e7\u003c/jerseyNumber\u003e"
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "warheade"
         },
-        "content": "        \u003cappearance\u003e54\u003c/appearance\u003e"
+        "content": "        \u003cappearance\u003e0\u003c/appearance\u003e"
       },
       {
         "lineNumber": 27,
@@ -10505,159 +10883,250 @@
       {
         "lineNumber": 29,
         "author": {
+          "gitId": "warheade"
+        },
+        "content": "    \u003cplayers\u003e"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003cname\u003eWu Lei\u003c/name\u003e"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003cposition\u003eStriker\u003c/position\u003e"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003cage\u003e27\u003c/age\u003e"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003csalary\u003e100\u003c/salary\u003e"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003cgoalsScored\u003e0\u003c/goalsScored\u003e"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003cgoalsAssisted\u003e0\u003c/goalsAssisted\u003e"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003cteamName\u003eEspanoyl\u003c/teamName\u003e"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003cnationality\u003eChina\u003c/nationality\u003e"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003cjerseyNumber\u003e24\u003c/jerseyNumber\u003e"
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003cappearance\u003e0\u003c/appearance\u003e"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003chealthStatus\u003eHealthy\u003c/healthStatus\u003e"
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "    \u003c/players\u003e"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "    \u003cteams\u003e"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003cname\u003eSingapore United\u003c/name\u003e"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003ccountry\u003eSingapore\u003c/country\u003e"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003csponsor\u003e5487\u003c/sponsor\u003e"
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "        \u003ctagged\u003eLousy\u003c/tagged\u003e"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "warheade"
+        },
+        "content": "    \u003c/teams\u003e"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
           "gitId": "E0176106"
         },
         "content": "    \u003cmatches\u003e"
       },
       {
-        "lineNumber": 30,
+        "lineNumber": 49,
         "author": {
           "gitId": "E0176106"
         },
         "content": "        \u003cdate\u003e19 MAR 2019\u003c/date\u003e"
       },
       {
-        "lineNumber": 31,
+        "lineNumber": 50,
         "author": {
           "gitId": "E0176106"
         },
         "content": "        \u003chome\u003eEast Ham\u003c/home\u003e"
       },
       {
-        "lineNumber": 32,
+        "lineNumber": 51,
         "author": {
           "gitId": "E0176106"
         },
         "content": "        \u003caway\u003ePuddingfield\u003c/away\u003e"
       },
       {
-        "lineNumber": 33,
+        "lineNumber": 52,
         "author": {
           "gitId": "E0176106"
         },
         "content": "        \u003chomeSales\u003e\u003c/homeSales\u003e"
       },
       {
-        "lineNumber": 34,
+        "lineNumber": 53,
         "author": {
           "gitId": "E0176106"
         },
         "content": "        \u003cawaySales\u003e\u003c/awaySales\u003e"
       },
       {
-        "lineNumber": 35,
+        "lineNumber": 54,
         "author": {
           "gitId": "E0176106"
         },
         "content": "    \u003c/matches\u003e"
       },
       {
-        "lineNumber": 36,
+        "lineNumber": 55,
         "author": {
           "gitId": "E0176106"
         },
         "content": "    \u003cmatches\u003e"
       },
       {
-        "lineNumber": 37,
+        "lineNumber": 56,
         "author": {
           "gitId": "E0176106"
         },
         "content": "        \u003cdate\u003e17 MAR 2019\u003c/date\u003e"
       },
       {
-        "lineNumber": 38,
+        "lineNumber": 57,
         "author": {
           "gitId": "E0176106"
         },
         "content": "        \u003chome\u003eWest Ham\u003c/home\u003e"
       },
       {
-        "lineNumber": 39,
+        "lineNumber": 58,
         "author": {
           "gitId": "E0176106"
         },
         "content": "        \u003caway\u003eHuddersfield\u003c/away\u003e"
       },
       {
-        "lineNumber": 40,
+        "lineNumber": 59,
         "author": {
           "gitId": "E0176106"
         },
         "content": "        \u003chomeSales\u003e504\u003c/homeSales\u003e"
       },
       {
-        "lineNumber": 41,
+        "lineNumber": 60,
         "author": {
           "gitId": "E0176106"
         },
         "content": "        \u003cawaySales\u003e1023\u003c/awaySales\u003e"
       },
       {
-        "lineNumber": 42,
+        "lineNumber": 61,
         "author": {
           "gitId": "E0176106"
         },
         "content": "        \u003cgoalScored\u003eMario Bale\u003c/goalScored\u003e"
       },
       {
-        "lineNumber": 43,
+        "lineNumber": 62,
         "author": {
           "gitId": "E0176106"
         },
         "content": "        \u003cownGoalScored\u003eLuigi\u003c/ownGoalScored\u003e"
       },
       {
-        "lineNumber": 44,
+        "lineNumber": 63,
         "author": {
           "gitId": "E0176106"
         },
         "content": "    \u003c/matches\u003e"
       },
       {
-        "lineNumber": 45,
-        "author": {
-          "gitId": "huyidi"
-        },
-        "content": "    \u003cteams\u003e"
-      },
-      {
-        "lineNumber": 46,
-        "author": {
-          "gitId": "huyidi"
-        },
-        "content": "        \u003cname\u003eSingapore United\u003c/name\u003e"
-      },
-      {
-        "lineNumber": 47,
-        "author": {
-          "gitId": "huyidi"
-        },
-        "content": "        \u003ccountry\u003eSingapore\u003c/country\u003e"
-      },
-      {
-        "lineNumber": 48,
-        "author": {
-          "gitId": "huyidi"
-        },
-        "content": "        \u003csponsor\u003e5487\u003c/sponsor\u003e"
-      },
-      {
-        "lineNumber": 49,
-        "author": {
-          "gitId": "huyidi"
-        },
-        "content": "        \u003ctagged\u003eLousy\u003c/tagged\u003e"
-      },
-      {
-        "lineNumber": 50,
-        "author": {
-          "gitId": "huyidi"
-        },
-        "content": "    \u003c/teams\u003e"
-      },
-      {
-        "lineNumber": 51,
+        "lineNumber": 64,
         "author": {
           "gitId": "warheade"
         },
@@ -10665,8 +11134,7 @@
       }
     ],
     "authorContributionMap": {
-      "huyidi": 6,
-      "warheade": 29,
+      "warheade": 48,
       "E0176106": 16
     }
   },
@@ -24658,7 +25126,7 @@
         "author": {
           "gitId": "huyidi"
         },
-        "content": "        double yOneToFitHeight \u003d (yOne / maxAmongFour) * 9;"
+        "content": "        double yOneToFitHeight \u003d (yOne / maxAmongFour) * 8;"
       },
       {
         "lineNumber": 39,
@@ -24672,7 +25140,7 @@
         "author": {
           "gitId": "huyidi"
         },
-        "content": "        double yTwoToFitHeight \u003d (yTwo / maxAmongFour) * 9;"
+        "content": "        double yTwoToFitHeight \u003d (yTwo / maxAmongFour) * 8;"
       },
       {
         "lineNumber": 41,
@@ -24686,7 +25154,7 @@
         "author": {
           "gitId": "huyidi"
         },
-        "content": "        double yThreeToFitHeight \u003d (yThree / maxAmongFour) * 9;"
+        "content": "        double yThreeToFitHeight \u003d (yThree / maxAmongFour) * 8;"
       },
       {
         "lineNumber": 43,
@@ -24700,7 +25168,7 @@
         "author": {
           "gitId": "huyidi"
         },
-        "content": "        double yFourToFitHeight \u003d (yFour / maxAmongFour) * 9;"
+        "content": "        double yFourToFitHeight \u003d (yFour / maxAmongFour) * 8;"
       },
       {
         "lineNumber": 45,

@@ -618,6 +618,18 @@
         "deletions": 0,
         "date": "2019-04-01",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
       }
     ],
     "ssunil3232": [
@@ -1120,9 +1132,52 @@
         ]
       },
       {
+        "insertions": 28,
+        "deletions": 3,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "81573cb5b21c3465bf8b48535a2b0fc359665675",
+            "message": "Export Command in User Guide",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "da3deaa36646eedfb73f9ec91fb9328fed7cb39b",
+            "message": "Update UserGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4fb6bbbe1202f04e585e3854dbe2735b89e7bd5d",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "760acfa043aa3c884279f2977cf7bdbe0a3bb9ec",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "a4b0c46e1cd73d5ed95e2cb198d329476577a455",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-01",
+        "date": "2019-04-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
         "commitResults": []
       }
     ],
@@ -1725,8 +1780,8 @@
         ]
       },
       {
-        "insertions": 60,
-        "deletions": 44,
+        "insertions": 356,
+        "deletions": 53,
         "date": "2019-04-01",
         "commitResults": [
           {
@@ -1752,8 +1807,129 @@
             "message": "Update Dev Guide",
             "insertions": 50,
             "deletions": 32
+          },
+          {
+            "hash": "67c5a00b6359089f31daa91e94e69ab355b616ea",
+            "message": "Add deletegroup command",
+            "insertions": 102,
+            "deletions": 0
+          },
+          {
+            "hash": "178f265a897a3c4bf32f952a018ddff4ffbcb809",
+            "message": "Add deletehouse command; minor update to deletegroup command",
+            "insertions": 117,
+            "deletions": 7
+          },
+          {
+            "hash": "8e9107bbb0f1545d7cb5a47dbadb9ab494460db2",
+            "message": "Simple size command showing num of participants, OGLs, Freshmen, groups and houses",
+            "insertions": 62,
+            "deletions": 0
+          },
+          {
+            "hash": "a9836debaed26456f49e757ac6d183d7ce40e9c5",
+            "message": "insert javadoc comment",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "3a3e2dc034e754218de5f9e79fb3e03adb569602",
+            "message": "update modelstub in addcommandtest",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "c7c284d953eec2286e02ba3eb322b34421cbcc70",
+            "message": "add whitespace for checkstyle",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 449,
+        "deletions": 156,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "ac65809c0dbf783d8591558ed0cd5a04b8901875",
+            "message": "Update README.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "146017d38ce94d31e58ba7075caee177ee3c1f14",
+            "message": "Update AboutUs",
+            "insertions": 1,
+            "deletions": 9
+          },
+          {
+            "hash": "85be4600b897c88d6724c1f8f2075abcc3e3bbc8",
+            "message": "Update user guide",
+            "insertions": 174,
+            "deletions": 50
+          },
+          {
+            "hash": "9f2473cadd0346b927f31094f429f2f1eee56ac8",
+            "message": "Update user guide",
+            "insertions": 23,
+            "deletions": 19
+          },
+          {
+            "hash": "a370ec2e7410aef18ac5e85f11e82781c290f9dd",
+            "message": "Update User Guide",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "7db31287f3a0c6324b8e66a9c9f767aa1c607807",
+            "message": "Update User Guide to standardise upper lower case",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "4079fec0502d39caa28ee4aca6fea2208cc2b733",
+            "message": "Update Dev guide: add intro and about this DG",
+            "insertions": 27,
+            "deletions": 0
+          },
+          {
+            "hash": "7d2e0c011f82d2eedebcd64e9032aa5b7e586039",
+            "message": "Userguide remove trailing whitespace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bf63cb3cb6078dfe76e3ba9bbf84ded38ff6d7b4",
+            "message": "update userguide phrasings",
+            "insertions": 35,
+            "deletions": 41
+          },
+          {
+            "hash": "f5f3e9f596a99a09e9bd8ed963bc2e32dfac2afc",
+            "message": "Update userguide minor phrasing",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "a110ff9e81a744b2609fd7dbee6b947b29702114",
+            "message": "Update Dev Guide added group house features",
+            "insertions": 136,
+            "deletions": 17
+          },
+          {
+            "hash": "62c546da4bdf7a6700ddc6f0bf4dbf845e6af457",
+            "message": "Update dev guide user stories",
+            "insertions": 38,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
       }
     ],
     "weizhang05": [
@@ -2596,94 +2772,129 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 50,
+        "deletions": 42,
         "date": "2019-04-01",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "55ca729d709a049981e23e3df65f317b7b07fb7b",
+            "message": "deleted RandomizeCommandParser",
+            "insertions": 0,
+            "deletions": 27
+          },
+          {
+            "hash": "577a4f15b694a442b278e37080379d1c79297c9f",
+            "message": "added throwing of exception in RandomizeCommand",
+            "insertions": 16,
+            "deletions": 8
+          },
+          {
+            "hash": "8dd5e321642715f0a61c222856a32abfcd44e918",
+            "message": "style check fix",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "000fd99f4f5a1fe95c379648591a258236e84993",
+            "message": "added randomized group allocation algorithm in RandomizeCommand",
+            "insertions": 26,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 92,
+        "deletions": 35,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "3cd20b557feafabd98b92b5f3a88e8f01c702eee",
+            "message": "updating own PP",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "5ef4ce6d5cfe2f67dceca5c6b8f8689c756369f4",
+            "message": "added major contribution for test view",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "7f6647743a232d7fd72702a8165e059993ab0efc",
+            "message": "removed sample descriptions and added template text for future updates",
+            "insertions": 17,
+            "deletions": 17
+          },
+          {
+            "hash": "0f434f839f1d8d5e0701a16b169ae10ba8234021",
+            "message": "fixed formatting issues",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "bc3e0c5271e7b907116316f5add1e0ebbefd3d00",
+            "message": "added randomized section",
+            "insertions": 34,
+            "deletions": 0
+          },
+          {
+            "hash": "7f03f5f6306563b0a51e3cac7ab0ed446633e239",
+            "message": "added randomize in UG",
+            "insertions": 20,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 28,
+        "deletions": 38,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "5ac4a21f0d301786df79c25e9fded773b7a2f089",
+            "message": "style check fix",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "63dd5959d8e22b291be1f408680c48bda1568469",
+            "message": "fix missing update in UG for randomize",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d7039fbed82a37998a72eb1a9fef1cb6eca0f4e2",
+            "message": "updated personal PP",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e68013ee7ff66bb5f4e321af7988a78b3fc3661e",
+            "message": "updated personal PP",
+            "insertions": 8,
+            "deletions": 15
+          },
+          {
+            "hash": "9a1ecbebf1637dd7970675cd5510afe9ade01446",
+            "message": "updated personal PP with Introduction",
+            "insertions": 13,
+            "deletions": 14
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "tantantan277": 2344,
-    "ssunil3232": 696,
-    "shanseet": 1079,
-    "weizhang05": 1816
-  },
-  "authorFileFormatContributionMap": {
-    "tantantan277": {
-      "adoc": 78,
-      "cs": 0,
-      "css": 378,
-      "fxml": 152,
-      "gradle": 0,
-      "html": 0,
-      "java": 1703,
-      "js": 0,
-      "json": 33,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "ssunil3232": {
-      "adoc": 71,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 625,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "shanseet": {
-      "adoc": 270,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 802,
-      "js": 0,
-      "json": 7,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "weizhang05": {
-      "adoc": 305,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 1505,
-      "js": 0,
-      "json": 6,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "tantantan277": 2346,
+    "ssunil3232": 684,
+    "shanseet": 1734,
+    "weizhang05": 1870
   },
   "authorContributionVariance": {
-    "tantantan277": 70215.93,
-    "ssunil3232": 12385.596,
-    "shanseet": 18585.758,
-    "weizhang05": 115460.77
+    "tantantan277": 67863.875,
+    "ssunil3232": 11932.799,
+    "shanseet": 26063.117,
+    "weizhang05": 110985.86
   },
   "authorDisplayNameMap": {
     "tantantan277": "PHA...TAN",

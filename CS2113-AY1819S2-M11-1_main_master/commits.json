@@ -415,6 +415,25 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 10,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "9177a83145f5596a13dcea31593393fb9ba7042b",
+            "message": "update user guide",
+            "insertions": 10,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
       }
     ],
     "warheade": [
@@ -910,6 +929,25 @@
             "deletions": 15
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 91,
+        "deletions": 37,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "7defd1dd1ce004b6660226b51ee0db6391503c4d",
+            "message": "updated player features in User Guide for v1.3",
+            "insertions": 91,
+            "deletions": 37
+          }
+        ]
       }
     ],
     "yingrong1996": [
@@ -1306,6 +1344,18 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
         "commitResults": []
       }
     ],
@@ -1810,90 +1860,39 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 20,
+        "deletions": 7,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "80d3957bb3e66fd95595deccb389a33a7e91fd79",
+            "message": "Update UG for Match Feature",
+            "insertions": 20,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "huyidi": 800,
-    "warheade": 2603,
+    "huyidi": 807,
+    "warheade": 2662,
     "yingrong1996": 1591,
-    "E0176106": 2058
-  },
-  "authorFileFormatContributionMap": {
-    "huyidi": {
-      "adoc": 129,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 665,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 6,
-      "xml": 0
-    },
-    "warheade": {
-      "adoc": 250,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 2270,
-      "js": 0,
-      "json": 26,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 57,
-      "xml": 0
-    },
-    "yingrong1996": {
-      "adoc": 106,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 1485,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "E0176106": {
-      "adoc": 190,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 76,
-      "html": 0,
-      "java": 1344,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 16,
-      "xml": 432
-    }
+    "E0176106": 2059
   },
   "authorContributionVariance": {
-    "huyidi": 18588.64,
-    "warheade": 204704.95,
-    "yingrong1996": 64411.566,
-    "E0176106": 155869.88
+    "huyidi": 17898.77,
+    "warheade": 197148.9,
+    "yingrong1996": 62151.06,
+    "E0176106": 150115.8
   },
   "authorDisplayNameMap": {
     "huyidi": "Hu Yidi",

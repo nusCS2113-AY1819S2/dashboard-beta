@@ -361,9 +361,28 @@
         "commitResults": []
       },
       {
+        "insertions": 20,
+        "deletions": 1,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "24022bf7b36f76e5f8125dfc6e3a6764e40e9184",
+            "message": "fix display of completed tag",
+            "insertions": 20,
+            "deletions": 1
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-01",
+        "date": "2019-04-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
         "commitResults": []
       }
     ],
@@ -739,9 +758,41 @@
         "commitResults": []
       },
       {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "1bfea447462eaadef8fae246d5f587ff9e77a262",
+            "message": "Introduction and How to use this guide preface",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 23,
+        "deletions": 1,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "ddd1e0feecee867bd9d54da5505a28db1836a0f7",
+            "message": "List and ListProject commands",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "ad0878a73a46574bc8c6d53ca59325a103094f88",
+            "message": "Developer Guide Changes",
+            "insertions": 15,
+            "deletions": 0
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-01",
+        "date": "2019-04-03",
         "commitResults": []
       }
     ],
@@ -1161,8 +1212,8 @@
         ]
       },
       {
-        "insertions": 49,
-        "deletions": 67,
+        "insertions": 60,
+        "deletions": 84,
         "date": "2019-04-01",
         "commitResults": [
           {
@@ -1170,8 +1221,45 @@
             "message": "resolve merge conflict",
             "insertions": 49,
             "deletions": 67
+          },
+          {
+            "hash": "5bec6a10a924e36454ea7ed2a256559a3d9548c9",
+            "message": "Import and UI: fix import bug at task level and panel shading bug at UI",
+            "insertions": 9,
+            "deletions": 14
+          },
+          {
+            "hash": "2a8ee70b8700060b769325bd97aecd82423fa270",
+            "message": "Fix travis checkstyle error",
+            "insertions": 2,
+            "deletions": 3
           }
         ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 37,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "ac1e11a81e3a2cfaec3bc0a6fd27a21d83e2dc70",
+            "message": "ProjectPortfolio: update PPP with contributions",
+            "insertions": 22,
+            "deletions": 35
+          },
+          {
+            "hash": "80c4a19be4cbe1b4501ef158cda39c74eb7083b7",
+            "message": "ProjectPortfolio: with reposense link",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
       }
     ],
     "arhjaye": [
@@ -1681,9 +1769,64 @@
         "commitResults": []
       },
       {
+        "insertions": 99,
+        "deletions": 54,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "9bfdbffb5c19dc3b24f35500757c6e4c45a609c9",
+            "message": "update readme.adoc UI image and text",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "2532bec21f0af93b393d8ce7846386bf46b9f9a4",
+            "message": "fix bug for compare function",
+            "insertions": 11,
+            "deletions": 6
+          },
+          {
+            "hash": "9d3b6eee0c7c327e93d9a4e9353a1db0faa00908",
+            "message": "fixed travis check",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "c97be9a0d8108a186d9a17ee925bdb5834e96450",
+            "message": "fixed bug for group tag",
+            "insertions": 20,
+            "deletions": 1
+          },
+          {
+            "hash": "761f70e7c053d751aa58b5effa18a3b9dc0e7fe3",
+            "message": "fix listDeadline bug",
+            "insertions": 29,
+            "deletions": 27
+          },
+          {
+            "hash": "1cc411669517d7f7efc07316f2c0ef5253b1c136",
+            "message": "updated aboutus page",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "3216f5c9c0bed2a316faefee49fe0dc3fd6f7887",
+            "message": "fixed checkstyle error by travis",
+            "insertions": 26,
+            "deletions": 4
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-01",
+        "date": "2019-04-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
         "commitResults": []
       }
     ],
@@ -2150,10 +2293,16 @@
         "commitResults": []
       },
       {
-        "insertions": 190,
-        "deletions": 34,
+        "insertions": 573,
+        "deletions": 42,
         "date": "2019-03-31",
         "commitResults": [
+          {
+            "hash": "f47288dae36dda81cb1c76d677dce085b899c826",
+            "message": "Resolve merge conflict",
+            "insertions": 383,
+            "deletions": 8
+          },
           {
             "hash": "8abdd682bf26259ac489a80dfd5bc64fea3036b4",
             "message": "AddTag: add group tag to selected task",
@@ -2181,113 +2330,83 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 40,
+        "deletions": 1,
         "date": "2019-04-01",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "d889d04385f0462ed5c858b5331b163be805ff38",
+            "message": "UserGuide: update with listtag, addtag and definetag information",
+            "insertions": 39,
+            "deletions": 0
+          },
+          {
+            "hash": "fb355ca2818e0db9be21c3e8db966fca51c5739d",
+            "message": "build.gradle: uodate shadowKar name",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 86,
+        "deletions": 48,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "2d330a8773901840a0578ea5ec4d0753e33ed4d7",
+            "message": "PPP: updated portfolio with details",
+            "insertions": 22,
+            "deletions": 34
+          },
+          {
+            "hash": "e2f67b1a9305baa1142e04194664bf29cfed6343",
+            "message": "PPP: update missing header for major enhancement",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6f704756db49e2d3a2b3269e9beaf4496c733e77",
+            "message": "DeveloperGuide: update with listtag, definetag, addtag",
+            "insertions": 41,
+            "deletions": 8
+          },
+          {
+            "hash": "f0701a3f19cd83cd60923b5a792a29a542c325ce",
+            "message": "Reposense: update authorNames for Josephine",
+            "insertions": 22,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 26,
+        "deletions": 58,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "8fe158c65e351114e1ed7a73c6f8fbcc386892af",
+            "message": "UserGuide: general proof-read edits",
+            "insertions": 26,
+            "deletions": 58
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "rachellim10": 328,
-    "gautamrajulu": 179,
-    "josephinetanadi": 3803,
-    "arhjaye": 1462,
-    "andreathniah": 5201
-  },
-  "authorFileFormatContributionMap": {
-    "rachellim10": {
-      "adoc": 102,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 226,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "gautamrajulu": {
-      "adoc": 24,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 155,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "josephinetanadi": {
-      "adoc": 184,
-      "cs": 0,
-      "css": 12,
-      "fxml": 48,
-      "gradle": 0,
-      "html": 0,
-      "java": 3512,
-      "js": 0,
-      "json": 47,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "arhjaye": {
-      "adoc": 332,
-      "cs": 0,
-      "css": 0,
-      "fxml": 10,
-      "gradle": 0,
-      "html": 0,
-      "java": 1120,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "andreathniah": {
-      "adoc": 154,
-      "cs": 0,
-      "css": 51,
-      "fxml": 5,
-      "gradle": 7,
-      "html": 0,
-      "java": 4907,
-      "js": 0,
-      "json": 77,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "rachellim10": 330,
+    "gautamrajulu": 202,
+    "josephinetanadi": 3793,
+    "arhjaye": 1535,
+    "andreathniah": 5295
   },
   "authorContributionVariance": {
-    "rachellim10": 1299.1887,
-    "gautamrajulu": 320.09,
-    "josephinetanadi": 265384.66,
-    "arhjaye": 206068.28,
-    "andreathniah": 2532418.8
+    "rachellim10": 1254.326,
+    "gautamrajulu": 315.78708,
+    "josephinetanadi": 256048.61,
+    "arhjaye": 198568.02,
+    "andreathniah": 2439679.5
   },
   "authorDisplayNameMap": {
     "rachellim10": "RAC... YU",

@@ -745,6 +745,18 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
       }
     ],
     "Shengkok": [
@@ -1256,6 +1268,25 @@
         "deletions": 0,
         "date": "2019-03-31",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 21,
+        "deletions": 5,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "dc924efa02001a6fe26f7627e350030f27bd76ec",
+            "message": "Added DeleteNotes and updated AddNotes",
+            "insertions": 21,
+            "deletions": 5
+          }
+        ]
       }
     ],
     "khairulhazril": [
@@ -1967,6 +1998,18 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
       }
     ],
     "nicholasleeeee": [
@@ -2388,90 +2431,32 @@
         "deletions": 0,
         "date": "2019-03-31",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
     "Justin-Ong": 929,
-    "Shengkok": 979,
-    "khairulhazril": 6864,
+    "Shengkok": 995,
+    "khairulhazril": 6862,
     "nicholasleeeee": 321
   },
-  "authorFileFormatContributionMap": {
-    "Justin-Ong": {
-      "adoc": 135,
-      "cs": 0,
-      "css": 0,
-      "fxml": 33,
-      "gradle": 2,
-      "html": 0,
-      "java": 757,
-      "js": 0,
-      "json": 2,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "Shengkok": {
-      "adoc": 119,
-      "cs": 0,
-      "css": 0,
-      "fxml": 45,
-      "gradle": 0,
-      "html": 0,
-      "java": 814,
-      "js": 0,
-      "json": 1,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "khairulhazril": {
-      "adoc": 428,
-      "cs": 0,
-      "css": 1,
-      "fxml": 19,
-      "gradle": 0,
-      "html": 1,
-      "java": 6330,
-      "js": 0,
-      "json": 85,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "nicholasleeeee": {
-      "adoc": 65,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 1,
-      "html": 0,
-      "java": 255,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
-  },
   "authorContributionVariance": {
-    "Justin-Ong": 15068.804,
-    "Shengkok": 9935.78,
-    "khairulhazril": 6845324.0,
-    "nicholasleeeee": 29642.615
+    "Justin-Ong": 14608.796,
+    "Shengkok": 9572.143,
+    "khairulhazril": 6597221.5,
+    "nicholasleeeee": 28549.205
   },
   "authorDisplayNameMap": {
     "Justin-Ong": "ONG...TIN",

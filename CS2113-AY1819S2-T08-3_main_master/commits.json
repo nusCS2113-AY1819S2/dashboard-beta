@@ -615,6 +615,32 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 1503,
+        "deletions": 1759,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "63ce703ae75c53e5f3cb912944efa0d0bca83b7e",
+            "message": "v1.3 (#146)",
+            "insertions": 1503,
+            "deletions": 1759
+          }
+        ]
+      },
+      {
+        "insertions": 390,
+        "deletions": 104,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "b60fa37d9f2e2a9d1ef0ae7b2de54468f7821837",
+            "message": "Update seanieyap.adoc (#155)",
+            "insertions": 390,
+            "deletions": 104
+          }
+        ]
       }
     ],
     "marcus-pzj": [
@@ -1143,6 +1169,37 @@
             "deletions": 98
           }
         ]
+      },
+      {
+        "insertions": 1002,
+        "deletions": 65,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "3faf83a31e446c7cdeecaba29093987c6ebd2810",
+            "message": "Add JUnit Tests (#143)",
+            "insertions": 707,
+            "deletions": 10
+          },
+          {
+            "hash": "5892bf12e7045af28a22201455b6eeee74ffa8b7",
+            "message": "Update Test Cases to raise coverage (#144)",
+            "insertions": 121,
+            "deletions": 20
+          },
+          {
+            "hash": "e3c3fe3bb9ebf338e383e10b44e50337e35b7939",
+            "message": "Add PPP of marcus-pzj (#152)",
+            "insertions": 174,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
       }
     ],
     "dingheng4448": [
@@ -1562,8 +1619,8 @@
         ]
       },
       {
-        "insertions": 339,
-        "deletions": 73,
+        "insertions": 508,
+        "deletions": 149,
         "date": "2019-04-01",
         "commitResults": [
           {
@@ -1583,6 +1640,68 @@
             "message": "Update Dev Guide introduction (#137)",
             "insertions": 45,
             "deletions": 2
+          },
+          {
+            "hash": "1f852edb0432de97e33930e5c923d50850bee9e3",
+            "message": "Update view command implementation (#138)",
+            "insertions": 148,
+            "deletions": 68
+          },
+          {
+            "hash": "7a02b212badb06430259a0060ad91dc02c7b5189",
+            "message": "Update view command to fix minor bug (#139)",
+            "insertions": 21,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 595,
+        "deletions": 160,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "7852a46fa8d48e28c3817a373cc9523387d95087",
+            "message": "Add JUnit tests for ViewCommandParser and ViewCommand (#145)",
+            "insertions": 397,
+            "deletions": 8
+          },
+          {
+            "hash": "ff249401895c54d927193a69df9b90137d9be44b",
+            "message": "ParserManagerTest: Update JUnit test for view command (#147)",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "471ffe709ba295aacaf1f588664bee4e294762d1",
+            "message": "ViewCommand: Update view week feature to resize week view (#148)",
+            "insertions": 16,
+            "deletions": 11
+          },
+          {
+            "hash": "b4c27d689598e07b7f93accfc5ea295d6629fb9d",
+            "message": "Fix bug in semester initialization and update JUnit tests (#150)",
+            "insertions": 63,
+            "deletions": 86
+          },
+          {
+            "hash": "ecd6d62e02403165b915872e2e4fa5abf41e5c6e",
+            "message": "Update documentation (#151)",
+            "insertions": 107,
+            "deletions": 55
+          }
+        ]
+      },
+      {
+        "insertions": 201,
+        "deletions": 56,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "0a6163d6b61e0fc1c69053da8f36c217c404190c",
+            "message": "Update documentation (#154)",
+            "insertions": 201,
+            "deletions": 56
           }
         ]
       }
@@ -2007,90 +2126,45 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 211,
+        "deletions": 78,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "4cb6447864a4ffad3c3a85c6249e9cda0e1790d6",
+            "message": "Add junit tests for encryptor and export (#142)",
+            "insertions": 69,
+            "deletions": 8
+          },
+          {
+            "hash": "99ef3fab3ef23d474f0be9b590edf068189e315e",
+            "message": "Add PPP (Julian) (#153)",
+            "insertions": 142,
+            "deletions": 70
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "seanieyap": 11897,
-    "marcus-pzj": 730,
-    "dingheng4448": 1181,
-    "macchazuki": 494
-  },
-  "authorFileFormatContributionMap": {
-    "seanieyap": {
-      "adoc": 2399,
-      "cs": 0,
-      "css": 2028,
-      "fxml": 3,
-      "gradle": 89,
-      "html": 0,
-      "java": 5985,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 959,
-      "xml": 434
-    },
-    "marcus-pzj": {
-      "adoc": 227,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 453,
-      "js": 0,
-      "json": 50,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "dingheng4448": {
-      "adoc": 320,
-      "cs": 0,
-      "css": 1,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 860,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "macchazuki": {
-      "adoc": 104,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 390,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "seanieyap": 12019,
+    "marcus-pzj": 1654,
+    "dingheng4448": 1793,
+    "macchazuki": 659
   },
   "authorContributionVariance": {
-    "seanieyap": 2540755.8,
-    "marcus-pzj": 479418.12,
-    "dingheng4448": 14750.745,
-    "macchazuki": 3003.895
+    "seanieyap": 2572011.8,
+    "marcus-pzj": 477787.22,
+    "dingheng4448": 28215.729,
+    "macchazuki": 4246.293
   },
   "authorDisplayNameMap": {
     "seanieyap": "SEA...ONG",

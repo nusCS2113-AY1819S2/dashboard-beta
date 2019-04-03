@@ -12685,7 +12685,7 @@
         "author": {
           "gitId": "Shengkok"
         },
-        "content": "\u003d Task Manager - User Guide"
+        "content": "\u003d Student Buddy - User Guide"
       },
       {
         "lineNumber": 2,
@@ -14083,28 +14083,28 @@
       {
         "lineNumber": 201,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": "****"
       },
       {
         "lineNumber": 202,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 203,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 204,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14139,7 +14139,7 @@
       {
         "lineNumber": 209,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14153,7 +14153,7 @@
       {
         "lineNumber": 211,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -14195,28 +14195,28 @@
       {
         "lineNumber": 217,
         "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
         "content": "****"
       },
       {
         "lineNumber": 218,
         "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
         "content": ""
       },
       {
         "lineNumber": 219,
         "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 220,
         "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
         "content": ""
       },
@@ -14673,14 +14673,14 @@
         "author": {
           "gitId": "Shengkok"
         },
-        "content": "Adds a note to the address book."
+        "content": "Adds a note to Student Buddy."
       },
       {
         "lineNumber": 286,
         "author": {
           "gitId": "Shengkok"
         },
-        "content": "Format: `note h/HEADING c/CONTENT`"
+        "content": "Format: `note h/HEADING c/CONTENT p/PRIORITY`"
       },
       {
         "lineNumber": 287,
@@ -14708,110 +14708,110 @@
         "author": {
           "gitId": "Shengkok"
         },
-        "content": "* `note h/Popular c/buy blue pens` +"
+        "content": "* `note h/Popular c/buy blue pens p/2` +"
       },
       {
         "lineNumber": 291,
         "author": {
           "gitId": "Shengkok"
         },
-        "content": "Add a note with heading `Popular` and content `buy blue pens`."
+        "content": "Add a note with heading `Popular`, content `buy blue pens` and priority `2`."
       },
       {
         "lineNumber": 292,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
         "content": ""
       },
       {
         "lineNumber": 293,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "\u003d\u003d\u003d Listing entered commands : `history`"
+        "content": "\u003d\u003d\u003d Deleting miscellaneous notes : `deletenote`"
       },
       {
         "lineNumber": 294,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
         "content": ""
       },
       {
         "lineNumber": 295,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "Lists all the commands that you have entered in reverse chronological order. +"
+        "content": "Deletes the specified note from Student Buddy. +"
       },
       {
         "lineNumber": 296,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "Format: `history`"
+        "content": "Format: `delete INDEX`"
       },
       {
         "lineNumber": 297,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
         "content": ""
       },
       {
         "lineNumber": 298,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "[NOTE]"
+        "content": "****"
       },
       {
         "lineNumber": 299,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "\u003d\u003d\u003d\u003d"
+        "content": "* Deletes the note at the specified `INDEX`."
       },
       {
         "lineNumber": 300,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "Pressing the kbd:[\u0026uarr;] and kbd:[\u0026darr;] arrows will display the previous and next input respectively in the command box."
+        "content": "* The index refers to the index number shown in the displayed notes list."
       },
       {
         "lineNumber": 301,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "\u003d\u003d\u003d\u003d"
+        "content": "* The index *must be a positive integer* 1, 2, 3, ..."
       },
       {
         "lineNumber": 302,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": ""
+        "content": "****"
       },
       {
         "lineNumber": 303,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "// tag::undoredo[]"
+        "content": ""
       },
       {
         "lineNumber": 304,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "\u003d\u003d\u003d Undoing previous command : `undo`"
+        "content": "Examples:"
       },
       {
         "lineNumber": 305,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
         "content": ""
       },
@@ -14820,14 +14820,14 @@
         "author": {
           "gitId": "Shengkok"
         },
-        "content": "Restores the Task Manager to the state before the previous _undoable_ command was executed. +"
+        "content": "* `delete 2` +"
       },
       {
         "lineNumber": 307,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "Format: `undo`"
+        "content": "Deletes the 2nd note from the displayed notes list in Student Buddy."
       },
       {
         "lineNumber": 308,
@@ -14841,28 +14841,28 @@
         "author": {
           "gitId": "-"
         },
-        "content": "[NOTE]"
+        "content": "\u003d\u003d\u003d Listing entered commands : `history`"
       },
       {
         "lineNumber": 310,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d\u003d"
+        "content": ""
       },
       {
         "lineNumber": 311,
         "author": {
-          "gitId": "Shengkok"
+          "gitId": "-"
         },
-        "content": "Undoable commands: those commands that modify the Task Manager\u0027s content (`add`, `delete`, `edit` and `clear`)."
+        "content": "Lists all the commands that you have entered in reverse chronological order. +"
       },
       {
         "lineNumber": 312,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d\u003d"
+        "content": "Format: `history`"
       },
       {
         "lineNumber": 313,
@@ -14876,119 +14876,119 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Examples:"
+        "content": "[NOTE]"
       },
       {
         "lineNumber": 315,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 316,
         "author": {
           "gitId": "-"
         },
-        "content": "* `delete 1` +"
+        "content": "Pressing the kbd:[\u0026uarr;] and kbd:[\u0026darr;] arrows will display the previous and next input respectively in the command box."
       },
       {
         "lineNumber": 317,
         "author": {
           "gitId": "-"
         },
-        "content": "`list` +"
+        "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 318,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "`undo` +"
+        "content": ""
       },
       {
         "lineNumber": 319,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "This reverses the `delete 1` command."
+        "content": "// tag::undoredo[]"
       },
       {
         "lineNumber": 320,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d Undoing previous command : `undo`"
       },
       {
         "lineNumber": 321,
         "author": {
           "gitId": "-"
         },
-        "content": "* `select 1` +"
+        "content": ""
       },
       {
         "lineNumber": 322,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "`list` +"
+        "content": "Restores the Task Manager to the state before the previous _undoable_ command was executed. +"
       },
       {
         "lineNumber": 323,
         "author": {
           "gitId": "-"
         },
-        "content": "`undo` +"
+        "content": "Format: `undo`"
       },
       {
         "lineNumber": 324,
         "author": {
           "gitId": "-"
         },
-        "content": "The `undo` command fails as there are no undoable commands executed previously."
+        "content": ""
       },
       {
         "lineNumber": 325,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "[NOTE]"
       },
       {
         "lineNumber": 326,
         "author": {
           "gitId": "-"
         },
-        "content": "* `delete 1` +"
+        "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 327,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "`clear` +"
+        "content": "Undoable commands: those commands that modify the Task Manager\u0027s content (`add`, `delete`, `edit` and `clear`)."
       },
       {
         "lineNumber": 328,
         "author": {
           "gitId": "-"
         },
-        "content": "`undo` (reverses the `clear` command) +"
+        "content": "\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 329,
         "author": {
           "gitId": "-"
         },
-        "content": "`undo` (reverses the `delete 1` command) +"
+        "content": ""
       },
       {
         "lineNumber": 330,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "This reverses the `clear` command and the `delete 1` command."
+        "content": "Examples:"
       },
       {
         "lineNumber": 331,
@@ -15002,28 +15002,28 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Redoing the previously undone command : `redo`"
+        "content": "* `delete 1` +"
       },
       {
         "lineNumber": 333,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "`list` +"
       },
       {
         "lineNumber": 334,
         "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
-        "content": "Reverses the most recent `undo` command. +"
+        "content": "`undo` +"
       },
       {
         "lineNumber": 335,
         "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
-        "content": "Format: `redo`"
+        "content": "This reverses the `delete 1` command."
       },
       {
         "lineNumber": 336,
@@ -15037,119 +15037,119 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Examples:"
+        "content": "* `select 1` +"
       },
       {
         "lineNumber": 338,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "`list` +"
       },
       {
         "lineNumber": 339,
         "author": {
           "gitId": "-"
         },
-        "content": "* `delete 1` +"
+        "content": "`undo` +"
       },
       {
         "lineNumber": 340,
         "author": {
           "gitId": "-"
         },
-        "content": "`undo` (reverses the `delete 1` command) +"
+        "content": "The `undo` command fails as there are no undoable commands executed previously."
       },
       {
         "lineNumber": 341,
         "author": {
           "gitId": "-"
         },
-        "content": "`redo` (reapplies the `delete 1` command) +"
+        "content": ""
       },
       {
         "lineNumber": 342,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "* `delete 1` +"
       },
       {
         "lineNumber": 343,
         "author": {
           "gitId": "-"
         },
-        "content": "* `delete 1` +"
+        "content": "`clear` +"
       },
       {
         "lineNumber": 344,
         "author": {
           "gitId": "-"
         },
-        "content": "`redo` +"
+        "content": "`undo` (reverses the `clear` command) +"
       },
       {
         "lineNumber": 345,
         "author": {
           "gitId": "-"
         },
-        "content": "The `redo` command fails as there are no `undo` commands executed previously."
+        "content": "`undo` (reverses the `delete 1` command) +"
       },
       {
         "lineNumber": 346,
         "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
-        "content": ""
+        "content": "This reverses the `clear` command and the `delete 1` command."
       },
       {
         "lineNumber": 347,
         "author": {
           "gitId": "-"
         },
-        "content": "* `delete 1` +"
+        "content": ""
       },
       {
         "lineNumber": 348,
         "author": {
           "gitId": "-"
         },
-        "content": "`clear` +"
+        "content": "\u003d\u003d\u003d Redoing the previously undone command : `redo`"
       },
       {
         "lineNumber": 349,
         "author": {
           "gitId": "-"
         },
-        "content": "`undo` (reverses the `clear` command) +"
+        "content": ""
       },
       {
         "lineNumber": 350,
         "author": {
           "gitId": "-"
         },
-        "content": "`undo` (reverses the `delete 1` command) +"
+        "content": "Reverses the most recent `undo` command. +"
       },
       {
         "lineNumber": 351,
         "author": {
           "gitId": "-"
         },
-        "content": "`redo` (reapplies the `delete 1` command) +"
+        "content": "Format: `redo`"
       },
       {
         "lineNumber": 352,
         "author": {
           "gitId": "-"
         },
-        "content": "`redo` (reapplies the `clear` command) +"
+        "content": ""
       },
       {
         "lineNumber": 353,
         "author": {
           "gitId": "-"
         },
-        "content": "// end::undoredo[]"
+        "content": "Examples:"
       },
       {
         "lineNumber": 354,
@@ -15163,105 +15163,105 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Clearing all entries : `clear`"
+        "content": "* `delete 1` +"
       },
       {
         "lineNumber": 356,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "`undo` (reverses the `delete 1` command) +"
       },
       {
         "lineNumber": 357,
         "author": {
-          "gitId": "Shengkok"
+          "gitId": "-"
         },
-        "content": "Clears all entries from the Task Manager. +"
+        "content": "`redo` (reapplies the `delete 1` command) +"
       },
       {
         "lineNumber": 358,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `clear`"
+        "content": ""
       },
       {
         "lineNumber": 359,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "* `delete 1` +"
       },
       {
         "lineNumber": 360,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Viewing tasks on a calendar"
+        "content": "`redo` +"
       },
       {
         "lineNumber": 361,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "The `redo` command fails as there are no `undo` commands executed previously."
       },
       {
         "lineNumber": 362,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "Tasks displayed in the task list are automatically displayed on a calendar of the current month. If the task list is modified or filtered using `find`, the calendar will update accordingly. An example is displayed below:"
+        "content": ""
       },
       {
         "lineNumber": 363,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "* `delete 1` +"
       },
       {
         "lineNumber": 364,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "image::CalendarDemo.png[width\u003d\"1000\"]"
+        "content": "`clear` +"
       },
       {
         "lineNumber": 365,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "`undo` (reverses the `clear` command) +"
       },
       {
         "lineNumber": 366,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Exiting the program : `exit`"
+        "content": "`undo` (reverses the `delete 1` command) +"
       },
       {
         "lineNumber": 367,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "`redo` (reapplies the `delete 1` command) +"
       },
       {
         "lineNumber": 368,
         "author": {
           "gitId": "-"
         },
-        "content": "Exits the program. +"
+        "content": "`redo` (reapplies the `clear` command) +"
       },
       {
         "lineNumber": 369,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `exit`"
+        "content": "// end::undoredo[]"
       },
       {
         "lineNumber": 370,
@@ -15275,7 +15275,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Saving the data"
+        "content": "\u003d\u003d\u003d Clearing all entries : `clear`"
       },
       {
         "lineNumber": 372,
@@ -15287,16 +15287,16 @@
       {
         "lineNumber": 373,
         "author": {
-          "gitId": "Justin-Ong"
+          "gitId": "Shengkok"
         },
-        "content": "Task Manager data is saved in the hard disk automatically after any command that changes the data. +"
+        "content": "Clears all entries from the Task Manager. +"
       },
       {
         "lineNumber": 374,
         "author": {
           "gitId": "-"
         },
-        "content": "There is no need to save manually."
+        "content": "Format: `clear`"
       },
       {
         "lineNumber": 375,
@@ -15308,42 +15308,42 @@
       {
         "lineNumber": 376,
         "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
-        "content": "// tag::dataencryption[]"
+        "content": "\u003d\u003d\u003d Viewing tasks on a calendar"
       },
       {
         "lineNumber": 377,
         "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Encrypting data files `[coming in v2.0]`"
-      },
-      {
-        "lineNumber": 378,
-        "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
         "content": ""
       },
       {
+        "lineNumber": 378,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "Tasks displayed in the task list are automatically displayed on a calendar of the current month. If the task list is modified or filtered using `find`, the calendar will update accordingly. An example is displayed below:"
+      },
+      {
         "lineNumber": 379,
         "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
-        "content": "_{explain how the user can enable/disable data encryption}_"
+        "content": ""
       },
       {
         "lineNumber": 380,
         "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
-        "content": "// end::dataencryption[]"
+        "content": "image::CalendarDemo.png[width\u003d\"1000\"]"
       },
       {
         "lineNumber": 381,
         "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
         "content": ""
       },
@@ -15352,7 +15352,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d FAQ"
+        "content": "\u003d\u003d\u003d Exiting the program : `exit`"
       },
       {
         "lineNumber": 383,
@@ -15366,14 +15366,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "*Q*: How do I transfer my data to another Computer? +"
+        "content": "Exits the program. +"
       },
       {
         "lineNumber": 385,
         "author": {
-          "gitId": "Shengkok"
+          "gitId": "-"
         },
-        "content": "*A*: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous Task Manager folder."
+        "content": "Format: `exit`"
       },
       {
         "lineNumber": 386,
@@ -15387,7 +15387,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Command Summary"
+        "content": "\u003d\u003d\u003d Saving the data"
       },
       {
         "lineNumber": 388,
@@ -15399,187 +15399,299 @@
       {
         "lineNumber": 389,
         "author": {
-          "gitId": "Shengkok"
+          "gitId": "Justin-Ong"
         },
-        "content": "* *Add* `add n/NAME m/MODULE d/DATE p/PRIORITY [t/TAG]...` +"
+        "content": "Task Manager data is saved in the hard disk automatically after any command that changes the data. +"
       },
       {
         "lineNumber": 390,
         "author": {
-          "gitId": "Shengkok"
+          "gitId": "-"
         },
-        "content": "e.g. `add n/Tutorial 3 m/CG2023 d/21-02 p/3 t/urgent`"
+        "content": "There is no need to save manually."
       },
       {
         "lineNumber": 391,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Clear* : `clear`"
+        "content": ""
       },
       {
         "lineNumber": 392,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Delete* : `delete INDEX` +"
+        "content": "// tag::dataencryption[]"
       },
       {
         "lineNumber": 393,
         "author": {
           "gitId": "-"
         },
-        "content": "e.g. `delete 3`"
+        "content": "\u003d\u003d\u003d Encrypting data files `[coming in v2.0]`"
       },
       {
         "lineNumber": 394,
         "author": {
-          "gitId": "Shengkok"
+          "gitId": "-"
         },
-        "content": "* *Edit* : `edit INDEX [n/NAME] [m/MODULE] [d/DATE] [p/PRIORITY] [t/TAG]...` +"
+        "content": ""
       },
       {
         "lineNumber": 395,
         "author": {
-          "gitId": "Shengkok"
+          "gitId": "-"
         },
-        "content": "e.g. `edit 2 n/CG2027 Hw d/23-04`"
+        "content": "_{explain how the user can enable/disable data encryption}_"
       },
       {
         "lineNumber": 396,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "* *Find Date* : `finddate KEYWORD [MORE_KEYWORDS]` +"
+        "content": "// end::dataencryption[]"
       },
       {
         "lineNumber": 397,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "e.g. `finddate 21-03`"
+        "content": ""
       },
       {
         "lineNumber": 398,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "* *Find Module* : `findmodule KEYWROD [MORE_KEYWORDS]` +"
+        "content": "\u003d\u003d FAQ"
       },
       {
         "lineNumber": 399,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "e.g. `findmodule CS2113T`"
+        "content": ""
       },
       {
         "lineNumber": 400,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "* *Find Name* : `findname KEYWORD [MORE_KEYWORDS]` +"
+        "content": "*Q*: How do I transfer my data to another Computer? +"
       },
       {
         "lineNumber": 401,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "Shengkok"
         },
-        "content": "e.g. `findname Project`"
+        "content": "*A*: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous Task Manager folder."
       },
       {
         "lineNumber": 402,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "* *Find Priority* : `findpriority KEYWORD [MORE_KEYWORDS]` +"
+        "content": ""
       },
       {
         "lineNumber": 403,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "e.g. `findpriority 1`"
+        "content": "\u003d\u003d Command Summary"
       },
       {
         "lineNumber": 404,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Help* : `help`"
+        "content": ""
       },
       {
         "lineNumber": 405,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "Shengkok"
         },
-        "content": "* *History* : `history`"
+        "content": "* *Add* `add n/NAME m/MODULE d/DATE p/PRIORITY [t/TAG]...` +"
       },
       {
         "lineNumber": 406,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "Shengkok"
         },
-        "content": "* *List* : `list`"
+        "content": "e.g. `add n/Tutorial 3 m/CG2023 d/21-02 p/3 t/urgent`"
       },
       {
         "lineNumber": 407,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "* *Login* : `login u/USERNAME p/PASSWORD` +"
+        "content": "* *Clear* : `clear`"
       },
       {
         "lineNumber": 408,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "e.g. `login u/nicholas p/abcdefg`"
+        "content": "* *Delete* : `delete INDEX` +"
       },
       {
         "lineNumber": 409,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
-        "content": "* *Logout* : `logout`"
+        "content": "e.g. `delete 3`"
       },
       {
         "lineNumber": 410,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "Shengkok"
         },
-        "content": "* *Redo* : `redo`"
+        "content": "* *Edit* : `edit INDEX [n/NAME] [m/MODULE] [d/DATE] [p/PRIORITY] [t/TAG]...` +"
       },
       {
         "lineNumber": 411,
         "author": {
-          "gitId": "-"
+          "gitId": "Shengkok"
         },
-        "content": "* *Select* : `select INDEX` +"
+        "content": "e.g. `edit 2 n/CG2027 Hw d/23-04`"
       },
       {
         "lineNumber": 412,
         "author": {
-          "gitId": "-"
+          "gitId": "khairulhazril"
         },
-        "content": "e.g.`select 2`"
+        "content": "* *Find Date* : `finddate KEYWORD [MORE_KEYWORDS]` +"
       },
       {
         "lineNumber": 413,
         "author": {
           "gitId": "khairulhazril"
         },
-        "content": "* *Sign-up* : `signup u/USERNAME p/PASSWORD` +"
+        "content": "e.g. `finddate 21-03`"
       },
       {
         "lineNumber": 414,
         "author": {
           "gitId": "khairulhazril"
         },
-        "content": "e.g. `signup"
+        "content": "* *Find Module* : `findmodule KEYWROD [MORE_KEYWORDS]` +"
       },
       {
         "lineNumber": 415,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "e.g. `findmodule CS2113T`"
+      },
+      {
+        "lineNumber": 416,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "* *Find Name* : `findname KEYWORD [MORE_KEYWORDS]` +"
+      },
+      {
+        "lineNumber": 417,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "e.g. `findname Project`"
+      },
+      {
+        "lineNumber": 418,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "* *Find Priority* : `findpriority KEYWORD [MORE_KEYWORDS]` +"
+      },
+      {
+        "lineNumber": 419,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "e.g. `findpriority 1`"
+      },
+      {
+        "lineNumber": 420,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Help* : `help`"
+      },
+      {
+        "lineNumber": 421,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "* *History* : `history`"
+      },
+      {
+        "lineNumber": 422,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "* *List* : `list`"
+      },
+      {
+        "lineNumber": 423,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "* *Login* : `login u/USERNAME p/PASSWORD` +"
+      },
+      {
+        "lineNumber": 424,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "e.g. `login u/nicholas p/abcdefg`"
+      },
+      {
+        "lineNumber": 425,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "* *Logout* : `logout`"
+      },
+      {
+        "lineNumber": 426,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "* *Redo* : `redo`"
+      },
+      {
+        "lineNumber": 427,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Select* : `select INDEX` +"
+      },
+      {
+        "lineNumber": 428,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "e.g.`select 2`"
+      },
+      {
+        "lineNumber": 429,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "* *Sign-up* : `signup u/USERNAME p/PASSWORD` +"
+      },
+      {
+        "lineNumber": 430,
+        "author": {
+          "gitId": "khairulhazril"
+        },
+        "content": "e.g. `signup"
+      },
+      {
+        "lineNumber": 431,
         "author": {
           "gitId": "-"
         },
@@ -15588,9 +15700,9 @@
     ],
     "authorContributionMap": {
       "Justin-Ong": 5,
-      "Shengkok": 54,
-      "khairulhazril": 125,
-      "-": 206,
+      "Shengkok": 70,
+      "khairulhazril": 123,
+      "-": 208,
       "nicholasleeeee": 25
     }
   },

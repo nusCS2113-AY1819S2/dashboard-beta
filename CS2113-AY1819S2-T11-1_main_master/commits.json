@@ -639,8 +639,8 @@
         ]
       },
       {
-        "insertions": 344,
-        "deletions": 39,
+        "insertions": 506,
+        "deletions": 96,
         "date": "2019-04-01",
         "commitResults": [
           {
@@ -678,6 +678,61 @@
             "message": "Fixed Travis checkstyle error",
             "insertions": 4,
             "deletions": 4
+          },
+          {
+            "hash": "82d29d68cee9357d5f8f77351c689db3c0d84090",
+            "message": "updated UserGuide and fixed some bug with my list event command.",
+            "insertions": 149,
+            "deletions": 53
+          },
+          {
+            "hash": "0fc6e40540c8ca82386115726c9734d46cc5fe95",
+            "message": "fixed travis checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6e4d98f5f08f08317ed0453b64c333500eaaaf39",
+            "message": "fixed checkstyle",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "d34185a652f4fbdc48518f1091950129b2bd29fa",
+            "message": "fixed erro",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "60f65b1d99fabec4347c9a0df9f9f512707ce4d7",
+            "message": "updated version",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 26,
+        "deletions": 38,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "dc7bb7bd44959c7c1a6cbf05f4cbf4ec96109e1a",
+            "message": "updated project portfolio page",
+            "insertions": 21,
+            "deletions": 26
+          },
+          {
+            "hash": "38790d23b311d048747a3e17b585e85dd6284abb",
+            "message": "changed some stuff in my project portfolio page",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "35c6024f62f7d973d076596e1218a52e99ab5c0a",
+            "message": "fixed checkstyle error",
+            "insertions": 5,
+            "deletions": 5
           }
         ]
       }
@@ -1202,10 +1257,60 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 9,
+        "deletions": 2,
         "date": "2019-04-01",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "636ed3df9337640676abd23395b4b316c88a5ff5",
+            "message": "Added activities class",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "45ecf5fa4c632f6f0e74af4606417ea170957b04",
+            "message": "Made Activities class",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "8eb284a9484c7498d2eaadd6dfe065627251c55e",
+            "message": "Update Activities.java",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 81,
+        "deletions": 6,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "9a7dcf595d876a9ece291cc18b22f7478b7d6a7b",
+            "message": "added the addActivity command to the user guide",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "948c67f0b84377eef9bee7e9d7c75d14f12d77a8",
+            "message": "Added my portfolio",
+            "insertions": 72,
+            "deletions": 0
+          },
+          {
+            "hash": "5c5d36f4b7d5173fc66a112ef10b77e41c66b251",
+            "message": "Changed Project Portfolio",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "04545a8d84d4b2caab03211e014897a788ecba67",
+            "message": "Made more Changes to my portfolio",
+            "insertions": 4,
+            "deletions": 5
+          }
+        ]
       }
     ],
     "Sameow": [
@@ -1655,10 +1760,60 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 99,
+        "deletions": 9,
         "date": "2019-04-01",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "8cf87c4d418edbfee5691f36a3386b45d2a2b82b",
+            "message": "Basic structure up in place",
+            "insertions": 84,
+            "deletions": 7
+          },
+          {
+            "hash": "65f2534dcb043828e44de7f9a8471a4232fa68ae",
+            "message": "Fixed travis error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3f14aa9cff89c6e043e90d6425911e06b43e3a36",
+            "message": "some progress",
+            "insertions": 14,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 44,
+        "deletions": 27,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "427b22df16ffa7915311a67c421fa5496a8a4e4e",
+            "message": "preparing PPP",
+            "insertions": 33,
+            "deletions": 25
+          },
+          {
+            "hash": "2ecf9b9066f5223b6e0bf55c7c9360bc3053a4c7",
+            "message": "Fixed Travis errors",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "200439b61d0915ab4bc59bb976130dcb94a2a7d3",
+            "message": "avoid testing for now",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b241dab1aa6e21edc20097681a7e435e9d991a05",
+            "message": "updated testcase for interleave feature",
+            "insertions": 6,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "Shizhe-NUS": [
@@ -2019,90 +2174,26 @@
         "deletions": 0,
         "date": "2019-04-01",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "windrichie": 2276,
-    "JKupoluyi": 277,
-    "Sameow": 168,
-    "Shizhe-NUS": 71
-  },
-  "authorFileFormatContributionMap": {
-    "windrichie": {
-      "adoc": 121,
-      "cs": 0,
-      "css": 0,
-      "fxml": 44,
-      "gradle": 0,
-      "html": 0,
-      "java": 2111,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "JKupoluyi": {
-      "adoc": 56,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 221,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "Sameow": {
-      "adoc": 42,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 100,
-      "js": 0,
-      "json": 26,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "Shizhe-NUS": {
-      "adoc": 42,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 29,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "windrichie": 2382,
+    "JKupoluyi": 292,
+    "Sameow": 270,
+    "Shizhe-NUS": 70
   },
   "authorContributionVariance": {
-    "windrichie": 42266.7,
-    "JKupoluyi": 2789.768,
-    "Sameow": 334.9214,
-    "Shizhe-NUS": 81.610886
+    "windrichie": 45064.152,
+    "JKupoluyi": 2827.3477,
+    "Sameow": 604.72015,
+    "Shizhe-NUS": 80.139114
   },
   "authorDisplayNameMap": {
     "windrichie": "Windrich",

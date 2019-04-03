@@ -301,6 +301,30 @@
         "deletions": 0,
         "date": "2019-03-30",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
       }
     ],
     "articstranger": [
@@ -797,6 +821,43 @@
             "deletions": 33
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "5196010f8688bcda34b61e185c10f2f36793665c",
+            "message": "UserGuide: updated map command",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f70e941864f6697b49e9d2645b233420c4cc60a6",
+            "message": "UserGuide: fixed some typos",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
       }
     ],
     "wongyuqi": [
@@ -1092,6 +1153,30 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
         "commitResults": []
       }
     ],
@@ -1626,100 +1711,137 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 61,
+        "deletions": 11,
         "date": "2019-03-29",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "8eaae1e1abe4f1f683973c2b51346550eaaf35e2",
+            "message": "update edit beneficiary",
+            "insertions": 61,
+            "deletions": 11
+          }
+        ]
       },
       {
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-30",
         "commitResults": []
+      },
+      {
+        "insertions": 58,
+        "deletions": 26,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "dbdcb3585a7fd4ad23784c46c8438486aac76f5f",
+            "message": "fix Quinn assign bug",
+            "insertions": 58,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 396,
+        "deletions": 72,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "9f04ecb9042e5b6dd1c5511f022b3f04c7129c22",
+            "message": "fix bug adding same beneficiary",
+            "insertions": 15,
+            "deletions": 23
+          },
+          {
+            "hash": "c9d8f670e795b77299a511042eac2ea4dc64376c",
+            "message": "Update add error message",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "50b5bb1be47c6cc1f46e51ee8ea515aec3de2f57",
+            "message": "update edit beneficiary command to adopt project assigned",
+            "insertions": 23,
+            "deletions": 8
+          },
+          {
+            "hash": "87b826c0f43e2cc436afd66a2c961ce5b97b8c40",
+            "message": "Update doc",
+            "insertions": 66,
+            "deletions": 11
+          },
+          {
+            "hash": "224ace7d672f89ade82e0b82d0d884bb985b0e36",
+            "message": "try summary command",
+            "insertions": 156,
+            "deletions": 3
+          },
+          {
+            "hash": "04b62ee1ecd49d10097087ab09465f484e54c3cf",
+            "message": "new beneficiary summary command",
+            "insertions": 115,
+            "deletions": 12
+          },
+          {
+            "hash": "f2785909f07c4822859f7c46f900e5bcfac6ca1f",
+            "message": "fix after merge",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "b787ebddaf6d48a5f22c58ca46d5a6b4090fef30",
+            "message": "fix zander problem AGAIN",
+            "insertions": 7,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 26,
+        "deletions": 8,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "534bfdf17ec10af252a770cc5b1d9cb3928025df",
+            "message": "fix bug for assign command and add volunteer command",
+            "insertions": 24,
+            "deletions": 6
+          },
+          {
+            "hash": "7455148a85849712dcc00d265273d53552301833",
+            "message": "fix project storage problem",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 72,
+        "deletions": 12,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "c1135d480e9db67cc749cd0374bb3226461d3cf4",
+            "message": "update PPP",
+            "insertions": 72,
+            "deletions": 12
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "quinnzzzzz": 7,
-    "articstranger": 412,
+    "quinnzzzzz": 8,
+    "articstranger": 405,
     "wongyuqi": 0,
-    "ndhuu": 3055
-  },
-  "authorFileFormatContributionMap": {
-    "quinnzzzzz": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 7,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "articstranger": {
-      "adoc": 25,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 387,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "wongyuqi": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "ndhuu": {
-      "adoc": 323,
-      "cs": 0,
-      "css": 6,
-      "fxml": 122,
-      "gradle": 0,
-      "html": 0,
-      "java": 2604,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "ndhuu": 3724
   },
   "authorContributionVariance": {
-    "quinnzzzzz": 0.07996675,
-    "articstranger": 4665.11,
+    "quinnzzzzz": 0.07404777,
+    "articstranger": 4335.777,
     "wongyuqi": 0.0,
-    "ndhuu": 165902.83
+    "ndhuu": 155414.17
   },
   "authorDisplayNameMap": {
     "quinnzzzzz": "ZHA... RU",

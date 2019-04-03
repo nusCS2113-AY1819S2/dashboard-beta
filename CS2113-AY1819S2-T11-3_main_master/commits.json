@@ -507,6 +507,12 @@
         "deletions": 0,
         "date": "2019-03-31",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
       }
     ],
     "jacobhan": [
@@ -816,6 +822,12 @@
         "deletions": 0,
         "date": "2019-03-31",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
       }
     ],
     "ngkaicong": [
@@ -1117,6 +1129,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
         "commitResults": []
       }
     ],
@@ -1460,90 +1478,39 @@
             "deletions": 14
           }
         ]
+      },
+      {
+        "insertions": 153,
+        "deletions": 25,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "d287be64093afb720de0a9cb255593c104adfbf5",
+            "message": "Fixed some bugs, improved UI for report",
+            "insertions": 40,
+            "deletions": 22
+          },
+          {
+            "hash": "129ffb5cb64bfb85d3063a2e109b41b79f78dd9f",
+            "message": "Added new pie charts to give insights to expense and income",
+            "insertions": 113,
+            "deletions": 3
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "frankquekch": 2978,
+    "frankquekch": 2975,
     "jacobhan": 0,
     "ngkaicong": 0,
-    "yushao2": 404
-  },
-  "authorFileFormatContributionMap": {
-    "frankquekch": {
-      "adoc": 236,
-      "cs": 0,
-      "css": 1,
-      "fxml": 5,
-      "gradle": 14,
-      "html": 0,
-      "java": 2650,
-      "js": 0,
-      "json": 72,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "jacobhan": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "ngkaicong": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "yushao2": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 18,
-      "gradle": 0,
-      "html": 0,
-      "java": 386,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "yushao2": 528
   },
   "authorContributionVariance": {
-    "frankquekch": 408573.56,
-    "jacobhan": 12.25,
+    "frankquekch": 401493.44,
+    "jacobhan": 12.01461,
     "ngkaicong": 0.0,
-    "yushao2": 1572.3236
+    "yushao2": 2080.3145
   },
   "authorDisplayNameMap": {
     "frankquekch": "DOM...HAO",

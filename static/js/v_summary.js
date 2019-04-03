@@ -1,13 +1,15 @@
-window.comparator = (fn) => function compare(a, b) {
-  const a1 = fn(a);
-  const b1 = fn(b);
-  if (a1 === b1) {
-    return 0;
-  } if (a1 < b1) {
-    return -1;
-  }
-  return 1;
-};
+function comparator(fn) {
+  return function compare(a, b) {
+    const a1 = fn(a);
+    const b1 = fn(b);
+    if (a1 === b1) {
+      return 0;
+    } if (a1 < b1) {
+      return -1;
+    }
+    return 1;
+  };
+}
 
 // date functions //
 const DAY_IN_MS = (1000 * 60 * 60 * 24);
@@ -46,9 +48,8 @@ window.vSummary = {
       filterSearch: '',
       filterSort: 'displayName',
       filterSortReverse: false,
-      filterGroupSelection: 'groupByRepos',
+      filterGroupRepos: true,
       filterTimeFrame: 'day',
-      filterBreakdown: false,
       tmpFilterSinceDate: '',
       tmpFilterUntilDate: '',
       filterSinceDate: '',
@@ -57,7 +58,6 @@ window.vSummary = {
       rampSize: 0.01,
       minDate: '',
       maxDate: '',
-      contributionBarColors: {},
     };
   },
   watch: {
@@ -70,14 +70,10 @@ window.vSummary = {
     filterSortReverse() {
       this.getFiltered();
     },
+    filterGroupRepos() {
+      this.getFiltered();
+    },
     filterTimeFrame() {
-      this.getFiltered();
-    },
-    filterGroupSelection() {
-      this.getFiltered();
-      this.updateSortSelection();
-    },
-    filterBreakdown() {
       this.getFiltered();
     },
     tmpFilterSinceDate() {
@@ -152,45 +148,6 @@ window.vSummary = {
                 + `since=${slice.date}'T'00:00:00+08:00&`
                 + `until=${untilDate}'T'23:59:59+08:00`;
     },
-    getFileFormatContributionBars(fileFormatContribution) {
-      let totalWidth = 0;
-      const contributionLimit = (this.avgContributionSize * 2);
-      const totalBars = {};
-      const maxLength = 100;
-
-      Object.keys(fileFormatContribution).forEach((fileFormat) => {
-        const contribution = fileFormatContribution[fileFormat];
-        const res = [];
-        let fileFormatWidth = 0;
-
-        // compute 100% width bars
-        const cnt = parseInt(contribution / contributionLimit, 10);
-        for (let cntId = 0; cntId < cnt; cntId += 1) {
-          res.push(maxLength);
-          fileFormatWidth += maxLength;
-          totalWidth += maxLength;
-        }
-
-        // compute < 100% width bars
-        const last = (contribution % contributionLimit) / contributionLimit;
-        if (last !== 0) {
-          res.push(last * maxLength);
-          fileFormatWidth += last * maxLength;
-          totalWidth += last * maxLength;
-        }
-
-        // split > 100% width bars into smaller bars
-        if ((totalWidth > maxLength) && (totalWidth !== fileFormatWidth)) {
-          res.unshift(maxLength - (totalWidth - fileFormatWidth));
-          res[res.length - 1] = res[res.length - 1] - (maxLength - (totalWidth - fileFormatWidth));
-          totalWidth = res[res.length - 1];
-        }
-        totalBars[fileFormat] = res;
-      });
-
-      return totalBars;
-    },
-
     getContributionBars(totalContribution) {
       const res = [];
       const contributionLimit = (this.avgContributionSize * 2);
@@ -223,8 +180,7 @@ window.vSummary = {
       addHash('timeframe', this.filterTimeFrame);
 
       addHash('reverse', this.filterSortReverse);
-      addHash('groupSelect', this.filterGroupSelection);
-      addHash('breakdown', this.filterBreakdown);
+      addHash('repoSort', this.filterGroupRepos);
 
       encodeHash();
     },
@@ -246,13 +202,7 @@ window.vSummary = {
       }
 
       if (hash.reverse) { this.filterSortReverse = convertBool(hash.reverse); }
-      if (hash.groupSelect) {
-        this.filterGroupSelection = hash.groupSelect;
-      }
-      if (hash.breakdown) {
-        this.filterBreakdown = convertBool(hash.breakdown);
-      }
-      window.decodeHash();
+      if (hash.repoSort) { this.filterGroupRepos = convertBool(hash.repoSort); }
     },
 
     getDates() {
@@ -295,7 +245,6 @@ window.vSummary = {
         this.filterUntilDate = maxDate;
         this.maxDate = maxDate;
       }
-      this.$emit('get-dates', [this.minDate, this.maxDate]);
     },
     getFiltered() {
       this.setSummaryHash();
@@ -331,24 +280,6 @@ window.vSummary = {
 
       this.getDates();
       this.sortFiltered();
-    },
-    processFileFormats() {
-      const selectedColors = ['#ffe119', '#4363d8', '#3cb44b', '#f58231', '#911eb4', '#46f0f0', '#f032e6',
-          '#bcf60c', '#fabebe', '#008080', '#e6beff', '#9a6324', '#fffac8', '#800000', '#aaffc3', '#808000', '#ffd8b1',
-          '#000075', '#808080'];
-      const colors = {};
-      let i = 0;
-
-      this.repos.forEach((repo) => {
-        const user = repo.users[0];
-        Object.keys(user.fileFormatContribution).forEach((fileFormat) => {
-          if (!Object.prototype.hasOwnProperty.call(colors, fileFormat)) {
-            colors[fileFormat] = selectedColors[i];
-            i = (i + 1) % selectedColors.length;
-          }
-        });
-        this.contributionBarColors = colors;
-      });
     },
     splitCommitsWeek(user) {
       const { commits } = user;
@@ -433,22 +364,26 @@ window.vSummary = {
 
       return null;
     },
-    updateSortSelection() {
-      if (this.filterGroupSelection === 'groupByAuthors' && this.filterSort === 'displayName') {
-        this.filterSort = 'searchPath';
-      } else if (this.filterGroupSelection === 'groupByRepos' && this.filterSort === 'searchPath') {
-        this.filterSort = 'displayName';
-      }
-    },
     sortFiltered() {
-      let full = [];
-      if (this.filterGroupSelection === 'groupByNone') {
-        // push all repos into the same group
-        full[0] = this.groupByNone(this.filtered);
-      } else if (this.filterGroupSelection === 'groupByAuthors') {
-        full = this.groupByAuthors(this.filtered);
-      } else {
-        full = this.groupByRepos(this.filtered);
+      const full = [];
+      if (!this.filterGroupRepos) {
+        full.push([]);
+      }
+
+      this.filtered.forEach((users) => {
+        if (this.filterGroupRepos) {
+          users.sort(comparator((ele) => ele[this.filterSort]));
+          full.push(users);
+        } else {
+          users.forEach((user) => full[0].push(user));
+        }
+      });
+
+      if (!this.filterGroupRepos) {
+        full[0].sort(comparator((ele) => {
+          const field = ele[this.filterSort];
+          return field.toLowerCase ? field.toLowerCase() : field;
+        }));
       }
 
       if (this.filterSortReverse) {
@@ -457,52 +392,9 @@ window.vSummary = {
 
       this.filtered = full;
     },
-
-    groupByRepos(repos) {
-      const sortedRepos = [];
-      repos.forEach((users) => {
-        users.sort(window.comparator((ele) => ele[this.filterSort]));
-        sortedRepos.push(users);
-      });
-      return sortedRepos;
-    },
-    groupByNone(repos) {
-      const sortedRepos = [];
-      repos.forEach((users) => {
-        users.forEach((user) => {
-          sortedRepos.push(user);
-        });
-      });
-      sortedRepos.sort(window.comparator((ele) => {
-        const field = ele[this.filterSort];
-        return field.toLowerCase ? field.toLowerCase() : field;
-      }));
-      return sortedRepos;
-    },
-    groupByAuthors(repos) {
-      const authorMap = {};
-      const filtered = [];
-      repos.forEach((users) => {
-        users.forEach((user) => {
-          if (Object.keys(authorMap).includes(user.name)) {
-            authorMap[user.name].push(user);
-          } else {
-            authorMap[user.name] = [user];
-          }
-        });
-      });
-
-      Object.keys(authorMap).forEach((author) => filtered.push(authorMap[author]));
-      filtered.sort(window.comparator((ele) => {
-        const field = ele[0].displayName;
-        return field.toLowerCase();
-      }));
-      return filtered;
-    },
   },
   created() {
     this.renderFilterHash();
     this.getFiltered();
-    this.processFileFormats();
   },
 };

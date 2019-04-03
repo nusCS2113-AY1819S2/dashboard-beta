@@ -358,6 +358,18 @@
         "deletions": 0,
         "date": "2019-04-01",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
       }
     ],
     "swalahlah": [
@@ -665,6 +677,18 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
         "commitResults": []
       }
     ],
@@ -1071,10 +1095,109 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 14,
+        "deletions": 9,
         "date": "2019-04-01",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "fec2483082ae8628af85cef47b7b207706e714a1",
+            "message": "clean up for some comments",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "9ba3d3a59bb79b36d160d3b0d097a925ac8e89bf",
+            "message": "added \"$\" in message upon adding purchase",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f4e345d1f38c4d4c8704f9999b8d4c91eb62a580",
+            "message": "-updated studenthandbookUI for readme.adoc -included $ signs on expenditure list shown to user",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "4b4510da0825f7e28dbbd023e073632a56599c9c",
+            "message": "updated screenshot in userguide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "54d78ea81278642da5692a7f46be53d404c130a9",
+            "message": "updated UI class diagram for developer guide",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 132,
+        "deletions": 128,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "cca4712d80490e912f78b1d4932cca588a06f1c8",
+            "message": "trying to solve missing link on GUI in user guide",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e9dce300b13b75eb01f0c9b8668958f5d7f50a4c",
+            "message": "updated startup GUI in userguide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a7a39eec540f481c8f1f7b354fc649ad24ddead5",
+            "message": "changed name of addressbook in UI and some messages",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "8194c5a0aba61e60e8b04253acf1cc3d7c32bfc9",
+            "message": "updated user guide for peer test",
+            "insertions": 124,
+            "deletions": 120
+          }
+        ]
+      },
+      {
+        "insertions": 47,
+        "deletions": 46,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "e5f2f8ae3914258b17c1a2b554e77ae08758196e",
+            "message": "updated README.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "b1e1b0d4b5dddbc6f42558b6ad8dc75604510aff",
+            "message": "updated developer guide",
+            "insertions": 36,
+            "deletions": 35
+          },
+          {
+            "hash": "a5866828e195af8a647c35ae1be0acef34a6330d",
+            "message": "updated example on addpurchase command",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1d525a2343adb73d53755d4c0c374c7eb022ff91",
+            "message": "updated error message for addpurchase command",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "cd44f3d4b76633032db750c2d41578f82f7247cb",
+            "message": "updated mainwindow title updated screenshots for readme.adoc and userguide",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
       }
     ],
     "jayrometan": [
@@ -1464,8 +1587,8 @@
         ]
       },
       {
-        "insertions": 591,
-        "deletions": 102,
+        "insertions": 733,
+        "deletions": 136,
         "date": "2019-04-01",
         "commitResults": [
           {
@@ -1479,92 +1602,40 @@
             "message": "Some minor fixes",
             "insertions": 362,
             "deletions": 43
+          },
+          {
+            "hash": "e2572c1fbe27ab8cc439cbd358511247e74c9c89",
+            "message": "Implemented some missing methods Generated a JAR file.",
+            "insertions": 142,
+            "deletions": 34
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
     "yongjia96": 1163,
     "swalahlah": 0,
-    "weizhonglauw": 1807,
-    "jayrometan": 2284
-  },
-  "authorFileFormatContributionMap": {
-    "yongjia96": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 1163,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "swalahlah": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "weizhonglauw": {
-      "adoc": 99,
-      "cs": 0,
-      "css": 0,
-      "fxml": 51,
-      "gradle": 0,
-      "html": 0,
-      "java": 1657,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "jayrometan": {
-      "adoc": 429,
-      "cs": 0,
-      "css": 0,
-      "fxml": 53,
-      "gradle": 0,
-      "html": 0,
-      "java": 1742,
-      "js": 0,
-      "json": 60,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "weizhonglauw": 1845,
+    "jayrometan": 2386
   },
   "authorContributionVariance": {
-    "yongjia96": 9707.686,
+    "yongjia96": 9362.927,
     "swalahlah": 0.0,
-    "weizhonglauw": 140320.36,
-    "jayrometan": 32050.201
+    "weizhonglauw": 135479.03,
+    "jayrometan": 35758.598
   },
   "authorDisplayNameMap": {
     "yongjia96": "PAN...JIA",

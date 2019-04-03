@@ -377,6 +377,18 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
       }
     ],
     "shawn-t": [
@@ -778,6 +790,86 @@
         "deletions": 0,
         "date": "2019-03-31",
         "commitResults": []
+      },
+      {
+        "insertions": 97,
+        "deletions": 67,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "ba34a7fef7c6dc505a3671c66416cda141694f94",
+            "message": "Implemented Refer Command",
+            "insertions": 65,
+            "deletions": 61
+          },
+          {
+            "hash": "741958db1ce28bc2bfd4e998361b7582c15c6496",
+            "message": "Updated User Guide Updated Developer Guide",
+            "insertions": 32,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 176,
+        "deletions": 51,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "3ce5761d8418fcdf98762b4d74d03a3af9bcbe58",
+            "message": "Create shawn-t.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "6ece849dd8812694b05ee0753090e4fb3f63f7b1",
+            "message": "Updated shawn-t portfolio",
+            "insertions": 41,
+            "deletions": 0
+          },
+          {
+            "hash": "3c360142864114d30591f459659671d4add4f2be",
+            "message": "Reformatted Project Portfolio",
+            "insertions": 31,
+            "deletions": 21
+          },
+          {
+            "hash": "b7f18678d5465e4d53f54fdbf5087de920e3bed1",
+            "message": "Folio Update 2.0",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "642e1438a4ed80584d2757da4e00075195a1b76b",
+            "message": "test edit",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cb9c6a2196bcc393fcd57081b3e6422d0f445240",
+            "message": "test edit 2",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "2f82ceeb01d522375d7d8fda3455248f8f988125",
+            "message": "undo test edit",
+            "insertions": 15,
+            "deletions": 12
+          },
+          {
+            "hash": "c4f6d8a8a2fb63a0e5d95fa00db978f4207e745b",
+            "message": "no message",
+            "insertions": 80,
+            "deletions": 2
+          },
+          {
+            "hash": "63c722659614c1710c8413f74f43ec25bb200229",
+            "message": "Update shawn-t.adoc",
+            "insertions": 0,
+            "deletions": 10
+          }
+        ]
       }
     ],
     "matthiaslum": [
@@ -1204,6 +1296,25 @@
         "deletions": 0,
         "date": "2019-03-31",
         "commitResults": []
+      },
+      {
+        "insertions": 73,
+        "deletions": 24,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "c63256a2e2f41e29c842f81ca31ba4b99dde1fba",
+            "message": "fixed v1.3 bug and enhanced appointments to include time, updated user/developer guide",
+            "insertions": 73,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
       }
     ],
     "WuPeiHsuan": [
@@ -1582,90 +1693,32 @@
         "deletions": 0,
         "date": "2019-03-31",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "liguanlong": 336,
-    "shawn-t": 359,
-    "matthiaslum": 452,
-    "WuPeiHsuan": 270
-  },
-  "authorFileFormatContributionMap": {
-    "liguanlong": {
-      "adoc": 152,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 184,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "shawn-t": {
-      "adoc": 176,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 183,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "matthiaslum": {
-      "adoc": 90,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 358,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 4,
-      "xml": 0
-    },
-    "WuPeiHsuan": {
-      "adoc": 55,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 215,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "liguanlong": 344,
+    "shawn-t": 515,
+    "matthiaslum": 512,
+    "WuPeiHsuan": 274
   },
   "authorContributionVariance": {
-    "liguanlong": 41742.46,
-    "shawn-t": 1601.8265,
-    "matthiaslum": 4225.869,
-    "WuPeiHsuan": 124.279884
+    "liguanlong": 40189.434,
+    "shawn-t": 2867.1924,
+    "matthiaslum": 4196.9106,
+    "WuPeiHsuan": 119.713135
   },
   "authorDisplayNameMap": {
     "liguanlong": "LI ...ONG",
