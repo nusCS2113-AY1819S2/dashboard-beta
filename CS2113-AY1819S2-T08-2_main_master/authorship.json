@@ -49,138 +49,138 @@
         "author": {
           "gitId": "-"
         },
-        "content": "https://www.codacy.com/app/damith/addressbook-level4?utm_source\u003dgithub.com\u0026utm_medium\u003dreferral\u0026utm_content\u003dse-edu/addressbook-level4\u0026utm_campaign\u003dBadge_Grade[image:https://api.codacy.com/project/badge/Grade/fc0b7775cf7f4fdeaf08776f3d8e364a[Codacy Badge]]"
+        "content": "https://gitter.im/se-edu/Lobby[image:https://badges.gitter.im/se-edu/Lobby.svg[Gitter chat]]"
       },
       {
         "lineNumber": 8,
         "author": {
           "gitId": "-"
         },
-        "content": "https://gitter.im/se-edu/Lobby[image:https://badges.gitter.im/se-edu/Lobby.svg[Gitter chat]]"
+        "content": ""
       },
       {
         "lineNumber": 9,
         "author": {
           "gitId": "-"
         },
-        "content": ""
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
         "content": "ifdef::env-github[]"
       },
       {
-        "lineNumber": 11,
+        "lineNumber": 10,
         "author": {
           "gitId": "weizhonglauw"
         },
         "content": "image::docs/images/readmeUI.PNG[width\u003d\"600\"]"
       },
       {
-        "lineNumber": 12,
+        "lineNumber": 11,
         "author": {
           "gitId": "-"
         },
         "content": "endif::[]"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
       },
       {
         "lineNumber": 13,
         "author": {
           "gitId": "-"
         },
-        "content": ""
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
         "content": "ifndef::env-github[]"
       },
       {
-        "lineNumber": 15,
+        "lineNumber": 14,
         "author": {
           "gitId": "weizhonglauw"
         },
         "content": "image::images/readmeUI.PNG[width\u003d\"600\"]"
       },
       {
-        "lineNumber": 16,
+        "lineNumber": 15,
         "author": {
           "gitId": "-"
         },
         "content": "endif::[]"
       },
       {
-        "lineNumber": 17,
+        "lineNumber": 16,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 18,
+        "lineNumber": 17,
         "author": {
           "gitId": "weizhonglauw"
         },
         "content": "* _LIFE_ is a desktop application. It has a GUI but most of the user interactions happen using a CLI (Command Line Interface)."
       },
       {
-        "lineNumber": 19,
+        "lineNumber": 18,
         "author": {
           "gitId": "weizhonglauw"
         },
         "content": "It is a one stop application for NUS students to manage their student life in terms of"
       },
       {
-        "lineNumber": 20,
+        "lineNumber": 19,
         "author": {
           "gitId": "weizhonglauw"
         },
         "content": "** Meeting deadlines"
       },
       {
-        "lineNumber": 21,
+        "lineNumber": 20,
         "author": {
           "gitId": "weizhonglauw"
         },
         "content": "** Managing finances"
       },
       {
-        "lineNumber": 22,
+        "lineNumber": 21,
         "author": {
           "gitId": "weizhonglauw"
         },
         "content": "** Planning and recording workouts"
       },
       {
-        "lineNumber": 23,
+        "lineNumber": 22,
         "author": {
           "gitId": "weizhonglauw"
         },
         "content": "** Forming good habits to improve lifestyle"
       },
       {
-        "lineNumber": 24,
+        "lineNumber": 23,
         "author": {
           "gitId": "weizhonglauw"
         },
         "content": "* Features: Task List, Expenditure List, Workout Tracker, Habit Tracker and Contact List."
       },
       {
-        "lineNumber": 25,
+        "lineNumber": 24,
         "author": {
           "gitId": "weizhonglauw"
         },
         "content": "* *Written in OOP fashion*. It provides a *reasonably well-written* code example that is *significantly bigger* (around 6 KLoC)than what students usually write in beginner-level SE modules."
       },
       {
-        "lineNumber": 26,
+        "lineNumber": 25,
         "author": {
           "gitId": "weizhonglauw"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "-"
         },
         "content": ""
       },
@@ -189,124 +189,118 @@
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d Site Map"
       },
       {
         "lineNumber": 28,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Site Map"
+        "content": ""
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "* \u003c\u003cUserGuide#, User Guide\u003e\u003e"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "-"
         },
-        "content": "* \u003c\u003cUserGuide#, User Guide\u003e\u003e"
+        "content": "* \u003c\u003cDeveloperGuide#, Developer Guide\u003e\u003e"
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "-"
         },
-        "content": "* \u003c\u003cDeveloperGuide#, Developer Guide\u003e\u003e"
+        "content": "* \u003c\u003cLearningOutcomes#, Learning Outcomes\u003e\u003e"
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "-"
         },
-        "content": "* \u003c\u003cLearningOutcomes#, Learning Outcomes\u003e\u003e"
+        "content": "* \u003c\u003cAboutUs#, About Us\u003e\u003e"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "-"
         },
-        "content": "* \u003c\u003cAboutUs#, About Us\u003e\u003e"
+        "content": "* \u003c\u003cContactUs#, Contact Us\u003e\u003e"
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "-"
         },
-        "content": "* \u003c\u003cContactUs#, Contact Us\u003e\u003e"
+        "content": ""
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d Acknowledgements"
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Acknowledgements"
+        "content": ""
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "* Some parts of this sample application were inspired by the excellent http://code.makery.ch/library/javafx-8-tutorial/[Java FX tutorial] by"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "-"
         },
-        "content": "* Some parts of this sample application were inspired by the excellent http://code.makery.ch/library/javafx-8-tutorial/[Java FX tutorial] by"
+        "content": "_Marco Jakob_."
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "-"
         },
-        "content": "_Marco Jakob_."
-      },
-      {
-        "lineNumber": 40,
-        "author": {
-          "gitId": "-"
-        },
         "content": "* Libraries used: https://github.com/TestFX/TestFX[TestFX], https://github.com/FasterXML/jackson[Jackson], https://github.com/junit-team/junit5[JUnit5]"
       },
       {
-        "lineNumber": 41,
+        "lineNumber": 40,
         "author": {
           "gitId": "weizhonglauw"
         },
         "content": "* This code was transformed from the great https://github.com/se-edu/addressbook-level4[AddressBook Level 4]."
       },
       {
-        "lineNumber": 42,
+        "lineNumber": 41,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 43,
+        "lineNumber": 42,
         "author": {
-          "gitId": "-"
+          "gitId": "jayrometan"
         },
         "content": "\u003d\u003d License : link:LICENSE[MIT]"
       }
     ],
     "authorContributionMap": {
       "weizhonglauw": 13,
-      "-": 30
+      "-": 28,
+      "jayrometan": 1
     }
   },
   {
@@ -11252,7 +11246,7 @@
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "-"
+          "gitId": "jayrometan"
         },
         "content": "\u003d\u003d\u003d Task List"
       },
@@ -11406,7 +11400,7 @@
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "-"
+          "gitId": "jayrometan"
         },
         "content": "\u003d\u003d\u003d\u003d Delete Task : `deleteTask` "
       },
@@ -11420,7 +11414,7 @@
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "-"
+          "gitId": "jayrometan"
         },
         "content": "Deletes the specified item off the Task List.  +"
       },
@@ -11525,7 +11519,7 @@
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "-"
+          "gitId": "jayrometan"
         },
         "content": "\u003d\u003d\u003d\u003d Edit Task : `editTask` "
       },
@@ -11539,7 +11533,7 @@
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "-"
+          "gitId": "jayrometan"
         },
         "content": "Edits an existing specified task on the Task List.  +"
       },
@@ -14115,7 +14109,8 @@
     ],
     "authorContributionMap": {
       "weizhonglauw": 77,
-      "-": 404
+      "-": 399,
+      "jayrometan": 5
     }
   },
   {
