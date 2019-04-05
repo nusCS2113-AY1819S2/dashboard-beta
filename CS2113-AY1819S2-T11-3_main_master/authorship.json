@@ -2041,344 +2041,6 @@
     }
   },
   {
-    "path": "docs/AboutUs.adoc",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d About Us"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ":site-section: AboutUs"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ":relfileprefix: team/"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ":imagesDir: images"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ":stylesDir: stylesheets"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "Budgeter was developed by T11/3."
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "We are a team based in the http://www.comp.nus.edu.sg[School of Computing, National University of Singapore]."
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d Project Team"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Pang Yu Shao"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "image::yushao2.png[width\u003d\"150\", align\u003d\"left\"]"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "{empty}[https://github.com/yushao2[github]]"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "Role: TBC"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u0027\u0027\u0027"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Dominic"
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "image::frankquekch.png[width\u003d\"150\", align\u003d\"left\"]"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "{empty}[http://github.com/frankquekch[github]]"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "Role: TBC"
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "Responsibilities: TBC"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u0027\u0027\u0027"
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Ng Kai Cong"
-      },
-      {
-        "lineNumber": 31,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "image::ngkaicong.png[width\u003d\"150\", align\u003d\"left\"]"
-      },
-      {
-        "lineNumber": 32,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "{empty}[http://github.com/ngkaicong[github]]"
-      },
-      {
-        "lineNumber": 33,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 34,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "Role: TBC"
-      },
-      {
-        "lineNumber": 35,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "Responsibilities: TBC"
-      },
-      {
-        "lineNumber": 36,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 37,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u0027\u0027\u0027"
-      },
-      {
-        "lineNumber": 38,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 39,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u003d\u003d\u003d Jacob"
-      },
-      {
-        "lineNumber": 40,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "image::jacobhan.png[width\u003d\"150\", align\u003d\"left\"]"
-      },
-      {
-        "lineNumber": 41,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "{empty}[http://github.com/jacobhan[github]]"
-      },
-      {
-        "lineNumber": 42,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 43,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "Role: TBC"
-      },
-      {
-        "lineNumber": 44,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "Responsibilities: TBC"
-      },
-      {
-        "lineNumber": 45,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 46,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "\u0027\u0027\u0027"
-      },
-      {
-        "lineNumber": 47,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      }
-    ],
-    "authorContributionMap": {
-      "frankquekch": 5,
-      "-": 42
-    }
-  },
-  {
     "path": "docs/DeveloperGuide.adoc",
     "lines": [
       {
@@ -11383,7 +11045,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "image::Report.png[width\u003d\"790\"]"
+        "content": "image::ui2.png[width\u003d\"790\"]"
       },
       {
         "lineNumber": 34,
@@ -11724,16 +11386,16 @@
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "* `add n/DinnerWithKenneth d/20-02-2019 m/-5`"
+        "content": "* `add n/DinnerWithKenneth d/20-02-2019 c/-5`"
       },
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "* `add n/IncomeFromWork m/+100 d/01-01-2019 t/Work`"
+        "content": "* `add n/IncomeFromWork c/+100 d/01-01-2019 t/Work`"
       },
       {
         "lineNumber": 84,
@@ -13301,7 +12963,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d Showing a summary table of all financial activity by category: `summary`"
       },
       {
         "lineNumber": 308,
@@ -13315,42 +12977,42 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d FAQ"
+        "content": "Shows a summary table listing by categories. +"
       },
       {
         "lineNumber": 310,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "A `summary` is an item that contains information on the *date or month that is represented*, the *total expense calculated*, the *total income calculated* and"
       },
       {
         "lineNumber": 311,
         "author": {
           "gitId": "-"
         },
-        "content": "*Q*: How do I transfer my data to another Computer? +"
+        "content": "the *net cash flow calculated.* A `category` refers to any `set of tags` that are assigned to any entries in the application. +"
       },
       {
         "lineNumber": 312,
         "author": {
           "gitId": "-"
         },
-        "content": "*A*: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous Address Book folder."
+        "content": ""
       },
       {
         "lineNumber": 313,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "The summary command supports both listing categories. +"
       },
       {
         "lineNumber": 314,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Command Summary"
+        "content": "Format: +"
       },
       {
         "lineNumber": 315,
@@ -13362,154 +13024,448 @@
       {
         "lineNumber": 316,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "* *Add* `add n/NAME d/DATE c/CASHFLOW [t/TAG]...` +"
+        "content": "* By Category: `summary category d/START_DATE END_DATE`"
       },
       {
         "lineNumber": 317,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "e.g. `add n/Lunch with James Ho d/12-02-2019 c/+100.00 t/friend t/colleague`"
+        "content": ""
       },
       {
         "lineNumber": 318,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Clear* : `clear`"
+        "content": "****"
       },
       {
         "lineNumber": 319,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Delete* : `delete INDEX` +"
+        "content": "* Note that there are specific formats required for the dates and months entered."
       },
       {
         "lineNumber": 320,
         "author": {
           "gitId": "-"
         },
-        "content": "e.g. `delete 3`"
+        "content": "* For the command *\"summary category\"*, START_DATE/END_DATE must be in the format of"
       },
       {
         "lineNumber": 321,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "* *Edit* : `edit INDEX [n/NAME] [d/DATE] [c/CASHFLOW] [t/TAG]...` +"
+        "content": "`dd-mm-yyyy` where `dd` represents day, `mm` represents month, `yyyy` represents year."
       },
       {
         "lineNumber": 322,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "e.g. `edit 2 n/James Lee c/+12`"
+        "content": "* For command *\"summary month\"*, START_MONTH/END_MONTH must in the format of `mmm-yyyy`, `mmm` represents the month with its three letter representations, and"
       },
       {
         "lineNumber": 323,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Find* : `find KEYWORD [MORE_KEYWORDS]` +"
+        "content": "`yyyy` represents the year in its numerical form."
       },
       {
         "lineNumber": 324,
         "author": {
           "gitId": "-"
         },
-        "content": "e.g. `find James Jake`"
+        "content": "* Refer to \u003c\u003cconstraints\u003e\u003e for the more information on the parameters."
       },
       {
         "lineNumber": 325,
         "author": {
           "gitId": "-"
         },
-        "content": "* *List* : `list`"
+        "content": "* Note that for mmm, it is case-insensitive, meaning both *\"APR\"* and *\"apr\"* are accepted."
       },
       {
         "lineNumber": 326,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Help* : `help`"
+        "content": "****"
       },
       {
         "lineNumber": 327,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Select* : `select INDEX` +"
+        "content": "// end::summary[]"
       },
       {
         "lineNumber": 328,
         "author": {
           "gitId": "-"
         },
-        "content": "e.g.`select 2`"
+        "content": "Once the command has been executed, a panel will appear showing the summary table containing data that is relevant in the range. +"
       },
       {
         "lineNumber": 329,
         "author": {
           "gitId": "-"
         },
-        "content": "* *History* : `history`"
+        "content": "The table entries are sorted according to category depending on the mode used in ascending order. +"
       },
       {
         "lineNumber": 330,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Undo* : `undo`"
+        "content": "At the same time, currently selected entry will be unselected to reduce confusion for the user."
       },
       {
         "lineNumber": 331,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Redo* : `redo`"
+        "content": ""
       },
       {
         "lineNumber": 332,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Report* : `report`"
+        "content": "[NOTE]"
       },
       {
         "lineNumber": 333,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Report insight* : `Report insight`"
+        "content": "The table listing is currently non-resizable. If category is too long, the default behaviour of this app is to truncate"
       },
       {
         "lineNumber": 334,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Filter* : `filter`"
+        "content": "those words and replace the parts truncated with ellipses(\"...\")."
       },
       {
         "lineNumber": 335,
         "author": {
           "gitId": "-"
         },
-        "content": "* *Display* : `display`"
+        "content": ""
       },
       {
         "lineNumber": 336,
         "author": {
           "gitId": "-"
         },
+        "content": "// tag::summary[]"
+      },
+      {
+        "lineNumber": 337,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Examples:"
+      },
+      {
+        "lineNumber": 338,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 339,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* `summary category d/1-1-2018 12-12-2018`"
+      },
+      {
+        "lineNumber": 340,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "// end::summary[]"
+      },
+      {
+        "lineNumber": 341,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 342,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d\u003d Lock"
+      },
+      {
+        "lineNumber": 343,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 344,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d\u003d Display"
+      },
+      {
+        "lineNumber": 345,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 346,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d\u003d Report"
+      },
+      {
+        "lineNumber": 347,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 348,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d\u003d Report Insight"
+      },
+      {
+        "lineNumber": 349,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 350,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d FAQ"
+      },
+      {
+        "lineNumber": 351,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 352,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*Q*: How do I transfer my data to another Computer? +"
+      },
+      {
+        "lineNumber": 353,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*A*: Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous Address Book folder."
+      },
+      {
+        "lineNumber": 354,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 355,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d Command Summary"
+      },
+      {
+        "lineNumber": 356,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 357,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "* *Add* `add n/NAME d/DATE c/CASHFLOW [t/TAG]...` +"
+      },
+      {
+        "lineNumber": 358,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "e.g. `add n/Lunch with James Ho d/12-02-2019 c/+100.00 t/friend t/colleague`"
+      },
+      {
+        "lineNumber": 359,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Clear* : `clear`"
+      },
+      {
+        "lineNumber": 360,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Delete* : `delete INDEX` +"
+      },
+      {
+        "lineNumber": 361,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "e.g. `delete 3`"
+      },
+      {
+        "lineNumber": 362,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "* *Edit* : `edit INDEX [n/NAME] [d/DATE] [c/CASHFLOW] [t/TAG]...` +"
+      },
+      {
+        "lineNumber": 363,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "e.g. `edit 2 n/James Lee c/+12`"
+      },
+      {
+        "lineNumber": 364,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Find* : `find KEYWORD [MORE_KEYWORDS]` +"
+      },
+      {
+        "lineNumber": 365,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "e.g. `find James Jake`"
+      },
+      {
+        "lineNumber": 366,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *List* : `list`"
+      },
+      {
+        "lineNumber": 367,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Help* : `help`"
+      },
+      {
+        "lineNumber": 368,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Select* : `select INDEX` +"
+      },
+      {
+        "lineNumber": 369,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "e.g.`select 2`"
+      },
+      {
+        "lineNumber": 370,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *History* : `history`"
+      },
+      {
+        "lineNumber": 371,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Undo* : `undo`"
+      },
+      {
+        "lineNumber": 372,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Redo* : `redo`"
+      },
+      {
+        "lineNumber": 373,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Report* : `report`"
+      },
+      {
+        "lineNumber": 374,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Report insight* : `Report insight`"
+      },
+      {
+        "lineNumber": 375,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Filter* : `filter`"
+      },
+      {
+        "lineNumber": 376,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Display* : `display`"
+      },
+      {
+        "lineNumber": 377,
+        "author": {
+          "gitId": "-"
+        },
         "content": "* *Lock* : `lock`"
+      },
+      {
+        "lineNumber": 378,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* *Summary by category* : `summary category [d/Start date End date]`"
       }
     ],
     "authorContributionMap": {
-      "frankquekch": 86,
-      "-": 250
+      "frankquekch": 84,
+      "-": 294
     }
   },
   {
@@ -19543,6 +19499,610 @@
     }
   },
   {
+    "path": "src/main/java/seedu/address/logic/commands/BitcoinCommand.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "package seedu.address.logic.commands;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.io.BufferedReader;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.io.IOException;"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.io.InputStreamReader;"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.net.HttpURLConnection;"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.net.MalformedURLException;"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.net.URL;"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.util.function.Predicate;"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import javafx.collections.ObservableList;"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.logic.CommandHistory;"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.Model;"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.model.entry.CashFlow;"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.model.entry.Entry;"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.model.entry.ReportEntryList;"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": " * Returns how many Bitcoin you can buy at the current market price."
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "public class BitcoinCommand extends Command {"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public static final String COMMAND_WORD \u003d \"bitcoin\";"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \": Displays how much bitcoin you can buy.\\n\""
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            + \"Example: \" + COMMAND_WORD;"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public static final String MESSAGE_SUCCESS \u003d \"You are able to buy .\";"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    private final Predicate predicate;"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public BitcoinCommand(Predicate predicate) {"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        this.predicate \u003d predicate;"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public CommandResult execute(Model model, CommandHistory history) {"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        double price \u003d 0.0;"
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            URL url \u003d new URL(\"https://min-api.cryptocompare.com/data/pricemulti?fsyms\u003dBTC\u0026tsyms\u003dUSD\");"
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            HttpURLConnection conn \u003d (HttpURLConnection) url.openConnection();"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            conn.setRequestMethod(\"GET\");"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            conn.setRequestProperty(\"Accept\", \"application/json\");"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            if (conn.getResponseCode() !\u003d 200) {"
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "                throw new RuntimeException(\"Failed : HTTP error code : \""
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "                        + conn.getResponseCode());"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            BufferedReader br \u003d new BufferedReader(new InputStreamReader((conn.getInputStream())));"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            System.out.println(\"Output from Server .... \\n\");"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            String output \u003d br.readLine();"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            System.out.println(output);"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            //            while ((output \u003d br.readLine()) !\u003d null) {"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            //                System.out.println(output);"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            //                temp \u003d output;"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            //            }"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            System.out.println(output.substring(14, 21));"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            model.updateFilteredEntryList(this.predicate);"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            ObservableList\u003cEntry\u003e filteredList \u003d model.getFilteredEntryList();"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            ReportEntryList reportList \u003d new ReportEntryList(filteredList);"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            Double total \u003d reportList.getTotal();"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(total);"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            price \u003d Float.parseFloat(output.substring(14, 21));"
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            System.out.println(price);"
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            conn.disconnect();"
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        } catch (MalformedURLException e) {"
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            e.printStackTrace();"
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        } catch (IOException e) {"
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            e.printStackTrace();"
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        double roundOff \u003d (double) Math.round(price * 100.0) / 100.0;"
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 80,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        // This is where you divide the cashflow by the price of bitcoin, and add it to the message"
+      },
+      {
+        "lineNumber": 81,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 82,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        System.out.println(\"The current price of bitcoin is $\" + roundOff);"
+      },
+      {
+        "lineNumber": 83,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        return new CommandResult(MESSAGE_SUCCESS);"
+      },
+      {
+        "lineNumber": 84,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 85,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "jacobhan": 18,
+      "-": 67
+    }
+  },
+  {
     "path": "src/main/java/seedu/address/logic/commands/CommandResult.java",
     "lines": [
       {
@@ -22491,6 +23051,483 @@
     }
   },
   {
+    "path": "src/main/java/seedu/address/logic/commands/EthereumCommand.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "package seedu.address.logic.commands;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.logic.CommandHistory;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.model.Model;"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.io.BufferedReader;"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.io.IOException;"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.io.InputStreamReader;"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.net.HttpURLConnection;"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.net.MalformedURLException;"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.net.URL;"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": " * Returns how many Ethereum you can buy at the current market price."
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "public class EthereumCommand extends Command {"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public static final String COMMAND_WORD \u003d \"ethereum\";"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \": Displays how much ethereum you can buy.\\n\""
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            + \"Example: \" + COMMAND_WORD;"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public static final String MESSAGE_SUCCESS \u003d \"You are able to buy .\";"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public CommandResult execute(Model model, CommandHistory history) {"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        double price \u003d 0.0;"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            URL url \u003d new URL(\"https://min-api.cryptocompare.com/data/pricemulti?fsyms\u003dETH\u0026tsyms\u003dUSD\");"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            HttpURLConnection conn \u003d (HttpURLConnection) url.openConnection();"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            conn.setRequestMethod(\"GET\");"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            conn.setRequestProperty(\"Accept\", \"application/json\");"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            if (conn.getResponseCode() !\u003d 200) {"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "                throw new RuntimeException(\"Failed : HTTP error code : \""
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "                        + conn.getResponseCode());"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            BufferedReader br \u003d new BufferedReader(new InputStreamReader((conn.getInputStream())));"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(\"Output from Server .... \\n\");"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            String output \u003d br.readLine();"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(output);"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //            while ((output \u003d br.readLine()) !\u003d null) {"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //                System.out.println(output);"
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //                temp \u003d output;"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //            }"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(output.substring(14, 21));"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            price \u003d Float.parseFloat(output.substring(14, 21));"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(price);"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            conn.disconnect();"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        } catch (MalformedURLException e) {"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            e.printStackTrace();"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        } catch (IOException e) {"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            e.printStackTrace();"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        double roundOff \u003d (double) Math.round(price * 100.0) / 100.0;"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        // This is where you divide the cashflow by the price of ethereum, and add it to the message"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        System.out.println(\"The current price of ethereum is $\" + roundOff);"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        return new CommandResult(MESSAGE_SUCCESS);"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "jacobhan": 67
+    }
+  },
+  {
     "path": "src/main/java/seedu/address/logic/commands/ExitCommand.java",
     "lines": [
       {
@@ -23628,6 +24665,483 @@
     }
   },
   {
+    "path": "src/main/java/seedu/address/logic/commands/LitecoinCommand.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "package seedu.address.logic.commands;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.logic.CommandHistory;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.model.Model;"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.io.BufferedReader;"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.io.IOException;"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.io.InputStreamReader;"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.net.HttpURLConnection;"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.net.MalformedURLException;"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.net.URL;"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": " * Returns how many Litecoin you can buy at the current market price."
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "public class LitecoinCommand extends Command {"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public static final String COMMAND_WORD \u003d \"litecoin\";"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \": Displays how much litecoin you can buy.\\n\""
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            + \"Example: \" + COMMAND_WORD;"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public static final String MESSAGE_SUCCESS \u003d \"You are able to buy .\";"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public CommandResult execute(Model model, CommandHistory history) {"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        double price \u003d 0.0;"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            URL url \u003d new URL(\"https://min-api.cryptocompare.com/data/pricemulti?fsyms\u003dLTC\u0026tsyms\u003dUSD\");"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            HttpURLConnection conn \u003d (HttpURLConnection) url.openConnection();"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            conn.setRequestMethod(\"GET\");"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            conn.setRequestProperty(\"Accept\", \"application/json\");"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            if (conn.getResponseCode() !\u003d 200) {"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "                throw new RuntimeException(\"Failed : HTTP error code : \""
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "                        + conn.getResponseCode());"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            BufferedReader br \u003d new BufferedReader(new InputStreamReader((conn.getInputStream())));"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(\"Output from Server .... \\n\");"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            String output \u003d br.readLine();"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(output);"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //            while ((output \u003d br.readLine()) !\u003d null) {"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //                System.out.println(output);"
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //                temp \u003d output;"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //            }"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(output.substring(14, 21));"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            price \u003d Float.parseFloat(output.substring(14, 21));"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(price);"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            conn.disconnect();"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        } catch (MalformedURLException e) {"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            e.printStackTrace();"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        } catch (IOException e) {"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            e.printStackTrace();"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        double roundOff \u003d (double) Math.round(price * 100.0) / 100.0;"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        // This is where you divide the cashflow by the price of litecoin, and add it to the message"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        System.out.println(\"The current price of litecoin is $\" + roundOff);"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        return new CommandResult(MESSAGE_SUCCESS);"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "jacobhan": 67
+    }
+  },
+  {
     "path": "src/main/java/seedu/address/logic/commands/RedoCommand.java",
     "lines": [
       {
@@ -24120,94 +25634,87 @@
         "author": {
           "gitId": "yushao2"
         },
-        "content": "        model.updateFilteredEntryList(this.predicate);"
+        "content": "        ObservableList\u003cEntry\u003e filteredList \u003d model.getFilteredEntryList();"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "yushao2"
         },
-        "content": "        ObservableList\u003cEntry\u003e filteredList \u003d model.getFilteredEntryList();"
+        "content": "        ReportEntryList reportList \u003d new ReportEntryList(filteredList);"
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "yushao2"
         },
-        "content": "        ReportEntryList reportList \u003d new ReportEntryList(filteredList);"
+        "content": "        Double total \u003d reportList.getTotal();"
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "yushao2"
         },
-        "content": "        Double total \u003d reportList.getTotal();"
+        "content": "        Double income \u003d reportList.getTotalIncome();"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "yushao2"
         },
-        "content": "        Double income \u003d reportList.getTotalIncome();"
-      },
-      {
-        "lineNumber": 43,
-        "author": {
-          "gitId": "yushao2"
-        },
         "content": "        Double expense \u003d reportList.getTotalExpense();"
       },
       {
-        "lineNumber": 44,
+        "lineNumber": 43,
         "author": {
           "gitId": "-"
         },
         "content": "        Double bitcoin\u003d reportList.getBitcoin();"
       },
       {
-        "lineNumber": 45,
+        "lineNumber": 44,
         "author": {
           "gitId": "yushao2"
         },
         "content": "        return new CommandResult(\"Overview (Income - Expenses): \" + String.format(\"%.02f\", total)"
       },
       {
-        "lineNumber": 46,
+        "lineNumber": 45,
         "author": {
           "gitId": "yushao2"
         },
         "content": "                + \"\\n\" + \"Total Income: \" + String.format(\"%.02f\", income)"
       },
       {
-        "lineNumber": 47,
+        "lineNumber": 46,
         "author": {
           "gitId": "-"
         },
         "content": "                + \"\\n\" + \"Total Expenses: \" + String.format(\"%.02f\", expense)"
       },
       {
-        "lineNumber": 48,
+        "lineNumber": 47,
         "author": {
           "gitId": "-"
         },
         "content": "                + \"\\n\" + \"Total Bitcoin you can buy: \" + String.format(\"%.02f\", bitcoin),"
       },
       {
-        "lineNumber": 49,
+        "lineNumber": 48,
         "author": {
           "gitId": "yushao2"
         },
         "content": "                false, true, false);"
       },
       {
-        "lineNumber": 50,
+        "lineNumber": 49,
         "author": {
           "gitId": "-"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 51,
+        "lineNumber": 50,
         "author": {
           "gitId": "-"
         },
@@ -24216,7 +25723,7 @@
     ],
     "authorContributionMap": {
       "-": 30,
-      "yushao2": 21
+      "yushao2": 20
     }
   },
   {
@@ -24611,6 +26118,518 @@
     "authorContributionMap": {
       "frankquekch": 9,
       "-": 46
+    }
+  },
+  {
+    "path": "src/main/java/seedu/address/logic/commands/StockCommand.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "package seedu.address.logic.commands;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.logic.CommandHistory;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.model.Model;"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.io.BufferedReader;"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.io.IOException;"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.io.InputStreamReader;"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.net.HttpURLConnection;"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.net.MalformedURLException;"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.net.URL;"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": " * Returns how many Bitcoin you can buy at the current market price."
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "public class StockCommand extends Command {"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public static final String COMMAND_WORD \u003d \"stock\";"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \": Displays how much of a certain stock you can buy.\\n\""
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            + \"Example: \" + COMMAND_WORD;"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public static final String MESSAGE_SUCCESS \u003d \"You are able to buy .\";"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public String firstURL \u003d \"https://www.alphavantage.co/query?function\u003dTIME_SERIES_INTRADAY\u0026symbol\u003d\";"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public String stock \u003d \"temp\";"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public String secondURL \u003d \"\u0026interval\u003d5min\u0026apikey\u003ddemo\";"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public CommandResult execute(Model model, CommandHistory history) {"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        double price \u003d 0.0;"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            String temp \u003d firstURL + stock + secondURL;"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            URL url \u003d new URL(temp);"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            HttpURLConnection conn \u003d (HttpURLConnection) url.openConnection();"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            conn.setRequestMethod(\"GET\");"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            conn.setRequestProperty(\"Accept\", \"application/json\");"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            if (conn.getResponseCode() !\u003d 200) {"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "                throw new RuntimeException(\"Failed : HTTP error code : \""
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "                        + conn.getResponseCode());"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            BufferedReader br \u003d new BufferedReader(new InputStreamReader((conn.getInputStream())));"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(\"Output from Server .... \\n\");"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            String output \u003d br.readLine();"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(output);"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //            while ((output \u003d br.readLine()) !\u003d null) {"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //                System.out.println(output);"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //                temp \u003d output;"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //            }"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(output.substring(14, 21));"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            price \u003d Float.parseFloat(output.substring(14, 21));"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            System.out.println(price);"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            conn.disconnect();"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        } catch (MalformedURLException e) {"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            e.printStackTrace();"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        } catch (IOException e) {"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            e.printStackTrace();"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        double roundOff \u003d (double) Math.round(price * 100.0) / 100.0;"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        // This is where you divide the cashflow by the price of bitcoin, and add it to the message"
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        System.out.println(\"The current price of your stock is $\" + roundOff);"
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        return new CommandResult(MESSAGE_SUCCESS);"
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "jacobhan": 72
     }
   },
   {
@@ -25330,345 +27349,345 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "-"
+          "gitId": "jacobhan"
         },
-        "content": "import seedu.address.logic.commands.ClearCommand;"
+        "content": "import seedu.address.logic.commands.EthereumCommand;"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "-"
+          "gitId": "jacobhan"
         },
-        "content": "import seedu.address.logic.commands.Command;"
+        "content": "import seedu.address.logic.commands.LitecoinCommand;"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "-"
+          "gitId": "jacobhan"
         },
-        "content": "import seedu.address.logic.commands.DeleteCommand;"
+        "content": "import seedu.address.logic.commands.StockCommand;"
       },
       {
         "lineNumber": 15,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.DisplayCommand;"
+        "content": "import seedu.address.logic.commands.ClearCommand;"
       },
       {
         "lineNumber": 16,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.EditCommand;"
+        "content": "import seedu.address.logic.commands.Command;"
       },
       {
         "lineNumber": 17,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.ExitCommand;"
+        "content": "import seedu.address.logic.commands.DeleteCommand;"
       },
       {
         "lineNumber": 18,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.FilterCommand;"
+        "content": "import seedu.address.logic.commands.DisplayCommand;"
       },
       {
         "lineNumber": 19,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.FindCommand;"
+        "content": "import seedu.address.logic.commands.EditCommand;"
       },
       {
         "lineNumber": 20,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.HelpCommand;"
+        "content": "import seedu.address.logic.commands.ExitCommand;"
       },
       {
         "lineNumber": 21,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.HistoryCommand;"
+        "content": "import seedu.address.logic.commands.FilterCommand;"
       },
       {
         "lineNumber": 22,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.ListCommand;"
+        "content": "import seedu.address.logic.commands.FindCommand;"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.RedoCommand;"
+        "content": "import seedu.address.logic.commands.HelpCommand;"
       },
       {
         "lineNumber": 24,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.ReportCommand;"
+        "content": "import seedu.address.logic.commands.HistoryCommand;"
       },
       {
         "lineNumber": 25,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.SelectCommand;"
+        "content": "import seedu.address.logic.commands.ListCommand;"
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.UndoCommand;"
+        "content": "import seedu.address.logic.commands.RedoCommand;"
       },
       {
         "lineNumber": 27,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.LockCommand;"
+        "content": "import seedu.address.logic.commands.ReportCommand;"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "import seedu.address.logic.commands.SelectCommand;"
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.parser.exceptions.ParseException;"
+        "content": "import seedu.address.logic.commands.UndoCommand;"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "import seedu.address.logic.commands.LockCommand;"
       },
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "/**"
+        "content": ""
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "-"
         },
-        "content": " * Parses user input."
+        "content": "import seedu.address.logic.parser.exceptions.ParseException;"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "-"
         },
-        "content": " */"
+        "content": ""
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "-"
         },
-        "content": "public class AddressBookParser {"
+        "content": "/**"
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": " * Parses user input."
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": " */"
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Used for initial separation of command word and args."
+        "content": "public class AddressBookParser {"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": ""
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "-"
         },
-        "content": "    private static final Pattern BASIC_COMMAND_FORMAT \u003d Pattern.compile(\"(?\u003ccommandWord\u003e\\\\S+)(?\u003carguments\u003e.*)\");"
+        "content": "    /**"
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "     * Used for initial separation of command word and args."
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": "     */"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Parses user input into command for execution."
+        "content": "    private static final Pattern BASIC_COMMAND_FORMAT \u003d Pattern.compile(\"(?\u003ccommandWord\u003e\\\\S+)(?\u003carguments\u003e.*)\");"
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "-"
         },
-        "content": "     *"
+        "content": ""
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @param userInput full user input string"
+        "content": "    /**"
       },
       {
         "lineNumber": 45,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @return the command based on the user input"
+        "content": "     * Parses user input into command for execution."
       },
       {
         "lineNumber": 46,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @throws ParseException if the user input does not conform the expected format"
+        "content": "     *"
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "     * @param userInput full user input string"
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "-"
         },
-        "content": "    public Command parseCommand(String userInput) throws ParseException {"
+        "content": "     * @return the command based on the user input"
       },
       {
         "lineNumber": 49,
         "author": {
           "gitId": "-"
         },
-        "content": "        final Matcher matcher \u003d BASIC_COMMAND_FORMAT.matcher(userInput.trim());"
+        "content": "     * @throws ParseException if the user input does not conform the expected format"
       },
       {
         "lineNumber": 50,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "     */"
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "-"
         },
-        "content": "        if (!matcher.matches()) {"
+        "content": "    public Command parseCommand(String userInput) throws ParseException {"
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "-"
         },
-        "content": "            throw new ParseException(String.format(MESSAGE_INVALID_COMMAND_FORMAT, HelpCommand.MESSAGE_USAGE));"
+        "content": "        final Matcher matcher \u003d BASIC_COMMAND_FORMAT.matcher(userInput.trim());"
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": ""
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        if (!matcher.matches()) {"
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "-"
         },
-        "content": "        final String commandWord \u003d matcher.group(\"commandWord\");"
+        "content": "            throw new ParseException(String.format(MESSAGE_INVALID_COMMAND_FORMAT, HelpCommand.MESSAGE_USAGE));"
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "-"
         },
-        "content": "        final String arguments \u003d matcher.group(\"arguments\");"
+        "content": "        }"
       },
       {
         "lineNumber": 57,
         "author": {
           "gitId": "-"
         },
-        "content": "        switch (commandWord) {"
+        "content": ""
       },
       {
         "lineNumber": 58,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        final String commandWord \u003d matcher.group(\"commandWord\");"
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "-"
         },
-        "content": "        case AddCommand.COMMAND_WORD:"
+        "content": "        final String arguments \u003d matcher.group(\"arguments\");"
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new AddCommandParser().parse(arguments);"
+        "content": "        switch (commandWord) {"
       },
       {
         "lineNumber": 61,
@@ -25682,14 +27701,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case EditCommand.COMMAND_WORD:"
+        "content": "        case AddCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 63,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new EditCommandParser().parse(arguments);"
+        "content": "            return new AddCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 64,
@@ -25703,14 +27722,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case SelectCommand.COMMAND_WORD:"
+        "content": "        case EditCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 66,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new SelectCommandParser().parse(arguments);"
+        "content": "            return new EditCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 67,
@@ -25724,14 +27743,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case DeleteCommand.COMMAND_WORD:"
+        "content": "        case SelectCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 69,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new DeleteCommandParser().parse(arguments);"
+        "content": "            return new SelectCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 70,
@@ -25745,14 +27764,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case ClearCommand.COMMAND_WORD:"
+        "content": "        case DeleteCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new ClearCommand();"
+        "content": "            return new DeleteCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 73,
@@ -25766,14 +27785,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case FindCommand.COMMAND_WORD:"
+        "content": "        case ClearCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 75,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new FindCommandParser().parse(arguments);"
+        "content": "            return new ClearCommand();"
       },
       {
         "lineNumber": 76,
@@ -25787,14 +27806,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case ListCommand.COMMAND_WORD:"
+        "content": "        case FindCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 78,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new ListCommand();"
+        "content": "            return new FindCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 79,
@@ -25806,42 +27825,42 @@
       {
         "lineNumber": 80,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        case DisplayCommand.COMMAND_WORD:"
+        "content": "        case ListCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 81,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            return new DisplayCommandParser().parse(arguments);"
+        "content": "            return new ListCommand();"
       },
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "        case HistoryCommand.COMMAND_WORD:"
+        "content": "        case DisplayCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "            return new HistoryCommand();"
+        "content": "            return new DisplayCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
         "content": ""
       },
@@ -25850,14 +27869,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case BitcoinCommand.COMMAND_WORD:"
+        "content": "        case HistoryCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 87,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new BitcoinCommand();"
+        "content": "            return new HistoryCommand();"
       },
       {
         "lineNumber": 88,
@@ -25871,14 +27890,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case ExitCommand.COMMAND_WORD:"
+        "content": "        case BitcoinCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 90,
         "author": {
-          "gitId": "-"
+          "gitId": "jacobhan"
         },
-        "content": "            return new ExitCommand();"
+        "content": "            return new BitcoinCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 91,
@@ -25892,14 +27911,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case HelpCommand.COMMAND_WORD:"
+        "content": "        case ExitCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 93,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new HelpCommand();"
+        "content": "            return new ExitCommand();"
       },
       {
         "lineNumber": 94,
@@ -25913,14 +27932,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case UndoCommand.COMMAND_WORD:"
+        "content": "        case HelpCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 96,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new UndoCommand();"
+        "content": "            return new HelpCommand();"
       },
       {
         "lineNumber": 97,
@@ -25934,14 +27953,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case RedoCommand.COMMAND_WORD:"
+        "content": "        case UndoCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 99,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new RedoCommand();"
+        "content": "            return new UndoCommand();"
       },
       {
         "lineNumber": 100,
@@ -25953,42 +27972,42 @@
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        case FilterCommand.COMMAND_WORD:"
+        "content": "        case RedoCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "            return new FilterCommandParser().parse(arguments);"
+        "content": "            return new RedoCommand();"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "        case ReportCommand.COMMAND_WORD:"
+        "content": "        case FilterCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "            return new ReportCommandParser().parse(arguments);"
+        "content": "            return new FilterCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 106,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
         "content": ""
       },
@@ -25997,19 +28016,19 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case LockCommand.COMMAND_WORD:"
+        "content": "        case ReportCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 108,
         "author": {
           "gitId": "-"
         },
-        "content": "                return new LockCommandParser().parse(arguments);"
+        "content": "            return new ReportCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -26018,38 +28037,59 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        default:"
+        "content": "        case LockCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 111,
         "author": {
           "gitId": "-"
         },
-        "content": "            throw new ParseException(MESSAGE_UNKNOWN_COMMAND);"
+        "content": "                return new LockCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "        }"
+        "content": ""
       },
       {
         "lineNumber": 113,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        default:"
       },
       {
         "lineNumber": 114,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            throw new ParseException(MESSAGE_UNKNOWN_COMMAND);"
       },
       {
         "lineNumber": 115,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 116,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 117,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 118,
         "author": {
           "gitId": "-"
         },
@@ -26058,7 +28098,807 @@
     ],
     "authorContributionMap": {
       "frankquekch": 9,
-      "-": 106
+      "jacobhan": 4,
+      "-": 105
+    }
+  },
+  {
+    "path": "src/main/java/seedu/address/logic/parser/BitcoinCommandParser.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "package seedu.address.logic.parser;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.logic.commands.BitcoinCommand;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.logic.parser.exceptions.ParseException;"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.model.entry.Date;"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.model.entry.DateAfterGivenPredicate;"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import seedu.address.model.entry.DateBeforeGivenPredicate;"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.util.function.Predicate;"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import java.util.stream.Stream;"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import static seedu.address.commons.core.Messages.MESSAGE_INVALID_COMMAND_FORMAT;"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_ENDDATE;"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_STARTDATE;"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "import static seedu.address.model.Model.PREDICATE_SHOW_ALL_ENTRYS;"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": " * Parses input arguments and creates a new FindCommand object"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "public class BitcoinCommandParser implements Parser\u003cBitcoinCommand\u003e {"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "     * Parses the given {@code String} of arguments in the context of the ReportCommand"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "     * and returns an ReportCommand object for execution."
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "     * @throws ParseException if the user input does not conform the expected format"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    public BitcoinCommand parse(String args) throws ParseException {"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        Date startDate \u003d null;"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        Date endDate \u003d null;"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        Predicate afterStartPredicate \u003d null;"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        Predicate beforeEndPredicate \u003d null;"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        Predicate finalPredicate \u003d null;"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        ArgumentMultimap argMultimap \u003d ArgumentTokenizer.tokenize(args, PREFIX_STARTDATE, PREFIX_ENDDATE);"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        if (!argMultimap.getPreamble().isEmpty()) {"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            throw new ParseException(String.format(MESSAGE_INVALID_COMMAND_FORMAT, BitcoinCommand.MESSAGE_USAGE));"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        if(arePrefixesPresent(argMultimap, PREFIX_STARTDATE)){"
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //Get Entries from this date onwards"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //TODO"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            startDate \u003d ParserUtil.parseDate(argMultimap.getValue(PREFIX_STARTDATE).get());"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            afterStartPredicate \u003d new DateAfterGivenPredicate(startDate);"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        if(arePrefixesPresent(argMultimap, PREFIX_ENDDATE)){"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //Get Entries until this date"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            //TODO"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            endDate \u003d ParserUtil.parseDate(argMultimap.getValue(PREFIX_ENDDATE).get());"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            beforeEndPredicate \u003d new DateBeforeGivenPredicate(endDate);"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        if (endDate !\u003d null \u0026\u0026 startDate !\u003d null \u0026\u0026 startDate.isAfter(endDate))"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            throw new ParseException(String.format(MESSAGE_INVALID_COMMAND_FORMAT, BitcoinCommand.MESSAGE_USAGE));"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        else if (endDate !\u003d null \u0026\u0026 startDate !\u003d null \u0026\u0026 !startDate.isAfter(endDate))"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            finalPredicate \u003d afterStartPredicate.and(beforeEndPredicate);"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        else if (endDate \u003d\u003d null \u0026\u0026 startDate \u003d\u003d null)"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            finalPredicate \u003d PREDICATE_SHOW_ALL_ENTRYS;"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        else"
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "            finalPredicate \u003d (afterStartPredicate \u003d\u003d null) ? beforeEndPredicate : afterStartPredicate;"
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        return new BitcoinCommand(finalPredicate);"
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "     * Returns true if none of the prefixes contains empty {@code Optional} values in the given"
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "     * {@code ArgumentMultimap}."
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    private static boolean arePrefixesPresent(ArgumentMultimap argumentMultimap, Prefix... prefixes) {"
+      },
+      {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "        return Stream.of(prefixes).allMatch(prefix -\u003e argumentMultimap.getValue(prefix).isPresent());"
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 80,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//    FOR REFERENCE:"
+      },
+      {
+        "lineNumber": 81,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//    /**"
+      },
+      {
+        "lineNumber": 82,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//     * Parses the given {@code String} of arguments in the context of the AddCommand"
+      },
+      {
+        "lineNumber": 83,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//     * and returns an AddCommand object for execution."
+      },
+      {
+        "lineNumber": 84,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//     * @throws ParseException if the user input does not conform the expected format"
+      },
+      {
+        "lineNumber": 85,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//     */"
+      },
+      {
+        "lineNumber": 86,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//    public AddCommand parse(String args) throws ParseException {"
+      },
+      {
+        "lineNumber": 87,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//        ArgumentMultimap argMultimap \u003d"
+      },
+      {
+        "lineNumber": 88,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//                ArgumentTokenizer.tokenize(args, PREFIX_NAME, PREFIX_DATE, PREFIX_CASHFLOW, PREFIX_TAG);"
+      },
+      {
+        "lineNumber": 89,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//"
+      },
+      {
+        "lineNumber": 90,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//        if (!arePrefixesPresent(argMultimap, PREFIX_NAME, PREFIX_DATE, PREFIX_CASHFLOW)"
+      },
+      {
+        "lineNumber": 91,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//                || !argMultimap.getPreamble().isEmpty()) {"
+      },
+      {
+        "lineNumber": 92,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//            throw new ParseException(String.format(MESSAGE_INVALID_COMMAND_FORMAT, AddCommand.MESSAGE_USAGE));"
+      },
+      {
+        "lineNumber": 93,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//        }"
+      },
+      {
+        "lineNumber": 94,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//"
+      },
+      {
+        "lineNumber": 95,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//        Name name \u003d ParserUtil.parseName(argMultimap.getValue(PREFIX_NAME).get());"
+      },
+      {
+        "lineNumber": 96,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//        Date date \u003d ParserUtil.parseDate(argMultimap.getValue(PREFIX_DATE).get());"
+      },
+      {
+        "lineNumber": 97,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//        CashFlow cashFlow \u003d ParserUtil.parseCashFlow(argMultimap.getValue(PREFIX_CASHFLOW).get());"
+      },
+      {
+        "lineNumber": 98,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//        Set\u003cTag\u003e tagList \u003d ParserUtil.parseTags(argMultimap.getAllValues(PREFIX_TAG));"
+      },
+      {
+        "lineNumber": 99,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//"
+      },
+      {
+        "lineNumber": 100,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//        Entry person \u003d new Entry(name, date, cashFlow, tagList);"
+      },
+      {
+        "lineNumber": 101,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//"
+      },
+      {
+        "lineNumber": 102,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//        return new AddCommand(person);"
+      },
+      {
+        "lineNumber": 103,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//    }"
+      },
+      {
+        "lineNumber": 104,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//"
+      },
+      {
+        "lineNumber": 105,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//    /**"
+      },
+      {
+        "lineNumber": 106,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//     * Returns true if none of the prefixes contains empty {@code Optional} values in the given"
+      },
+      {
+        "lineNumber": 107,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//     * {@code ArgumentMultimap}."
+      },
+      {
+        "lineNumber": 108,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//     */"
+      },
+      {
+        "lineNumber": 109,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//    private static boolean arePrefixesPresent(ArgumentMultimap argumentMultimap, Prefix... prefixes) {"
+      },
+      {
+        "lineNumber": 110,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//        return Stream.of(prefixes).allMatch(prefix -\u003e argumentMultimap.getValue(prefix).isPresent());"
+      },
+      {
+        "lineNumber": 111,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "//    }"
+      },
+      {
+        "lineNumber": 112,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 113,
+        "author": {
+          "gitId": "jacobhan"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "jacobhan": 113
     }
   },
   {
@@ -33642,518 +36482,518 @@
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    public static final Double MAX_CASH \u003d 99999999999.99;"
+        "content": "    public static final String FORMAT_STANDARD_MONEY \u003d \"%.2f\";"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": ""
+        "content": "    public static final Double MAX_CASH \u003d 99999999999.99;"
       },
       {
         "lineNumber": 31,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 32,
         "author": {
           "gitId": "-"
         },
         "content": "    private static final String CASHFLOW_VALIDATION_REGEX \u003d \"^[+-]?(0|[1-9]\\\\d{0,11})(\\\\.\\\\d{1,2})?\";"
       },
       {
-        "lineNumber": 32,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": ""
-      },
-      {
         "lineNumber": 33,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    public final String value;"
+        "content": ""
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    public final Double valueDouble;"
+        "content": "    public final String value;"
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": ""
+        "content": "    public final Double valueDouble;"
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "    private CashFlow(String cashFlow) {"
+        "content": ""
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "-"
         },
-        "content": "        this(Double.parseDouble(cashFlow));"
+        "content": "    public CashFlow(String cashFlow) {"
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    }"
+        "content": "        requireNonNull(cashFlow);"
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "        checkArgument(isValidMoneyFlow(cashFlow), MESSAGE_CONSTRAINTS);"
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "-"
         },
-        "content": "    private CashFlow(Double cashFlow) {"
+        "content": "        this.value \u003d cashFlow;"
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        requireNonNull(cashFlow);"
+        "content": "        valueDouble \u003d Double.valueOf(cashFlow);"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "yushao2"
+          "gitId": "-"
         },
-        "content": "        String cashFlowStr \u003d String.format(\"%.2f\", cashFlow);"
+        "content": "        checkArgument(isFinite(valueDouble), MESSAGE_CONSTRAINTS);"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "yushao2"
+          "gitId": "frankquekch"
         },
-        "content": "        checkArgument(isValidCashFlow(cashFlowStr), MESSAGE_CONSTRAINTS);"
+        "content": "    }"
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        this.valueDouble \u003d cashFlow;"
+        "content": ""
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "        value \u003d cashFlow.toString();"
+        "content": "    public CashFlow(Double cashFlow) {"
       },
       {
         "lineNumber": 46,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    }"
+        "content": "        requireNonNull(cashFlow);"
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        checkArgument(isValidMoneyFlow(cashFlow.toString()), MESSAGE_CONSTRAINTS);"
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "    /**"
+        "content": "        this.valueDouble \u003d cashFlow;"
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "     * Static method to get an instance of CashFlow using the class\u0027s private constructors"
+        "content": "        value \u003d cashFlow.toString();"
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "-"
+          "gitId": "frankquekch"
         },
-        "content": "     * Checks whether the supplied argument cashFlow is of type String or Double and calls the correct constructor"
+        "content": "    }"
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "-"
         },
-        "content": "     * for it."
+        "content": ""
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "-"
         },
-        "content": "     *"
+        "content": "    public static boolean isValidMoneyFlow(String test) {"
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "-"
         },
-        "content": "     * If the supplied argument is not an instance of String or Double, Throws an IllegalArgumentException."
+        "content": "        return test.matches(CASHFLOW_VALIDATION_REGEX);"
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @param cashFlow (Float/String) -- The value of the CashFlow"
+        "content": "    }"
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @return the generated CashFlow Instance"
+        "content": ""
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "    /**"
       },
       {
         "lineNumber": 57,
         "author": {
           "gitId": "-"
         },
-        "content": "    public static CashFlow getCashFlow (Object cashFlow) {"
+        "content": "     * Static method to get an instance of CashFlow using the class\u0027s private constructors"
       },
       {
         "lineNumber": 58,
         "author": {
           "gitId": "-"
         },
-        "content": "        CashFlow cashFlowInstance;"
+        "content": "     * Checks whether the supplied argument cashFlow is of type String or Double and calls the correct constructor"
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "-"
         },
-        "content": "        if (cashFlow instanceof String){"
+        "content": "     * for it."
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "-"
         },
-        "content": "            String cashFlowStr \u003d (String) cashFlow;"
+        "content": "     *"
       },
       {
         "lineNumber": 61,
         "author": {
           "gitId": "-"
         },
-        "content": "            cashFlowInstance \u003d new CashFlow(cashFlowStr);"
+        "content": "     * If the supplied argument is not an instance of String or Double, Throws an IllegalArgumentException."
       },
       {
         "lineNumber": 62,
         "author": {
           "gitId": "-"
         },
-        "content": "            return cashFlowInstance;"
+        "content": "     * @param cashFlow (Float/String) -- The value of the CashFlow"
       },
       {
         "lineNumber": 63,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "     * @return the generated CashFlow Instance"
       },
       {
         "lineNumber": 64,
         "author": {
           "gitId": "-"
         },
-        "content": "        else if (cashFlow instanceof Double){"
+        "content": "     */"
       },
       {
         "lineNumber": 65,
         "author": {
           "gitId": "-"
         },
-        "content": "            Double cashFlowDbl \u003d (Double) cashFlow;"
+        "content": "    public static CashFlow getCashFlow (Object cashFlow) {"
       },
       {
         "lineNumber": 66,
         "author": {
           "gitId": "-"
         },
-        "content": "            cashFlowInstance \u003d new CashFlow(cashFlowDbl);"
+        "content": "        CashFlow cashFlowInstance;"
       },
       {
         "lineNumber": 67,
         "author": {
           "gitId": "-"
         },
-        "content": "            return cashFlowInstance;"
+        "content": "        if (cashFlow instanceof String){"
       },
       {
         "lineNumber": 68,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "            String cashFlowStr \u003d (String) cashFlow;"
       },
       {
         "lineNumber": 69,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            cashFlowInstance \u003d new CashFlow(cashFlowStr);"
       },
       {
         "lineNumber": 70,
         "author": {
           "gitId": "-"
         },
-        "content": "        requireNonNull(cashFlow);"
+        "content": "            return cashFlowInstance;"
       },
       {
         "lineNumber": 71,
         "author": {
           "gitId": "-"
         },
-        "content": "        throw new IllegalArgumentException(\"CashFlow requires a double/ string argument for its constructor\");"
+        "content": "        }"
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        else if (cashFlow instanceof Double){"
       },
       {
         "lineNumber": 73,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    /**"
+        "content": "            Double cashFlowDbl \u003d (Double) cashFlow;"
       },
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "     * Returns if a given string is a valid cashflow parameter."
+        "content": "            cashFlowInstance \u003d new CashFlow(cashFlowDbl);"
       },
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "     */"
+        "content": "            return cashFlowInstance;"
       },
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    public static boolean isValidCashFlow(String test) {"
+        "content": "        }"
       },
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "        return test.matches(CASHFLOW_VALIDATION_REGEX);"
-      },
-      {
-        "lineNumber": 78,
-        "author": {
-          "gitId": "frankquekch"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 79,
-        "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
         "content": ""
       },
       {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        requireNonNull(cashFlow);"
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        throw new IllegalArgumentException(\"CashFlow requires a double/ string argument for its constructor\");"
+      },
+      {
         "lineNumber": 80,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "    @Override"
+        "content": "    }"
       },
       {
         "lineNumber": 81,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    public String toString() {"
+        "content": "    /**"
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        if (String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble)).equals(\"0.00\")) {"
+        "content": "     * Returns if a given string is a valid cashflow parameter."
       },
       {
         "lineNumber": 83,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "            return CURRENCY + String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble));"
+        "content": "     */"
       },
       {
         "lineNumber": 84,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        } else if (valueDouble \u003e 0) {"
+        "content": "    public static boolean isValidCashFlow(String test) {"
       },
       {
         "lineNumber": 85,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "            return POSITIVE_SIGN + CURRENCY + String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble));"
+        "content": "        return test.matches(CASHFLOW_VALIDATION_REGEX);"
       },
       {
         "lineNumber": 86,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        } else {"
+        "content": "    }"
       },
       {
         "lineNumber": 87,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "            return NEGATIVE_SIGN + CURRENCY + String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble));"
+        "content": ""
       },
       {
         "lineNumber": 88,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        }"
+        "content": "    @Override"
       },
       {
         "lineNumber": 89,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    }"
+        "content": "    public String toString() {"
       },
       {
         "lineNumber": 90,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": ""
+        "content": "        if (String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble)).equals(\"0.00\")) {"
       },
       {
         "lineNumber": 91,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": ""
+        "content": "            return CURRENCY + String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble));"
       },
       {
         "lineNumber": 92,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    public boolean isNotLarger (double cashin) {"
+        "content": "        } else if (valueDouble \u003e 0) {"
       },
       {
         "lineNumber": 93,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        return (cashin \u003e\u003d valueDouble);"
+        "content": "            return POSITIVE_SIGN + CURRENCY + String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble));"
       },
       {
         "lineNumber": 94,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    }"
+        "content": "        } else {"
       },
       {
         "lineNumber": 95,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": ""
+        "content": "            return NEGATIVE_SIGN + CURRENCY + String.format(FORMAT_STANDARD_CASH, Math.abs(valueDouble));"
       },
       {
         "lineNumber": 96,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    @Override"
+        "content": "        }"
       },
       {
         "lineNumber": 97,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    public boolean equals(Object other) {"
+        "content": ""
       },
       {
         "lineNumber": 98,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        return other \u003d\u003d this // short circuit if same object"
+        "content": "    }"
       },
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "                || (other instanceof CashFlow // instanceof handles nulls"
+        "content": "    public double toDouble () {"
       },
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
-        "content": "                \u0026\u0026 value.equals(((CashFlow) other).value)); // state check"
+        "content": "        return valueDouble;"
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "frankquekch"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -34162,24 +37002,80 @@
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    public int hashCode() {"
+        "content": ""
       },
       {
         "lineNumber": 104,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "        return value.hashCode();"
+        "content": "    @Override"
       },
       {
         "lineNumber": 105,
         "author": {
           "gitId": "frankquekch"
         },
-        "content": "    }"
+        "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 106,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "        return other \u003d\u003d this // short circuit if same object"
+      },
+      {
+        "lineNumber": 107,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "                || (other instanceof CashFlow // instanceof handles nulls"
+      },
+      {
+        "lineNumber": 108,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "                \u0026\u0026 value.equals(((CashFlow) other).value)); // state check"
+      },
+      {
+        "lineNumber": 109,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 110,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 111,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    public int hashCode() {"
+      },
+      {
+        "lineNumber": 112,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "        return value.hashCode();"
+      },
+      {
+        "lineNumber": 113,
+        "author": {
+          "gitId": "frankquekch"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 114,
         "author": {
           "gitId": "frankquekch"
         },
@@ -34187,9 +37083,8 @@
       }
     ],
     "authorContributionMap": {
-      "frankquekch": 72,
-      "-": 32,
-      "yushao2": 2
+      "frankquekch": 68,
+      "-": 46
     }
   },
   {

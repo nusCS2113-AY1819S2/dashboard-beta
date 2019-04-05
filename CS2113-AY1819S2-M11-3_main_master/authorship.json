@@ -12358,9 +12358,9 @@
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "//test"
       },
       {
         "lineNumber": 10,
@@ -13001,8 +13001,8 @@
       }
     ],
     "authorContributionMap": {
-      "wanchinglim": 39,
-      "dannong": 2,
+      "wanchinglim": 38,
+      "dannong": 3,
       "-": 59
     }
   },

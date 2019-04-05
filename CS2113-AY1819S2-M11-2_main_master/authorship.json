@@ -10515,14 +10515,14 @@
       {
         "lineNumber": 1170,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": "|`* *` |user |have just one task manager account |make things simple and minimal"
       },
       {
         "lineNumber": 1171,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -10543,7 +10543,7 @@
       {
         "lineNumber": 1174,
         "author": {
-          "gitId": "Justin-Ong"
+          "gitId": "-"
         },
         "content": "|`*` |user |change the theme of the GUI |allow me to customise the app\u0027s appearance to my liking"
       },
@@ -12670,10 +12670,10 @@
       }
     ],
     "authorContributionMap": {
-      "Justin-Ong": 106,
+      "Justin-Ong": 105,
       "Shengkok": 65,
-      "khairulhazril": 305,
-      "-": 976,
+      "khairulhazril": 303,
+      "-": 979,
       "nicholasleeeee": 25
     }
   },
@@ -13488,7 +13488,7 @@
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -15701,8 +15701,8 @@
     "authorContributionMap": {
       "Justin-Ong": 5,
       "Shengkok": 70,
-      "khairulhazril": 124,
-      "-": 207,
+      "khairulhazril": 123,
+      "-": 208,
       "nicholasleeeee": 25
     }
   },
@@ -46983,7 +46983,7 @@
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
@@ -47011,14 +47011,14 @@
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 123,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -48650,8 +48650,8 @@
     "authorContributionMap": {
       "Justin-Ong": 2,
       "Shengkok": 50,
-      "khairulhazril": 87,
-      "-": 183,
+      "khairulhazril": 84,
+      "-": 186,
       "nicholasleeeee": 33
     }
   },
@@ -78080,7 +78080,7 @@
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "khairulhazril"
+          "gitId": "-"
         },
         "content": "\u003c?import javafx.scene.image.Image?\u003e"
       },
@@ -78585,8 +78585,7 @@
     "authorContributionMap": {
       "Justin-Ong": 12,
       "Shengkok": 7,
-      "khairulhazril": 1,
-      "-": 57
+      "-": 58
     }
   },
   {
