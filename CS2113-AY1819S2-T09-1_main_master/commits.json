@@ -747,6 +747,12 @@
         "deletions": 0,
         "date": "2019-04-04",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
       }
     ],
     "WendyBaiYunwei": [
@@ -1105,6 +1111,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
         "commitResults": []
       }
     ],
@@ -2259,6 +2271,12 @@
             "deletions": 5
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
       }
     ],
     "chyeo": [
@@ -3024,6 +3042,12 @@
         "deletions": 0,
         "date": "2019-04-04",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
       }
     ],
     "lycjackie": [
@@ -3756,22 +3780,35 @@
             "deletions": 2958
           }
         ]
+      },
+      {
+        "insertions": 59,
+        "deletions": 60,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "093745831230b6f2cf18373cdf49c2d6676744d8",
+            "message": "Logic/parser: convert `BooleanExpressionParser` to use generics (#193)",
+            "insertions": 59,
+            "deletions": 60
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
     "truegitnovice": 2518,
     "WendyBaiYunwei": 265,
-    "Creastery": 3789,
+    "Creastery": 3775,
     "chyeo": 2336,
-    "lycjackie": 4393
+    "lycjackie": 4406
   },
   "authorContributionVariance": {
-    "truegitnovice": 84657.6,
-    "WendyBaiYunwei": 1218.0648,
-    "Creastery": 200864.22,
-    "chyeo": 285036.34,
-    "lycjackie": 645760.7
+    "truegitnovice": 83307.26,
+    "WendyBaiYunwei": 1196.8351,
+    "Creastery": 197872.48,
+    "chyeo": 280487.25,
+    "lycjackie": 634048.6
   },
   "authorDisplayNameMap": {
     "truegitnovice": "AHN...GYU",

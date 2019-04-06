@@ -428,6 +428,12 @@
         "deletions": 0,
         "date": "2019-04-05",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
       }
     ],
     "gautamrajulu": [
@@ -849,6 +855,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
         "commitResults": []
       }
     ],
@@ -1355,8 +1367,8 @@
         ]
       },
       {
-        "insertions": 54,
-        "deletions": 22,
+        "insertions": 132,
+        "deletions": 195,
         "date": "2019-04-05",
         "commitResults": [
           {
@@ -1364,8 +1376,20 @@
             "message": "ProjectPortfolio: Update PPP and relevant sections of UGDG",
             "insertions": 54,
             "deletions": 22
+          },
+          {
+            "hash": "8900aedb57ac47c68fc7c284634e40a32e79e790",
+            "message": "UI: update browser panel to display task after selecting task",
+            "insertions": 78,
+            "deletions": 173
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
       }
     ],
     "arhjaye": [
@@ -1955,8 +1979,8 @@
         ]
       },
       {
-        "insertions": 46,
-        "deletions": 39,
+        "insertions": 65,
+        "deletions": 49,
         "date": "2019-04-05",
         "commitResults": [
           {
@@ -1964,6 +1988,25 @@
             "message": "update PPP (#137)",
             "insertions": 46,
             "deletions": 39
+          },
+          {
+            "hash": "fab8dd77d36376c2e74266528eaffe5fcc5112fc",
+            "message": "Update PPP - YRJ (#173)",
+            "insertions": 19,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 4,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "6b03cc27b7afc53fafd2c98a48c3beb3b0709e17",
+            "message": "Fix Bugs (#175)",
+            "insertions": 7,
+            "deletions": 4
           }
         ]
       }
@@ -2572,22 +2615,28 @@
         "deletions": 0,
         "date": "2019-04-05",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
     "rachellim10": 423,
     "gautamrajulu": 202,
-    "josephinetanadi": 4575,
-    "arhjaye": 1922,
-    "andreathniah": 5333
+    "josephinetanadi": 4628,
+    "arhjaye": 1931,
+    "andreathniah": 5319
   },
   "authorContributionVariance": {
-    "rachellim10": 1491.208,
-    "gautamrajulu": 305.25427,
-    "josephinetanadi": 260857.38,
-    "arhjaye": 193469.9,
-    "andreathniah": 2352539.8
+    "rachellim10": 1467.8928,
+    "gautamrajulu": 300.24493,
+    "josephinetanadi": 256976.55,
+    "arhjaye": 190203.03,
+    "andreathniah": 2311744.2
   },
   "authorDisplayNameMap": {
     "rachellim10": "RAC... YU",

@@ -461,8 +461,8 @@
         ]
       },
       {
-        "insertions": 56,
-        "deletions": 7,
+        "insertions": 229,
+        "deletions": 104,
         "date": "2019-04-05",
         "commitResults": [
           {
@@ -476,6 +476,18 @@
             "message": "fix checkstyle",
             "insertions": 2,
             "deletions": 1
+          },
+          {
+            "hash": "a00710adc7eb50045eb51cb3f5662d6dc8592608",
+            "message": "wrap up finance feature",
+            "insertions": 159,
+            "deletions": 79
+          },
+          {
+            "hash": "5cbca6ded9947e2720f7c439ab1749eb425e462f",
+            "message": "fix coding style",
+            "insertions": 14,
+            "deletions": 18
           }
         ]
       }
@@ -1040,14 +1052,39 @@
             "message": "Revert \"Improved Team Management\"",
             "insertions": 74,
             "deletions": 233
+          },
+          {
+            "hash": "32b48e55dd13186d5f76fa2b73d56b0275ea2dc8",
+            "message": "1",
+            "insertions": 0,
+            "deletions": 0
           }
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 201,
+        "deletions": 70,
         "date": "2019-04-05",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "cf13e19ceecd0a19468ccb85199b8246b9b8dfa4",
+            "message": "Added Export feature Player part done",
+            "insertions": 189,
+            "deletions": 66
+          },
+          {
+            "hash": "a715792062a6d268002bbfb70485d1bef11b7424",
+            "message": "updated build.gradle for travis build of Apache Poi",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "48f7e66c5b43e5ebe2968f4996906cd65e45a013",
+            "message": "edit to pass checkstyle, attempt 1",
+            "insertions": 8,
+            "deletions": 4
+          }
+        ]
       }
     ],
     "yingrong1996": [
@@ -2065,14 +2102,14 @@
     ]
   },
   "authorFinalContributionMap": {
-    "huyidi": 919,
-    "warheade": 2962,
-    "yingrong1996": 1820,
-    "E0176106": 2144
+    "huyidi": 985,
+    "warheade": 3120,
+    "yingrong1996": 1822,
+    "E0176106": 2127
   },
   "authorContributionVariance": {
-    "huyidi": 17480.74,
-    "warheade": 189849.4,
+    "huyidi": 19046.291,
+    "warheade": 189823.23,
     "yingrong1996": 59836.42,
     "E0176106": 143077.88
   },
