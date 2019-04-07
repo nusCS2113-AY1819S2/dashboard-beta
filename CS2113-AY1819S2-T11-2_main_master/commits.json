@@ -389,6 +389,36 @@
         "deletions": 0,
         "date": "2019-04-02",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ],
     "shawn-t": [
@@ -870,6 +900,50 @@
             "deletions": 10
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 63,
+        "deletions": 30,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "61182e2a8a033d86f4af62c97be63a90d0463420",
+            "message": "Updated Refer success messages",
+            "insertions": 63,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 5,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "9e383eec35073133022ffda9e1e615fe27c3fa06",
+            "message": "refer command bug fixed (able to refer even if name appears as keyword in other entries)",
+            "insertions": 6,
+            "deletions": 5
+          }
+        ]
       }
     ],
     "matthiaslum": [
@@ -1315,6 +1389,36 @@
         "deletions": 0,
         "date": "2019-04-02",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ],
     "WuPeiHsuan": [
@@ -1705,20 +1809,50 @@
         "deletions": 0,
         "date": "2019-04-02",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
     "liguanlong": 344,
-    "shawn-t": 515,
+    "shawn-t": 549,
     "matthiaslum": 512,
     "WuPeiHsuan": 274
   },
   "authorContributionVariance": {
-    "liguanlong": 40189.434,
-    "shawn-t": 2867.1924,
-    "matthiaslum": 4196.9106,
-    "WuPeiHsuan": 119.713135
+    "liguanlong": 36768.996,
+    "shawn-t": 2733.4365,
+    "matthiaslum": 3848.4192,
+    "WuPeiHsuan": 109.63804
   },
   "authorDisplayNameMap": {
     "liguanlong": "LI ...ONG",

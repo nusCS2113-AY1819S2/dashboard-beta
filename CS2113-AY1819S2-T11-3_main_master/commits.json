@@ -519,6 +519,36 @@
         "deletions": 0,
         "date": "2019-04-02",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ],
     "jacobhan": [
@@ -836,23 +866,40 @@
         "commitResults": []
       },
       {
-        "insertions": 341,
-        "deletions": 2,
+        "insertions": 0,
+        "deletions": 0,
         "date": "2019-04-02",
-        "commitResults": [
-          {
-            "hash": "74e573619452a628995e74cbc7d04b0f4fe1ae29",
-            "message": "three commands",
-            "insertions": 209,
-            "deletions": 0
-          },
-          {
-            "hash": "29e85beae0a8b8b076105759bd3cfaeae7a90e7f",
-            "message": "get report total",
-            "insertions": 132,
-            "deletions": 2
-          }
-        ]
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ],
     "ngkaicong": [
@@ -1166,6 +1213,36 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
         "commitResults": []
       }
     ],
@@ -1534,20 +1611,57 @@
         "deletions": 0,
         "date": "2019-04-02",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 70,
+        "deletions": 45,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "99d546c83f56fc5463b4541cfbffa64936f1a157",
+            "message": "Editted report fn",
+            "insertions": 70,
+            "deletions": 45
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "frankquekch": 2964,
-    "jacobhan": 341,
+    "frankquekch": 2973,
+    "jacobhan": 0,
     "ngkaicong": 0,
-    "yushao2": 525
+    "yushao2": 590
   },
   "authorContributionVariance": {
-    "frankquekch": 394650.12,
-    "jacobhan": 2224.417,
+    "frankquekch": 363614.75,
+    "jacobhan": 10.772549,
     "ngkaicong": 0.0,
-    "yushao2": 2043.933
+    "yushao2": 2057.3315
   },
   "authorDisplayNameMap": {
     "frankquekch": "DOM...HAO",

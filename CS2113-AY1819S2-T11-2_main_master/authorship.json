@@ -8565,268 +8565,268 @@
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "shawn-t"
         },
-        "content": "    public static String getMessageForAppointmentsShownSummary(List\u003c? extends ReadOnlyPerson\u003e personsDisplayed, String doctor) {"
+        "content": "    public static String getMessageForPersonReferShownSummary(List\u003c? extends ReadOnlyPerson\u003e personsDisplayed) {"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "shawn-t"
         },
-        "content": "        return String.format(Messages.MESSAGE_NUMBER_OF_APPOINTMENTS, doctor, personsDisplayed.size());"
+        "content": "        return String.format(Messages.MESSAGE_SELECT_PATIENT, personsDisplayed.size());"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "shawn-t"
         },
         "content": "    }"
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "shawn-t"
         },
-        "content": "    "
+        "content": ""
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "    public static String getMessageForPersonSortShownSummary(List\u003c? extends ReadOnlyPerson\u003e personsDisplayed, String column) {"
+        "content": "    public static String getMessageForAppointmentsShownSummary(List\u003c? extends ReadOnlyPerson\u003e personsDisplayed, String doctor) {"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "        column \u003d column.trim();"
+        "content": "        return String.format(Messages.MESSAGE_NUMBER_OF_APPOINTMENTS, doctor, personsDisplayed.size());"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "        return String.format(Messages.MESSAGE_PERSON_SORTED_OVERVIEW, personsDisplayed.size(), column);"
+        "content": "    }"
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": "    }"
+        "content": "    "
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "    public static String getMessageForPersonSortShownSummary(List\u003c? extends ReadOnlyPerson\u003e personsDisplayed, String column) {"
       },
       {
         "lineNumber": 50,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": "        column \u003d column.trim();"
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Executes the command and returns the result."
+        "content": "        return String.format(Messages.MESSAGE_PERSON_SORTED_OVERVIEW, personsDisplayed.size(), column);"
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "-"
+          "gitId": "matthiaslum"
         },
-        "content": "     */"
+        "content": "    }"
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "shawn-t"
+          "gitId": "matthiaslum"
         },
-        "content": "    public CommandResult execute() throws IllegalValueException {"
+        "content": ""
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "-"
         },
-        "content": "        throw new UnsupportedOperationException(\"This method should be implement in child classes\");"
+        "content": "    /**"
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "     * Executes the command and returns the result."
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "     */"
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "-"
+          "gitId": "shawn-t"
         },
-        "content": "    //Note: it is better to make the execute() method abstract, by replacing the above method with the line below:"
+        "content": "    public CommandResult execute() throws IllegalValueException {"
       },
       {
         "lineNumber": 58,
         "author": {
           "gitId": "-"
         },
-        "content": "    //public abstract CommandResult execute();"
+        "content": "        throw new UnsupportedOperationException(\"This method should be implement in child classes\");"
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": ""
       },
       {
         "lineNumber": 61,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Supplies the data the command will operate on."
+        "content": "    //Note: it is better to make the execute() method abstract, by replacing the above method with the line below:"
       },
       {
         "lineNumber": 62,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "    //public abstract CommandResult execute();"
       },
       {
         "lineNumber": 63,
         "author": {
           "gitId": "-"
         },
-        "content": "    public void setData(AddressBook addressBook, List\u003c? extends ReadOnlyPerson\u003e relevantPersons) {"
-      },
-      {
-        "lineNumber": 64,
-        "author": {
-          "gitId": "matthiaslum"
-        },
-        "content": "        this.addressBook \u003d addressBook; //passes a reference to the same object, so editing that object will store it directly."
-      },
-      {
-        "lineNumber": 65,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        this.relevantPersons \u003d relevantPersons;"
-      },
-      {
-        "lineNumber": 66,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 67,
-        "author": {
-          "gitId": "-"
-        },
         "content": ""
       },
       {
-        "lineNumber": 68,
+        "lineNumber": 64,
         "author": {
           "gitId": "-"
         },
         "content": "    /**"
       },
       {
-        "lineNumber": 69,
+        "lineNumber": 65,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Extracts the the target person in the last shown list from the given arguments."
+        "content": "     * Supplies the data the command will operate on."
       },
       {
-        "lineNumber": 70,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     *"
-      },
-      {
-        "lineNumber": 71,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * @throws IndexOutOfBoundsException if the target index is out of bounds of the last viewed listing"
-      },
-      {
-        "lineNumber": 72,
+        "lineNumber": 66,
         "author": {
           "gitId": "-"
         },
         "content": "     */"
       },
       {
-        "lineNumber": 73,
+        "lineNumber": 67,
         "author": {
           "gitId": "-"
         },
-        "content": "    protected ReadOnlyPerson getTargetPerson() throws IndexOutOfBoundsException {"
+        "content": "    public void setData(AddressBook addressBook, List\u003c? extends ReadOnlyPerson\u003e relevantPersons) {"
       },
       {
-        "lineNumber": 74,
+        "lineNumber": 68,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "        this.addressBook \u003d addressBook; //passes a reference to the same object, so editing that object will store it directly."
+      },
+      {
+        "lineNumber": 69,
         "author": {
           "gitId": "-"
         },
-        "content": "        return relevantPersons.get(getTargetIndex() - DISPLAYED_INDEX_OFFSET);"
+        "content": "        this.relevantPersons \u003d relevantPersons;"
       },
       {
-        "lineNumber": 75,
+        "lineNumber": 70,
         "author": {
           "gitId": "-"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 76,
+        "lineNumber": 71,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * Extracts the the target person in the last shown list from the given arguments."
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     *"
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * @throws IndexOutOfBoundsException if the target index is out of bounds of the last viewed listing"
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     */"
+      },
+      {
         "lineNumber": 77,
         "author": {
           "gitId": "-"
         },
-        "content": "    public int getTargetIndex() {"
+        "content": "    protected ReadOnlyPerson getTargetPerson() throws IndexOutOfBoundsException {"
       },
       {
         "lineNumber": 78,
         "author": {
           "gitId": "-"
         },
-        "content": "        return targetIndex;"
+        "content": "        return relevantPersons.get(getTargetIndex() - DISPLAYED_INDEX_OFFSET);"
       },
       {
         "lineNumber": 79,
@@ -8847,14 +8847,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "    public void setTargetIndex(int targetIndex) {"
+        "content": "    public int getTargetIndex() {"
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "-"
         },
-        "content": "        this.targetIndex \u003d targetIndex;"
+        "content": "        return targetIndex;"
       },
       {
         "lineNumber": 83,
@@ -8868,11 +8868,39 @@
         "author": {
           "gitId": "-"
         },
+        "content": ""
+      },
+      {
+        "lineNumber": 85,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public void setTargetIndex(int targetIndex) {"
+      },
+      {
+        "lineNumber": 86,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        this.targetIndex \u003d targetIndex;"
+      },
+      {
+        "lineNumber": 87,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 88,
+        "author": {
+          "gitId": "-"
+        },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "shawn-t": 3,
+      "shawn-t": 7,
       "-": 74,
       "matthiaslum": 7
     }
@@ -10138,668 +10166,871 @@
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    public static final String MESSAGE_SUCCESS \u003d \"Patient has been successfully referred!! :D \\n********************************************************************************************************\\n%1$s \\n********************************************************************************************************\";"
+        "content": "    public static final String MESSAGE_SUCCESS \u003d \"Patient %2$s has been successfully referred to %3$s!! :D\\n\\n********************************************************************************************************\\n%1$s \\n********************************************************************************************************\";"
       },
       {
         "lineNumber": 19,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    public static final String MESSAGE_DUPLICATE_PERSON \u003d \"This person already exists in the address book\";"
+        "content": "    public static final String MESSAGE_NO_SUCH_PERSON \u003d \"%1$s\\nThis patient does not exists in the address book records.\";"
       },
       {
         "lineNumber": 20,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": ""
+        "content": "    public static final String MESSAGE_TEST \u003d \"%1$s%1$s%1$s\\n%2$s%2$s%2$s\\n\";"
       },
       {
         "lineNumber": 21,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    private final Set\u003cString\u003e keywords;"
+        "content": ""
       },
       {
         "lineNumber": 22,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    String params[];"
+        "content": "    private final Set\u003cString\u003e keywords;"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    Set\u003cString\u003e tags;"
+        "content": "    String params[];"
       },
       {
         "lineNumber": 24,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    private Person toRefer;"
+        "content": "    Set\u003cString\u003e tags;"
       },
       {
         "lineNumber": 25,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    public ReferCommand(Set\u003cString\u003e keywords) {"
+        "content": "    private Person toRefer;"
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        this.keywords \u003d keywords;"
+        "content": "    int count \u003d 0;"
       },
       {
         "lineNumber": 27,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    }"
+        "content": ""
       },
       {
         "lineNumber": 28,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    int count \u003d 0;"
+        "content": "    String string;"
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    /**"
+        "content": "    String str;"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "     * Returns copy of keywords in this command."
+        "content": "    String strName;"
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "     */"
+        "content": ""
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "//    public Set\u003cString\u003e getKeywords() {"
+        "content": "    public ReferCommand(Set\u003cString\u003e keywords) {"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "//            return new HashSet\u003c\u003e(keywords);"
+        "content": "        this.keywords \u003d keywords;"
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "//            }"
+        "content": "    }"
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    @Override"
+        "content": "    /**"
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    public CommandResult execute() {"
+        "content": "     * Returns copy of keywords in this command."
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        final List\u003cReadOnlyPerson\u003e personsFound \u003d getPersonsWithNameContainingAnyKeyword(keywords);"
+        "content": "     */"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": ""
+        "content": "//    public Set\u003cString\u003e getKeywords() {"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": ""
+        "content": "//            return new HashSet\u003c\u003e(keywords);"
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        if (count \u003d\u003d 1) {"
+        "content": "//            }"
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "            try {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                addressBook.addPerson(toRefer);"
+        "content": "    public CommandResult execute() {"
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "            } catch (UniquePersonList.DuplicatePersonException e) {"
+        "content": ""
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                e.printStackTrace();"
+        "content": "        string \u003d String.join(\" \", keywords);"
       },
       {
         "lineNumber": 45,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "            }"
+        "content": "//        str \u003d string.replaceAll(\"\\\\s+\", \"\");"
       },
       {
         "lineNumber": 46,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": ""
+        "content": "        final List\u003cReadOnlyPerson\u003e personsFound \u003d getPersonsWithNameContainingAnyKeyword(keywords);"
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "            return new CommandResult(String.format(MESSAGE_SUCCESS, toRefer));"
+        "content": ""
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        }"
+        "content": "//        // test"
       },
       {
         "lineNumber": 49,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": ""
+        "content": "//        return new CommandResult(String.format(MESSAGE_NO_SUCH_PERSON, toRefer.getName().toString()));"
       },
       {
         "lineNumber": 50,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        return new CommandResult(getMessageForPersonListShownSummary(personsFound), personsFound);"
+        "content": ""
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    }"
+        "content": "        if (count \u003d\u003d 0) {"
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "//    public CommandResult execute() {"
+        "content": "//            String string \u003d String.join(\" \", keywords);"
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "//        final List\u003cString\u003e personsFound \u003d (String) getNameContainingAnyKeyword(keywords);"
+        "content": "            return new CommandResult(String.format(MESSAGE_NO_SUCH_PERSON, string));"
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "//        return new CommandResult(personsFound);"
+        "content": "        }"
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "//    }"
+        "content": "        if (count \u003d\u003d 1) {"
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": ""
+        "content": "            try { // add updated entry"
       },
       {
         "lineNumber": 57,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    /**"
+        "content": "                addressBook.addPerson(toRefer);"
       },
       {
         "lineNumber": 58,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "     * Retrieve all persons in the address book whose names contain some of the specified keywords."
+        "content": "            } catch (UniquePersonList.DuplicatePersonException e) {"
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "     *"
+        "content": "                e.printStackTrace();"
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "     * @param keywords for searching"
+        "content": "            }"
       },
       {
         "lineNumber": 61,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "     * @return list of persons found"
+        "content": "            return new CommandResult(String.format(MESSAGE_SUCCESS, toRefer, toRefer.getName(), toRefer.getDoctor()));"
       },
       {
         "lineNumber": 62,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "     */"
+        "content": "        }"
       },
       {
         "lineNumber": 63,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    private List\u003cReadOnlyPerson\u003e getPersonsWithNameContainingAnyKeyword(Set\u003cString\u003e keywords) {"
+        "content": "        return new CommandResult(getMessageForPersonReferShownSummary(personsFound), personsFound);"
       },
       {
         "lineNumber": 64,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        int index \u003d 0;"
+        "content": "    }"
       },
       {
         "lineNumber": 65,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        count \u003d 0;"
+        "content": ""
       },
       {
         "lineNumber": 66,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        final List\u003cReadOnlyPerson\u003e matchedPersons \u003d new ArrayList\u003c\u003e();"
+        "content": "    /**"
       },
       {
         "lineNumber": 67,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        final List\u003cReadOnlyPerson\u003e one \u003d new ArrayList\u003c\u003e();"
+        "content": "     * Retrieve all persons in the address book whose names contain some of the specified keywords."
       },
       {
         "lineNumber": 68,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        final List\u003cReadOnlyPerson\u003e emptyList \u003d new ArrayList\u003c\u003e();"
+        "content": "     *"
       },
       {
         "lineNumber": 69,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "//            List\u003cPerson\u003e p \u003d new ArrayList\u003c\u003e();"
+        "content": "     * @param keywords for searching"
       },
       {
         "lineNumber": 70,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        for (ReadOnlyPerson person : addressBook.getAllPersons()) {"
+        "content": "     * @return list of persons found"
       },
       {
         "lineNumber": 71,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "            index++;"
+        "content": "     */"
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "            final Set\u003cString\u003e wordsInName \u003d new HashSet\u003c\u003e(person.getName().getWordsInName());"
+        "content": "    private List\u003cReadOnlyPerson\u003e getPersonsWithNameContainingAnyKeyword(Set\u003cString\u003e keywords) {"
       },
       {
         "lineNumber": 73,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "            if (!Collections.disjoint(wordsInName, keywords)) {"
+        "content": "        count \u003d 0;"
       },
       {
         "lineNumber": 74,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                count++;"
+        "content": "        final List\u003cReadOnlyPerson\u003e matchedPersons \u003d new ArrayList\u003c\u003e();"
       },
       {
         "lineNumber": 75,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                if (count \u003d\u003d 1) {"
+        "content": "        final List\u003cReadOnlyPerson\u003e emptyList \u003d new ArrayList\u003c\u003e();"
       },
       {
         "lineNumber": 76,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                    one.add(person);"
+        "content": "        for (ReadOnlyPerson person : addressBook.getAllPersons()) {"
       },
       {
         "lineNumber": 77,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "//                        insertionIndex \u003d index;"
+        "content": "            final Set\u003cString\u003e wordsInName \u003d new HashSet\u003c\u003e(person.getName().getWordsInName());"
       },
       {
         "lineNumber": 78,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                }"
+        "content": "            if (!Collections.disjoint(wordsInName, keywords)) {"
       },
       {
         "lineNumber": 79,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                matchedPersons.add(person);"
+        "content": "                if (wordsInName.equals(keywords)) {"
       },
       {
         "lineNumber": 80,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "            }"
+        "content": "                    try {  // get particulars of the old entry"
       },
       {
         "lineNumber": 81,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        }"
+        "content": "                        toRefer \u003d new Person("
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        if (count \u003d\u003d 1) {"
+        "content": "                                person.getName(),"
       },
       {
         "lineNumber": 83,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "            for (ReadOnlyPerson person : addressBook.getAllPersons()) {"
+        "content": "                                person.getPhone(),"
       },
       {
         "lineNumber": 84,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                final Set\u003cString\u003e wordsInName \u003d new HashSet\u003c\u003e(person.getName().getWordsInName());"
+        "content": "                                person.getEmail(),"
       },
       {
         "lineNumber": 85,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                if (!Collections.disjoint(wordsInName, keywords)) {"
+        "content": "                                person.getAddress(),"
       },
       {
         "lineNumber": 86,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                    try {"
+        "content": "                                person.getAppointment(),"
       },
       {
         "lineNumber": 87,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                        toRefer \u003d new Person("
+        "content": "                                new Doctor(\"Dr Who\"),"
       },
       {
         "lineNumber": 88,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                                person.getName(),"
+        "content": "                                new Status(\"Referred\"),"
       },
       {
         "lineNumber": 89,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                                person.getPhone(),"
+        "content": "                                person.getTags()"
       },
       {
         "lineNumber": 90,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                                person.getEmail(),"
+        "content": "                        );"
       },
       {
         "lineNumber": 91,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                                person.getAddress(),"
+        "content": "                    } catch (IllegalValueException e) {"
       },
       {
         "lineNumber": 92,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                                person.getAppointment(),"
+        "content": "                        e.printStackTrace();"
       },
       {
         "lineNumber": 93,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                                new Doctor(\"Dr Seuss\"),"
+        "content": "                    }"
       },
       {
         "lineNumber": 94,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                                new Status(\"Referred\"),"
+        "content": "                    try { // remove old entry"
       },
       {
         "lineNumber": 95,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                                person.getTags()"
+        "content": "                        addressBook.removePerson(person);"
       },
       {
         "lineNumber": 96,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                        );"
+        "content": "                    } catch (UniquePersonList.PersonNotFoundException e) { // exception for person not found"
       },
       {
         "lineNumber": 97,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                    } catch (IllegalValueException e) {"
+        "content": "                        e.printStackTrace();"
       },
       {
         "lineNumber": 98,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                        e.printStackTrace();"
+        "content": "                    }"
       },
       {
         "lineNumber": 99,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                    }"
+        "content": "                    count \u003d 1;"
       },
       {
         "lineNumber": 100,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": ""
+        "content": "                    return emptyList;"
       },
       {
         "lineNumber": 101,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                    try {"
+        "content": "                }"
       },
       {
         "lineNumber": 102,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                        addressBook.removePerson(person);"
+        "content": ""
       },
       {
         "lineNumber": 103,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                    } catch (UniquePersonList.PersonNotFoundException e) { // exception for person not found"
+        "content": "                count++;"
       },
       {
         "lineNumber": 104,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                        e.printStackTrace();"
+        "content": "                if (count \u003d\u003d 1) {"
       },
       {
         "lineNumber": 105,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                    }"
+        "content": "                    try {  // get particulars of the old entry"
       },
       {
         "lineNumber": 106,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "                }"
+        "content": "                        toRefer \u003d new Person("
       },
       {
         "lineNumber": 107,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "            }"
+        "content": "                                person.getName(),"
       },
       {
         "lineNumber": 108,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "            return emptyList;"
+        "content": "                                person.getPhone(),"
       },
       {
         "lineNumber": 109,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "        } else"
+        "content": "                                person.getEmail(),"
       },
       {
         "lineNumber": 110,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "            return matchedPersons;"
+        "content": "                                person.getAddress(),"
       },
       {
         "lineNumber": 111,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": "    }"
+        "content": "                                person.getAppointment(),"
       },
       {
         "lineNumber": 112,
         "author": {
           "gitId": "shawn-t"
         },
-        "content": ""
+        "content": "                                new Doctor(\"Dr Seuss\"),"
       },
       {
         "lineNumber": 113,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                                new Status(\"Referred\"),"
+      },
+      {
+        "lineNumber": 114,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                                person.getTags()"
+      },
+      {
+        "lineNumber": 115,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                        );"
+      },
+      {
+        "lineNumber": 116,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                    } catch (IllegalValueException e) {"
+      },
+      {
+        "lineNumber": 117,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                        e.printStackTrace();"
+      },
+      {
+        "lineNumber": 118,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                    }"
+      },
+      {
+        "lineNumber": 119,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                }"
+      },
+      {
+        "lineNumber": 120,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                matchedPersons.add(person);"
+      },
+      {
+        "lineNumber": 121,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 122,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 123,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "        if (count \u003d\u003d 1) {"
+      },
+      {
+        "lineNumber": 124,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "            for (ReadOnlyPerson person : addressBook.getAllPersons()) {"
+      },
+      {
+        "lineNumber": 125,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                final Set\u003cString\u003e wordsInName \u003d new HashSet\u003c\u003e(person.getName().getWordsInName());"
+      },
+      {
+        "lineNumber": 126,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                if (!Collections.disjoint(wordsInName, keywords)) {"
+      },
+      {
+        "lineNumber": 127,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 128,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                    try { // remove old entry"
+      },
+      {
+        "lineNumber": 129,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                        addressBook.removePerson(person);"
+      },
+      {
+        "lineNumber": 130,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                    } catch (UniquePersonList.PersonNotFoundException e) { // exception for person not found"
+      },
+      {
+        "lineNumber": 131,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                        e.printStackTrace();"
+      },
+      {
+        "lineNumber": 132,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                    }"
+      },
+      {
+        "lineNumber": 133,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                }"
+      },
+      {
+        "lineNumber": 134,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 135,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "            return emptyList;"
+      },
+      {
+        "lineNumber": 136,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 137,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 138,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "        else"
+      },
+      {
+        "lineNumber": 139,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "            return matchedPersons;"
+      },
+      {
+        "lineNumber": 140,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 141,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 142,
         "author": {
           "gitId": "shawn-t"
         },
@@ -10807,7 +11038,7 @@
       }
     ],
     "authorContributionMap": {
-      "shawn-t": 113
+      "shawn-t": 142
     }
   },
   {
@@ -11793,19 +12024,26 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "shawn-t"
         },
-        "content": "    public static final String MESSAGE_NUMBER_OF_APPOINTMENTS \u003d \"%1$s you have %2$d appointments!\";"
+        "content": "    public static final String MESSAGE_SELECT_PATIENT \u003d \"%1$d similar entries have been found. Please re-enter patient\u0027s FULL NAME to refer\";"
       },
       {
         "lineNumber": 18,
         "author": {
           "gitId": "matthiaslum"
         },
-        "content": ""
+        "content": "    public static final String MESSAGE_NUMBER_OF_APPOINTMENTS \u003d \"%1$s you have %2$d appointments!\";"
       },
       {
         "lineNumber": 19,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 20,
         "author": {
           "gitId": "-"
         },
@@ -11813,6 +12051,7 @@
       }
     ],
     "authorContributionMap": {
+      "shawn-t": 1,
       "-": 17,
       "matthiaslum": 2
     }

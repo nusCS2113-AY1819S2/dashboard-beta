@@ -760,6 +760,55 @@
             "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 2693,
+        "deletions": 256,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "5feca022091133ea714ad717d5f96cd419d7da34",
+            "message": "Add new feature : Login and Logout",
+            "insertions": 2578,
+            "deletions": 27
+          },
+          {
+            "hash": "93c235b1aa78b5ca850665990920d11fca08e84b",
+            "message": "Update login feature",
+            "insertions": 53,
+            "deletions": 157
+          },
+          {
+            "hash": "63ad95f8790d4d978d89eb77dc359e4867149267",
+            "message": "Coding style",
+            "insertions": 18,
+            "deletions": 19
+          },
+          {
+            "hash": "a71b7efac3db3471fe3fe505bb19b6a6662c64cc",
+            "message": "Coding style 2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e0317185e21f59040c00efaff9c7dd93eff2b811",
+            "message": "Coding style 3",
+            "insertions": 30,
+            "deletions": 37
+          },
+          {
+            "hash": "a28fd07341488859217f9924fc93534facdf237d",
+            "message": "Coding style 4",
+            "insertions": 9,
+            "deletions": 10
+          },
+          {
+            "hash": "6fd1600ad75d3a2b0df1bf71436505f95a62cc26",
+            "message": "Coding style 5",
+            "insertions": 4,
+            "deletions": 5
+          }
+        ]
       }
     ],
     "cheahzk": [
@@ -1960,9 +2009,52 @@
         ]
       },
       {
+        "insertions": 196,
+        "deletions": 53,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "eeb2e95ed8d47a4b4780931a055fb69165b5cd97",
+            "message": "UserGuide: Updated with User Interface Layout explanation.",
+            "insertions": 50,
+            "deletions": 16
+          },
+          {
+            "hash": "e3e96a2a636f3505414991c46ef65a5b82f8d0e8",
+            "message": "UserGudie: Corrected some mistakes.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1de741dda0fe1c8874d710fc70403abad9a24419",
+            "message": "DeveloperGuide: Changed repo url to our group.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9c3a5d78ca5cbead77d9390c626f9dd234d0510d",
+            "message": "PPP: Updated personal PPP.",
+            "insertions": 140,
+            "deletions": 30
+          },
+          {
+            "hash": "b1d9b50581fba9c06523698143a044c6d0e31e81",
+            "message": "Travis fix",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1e888a33a93905c212206acb655348c02f1295aa",
+            "message": "Travis fix 1.1",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-06",
+        "date": "2019-04-07",
         "commitResults": []
       }
     ],
@@ -3054,6 +3146,12 @@
             "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ],
     "BrittonAlone": [
@@ -3714,6 +3812,12 @@
             "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ],
     "Zeyang-Li": [
@@ -4486,22 +4590,28 @@
             "deletions": 7
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Wanchunwei": 573,
-    "cheahzk": 4796,
-    "jingchen-z": 1537,
-    "BrittonAlone": 797,
-    "Zeyang-Li": 2320
+    "Wanchunwei": 2931,
+    "cheahzk": 4944,
+    "jingchen-z": 1554,
+    "BrittonAlone": 787,
+    "Zeyang-Li": 2307
   },
   "authorContributionVariance": {
-    "Wanchunwei": 46561.113,
-    "cheahzk": 1340461.4,
-    "jingchen-z": 28548.475,
-    "BrittonAlone": 8961.779,
-    "Zeyang-Li": 9822824.0
+    "Wanchunwei": 190244.73,
+    "cheahzk": 1317387.0,
+    "jingchen-z": 28127.658,
+    "BrittonAlone": 8827.403,
+    "Zeyang-Li": 9655117.0
   },
   "authorDisplayNameMap": {
     "Wanchunwei": "WAN...WEI",

@@ -735,6 +735,30 @@
             "deletions": 5
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
       }
     ],
     "JKupoluyi": [
@@ -1251,10 +1275,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 102,
         "deletions": 0,
         "date": "2019-03-31",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "f73325fb00852785f645327347132640b3d2d04c",
+            "message": "CheckAvalaibility command created",
+            "insertions": 102,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 9,
@@ -1282,10 +1313,22 @@
         ]
       },
       {
-        "insertions": 81,
-        "deletions": 6,
+        "insertions": 565,
+        "deletions": 69,
         "date": "2019-04-02",
         "commitResults": [
+          {
+            "hash": "a438e9dc84c970bea0742331683ad2550ffa560e",
+            "message": "Added an AddActivityCommand class, CheckAvailability Class, Day and Activity Class to store timetable entries.",
+            "insertions": 465,
+            "deletions": 53
+          },
+          {
+            "hash": "bed9eb38cde6b064965be6e63202b4d31a51b04c",
+            "message": "Initialized a timetable for every initialization of a person",
+            "insertions": 19,
+            "deletions": 10
+          },
           {
             "hash": "9a7dcf595d876a9ece291cc18b22f7478b7d6a7b",
             "message": "added the addActivity command to the user guide",
@@ -1309,6 +1352,423 @@
             "message": "Made more Changes to my portfolio",
             "insertions": 4,
             "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 51,
+        "deletions": 73,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "5ce1c9e12f9032308051aa70ad71cfe3d2dec7d8",
+            "message": "Added an addActivity command.",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "9c5f1b496666c893ce134d5494dcd06dccd02115",
+            "message": "Updated the add activity command.",
+            "insertions": 51,
+            "deletions": 66
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 266,
+        "deletions": 153,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "104728d54990cbf841badee6a4ebe2be2d89ade5",
+            "message": "Added a list Modules class",
+            "insertions": 119,
+            "deletions": 56
+          },
+          {
+            "hash": "2a16ba362bd0779b845aaca4df586a03d6354c9a",
+            "message": "fixed merge conflict",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "8a3fc6aaf4d4f1a738a505fee182e818a800723b",
+            "message": "Update AddActivityCommand.java",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "6cf9e7f426567b372276ecefd892ab3caa1453a0",
+            "message": "Update CheckAvailabilityCommand.java",
+            "insertions": 11,
+            "deletions": 12
+          },
+          {
+            "hash": "d4e482bf959917bda88588c6b4b9a8c629176ecd",
+            "message": "Update AddActivityCommandParser.java",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "5d39c46fe2fbc86d664d290c385033d822284090",
+            "message": "Update CheckAvailabilityCommandParser.java",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "c7bb21384f8f09b848fe2702cd56d8ec97bbcf20",
+            "message": "Update ParserUtil.java",
+            "insertions": 21,
+            "deletions": 4
+          },
+          {
+            "hash": "cf0c7537311de2085929e57cd7f0b3e61cc1bbd0",
+            "message": "Update Person.java",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "2dbaf5e3d2ee4c3fcd1746fffd3877371b08e26b",
+            "message": "Update Activity.java",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "504e1cce1062d227bf4afdff2a48f5fa661e08f3",
+            "message": "Update Activity.java",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "df6d28a29a5653ed5c7044ecede041f98b9afacf",
+            "message": "Update Day.java",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "debc1b9183ecab6cb2ded5c384426367a41d3d0c",
+            "message": "Update StartTime.java",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "0952d63c41b6876e5a1567a9758231f9290ea355",
+            "message": "Update TimeTable.java",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "968cc7159e20e3a4930ca78b5e61525a96de8ab9",
+            "message": "Update JsonAdaptedPerson.java",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "f2cf0bb5d9d0bf21d2131a7f77c31be38f178f7e",
+            "message": "Update CheckAvailabilityCommand.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b96cd0321219435ccba5d20b04e4524687f2d4dc",
+            "message": "changed the Timetable and Modules package names.",
+            "insertions": 29,
+            "deletions": 29
+          },
+          {
+            "hash": "df30a190dd327008984584b711ee1312165a227f",
+            "message": "Update Person.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c30b53eaf3c051093b5923194e4bf0c12985bd28",
+            "message": "Update TimeTable.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0d2a38c17ee09b5b29eb306a9373ba1440646945",
+            "message": "Update CheckAvailabilityCommand.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "772cfd593119566828bc84077a669d26e7a35eb4",
+            "message": "Update EditCommand.java",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "6a412725ddb2cd974f52f81e2d3c97a87d819fe6",
+            "message": "Update Person.java",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "216f0ba09767b563106a24a348987a75fcbe6153",
+            "message": "Update ModuleList.java",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "1b3e9e76ddfc40e0f290549cb5635efc1a79454e",
+            "message": "Update Activity.java",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "7c26102a76c43b26cb42e54fc986191f41efcfb4",
+            "message": "Update Day.java",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "ae08fdd967705fd22e38817055e242c1dd03279f",
+            "message": "Update StartTime.java",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "f196c62429b6cccca2fc6e9ce12b9d13351c7558",
+            "message": "Update SampleDataUtil.java",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "ec2cb9a084f6d87c7acdea42fa1dd6694691b634",
+            "message": "Update JsonAdaptedPerson.java",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "75f994d056fb3492f58768e2b0fddab9fc5609de",
+            "message": "Update Person.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d15930733e269f9fb651b87c70ede6ce1fd24f38",
+            "message": "Update Activity.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "65cdd70ab2172d43ea78243493b51b735add7839",
+            "message": "Update Day.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9da7a9e00a2a49ec791242a9420ed798feda7648",
+            "message": "Update StartTime.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "950b19d9426974559534daa92a419930ed9ede24",
+            "message": " changed interleaver variables to final variables.",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 163,
+        "deletions": 149,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "223b1961ae485d5e2c3eacedd16f08c615c1abd1",
+            "message": "Update CheckAvailabilityCommand.java",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "f989ee91f43b91ca2819f46f977586fda5d9b093",
+            "message": "Update EditCommand.java",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "9519b9fa9948d88a3804d19667fdaec254fc8121",
+            "message": "Update AddCommandParser.java",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "8af2250e1f379165c3e61b03f0b7a2e9f73b08c6",
+            "message": "Update Person.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2673c0af0ae6db799ee739e0b033d99c21ff8a27",
+            "message": "Update ModuleList.java",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "090a0f86da4d61d7840a8fa1e75193d966eceac0",
+            "message": "Update Activity.java",
+            "insertions": 3,
+            "deletions": 7
+          },
+          {
+            "hash": "9052f37d6f1795247416e28608bbd3b94162900b",
+            "message": "Update SampleDataUtil.java",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "46e7f80ee1c4278b82edae2a63594462a05913d9",
+            "message": "Update JsonAdaptedPerson.java",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "0ecdaf70358bc4c3187fb077122f4674945419f3",
+            "message": "Update Activity.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c923ed3ea01b76d49831451c27d0abbf632699a7",
+            "message": "Update CheckAvailabilityCommand.java",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "5611bebde4de04f422e3503936a35615dfad15a0",
+            "message": "Update ModuleList.java",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "f7bfcbd511aed2eec82fe0956ccc8557b8caa8a7",
+            "message": "Update ModuleList.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f233e076e130fc20d9eb440fed682aff3274123a",
+            "message": "Update JsonAdaptedPersonTest.java",
+            "insertions": 70,
+            "deletions": 70
+          },
+          {
+            "hash": "4fdf2090b4aa682f9118ebd59e90ea0766c13379",
+            "message": "Update EditPersonDescriptorBuilder.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6ae73adf6bdfcfe7fd4d86eb91119b476ddedafb",
+            "message": "Update PersonBuilder.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "57d120b5cb1bc8f811e457dc4a29190dc768ba39",
+            "message": "Update CommandBoxTest.java",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "15129378a2a8805925a1172e3937c55ffcc6836b",
+            "message": "Update MainWindowCloseTest.java",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "708545c05bd3de3f7d82edcb6abc323c7d0c0764",
+            "message": "Update PersonListPanelTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b3ed642858e4391502dfa11902d91a2d53dce09e",
+            "message": "Update JsonAdaptedPersonTest.java",
+            "insertions": 21,
+            "deletions": 12
+          },
+          {
+            "hash": "4fa9b3574f2b4157858a7c4b16aba88e226f350c",
+            "message": "Update CommandBoxTest.java",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "b2ba4b9b209bddb749771469d95a908311abc6fc",
+            "message": "Update MainWindowCloseTest.java",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "0a8f9f516410637c058c7bfa2014edcf31dabb8d",
+            "message": "Update JsonAdaptedPersonTest.java",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "3fc4dde79ac199d7c6eeafb629fc7d7a6e6a2ff6",
+            "message": "Update CommandBoxTest.java",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "cd5642fb9964cdbd097202d7baac75980d519d2d",
+            "message": "Update MainWindowCloseTest.java",
+            "insertions": 9,
+            "deletions": 7
+          },
+          {
+            "hash": "3fe2a40cd2ac838198bc941cbf47fe72b2112997",
+            "message": "Update MainWindowCloseTest.java",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "117d9207da58aab0273fad5451949d406d8f5535",
+            "message": "Update MainWindowCloseTest.java",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "e60a1d74bbe2e1a28a6a8b4d5c9601dd0d38bccc",
+            "message": "Update CommandBoxTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9637f0932b2731db7a562df7cce69552eecf30cd",
+            "message": "Update MainWindowCloseTest.java",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "872ee0ff6c4dc905b0da2cee4e6b947595bc437e",
+            "message": "Update EditCommandParser.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3aa929f1069fba791d3be6043b835e54da9362e9",
+            "message": "Update MainWindowCloseTest.java",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "c21cbf4e7fa23cb5f5645e85320bd051171a1ac8",
+            "message": "Update HelpCommandSystemTest.java",
+            "insertions": 1,
+            "deletions": 6
           }
         ]
       }
@@ -1814,6 +2274,49 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 9,
+        "deletions": 4,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "a2094be4013ac0bcd45c2e38e10cc80c43f5664f",
+            "message": "no newline at EOF.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "734175a6499bf6769d629191684516052b09e37a",
+            "message": "trailing whitespace.",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "f82d2bd505394222165de913f1b0310f72b2c994",
+            "message": "Indicated missing Javadoc comments",
+            "insertions": 8,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
       }
     ],
     "Shizhe-NUS": [
@@ -2180,20 +2683,44 @@
         "deletions": 0,
         "date": "2019-04-02",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "windrichie": 2382,
-    "JKupoluyi": 292,
-    "Sameow": 270,
-    "Shizhe-NUS": 70
+    "windrichie": 2358,
+    "JKupoluyi": 1001,
+    "Sameow": 273,
+    "Shizhe-NUS": 51
   },
   "authorContributionVariance": {
-    "windrichie": 45064.152,
-    "JKupoluyi": 2827.3477,
-    "Sameow": 604.72015,
-    "Shizhe-NUS": 80.139114
+    "windrichie": 42134.207,
+    "JKupoluyi": 13442.469,
+    "Sameow": 565.49866,
+    "Shizhe-NUS": 74.74495
   },
   "authorDisplayNameMap": {
     "windrichie": "Windrich",

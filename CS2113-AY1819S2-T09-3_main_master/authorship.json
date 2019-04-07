@@ -31153,129 +31153,178 @@
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "                toPrint +\u003d project.getName().toString() + \": \";"
+        "content": "                float percentageCompleted;"
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "                ObservableList\u003cTask\u003e filteredTasks \u003d project.getTaskList();"
+        "content": "                toPrint +\u003d project.getName().toString() + \": \";"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": ""
+        "content": "                ObservableList\u003cTask\u003e filteredTasks \u003d project.getTaskList();"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "                for (Task task : filteredTasks) {"
+        "content": ""
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "                    if (task.getTags().contains(new Tag(\"completed\"))) {"
+        "content": "                for (Task task : filteredTasks) {"
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "                        countCompleted +\u003d 1;"
+        "content": "                    if (task.getTags().contains(new Tag(\"completed\"))) {"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "                    }"
+        "content": "                        countCompleted +\u003d 1;"
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "                    numTasksPerProject +\u003d 1;"
+        "content": "                    }"
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "                }"
+        "content": "                    numTasksPerProject +\u003d 1;"
       },
       {
         "lineNumber": 45,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "                toPrint +\u003d countCompleted + \" tasks completed. \";"
+        "content": "                }"
       },
       {
         "lineNumber": 46,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "                float percentageCompleted \u003d ((float) countCompleted / (float) numTasksPerProject) * 100;"
+        "content": "                toPrint +\u003d countCompleted + \" tasks completed. \";"
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "                toPrint +\u003d \"(Percentage of project completed: \" + String.format(\"%.1f\", percentageCompleted) + \"%)\\n\";"
+        "content": ""
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "            }"
+        "content": "                if (numTasksPerProject \u003d\u003d 0) {"
       },
       {
         "lineNumber": 49,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "            return new CommandResult(toPrint);"
+        "content": "                    percentageCompleted \u003d 0;"
       },
       {
         "lineNumber": 50,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "        } else {"
+        "content": "                } else {"
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "            throw new CommandException(String.format(Messages.MESSAGE_RETURN_TO_PROJECT_LEVEL, COMMAND_WORD));"
+        "content": "                    percentageCompleted \u003d ((float) countCompleted / (float) numTasksPerProject) * 100;"
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "        }"
+        "content": "                }"
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "rachellim10"
         },
-        "content": "    }"
+        "content": ""
       },
       {
         "lineNumber": 54,
+        "author": {
+          "gitId": "rachellim10"
+        },
+        "content": "                toPrint +\u003d \"(Percentage of project completed: \" + String.format(\"%.1f\", percentageCompleted) + \"%)\\n\";"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "rachellim10"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "rachellim10"
+        },
+        "content": "            return new CommandResult(toPrint);"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "rachellim10"
+        },
+        "content": "        } else {"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "rachellim10"
+        },
+        "content": "            throw new CommandException(String.format(Messages.MESSAGE_RETURN_TO_PROJECT_LEVEL, COMMAND_WORD));"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "rachellim10"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "rachellim10"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 61,
         "author": {
           "gitId": "rachellim10"
         },
@@ -31283,7 +31332,7 @@
       }
     ],
     "authorContributionMap": {
-      "rachellim10": 54
+      "rachellim10": 61
     }
   },
   {
@@ -40882,164 +40931,178 @@
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "            //model.updateFilteredTaskList(PREDICATE_SHOW_ALL_TASKS);"
+        "content": ""
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "            model.setSelectedTask(model.getFilteredTaskList().get(0));"
+        "content": "            if (model.getFilteredTaskList().size() \u003e 0) {"
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "arhjaye"
+          "gitId": "josephinetanadi"
         },
-        "content": "            history.clearHistory();"
+        "content": "                model.setSelectedTask(model.getFilteredTaskList().get(0));"
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "            return new CommandResult(String.format(MESSAGE_SELECT_PROJECT_SUCCESS, targetIndex.getOneBased()));"
+        "content": "            }"
       },
       {
         "lineNumber": 55,
+        "author": {
+          "gitId": "arhjaye"
+        },
+        "content": "            history.clearHistory();"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "josephinetanadi"
+        },
+        "content": "            return new CommandResult(String.format(MESSAGE_SELECT_PROJECT_SUCCESS, targetIndex.getOneBased()));"
+      },
+      {
+        "lineNumber": 57,
         "author": {
           "gitId": "josephinetanadi"
         },
         "content": "        } else {"
       },
       {
-        "lineNumber": 56,
+        "lineNumber": 58,
         "author": {
           "gitId": "andreathniah"
         },
         "content": "            List\u003cTask\u003e filteredTaskList \u003d model.getFilteredTaskList();"
       },
       {
-        "lineNumber": 57,
+        "lineNumber": 59,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 58,
+        "lineNumber": 60,
         "author": {
           "gitId": "andreathniah"
         },
         "content": "            if (targetIndex.getZeroBased() \u003e\u003d filteredTaskList.size()) {"
       },
       {
-        "lineNumber": 59,
+        "lineNumber": 61,
         "author": {
           "gitId": "josephinetanadi"
         },
         "content": "                throw new CommandException(Messages.MESSAGE_INVALID_TASK_DISPLAYED_INDEX);"
       },
       {
-        "lineNumber": 60,
+        "lineNumber": 62,
         "author": {
           "gitId": "-"
         },
         "content": "            }"
       },
       {
-        "lineNumber": 61,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 62,
-        "author": {
-          "gitId": "andreathniah"
-        },
-        "content": "            model.setSelectedTask(filteredTaskList.get(targetIndex.getZeroBased()));"
-      },
-      {
         "lineNumber": 63,
         "author": {
-          "gitId": "arhjaye"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 64,
         "author": {
+          "gitId": "andreathniah"
+        },
+        "content": "            model.setSelectedTask(filteredTaskList.get(targetIndex.getZeroBased()));"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "arhjaye"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 66,
+        "author": {
           "gitId": "josephinetanadi"
         },
         "content": "            return new CommandResult(String.format(MESSAGE_SELECT_TASK_SUCCESS, targetIndex.getOneBased()));"
       },
       {
-        "lineNumber": 65,
+        "lineNumber": 67,
         "author": {
           "gitId": "josephinetanadi"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 66,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 67,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
         "lineNumber": 68,
         "author": {
           "gitId": "-"
         },
-        "content": "    @Override"
+        "content": "    }"
       },
       {
         "lineNumber": 69,
         "author": {
           "gitId": "-"
         },
-        "content": "    public boolean equals(Object other) {"
+        "content": ""
       },
       {
         "lineNumber": 70,
         "author": {
           "gitId": "-"
         },
-        "content": "        return other \u003d\u003d this // short circuit if same object"
+        "content": "    @Override"
       },
       {
         "lineNumber": 71,
         "author": {
           "gitId": "-"
         },
-        "content": "                || (other instanceof SelectCommand // instanceof handles nulls"
+        "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "-"
         },
-        "content": "                \u0026\u0026 targetIndex.equals(((SelectCommand) other).targetIndex)); // state check"
+        "content": "        return other \u003d\u003d this // short circuit if same object"
       },
       {
         "lineNumber": 73,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "                || (other instanceof SelectCommand // instanceof handles nulls"
       },
       {
         "lineNumber": 74,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "                \u0026\u0026 targetIndex.equals(((SelectCommand) other).targetIndex)); // state check"
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 76,
         "author": {
           "gitId": "-"
         },
@@ -41048,7 +41111,7 @@
     ],
     "authorContributionMap": {
       "rachellim10": 1,
-      "josephinetanadi": 21,
+      "josephinetanadi": 23,
       "arhjaye": 2,
       "andreathniah": 11,
       "-": 39
@@ -79057,353 +79120,388 @@
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "                browserPlaceholder.getChildren().clear();"
+        "content": "                if (logic.getFilteredTaskList().size() \u003e 0) {"
       },
       {
         "lineNumber": 200,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "                browserPlaceholder.getChildren().add(browserPanel.getRoot());"
+        "content": "                    if (logic.selectedTaskProperty().getValue() \u003d\u003d null) {"
       },
       {
         "lineNumber": 201,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "                browserPanel.setTaskDetails(logic.selectedTaskProperty().getValue().browserDisplayToString());"
+        "content": "                        logic.setSelectedTask(logic.getFilteredTaskList().get(0));"
       },
       {
         "lineNumber": 202,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "            }"
+        "content": "                    }"
       },
       {
         "lineNumber": 203,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "        } else if (commandText.equals(ListProjectCommand.COMMAND_WORD)"
+        "content": "                    browserPlaceholder.getChildren().clear();"
       },
       {
         "lineNumber": 204,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "                || commandText.equals(ListProjectCommand.COMMAND_ALIAS)) {"
+        "content": "                    browserPlaceholder.getChildren().add(browserPanel.getRoot());"
       },
       {
         "lineNumber": 205,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "            taskListPanelPlaceholder.setDisable(true);"
+        "content": "                    browserPanel.setTaskDetails(logic.selectedTaskProperty().getValue().browserDisplayToString());"
       },
       {
         "lineNumber": 206,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "            projectListPanelPlaceholder.setDisable(false);"
+        "content": "                }"
       },
       {
         "lineNumber": 207,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": ""
+        "content": "            }"
       },
       {
         "lineNumber": 208,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "            browserPlaceholder.getChildren().clear();"
+        "content": "        } else if (commandText.equals(ListProjectCommand.COMMAND_WORD)"
       },
       {
         "lineNumber": 209,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "        }"
+        "content": "                || commandText.equals(ListProjectCommand.COMMAND_ALIAS)) {"
       },
       {
         "lineNumber": 210,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "        StatusBarFooter statusBarFooter \u003d new StatusBarFooter(logic.getProjectListFilePath(), logic.getProjectList(),"
+        "content": "            taskListPanelPlaceholder.setDisable(true);"
       },
       {
         "lineNumber": 211,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "                logic.getFilteredProjectList().size());"
+        "content": "            projectListPanelPlaceholder.setDisable(false);"
       },
       {
         "lineNumber": 212,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "        statusbarPlaceholder.getChildren().add(statusBarFooter.getRoot());"
+        "content": ""
       },
       {
         "lineNumber": 213,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": ""
+        "content": "            browserPlaceholder.getChildren().clear();"
       },
       {
         "lineNumber": 214,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": "    }"
+        "content": "        }"
       },
       {
         "lineNumber": 215,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": ""
+        "content": "        StatusBarFooter statusBarFooter \u003d new StatusBarFooter(logic.getProjectListFilePath(), logic.getProjectList(),"
       },
       {
         "lineNumber": 216,
+        "author": {
+          "gitId": "josephinetanadi"
+        },
+        "content": "                logic.getFilteredProjectList().size());"
+      },
+      {
+        "lineNumber": 217,
+        "author": {
+          "gitId": "josephinetanadi"
+        },
+        "content": "        statusbarPlaceholder.getChildren().add(statusBarFooter.getRoot());"
+      },
+      {
+        "lineNumber": 218,
+        "author": {
+          "gitId": "josephinetanadi"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 219,
+        "author": {
+          "gitId": "josephinetanadi"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 220,
+        "author": {
+          "gitId": "josephinetanadi"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 221,
         "author": {
           "gitId": "andreathniah"
         },
         "content": "    public TaskListPanel getTaskListPanel() {"
       },
       {
-        "lineNumber": 217,
+        "lineNumber": 222,
         "author": {
           "gitId": "andreathniah"
         },
         "content": "        return taskListPanel;"
       },
       {
-        "lineNumber": 218,
+        "lineNumber": 223,
         "author": {
           "gitId": "-"
         },
         "content": "    }"
-      },
-      {
-        "lineNumber": 219,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 220,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    /**"
-      },
-      {
-        "lineNumber": 221,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     * Executes the command and returns the result."
-      },
-      {
-        "lineNumber": 222,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     *"
-      },
-      {
-        "lineNumber": 223,
-        "author": {
-          "gitId": "andreathniah"
-        },
-        "content": "     * @see seedu.project.logic.Logic#execute(String)"
       },
       {
         "lineNumber": 224,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": ""
       },
       {
         "lineNumber": 225,
         "author": {
-          "gitId": "josephinetanadi"
+          "gitId": "-"
         },
-        "content": "    private CommandResult executeCommand(String commandText) throws CommandException, ParseException,"
+        "content": "    /**"
       },
       {
         "lineNumber": 226,
         "author": {
-          "gitId": "josephinetanadi"
+          "gitId": "-"
         },
-        "content": "            DataConversionException, IOException {"
+        "content": "     * Executes the command and returns the result."
       },
       {
         "lineNumber": 227,
         "author": {
           "gitId": "-"
         },
-        "content": "        try {"
+        "content": "     *"
       },
       {
         "lineNumber": 228,
         "author": {
-          "gitId": "-"
+          "gitId": "andreathniah"
         },
-        "content": "            CommandResult commandResult \u003d logic.execute(commandText);"
+        "content": "     * @see seedu.project.logic.Logic#execute(String)"
       },
       {
         "lineNumber": 229,
         "author": {
-          "gitId": "josephinetanadi"
+          "gitId": "-"
         },
-        "content": "            refreshPanel(commandText);"
+        "content": "     */"
       },
       {
         "lineNumber": 230,
         "author": {
           "gitId": "josephinetanadi"
         },
-        "content": ""
+        "content": "    private CommandResult executeCommand(String commandText) throws CommandException, ParseException,"
       },
       {
         "lineNumber": 231,
         "author": {
-          "gitId": "-"
+          "gitId": "josephinetanadi"
         },
-        "content": "            logger.info(\"Result: \" + commandResult.getFeedbackToUser());"
+        "content": "            DataConversionException, IOException {"
       },
       {
         "lineNumber": 232,
         "author": {
           "gitId": "-"
         },
-        "content": "            resultDisplay.setFeedbackToUser(commandResult.getFeedbackToUser());"
+        "content": "        try {"
       },
       {
         "lineNumber": 233,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            CommandResult commandResult \u003d logic.execute(commandText);"
       },
       {
         "lineNumber": 234,
         "author": {
-          "gitId": "-"
+          "gitId": "josephinetanadi"
         },
-        "content": "            if (commandResult.isShowHelp()) {"
+        "content": "            refreshPanel(commandText);"
       },
       {
         "lineNumber": 235,
         "author": {
-          "gitId": "-"
+          "gitId": "josephinetanadi"
         },
-        "content": "                handleHelp();"
+        "content": ""
       },
       {
         "lineNumber": 236,
         "author": {
           "gitId": "-"
         },
-        "content": "            }"
+        "content": "            logger.info(\"Result: \" + commandResult.getFeedbackToUser());"
       },
       {
         "lineNumber": 237,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            resultDisplay.setFeedbackToUser(commandResult.getFeedbackToUser());"
       },
       {
         "lineNumber": 238,
         "author": {
           "gitId": "-"
         },
-        "content": "            if (commandResult.isExit()) {"
+        "content": ""
       },
       {
         "lineNumber": 239,
         "author": {
           "gitId": "-"
         },
-        "content": "                handleExit();"
+        "content": "            if (commandResult.isShowHelp()) {"
       },
       {
         "lineNumber": 240,
         "author": {
           "gitId": "-"
         },
-        "content": "            }"
+        "content": "                handleHelp();"
       },
       {
         "lineNumber": 241,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            }"
       },
       {
         "lineNumber": 242,
         "author": {
           "gitId": "-"
         },
-        "content": "            return commandResult;"
+        "content": ""
       },
       {
         "lineNumber": 243,
         "author": {
-          "gitId": "josephinetanadi"
+          "gitId": "-"
         },
-        "content": "        } catch (CommandException | ParseException | DataConversionException | IOException e) {"
+        "content": "            if (commandResult.isExit()) {"
       },
       {
         "lineNumber": 244,
         "author": {
           "gitId": "-"
         },
-        "content": "            logger.info(\"Invalid command: \" + commandText);"
+        "content": "                handleExit();"
       },
       {
         "lineNumber": 245,
         "author": {
           "gitId": "-"
         },
-        "content": "            resultDisplay.setFeedbackToUser(e.getMessage());"
+        "content": "            }"
       },
       {
         "lineNumber": 246,
         "author": {
           "gitId": "-"
         },
-        "content": "            throw e;"
+        "content": ""
       },
       {
         "lineNumber": 247,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "            return commandResult;"
       },
       {
         "lineNumber": 248,
+        "author": {
+          "gitId": "josephinetanadi"
+        },
+        "content": "        } catch (CommandException | ParseException | DataConversionException | IOException e) {"
+      },
+      {
+        "lineNumber": 249,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            logger.info(\"Invalid command: \" + commandText);"
+      },
+      {
+        "lineNumber": 250,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            resultDisplay.setFeedbackToUser(e.getMessage());"
+      },
+      {
+        "lineNumber": 251,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            throw e;"
+      },
+      {
+        "lineNumber": 252,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 253,
         "author": {
           "gitId": "-"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 249,
+        "lineNumber": 254,
         "author": {
           "gitId": "-"
         },
@@ -79411,7 +79509,7 @@
       }
     ],
     "authorContributionMap": {
-      "josephinetanadi": 52,
+      "josephinetanadi": 57,
       "andreathniah": 15,
       "-": 182
     }

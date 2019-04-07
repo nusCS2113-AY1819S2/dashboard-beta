@@ -490,6 +490,12 @@
             "deletions": 18
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
       }
     ],
     "warheade": [
@@ -1085,6 +1091,73 @@
             "deletions": 4
           }
         ]
+      },
+      {
+        "insertions": 491,
+        "deletions": 129,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "3370076a43105e3cbd0568c79444a58b52d41fba",
+            "message": "Added Export Team Command Edited Help Command format minor adjustment of layouts and comments",
+            "insertions": 205,
+            "deletions": 38
+          },
+          {
+            "hash": "b4541f60bb8cfa827895b9868278b2331aedf76b",
+            "message": "edit to pass travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e2f9e8d6b07dbd83cb0136b6cf260cf7fb3a733f",
+            "message": "edit to pass Travis",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "7bffd96a6ad0fa8868afc1465d0687bdbbe4fdb3",
+            "message": "Change name to Team name to pass travis",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "5a0f51ece0cb8bbbc6a40ba2d58754f1830c01b1",
+            "message": "edit to pass checkstyle",
+            "insertions": 12,
+            "deletions": 9
+          },
+          {
+            "hash": "e0308ffbfcfcecad625fabe52f199e2d8a54c296",
+            "message": "add extra check for addPlayer and addFast fix tag bug",
+            "insertions": 94,
+            "deletions": 2
+          },
+          {
+            "hash": "78ed5f36469576d1ade22dfb3c5ce6559640498e",
+            "message": "comment out failed test cases for now",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "10ffbd08ce464650be23f371c9c119e8895919a3",
+            "message": "edit to pass checkstyle",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "c513d0340c726606a6bef75068e48bb42820b44f",
+            "message": "added transfer player command fix add and addFast bugs",
+            "insertions": 155,
+            "deletions": 56
+          },
+          {
+            "hash": "0a9c77594bf046f7d037707eb1044b42a5711774",
+            "message": "edit to pass checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
       }
     ],
     "yingrong1996": [
@@ -1549,6 +1622,25 @@
             "message": "edited UG \u0026 DG",
             "insertions": 34,
             "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 88,
+        "deletions": 4,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "a1dbbb2dce09d47d6dd7825cff5bbfd0ac19f0be",
+            "message": "editing,deleting and clearing of players and matches will have coresponding results in team",
+            "insertions": 81,
+            "deletions": 1
+          },
+          {
+            "hash": "0541a44cf4b96c00224397350cddb439dcecea1b",
+            "message": "Changes for checkstyle",
+            "insertions": 7,
+            "deletions": 3
           }
         ]
       }
@@ -2098,20 +2190,26 @@
         "deletions": 0,
         "date": "2019-04-05",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "huyidi": 985,
-    "warheade": 3120,
-    "yingrong1996": 1822,
-    "E0176106": 2127
+    "huyidi": 981,
+    "warheade": 3497,
+    "yingrong1996": 1909,
+    "E0176106": 2118
   },
   "authorContributionVariance": {
-    "huyidi": 19046.291,
-    "warheade": 189823.23,
-    "yingrong1996": 59836.42,
-    "E0176106": 143077.88
+    "huyidi": 18735.66,
+    "warheade": 190463.95,
+    "yingrong1996": 58770.504,
+    "E0176106": 140667.22
   },
   "authorDisplayNameMap": {
     "huyidi": "Hu Yidi",

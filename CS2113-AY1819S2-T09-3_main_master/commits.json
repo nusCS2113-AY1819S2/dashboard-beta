@@ -430,10 +430,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 8,
+        "deletions": 1,
         "date": "2019-04-06",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "571471af3ca5705c465d09e5e6e22ccd364bb768",
+            "message": "fix percentage displayed bug by AnalyseCommand",
+            "insertions": 8,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "gautamrajulu": [
@@ -1386,10 +1393,17 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 12,
+        "deletions": 5,
         "date": "2019-04-06",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "3f5c84da70a7bcf6291c20a33daf7e165ee0edf9",
+            "message": "Fix empty task list bug",
+            "insertions": 12,
+            "deletions": 5
+          }
+        ]
       }
     ],
     "arhjaye": [
@@ -2625,16 +2639,16 @@
     ]
   },
   "authorFinalContributionMap": {
-    "rachellim10": 423,
+    "rachellim10": 430,
     "gautamrajulu": 202,
-    "josephinetanadi": 4628,
+    "josephinetanadi": 4635,
     "arhjaye": 1931,
     "andreathniah": 5319
   },
   "authorContributionVariance": {
-    "rachellim10": 1467.8928,
+    "rachellim10": 1464.9742,
     "gautamrajulu": 300.24493,
-    "josephinetanadi": 256976.55,
+    "josephinetanadi": 256873.47,
     "arhjaye": 190203.03,
     "andreathniah": 2311744.2
   },
