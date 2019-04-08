@@ -395,6 +395,24 @@
         "deletions": 0,
         "date": "2019-04-05",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
       }
     ],
     "jemine1998": [
@@ -857,6 +875,44 @@
         "deletions": 0,
         "date": "2019-04-05",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 283,
+        "deletions": 97,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "dc4d87ee5830b0968c0bfde65dcdf997e2e35072",
+            "message": "amendment in sort command",
+            "insertions": 283,
+            "deletions": 97
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "982680c09ec1b436c9c811de2b8ad39b5583317d",
+            "message": "Rename jeminekan.adoc to jemine1998.adoc",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "b8cb49d35e49d2f366aed5d64fe0a98c6ddcdf68",
+            "message": "Update AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "dannong": [
@@ -1306,18 +1362,36 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "wanchinglim": 197,
-    "jemine1998": 1094,
+    "wanchinglim": 196,
+    "jemine1998": 1327,
     "dannong": 7
   },
   "authorContributionVariance": {
-    "wanchinglim": 2618.8306,
-    "jemine1998": 9737.669,
-    "dannong": 1816.6013
+    "wanchinglim": 2489.388,
+    "jemine1998": 11289.521,
+    "dannong": 1729.2606
   },
   "authorDisplayNameMap": {
     "wanchinglim": "LIM...ING",

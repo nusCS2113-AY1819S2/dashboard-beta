@@ -7863,9 +7863,9 @@
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "            + \"Parameters: NAME [p]p/PHONE [p]e/EMAIL [p]a/ADDRESS m/APPOINTMENT d/DOCTOR [t/TAG]...\\n\\t\""
+        "content": "            + \"Parameters: NAME [p]p/PHONE [p]e/EMAIL [p]a/ADDRESS m/APPOINTMENT d/DOCTOR s/STATUS [t/TAG]...\\n\\t\""
       },
       {
         "lineNumber": 20,
@@ -8275,8 +8275,8 @@
       }
     ],
     "authorContributionMap": {
-      "-": 70,
-      "matthiaslum": 7
+      "-": 71,
+      "matthiaslum": 6
     }
   },
   {
@@ -11203,77 +11203,77 @@
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "            + \"Displays all persons in the address book as a list sorted in alphabetical order with index numbers.\\n\\t\""
+        "content": "            + \"Displays all persons in the address book as a list sorted by desired column with index numbers.\\n\\t\""
       },
       {
         "lineNumber": 24,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "            + \"Example: \" + COMMAND_WORD;"
+        "content": "            + \"Parameters: name / appointment / status\\n\\t\""
       },
       {
         "lineNumber": 25,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "            + \"Example: \" + COMMAND_WORD + \" name\\n\";"
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "    public final String attribute;"
+        "content": ""
       },
       {
         "lineNumber": 27,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "    public final String attribute;"
       },
       {
         "lineNumber": 28,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "    public DateTimeFormatter formatter \u003d DateTimeFormatter.ofPattern(\"yyyy MM d kk mm\");"
+        "content": ""
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "    public DateTimeFormatter formatter \u003d DateTimeFormatter.ofPattern(\"yyyy MM d kk mm\");"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "    public SortCommand(String attribute) {"
+        "content": ""
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "        this.attribute \u003d attribute;"
+        "content": "    public SortCommand(String attribute) {"
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "    }"
+        "content": "        this.attribute \u003d attribute;"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 34,
@@ -11287,28 +11287,28 @@
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "    public CommandResult execute() {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "    public CommandResult execute() {"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "        final List\u003cReadOnlyPerson\u003e personsSortedByStatus \u003d getPersonsSortedByStatus();"
+        "content": ""
       },
       {
         "lineNumber": 39,
@@ -11322,14 +11322,14 @@
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "        final List\u003cReadOnlyPerson\u003e personsSortedByDate \u003d getPersonsSortedByDate();"
+        "content": "        addressBook.sorted(attribute);"
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "        List\u003cReadOnlyPerson\u003e allPersons \u003d addressBook.getAllPersons().immutableListView();"
       },
       {
         "lineNumber": 42,
@@ -11343,49 +11343,49 @@
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "        addressBook.sorted(attribute);"
+        "content": "        if(attribute.equals(\"status\")) {"
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "        List\u003cReadOnlyPerson\u003e allPersons \u003d addressBook.getAllPersons().immutableListView();"
+        "content": "            final List\u003cReadOnlyPerson\u003e personsSortedByStatus \u003d getPersonsSortedByStatus();"
       },
       {
         "lineNumber": 45,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "            return new CommandResult(getMessageForPersonSortShownSummary(personsSortedByStatus, attribute), personsSortedByStatus );"
       },
       {
         "lineNumber": 46,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "        if(attribute.equals(\"status\")) {"
+        "content": ""
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "            return new CommandResult(getMessageForPersonListShownSummary(personsSortedByStatus), personsSortedByStatus );"
+        "content": "        }else if(attribute.equals(\"appointment\")){"
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "        }else if(attribute.equals(\"appointment\")){"
+        "content": "            final List\u003cReadOnlyPerson\u003e personsSortedByDate \u003d getPersonsSortedByDate();"
       },
       {
         "lineNumber": 49,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "            return new CommandResult(getMessageForPersonListShownSummary(personsSortedByDate), personsSortedByDate);"
+        "content": "            return new CommandResult(getMessageForPersonSortShownSummary(personsSortedByDate, attribute), personsSortedByDate);"
       },
       {
         "lineNumber": 50,
@@ -18691,7 +18691,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "                return new SortCommand(arguments.trim());"
+        "content": "                return prepareSort(arguments);"
       },
       {
         "lineNumber": 95,
@@ -19020,976 +19020,1102 @@
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": ""
       },
       {
         "lineNumber": 142,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 143,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    /**"
+        "content": "    //@@author WuPeiHsuan"
       },
       {
         "lineNumber": 144,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "     * Checks whether the private prefix of a contact detail in the add command\u0027s arguments string is present."
+        "content": "    private Command prepareSort(String args) {"
       },
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "     */"
+        "content": "        args \u003d args.trim();"
       },
       {
         "lineNumber": 146,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    private static boolean isPrivatePrefixPresent(String matchedPrefix) {"
+        "content": "        switch (args) {"
       },
       {
         "lineNumber": 147,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "        return matchedPrefix.equals(\"p\");"
+        "content": ""
       },
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    }"
+        "content": "            case \"name\":"
       },
       {
         "lineNumber": 149,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": ""
       },
       {
         "lineNumber": 150,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    /**"
+        "content": "            case \"appointment\":"
       },
       {
         "lineNumber": 151,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "     * Extracts the new person\u0027s tags from the add command\u0027s tag arguments string."
+        "content": ""
       },
       {
         "lineNumber": 152,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "     * Merges duplicate tag strings."
+        "content": "            case \"status\":"
       },
       {
         "lineNumber": 153,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "     */"
+        "content": "                return new SortCommand(args.trim());"
       },
       {
         "lineNumber": 154,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "    private static Set\u003cString\u003e getTagsFromArgs(String tagArguments) throws IllegalValueException {"
+        "content": ""
       },
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "        // no tags"
+        "content": "            default:"
       },
       {
         "lineNumber": 156,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "        if (tagArguments.isEmpty()) {"
+        "content": "                return new IncorrectCommand(String.format(MESSAGE_INVALID_COMMAND_FORMAT, SortCommand.MESSAGE_USAGE));"
       },
       {
         "lineNumber": 157,
         "author": {
-          "gitId": "-"
-        },
-        "content": "            return Collections.emptySet();"
-      },
-      {
-        "lineNumber": 158,
-        "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": "        }"
       },
       {
+        "lineNumber": 158,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "    }"
+      },
+      {
         "lineNumber": 159,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "        // replace first delimiter prefix, then split"
+        "content": "    //@@author"
       },
       {
         "lineNumber": 160,
         "author": {
           "gitId": "-"
         },
-        "content": "        final Collection\u003cString\u003e tagStrings \u003d Arrays.asList(tagArguments.replaceFirst(\" t/\", \"\").split(\" t/\"));"
+        "content": ""
       },
       {
         "lineNumber": 161,
         "author": {
           "gitId": "-"
         },
-        "content": "        return new HashSet\u003c\u003e(tagStrings);"
+        "content": "    /**"
       },
       {
         "lineNumber": 162,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "     * Checks whether the private prefix of a contact detail in the add command\u0027s arguments string is present."
       },
       {
         "lineNumber": 163,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "     */"
       },
       {
         "lineNumber": 164,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    private static boolean isPrivatePrefixPresent(String matchedPrefix) {"
       },
       {
         "lineNumber": 165,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": "        return matchedPrefix.equals(\"p\");"
       },
       {
         "lineNumber": 166,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Parses arguments in the context of the delete person command."
+        "content": "    }"
       },
       {
         "lineNumber": 167,
         "author": {
           "gitId": "-"
         },
-        "content": "     *"
+        "content": ""
       },
       {
         "lineNumber": 168,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @param args full command args string"
+        "content": "    /**"
       },
       {
         "lineNumber": 169,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @return the prepared command"
+        "content": "     * Extracts the new person\u0027s tags from the add command\u0027s tag arguments string."
       },
       {
         "lineNumber": 170,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "     * Merges duplicate tag strings."
       },
       {
         "lineNumber": 171,
         "author": {
           "gitId": "-"
         },
-        "content": "    private Command prepareDelete(String args) {"
+        "content": "     */"
       },
       {
         "lineNumber": 172,
         "author": {
           "gitId": "-"
         },
-        "content": "        try {"
+        "content": "    private static Set\u003cString\u003e getTagsFromArgs(String tagArguments) throws IllegalValueException {"
       },
       {
         "lineNumber": 173,
         "author": {
           "gitId": "-"
         },
-        "content": "            final int targetIndex \u003d parseArgsAsDisplayedIndex(args);"
+        "content": "        // no tags"
       },
       {
         "lineNumber": 174,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new DeleteCommand(targetIndex);"
+        "content": "        if (tagArguments.isEmpty()) {"
       },
       {
         "lineNumber": 175,
         "author": {
           "gitId": "-"
         },
-        "content": "        } catch (ParseException | NumberFormatException e) {"
+        "content": "            return Collections.emptySet();"
       },
       {
         "lineNumber": 176,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new IncorrectCommand(String.format(MESSAGE_INVALID_COMMAND_FORMAT, DeleteCommand.MESSAGE_USAGE));"
+        "content": "        }"
       },
       {
         "lineNumber": 177,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "        // replace first delimiter prefix, then split"
       },
       {
         "lineNumber": 178,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        final Collection\u003cString\u003e tagStrings \u003d Arrays.asList(tagArguments.replaceFirst(\" t/\", \"\").split(\" t/\"));"
       },
       {
         "lineNumber": 179,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        return new HashSet\u003c\u003e(tagStrings);"
       },
       {
         "lineNumber": 180,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": "    }"
       },
       {
         "lineNumber": 181,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Parses arguments in the context of the view command."
+        "content": ""
       },
       {
         "lineNumber": 182,
         "author": {
           "gitId": "-"
         },
-        "content": "     *"
+        "content": ""
       },
       {
         "lineNumber": 183,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @param args full command args string"
+        "content": "    /**"
       },
       {
         "lineNumber": 184,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @return the prepared command"
+        "content": "     * Parses arguments in the context of the delete person command."
       },
       {
         "lineNumber": 185,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "     *"
       },
       {
         "lineNumber": 186,
         "author": {
           "gitId": "-"
         },
-        "content": "    private Command prepareView(String args) {"
+        "content": "     * @param args full command args string"
       },
       {
         "lineNumber": 187,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "     * @return the prepared command"
       },
       {
         "lineNumber": 188,
         "author": {
           "gitId": "-"
         },
-        "content": "        try {"
+        "content": "     */"
       },
       {
         "lineNumber": 189,
         "author": {
           "gitId": "-"
         },
-        "content": "            final int targetIndex \u003d parseArgsAsDisplayedIndex(args);"
+        "content": "    private Command prepareDelete(String args) {"
       },
       {
         "lineNumber": 190,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new ViewCommand(targetIndex);"
+        "content": "        try {"
       },
       {
         "lineNumber": 191,
         "author": {
           "gitId": "-"
         },
-        "content": "        } catch (ParseException | NumberFormatException e) {"
+        "content": "            final int targetIndex \u003d parseArgsAsDisplayedIndex(args);"
       },
       {
         "lineNumber": 192,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new IncorrectCommand(String.format(MESSAGE_INVALID_COMMAND_FORMAT,"
+        "content": "            return new DeleteCommand(targetIndex);"
       },
       {
         "lineNumber": 193,
         "author": {
           "gitId": "-"
         },
-        "content": "                    ViewCommand.MESSAGE_USAGE));"
+        "content": "        } catch (ParseException | NumberFormatException e) {"
       },
       {
         "lineNumber": 194,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "            return new IncorrectCommand(String.format(MESSAGE_INVALID_COMMAND_FORMAT, DeleteCommand.MESSAGE_USAGE));"
       },
       {
         "lineNumber": 195,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        }"
       },
       {
         "lineNumber": 196,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 197,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": ""
       },
       {
         "lineNumber": 198,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Parses arguments in the context of the view all command."
+        "content": "    /**"
       },
       {
         "lineNumber": 199,
         "author": {
           "gitId": "-"
         },
-        "content": "     *"
+        "content": "     * Parses arguments in the context of the view command."
       },
       {
         "lineNumber": 200,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @param args full command args string"
+        "content": "     *"
       },
       {
         "lineNumber": 201,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @return the prepared command"
+        "content": "     * @param args full command args string"
       },
       {
         "lineNumber": 202,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "     * @return the prepared command"
       },
       {
         "lineNumber": 203,
         "author": {
           "gitId": "-"
         },
-        "content": "    private Command prepareViewAll(String args) {"
+        "content": "     */"
       },
       {
         "lineNumber": 204,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    private Command prepareView(String args) {"
       },
       {
         "lineNumber": 205,
         "author": {
           "gitId": "-"
         },
-        "content": "        try {"
+        "content": ""
       },
       {
         "lineNumber": 206,
         "author": {
           "gitId": "-"
         },
-        "content": "            final int targetIndex \u003d parseArgsAsDisplayedIndex(args);"
+        "content": "        try {"
       },
       {
         "lineNumber": 207,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new ViewAllCommand(targetIndex);"
+        "content": "            final int targetIndex \u003d parseArgsAsDisplayedIndex(args);"
       },
       {
         "lineNumber": 208,
         "author": {
           "gitId": "-"
         },
-        "content": "        } catch (ParseException | NumberFormatException e) {"
+        "content": "            return new ViewCommand(targetIndex);"
       },
       {
         "lineNumber": 209,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new IncorrectCommand(String.format(MESSAGE_INVALID_COMMAND_FORMAT,"
+        "content": "        } catch (ParseException | NumberFormatException e) {"
       },
       {
         "lineNumber": 210,
         "author": {
           "gitId": "-"
         },
-        "content": "                    ViewAllCommand.MESSAGE_USAGE));"
+        "content": "            return new IncorrectCommand(String.format(MESSAGE_INVALID_COMMAND_FORMAT,"
       },
       {
         "lineNumber": 211,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "                    ViewCommand.MESSAGE_USAGE));"
       },
       {
         "lineNumber": 212,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "        }"
       },
       {
         "lineNumber": 213,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 214,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": ""
       },
       {
         "lineNumber": 215,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Parses the given arguments string as a single index number."
+        "content": "    /**"
       },
       {
         "lineNumber": 216,
         "author": {
           "gitId": "-"
         },
-        "content": "     *"
+        "content": "     * Parses arguments in the context of the view all command."
       },
       {
         "lineNumber": 217,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @param args arguments string to parse as index number"
+        "content": "     *"
       },
       {
         "lineNumber": 218,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @return the parsed index number"
+        "content": "     * @param args full command args string"
       },
       {
         "lineNumber": 219,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @throws ParseException if no region of the args string could be found for the index"
+        "content": "     * @return the prepared command"
       },
       {
         "lineNumber": 220,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @throws NumberFormatException the args string region is not a valid number"
+        "content": "     */"
       },
       {
         "lineNumber": 221,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "    private Command prepareViewAll(String args) {"
       },
       {
         "lineNumber": 222,
         "author": {
           "gitId": "-"
         },
-        "content": "    private int parseArgsAsDisplayedIndex(String args) throws ParseException, NumberFormatException {"
+        "content": ""
       },
       {
         "lineNumber": 223,
         "author": {
           "gitId": "-"
         },
-        "content": "        final Matcher matcher \u003d PERSON_INDEX_ARGS_FORMAT.matcher(args.trim());"
+        "content": "        try {"
       },
       {
         "lineNumber": 224,
         "author": {
           "gitId": "-"
         },
-        "content": "        if (!matcher.matches()) {"
+        "content": "            final int targetIndex \u003d parseArgsAsDisplayedIndex(args);"
       },
       {
         "lineNumber": 225,
         "author": {
           "gitId": "-"
         },
-        "content": "            throw new ParseException(\"Could not find index number to parse\");"
+        "content": "            return new ViewAllCommand(targetIndex);"
       },
       {
         "lineNumber": 226,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "        } catch (ParseException | NumberFormatException e) {"
       },
       {
         "lineNumber": 227,
         "author": {
           "gitId": "-"
         },
-        "content": "        return Integer.parseInt(matcher.group(\"targetIndex\"));"
+        "content": "            return new IncorrectCommand(String.format(MESSAGE_INVALID_COMMAND_FORMAT,"
       },
       {
         "lineNumber": 228,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "                    ViewAllCommand.MESSAGE_USAGE));"
       },
       {
         "lineNumber": 229,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 230,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": "    }"
       },
       {
         "lineNumber": 231,
         "author": {
           "gitId": "-"
         },
-        "content": "     * Parses arguments in the context of the find person command."
+        "content": ""
       },
       {
         "lineNumber": 232,
         "author": {
           "gitId": "-"
         },
-        "content": "     *"
+        "content": "    /**"
       },
       {
         "lineNumber": 233,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @param args full command args string"
+        "content": "     * Parses the given arguments string as a single index number."
       },
       {
         "lineNumber": 234,
         "author": {
           "gitId": "-"
         },
-        "content": "     * @return the prepared command"
+        "content": "     *"
       },
       {
         "lineNumber": 235,
         "author": {
           "gitId": "-"
         },
-        "content": "     */"
+        "content": "     * @param args arguments string to parse as index number"
       },
       {
         "lineNumber": 236,
         "author": {
           "gitId": "-"
         },
-        "content": "    private Command prepareFind(String args) {"
+        "content": "     * @return the parsed index number"
       },
       {
         "lineNumber": 237,
         "author": {
           "gitId": "-"
         },
-        "content": "        final Matcher matcher \u003d KEYWORDS_ARGS_FORMAT.matcher(args.trim());"
+        "content": "     * @throws ParseException if no region of the args string could be found for the index"
       },
       {
         "lineNumber": 238,
         "author": {
           "gitId": "-"
         },
-        "content": "        if (!matcher.matches()) {"
+        "content": "     * @throws NumberFormatException the args string region is not a valid number"
       },
       {
         "lineNumber": 239,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new IncorrectCommand(String.format(MESSAGE_INVALID_COMMAND_FORMAT,"
+        "content": "     */"
       },
       {
         "lineNumber": 240,
         "author": {
           "gitId": "-"
         },
-        "content": "                    FindCommand.MESSAGE_USAGE));"
+        "content": "    private int parseArgsAsDisplayedIndex(String args) throws ParseException, NumberFormatException {"
       },
       {
         "lineNumber": 241,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "        final Matcher matcher \u003d PERSON_INDEX_ARGS_FORMAT.matcher(args.trim());"
       },
       {
         "lineNumber": 242,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        if (!matcher.matches()) {"
       },
       {
         "lineNumber": 243,
         "author": {
           "gitId": "-"
         },
-        "content": "        // keywords delimited by whitespace"
+        "content": "            throw new ParseException(\"Could not find index number to parse\");"
       },
       {
         "lineNumber": 244,
         "author": {
           "gitId": "-"
         },
-        "content": "        final String[] keywords \u003d matcher.group(\"keywords\").split(\"\\\\s+\");"
+        "content": "        }"
       },
       {
         "lineNumber": 245,
         "author": {
           "gitId": "-"
         },
-        "content": "        final Set\u003cString\u003e keywordSet \u003d new HashSet\u003c\u003e(Arrays.asList(keywords));"
+        "content": "        return Integer.parseInt(matcher.group(\"targetIndex\"));"
       },
       {
         "lineNumber": 246,
         "author": {
           "gitId": "-"
         },
-        "content": "        return new FindCommand(keywordSet);"
+        "content": "    }"
       },
       {
         "lineNumber": 247,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": ""
       },
       {
         "lineNumber": 248,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    /**"
       },
       {
         "lineNumber": 249,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "    private Command prepareFindDoctor(String args) {"
+        "content": "     * Parses arguments in the context of the find person command."
       },
       {
         "lineNumber": 250,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "        final Matcher matcher \u003d KEYWORDS_ARGS_FORMAT.matcher(args.trim());"
+        "content": "     *"
       },
       {
         "lineNumber": 251,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "        if (!matcher.matches()) {"
+        "content": "     * @param args full command args string"
       },
       {
         "lineNumber": 252,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "            return new IncorrectCommand(String.format(MESSAGE_INVALID_COMMAND_FORMAT,"
+        "content": "     * @return the prepared command"
       },
       {
         "lineNumber": 253,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "                    DoctorAppointmentsCommand.MESSAGE_USAGE));"
+        "content": "     */"
       },
       {
         "lineNumber": 254,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "        }"
+        "content": "    private Command prepareFind(String args) {"
       },
       {
         "lineNumber": 255,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        final Matcher matcher \u003d KEYWORDS_ARGS_FORMAT.matcher(args.trim());"
       },
       {
         "lineNumber": 256,
         "author": {
-          "gitId": "matthiaslum"
-        },
-        "content": "        // keywords delimited by whitespace"
-      },
-      {
-        "lineNumber": 257,
-        "author": {
-          "gitId": "matthiaslum"
-        },
-        "content": "        final String[] keywords \u003d matcher.group(\"keywords\").split(\"\\\\s+\");"
-      },
-      {
-        "lineNumber": 258,
-        "author": {
-          "gitId": "matthiaslum"
-        },
-        "content": "        final Set\u003cString\u003e keywordSet \u003d new HashSet\u003c\u003e(Arrays.asList(keywords));"
-      },
-      {
-        "lineNumber": 259,
-        "author": {
-          "gitId": "matthiaslum"
-        },
-        "content": "        return new DoctorAppointmentsCommand(keywordSet);"
-      },
-      {
-        "lineNumber": 260,
-        "author": {
-          "gitId": "matthiaslum"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 261,
-        "author": {
-          "gitId": "matthiaslum"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 262,
-        "author": {
-          "gitId": "shawn-t"
-        },
-        "content": "    /**"
-      },
-      {
-        "lineNumber": 263,
-        "author": {
-          "gitId": "shawn-t"
-        },
-        "content": "     * Parses arguments in the context of the refer patient command."
-      },
-      {
-        "lineNumber": 264,
-        "author": {
-          "gitId": "shawn-t"
-        },
-        "content": "     *"
-      },
-      {
-        "lineNumber": 265,
-        "author": {
-          "gitId": "shawn-t"
-        },
-        "content": "     * @param args full command args string"
-      },
-      {
-        "lineNumber": 266,
-        "author": {
-          "gitId": "shawn-t"
-        },
-        "content": "     * @return the prepared command"
-      },
-      {
-        "lineNumber": 267,
-        "author": {
-          "gitId": "shawn-t"
-        },
-        "content": "     */"
-      },
-      {
-        "lineNumber": 268,
-        "author": {
-          "gitId": "shawn-t"
-        },
-        "content": "    private Command prepareRefer(String args) {"
-      },
-      {
-        "lineNumber": 269,
-        "author": {
-          "gitId": "shawn-t"
-        },
-        "content": "        final Matcher matcher \u003d KEYWORDS_ARGS_FORMAT.matcher(args.trim());"
-      },
-      {
-        "lineNumber": 270,
-        "author": {
-          "gitId": "shawn-t"
+          "gitId": "-"
         },
         "content": "        if (!matcher.matches()) {"
       },
       {
-        "lineNumber": 271,
+        "lineNumber": 257,
         "author": {
-          "gitId": "shawn-t"
+          "gitId": "-"
         },
         "content": "            return new IncorrectCommand(String.format(MESSAGE_INVALID_COMMAND_FORMAT,"
       },
       {
-        "lineNumber": 272,
+        "lineNumber": 258,
         "author": {
-          "gitId": "shawn-t"
+          "gitId": "-"
         },
-        "content": "                    ReferCommand.MESSAGE_USAGE));"
+        "content": "                    FindCommand.MESSAGE_USAGE));"
       },
       {
-        "lineNumber": 273,
+        "lineNumber": 259,
         "author": {
-          "gitId": "shawn-t"
+          "gitId": "-"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 274,
+        "lineNumber": 260,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
+        "lineNumber": 261,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        // keywords delimited by whitespace"
+      },
+      {
+        "lineNumber": 262,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        final String[] keywords \u003d matcher.group(\"keywords\").split(\"\\\\s+\");"
+      },
+      {
+        "lineNumber": 263,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        final Set\u003cString\u003e keywordSet \u003d new HashSet\u003c\u003e(Arrays.asList(keywords));"
+      },
+      {
+        "lineNumber": 264,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        return new FindCommand(keywordSet);"
+      },
+      {
+        "lineNumber": 265,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 266,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 267,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "    private Command prepareFindDoctor(String args) {"
+      },
+      {
+        "lineNumber": 268,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "        final Matcher matcher \u003d KEYWORDS_ARGS_FORMAT.matcher(args.trim());"
+      },
+      {
+        "lineNumber": 269,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "        if (!matcher.matches()) {"
+      },
+      {
+        "lineNumber": 270,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "            return new IncorrectCommand(String.format(MESSAGE_INVALID_COMMAND_FORMAT,"
+      },
+      {
+        "lineNumber": 271,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "                    DoctorAppointmentsCommand.MESSAGE_USAGE));"
+      },
+      {
+        "lineNumber": 272,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 273,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 274,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "        // keywords delimited by whitespace"
+      },
+      {
         "lineNumber": 275,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "        final String[] keywords \u003d matcher.group(\"keywords\").split(\"\\\\s+\");"
+      },
+      {
+        "lineNumber": 276,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "        final Set\u003cString\u003e keywordSet \u003d new HashSet\u003c\u003e(Arrays.asList(keywords));"
+      },
+      {
+        "lineNumber": 277,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "        return new DoctorAppointmentsCommand(keywordSet);"
+      },
+      {
+        "lineNumber": 278,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 279,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 280,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 281,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "     * Parses arguments in the context of the refer patient command."
+      },
+      {
+        "lineNumber": 282,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "     *"
+      },
+      {
+        "lineNumber": 283,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "     * @param args full command args string"
+      },
+      {
+        "lineNumber": 284,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "     * @return the prepared command"
+      },
+      {
+        "lineNumber": 285,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 286,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "    private Command prepareRefer(String args) {"
+      },
+      {
+        "lineNumber": 287,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "        final Matcher matcher \u003d KEYWORDS_ARGS_FORMAT.matcher(args.trim());"
+      },
+      {
+        "lineNumber": 288,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "        if (!matcher.matches()) {"
+      },
+      {
+        "lineNumber": 289,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "            return new IncorrectCommand(String.format(MESSAGE_INVALID_COMMAND_FORMAT,"
+      },
+      {
+        "lineNumber": 290,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "                    ReferCommand.MESSAGE_USAGE));"
+      },
+      {
+        "lineNumber": 291,
+        "author": {
+          "gitId": "shawn-t"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 292,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 293,
         "author": {
           "gitId": "shawn-t"
         },
         "content": "        // keywords delimited by whitespace"
       },
       {
-        "lineNumber": 276,
+        "lineNumber": 294,
         "author": {
           "gitId": "shawn-t"
         },
         "content": "        final String[] keywords \u003d matcher.group(\"keywords\").split(\"\\\\s+\");"
       },
       {
-        "lineNumber": 277,
+        "lineNumber": 295,
         "author": {
           "gitId": "shawn-t"
         },
         "content": "        final Set\u003cString\u003e keywordSet \u003d new HashSet\u003c\u003e(Arrays.asList(keywords));"
       },
       {
-        "lineNumber": 278,
+        "lineNumber": 296,
         "author": {
           "gitId": "shawn-t"
         },
         "content": "        return new ReferCommand(keywordSet);"
       },
       {
-        "lineNumber": 279,
+        "lineNumber": 297,
         "author": {
           "gitId": "shawn-t"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 280,
+        "lineNumber": 298,
         "author": {
           "gitId": "-"
         },
@@ -19998,8 +20124,9 @@
     ],
     "authorContributionMap": {
       "shawn-t": 23,
-      "-": 236,
-      "matthiaslum": 21
+      "-": 237,
+      "matthiaslum": 21,
+      "WuPeiHsuan": 17
     }
   },
   {
@@ -22401,9 +22528,9 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "        \u003cappointment\u003e30November\u003c/appointment\u003e"
+        "content": "        \u003cappointment\u003e2012 12 30 13 50\u003c/appointment\u003e"
       },
       {
         "lineNumber": 9,
@@ -22417,7 +22544,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        \u003cstatus\u003eobservation\u003c/status\u003e"
+        "content": "        \u003cstatus\u003eObservation\u003c/status\u003e"
       },
       {
         "lineNumber": 11,
@@ -22464,9 +22591,9 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "        \u003cappointment\u003e30November\u003c/appointment\u003e"
+        "content": "        \u003cappointment\u003e2012 12 30 13 50\u003c/appointment\u003e"
       },
       {
         "lineNumber": 18,
@@ -22480,7 +22607,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        \u003cstatus\u003eobservation\u003c/status\u003e"
+        "content": "        \u003cstatus\u003eObservation\u003c/status\u003e"
       },
       {
         "lineNumber": 20,
@@ -22512,8 +22639,8 @@
       }
     ],
     "authorContributionMap": {
-      "-": 19,
-      "matthiaslum": 4
+      "-": 21,
+      "matthiaslum": 2
     }
   },
   {
@@ -23825,9 +23952,9 @@
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "                \"add []\\\\[;] p/12345 e/valid@e.mail a/valid, address, m/30November, d/DoctorTan s/observation\", Name.MESSAGE_NAME_CONSTRAINTS);"
+        "content": "                \"add []\\\\[;] p/12345 e/valid@e.mail a/valid, address, m/2012 12 30 13 50, d/DoctorTan s/Observation\", Name.MESSAGE_NAME_CONSTRAINTS);"
       },
       {
         "lineNumber": 139,
@@ -23839,9 +23966,9 @@
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "                \"add Valid Name p/not_numbers e/valid@e.mail a/valid, address, m/30November, d/DoctorTan s/observation\", Phone.MESSAGE_PHONE_CONSTRAINTS);"
+        "content": "                \"add Valid Name p/not_numbers e/valid@e.mail a/valid, address, m/2012 12 30 13 50, d/DoctorTan s/Observation\", Phone.MESSAGE_PHONE_CONSTRAINTS);"
       },
       {
         "lineNumber": 141,
@@ -23853,9 +23980,9 @@
       {
         "lineNumber": 142,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "                \"add Valid Name p/12345 e/notAnEmail a/valid, address, m/30November, d/DoctorTan s/observation\", Email.MESSAGE_EMAIL_CONSTRAINTS);"
+        "content": "                \"add Valid Name p/12345 e/notAnEmail a/valid, address, m/2012 12 30 13 50, d/DoctorTan s/Observation\", Email.MESSAGE_EMAIL_CONSTRAINTS);"
       },
       {
         "lineNumber": 143,
@@ -23867,9 +23994,9 @@
       {
         "lineNumber": 144,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "                \"add Valid Name p/12345 e/valid@e.mail a/valid, address, m/30November, d/DoctorTan, s/observation, t/invalid_-[.tag\", Tag.MESSAGE_TAG_CONSTRAINTS);"
+        "content": "                \"add Valid Name p/12345 e/valid@e.mail a/valid, address, m/2012 12 30 13 50, d/DoctorTan, s/Observation, t/invalid_-[.tag\", Tag.MESSAGE_TAG_CONSTRAINTS);"
       },
       {
         "lineNumber": 145,
@@ -26142,9 +26269,9 @@
       {
         "lineNumber": 469,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "            Appointment appointment \u003d new Appointment(\"30November\");"
+        "content": "            Appointment appointment \u003d new Appointment(\"2012 12 30 13 50\");"
       },
       {
         "lineNumber": 470,
@@ -26158,7 +26285,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "            Status status \u003d new Status(\"observation\");          "
+        "content": "            Status status \u003d new Status(\"Observation\");"
       },
       {
         "lineNumber": 472,
@@ -26303,9 +26430,9 @@
       {
         "lineNumber": 492,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "                    new Appointment(\"30 November\"),"
+        "content": "                    new Appointment(\"2012 12 30 13 50\"),"
       },
       {
         "lineNumber": 493,
@@ -26319,7 +26446,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "                    new Status(\"observation\"),"
+        "content": "                    new Status(\"Observation\"),"
       },
       {
         "lineNumber": 495,
@@ -26989,9 +27116,9 @@
       {
         "lineNumber": 590,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "                    new Appointment(\"30 November\"),"
+        "content": "                    new Appointment(\"2012 12 30 13 50\"),"
       },
       {
         "lineNumber": 591,
@@ -27051,8 +27178,8 @@
       }
     ],
     "authorContributionMap": {
-      "-": 586,
-      "matthiaslum": 12
+      "-": 593,
+      "matthiaslum": 5
     }
   },
   {
@@ -27497,7 +27624,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        final String input \u003d \"sort\";"
+        "content": "        final String input \u003d \"sort name\";"
       },
       {
         "lineNumber": 64,
@@ -29940,9 +30067,9 @@
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "                                new Appointment(\"30November\"),"
+        "content": "                                new Appointment(\"2012 12 30 13 50\"),"
       },
       {
         "lineNumber": 100,
@@ -29956,7 +30083,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "                                new Status(\"observation\"),"
+        "content": "                                new Status(\"Observation\"),"
       },
       {
         "lineNumber": 102,
@@ -29996,9 +30123,9 @@
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "matthiaslum"
+          "gitId": "-"
         },
-        "content": "                                new Appointment(\"30November\"),"
+        "content": "                                new Appointment(\"2012 12 30 13 50\"),"
       },
       {
         "lineNumber": 108,
@@ -30012,7 +30139,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "                                new Status(\"observation\"),"
+        "content": "                                new Status(\"Observation\"),"
       },
       {
         "lineNumber": 110,
@@ -30044,8 +30171,8 @@
       }
     ],
     "authorContributionMap": {
-      "-": 109,
-      "matthiaslum": 4
+      "-": 111,
+      "matthiaslum": 2
     }
   }
 ]

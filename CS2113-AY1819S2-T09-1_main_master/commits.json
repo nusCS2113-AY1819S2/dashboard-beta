@@ -753,6 +753,18 @@
         "deletions": 0,
         "date": "2019-04-05",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ],
     "WendyBaiYunwei": [
@@ -1117,6 +1129,18 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
         "commitResults": []
       }
     ],
@@ -2277,6 +2301,25 @@
         "deletions": 0,
         "date": "2019-04-05",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 7,
+        "deletions": 1,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "7cdda573d4735629880cda939408ec2e6a5b0b75",
+            "message": "build.gradle: update `defaultTasks` and add more compiler checks (#201)",
+            "insertions": 7,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "chyeo": [
@@ -3048,6 +3091,18 @@
         "deletions": 0,
         "date": "2019-04-05",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ],
     "lycjackie": [
@@ -3793,22 +3848,34 @@
             "deletions": 60
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
     "truegitnovice": 2518,
     "WendyBaiYunwei": 265,
-    "Creastery": 3775,
+    "Creastery": 3782,
     "chyeo": 2336,
     "lycjackie": 4406
   },
   "authorContributionVariance": {
-    "truegitnovice": 83307.26,
-    "WendyBaiYunwei": 1196.8351,
-    "Creastery": 197872.48,
-    "chyeo": 280487.25,
-    "lycjackie": 634048.6
+    "truegitnovice": 80729.445,
+    "WendyBaiYunwei": 1156.5166,
+    "Creastery": 192087.0,
+    "chyeo": 271803.38,
+    "lycjackie": 612653.5
   },
   "authorDisplayNameMap": {
     "truegitnovice": "AHN...GYU",

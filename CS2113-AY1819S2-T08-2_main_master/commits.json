@@ -388,6 +388,18 @@
         "deletions": 0,
         "date": "2019-04-06",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
       }
     ],
     "swalahlah": [
@@ -725,6 +737,18 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
         "commitResults": []
       }
     ],
@@ -1236,10 +1260,17 @@
         ]
       },
       {
-        "insertions": 0,
+        "insertions": 11,
         "deletions": 0,
         "date": "2019-04-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "8350daf3e02deaa72feb8370eb64659471a5250c",
+            "message": "added dummy data",
+            "insertions": 11,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1252,6 +1283,50 @@
         "deletions": 0,
         "date": "2019-04-06",
         "commitResults": []
+      },
+      {
+        "insertions": 58,
+        "deletions": 16,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "44b4ff543a5906ab496f34748e5d1bfae9239f50",
+            "message": "added dummy data",
+            "insertions": 22,
+            "deletions": 1
+          },
+          {
+            "hash": "2e0e8979c0031391e43d64b6cecb92748baf427b",
+            "message": "added dummy data",
+            "insertions": 23,
+            "deletions": 3
+          },
+          {
+            "hash": "a572a3251c104c61ba8c8fa236829623af694874",
+            "message": "indentations",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "52bc83ad74df369ad083b19ad9a45067cf3bfbd0",
+            "message": "indentations",
+            "insertions": 7,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "9ea7424854a1978a3ea00cf9cc75813e8b29e43d",
+            "message": "indentations",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "jayrometan": [
@@ -1727,8 +1802,8 @@
         "commitResults": []
       },
       {
-        "insertions": 891,
-        "deletions": 801,
+        "insertions": 973,
+        "deletions": 828,
         "date": "2019-04-06",
         "commitResults": [
           {
@@ -1766,22 +1841,71 @@
             "message": "travis checkstyle",
             "insertions": 3,
             "deletions": 4
+          },
+          {
+            "hash": "51f0514f67df69cde5f4cde769e0a9dd34a9fd87",
+            "message": "Added sorttask command",
+            "insertions": 82,
+            "deletions": 27
           }
         ]
+      },
+      {
+        "insertions": 38,
+        "deletions": 47,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "72855c220936740acaedcd7a66ad0d124d766374",
+            "message": "travis checkstyle",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "9911b048a1917c3a43e1dc21258321edeb9381e3",
+            "message": "travis checkstyle",
+            "insertions": 13,
+            "deletions": 25
+          },
+          {
+            "hash": "aeec553409f50f05a6a1fd8d162db35ff4bf721e",
+            "message": "travis checkstyle",
+            "insertions": 17,
+            "deletions": 9
+          },
+          {
+            "hash": "cfb536dadd1872291a441969c4111ed5d9460fa0",
+            "message": "travis checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "298795a7b56350ac8837c0cb410e68e55fcaf742",
+            "message": "travis checkstyle",
+            "insertions": 3,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
     "yongjia96": 954,
     "swalahlah": 0,
-    "weizhonglauw": 1734,
-    "jayrometan": 2743
+    "weizhonglauw": 1753,
+    "jayrometan": 2793
   },
   "authorContributionVariance": {
-    "yongjia96": 8889.231,
+    "yongjia96": 8599.105,
     "swalahlah": 0.0,
-    "weizhonglauw": 128679.21,
-    "jayrometan": 80507.61
+    "weizhonglauw": 124345.14,
+    "jayrometan": 84097.1
   },
   "authorDisplayNameMap": {
     "yongjia96": "PAN...JIA",

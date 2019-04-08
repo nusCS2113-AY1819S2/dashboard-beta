@@ -762,8 +762,8 @@
         ]
       },
       {
-        "insertions": 2693,
-        "deletions": 256,
+        "insertions": 3017,
+        "deletions": 386,
         "date": "2019-04-07",
         "commitResults": [
           {
@@ -807,8 +807,44 @@
             "message": "Coding style 5",
             "insertions": 4,
             "deletions": 5
+          },
+          {
+            "hash": "12ff5431154a8d10aa2ae2240739603b850876e2",
+            "message": "Update Login feature",
+            "insertions": 234,
+            "deletions": 59
+          },
+          {
+            "hash": "c8175630b225c166d1d4c3d89d803a8695a38044",
+            "message": "Trailing white space",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "0c7ee0ac083346f8cbc83a239a7d254cfd38d690",
+            "message": "coding style",
+            "insertions": 44,
+            "deletions": 46
+          },
+          {
+            "hash": "aaa4f6ed94d6783a50bf905b12f55365fdf6b9f3",
+            "message": "Coding style 2",
+            "insertions": 23,
+            "deletions": 7
+          },
+          {
+            "hash": "58c79a179d43dbe6d13ca66e33b3dda4dbc2e2af",
+            "message": "Coding style 3",
+            "insertions": 10,
+            "deletions": 5
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
       }
     ],
     "cheahzk": [
@@ -2056,6 +2092,19 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "711158d2a117af7811fa550200af2c656f10c428",
+            "message": "HelpWindow: Bug fix for not displaying correct help page. (due to Zeyang.adoc missing stylesheet)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "jingchen-z": [
@@ -3152,6 +3201,12 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
       }
     ],
     "BrittonAlone": [
@@ -3818,6 +3873,31 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 111,
+        "deletions": 28,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "19ec136faa7486766ec4a1bc7b3c0a9dd0383da6",
+            "message": "Developer Guide for remind feature updated",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "5716eb7adf9e0b66955c865672df32b6d9240ef8",
+            "message": "Remind feature fix small bugs.",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "731a90dfe1d93a4bd58fff4df86590631a301738",
+            "message": "Jin Shibo PPP updated",
+            "insertions": 83,
+            "deletions": 27
+          }
+        ]
       }
     ],
     "Zeyang-Li": [
@@ -4596,22 +4676,28 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Wanchunwei": 2931,
-    "cheahzk": 4944,
-    "jingchen-z": 1554,
-    "BrittonAlone": 787,
-    "Zeyang-Li": 2307
+    "Wanchunwei": 3152,
+    "cheahzk": 4934,
+    "jingchen-z": 1556,
+    "BrittonAlone": 879,
+    "Zeyang-Li": 2293
   },
   "authorContributionVariance": {
-    "Wanchunwei": 190244.73,
-    "cheahzk": 1317387.0,
-    "jingchen-z": 28127.658,
-    "BrittonAlone": 8827.403,
-    "Zeyang-Li": 9655117.0
+    "Wanchunwei": 235203.27,
+    "cheahzk": 1297445.6,
+    "jingchen-z": 27718.652,
+    "BrittonAlone": 8855.764,
+    "Zeyang-Li": 9493028.0
   },
   "authorDisplayNameMap": {
     "Wanchunwei": "WAN...WEI",

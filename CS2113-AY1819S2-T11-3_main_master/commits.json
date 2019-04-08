@@ -549,6 +549,12 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
       }
     ],
     "jacobhan": [
@@ -866,10 +872,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 341,
+        "deletions": 2,
         "date": "2019-04-02",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "74e573619452a628995e74cbc7d04b0f4fe1ae29",
+            "message": "three commands",
+            "insertions": 209,
+            "deletions": 0
+          },
+          {
+            "hash": "29e85beae0a8b8b076105759bd3cfaeae7a90e7f",
+            "message": "get report total",
+            "insertions": 132,
+            "deletions": 2
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -878,10 +897,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 165,
+        "deletions": 17,
         "date": "2019-04-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "bbad797e7a8b0d38c45a35cc0c9fa645db06838e",
+            "message": "fixed bitcoin",
+            "insertions": 165,
+            "deletions": 17
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -890,16 +916,55 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 208,
+        "deletions": 26,
         "date": "2019-04-06",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "7e2d188e381910a3f347a4e2d73a2d220afd1aae",
+            "message": "fixed litecoin",
+            "insertions": 153,
+            "deletions": 12
+          },
+          {
+            "hash": "61bc45d07fff646e07f01e77ee4b85fc066b007d",
+            "message": "report for bitcoin",
+            "insertions": 46,
+            "deletions": 2
+          },
+          {
+            "hash": "36ef398918fdb10dba5eff4701258b4667f68a5c",
+            "message": "fix bugs",
+            "insertions": 9,
+            "deletions": 12
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 7,
+        "deletions": 7,
         "date": "2019-04-07",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "c0309a1cc5029aee8165d99057dd8e93d86fb7ad",
+            "message": "fixing api call",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 88,
+        "deletions": 25,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "1fd608a91918cc7a8e93eb8c049503ff1f2bed7d",
+            "message": "added stock command",
+            "insertions": 88,
+            "deletions": 25
+          }
+        ]
       }
     ],
     "ngkaicong": [
@@ -1243,6 +1308,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
         "commitResults": []
       }
     ],
@@ -1637,8 +1708,8 @@
         "commitResults": []
       },
       {
-        "insertions": 70,
-        "deletions": 45,
+        "insertions": 215,
+        "deletions": 165,
         "date": "2019-04-07",
         "commitResults": [
           {
@@ -1646,22 +1717,125 @@
             "message": "Editted report fn",
             "insertions": 70,
             "deletions": 45
+          },
+          {
+            "hash": "7a9728d2bf2581c4693ce594b05b93b2d30cf8ec",
+            "message": "Fixed unable to close app bug",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "9bfa69d7343e2ef49e8317b26e380723e51ac9f9",
+            "message": "Checkstyle fixes",
+            "insertions": 16,
+            "deletions": 17
+          },
+          {
+            "hash": "ca9541c437a116dfa3384a709073441cdef1ca89",
+            "message": "Checkstyle fixes",
+            "insertions": 128,
+            "deletions": 101
+          }
+        ]
+      },
+      {
+        "insertions": 2009,
+        "deletions": 3453,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "8a74cc068e0ae5db02f8df2e5f17db7e7a2a2b72",
+            "message": "Fixed report by removing bitcoin",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "6ada0ef5837489a285e23126901d363fa6c00961",
+            "message": "Improved performance for the crypto commands -- reduced lagging",
+            "insertions": 190,
+            "deletions": 108
+          },
+          {
+            "hash": "5addb8637e4ccc576dff04b009337b86ccef1316",
+            "message": "Crypto Commands code cleanup",
+            "insertions": 13,
+            "deletions": 304
+          },
+          {
+            "hash": "06e3b5a750feedcec887af7699e11848234dc6f7",
+            "message": "Removed Incorrectly implemented features and tests",
+            "insertions": 0,
+            "deletions": 1154
+          },
+          {
+            "hash": "629c2f874c12d11e455f4b3dbaf9fcff3b748457",
+            "message": "Increased interval for crypto price refresh",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9ff2ad2588774379b48dfd01177ad0c2c64aa6dc",
+            "message": "fixed report command",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "3579f82558b48da22eb910c0e6192a34d867c9f0",
+            "message": "fixed report command",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "7e92ffeb6544497893e40f40e2a2b7d6fa85449d",
+            "message": "checkstyle fixes",
+            "insertions": 68,
+            "deletions": 142
+          },
+          {
+            "hash": "fa56a158b1bd7114d08e1d4506b2bd4eefacdf21",
+            "message": "checkstyle fix",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7415129396f316933ae5802cc1b93ad83ccef4c3",
+            "message": "Added on to DG",
+            "insertions": 25,
+            "deletions": 4
+          },
+          {
+            "hash": "3c058a5921b53a5f9fa52620f2617130050c525c",
+            "message": "Checkstyle fixes",
+            "insertions": 20,
+            "deletions": 23
+          },
+          {
+            "hash": "4b7af1bc9d8d7963c41676b000fd4105b239ffb7",
+            "message": "Refactored names",
+            "insertions": 1680,
+            "deletions": 1706
+          },
+          {
+            "hash": "03a1882b72b2214398308a200fe21dac13050547",
+            "message": "Added Seq Diagram for Report in DG",
+            "insertions": 2,
+            "deletions": 0
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "frankquekch": 2973,
-    "jacobhan": 0,
+    "frankquekch": 2661,
+    "jacobhan": 310,
     "ngkaicong": 0,
-    "yushao2": 590
+    "yushao2": 2550
   },
   "authorContributionVariance": {
-    "frankquekch": 363614.75,
-    "jacobhan": 10.772549,
+    "frankquekch": 357976.8,
+    "jacobhan": 3531.2068,
     "ngkaicong": 0.0,
-    "yushao2": 2057.3315
+    "yushao2": 506108.1
   },
   "authorDisplayNameMap": {
     "frankquekch": "DOM...HAO",

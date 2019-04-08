@@ -667,6 +667,24 @@
             "deletions": 138
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
       }
     ],
     "marcus-pzj": [
@@ -1238,6 +1256,31 @@
         "deletions": 0,
         "date": "2019-04-05",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 290,
+        "deletions": 34,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "fe6d24798daefda90444e0858dbb01485aaba241",
+            "message": "Fix Bugs in Find and List Commands (#179)",
+            "insertions": 290,
+            "deletions": 34
+          }
+        ]
       }
     ],
     "dingheng4448": [
@@ -1754,6 +1797,24 @@
         "deletions": 0,
         "date": "2019-04-05",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
       }
     ],
     "macchazuki": [
@@ -2213,20 +2274,38 @@
         "deletions": 0,
         "date": "2019-04-05",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "seanieyap": 12234,
-    "marcus-pzj": 1638,
+    "seanieyap": 12177,
+    "marcus-pzj": 1951,
     "dingheng4448": 1782,
     "macchazuki": 656
   },
   "authorContributionVariance": {
-    "seanieyap": 2481509.5,
-    "marcus-pzj": 461218.38,
-    "dingheng4448": 27390.393,
-    "macchazuki": 4112.3525
+    "seanieyap": 2376215.8,
+    "marcus-pzj": 438639.88,
+    "dingheng4448": 26234.516,
+    "macchazuki": 3926.2502
   },
   "authorDisplayNameMap": {
     "seanieyap": "SEA...ONG",

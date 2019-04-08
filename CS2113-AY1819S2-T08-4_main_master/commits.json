@@ -637,6 +637,30 @@
             "deletions": 34
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ],
     "ssunil3232": [
@@ -1222,6 +1246,67 @@
             "message": "Update ssunil3232.adoc",
             "insertions": 2,
             "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 177,
+        "deletions": 31,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "3140e6e963a53576cb78fdf3da51b1de0cea5ce7",
+            "message": "Update ssunil3232.adoc",
+            "insertions": 58,
+            "deletions": 3
+          },
+          {
+            "hash": "76bcf94a978bc15d33ae3d898a17fac9e5ad1662",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 12,
+            "deletions": 9
+          },
+          {
+            "hash": "0e05f28b5ffcb544135eb09778c3d5276be8caa6",
+            "message": "Update ssunil3232.adoc",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "f27d73c058284679c4d14b3e4ab280ea1a03ee73",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "d2962408702102d0858ec1abc5db2c32d3813805",
+            "message": "Update ssunil3232.adoc",
+            "insertions": 90,
+            "deletions": 2
+          },
+          {
+            "hash": "1f4bc047b094297c858db4d04a58f8743aca8781",
+            "message": "Links attached",
+            "insertions": 8,
+            "deletions": 8
           }
         ]
       }
@@ -2022,6 +2107,164 @@
             "message": "update PPP",
             "insertions": 51,
             "deletions": 29
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 25,
+        "deletions": 11,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "5de6c032a7af03dca5f4e1dbe5ab8e3019ef15c4",
+            "message": "update Ui images, delete unnecessary images in docs",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "bc8b5a78dcc2aa70e423aa340525b3eecbe76bdd",
+            "message": "fix validity check for phone and birthday",
+            "insertions": 17,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 604,
+        "deletions": 206,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "c0ac0b36a2f2f3326aa227488830c4c66c7ab42c",
+            "message": "Update user guide for list_g and size commands, standardise formatting",
+            "insertions": 84,
+            "deletions": 18
+          },
+          {
+            "hash": "f8666d79d4f748a72e4c84bec9824f765667961a",
+            "message": "correct checkstyle errors",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "83d4d7640262e7c7cfc68611cc084f879bcf26a2",
+            "message": "update test data to new format requirements",
+            "insertions": 38,
+            "deletions": 29
+          },
+          {
+            "hash": "ce4edd0bd0f49b95791791c70cea927d50dacf23",
+            "message": "update more test data for new requirements",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "f586091fc28269951efd06142586e2db11023b29",
+            "message": "change phone requirement to accept + at the start",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "2811cf1dcf71d3f259e43664431b8910fc07b718",
+            "message": "change test data to match requirements",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4fa675855a6efcdd4f6716610a600973bbb337cb",
+            "message": "update test data",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "670f87cee27940089eaf7b9c9f059f2e171aa0ad",
+            "message": "update more test data for new phone bday reqs",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "f97ae318ef0c7ff01bfe31705610f3b2d14efc4f",
+            "message": "update to include 16 digit false test for phone num",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "b23f0cbf62fa6f4c0ca8e5f815a20f3146e72105",
+            "message": "checkstyle error",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "20edf44e165fa9321b76a79923a701b2442461cd",
+            "message": "update bday to reject 00 date and month, add bday test",
+            "insertions": 50,
+            "deletions": 3
+          },
+          {
+            "hash": "4a2a0680ba99ec7bedc684aa0715c424a4c7251e",
+            "message": "include one more bday test case for more than 8 digits",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "6e2eacd232d26d815b612efee35459996a69c133",
+            "message": "update AddHouseCommand test",
+            "insertions": 21,
+            "deletions": 5
+          },
+          {
+            "hash": "f369dc1946eac50dc1a94ebc2dcd3160c56c3fd8",
+            "message": "update AddGroupCommand test",
+            "insertions": 35,
+            "deletions": 10
+          },
+          {
+            "hash": "8663095c0c63c8702e66610ace737cf55b372dd0",
+            "message": "add EditGroupCommandTest, update editgroup and edithouse commands to throw null exceptions",
+            "insertions": 92,
+            "deletions": 5
+          },
+          {
+            "hash": "e50a366929854a4553df299a489ac7801bee41d1",
+            "message": "add EditHouseCommandTest",
+            "insertions": 83,
+            "deletions": 2
+          },
+          {
+            "hash": "d30b4d9ede822de599b9d24a79888cafc6e05a04",
+            "message": "add DeleteGroup and DeleteHouse command tests",
+            "insertions": 135,
+            "deletions": 0
+          },
+          {
+            "hash": "b5374e154f44f2a53bedc3b2c1bf482fe10f83d0",
+            "message": "remove unused and unnecessary classes and functions",
+            "insertions": 0,
+            "deletions": 80
+          },
+          {
+            "hash": "5fa180429a8280e15c886f69339ef59d6c82737c",
+            "message": "update for checkstyle",
+            "insertions": 32,
+            "deletions": 31
+          },
+          {
+            "hash": "de390eb92908735cad5d4d27f2cf594d6f022306",
+            "message": "update EditCommandTest to test for non existent group",
+            "insertions": 8,
+            "deletions": 0
           }
         ]
       }
@@ -2975,20 +3218,44 @@
             "deletions": 14
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "tantantan277": 2375,
-    "ssunil3232": 884,
-    "shanseet": 1995,
-    "weizhang05": 1747
+    "tantantan277": 2353,
+    "ssunil3232": 1031,
+    "shanseet": 2479,
+    "weizhang05": 1720
   },
   "authorContributionVariance": {
-    "tantantan277": 67730.26,
-    "ssunil3232": 12993.544,
-    "shanseet": 30445.049,
-    "weizhang05": 110985.86
+    "tantantan277": 63486.01,
+    "ssunil3232": 12668.204,
+    "shanseet": 38044.246,
+    "weizhang05": 103743.125
   },
   "authorDisplayNameMap": {
     "tantantan277": "PHA...TAN",
