@@ -841,9 +841,34 @@
         ]
       },
       {
+        "insertions": 18,
+        "deletions": 5,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "bd1cf53ded5511fac84a7494e0e1fade946b9171",
+            "message": "Update autocomplete feature",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "4e2a8eee3ada2274d30e904eab8929bf8c970b1c",
+            "message": "Update autocomplete",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "97e88a9e51ee5a4c74f35928092ee2e59271b26f",
+            "message": "coding style",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-08",
+        "date": "2019-04-09",
         "commitResults": []
       }
     ],
@@ -2094,8 +2119,8 @@
         "commitResults": []
       },
       {
-        "insertions": 1,
-        "deletions": 1,
+        "insertions": 27,
+        "deletions": 11,
         "date": "2019-04-08",
         "commitResults": [
           {
@@ -2103,8 +2128,26 @@
             "message": "HelpWindow: Bug fix for not displaying correct help page. (due to Zeyang.adoc missing stylesheet)",
             "insertions": 1,
             "deletions": 1
+          },
+          {
+            "hash": "19fa05b20487eb0c32f09dc5e638aca0555b93e6",
+            "message": "Day: Fix bug for time calculation.",
+            "insertions": 17,
+            "deletions": 3
+          },
+          {
+            "hash": "320faed071342f5bb06bd85ef9d6f39ae101dfaa",
+            "message": "Travis fix.",
+            "insertions": 9,
+            "deletions": 7
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
       }
     ],
     "jingchen-z": [
@@ -3203,10 +3246,42 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 104,
+        "deletions": 98,
         "date": "2019-04-08",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "f5f49632cbb9f504554e7fc0ea17912bcb65d9d9",
+            "message": "Timeline bug fixing 1.0",
+            "insertions": 92,
+            "deletions": 3
+          },
+          {
+            "hash": "68b934ed281ad50028562be74ee49340af6ffd59",
+            "message": "Timeline bug fixing 1.1",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "998dbe40880b004f0284c1ba93f988fcbf1b5797",
+            "message": "Bug fix",
+            "insertions": 5,
+            "deletions": 92
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "c0352e1157081abffc114bcd6de9b244a7c68376",
+            "message": "merge",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "BrittonAlone": [
@@ -3896,6 +3971,19 @@
             "message": "Jin Shibo PPP updated",
             "insertions": 83,
             "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "2c7806fcfeda5e6ec8ffa5cbc03ceabd38e1ba59",
+            "message": "Bug fixed for reminder",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       }
@@ -4682,22 +4770,28 @@
         "deletions": 0,
         "date": "2019-04-08",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Wanchunwei": 3152,
-    "cheahzk": 4934,
-    "jingchen-z": 1556,
+    "Wanchunwei": 3166,
+    "cheahzk": 4952,
+    "jingchen-z": 1564,
     "BrittonAlone": 879,
-    "Zeyang-Li": 2293
+    "Zeyang-Li": 2288
   },
   "authorContributionVariance": {
-    "Wanchunwei": 235203.27,
-    "cheahzk": 1297445.6,
-    "jingchen-z": 27718.652,
-    "BrittonAlone": 8855.764,
-    "Zeyang-Li": 9493028.0
+    "Wanchunwei": 231344.0,
+    "cheahzk": 1277657.9,
+    "jingchen-z": 27548.99,
+    "BrittonAlone": 8726.729,
+    "Zeyang-Li": 9336305.0
   },
   "authorDisplayNameMap": {
     "Wanchunwei": "WAN...WEI",

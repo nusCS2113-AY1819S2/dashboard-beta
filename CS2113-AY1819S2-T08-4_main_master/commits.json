@@ -657,9 +657,53 @@
         "commitResults": []
       },
       {
+        "insertions": 175,
+        "deletions": 32,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "f9abc7ffd814ad5d70fbb7b827cd1278aeafa667",
+            "message": "Create save chart class",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "ae4c2a703132f7e58bd29511372e4ae80a93343b",
+            "message": "Edit logic and parser",
+            "insertions": 77,
+            "deletions": 22
+          },
+          {
+            "hash": "4d61426b72ac3a46e491de274c7aeecd35d66122",
+            "message": "Svae chart parser",
+            "insertions": 33,
+            "deletions": 0
+          },
+          {
+            "hash": "9272f4c6ebcd116dd90bdd0585c449fe9aae20ed",
+            "message": "Edit UI and tests",
+            "insertions": 25,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 1,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "df68662db5424218cd5bed843fd524c1f99a3fd5",
+            "message": "Fix checkstyles",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-07",
+        "date": "2019-04-09",
         "commitResults": []
       }
     ],
@@ -1268,8 +1312,8 @@
         "commitResults": []
       },
       {
-        "insertions": 177,
-        "deletions": 31,
+        "insertions": 178,
+        "deletions": 32,
         "date": "2019-04-07",
         "commitResults": [
           {
@@ -1307,6 +1351,56 @@
             "message": "Links attached",
             "insertions": 8,
             "deletions": 8
+          },
+          {
+            "hash": "35e6cc373a7fb917fd9f7c5f71fc9c5d945f4d80",
+            "message": "Styling of command",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 201,
+        "deletions": 22,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "3dc6b1bd88e6ea6319961640f76d41f99aa91879",
+            "message": "Test cases added",
+            "insertions": 176,
+            "deletions": 3
+          },
+          {
+            "hash": "5ddb7b09dd41744e403f778aeb5c7020450b9c48",
+            "message": "Compile error resolve",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "08baa938d78ebecf90bd266239dc74e8dacd21a3",
+            "message": "Checkstyle corrections",
+            "insertions": 25,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 15,
+        "deletions": 15,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "2eb50f7afa89f826c24574f7b517eb54b65fb54f",
+            "message": "changed the name of one of the functions",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "4b8f06c05a5e0e17715fdb811381899e59611e08",
+            "message": "checkstyle error",
+            "insertions": 2,
+            "deletions": 2
           }
         ]
       }
@@ -2263,6 +2357,43 @@
           {
             "hash": "de390eb92908735cad5d4d27f2cf594d6f022306",
             "message": "update EditCommandTest to test for non existent group",
+            "insertions": 8,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 24,
+        "deletions": 7,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "750d0cf8af39ece65a8b256fe9fdc8640e2dd66a",
+            "message": "update list group to add find empty group fields",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "7fe977f768f6ee98fcf54ef95f17477f2c506f48",
+            "message": "update for checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "ba02191681874cb94a32e1761be4c3c5836c55d5",
+            "message": "update user guide for ability to list_g empty",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "987e00a8ac8e94387a5ca11b560eb1087a4522f1",
+            "message": "update dev guide for viewing houses and groups, and listing group",
             "insertions": 8,
             "deletions": 0
           }
@@ -3242,20 +3373,32 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "tantantan277": 2353,
-    "ssunil3232": 1031,
-    "shanseet": 2479,
+    "tantantan277": 2508,
+    "ssunil3232": 1214,
+    "shanseet": 2489,
     "weizhang05": 1720
   },
   "authorContributionVariance": {
-    "tantantan277": 63486.01,
-    "ssunil3232": 12668.204,
-    "shanseet": 38044.246,
-    "weizhang05": 103743.125
+    "tantantan277": 61703.785,
+    "ssunil3232": 12828.847,
+    "shanseet": 36891.41,
+    "weizhang05": 100463.21
   },
   "authorDisplayNameMap": {
     "tantantan277": "PHA...TAN",

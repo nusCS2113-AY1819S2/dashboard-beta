@@ -400,6 +400,12 @@
         "deletions": 0,
         "date": "2019-04-08",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
       }
     ],
     "swalahlah": [
@@ -749,6 +755,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
         "commitResults": []
       }
     ],
@@ -1316,8 +1328,8 @@
         ]
       },
       {
-        "insertions": 1,
-        "deletions": 1,
+        "insertions": 160,
+        "deletions": 156,
         "date": "2019-04-08",
         "commitResults": [
           {
@@ -1325,6 +1337,85 @@
             "message": "indentations",
             "insertions": 1,
             "deletions": 1
+          },
+          {
+            "hash": "091d7d16da3df40c44aff63e1880faafba2ae6bb",
+            "message": "temporarily changed contact list to habit tracker on UI swapped positions of lists",
+            "insertions": 10,
+            "deletions": 9
+          },
+          {
+            "hash": "98d6c043702393722f2ba5138b3edf64f2ef956f",
+            "message": "changed size of list pane",
+            "insertions": 5,
+            "deletions": 49
+          },
+          {
+            "hash": "1456d7da38f4e557f1949f265b887c88a90aa4c1",
+            "message": "updated AboutUs.adoc",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "24117f9f888812b5f664692ca72443fe7b0e9b8e",
+            "message": "shows contact list again in ui",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6bf2f6651b657c845de8e1fdf30168210c864322",
+            "message": "json files",
+            "insertions": 25,
+            "deletions": 1
+          },
+          {
+            "hash": "d42faac69ee0ad20b0d5f8d25e06f17e106f87cd",
+            "message": "json files",
+            "insertions": 21,
+            "deletions": 1
+          },
+          {
+            "hash": "d9557be53cb05233793a8d3b912bf91a0bfdd0de",
+            "message": "json files",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "234e9091a1b284f4e4068cb68b969d201fea2567",
+            "message": "indentations for travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ce2bb313b2dd6271fdc3afdc252600a6f582e19b",
+            "message": "indentations for travis",
+            "insertions": 40,
+            "deletions": 27
+          },
+          {
+            "hash": "7bc545e45e8be59c8dc66fe50e141993f3219961",
+            "message": "indentations for travis",
+            "insertions": 39,
+            "deletions": 49
+          },
+          {
+            "hash": "53dbb96f159f453ff8ff062c0b1704eb05e77aab",
+            "message": "updated user guide on addpurchase prefixes",
+            "insertions": 5,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "65417f63b21d689cfc89c446fb25c7b3eb8b92f8",
+            "message": "updated images name and affected adocs",
+            "insertions": 6,
+            "deletions": 6
           }
         ]
       }
@@ -1851,8 +1942,8 @@
         ]
       },
       {
-        "insertions": 38,
-        "deletions": 47,
+        "insertions": 369,
+        "deletions": 64,
         "date": "2019-04-07",
         "commitResults": [
           {
@@ -1884,28 +1975,66 @@
             "message": "travis checkstyle",
             "insertions": 3,
             "deletions": 8
+          },
+          {
+            "hash": "9762bfcc3ad5f80367cf08d76887804aefd921df",
+            "message": "Added some classes of tickTask command",
+            "insertions": 318,
+            "deletions": 16
+          },
+          {
+            "hash": "0d2215aad88e2d2c5870d9deefcc7390c185bdba",
+            "message": "travis checkstyle",
+            "insertions": 13,
+            "deletions": 1
           }
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 50,
+        "deletions": 17,
         "date": "2019-04-08",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "1510c25cbe4715a16329f10379da9b5987745d7b",
+            "message": "Also, updated errors on my side assigned by WeiZhong by the mock PE trials. Added different error codes for different errors on DeadlineTime and DeadlineDate.",
+            "insertions": 49,
+            "deletions": 16
+          },
+          {
+            "hash": "9464e5e7c15b3562c30ce92301774cbd0c9387b1",
+            "message": "Adjusting for travis",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 300,
+        "deletions": 120,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "be384f50e8fb6891462ddc4c404db0c49bf25991",
+            "message": "Added the tick task command without the storing of data yet.",
+            "insertions": 300,
+            "deletions": 120
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "yongjia96": 954,
+    "yongjia96": 950,
     "swalahlah": 0,
-    "weizhonglauw": 1753,
-    "jayrometan": 2793
+    "weizhonglauw": 1764,
+    "jayrometan": 3322
   },
   "authorContributionVariance": {
-    "yongjia96": 8599.105,
+    "yongjia96": 8461.01,
     "swalahlah": 0.0,
-    "weizhonglauw": 124345.14,
-    "jayrometan": 84097.1
+    "weizhonglauw": 123072.164,
+    "jayrometan": 86186.14
   },
   "authorDisplayNameMap": {
     "yongjia96": "PAN...JIA",

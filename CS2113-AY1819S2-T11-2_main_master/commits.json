@@ -419,6 +419,31 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 461,
+        "deletions": 160,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "5f494bc5bde137ad78d5bc7d3ba6ed8b6bfa5882",
+            "message": "update",
+            "insertions": 460,
+            "deletions": 159
+          },
+          {
+            "hash": "f55248ee427a3aa6b531fa428b0cd208d424d1ed",
+            "message": "Correct the test script",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
       }
     ],
     "shawn-t": [
@@ -944,6 +969,49 @@
             "deletions": 5
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 77,
+        "deletions": 54,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "781cfa95aeedc60c613bb6ac71784739bccf7dd9",
+            "message": "refer comand bug fix 2.0",
+            "insertions": 48,
+            "deletions": 31
+          },
+          {
+            "hash": "5318e7d0834b407deac7dcd3c3ae6b2d16660f5d",
+            "message": "Crash bug resolved",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "3532b3c92b634b22729ec57738e2547f6c28e887",
+            "message": "refer command overloading enhancement",
+            "insertions": 19,
+            "deletions": 14
+          },
+          {
+            "hash": "4e902e23db33c4dd265828fabc9e49f331c221fa",
+            "message": "modified refer command message usage text",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e5157b58b7284cee6ab2da951fa2d204cbbe5070",
+            "message": "refer command bug fix - able to modify doctor\u0027s name",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
       }
     ],
     "matthiaslum": [
@@ -1419,6 +1487,38 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 139,
+        "deletions": 14,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "74c0d55a6d2469a5107def3f54fd1408be3ec60e",
+            "message": "ApptDate command",
+            "insertions": 139,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 113,
+        "deletions": 3,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "9da55ff96a08b7bde2ee538131f0476a2a9703f3",
+            "message": "fixed bug v1.4",
+            "insertions": 22,
+            "deletions": 3
+          },
+          {
+            "hash": "61b226ace3d89c694034677bb75586c5c4978d3b",
+            "message": "Add files via upload",
+            "insertions": 91,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "WuPeiHsuan": [
@@ -1839,20 +1939,32 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "liguanlong": 344,
-    "shawn-t": 549,
-    "matthiaslum": 500,
-    "WuPeiHsuan": 291
+    "liguanlong": 376,
+    "shawn-t": 572,
+    "matthiaslum": 744,
+    "WuPeiHsuan": 328
   },
   "authorContributionVariance": {
-    "liguanlong": 36768.996,
-    "shawn-t": 2733.4365,
-    "matthiaslum": 3848.4192,
-    "WuPeiHsuan": 109.63804
+    "liguanlong": 41311.99,
+    "shawn-t": 2865.094,
+    "matthiaslum": 4202.742,
+    "WuPeiHsuan": 106.06664
   },
   "authorDisplayNameMap": {
     "liguanlong": "LI ...ONG",

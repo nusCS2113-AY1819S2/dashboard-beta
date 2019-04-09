@@ -1475,10 +1475,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 69,
+        "deletions": 18,
         "date": "2019-04-08",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "8b3a2bf8e53ed0e75d1238a752b5281a53c51856",
+            "message": "Fix setSelectedProject bug",
+            "insertions": 69,
+            "deletions": 18
+          }
+        ]
       }
     ],
     "arhjaye": [
@@ -2119,8 +2126,8 @@
         ]
       },
       {
-        "insertions": 39,
-        "deletions": 18,
+        "insertions": 58,
+        "deletions": 27,
         "date": "2019-04-08",
         "commitResults": [
           {
@@ -2128,6 +2135,12 @@
             "message": "Fix Bug \u0026 Test cases  (#183)",
             "insertions": 39,
             "deletions": 18
+          },
+          {
+            "hash": "64083c6c9b812453d9b0347a02534e4ac6dec3cc",
+            "message": "fix sort and compare (#185)",
+            "insertions": 19,
+            "deletions": 9
           }
         ]
       }
@@ -2758,17 +2771,17 @@
     ]
   },
   "authorFinalContributionMap": {
-    "rachellim10": 445,
-    "gautamrajulu": 235,
-    "josephinetanadi": 4635,
-    "arhjaye": 1995,
+    "rachellim10": 444,
+    "gautamrajulu": 233,
+    "josephinetanadi": 4700,
+    "arhjaye": 1994,
     "andreathniah": 5319
   },
   "authorContributionVariance": {
     "rachellim10": 1420.6714,
     "gautamrajulu": 1058.244,
-    "josephinetanadi": 249077.52,
-    "arhjaye": 183748.2,
+    "josephinetanadi": 248688.39,
+    "arhjaye": 183702.56,
     "andreathniah": 2234249.8
   },
   "authorDisplayNameMap": {

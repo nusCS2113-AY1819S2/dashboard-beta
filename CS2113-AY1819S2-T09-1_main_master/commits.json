@@ -765,6 +765,19 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 12,
+        "deletions": 3,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "0ea4ce8c4b8cec8d5b136f7d912749ef59e86bd8",
+            "message": "UI: update `DegreePlannerCard` to indicate `Special Semester Term` (#198)",
+            "insertions": 12,
+            "deletions": 3
+          }
+        ]
       }
     ],
     "WendyBaiYunwei": [
@@ -1141,6 +1154,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
         "commitResults": []
       }
     ],
@@ -2303,10 +2322,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 877,
+        "deletions": 319,
         "date": "2019-04-06",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "e45bd0ad7ad2703c24abb7710328fd301f4b65df",
+            "message": "Model/module: add `Module#semesters`",
+            "insertions": 405,
+            "deletions": 142
+          },
+          {
+            "hash": "b82c0d03474f962051d8d20d1779357c55cce745",
+            "message": "test: fix unit and system tests to support `Module#semesters`",
+            "insertions": 472,
+            "deletions": 177
+          }
+        ]
       },
       {
         "insertions": 7,
@@ -2320,6 +2352,12 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
       }
     ],
     "chyeo": [
@@ -3103,6 +3141,31 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 261,
+        "deletions": 16,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "f30bb950c603f0dff478f51263b840953443b5ce",
+            "message": "Model: update \u0027UniqueRequirementCategoryList\u0027 checking method",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "2c059d2d79bac69a88aaecb393565e9b63811398",
+            "message": "Logic: update all requirement commands",
+            "insertions": 10,
+            "deletions": 7
+          },
+          {
+            "hash": "83f0e4885c431f3d2f810e2d28ab68a1f045863c",
+            "message": "test/parser: add test case for \u0027requirement-add\u0027 command",
+            "insertions": 248,
+            "deletions": 8
+          }
+        ]
       }
     ],
     "lycjackie": [
@@ -3850,32 +3913,89 @@
         ]
       },
       {
-        "insertions": 0,
+        "insertions": 90,
         "deletions": 0,
         "date": "2019-04-06",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "f4bfee00b6c981c9da8de97eb7b45a5a96de4bfe",
+            "message": "logic/Test: create unit test for `ClearCommandParser`",
+            "insertions": 57,
+            "deletions": 0
+          },
+          {
+            "hash": "8d1be1a68260d64c8b42913de605f93f411248d9",
+            "message": "logic/Test: Add unit tests on updated behaviour",
+            "insertions": 33,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 197,
+        "deletions": 85,
         "date": "2019-04-07",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "4f2d5a1a21c5dc3ed0ca49c54701c68d0e6e4211",
+            "message": "Logic: add new `Exception` for `BooleanExpressionParser`",
+            "insertions": 83,
+            "deletions": 24
+          },
+          {
+            "hash": "cb535d7e45f5c6ec49f9103129b87d0f4e998c7e",
+            "message": "parser/Test: add new unit tests related to new `Exception`",
+            "insertions": 31,
+            "deletions": 0
+          },
+          {
+            "hash": "426987281b743f812d71b189703dd96ef6c0ca82",
+            "message": "systemtest/FindCommandSystemTest: add new unit tests related to new `Exception`",
+            "insertions": 16,
+            "deletions": 1
+          },
+          {
+            "hash": "951c4471c0801b74b3cf93f12f51a606c61902c1",
+            "message": "parser/Test: uncheck type after `BooleanExpressionParser` was made generic",
+            "insertions": 67,
+            "deletions": 60
+          }
+        ]
+      },
+      {
+        "insertions": 191,
+        "deletions": 23,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "0eaf376543ee0cc4868aeab89977657e06a27921",
+            "message": "Logic: improve our `clear` command",
+            "insertions": 157,
+            "deletions": 12
+          },
+          {
+            "hash": "cd2407c068976c2b7315c660b4e897e3ba59eb9e",
+            "message": "[#174] UI: include title for all main panels (#194)",
+            "insertions": 34,
+            "deletions": 11
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "truegitnovice": 2518,
+    "truegitnovice": 2528,
     "WendyBaiYunwei": 265,
-    "Creastery": 3782,
-    "chyeo": 2336,
-    "lycjackie": 4406
+    "Creastery": 4417,
+    "chyeo": 2576,
+    "lycjackie": 4776
   },
   "authorContributionVariance": {
-    "truegitnovice": 80729.445,
-    "WendyBaiYunwei": 1156.5166,
-    "Creastery": 192087.0,
-    "chyeo": 271803.38,
-    "lycjackie": 612653.5
+    "truegitnovice": 79452.69,
+    "WendyBaiYunwei": 1137.3586,
+    "Creastery": 206184.86,
+    "chyeo": 267281.9,
+    "lycjackie": 601645.75
   },
   "authorDisplayNameMap": {
     "truegitnovice": "AHN...GYU",

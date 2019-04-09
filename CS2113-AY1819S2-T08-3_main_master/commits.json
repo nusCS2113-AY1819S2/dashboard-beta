@@ -685,6 +685,19 @@
         "deletions": 0,
         "date": "2019-04-08",
         "commitResults": []
+      },
+      {
+        "insertions": 7,
+        "deletions": 2,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "68885f69a41f9a8acbd77e0fbb0595322ab76133",
+            "message": "v1.3.1 (#181)",
+            "insertions": 7,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "marcus-pzj": [
@@ -1281,6 +1294,12 @@
             "deletions": 34
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
       }
     ],
     "dingheng4448": [
@@ -1815,6 +1834,12 @@
         "deletions": 0,
         "date": "2019-04-08",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
       }
     ],
     "macchazuki": [
@@ -2288,24 +2313,37 @@
         "commitResults": []
       },
       {
+        "insertions": 274,
+        "deletions": 75,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "457c1b497a48c956348d6e927219f3ed2d64347d",
+            "message": "Add parser tests to import/export and exceptions (#180)",
+            "insertions": 274,
+            "deletions": 75
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-08",
+        "date": "2019-04-09",
         "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "seanieyap": 12177,
+    "seanieyap": 12175,
     "marcus-pzj": 1951,
-    "dingheng4448": 1782,
-    "macchazuki": 656
+    "dingheng4448": 1781,
+    "macchazuki": 863
   },
   "authorContributionVariance": {
-    "seanieyap": 2376215.8,
-    "marcus-pzj": 438639.88,
-    "dingheng4448": 26234.516,
-    "macchazuki": 3926.2502
+    "seanieyap": 2342791.2,
+    "marcus-pzj": 431551.34,
+    "dingheng4448": 25869.547,
+    "macchazuki": 5640.402
   },
   "authorDisplayNameMap": {
     "seanieyap": "SEA...ONG",

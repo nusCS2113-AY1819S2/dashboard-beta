@@ -496,6 +496,37 @@
         "deletions": 0,
         "date": "2019-04-06",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 215,
+        "deletions": 34,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "87acd5f3210f5988960553ed81f321929f9a9b9b",
+            "message": "add viewfinance command, changed help command to make it look less messy",
+            "insertions": 129,
+            "deletions": 34
+          },
+          {
+            "hash": "4e26a6df03a7867fb7ce8445882ca0750d8ae1bd",
+            "message": "parser testing",
+            "insertions": 86,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "warheade": [
@@ -1158,6 +1189,37 @@
             "deletions": 3
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 193,
+        "deletions": 82,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "93ae01749ec1382958f0ddf41c5e68c726f047bf",
+            "message": "Disabled editPlayer Command from changing player\u0027s team Adjusted player\u0027s attributes Changed Version information Updated User Guide Adjusted help Command Adjusted MESSAGE_USAGE of various commands for better display",
+            "insertions": 139,
+            "deletions": 52
+          },
+          {
+            "hash": "bea490f7435a52a0b1b241f575f8fe70e554237e",
+            "message": "checkstyle",
+            "insertions": 54,
+            "deletions": 30
+          }
+        ]
       }
     ],
     "yingrong1996": [
@@ -1626,8 +1688,8 @@
         ]
       },
       {
-        "insertions": 88,
-        "deletions": 4,
+        "insertions": 101,
+        "deletions": 8,
         "date": "2019-04-06",
         "commitResults": [
           {
@@ -1641,8 +1703,45 @@
             "message": "Changes for checkstyle",
             "insertions": 7,
             "deletions": 3
+          },
+          {
+            "hash": "50e5ae57a06d25a8bcc85dec6a68cc9973a5f23e",
+            "message": "improved sponsor regex check for team name duplication (case sensitive)",
+            "insertions": 13,
+            "deletions": 4
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 122,
+        "deletions": 162,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "63685ca4ebb9a406dcc310af67124f172c88fe1b",
+            "message": "Fixed matchupdate increase functionality of delteam created internal sorting for team",
+            "insertions": 108,
+            "deletions": 136
+          },
+          {
+            "hash": "ca93565c86eeb58636973cb1c39701174c1d3131",
+            "message": "checkstyle",
+            "insertions": 14,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
       }
     ],
     "E0176106": [
@@ -2196,20 +2295,38 @@
         "deletions": 0,
         "date": "2019-04-06",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "huyidi": 981,
-    "warheade": 3497,
-    "yingrong1996": 1909,
-    "E0176106": 2118
+    "huyidi": 1145,
+    "warheade": 3653,
+    "yingrong1996": 1927,
+    "E0176106": 2102
   },
   "authorContributionVariance": {
-    "huyidi": 18735.66,
-    "warheade": 190463.95,
-    "yingrong1996": 58770.504,
-    "E0176106": 140667.22
+    "huyidi": 18571.703,
+    "warheade": 181793.48,
+    "yingrong1996": 56715.156,
+    "E0176106": 133897.08
   },
   "authorDisplayNameMap": {
     "huyidi": "Hu Yidi",
