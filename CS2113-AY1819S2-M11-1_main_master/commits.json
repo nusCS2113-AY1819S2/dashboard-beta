@@ -527,6 +527,12 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
       }
     ],
     "warheade": [
@@ -1203,8 +1209,8 @@
         "commitResults": []
       },
       {
-        "insertions": 193,
-        "deletions": 82,
+        "insertions": 436,
+        "deletions": 185,
         "date": "2019-04-09",
         "commitResults": [
           {
@@ -1218,6 +1224,31 @@
             "message": "checkstyle",
             "insertions": 54,
             "deletions": 30
+          },
+          {
+            "hash": "f3b7a67d6768b8f7e6d54e0577ee487c49128c03",
+            "message": "tidied up commands and edited user guide accordingly",
+            "insertions": 242,
+            "deletions": 102
+          },
+          {
+            "hash": "d76959a82b137b69d34546bf20c9966256fd14ae",
+            "message": "travis",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 151,
+        "deletions": 28,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "6e1fffbcc9f5bccd2e3bd5147cef6995a1271431",
+            "message": "user guide",
+            "insertions": 151,
+            "deletions": 28
           }
         ]
       }
@@ -1742,6 +1773,31 @@
         "deletions": 0,
         "date": "2019-04-09",
         "commitResults": []
+      },
+      {
+        "insertions": 669,
+        "deletions": 8,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "21aeec78965dd3ed5d6f353c289f63468bc473a4",
+            "message": "Added Test Cases for Team Management",
+            "insertions": 663,
+            "deletions": 2
+          },
+          {
+            "hash": "8932b08ad752d9e27adb21da7617a146bb1de17e",
+            "message": "fix checkstyle",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "cbc04dbd883326ce1e1edfc630e69a9734fa6aee",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "E0176106": [
@@ -2309,24 +2365,50 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 20,
+        "deletions": 150,
         "date": "2019-04-09",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "2e737bca4655f370d9f4ab21e7ebd3db5a614057",
+            "message": "Refactor Home/Away to TeamName",
+            "insertions": 20,
+            "deletions": 150
+          }
+        ]
+      },
+      {
+        "insertions": 22,
+        "deletions": 152,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "376240da41438236aafd9042bcc86dd9dffd78c8",
+            "message": "Refactor Home/Away into TeamName",
+            "insertions": 20,
+            "deletions": 151
+          },
+          {
+            "hash": "80bf05acf1fe3d7dca502193d300100fc960866b",
+            "message": "Add Coveralls Badge",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "huyidi": 1145,
-    "warheade": 3653,
-    "yingrong1996": 1927,
-    "E0176106": 2102
+    "huyidi": 1143,
+    "warheade": 3958,
+    "yingrong1996": 2497,
+    "E0176106": 1971
   },
   "authorContributionVariance": {
-    "huyidi": 18571.703,
-    "warheade": 181793.48,
-    "yingrong1996": 56715.156,
-    "E0176106": 133897.08
+    "huyidi": 18291.695,
+    "warheade": 182221.81,
+    "yingrong1996": 61590.168,
+    "E0176106": 131783.17
   },
   "authorDisplayNameMap": {
     "huyidi": "Hu Yidi",

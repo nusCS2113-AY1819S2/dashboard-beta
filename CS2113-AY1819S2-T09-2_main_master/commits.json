@@ -2144,10 +2144,29 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 18,
+        "deletions": 33,
         "date": "2019-04-09",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "1085b6fbc0cb7e619279d1ef0cdbc1d3c7a7fab2",
+            "message": "DeveloperGuide: Updated diagram \u0026 description for Logic, Model, Storage \u0026 Versioned Tasketch to suit our project.",
+            "insertions": 17,
+            "deletions": 22
+          },
+          {
+            "hash": "42cb514ea835070c95b5a1a964796372d57f9d8d",
+            "message": "DeveloperGuide: Corrected some mistakes.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b3ac02869ac7c23fb9bb8457940d77f81c45165e",
+            "message": "ModelManager: Removed unused methods.",
+            "insertions": 0,
+            "deletions": 10
+          }
+        ]
       }
     ],
     "jingchen-z": [
@@ -4780,15 +4799,15 @@
     ]
   },
   "authorFinalContributionMap": {
-    "Wanchunwei": 3166,
-    "cheahzk": 4952,
-    "jingchen-z": 1564,
-    "BrittonAlone": 879,
-    "Zeyang-Li": 2288
+    "Wanchunwei": 3165,
+    "cheahzk": 4977,
+    "jingchen-z": 1565,
+    "BrittonAlone": 854,
+    "Zeyang-Li": 2285
   },
   "authorContributionVariance": {
     "Wanchunwei": 231344.0,
-    "cheahzk": 1277657.9,
+    "cheahzk": 1277021.0,
     "jingchen-z": 27548.99,
     "BrittonAlone": 8726.729,
     "Zeyang-Li": 9336305.0

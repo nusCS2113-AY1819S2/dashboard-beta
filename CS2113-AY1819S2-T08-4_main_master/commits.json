@@ -705,6 +705,12 @@
         "deletions": 0,
         "date": "2019-04-09",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
       }
     ],
     "ssunil3232": [
@@ -1386,8 +1392,8 @@
         ]
       },
       {
-        "insertions": 15,
-        "deletions": 15,
+        "insertions": 239,
+        "deletions": 73,
         "date": "2019-04-09",
         "commitResults": [
           {
@@ -1400,6 +1406,97 @@
             "hash": "4b8f06c05a5e0e17715fdb811381899e59611e08",
             "message": "checkstyle error",
             "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b97d6062d224d3918c255b7928210f6ac981083b",
+            "message": "Export as Freshmen and as OGL",
+            "insertions": 170,
+            "deletions": 38
+          },
+          {
+            "hash": "d97723f5fa001061327079d90ed0dd1623d2fb71",
+            "message": "checkstyle error",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "4e089d636c58ab80e6074920eb983f9f70cb40d5",
+            "message": "checktsyle error",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "32ae40fb923ae81ec9762af588c94a8485338ff9",
+            "message": "Checkstyle error",
+            "insertions": 42,
+            "deletions": 10
+          },
+          {
+            "hash": "e9ca76c61c5eecdd7c7919f86940e1b9527c56b0",
+            "message": "Checkstyle error",
+            "insertions": 8,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 303,
+        "deletions": 103,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "c7465b4ae0347c4790f1a931eec15a8d263032e2",
+            "message": "the base code completed",
+            "insertions": 209,
+            "deletions": 4
+          },
+          {
+            "hash": "d1621551c514b0a8857b3e7cb48893ae1d705a14",
+            "message": "Checkstyle corrections",
+            "insertions": 53,
+            "deletions": 56
+          },
+          {
+            "hash": "c1a805bc9c6734c15d975c85ee4f96f1c73705f2",
+            "message": "Checkstyle corrections",
+            "insertions": 16,
+            "deletions": 7
+          },
+          {
+            "hash": "ae97661b094dc6b12184b08e8f1ef73afd14426b",
+            "message": "Checkstyle",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "2dbc9d4d09b6ec4fb1deb75c011b41d6a00e51da",
+            "message": "checkstyle",
+            "insertions": 10,
+            "deletions": 13
+          },
+          {
+            "hash": "9921ba476aa699e597e471cc48ee61c24a6f900b",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "2c36bfe132e1fd6ca8921521964489c76b5f4edd",
+            "message": "checkstyle",
+            "insertions": 7,
+            "deletions": 16
+          },
+          {
+            "hash": "0b9beed2943642c566b3e07e61be28a70c731e7f",
+            "message": "checkstye",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d8fdc9af1b78ea571b1a2f0ba5985ddbc867f467",
+            "message": "Checkstyle",
+            "insertions": 0,
             "deletions": 2
           }
         ]
@@ -2369,8 +2466,8 @@
         "commitResults": []
       },
       {
-        "insertions": 24,
-        "deletions": 7,
+        "insertions": 279,
+        "deletions": 57,
         "date": "2019-04-09",
         "commitResults": [
           {
@@ -2396,6 +2493,85 @@
             "message": "update dev guide for viewing houses and groups, and listing group",
             "insertions": 8,
             "deletions": 0
+          },
+          {
+            "hash": "a2e268aa859c9bd8dfbdcdd9b73307fed22f643b",
+            "message": "edit help window",
+            "insertions": 26,
+            "deletions": 5
+          },
+          {
+            "hash": "a750a507e9443c69e6d8ab380c12722c2c2998d0",
+            "message": "delete array of persons from Group",
+            "insertions": 12,
+            "deletions": 14
+          },
+          {
+            "hash": "81f949114440975570b23307a370c94ab0dcf12c",
+            "message": "update model and storage to store person\u0027s houses; update add commands to add persons to contain house name",
+            "insertions": 57,
+            "deletions": 11
+          },
+          {
+            "hash": "7597424a88cb26a25511485a16ac858e3014929a",
+            "message": "add list by house command",
+            "insertions": 112,
+            "deletions": 4
+          },
+          {
+            "hash": "91b1985eefe66b3cb157783f09e2329caae3d9ea",
+            "message": "change edit command and edithouse command to update person\u0027s group\u0027s housename field",
+            "insertions": 20,
+            "deletions": 2
+          },
+          {
+            "hash": "f4dac2ccac8746646bfd055b2d6ecc004a5f10db",
+            "message": "minor edit for logic for edithousecommand",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "77644aeab3a2f02385a726d634c547a53d4a65d9",
+            "message": "update for EOF error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4422ddd24b8ca1ab407594e86fe975a454b54c64",
+            "message": "fix checkstyle errors",
+            "insertions": 12,
+            "deletions": 3
+          },
+          {
+            "hash": "6808d16f2c43225795c0ca8a071594644a9f3c1a",
+            "message": "change test data for new person storage",
+            "insertions": 10,
+            "deletions": 9
+          },
+          {
+            "hash": "b403b1aa75bb1ecd74efc8c0a0a355c0d8070406",
+            "message": "update addcommandtest for model implementation",
+            "insertions": 5,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 62,
+        "deletions": 21,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "bd1da02fb899cab4d0a76f37da47c3c2ee029d8f",
+            "message": "editing for system tests",
+            "insertions": 40,
+            "deletions": 17
+          },
+          {
+            "hash": "747e6e283769443cfc1d40b5eb0cb2a2744fb566",
+            "message": "update add commands for efficiency, update commands to accomodate null house names",
+            "insertions": 22,
+            "deletions": 4
           }
         ]
       }
@@ -3385,20 +3561,26 @@
         "deletions": 0,
         "date": "2019-04-09",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "tantantan277": 2508,
-    "ssunil3232": 1214,
-    "shanseet": 2489,
-    "weizhang05": 1720
+    "tantantan277": 2494,
+    "ssunil3232": 1587,
+    "shanseet": 2763,
+    "weizhang05": 1701
   },
   "authorContributionVariance": {
-    "tantantan277": 61703.785,
-    "ssunil3232": 12828.847,
-    "shanseet": 36891.41,
-    "weizhang05": 100463.21
+    "tantantan277": 60787.984,
+    "ssunil3232": 15963.113,
+    "shanseet": 37342.71,
+    "weizhang05": 98899.45
   },
   "authorDisplayNameMap": {
     "tantantan277": "PHA...TAN",

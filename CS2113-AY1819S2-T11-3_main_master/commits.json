@@ -1063,10 +1063,71 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 201,
+        "deletions": 71,
         "date": "2019-04-09",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "0448766dc6b2fc6cbd3c9f2f63871b744e1af46e",
+            "message": "fixed stock name",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "72f3e6874afcbc6fe3fad1fb2a659ea5c68a2dfd",
+            "message": "changes to tests",
+            "insertions": 67,
+            "deletions": 1
+          },
+          {
+            "hash": "94b3be6857562994fbfa969afecd073004f5d9fe",
+            "message": "checkstyle",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "44176157ae0e33437db528c561be06a37ca91514",
+            "message": "checkstyle",
+            "insertions": 4,
+            "deletions": 10
+          },
+          {
+            "hash": "8ba8657cfdc1f13b6ac349755d391f5037836923",
+            "message": "checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "6fbfaf766f765fe6ce20f1eda1515f22f56a8fc9",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4b45f218d022c1058596fdbed404a4616b2337c0",
+            "message": "stock and ug",
+            "insertions": 100,
+            "deletions": 29
+          },
+          {
+            "hash": "a66511df2977af8224f6765652e9ec11119c4c04",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "81996418ebbaebad05e74934d7ffaae3f9dfde61",
+            "message": "checkstyle",
+            "insertions": 14,
+            "deletions": 13
+          },
+          {
+            "hash": "11ee5b3f79db2395284bba354b0cf16673f52769",
+            "message": "checkstyle",
+            "insertions": 10,
+            "deletions": 9
+          }
+        ]
       }
     ],
     "ngkaicong": [
@@ -1977,14 +2038,14 @@
     ]
   },
   "authorFinalContributionMap": {
-    "frankquekch": 2525,
-    "jacobhan": 357,
+    "frankquekch": 2511,
+    "jacobhan": 507,
     "ngkaicong": 0,
-    "yushao2": 2822
+    "yushao2": 2803
   },
   "authorContributionVariance": {
     "frankquekch": 352509.5,
-    "jacobhan": 3797.9111,
+    "jacobhan": 4832.464,
     "ngkaicong": 0.0,
     "yushao2": 593762.75
   },

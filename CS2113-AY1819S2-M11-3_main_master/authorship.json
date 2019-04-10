@@ -14929,6 +14929,1485 @@
     }
   },
   {
+    "path": "src/main/java/seedu/address/MainApp.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "package seedu.address;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.io.IOException;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.nio.file.Path;"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.util.Optional;"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import java.util.logging.Logger;"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import javafx.application.Application;"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import javafx.stage.Stage;"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.commons.core.Config;"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.commons.core.LogsCenter;"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.commons.core.Version;"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.commons.exceptions.DataConversionException;"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.commons.util.ConfigUtil;"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.commons.util.StringUtil;"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.logic.Logic;"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.logic.LogicManager;"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.FlashBook;"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.Model;"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.ModelManager;"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.ReadOnlyFlashBook;"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.ReadOnlyUserPrefs;"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.UserPrefs;"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.flashcard.Flashcard;"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.subject.ReadOnlySubjectBook;"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.subject.SubjectBook;"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.util.SampleDataUtil;"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.storage.FlashBookStorage;"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.storage.JsonFlashBookStorage;"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.storage.JsonSubjectBookStorage;"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.storage.JsonUserPrefsStorage;"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.storage.Storage;"
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.storage.StorageManager;"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.storage.SubjectBookStorage;"
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.storage.UserPrefsStorage;"
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.ui.Ui;"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.ui.UiManager;"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "-"
+        },
+        "content": " * The main entry point to the application."
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "-"
+        },
+        "content": " * testing pushed commit, should be linked to Travis build"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "-"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "public class MainApp extends Application {"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public static final Version VERSION \u003d new Version(0, 6, 0, true);"
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    private static final Logger logger \u003d LogsCenter.getLogger(MainApp.class);"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    protected Ui ui;"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    protected Logic logic;"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    protected Storage storage;"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    protected Model model;"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    protected Config config;"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public void init() throws Exception {"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        logger.info(\"\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d[ Initializing FlashBook ]\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\");"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        super.init();"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        AppParameters appParameters \u003d AppParameters.parse(getParameters());"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        config \u003d initConfig(appParameters.getConfigPath());"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        UserPrefsStorage userPrefsStorage \u003d new JsonUserPrefsStorage(config.getUserPrefsFilePath());"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        UserPrefs userPrefs \u003d initPrefs(userPrefsStorage);"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        FlashBookStorage flashBookStorage \u003d new JsonFlashBookStorage(userPrefs.getFlashBookFilePath());"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        SubjectBookStorage subjectBookStorage \u003d new JsonSubjectBookStorage(userPrefs.getSubjectBookFilePath());"
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        storage \u003d new StorageManager(flashBookStorage, userPrefsStorage);"
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "        storage \u003d new StorageManager(new JsonFlashBookStorage(userPrefs.getFlashBookFilePath()),"
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "                new JsonUserPrefsStorage(config.getUserPrefsFilePath()));"
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        initLogging(config);"
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        model \u003d initModelManager(storage, userPrefs);"
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        logic \u003d new LogicManager(model, storage);"
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        ui \u003d new UiManager(logic);"
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 80,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 81,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 82,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * Returns a {@code ModelManager} with the data from {@code storage}\u0027s flash book and {@code userPrefs}. \u003cbr\u003e"
+      },
+      {
+        "lineNumber": 83,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * The data from the sample flash book will be used instead if {@code storage}\u0027s flash book is not found,"
+      },
+      {
+        "lineNumber": 84,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * or an empty flash book will be used instead if errors occur when reading {@code storage}\u0027s flash book."
+      },
+      {
+        "lineNumber": 85,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 86,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    private Model initModelManager(Storage storage, ReadOnlyUserPrefs userPrefs) {"
+      },
+      {
+        "lineNumber": 87,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        Optional\u003cReadOnlyFlashBook\u003e flashBookOptional;"
+      },
+      {
+        "lineNumber": 88,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        ReadOnlyFlashBook initialFlashBook;"
+      },
+      {
+        "lineNumber": 89,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        ReadOnlySubjectBook initialSubjectBook;"
+      },
+      {
+        "lineNumber": 90,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        SubjectBook s \u003d new SubjectBook();"
+      },
+      {
+        "lineNumber": 91,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 92,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 93,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 94,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            flashBookOptional \u003d storage.readFlashBook();"
+      },
+      {
+        "lineNumber": 95,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            if (!flashBookOptional.isPresent()) {"
+      },
+      {
+        "lineNumber": 96,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "                logger.info(\"Data file not found. Will be starting with a sample FlashBook\");"
+      },
+      {
+        "lineNumber": 97,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 98,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            initialFlashBook \u003d flashBookOptional.orElseGet(SampleDataUtil::getSampleFlashBook);"
+      },
+      {
+        "lineNumber": 99,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 100,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            for (Flashcard f : initialFlashBook.getFlashcardList()) {"
+      },
+      {
+        "lineNumber": 101,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "                s.addSubject(f.getSubject());"
+      },
+      {
+        "lineNumber": 102,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 103,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            initialSubjectBook \u003d s;"
+      },
+      {
+        "lineNumber": 104,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            //initialSubjectBook \u003d initialFlashBook.getFlashcardList();"
+      },
+      {
+        "lineNumber": 105,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            //initialSubjectBook \u003d new SubjectBook();"
+      },
+      {
+        "lineNumber": 106,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        } catch (DataConversionException e) {"
+      },
+      {
+        "lineNumber": 107,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            logger.warning(\"Data file not in the correct format. Will be starting with an empty FlashBook\");"
+      },
+      {
+        "lineNumber": 108,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            initialFlashBook \u003d new FlashBook();"
+      },
+      {
+        "lineNumber": 109,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            initialSubjectBook \u003d new SubjectBook();"
+      },
+      {
+        "lineNumber": 110,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        } catch (IOException e) {"
+      },
+      {
+        "lineNumber": 111,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            logger.warning(\"Problem while reading from the file. Will be starting with an empty FlashBook\");"
+      },
+      {
+        "lineNumber": 112,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            initialFlashBook \u003d new FlashBook();"
+      },
+      {
+        "lineNumber": 113,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            initialSubjectBook \u003d new SubjectBook();"
+      },
+      {
+        "lineNumber": 114,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 115,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 116,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        return new ModelManager(initialSubjectBook, initialFlashBook, userPrefs);"
+      },
+      {
+        "lineNumber": 117,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 118,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 119,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    private void initLogging(Config config) {"
+      },
+      {
+        "lineNumber": 120,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        LogsCenter.init(config);"
+      },
+      {
+        "lineNumber": 121,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 122,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 123,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 124,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * Returns a {@code Config} using the file at {@code configFilePath}. \u003cbr\u003e"
+      },
+      {
+        "lineNumber": 125,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * The default file path {@code Config#DEFAULT_CONFIG_FILE} will be used instead"
+      },
+      {
+        "lineNumber": 126,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * if {@code configFilePath} is null."
+      },
+      {
+        "lineNumber": 127,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 128,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    protected Config initConfig(Path configFilePath) {"
+      },
+      {
+        "lineNumber": 129,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        Config initializedConfig;"
+      },
+      {
+        "lineNumber": 130,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        Path configFilePathUsed;"
+      },
+      {
+        "lineNumber": 131,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 132,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        configFilePathUsed \u003d Config.DEFAULT_CONFIG_FILE;"
+      },
+      {
+        "lineNumber": 133,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 134,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        if (configFilePath !\u003d null) {"
+      },
+      {
+        "lineNumber": 135,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            logger.info(\"Custom Config file specified \" + configFilePath);"
+      },
+      {
+        "lineNumber": 136,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            configFilePathUsed \u003d configFilePath;"
+      },
+      {
+        "lineNumber": 137,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 138,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 139,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        logger.info(\"Using config file : \" + configFilePathUsed);"
+      },
+      {
+        "lineNumber": 140,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 141,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 142,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            Optional\u003cConfig\u003e configOptional \u003d ConfigUtil.readConfig(configFilePathUsed);"
+      },
+      {
+        "lineNumber": 143,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            initializedConfig \u003d configOptional.orElse(new Config());"
+      },
+      {
+        "lineNumber": 144,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        } catch (DataConversionException e) {"
+      },
+      {
+        "lineNumber": 145,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            logger.warning(\"Config file at \" + configFilePathUsed + \" is not in the correct format. \""
+      },
+      {
+        "lineNumber": 146,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "                    + \"Using default config properties\");"
+      },
+      {
+        "lineNumber": 147,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            initializedConfig \u003d new Config();"
+      },
+      {
+        "lineNumber": 148,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 149,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 150,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        //Update config file in case it was missing to begin with or there are new/unused fields"
+      },
+      {
+        "lineNumber": 151,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 152,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            ConfigUtil.saveConfig(initializedConfig, configFilePathUsed);"
+      },
+      {
+        "lineNumber": 153,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        } catch (IOException e) {"
+      },
+      {
+        "lineNumber": 154,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            logger.warning(\"Failed to save config file : \" + StringUtil.getDetails(e));"
+      },
+      {
+        "lineNumber": 155,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 156,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        return initializedConfig;"
+      },
+      {
+        "lineNumber": 157,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 158,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 159,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 160,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * Returns a {@code UserPrefs} using the file at {@code storage}\u0027s user prefs file path,"
+      },
+      {
+        "lineNumber": 161,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * or a new {@code UserPrefs} with default configuration if errors occur when"
+      },
+      {
+        "lineNumber": 162,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     * reading from the file."
+      },
+      {
+        "lineNumber": 163,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 164,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    protected UserPrefs initPrefs(UserPrefsStorage storage) {"
+      },
+      {
+        "lineNumber": 165,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        Path prefsFilePath \u003d storage.getUserPrefsFilePath();"
+      },
+      {
+        "lineNumber": 166,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        logger.info(\"Using prefs file : \" + prefsFilePath);"
+      },
+      {
+        "lineNumber": 167,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 168,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        UserPrefs initializedPrefs;"
+      },
+      {
+        "lineNumber": 169,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 170,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            Optional\u003cUserPrefs\u003e prefsOptional \u003d storage.readUserPrefs();"
+      },
+      {
+        "lineNumber": 171,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            initializedPrefs \u003d prefsOptional.orElse(new UserPrefs());"
+      },
+      {
+        "lineNumber": 172,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        } catch (DataConversionException e) {"
+      },
+      {
+        "lineNumber": 173,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            logger.warning(\"UserPrefs file at \" + prefsFilePath + \" is not in the correct format. \""
+      },
+      {
+        "lineNumber": 174,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "                    + \"Using default user prefs\");"
+      },
+      {
+        "lineNumber": 175,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            initializedPrefs \u003d new UserPrefs();"
+      },
+      {
+        "lineNumber": 176,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        } catch (IOException e) {"
+      },
+      {
+        "lineNumber": 177,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            logger.warning(\"Problem while reading from the file. Will be starting with an empty FlashBook\");"
+      },
+      {
+        "lineNumber": 178,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            initializedPrefs \u003d new UserPrefs();"
+      },
+      {
+        "lineNumber": 179,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 180,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 181,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        //Update prefs file in case it was missing to begin with or there are new/unused fields"
+      },
+      {
+        "lineNumber": 182,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 183,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            storage.saveUserPrefs(initializedPrefs);"
+      },
+      {
+        "lineNumber": 184,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        } catch (IOException e) {"
+      },
+      {
+        "lineNumber": 185,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            logger.warning(\"Failed to save config file : \" + StringUtil.getDetails(e));"
+      },
+      {
+        "lineNumber": 186,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 187,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 188,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        return initializedPrefs;"
+      },
+      {
+        "lineNumber": 189,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 190,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 191,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 192,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public void start(Stage primaryStage) {"
+      },
+      {
+        "lineNumber": 193,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        logger.info(\"Starting FlashBook \" + MainApp.VERSION);"
+      },
+      {
+        "lineNumber": 194,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        ui.start(primaryStage);"
+      },
+      {
+        "lineNumber": 195,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 196,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 197,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 198,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public void stop() {"
+      },
+      {
+        "lineNumber": 199,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        logger.info(\"\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d [ Stopping Flash Book ] \u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\");"
+      },
+      {
+        "lineNumber": 200,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        try {"
+      },
+      {
+        "lineNumber": 201,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            storage.saveUserPrefs(model.getUserPrefs());"
+      },
+      {
+        "lineNumber": 202,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        } catch (IOException e) {"
+      },
+      {
+        "lineNumber": 203,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            logger.severe(\"Failed to save preferences \" + StringUtil.getDetails(e));"
+      },
+      {
+        "lineNumber": 204,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 205,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 206,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 207,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public static void main(String[] args) {"
+      },
+      {
+        "lineNumber": 208,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        launch(args);"
+      },
+      {
+        "lineNumber": 209,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 210,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "jemine1998": 2,
+      "-": 208
+    }
+  },
+  {
     "path": "src/main/java/seedu/address/commons/core/ComponentManager.java",
     "lines": [
       {
@@ -17917,9 +19396,9 @@
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "            + PREFIX_DIFFICULTY + \"123 \""
+        "content": "            + PREFIX_DIFFICULTY + \"1 \""
       },
       {
         "lineNumber": 31,
@@ -18196,8 +19675,227 @@
       }
     ],
     "authorContributionMap": {
-      "jemine1998": 2,
-      "-": 67
+      "jemine1998": 3,
+      "-": 66
+    }
+  },
+  {
+    "path": "src/main/java/seedu/address/logic/commands/ClearCommand.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "package seedu.address.logic.commands;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import static java.util.Objects.requireNonNull;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.logic.CommandHistory;"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.FlashBook;"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.Model;"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "import seedu.address.model.subject.SubjectBook;"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "/**"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "-"
+        },
+        "content": " * Clears the flash book."
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "public class ClearCommand extends Command {"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public static final String COMMAND_WORD \u003d \"clear\";"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public static final String COMMAND_ALIAS \u003d \"c\";"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public static final String MESSAGE_SUCCESS \u003d \"Flash book has been cleared!\";"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public CommandResult execute(Model model, CommandHistory history) {"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        requireNonNull(model);"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        model.setFlashBook(new FlashBook());"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        model.setSubjectBook(new SubjectBook());"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        model.commitFlashBook();"
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        return new CommandResult(MESSAGE_SUCCESS);"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "jemine1998": 1,
+      "-": 29
     }
   },
   {
@@ -19225,163 +20923,163 @@
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "jemine1998"
+          "gitId": "-"
         },
-        "content": "import java.util.Arrays;"
+        "content": "import java.util.List;"
       },
       {
         "lineNumber": 6,
         "author": {
           "gitId": "-"
         },
-        "content": "import java.util.List;"
+        "content": ""
       },
       {
         "lineNumber": 7,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "import seedu.address.commons.core.Messages;"
       },
       {
         "lineNumber": 8,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.commons.core.Messages;"
+        "content": "import seedu.address.commons.core.index.Index;"
       },
       {
         "lineNumber": 9,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.commons.core.index.Index;"
+        "content": "import seedu.address.logic.CommandHistory;"
       },
       {
         "lineNumber": 10,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.CommandHistory;"
+        "content": "import seedu.address.logic.commands.exceptions.CommandException;"
       },
       {
         "lineNumber": 11,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.logic.commands.exceptions.CommandException;"
+        "content": "import seedu.address.model.Model;"
       },
       {
         "lineNumber": 12,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.model.Model;"
+        "content": "import seedu.address.model.flashcard.Flashcard;"
       },
       {
         "lineNumber": 13,
         "author": {
           "gitId": "-"
         },
-        "content": "import seedu.address.model.flashcard.Flashcard;"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "jemine1998"
-        },
-        "content": "import seedu.address.model.flashcard.TopicContainsSubjectPredicate;"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
         "content": ""
       },
       {
-        "lineNumber": 16,
+        "lineNumber": 14,
         "author": {
           "gitId": "-"
         },
         "content": "/**"
       },
       {
-        "lineNumber": 17,
+        "lineNumber": 15,
         "author": {
           "gitId": "-"
         },
         "content": " * Deletes a flashcard identified using it\u0027s displayed index from the flash book."
       },
       {
-        "lineNumber": 18,
+        "lineNumber": 16,
         "author": {
           "gitId": "-"
         },
         "content": " */"
       },
       {
-        "lineNumber": 19,
+        "lineNumber": 17,
         "author": {
           "gitId": "-"
         },
         "content": "public class DeleteCommand extends Command {"
       },
       {
-        "lineNumber": 20,
+        "lineNumber": 18,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 21,
+        "lineNumber": 19,
         "author": {
           "gitId": "-"
         },
         "content": "    public static final String COMMAND_WORD \u003d \"delete\";"
       },
       {
-        "lineNumber": 22,
+        "lineNumber": 20,
         "author": {
           "gitId": "-"
         },
         "content": "    public static final String COMMAND_ALIAS \u003d \"d\";"
       },
       {
-        "lineNumber": 23,
+        "lineNumber": 21,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 24,
+        "lineNumber": 22,
         "author": {
           "gitId": "-"
         },
         "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD"
       },
       {
-        "lineNumber": 25,
+        "lineNumber": 23,
         "author": {
           "gitId": "-"
         },
         "content": "            + \": Deletes the flashcard identified by the index number used in the displayed flashcard list.\\n\""
       },
       {
-        "lineNumber": 26,
+        "lineNumber": 24,
         "author": {
           "gitId": "-"
         },
         "content": "            + \"Parameters: INDEX (must be a positive integer)\\n\""
       },
       {
-        "lineNumber": 27,
+        "lineNumber": 25,
         "author": {
           "gitId": "-"
         },
         "content": "            + \"Example: \" + COMMAND_WORD + \" 1\";"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public static final String MESSAGE_DELETE_FLASHCARD_SUCCESS \u003d \"Deleted Flashcard: %1$s\";"
       },
       {
         "lineNumber": 28,
@@ -19395,7 +21093,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "    public static final String MESSAGE_DELETE_FLASHCARD_SUCCESS \u003d \"Deleted Flashcard: %1$s\";"
+        "content": "    private final Index targetIndex;"
       },
       {
         "lineNumber": 30,
@@ -19409,262 +21107,332 @@
         "author": {
           "gitId": "-"
         },
-        "content": "    private final Index targetIndex;"
+        "content": "    public DeleteCommand(Index targetIndex) {"
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        this.targetIndex \u003d targetIndex;"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "-"
         },
-        "content": "    public DeleteCommand(Index targetIndex) {"
+        "content": "    }"
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "-"
         },
-        "content": "        this.targetIndex \u003d targetIndex;"
+        "content": ""
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "    @Override"
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    public CommandResult execute(Model model, CommandHistory history) throws CommandException {"
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "-"
         },
-        "content": "    @Override"
+        "content": "        requireNonNull(model);"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "-"
         },
-        "content": "    public CommandResult execute(Model model, CommandHistory history) throws CommandException {"
+        "content": "        List\u003cFlashcard\u003e lastShownList \u003d model.getFilteredFlashcardList();"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "-"
         },
-        "content": "        requireNonNull(model);"
+        "content": ""
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "-"
         },
-        "content": "        List\u003cFlashcard\u003e lastShownList \u003d model.getFilteredFlashcardList();"
+        "content": "        if (targetIndex.getZeroBased() \u003e\u003d lastShownList.size()) {"
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            throw new CommandException(Messages.MESSAGE_INVALID_FLASHCARD_DISPLAYED_INDEX);"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "-"
         },
-        "content": "        if (targetIndex.getZeroBased() \u003e\u003d lastShownList.size()) {"
+        "content": "        }"
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "-"
         },
-        "content": "            throw new CommandException(Messages.MESSAGE_INVALID_FLASHCARD_DISPLAYED_INDEX);"
+        "content": ""
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "        Flashcard flashcardToDelete \u003d lastShownList.get(targetIndex.getZeroBased());"
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
         "content": ""
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "        Flashcard flashcardToDelete \u003d lastShownList.get(targetIndex.getZeroBased());"
+        "content": "        /**"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "        model.deleteFlashcard(flashcardToDelete);"
+        "content": "         * int count\u003d0;"
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": ""
+        "content": "         * for (Flashcard f:) {"
       },
       {
         "lineNumber": 49,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "        model.updateFilteredFlashcardList(new"
+        "content": "         *    if (f.getSubject() \u003d\u003d flashcardToDelete.getSubject()) {"
       },
       {
         "lineNumber": 50,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "                TopicContainsSubjectPredicate(Arrays.asList(flashcardToDelete.getSubjectName())));"
+        "content": "         *                 count++;"
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "        if (model.getFilteredFlashcardList().size() \u003d\u003d 0) {"
+        "content": "         *     }"
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "            model.deleteSubject(flashcardToDelete.getSubject());"
+        "content": "         *  }"
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "        }"
+        "content": "         *"
       },
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "        model.commitFlashBook();"
+        "content": "         * FilteredList\u003cFlashcard\u003e remainingFlashcards \u003d new FilteredList\u003c\u003e(model.getFilteredFlashcardList(),new"
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "        model.updateFilteredFlashcardList(Model.PREDICATE_SHOW_ALL_FLASHCARDS);"
+        "content": "         *     TopicContainsSubjectPredicate(Arrays.asList(flashcardToDelete.getSubjectName())));"
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "        model.getFilteredSubjectList();"
+        "content": "         *"
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "        return new CommandResult(String.format(MESSAGE_DELETE_FLASHCARD_SUCCESS, flashcardToDelete));"
+        "content": "         * if (count \u003d\u003d 1) {"
       },
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "    }"
+        "content": "         *      model.deleteSubject(flashcardToDelete.getSubject());"
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": ""
+        "content": "         * }"
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": ""
+        "content": "         */"
       },
       {
         "lineNumber": 61,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    @Override"
-      },
-      {
-        "lineNumber": 62,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    public boolean equals(Object other) {"
-      },
-      {
-        "lineNumber": 63,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        return other \u003d\u003d this // short circuit if same object"
-      },
-      {
-        "lineNumber": 64,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                || (other instanceof DeleteCommand // instanceof handles nulls"
-      },
-      {
-        "lineNumber": 65,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                \u0026\u0026 targetIndex.equals(((DeleteCommand) other).targetIndex)); // state check"
-      },
-      {
-        "lineNumber": 66,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 67,
         "author": {
           "gitId": "jemine1998"
         },
         "content": ""
       },
       {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "        model.deleteFlashcard(flashcardToDelete);"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        model.commitFlashBook();"
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "        model.updateFilteredFlashcardList(Model.PREDICATE_SHOW_ALL_FLASHCARDS);"
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "        model.getFilteredSubjectList();"
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        return new CommandResult(String.format(MESSAGE_DELETE_FLASHCARD_SUCCESS, flashcardToDelete));"
+      },
+      {
         "lineNumber": 68,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    @Override"
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public boolean equals(Object other) {"
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        return other \u003d\u003d this // short circuit if same object"
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "                || (other instanceof DeleteCommand // instanceof handles nulls"
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "                \u0026\u0026 targetIndex.equals(((DeleteCommand) other).targetIndex)); // state check"
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 78,
         "author": {
           "gitId": "-"
         },
@@ -19672,8 +21440,8 @@
       }
     ],
     "authorContributionMap": {
-      "jemine1998": 12,
-      "-": 56
+      "jemine1998": 23,
+      "-": 55
     }
   },
   {
@@ -34945,44 +36713,44 @@
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "jemine1998"
+          "gitId": "-"
         },
-        "content": "//import java.util.Arrays;"
+        "content": "import java.util.Objects;"
       },
       {
         "lineNumber": 123,
         "author": {
           "gitId": "-"
         },
-        "content": "import java.util.Objects;"
+        "content": "import java.util.function.Consumer;"
       },
       {
         "lineNumber": 124,
         "author": {
           "gitId": "-"
         },
-        "content": "import java.util.function.Consumer;"
+        "content": "import java.util.logging.Logger;"
       },
       {
         "lineNumber": 125,
         "author": {
           "gitId": "-"
         },
-        "content": "import java.util.logging.Logger;"
+        "content": ""
       },
       {
         "lineNumber": 126,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "import javafx.beans.value.ObservableValue;"
       },
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "import javafx.beans.value.ObservableValue;"
+        "content": "import javafx.collections.FXCollections;"
       },
       {
         "lineNumber": 128,
@@ -34996,7 +36764,7 @@
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "//import javafx.collections.transformation.FilteredList;"
+        "content": "import javafx.collections.transformation.FilteredList;"
       },
       {
         "lineNumber": 130,
@@ -35036,86 +36804,86 @@
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "jemine1998"
-        },
-        "content": "import seedu.address.logic.Logic;"
-      },
-      {
-        "lineNumber": 136,
-        "author": {
-          "gitId": "jemine1998"
-        },
-        "content": "//import seedu.address.logic.commands.SelectSubjectCommand;"
-      },
-      {
-        "lineNumber": 137,
-        "author": {
           "gitId": "-"
         },
         "content": "import seedu.address.model.flashcard.Flashcard;"
       },
       {
-        "lineNumber": 138,
-        "author": {
-          "gitId": "jemine1998"
-        },
-        "content": "//import seedu.address.model.flashcard.TopicContainsSubjectPredicate;"
-      },
-      {
-        "lineNumber": 139,
+        "lineNumber": 136,
         "author": {
           "gitId": "-"
         },
         "content": "import seedu.address.model.tag.SubjectTag;"
       },
       {
-        "lineNumber": 140,
+        "lineNumber": 137,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 141,
+        "lineNumber": 138,
         "author": {
           "gitId": "-"
         },
         "content": "/**"
       },
       {
-        "lineNumber": 142,
+        "lineNumber": 139,
         "author": {
           "gitId": "jemine1998"
         },
         "content": " * Panel containing the list of persons."
       },
       {
-        "lineNumber": 143,
+        "lineNumber": 140,
         "author": {
           "gitId": "-"
         },
         "content": " */"
       },
       {
-        "lineNumber": 144,
+        "lineNumber": 141,
         "author": {
           "gitId": "-"
         },
         "content": "public class FlashcardListPanel extends UiPart\u003cRegion\u003e {"
       },
       {
-        "lineNumber": 145,
+        "lineNumber": 142,
         "author": {
           "gitId": "-"
         },
         "content": "    private static final String FXML \u003d \"FlashcardListPanel.fxml\";"
       },
       {
-        "lineNumber": 146,
+        "lineNumber": 143,
         "author": {
           "gitId": "-"
         },
         "content": "    private final Logger logger \u003d LogsCenter.getLogger(FlashcardListPanel.class);"
+      },
+      {
+        "lineNumber": 144,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 145,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    @FXML"
+      },
+      {
+        "lineNumber": 146,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    private ListView\u003cFlashcard\u003e flashcardListView;"
       },
       {
         "lineNumber": 147,
@@ -35127,226 +36895,226 @@
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "    @FXML"
+        "content": "    private FilteredList\u003cFlashcard\u003e filteredList;"
       },
       {
         "lineNumber": 149,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "    private ListView\u003cFlashcard\u003e flashcardListView;"
+        "content": ""
       },
       {
         "lineNumber": 150,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": ""
+        "content": "    private ObservableList\u003cSubjectTag\u003e subjectListView;"
       },
       {
         "lineNumber": 151,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "    private Logic logic;"
+        "content": ""
       },
       {
         "lineNumber": 152,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": ""
+        "content": "    private ObservableValue\u003cSubjectTag\u003e s;"
       },
       {
         "lineNumber": 153,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "    public FlashcardListPanel(ObservableList\u003cSubjectTag\u003e subjectList,"
+        "content": "    private ObservableValue\u003cFlashcard\u003e f;"
       },
       {
         "lineNumber": 154,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "                              ObservableList\u003cFlashcard\u003e flashcardList,"
+        "content": "    private ObservableList\u003cFlashcard\u003e list \u003d FXCollections.observableArrayList();"
       },
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "                              ObservableValue\u003cSubjectTag\u003e selectedSubject,"
+        "content": "    private ObservableList\u003cFlashcard\u003e newFlashcardList \u003d FXCollections.observableArrayList();"
       },
       {
         "lineNumber": 156,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "                              ObservableValue\u003cFlashcard\u003e selectedFlashcard,"
+        "content": ""
       },
       {
         "lineNumber": 157,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "                              Consumer\u003cFlashcard\u003e onSelectedFlashcardChange) {"
+        "content": ""
       },
       {
         "lineNumber": 158,
         "author": {
           "gitId": "-"
         },
-        "content": "        super(FXML);"
+        "content": "    public FlashcardListPanel(ObservableList\u003cSubjectTag\u003e subjectList,"
       },
       {
         "lineNumber": 159,
         "author": {
           "gitId": "-"
         },
-        "content": "        flashcardListView.setItems(flashcardList);"
+        "content": "                              ObservableList\u003cFlashcard\u003e flashcardList,"
       },
       {
         "lineNumber": 160,
         "author": {
           "gitId": "-"
         },
-        "content": "        flashcardListView.setCellFactory(listView -\u003e new FlashcardListViewCell());"
+        "content": "                              ObservableValue\u003cSubjectTag\u003e selectedSubject,"
       },
       {
         "lineNumber": 161,
         "author": {
           "gitId": "-"
         },
-        "content": "        flashcardListView.getSelectionModel().selectedItemProperty().addListener((observable, oldValue, newValue) -\u003e {"
+        "content": "                              ObservableValue\u003cFlashcard\u003e selectedFlashcard,"
       },
       {
         "lineNumber": 162,
         "author": {
           "gitId": "-"
         },
-        "content": "            logger.fine(\"Selection in flashcard list panel changed to : \u0027\" + newValue + \"\u0027\");"
+        "content": "                              Consumer\u003cFlashcard\u003e onSelectedFlashcardChange) {"
       },
       {
         "lineNumber": 163,
         "author": {
           "gitId": "-"
         },
-        "content": "            onSelectedFlashcardChange.accept(newValue);"
+        "content": "        super(FXML);"
       },
       {
         "lineNumber": 164,
         "author": {
           "gitId": "-"
         },
-        "content": "        });"
+        "content": "        flashcardListView.setItems(flashcardList);"
       },
       {
         "lineNumber": 165,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "        flashcardListView.setCellFactory(listView -\u003e new FlashcardListViewCell());"
       },
       {
         "lineNumber": 166,
         "author": {
-          "gitId": "jemine1998"
+          "gitId": "-"
         },
-        "content": "        /**"
+        "content": "        flashcardListView.getSelectionModel().selectedItemProperty().addListener((observable, oldValue, newValue) -\u003e {"
       },
       {
         "lineNumber": 167,
         "author": {
-          "gitId": "jemine1998"
+          "gitId": "-"
         },
-        "content": "         * selectedSubject.addListener((observable, oldValue, newValue) -\u003e {"
+        "content": "            logger.fine(\"Selection in flashcard list panel changed to : \u0027\" + newValue + \"\u0027\");"
       },
       {
         "lineNumber": 168,
         "author": {
-          "gitId": "jemine1998"
+          "gitId": "-"
         },
-        "content": "         *     if (newValue \u003d\u003d null) {"
+        "content": "            onSelectedFlashcardChange.accept(newValue);"
       },
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "jemine1998"
+          "gitId": "-"
         },
-        "content": "         *          flashcardListView.getSelectionModel().clearSelection();"
+        "content": "        });"
       },
       {
         "lineNumber": 170,
         "author": {
-          "gitId": "jemine1998"
+          "gitId": "-"
         },
-        "content": "         *     } else {"
+        "content": ""
       },
       {
         "lineNumber": 171,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "         *          ObservableList\u003cFlashcard\u003e newList\u003d new FilteredList\u003cFlashcard\u003e(flashcardList, new"
+        "content": "        selectedSubject.addListener((observable, oldValue, newValue) -\u003e {"
       },
       {
         "lineNumber": 172,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "         *          TopicContainsSubjectPredicate(Arrays.asList(newValue.toString().split(\"\\\\s+\"))));"
+        "content": "            if (newValue \u003d\u003d null) {"
       },
       {
         "lineNumber": 173,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "         *          flashcardListView.setItems(newList);"
+        "content": "                flashcardListView.getSelectionModel().clearSelection();"
       },
       {
         "lineNumber": 174,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "         *          flashcardListView.setCellFactory(listView -\u003e new FlashcardListViewCell());"
+        "content": "            } else {"
       },
       {
         "lineNumber": 175,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "         *     }"
+        "content": "                this.newFlashcardList.clear();"
       },
       {
         "lineNumber": 176,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "         *"
+        "content": "                this.newFlashcardList \u003d updateFlashcardList(newValue, flashcardList);"
       },
       {
         "lineNumber": 177,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "         * });"
+        "content": "                flashcardListView.setItems(newFlashcardList);"
       },
       {
         "lineNumber": 178,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "          */"
+        "content": "                flashcardListView.setCellFactory(listView -\u003e new FlashcardListViewCell());"
       },
       {
         "lineNumber": 179,
         "author": {
           "gitId": "jemine1998"
         },
-        "content": ""
+        "content": "            }"
       },
       {
         "lineNumber": 180,
@@ -35358,21 +37126,21 @@
       {
         "lineNumber": 181,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "        selectedFlashcard.addListener((observable, oldValue, newValue) -\u003e {"
+        "content": "        });"
       },
       {
         "lineNumber": 182,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "            logger.fine(\"Selected flashcard changed to: \" + newValue);"
+        "content": ""
       },
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
         "content": ""
       },
@@ -35381,234 +37149,367 @@
         "author": {
           "gitId": "jemine1998"
         },
-        "content": "            // Don\u0027t modify selection if we are already selecting the selected person,"
+        "content": ""
       },
       {
         "lineNumber": 185,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": "            // otherwise we would have an infinite loop."
+        "content": ""
       },
       {
         "lineNumber": 186,
         "author": {
           "gitId": "-"
         },
-        "content": "            if (Objects.equals(flashcardListView.getSelectionModel().getSelectedItem(), newValue)) {"
+        "content": "        selectedFlashcard.addListener((observable, oldValue, newValue) -\u003e {"
       },
       {
         "lineNumber": 187,
         "author": {
           "gitId": "-"
         },
-        "content": "                return;"
+        "content": "            logger.fine(\"Selected flashcard changed to: \" + newValue);"
       },
       {
         "lineNumber": 188,
         "author": {
           "gitId": "-"
         },
-        "content": "            }"
+        "content": ""
       },
       {
         "lineNumber": 189,
         "author": {
-          "gitId": "-"
+          "gitId": "jemine1998"
         },
-        "content": ""
+        "content": "            // Don\u0027t modify selection if we are already selecting the selected person,"
       },
       {
         "lineNumber": 190,
         "author": {
           "gitId": "-"
         },
-        "content": "            if (newValue \u003d\u003d null) {"
+        "content": "            // otherwise we would have an infinite loop."
       },
       {
         "lineNumber": 191,
         "author": {
           "gitId": "-"
         },
-        "content": "                flashcardListView.getSelectionModel().clearSelection();"
+        "content": "            if (Objects.equals(flashcardListView.getSelectionModel().getSelectedItem(), newValue)) {"
       },
       {
         "lineNumber": 192,
         "author": {
           "gitId": "-"
         },
-        "content": "            } else {"
+        "content": "                return;"
       },
       {
         "lineNumber": 193,
         "author": {
           "gitId": "-"
         },
-        "content": "                int index \u003d flashcardListView.getItems().indexOf(newValue);"
+        "content": "            }"
       },
       {
         "lineNumber": 194,
         "author": {
           "gitId": "-"
         },
-        "content": "                flashcardListView.scrollTo(index);"
+        "content": ""
       },
       {
         "lineNumber": 195,
         "author": {
           "gitId": "-"
         },
-        "content": "                flashcardListView.getSelectionModel().clearAndSelect(index);"
+        "content": "            if (newValue \u003d\u003d null) {"
       },
       {
         "lineNumber": 196,
         "author": {
           "gitId": "-"
         },
-        "content": "            }"
+        "content": "                flashcardListView.getSelectionModel().clearSelection();"
       },
       {
         "lineNumber": 197,
         "author": {
           "gitId": "-"
         },
-        "content": "        });"
+        "content": "            } else {"
       },
       {
         "lineNumber": 198,
         "author": {
           "gitId": "-"
         },
-        "content": "    }"
+        "content": "                int index \u003d flashcardListView.getItems().indexOf(newValue);"
       },
       {
         "lineNumber": 199,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "                flashcardListView.scrollTo(index);"
       },
       {
         "lineNumber": 200,
         "author": {
           "gitId": "-"
         },
-        "content": "    /**"
+        "content": "                flashcardListView.getSelectionModel().clearAndSelect(index);"
       },
       {
         "lineNumber": 201,
-        "author": {
-          "gitId": "jemine1998"
-        },
-        "content": "     * Custom {@code ListCell} that displays the graphics of a {@code Person} using a {@code PersonCard}."
-      },
-      {
-        "lineNumber": 202,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "     */"
-      },
-      {
-        "lineNumber": 203,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    class FlashcardListViewCell extends ListCell\u003cFlashcard\u003e {"
-      },
-      {
-        "lineNumber": 204,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        @Override"
-      },
-      {
-        "lineNumber": 205,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        protected void updateItem(Flashcard flashcard, boolean empty) {"
-      },
-      {
-        "lineNumber": 206,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            super.updateItem(flashcard, empty);"
-      },
-      {
-        "lineNumber": 207,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 208,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            if (empty || flashcard \u003d\u003d null) {"
-      },
-      {
-        "lineNumber": 209,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                setGraphic(null);"
-      },
-      {
-        "lineNumber": 210,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                setText(null);"
-      },
-      {
-        "lineNumber": 211,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            } else {"
-      },
-      {
-        "lineNumber": 212,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                setGraphic(new FlashcardCard(flashcard, getIndex() + 1).getRoot());"
-      },
-      {
-        "lineNumber": 213,
         "author": {
           "gitId": "-"
         },
         "content": "            }"
       },
       {
-        "lineNumber": 214,
+        "lineNumber": 202,
         "author": {
           "gitId": "-"
         },
-        "content": "        }"
+        "content": "        });"
       },
       {
-        "lineNumber": 215,
+        "lineNumber": 203,
         "author": {
           "gitId": "-"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 216,
+        "lineNumber": 204,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
+        "lineNumber": 205,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 206,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "     * Custom {@code ListCell} that displays the graphics of a {@code Person} using a {@code PersonCard}."
+      },
+      {
+        "lineNumber": 207,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 208,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    class FlashcardListViewCell extends ListCell\u003cFlashcard\u003e {"
+      },
+      {
+        "lineNumber": 209,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        @Override"
+      },
+      {
+        "lineNumber": 210,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        protected void updateItem(Flashcard flashcard, boolean empty) {"
+      },
+      {
+        "lineNumber": 211,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            super.updateItem(flashcard, empty);"
+      },
+      {
+        "lineNumber": 212,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 213,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            if (empty || flashcard \u003d\u003d null) {"
+      },
+      {
+        "lineNumber": 214,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "                setGraphic(null);"
+      },
+      {
+        "lineNumber": 215,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "                setText(null);"
+      },
+      {
+        "lineNumber": 216,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            } else {"
+      },
+      {
         "lineNumber": 217,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "                setGraphic(new FlashcardCard(flashcard, getIndex() + 1).getRoot());"
+      },
+      {
+        "lineNumber": 218,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 219,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 220,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 221,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 222,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "    /**"
+      },
+      {
+        "lineNumber": 223,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "     * Updates list of flashcards to be displayed in FlashcardListPanel based on selected subject"
+      },
+      {
+        "lineNumber": 224,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "     */"
+      },
+      {
+        "lineNumber": 225,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "    private ObservableList\u003cFlashcard\u003e updateFlashcardList(SubjectTag subject,"
+      },
+      {
+        "lineNumber": 226,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "                                                          ObservableList\u003cFlashcard\u003e flashcardList) {"
+      },
+      {
+        "lineNumber": 227,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "        for (Flashcard f : flashcardList) {"
+      },
+      {
+        "lineNumber": 228,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "            if (subject.equals(f.getSubject())) {"
+      },
+      {
+        "lineNumber": 229,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "                list.add(f);"
+      },
+      {
+        "lineNumber": 230,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "            }"
+      },
+      {
+        "lineNumber": 231,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 232,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "        return list;"
+      },
+      {
+        "lineNumber": 233,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 234,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 235,
+        "author": {
+          "gitId": "jemine1998"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 236,
         "author": {
           "gitId": "-"
         },
@@ -35616,7 +37517,7 @@
       }
     ],
     "authorContributionMap": {
-      "jemine1998": 144,
+      "jemine1998": 163,
       "-": 73
     }
   },

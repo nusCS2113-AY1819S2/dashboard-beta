@@ -444,6 +444,12 @@
         "deletions": 0,
         "date": "2019-04-09",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
       }
     ],
     "shawn-t": [
@@ -1012,6 +1018,37 @@
             "deletions": 6
           }
         ]
+      },
+      {
+        "insertions": 37,
+        "deletions": 101,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "d32b7bc4d0b08ea45394d0650e4316b4238c3893",
+            "message": "Update shawn-t.adoc",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "b9e3c4b2b8504728abdd50a2d2889f8025fbf4f6",
+            "message": "Update shawn-t.adoc",
+            "insertions": 2,
+            "deletions": 14
+          },
+          {
+            "hash": "ecaa2a7e7be70686347212fe4bf3d7209865b01a",
+            "message": "Refer command bug fix, status column no longer illegally modified",
+            "insertions": 12,
+            "deletions": 82
+          },
+          {
+            "hash": "452b6d5f792b9e03a19076c8947ca9528a533c13",
+            "message": "refer command enhancment: refer tag added",
+            "insertions": 18,
+            "deletions": 5
+          }
+        ]
       }
     ],
     "matthiaslum": [
@@ -1519,6 +1556,37 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 187,
+        "deletions": 2,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "933970acef312280a7ec7fcd5d9c4b743a905b79",
+            "message": "Created Portfolio",
+            "insertions": 184,
+            "deletions": 0
+          },
+          {
+            "hash": "e0e284e5529825407bef3f6f62b3ed1e2a359229",
+            "message": "Update matthiaslum.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "83e5a5c573dec76cda7fae8e5dbf1f40675f2ddd",
+            "message": "Update matthiaslum.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a0e4b42ec090c8e6488044d17cba34cfae7b4c17",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "WuPeiHsuan": [
@@ -1947,24 +2015,44 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1,
+        "deletions": 1,
         "date": "2019-04-09",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "94b9bb9bcad4805090743c3e8d42687e5e96c1b7",
+            "message": "Rename WuPeiHsuan.adoc to wupeihsuan.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "d3390e6d8cd5e5b651b880caec37f33c7c340387",
+            "message": "Update wupeihsuan.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "liguanlong": 376,
-    "shawn-t": 572,
-    "matthiaslum": 744,
-    "WuPeiHsuan": 328
+    "liguanlong": 380,
+    "shawn-t": 590,
+    "matthiaslum": 847,
+    "WuPeiHsuan": 388
   },
   "authorContributionVariance": {
-    "liguanlong": 41311.99,
-    "shawn-t": 2865.094,
-    "matthiaslum": 4202.742,
-    "WuPeiHsuan": 106.06664
+    "liguanlong": 40652.957,
+    "shawn-t": 3053.0107,
+    "matthiaslum": 4609.8345,
+    "WuPeiHsuan": 104.22883
   },
   "authorDisplayNameMap": {
     "liguanlong": "LI ...ONG",
