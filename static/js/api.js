@@ -32,7 +32,8 @@ window.api = {
 
     return loadJSON(`${REPORT_DIR}/summary.json`)
         .then((data) => {
-          window.app.creationDate = data.dashboardGeneratedTime;
+          window.app.creationDate = data.reportGeneratedTime;
+          window.app.sinceDate = data.repos[0].sinceDate;
 
           const names = [];
           data.repos.forEach((repo) => {
@@ -58,6 +59,7 @@ window.api = {
             displayName: commits.authorDisplayNameMap[author],
             dailyCommits: commits.authorDailyContributionsMap[author],
             totalCommits: commits.authorFinalContributionMap[author],
+            fileFormatContribution: commits.authorFileFormatContributionMap[author],
           };
 
           const searchParams = [

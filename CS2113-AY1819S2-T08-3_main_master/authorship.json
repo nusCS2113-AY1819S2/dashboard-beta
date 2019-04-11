@@ -42057,7 +42057,7 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
         "content": ""
       },
@@ -42071,7 +42071,7 @@
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
         "content": ""
       },
@@ -42253,14 +42253,14 @@
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
         "content": ""
       },
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
         "content": ""
       },
@@ -42274,21 +42274,21 @@
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "macchazuki"
+          "gitId": "seanieyap"
         },
         "content": ""
       },
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "macchazuki"
+          "gitId": "seanieyap"
         },
         "content": "\u003d\u003d Contributions to the Developer Guide"
       },
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "macchazuki"
+          "gitId": "seanieyap"
         },
         "content": ""
       },
@@ -42330,7 +42330,7 @@
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
         "content": ""
       },
@@ -42344,7 +42344,7 @@
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
         "content": ""
       },
@@ -42358,7 +42358,7 @@
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
         "content": ""
       },
@@ -42372,7 +42372,7 @@
       {
         "lineNumber": 111,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
         "content": ""
       },
@@ -42386,7 +42386,7 @@
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
         "content": ""
       },
@@ -42407,7 +42407,7 @@
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
         "content": ""
       },
@@ -42533,14 +42533,14 @@
       {
         "lineNumber": 134,
         "author": {
-          "gitId": "macchazuki"
+          "gitId": "seanieyap"
         },
         "content": "|\u003d\u003d\u003d"
       },
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "macchazuki"
+          "gitId": "seanieyap"
         },
         "content": ""
       },
@@ -42554,21 +42554,21 @@
       {
         "lineNumber": 137,
         "author": {
-          "gitId": "macchazuki"
+          "gitId": "seanieyap"
         },
         "content": ""
       },
       {
         "lineNumber": 138,
         "author": {
-          "gitId": "macchazuki"
+          "gitId": "seanieyap"
         },
         "content": "---"
       }
     ],
     "authorContributionMap": {
-      "seanieyap": 35,
-      "macchazuki": 103
+      "seanieyap": 32,
+      "macchazuki": 106
     }
   },
   {
@@ -56314,292 +56314,299 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
-        "content": "import planmysem.model.Model;"
+        "content": "import planmysem.logic.commands.exceptions.CommandException;"
       },
       {
         "lineNumber": 9,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "import planmysem.model.semester.IcsSemester;"
+        "content": "import planmysem.model.Model;"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "macchazuki"
+          "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "import planmysem.model.semester.IcsSemester;"
       },
       {
         "lineNumber": 11,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "/**"
+        "content": ""
       },
       {
         "lineNumber": 12,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": " * Exports the calendar into a .ics file."
+        "content": "/**"
       },
       {
         "lineNumber": 13,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": " */"
+        "content": " * Exports the calendar into a .ics file."
       },
       {
         "lineNumber": 14,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": " */"
+      },
+      {
+        "lineNumber": 15,
         "author": {
           "gitId": "seanieyap"
         },
         "content": "public class ExportCommand extends Command {"
       },
       {
-        "lineNumber": 15,
+        "lineNumber": 16,
         "author": {
           "gitId": "macchazuki"
         },
         "content": ""
       },
       {
-        "lineNumber": 16,
+        "lineNumber": 17,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "    public static final String COMMAND_WORD \u003d \"export\";"
       },
       {
-        "lineNumber": 17,
+        "lineNumber": 18,
         "author": {
           "gitId": "seanieyap"
         },
         "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \": Export the planner as a .ics file.\""
       },
       {
-        "lineNumber": 18,
+        "lineNumber": 19,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "            + \"\\n\\tParameters: \""
       },
       {
-        "lineNumber": 19,
+        "lineNumber": 20,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "            + \"\\n\\t\\tOptional: [fn/FILENAME]\""
       },
       {
-        "lineNumber": 20,
+        "lineNumber": 21,
         "author": {
           "gitId": "seanieyap"
         },
         "content": "            + \"\\n\\tExample: \" + COMMAND_WORD + \" my_planner.ics\";"
       },
       {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "    public static final String MESSAGE_EXPORT_ACKNOWLEDGEMENT \u003d \"Calendar exported.\";"
-      },
-      {
         "lineNumber": 22,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "    public static final String MESSAGE_EXPORT_FAILED \u003d \"Export failed. File cannot be created\";"
+        "content": "    public static final String MESSAGE_SUCCESS \u003d \"Calendar exported.\";"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "    private final String fileName;"
+        "content": "    public static final String MESSAGE_FAILED \u003d \"Export failed. File cannot be created\";"
       },
       {
         "lineNumber": 24,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "    private final String fileName;"
       },
       {
         "lineNumber": 25,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "    public ExportCommand(String fileName) {"
+        "content": ""
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        this.fileName \u003d fileName;"
+        "content": "    public ExportCommand(String fileName) {"
       },
       {
         "lineNumber": 27,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "    }"
+        "content": "        this.fileName \u003d fileName;"
       },
       {
         "lineNumber": 28,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
-        "content": "    public CommandResult execute(Model model, CommandHistory commandHistory) {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 31,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    public CommandResult execute(Model model, CommandHistory commandHistory) throws CommandException {"
+      },
+      {
+        "lineNumber": 32,
         "author": {
           "gitId": "seanieyap"
         },
         "content": "        IcsSemester semester \u003d new IcsSemester(model.getPlanner().getSemester());"
       },
       {
-        "lineNumber": 32,
+        "lineNumber": 33,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "        try {"
       },
       {
-        "lineNumber": 33,
+        "lineNumber": 34,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "            BufferedWriter writer \u003d new BufferedWriter(new FileWriter(fileName + \".ics\"));"
       },
       {
-        "lineNumber": 34,
+        "lineNumber": 35,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "            writer.write(semester.toString());"
       },
       {
-        "lineNumber": 35,
+        "lineNumber": 36,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "            writer.close();"
       },
       {
-        "lineNumber": 36,
+        "lineNumber": 37,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "        } catch (IOException e) {"
       },
       {
-        "lineNumber": 37,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "            return new CommandResult(MESSAGE_EXPORT_FAILED);"
-      },
-      {
         "lineNumber": 38,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        }"
+        "content": "            throw new CommandException(MESSAGE_FAILED);"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
-        "content": "        return new CommandResult(MESSAGE_EXPORT_ACKNOWLEDGEMENT);"
+        "content": ""
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "    }"
+        "content": "        return new CommandResult(MESSAGE_SUCCESS);"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "    public boolean equals(Object other) {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 45,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        return other \u003d\u003d this // short circuit if same object"
+        "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 46,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                || (other instanceof ExportCommand // instanceof handles nulls"
+        "content": "        return other \u003d\u003d this // short circuit if same object"
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                \u0026\u0026 fileName.equals(((ExportCommand) other).fileName));"
+        "content": "                || (other instanceof ExportCommand // instanceof handles nulls"
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "    }"
+        "content": "                \u0026\u0026 fileName.equals(((ExportCommand) other).fileName));"
       },
       {
         "lineNumber": 49,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 50,
         "author": {
           "gitId": "macchazuki"
         },
@@ -56607,8 +56614,8 @@
       }
     ],
     "authorContributionMap": {
-      "seanieyap": 10,
-      "macchazuki": 39
+      "seanieyap": 8,
+      "macchazuki": 42
     }
   },
   {
@@ -57030,537 +57037,502 @@
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "            // TODO: marcus, i think you should put date into your weighted name so"
-      },
-      {
-        "lineNumber": 61,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "            //  that if they are the same names as well then you need to sort by date"
-      },
-      {
-        "lineNumber": 62,
-        "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 63,
+        "lineNumber": 61,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    });"
       },
       {
-        "lineNumber": 64,
+        "lineNumber": 62,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": ""
       },
       {
-        "lineNumber": 65,
+        "lineNumber": 63,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    private List\u003cWeightedName\u003e selectedSlots \u003d new ArrayList\u003c\u003e();"
       },
       {
-        "lineNumber": 66,
+        "lineNumber": 64,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    private List\u003cPair\u003cLocalDate, Pair\u003cReadOnlyDay, ReadOnlySlot\u003e\u003e\u003e lastShownList \u003d new ArrayList\u003c\u003e();"
       },
       {
-        "lineNumber": 67,
+        "lineNumber": 65,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": ""
       },
       {
-        "lineNumber": 68,
+        "lineNumber": 66,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    public FindCommand(String name, String tag) {"
       },
       {
-        "lineNumber": 69,
+        "lineNumber": 67,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        this.keyword \u003d (name \u003d\u003d null) ? tag.trim() : name.trim();"
       },
       {
-        "lineNumber": 70,
+        "lineNumber": 68,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        this.isFindByName \u003d (name !\u003d null);"
       },
       {
-        "lineNumber": 71,
+        "lineNumber": 69,
         "author": {
           "gitId": "-"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 72,
+        "lineNumber": 70,
         "author": {
           "gitId": "seanieyap"
         },
         "content": ""
       },
       {
-        "lineNumber": 73,
+        "lineNumber": 71,
         "author": {
           "gitId": "-"
         },
         "content": "    @Override"
       },
       {
-        "lineNumber": 74,
+        "lineNumber": 72,
         "author": {
           "gitId": "seanieyap"
         },
         "content": "    public CommandResult execute(Model model, CommandHistory commandHistory) {"
       },
       {
-        "lineNumber": 75,
+        "lineNumber": 73,
         "author": {
           "gitId": "seanieyap"
         },
         "content": "        for (Map.Entry\u003cLocalDate, Day\u003e entry : model.getDays().entrySet()) {"
       },
       {
-        "lineNumber": 76,
+        "lineNumber": 74,
         "author": {
           "gitId": "seanieyap"
         },
         "content": "            for (Slot slot : entry.getValue().getSlots()) {"
       },
       {
-        "lineNumber": 77,
+        "lineNumber": 75,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "                if (isFindByName) {"
       },
       {
-        "lineNumber": 78,
+        "lineNumber": 76,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "                    generateDiscoveredNames(keyword, slot.getName(), entry, slot);"
       },
       {
-        "lineNumber": 79,
+        "lineNumber": 77,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "                } else {"
       },
       {
-        "lineNumber": 80,
+        "lineNumber": 78,
         "author": {
           "gitId": "seanieyap"
         },
         "content": "                    Set\u003cString\u003e tagSet \u003d slot.getTags();"
       },
       {
-        "lineNumber": 81,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "                    // TODO: marcus, i think that this is double adding tags"
-      },
-      {
-        "lineNumber": 82,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "                    //  the logic here is not sound, you are comparing the slot multiple times"
-      },
-      {
-        "lineNumber": 83,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "                    //  if it has multiple tags"
-      },
-      {
-        "lineNumber": 84,
+        "lineNumber": 79,
         "author": {
           "gitId": "seanieyap"
         },
         "content": "                    for (String tag : tagSet) {"
       },
       {
-        "lineNumber": 85,
+        "lineNumber": 80,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "                        if (tagSet.contains(tag)) {"
       },
       {
-        "lineNumber": 86,
+        "lineNumber": 81,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "                            generateDiscoveredNames(keyword, tag, entry, slot);"
       },
       {
-        "lineNumber": 87,
+        "lineNumber": 82,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "                        }"
       },
       {
-        "lineNumber": 88,
+        "lineNumber": 83,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "                    }"
       },
       {
-        "lineNumber": 89,
+        "lineNumber": 84,
         "author": {
           "gitId": "-"
         },
         "content": "                }"
       },
       {
-        "lineNumber": 90,
+        "lineNumber": 85,
         "author": {
           "gitId": "-"
         },
         "content": "            }"
       },
       {
-        "lineNumber": 91,
+        "lineNumber": 86,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 92,
+        "lineNumber": 87,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": ""
       },
       {
-        "lineNumber": 93,
+        "lineNumber": 88,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        if (weightedNames.isEmpty()) {"
       },
       {
-        "lineNumber": 94,
+        "lineNumber": 89,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "            return new CommandResult(MESSAGE_SUCCESS_NONE);"
       },
       {
-        "lineNumber": 95,
+        "lineNumber": 90,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 96,
+        "lineNumber": 91,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": ""
       },
       {
-        "lineNumber": 97,
+        "lineNumber": 92,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        while (!weightedNames.isEmpty()) {"
       },
       {
-        "lineNumber": 98,
+        "lineNumber": 93,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "            selectedSlots.add(weightedNames.poll());"
       },
       {
-        "lineNumber": 99,
+        "lineNumber": 94,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 100,
+        "lineNumber": 95,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": ""
       },
       {
-        "lineNumber": 101,
+        "lineNumber": 96,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        for (WeightedName entry : selectedSlots) {"
       },
       {
-        "lineNumber": 102,
+        "lineNumber": 97,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "            ReadOnlyDay day \u003d entry.getMap().getValue();"
       },
       {
-        "lineNumber": 103,
+        "lineNumber": 98,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "            ReadOnlySlot slot \u003d entry.getSlot();"
       },
       {
-        "lineNumber": 104,
+        "lineNumber": 99,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "            Pair\u003cReadOnlyDay, ReadOnlySlot\u003e pair \u003d new Pair\u003c\u003e(day, slot);"
       },
       {
-        "lineNumber": 105,
+        "lineNumber": 100,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "            lastShownList.add(new Pair\u003c\u003e(entry.getMap().getKey(), pair));"
       },
       {
-        "lineNumber": 106,
+        "lineNumber": 101,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 107,
+        "lineNumber": 102,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        model.setLastShownList(lastShownList);"
       },
       {
-        "lineNumber": 108,
+        "lineNumber": 103,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": ""
       },
       {
-        "lineNumber": 109,
+        "lineNumber": 104,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        return new CommandResult(String.format(MESSAGE_SUCCESS, selectedSlots.size(),"
       },
       {
-        "lineNumber": 110,
+        "lineNumber": 105,
         "author": {
           "gitId": "seanieyap"
         },
         "content": "                Messages.craftListMessageWeighted(selectedSlots)));"
       },
       {
-        "lineNumber": 111,
+        "lineNumber": 106,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 112,
+        "lineNumber": 107,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": ""
       },
       {
-        "lineNumber": 113,
+        "lineNumber": 108,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    /**"
       },
       {
-        "lineNumber": 114,
+        "lineNumber": 109,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    * If a slot entry is found, calculates the Levenshtein Distance between the name and the keyword."
       },
       {
-        "lineNumber": 115,
+        "lineNumber": 110,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    * Updates the weightedNames PQ with the new WeightedName pair containing the name and its weight."
       },
       {
-        "lineNumber": 116,
+        "lineNumber": 111,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    */"
       },
       {
-        "lineNumber": 117,
+        "lineNumber": 112,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    private void generateDiscoveredNames(String keyword, String compareString,"
       },
       {
-        "lineNumber": 118,
+        "lineNumber": 113,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "                                         Map.Entry\u003cLocalDate, Day\u003e entry, Slot slot) {"
       },
       {
-        "lineNumber": 119,
+        "lineNumber": 114,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        if (!Pattern.matches(\".*\" + keyword + \".*\", compareString)) {"
       },
       {
-        "lineNumber": 120,
+        "lineNumber": 115,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "            return;"
       },
       {
-        "lineNumber": 121,
+        "lineNumber": 116,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 122,
+        "lineNumber": 117,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": ""
       },
       {
-        "lineNumber": 123,
+        "lineNumber": 118,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        int dist \u003d Utils.getLevenshteinDistance(keyword, compareString);"
       },
       {
-        "lineNumber": 124,
+        "lineNumber": 119,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        WeightedName distNameTrie \u003d new WeightedName(entry, slot, entry.getKey(), dist);"
       },
       {
-        "lineNumber": 125,
+        "lineNumber": 120,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": ""
       },
       {
-        "lineNumber": 126,
+        "lineNumber": 121,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        weightedNames.add(distNameTrie);"
       },
       {
-        "lineNumber": 127,
+        "lineNumber": 122,
         "author": {
           "gitId": "seanieyap"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 128,
+        "lineNumber": 123,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": ""
       },
       {
-        "lineNumber": 129,
+        "lineNumber": 124,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    public String getKeyword() {"
       },
       {
-        "lineNumber": 130,
+        "lineNumber": 125,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        return keyword;"
       },
       {
-        "lineNumber": 131,
+        "lineNumber": 126,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 132,
+        "lineNumber": 127,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": ""
       },
       {
-        "lineNumber": 133,
+        "lineNumber": 128,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    public boolean getIsFindByName() {"
       },
       {
-        "lineNumber": 134,
+        "lineNumber": 129,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "        return isFindByName;"
       },
       {
-        "lineNumber": 135,
+        "lineNumber": 130,
         "author": {
           "gitId": "marcus-pzj"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 136,
+        "lineNumber": 131,
         "author": {
           "gitId": "-"
         },
@@ -57568,7 +57540,7 @@
       }
     ],
     "authorContributionMap": {
-      "seanieyap": 24,
+      "seanieyap": 19,
       "marcus-pzj": 98,
       "-": 14
     }
@@ -58145,672 +58117,672 @@
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.io.FileNotFoundException;"
+        "content": "import java.io.FileReader;"
       },
       {
         "lineNumber": 5,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.io.FileReader;"
+        "content": "import java.io.IOException;"
       },
       {
         "lineNumber": 6,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.io.IOException;"
+        "content": ""
       },
       {
         "lineNumber": 7,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "import java.time.LocalDate;"
       },
       {
         "lineNumber": 8,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.time.LocalDate;"
+        "content": "import java.time.LocalDateTime;"
       },
       {
         "lineNumber": 9,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.time.LocalDateTime;"
+        "content": "import java.time.LocalTime;"
       },
       {
         "lineNumber": 10,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.time.LocalTime;"
+        "content": "import java.time.format.DateTimeFormatter;"
       },
       {
         "lineNumber": 11,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.time.format.DateTimeFormatter;"
+        "content": "import java.time.temporal.ChronoUnit;"
       },
       {
         "lineNumber": 12,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.time.format.DateTimeParseException;"
+        "content": ""
       },
       {
         "lineNumber": 13,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.time.temporal.ChronoUnit;"
+        "content": "import java.util.Arrays;"
       },
       {
         "lineNumber": 14,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "import java.util.HashSet;"
       },
       {
         "lineNumber": 15,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.util.Arrays;"
+        "content": "import java.util.Map;"
       },
       {
         "lineNumber": 16,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.util.HashSet;"
+        "content": "import java.util.Set;"
       },
       {
         "lineNumber": 17,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.util.Map;"
+        "content": "import java.util.TreeMap;"
       },
       {
         "lineNumber": 18,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.util.Set;"
+        "content": ""
       },
       {
         "lineNumber": 19,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import java.util.TreeMap;"
+        "content": "import planmysem.logic.CommandHistory;"
       },
       {
         "lineNumber": 20,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "import planmysem.logic.commands.exceptions.CommandException;"
       },
       {
         "lineNumber": 21,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import planmysem.logic.CommandHistory;"
+        "content": "import planmysem.model.Model;"
       },
       {
         "lineNumber": 22,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import planmysem.model.Model;"
+        "content": "import planmysem.model.recurrence.Recurrence;"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import planmysem.model.recurrence.Recurrence;"
+        "content": "import planmysem.model.semester.Day;"
       },
       {
         "lineNumber": 24,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import planmysem.model.semester.Day;"
+        "content": "import planmysem.model.semester.Semester;"
       },
       {
         "lineNumber": 25,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import planmysem.model.semester.Semester;"
+        "content": "import planmysem.model.slot.Slot;"
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "import planmysem.model.slot.Slot;"
+        "content": ""
       },
       {
         "lineNumber": 27,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "/**"
       },
       {
         "lineNumber": 28,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "/**"
+        "content": " * Imports a .ics file into the Planner."
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": " * Imports a .ics file into the Planner."
+        "content": " */"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": " */"
+        "content": "public class ImportCommand extends Command {"
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "public class ImportCommand extends Command {"
+        "content": "    public static final String COMMAND_WORD \u003d \"import\";"
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "    public static final String COMMAND_WORD \u003d \"import\";"
+        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \": Imports a .ics file into the Planner.\""
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \": Imports a .ics file into the Planner.\""
+        "content": "            + \"\\n\\tParameters: \""
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "            + \"\\n\\tParameters: \""
-      },
-      {
-        "lineNumber": 35,
-        "author": {
-          "gitId": "macchazuki"
-        },
         "content": "            + \"\\n\\t\\tMandatory: fn/FILENAME\""
       },
       {
-        "lineNumber": 36,
+        "lineNumber": 35,
         "author": {
           "gitId": "seanieyap"
         },
         "content": "            + \"\\n\\tExample: \" + COMMAND_WORD + \" my_outlook_calendar.ics\";"
       },
       {
-        "lineNumber": 37,
+        "lineNumber": 36,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "    public static final String MESSAGE_SUCCESS \u003d \"File imported.\\n\";"
       },
       {
-        "lineNumber": 38,
+        "lineNumber": 37,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "    public static final String MESSAGE_FILE_NOT_FOUND \u003d \"File not found.\\n\";"
       },
       {
-        "lineNumber": 39,
+        "lineNumber": 38,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "    public static final String MESSAGE_ERROR_IN_READING_FILE \u003d \"Error in reading file.\\n\";"
       },
       {
-        "lineNumber": 40,
+        "lineNumber": 39,
         "author": {
           "gitId": "macchazuki"
         },
         "content": ""
       },
       {
-        "lineNumber": 41,
+        "lineNumber": 40,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "    private final String fileName;"
       },
       {
-        "lineNumber": 42,
+        "lineNumber": 41,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "    private int failedImports \u003d 0;"
       },
       {
-        "lineNumber": 43,
+        "lineNumber": 42,
         "author": {
           "gitId": "macchazuki"
         },
         "content": ""
       },
       {
-        "lineNumber": 44,
+        "lineNumber": 43,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "    public ImportCommand(String fileName) {"
       },
       {
-        "lineNumber": 45,
+        "lineNumber": 44,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "        if (!fileName.endsWith(\".ics\")) {"
       },
       {
-        "lineNumber": 46,
+        "lineNumber": 45,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "            this.fileName \u003d fileName.concat(\".ics\");"
       },
       {
-        "lineNumber": 47,
+        "lineNumber": 46,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "        } else {"
       },
       {
-        "lineNumber": 48,
+        "lineNumber": 47,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "            this.fileName \u003d fileName;"
       },
       {
-        "lineNumber": 49,
+        "lineNumber": 48,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 50,
+        "lineNumber": 49,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 51,
+        "lineNumber": 50,
         "author": {
           "gitId": "macchazuki"
         },
         "content": ""
       },
       {
-        "lineNumber": 52,
+        "lineNumber": 51,
         "author": {
           "gitId": "macchazuki"
         },
         "content": "    @Override"
       },
       {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    public CommandResult execute(Model model, CommandHistory commandHistory) throws CommandException {"
+      },
+      {
         "lineNumber": 53,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "    public CommandResult execute(Model model, CommandHistory commandHistory) {"
+        "content": "        try {"
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        FileReader fileReader;"
+        "content": "            FileReader fileReader;"
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        try {"
+        "content": "            fileReader \u003d new FileReader(this.fileName);"
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "            fileReader \u003d new FileReader(this.fileName);"
+        "content": "            BufferedReader br \u003d new BufferedReader(fileReader);"
       },
       {
         "lineNumber": 57,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        } catch (FileNotFoundException e) {"
+        "content": "            String sCurrentLine \u003d br.readLine();"
       },
       {
         "lineNumber": 58,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "            return new CommandResult(MESSAGE_FILE_NOT_FOUND);"
+        "content": "            while (!(\"END:VCALENDAR\".equals(sCurrentLine))) {"
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        }"
+        "content": "                sCurrentLine \u003d br.readLine();"
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        BufferedReader br \u003d new BufferedReader(fileReader);"
+        "content": "                if (\"BEGIN:VEVENT\".equals(sCurrentLine)) {"
       },
       {
         "lineNumber": 61,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "                    LocalDate date \u003d null;"
       },
       {
         "lineNumber": 62,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "                    String name \u003d null;"
       },
       {
         "lineNumber": 63,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        try {"
+        "content": "                    String location \u003d null;"
       },
       {
         "lineNumber": 64,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "            String sCurrentLine \u003d br.readLine();"
+        "content": "                    String description \u003d null;"
       },
       {
         "lineNumber": 65,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "            while (!(\"END:VCALENDAR\".equals(sCurrentLine))) {"
+        "content": "                    LocalTime startTime \u003d null;"
       },
       {
         "lineNumber": 66,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                sCurrentLine \u003d br.readLine();"
+        "content": "                    Set\u003cString\u003e tags \u003d new HashSet\u003c\u003e();"
       },
       {
         "lineNumber": 67,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                if (\"BEGIN:VEVENT\".equals(sCurrentLine)) {"
+        "content": "                    int duration \u003d 0;"
       },
       {
         "lineNumber": 68,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    LocalDate date \u003d null;"
+        "content": "                    DateTimeFormatter dateFormat \u003d DateTimeFormatter.ofPattern(\"yyyyMMdd\u0027T\u0027HHmmss\");"
       },
       {
         "lineNumber": 69,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    String name \u003d null;"
+        "content": ""
       },
       {
         "lineNumber": 70,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    String location \u003d null;"
+        "content": "                    while (!(\"END:VEVENT\".equals(sCurrentLine))) {"
       },
       {
         "lineNumber": 71,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    String description \u003d null;"
+        "content": "                        sCurrentLine \u003d br.readLine();"
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    LocalTime startTime \u003d null;"
+        "content": "                        String[] sSplit \u003d sCurrentLine.split(\":\");"
       },
       {
         "lineNumber": 73,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    Set\u003cString\u003e tags \u003d new HashSet\u003c\u003e();"
+        "content": "                        switch (sSplit[0]) {"
       },
       {
         "lineNumber": 74,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    int duration \u003d 0;"
+        "content": "                        case \"SUMMARY\":"
       },
       {
         "lineNumber": 75,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    DateTimeFormatter dateFormat \u003d DateTimeFormatter.ofPattern(\"yyyyMMdd\u0027T\u0027HHmmss\");"
+        "content": "                            name \u003d sSplit[1];"
       },
       {
         "lineNumber": 76,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "                            break;"
       },
       {
         "lineNumber": 77,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    while (!(\"END:VEVENT\".equals(sCurrentLine))) {"
+        "content": ""
       },
       {
         "lineNumber": 78,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        sCurrentLine \u003d br.readLine();"
+        "content": "                        case \"DTSTART\":"
       },
       {
         "lineNumber": 79,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        String[] sSplit \u003d sCurrentLine.split(\":\");"
+        "content": "                            date \u003d LocalDate.parse(sSplit[1], dateFormat);"
       },
       {
         "lineNumber": 80,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        System.out.println((sSplit[0]));"
+        "content": "                            startTime \u003d LocalTime.parse(sSplit[1], dateFormat);"
       },
       {
         "lineNumber": 81,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        if (sSplit[0].contains(\";\")) {"
+        "content": "                            break;"
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            String[] buffer \u003d sSplit[0].split(\";\");"
+        "content": ""
       },
       {
         "lineNumber": 83,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            sSplit[0] \u003d buffer[0];"
+        "content": "                        case \"DTEND\":"
       },
       {
         "lineNumber": 84,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            System.out.println(sSplit[0]);"
+        "content": "                            LocalDateTime startDateTime \u003d LocalDateTime.of(date, startTime);"
       },
       {
         "lineNumber": 85,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        }"
+        "content": "                            LocalDateTime endDateTime \u003d LocalDateTime.parse(sSplit[1], dateFormat);"
       },
       {
         "lineNumber": 86,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        switch (sSplit[0]) {"
+        "content": "                            duration \u003d (int) startDateTime.until(endDateTime, ChronoUnit.MINUTES);"
       },
       {
         "lineNumber": 87,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        case \"SUMMARY\":"
+        "content": "                            break;"
       },
       {
         "lineNumber": 88,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            name \u003d sSplit[1];"
+        "content": ""
       },
       {
         "lineNumber": 89,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            break;"
+        "content": "                        case \"LOCATION\":"
       },
       {
         "lineNumber": 90,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "                            location \u003d sSplit[1];"
       },
       {
         "lineNumber": 91,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        case \"DTSTART\":"
+        "content": "                            break;"
       },
       {
         "lineNumber": 92,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            date \u003d LocalDate.parse(sSplit[1], dateFormat);"
+        "content": ""
       },
       {
         "lineNumber": 93,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            startTime \u003d LocalTime.parse(sSplit[1], dateFormat);"
+        "content": "                        case \"DESCRIPTION\":"
       },
       {
         "lineNumber": 94,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            break;"
+        "content": "                            description \u003d sSplit[1];"
       },
       {
         "lineNumber": 95,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "                            break;"
       },
       {
         "lineNumber": 96,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        case \"DTEND\":"
+        "content": ""
       },
       {
         "lineNumber": 97,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            LocalDateTime startDateTime \u003d LocalDateTime.of(date, startTime);"
+        "content": "                        case \"X-TAGS\":"
       },
       {
         "lineNumber": 98,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            LocalDateTime endDateTime \u003d LocalDateTime.parse(sSplit[1], dateFormat);"
+        "content": "                            String[] tagArray \u003d sSplit[1].split(\",\");"
       },
       {
         "lineNumber": 99,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            duration \u003d (int) startDateTime.until(endDateTime, ChronoUnit.MINUTES);"
+        "content": "                            tags.addAll(Arrays.asList(tagArray));"
       },
       {
         "lineNumber": 100,
@@ -58831,112 +58803,112 @@
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        case \"LOCATION\":"
+        "content": "                        default:"
       },
       {
         "lineNumber": 103,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            location \u003d sSplit[1];"
+        "content": "                            break;"
       },
       {
         "lineNumber": 104,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            break;"
+        "content": ""
       },
       {
         "lineNumber": 105,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "                        }"
       },
       {
         "lineNumber": 106,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        case \"DESCRIPTION\":"
+        "content": "                    }"
       },
       {
         "lineNumber": 107,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            description \u003d sSplit[1];"
+        "content": ""
       },
       {
         "lineNumber": 108,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            break;"
+        "content": "                    Slot slot \u003d new Slot(name, location, description, startTime, duration, tags);"
       },
       {
         "lineNumber": 109,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "                    Recurrence recurrence \u003d new Recurrence(null, date);"
       },
       {
         "lineNumber": 110,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        case \"X-TAGS\":"
+        "content": "                    Set\u003cLocalDate\u003e dates \u003d recurrence.generateDates(model.getPlanner().getSemester());"
       },
       {
         "lineNumber": 111,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            String[] tagArray \u003d sSplit[1].split(\",\");"
+        "content": "                    Map\u003cLocalDate, Day\u003e days \u003d new TreeMap\u003c\u003e();"
       },
       {
         "lineNumber": 112,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            tags.addAll(Arrays.asList(tagArray));"
+        "content": ""
       },
       {
         "lineNumber": 113,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            break;"
+        "content": "                    for (LocalDate singleDate : dates) {"
       },
       {
         "lineNumber": 114,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "                        try {"
       },
       {
         "lineNumber": 115,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        default:"
+        "content": "                            days.put(singleDate, model.addSlot(date, slot));"
       },
       {
         "lineNumber": 116,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            break;"
+        "content": "                        } catch (Semester.DateNotFoundException dnfe) {"
       },
       {
         "lineNumber": 117,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "                            this.failedImports++;"
       },
       {
         "lineNumber": 118,
@@ -58957,241 +58929,150 @@
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "                }"
       },
       {
         "lineNumber": 121,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    Slot slot \u003d new Slot(name, location, description, startTime, duration, tags);"
+        "content": "            }"
       },
       {
         "lineNumber": 122,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    Recurrence recurrence \u003d new Recurrence(null, date);"
+        "content": "        } catch (IOException | NullPointerException e) {"
       },
       {
         "lineNumber": 123,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    Set\u003cLocalDate\u003e dates \u003d recurrence.generateDates(model.getPlanner().getSemester());"
+        "content": "            throw new CommandException(MESSAGE_ERROR_IN_READING_FILE);"
       },
       {
         "lineNumber": 124,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    Map\u003cLocalDate, Day\u003e days \u003d new TreeMap\u003c\u003e();"
+        "content": "        }"
       },
       {
         "lineNumber": 125,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": ""
+        "content": "        if (this.failedImports \u003d\u003d 0) {"
       },
       {
         "lineNumber": 126,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    for (LocalDate singleDate : dates) {"
+        "content": "            return new CommandResult(MESSAGE_SUCCESS);"
       },
       {
         "lineNumber": 127,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        try {"
+        "content": "        } else {"
       },
       {
         "lineNumber": 128,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            days.put(singleDate, model.addSlot(date, slot));"
+        "content": "            return new CommandResult(MESSAGE_SUCCESS + this.failedImports + \" event(s) failed to import.\\n\");"
       },
       {
         "lineNumber": 129,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        } catch (Semester.DateNotFoundException dnfe) {"
+        "content": "        }"
       },
       {
         "lineNumber": 130,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                            this.failedImports++;"
+        "content": "    }"
       },
       {
         "lineNumber": 131,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                        }"
+        "content": ""
       },
       {
         "lineNumber": 132,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                    }"
+        "content": "    @Override"
       },
       {
         "lineNumber": 133,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "                }"
+        "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 134,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "            }"
+        "content": "        return other \u003d\u003d this // short circuit if same object"
       },
       {
         "lineNumber": 135,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        } catch (IOException | NullPointerException | DateTimeParseException e) {"
+        "content": "                || (other instanceof ImportCommand // instanceof handles nulls"
       },
       {
         "lineNumber": 136,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "            return new CommandResult(MESSAGE_ERROR_IN_READING_FILE);"
+        "content": "                \u0026\u0026 fileName.equals(((ImportCommand) other).fileName));"
       },
       {
         "lineNumber": 137,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        }"
+        "content": "    }"
       },
       {
         "lineNumber": 138,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        if (this.failedImports \u003d\u003d 0) {"
+        "content": ""
       },
       {
         "lineNumber": 139,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "            return new CommandResult(MESSAGE_SUCCESS);"
+        "content": "}"
       },
       {
         "lineNumber": 140,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "        } else {"
+        "content": ""
       },
       {
         "lineNumber": 141,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "            return new CommandResult(MESSAGE_SUCCESS + this.failedImports + \" events are not within this semester.\\n\");"
-      },
-      {
-        "lineNumber": 142,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "        }"
-      },
-      {
-        "lineNumber": 143,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 144,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 145,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "    @Override"
-      },
-      {
-        "lineNumber": 146,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "    public boolean equals(Object other) {"
-      },
-      {
-        "lineNumber": 147,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "        return other \u003d\u003d this // short circuit if same object"
-      },
-      {
-        "lineNumber": 148,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "                || (other instanceof ImportCommand // instanceof handles nulls"
-      },
-      {
-        "lineNumber": 149,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "                \u0026\u0026 fileName.equals(((ImportCommand) other).fileName));"
-      },
-      {
-        "lineNumber": 150,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 151,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 152,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "}"
-      },
-      {
-        "lineNumber": 153,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 154,
         "author": {
           "gitId": "macchazuki"
         },
@@ -59200,7 +59081,7 @@
     ],
     "authorContributionMap": {
       "seanieyap": 1,
-      "macchazuki": 153
+      "macchazuki": 140
     }
   },
   {
@@ -87087,7 +86968,7 @@
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "dingheng4448"
+          "gitId": "macchazuki"
         },
         "content": "    -fx-font-family: \"Monospace\";"
       },
@@ -87114,8 +86995,8 @@
       }
     ],
     "authorContributionMap": {
-      "dingheng4448": 1,
-      "-": 15
+      "-": 15,
+      "macchazuki": 1
     }
   },
   {
@@ -92633,9 +92514,9 @@
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "seanieyap"
+          "gitId": "macchazuki"
         },
-        "content": "    public void execute_nonEmptyAddressBook_success() throws Exception {"
+        "content": "    public void execute_nonEmptyPlanner_success() throws Exception {"
       },
       {
         "lineNumber": 39,
@@ -92758,7 +92639,8 @@
       }
     ],
     "authorContributionMap": {
-      "seanieyap": 55
+      "seanieyap": 54,
+      "macchazuki": 1
     }
   },
   {
@@ -97786,298 +97668,396 @@
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//package planmysem.logic.Commands;"
+        "content": "package planmysem.logic.Commands;"
       },
       {
         "lineNumber": 2,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import java.io.IOException;"
+        "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import java.nio.file.Files;"
+        "content": "import static planmysem.logic.Commands.CommandTestUtil.assertCommandFailure;"
       },
       {
         "lineNumber": 4,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import java.nio.file.Paths;"
+        "content": "import static planmysem.logic.Commands.CommandTestUtil.assertCommandSuccess;"
       },
       {
         "lineNumber": 5,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//"
+        "content": ""
       },
       {
         "lineNumber": 6,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import org.junit.Assert;"
+        "content": "import java.io.IOException;"
       },
       {
         "lineNumber": 7,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import org.junit.Before;"
+        "content": "import java.nio.file.Files;"
       },
       {
         "lineNumber": 8,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import org.junit.Test;"
+        "content": "import java.nio.file.Paths;"
       },
       {
         "lineNumber": 9,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//"
+        "content": ""
       },
       {
         "lineNumber": 10,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import planmysem.common.Clock;"
+        "content": "import org.junit.Assert;"
       },
       {
         "lineNumber": 11,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import planmysem.logic.CommandHistory;"
+        "content": "import org.junit.Before;"
       },
       {
         "lineNumber": 12,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import planmysem.logic.commands.CommandResult;"
+        "content": "import org.junit.Rule;"
       },
       {
         "lineNumber": 13,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import planmysem.logic.commands.ExportCommand;"
+        "content": "import org.junit.Test;"
       },
       {
         "lineNumber": 14,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import planmysem.logic.commands.FindCommand;"
+        "content": ""
       },
       {
         "lineNumber": 15,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import planmysem.model.Model;"
+        "content": "import org.junit.rules.TemporaryFolder;"
       },
       {
         "lineNumber": 16,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import planmysem.model.ModelManager;"
+        "content": ""
       },
       {
         "lineNumber": 17,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//import planmysem.model.semester.IcsSemester;"
+        "content": "import planmysem.common.Clock;"
       },
       {
         "lineNumber": 18,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//"
+        "content": ""
       },
       {
         "lineNumber": 19,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//public class ExportCommandTest {"
+        "content": "import planmysem.logic.CommandHistory;"
       },
       {
         "lineNumber": 20,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//    private Model model \u003d new ModelManager();"
+        "content": "import planmysem.logic.commands.ExportCommand;"
       },
       {
         "lineNumber": 21,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//    private CommandHistory commandHistory \u003d new CommandHistory();"
+        "content": "import planmysem.model.Model;"
       },
       {
         "lineNumber": 22,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//"
+        "content": "import planmysem.model.ModelManager;"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//    @Before"
+        "content": ""
       },
       {
         "lineNumber": 24,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//    public void setup() {"
+        "content": "public class ExportCommandTest {"
       },
       {
         "lineNumber": 25,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//        Clock.set(\"2019-01-14T10:00:00Z\");"
+        "content": ""
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//    }"
+        "content": "    @Rule"
       },
       {
         "lineNumber": 27,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//"
+        "content": "    public TemporaryFolder tempFolder \u003d new TemporaryFolder();"
       },
       {
         "lineNumber": 28,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//    @Test"
+        "content": ""
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//    public void execute_export_success() throws IOException {"
+        "content": "    private CommandHistory commandHistory \u003d new CommandHistory();"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//        IcsSemester semester \u003d new IcsSemester(model.getPlanner().getSemester());"
+        "content": "    private String tempFolderPath;"
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//        CommandResult commandResult \u003d new ExportCommand(\"C:\\Users\\sly_1\\Documents\\PlanMySem\\test\\data\\ImportExportTest\\ExportTest\").execute(model, commandHistory);"
+        "content": "    @Before"
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//"
+        "content": "    public void setup() {"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//        String expectedIcs \u003d \"BEGIN:VCALENDAR\\r\\nVERSION:2.0\\r\\nEND:VCALENDAR\\r\\n\";"
+        "content": "        Clock.set(\"2019-01-14T10:00:00Z\");"
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//        String actualIcs \u003d semester.toString();"
+        "content": "        tempFolderPath \u003d tempFolder.getRoot().getPath();"
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//        Assert.assertEquals(actualIcs, expectedIcs);"
+        "content": "    }"
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//    }"
+        "content": ""
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//"
+        "content": "    @Test"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//    static String readFile(String path) throws IOException {"
+        "content": "    public void execute_export_success() throws IOException {"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//        byte[] encoded \u003d Files.readAllBytes(Paths.get(path));"
+        "content": "        Model model \u003d new ModelManager();"
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//        return new String(encoded);"
+        "content": "        Model expectedModel \u003d new ModelManager();"
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//    }"
+        "content": "        assertCommandSuccess(new ExportCommand(tempFolderPath + \"\\\\ExportTest\"), model,"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "macchazuki"
         },
-        "content": "//}"
+        "content": "                commandHistory, ExportCommand.MESSAGE_SUCCESS, expectedModel);"
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        String expectedIcs \u003d \"BEGIN:VCALENDAR\\r\\nVERSION:2.0\\r\\nEND:VCALENDAR\\r\\n\";"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        String actualIcs \u003d new String(Files.readAllBytes(Paths.get(tempFolderPath + \"\\\\ExportTest.ics\")));"
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        Assert.assertEquals(actualIcs, expectedIcs);"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    @Test"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    public void execute_export_fail() {"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        Model model \u003d new ModelManager();"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        assertCommandFailure(new ExportCommand(\"\\\\/:*?\\\"\u003c\u003e|\"), model, commandHistory,"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                ExportCommand.MESSAGE_FAILED);"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "}"
       }
     ],
     "authorContributionMap": {
-      "macchazuki": 42
+      "macchazuki": 56
     }
   },
   {
@@ -101790,6 +101770,1169 @@
     ],
     "authorContributionMap": {
       "seanieyap": 24
+    }
+  },
+  {
+    "path": "test/java/planmysem/logic/Commands/ImportCommandTest.java",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "package planmysem.logic.Commands;"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import static planmysem.logic.Commands.CommandTestUtil.assertCommandFailure;"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import static planmysem.logic.Commands.CommandTestUtil.assertCommandSuccess;"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import java.io.File;"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import java.io.FileWriter;"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import java.time.LocalDate;"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import org.junit.Before;"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import org.junit.Rule;"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import org.junit.Test;"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import org.junit.rules.TemporaryFolder;"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import planmysem.common.Clock;"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import planmysem.logic.CommandHistory;"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import planmysem.logic.commands.ImportCommand;"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import planmysem.model.Model;"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import planmysem.model.ModelManager;"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "import planmysem.testutil.SlotBuilder;"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "public class ImportCommandTest {"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    @Rule"
+      },
+      {
+        "lineNumber": 26,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    public TemporaryFolder tempFolder \u003d new TemporaryFolder();"
+      },
+      {
+        "lineNumber": 27,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 28,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    private String tempFolderPath;"
+      },
+      {
+        "lineNumber": 29,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    private Model model;"
+      },
+      {
+        "lineNumber": 30,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    private Model expectedModel;"
+      },
+      {
+        "lineNumber": 31,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    private CommandHistory commandHistory \u003d new CommandHistory();"
+      },
+      {
+        "lineNumber": 32,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 33,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    private SlotBuilder slotBuilder \u003d new SlotBuilder();"
+      },
+      {
+        "lineNumber": 34,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 35,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 36,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    @Before"
+      },
+      {
+        "lineNumber": 37,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    public void setup() throws Exception {"
+      },
+      {
+        "lineNumber": 38,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 39,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        Clock.set(\"2019-01-14T10:00:00Z\");"
+      },
+      {
+        "lineNumber": 40,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 41,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        tempFolderPath \u003d tempFolder.getRoot().getPath();"
+      },
+      {
+        "lineNumber": 42,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 43,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        // Create typical planner"
+      },
+      {
+        "lineNumber": 44,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        model \u003d new ModelManager();"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 46,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        expectedModel \u003d new ModelManager();"
+      },
+      {
+        "lineNumber": 47,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        expectedModel.addSlot(LocalDate.of(2019, 02, 01), slotBuilder.generateSlot(1));"
+      },
+      {
+        "lineNumber": 48,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        expectedModel.addSlot(LocalDate.of(2019, 02, 02), slotBuilder.generateSlot(2));"
+      },
+      {
+        "lineNumber": 49,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        expectedModel.addSlot(LocalDate.of(2019, 02, 03), slotBuilder.generateSlot(3));"
+      },
+      {
+        "lineNumber": 50,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        expectedModel.addSlot(LocalDate.of(2019, 02, 04), slotBuilder.generateSlot(3));"
+      },
+      {
+        "lineNumber": 51,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        expectedModel.setLastShownList(model.getLastShownList());"
+      },
+      {
+        "lineNumber": 52,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        //create test file with all valid events"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        File importTest \u003d tempFolder.newFile(\"ImportTest.ics\");"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        FileWriter fileWriter \u003d new FileWriter(importTest);"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        fileWriter.write(\"BEGIN:VCALENDAR\\r\\n\""
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"VERSION:2.0\\r\\n\""
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"BEGIN:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTSTART:20190204T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTEND:20190204T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"SUMMARY:slot 3\\r\\n\""
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"LOCATION:location 3\\r\\n\""
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DESCRIPTION:description 3\\r\\n\""
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"X-TAGS:tag4,tag3,\\r\\n\""
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"END:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"BEGIN:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTSTART:20190203T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTEND:20190203T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"SUMMARY:slot 3\\r\\n\""
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"LOCATION:location 3\\r\\n\""
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DESCRIPTION:description 3\\r\\n\""
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"X-TAGS:tag4,tag3,\\r\\n\""
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"END:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"BEGIN:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTSTART:20190202T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTEND:20190202T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"SUMMARY:slot 2\\r\\n\""
+      },
+      {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"LOCATION:location 2\\r\\n\""
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DESCRIPTION:description 2\\r\\n\""
+      },
+      {
+        "lineNumber": 80,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"X-TAGS:tag2,tag3,\\r\\n\""
+      },
+      {
+        "lineNumber": 81,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"END:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 82,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"BEGIN:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 83,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTSTART:20190201T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 84,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTEND:20190201T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 85,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"SUMMARY:slot 1\\r\\n\""
+      },
+      {
+        "lineNumber": 86,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"LOCATION:location 1\\r\\n\""
+      },
+      {
+        "lineNumber": 87,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DESCRIPTION:description 1\\r\\n\""
+      },
+      {
+        "lineNumber": 88,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"X-TAGS:tag1,tag2,\\r\\n\""
+      },
+      {
+        "lineNumber": 89,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"END:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 90,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"END:VCALENDAR\\r\\n\");"
+      },
+      {
+        "lineNumber": 91,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        fileWriter.close();"
+      },
+      {
+        "lineNumber": 92,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 93,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        //create test file with 1 invalid event"
+      },
+      {
+        "lineNumber": 94,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        File importTest2 \u003d tempFolder.newFile(\"ImportTest2.ics\");"
+      },
+      {
+        "lineNumber": 95,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        fileWriter \u003d new FileWriter(importTest2);"
+      },
+      {
+        "lineNumber": 96,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        fileWriter.write(\"BEGIN:VCALENDAR\\r\\n\""
+      },
+      {
+        "lineNumber": 97,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"VERSION:2.0\\r\\n\""
+      },
+      {
+        "lineNumber": 98,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"BEGIN:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 99,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTSTART:20190204T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 100,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTEND:20190204T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 101,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"SUMMARY:slot 3\\r\\n\""
+      },
+      {
+        "lineNumber": 102,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"LOCATION:location 3\\r\\n\""
+      },
+      {
+        "lineNumber": 103,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DESCRIPTION:description 3\\r\\n\""
+      },
+      {
+        "lineNumber": 104,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"X-TAGS:tag4,tag3,\\r\\n\""
+      },
+      {
+        "lineNumber": 105,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"END:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 106,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"BEGIN:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 107,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTSTART:20190203T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 108,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTEND:20190203T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 109,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"SUMMARY:slot 3\\r\\n\""
+      },
+      {
+        "lineNumber": 110,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"LOCATION:location 3\\r\\n\""
+      },
+      {
+        "lineNumber": 111,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DESCRIPTION:description 3\\r\\n\""
+      },
+      {
+        "lineNumber": 112,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"X-TAGS:tag4,tag3,\\r\\n\""
+      },
+      {
+        "lineNumber": 113,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"END:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 114,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"BEGIN:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 115,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTSTART:20190202T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 116,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTEND:20190202T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 117,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"SUMMARY:slot 2\\r\\n\""
+      },
+      {
+        "lineNumber": 118,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"LOCATION:location 2\\r\\n\""
+      },
+      {
+        "lineNumber": 119,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DESCRIPTION:description 2\\r\\n\""
+      },
+      {
+        "lineNumber": 120,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"X-TAGS:tag2,tag3,\\r\\n\""
+      },
+      {
+        "lineNumber": 121,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"END:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 122,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"BEGIN:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 123,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTSTART:20190201T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 124,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTEND:20190201T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 125,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"SUMMARY:slot 1\\r\\n\""
+      },
+      {
+        "lineNumber": 126,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"LOCATION:location 1\\r\\n\""
+      },
+      {
+        "lineNumber": 127,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DESCRIPTION:description 1\\r\\n\""
+      },
+      {
+        "lineNumber": 128,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"X-TAGS:tag1,tag2,\\r\\n\""
+      },
+      {
+        "lineNumber": 129,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"END:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 130,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"BEGIN:VEVENT\\n\""
+      },
+      {
+        "lineNumber": 131,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTSTART:20100204T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 132,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DTEND:20100204T000000\\r\\n\""
+      },
+      {
+        "lineNumber": 133,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"SUMMARY:slot 4\\r\\n\""
+      },
+      {
+        "lineNumber": 134,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"LOCATION:location 4\\r\\n\""
+      },
+      {
+        "lineNumber": 135,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"DESCRIPTION:description 4\\r\\n\""
+      },
+      {
+        "lineNumber": 136,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"X-TAGS:tag4,tag5,\\r\\n\""
+      },
+      {
+        "lineNumber": 137,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"END:VEVENT\\r\\n\""
+      },
+      {
+        "lineNumber": 138,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                + \"END:VCALENDAR\\r\\n\");"
+      },
+      {
+        "lineNumber": 139,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        fileWriter.close();"
+      },
+      {
+        "lineNumber": 140,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 141,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 142,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    //test for all valid events"
+      },
+      {
+        "lineNumber": 143,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    @Test"
+      },
+      {
+        "lineNumber": 144,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    public void execute_import_success() {"
+      },
+      {
+        "lineNumber": 145,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        String expectedMessage \u003d ImportCommand.MESSAGE_SUCCESS;"
+      },
+      {
+        "lineNumber": 146,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        assertCommandSuccess(new ImportCommand(tempFolderPath + \"/ImportTest.ics\"), model, commandHistory,"
+      },
+      {
+        "lineNumber": 147,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                expectedMessage, expectedModel);"
+      },
+      {
+        "lineNumber": 148,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 149,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 150,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    //test for 1 invalid event"
+      },
+      {
+        "lineNumber": 151,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    @Test"
+      },
+      {
+        "lineNumber": 152,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    public void execute_import_invalidEvent() {"
+      },
+      {
+        "lineNumber": 153,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        String expectedMessage \u003d ImportCommand.MESSAGE_SUCCESS + \"1 event(s) failed to import.\\n\";"
+      },
+      {
+        "lineNumber": 154,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        assertCommandSuccess(new ImportCommand(tempFolderPath + \"/ImportTest2.ics\"), model, commandHistory,"
+      },
+      {
+        "lineNumber": 155,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                expectedMessage, expectedModel);"
+      },
+      {
+        "lineNumber": 156,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 157,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 158,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    //test for invalid file"
+      },
+      {
+        "lineNumber": 159,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    @Test"
+      },
+      {
+        "lineNumber": 160,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    public void execute_import_fail() {"
+      },
+      {
+        "lineNumber": 161,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        String expectedMessage \u003d ImportCommand.MESSAGE_ERROR_IN_READING_FILE;"
+      },
+      {
+        "lineNumber": 162,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "        assertCommandFailure(new ImportCommand(tempFolderPath + \"/FileDoesNotExist.ics\"), model,"
+      },
+      {
+        "lineNumber": 163,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "                commandHistory, expectedMessage);"
+      },
+      {
+        "lineNumber": 164,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 165,
+        "author": {
+          "gitId": "macchazuki"
+        },
+        "content": "}"
+      }
+    ],
+    "authorContributionMap": {
+      "macchazuki": 165
     }
   },
   {

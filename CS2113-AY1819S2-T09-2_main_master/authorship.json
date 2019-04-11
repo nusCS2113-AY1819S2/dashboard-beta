@@ -26,7 +26,7 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "-"
+          "gitId": "cheahzk"
         },
         "content": "https://travis-ci.org/CS2113-AY1819S2-T09-2/main[image:https://travis-ci.org/CS2113-AY1819S2-T09-2/main.svg?branch\u003dmaster[Build Status]]"
       },
@@ -96,7 +96,7 @@
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "-"
+          "gitId": "cheahzk"
         },
         "content": "* Tasketch is an application that helps you to manage your daily time by managing your tasks."
       },
@@ -124,28 +124,28 @@
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "cheahzk"
         },
         "content": "** Daily Time Planner monitors your time planned for different task categories of a day."
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "-"
+          "gitId": "cheahzk"
         },
         "content": "** Reminder reminds you of the important tasks."
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "-"
+          "gitId": "cheahzk"
         },
         "content": "** Command Suggestion suggests you the possible commands that you can enter."
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "-"
+          "gitId": "cheahzk"
         },
         "content": "** Auto Complete Command helps you to enter commands faster and easier."
       },
@@ -263,8 +263,8 @@
       }
     ],
     "authorContributionMap": {
-      "cheahzk": 7,
-      "-": 30
+      "cheahzk": 13,
+      "-": 24
     }
   },
   {
@@ -2110,7 +2110,7 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "cheahzk"
         },
         "content": "Role: Developer +"
       },
@@ -2327,10 +2327,10 @@
     ],
     "authorContributionMap": {
       "Wanchunwei": 1,
-      "cheahzk": 8,
+      "cheahzk": 9,
       "jingchen-z": 3,
       "Zeyang-Li": 10,
-      "-": 33
+      "-": 32
     }
   },
   {
@@ -4910,14 +4910,14 @@
       {
         "lineNumber": 360,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "// tag::reminder[]"
       },
       {
         "lineNumber": 361,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "\u003d\u003d\u003d Reminder feature"
       },
@@ -4945,7 +4945,7 @@
       {
         "lineNumber": 365,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
@@ -5113,7 +5113,7 @@
       {
         "lineNumber": 389,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "// end::reminder[]"
       },
@@ -5127,7 +5127,7 @@
       {
         "lineNumber": 391,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "// tag::month/timeline[]"
       },
@@ -5148,7 +5148,7 @@
       {
         "lineNumber": 394,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
@@ -5316,7 +5316,7 @@
       {
         "lineNumber": 418,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "// tag::timeplanner[]"
       },
@@ -5351,7 +5351,7 @@
       {
         "lineNumber": 423,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
@@ -5736,7 +5736,7 @@
       {
         "lineNumber": 478,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "// tag::import/export[]"
       },
@@ -5757,7 +5757,7 @@
       {
         "lineNumber": 481,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
@@ -6275,7 +6275,7 @@
       {
         "lineNumber": 555,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "// end::import/export[]"
       },
@@ -6464,7 +6464,7 @@
       {
         "lineNumber": 582,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "* NUS students who need to manage time due to multiple CCAs, tasks, assignments and datelines"
       },
@@ -6597,7 +6597,7 @@
       {
         "lineNumber": 601,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "|`* * *` | user | clear tasks | remove all the completed tasks of a day or a month or all the finished tasks"
       },
@@ -7825,8 +7825,8 @@
       "cheahzk": 156,
       "jingchen-z": 23,
       "BrittonAlone": 20,
-      "Zeyang-Li": 98,
-      "-": 439
+      "Zeyang-Li": 111,
+      "-": 426
     }
   },
   {
@@ -8101,7 +8101,7 @@
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "-"
+          "gitId": "cheahzk"
         },
         "content": "type either `add` or `a`."
       },
@@ -8549,7 +8549,7 @@
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "-"
+          "gitId": "cheahzk"
         },
         "content": "This feature will help you to monitor the time planned for different tasks in a day. By looking at the time spent on"
       },
@@ -8633,7 +8633,7 @@
       {
         "lineNumber": 115,
         "author": {
-          "gitId": "-"
+          "gitId": "cheahzk"
         },
         "content": "Planner. Different dates means it is a long period task, thus will not be considered as daily task but can still be added."
       },
@@ -9494,7 +9494,7 @@
       {
         "lineNumber": 238,
         "author": {
-          "gitId": "-"
+          "gitId": "cheahzk"
         },
         "content": "Result: +"
       },
@@ -9739,7 +9739,7 @@
       {
         "lineNumber": 273,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": ""
       },
@@ -9935,7 +9935,7 @@
       {
         "lineNumber": 301,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": ""
       },
@@ -9956,7 +9956,7 @@
       {
         "lineNumber": 304,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": ""
       },
@@ -9977,7 +9977,7 @@
       {
         "lineNumber": 307,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": ""
       },
@@ -9991,7 +9991,7 @@
       {
         "lineNumber": 309,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": ""
       },
@@ -10047,7 +10047,7 @@
       {
         "lineNumber": 317,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": ""
       },
@@ -10061,7 +10061,7 @@
       {
         "lineNumber": 319,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": ""
       },
@@ -10418,7 +10418,7 @@
       {
         "lineNumber": 370,
         "author": {
-          "gitId": "-"
+          "gitId": "jingchen-z"
         },
         "content": "\u003d\u003d View calender \u0026 timeline"
       },
@@ -10593,7 +10593,7 @@
       {
         "lineNumber": 395,
         "author": {
-          "gitId": "-"
+          "gitId": "jingchen-z"
         },
         "content": "\u003d\u003d\u003d Shows the timeline of a specific day to the user : `timeline` +"
       },
@@ -11027,7 +11027,7 @@
       {
         "lineNumber": 457,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": ""
       },
@@ -12070,11 +12070,11 @@
     ],
     "authorContributionMap": {
       "Wanchunwei": 4,
-      "cheahzk": 204,
-      "jingchen-z": 52,
+      "cheahzk": 208,
+      "jingchen-z": 54,
       "BrittonAlone": 57,
-      "Zeyang-Li": 126,
-      "-": 162
+      "Zeyang-Li": 134,
+      "-": 148
     }
   },
   {
@@ -14453,7 +14453,7 @@
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "|_Given below are some sample sections I contributed to the User Guide in terms of the *Wrong Command Suggestion* and the *Import and Export feature*. If you would like to see the original part in our UserGuide, you can simply click blue titles. +"
       },
@@ -15090,7 +15090,7 @@
       {
         "lineNumber": 184,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "|_Given below are sections I contributed to the Developer Guide in terms of the *Wrong Command Suggestion feature* as well as the *Import and Export feature*. If you would like to see the original part in our DeveloperGuide, you can simply click blue titles. +"
       },
@@ -15993,8 +15993,7 @@
     ],
     "authorContributionMap": {
       "cheahzk": 1,
-      "Zeyang-Li": 309,
-      "-": 2
+      "Zeyang-Li": 311
     }
   },
   {
@@ -30238,21 +30237,21 @@
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_DESCRIPTION;"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_ENDDATE;"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_ENDTIME;"
       },
@@ -30266,14 +30265,14 @@
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_STARTDATE;"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "import static seedu.address.logic.parser.CliSyntax.PREFIX_STARTTIME;"
       },
@@ -31009,8 +31008,8 @@
     "authorContributionMap": {
       "Wanchunwei": 5,
       "cheahzk": 58,
-      "Zeyang-Li": 9,
-      "-": 46
+      "Zeyang-Li": 14,
+      "-": 41
     }
   },
   {
@@ -31117,7 +31116,7 @@
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": ""
       },
@@ -32063,8 +32062,8 @@
     "authorContributionMap": {
       "Wanchunwei": 7,
       "cheahzk": 2,
-      "Zeyang-Li": 121,
-      "-": 19
+      "Zeyang-Li": 122,
+      "-": 18
     }
   },
   {
@@ -44218,7 +44217,7 @@
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "import static seedu.address.model.Model.PREDICATE_SHOW_ALL_TASKS;"
       },
@@ -44478,8 +44477,8 @@
     "authorContributionMap": {
       "Wanchunwei": 5,
       "cheahzk": 2,
-      "Zeyang-Li": 6,
-      "-": 28
+      "Zeyang-Li": 7,
+      "-": 27
     }
   },
   {
@@ -47471,7 +47470,7 @@
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "-"
+          "gitId": "Zeyang-Li"
         },
         "content": "import static seedu.address.model.Model.PREDICATE_SHOW_ALL_TASKS;"
       },
@@ -47724,8 +47723,8 @@
     "authorContributionMap": {
       "Wanchunwei": 5,
       "cheahzk": 2,
-      "Zeyang-Li": 5,
-      "-": 28
+      "Zeyang-Li": 6,
+      "-": 27
     }
   },
   {
