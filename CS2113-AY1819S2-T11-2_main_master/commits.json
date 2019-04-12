@@ -456,6 +456,12 @@
         "deletions": 0,
         "date": "2019-04-11",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
       }
     ],
     "shawn-t": [
@@ -1068,6 +1074,25 @@
             "deletions": 18
           }
         ]
+      },
+      {
+        "insertions": 139,
+        "deletions": 55,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "73ebda39772bc9aa74e590ec1fd17fdde69a125a",
+            "message": "Parser Test codes added",
+            "insertions": 89,
+            "deletions": 5
+          },
+          {
+            "hash": "b0a08a6b511e50d0dbeaa9908e2c2ef90d7d2aca",
+            "message": "buggy test codes commented",
+            "insertions": 50,
+            "deletions": 50
+          }
+        ]
       }
     ],
     "matthiaslum": [
@@ -1612,6 +1637,12 @@
         "deletions": 0,
         "date": "2019-04-11",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
       }
     ],
     "WuPeiHsuan": [
@@ -2089,20 +2120,26 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
     "liguanlong": 524,
-    "shawn-t": 433,
-    "matthiaslum": 847,
+    "shawn-t": 548,
+    "matthiaslum": 844,
     "WuPeiHsuan": 505
   },
   "authorContributionVariance": {
-    "liguanlong": 40014.594,
-    "shawn-t": 3010.016,
-    "matthiaslum": 4541.525,
-    "WuPeiHsuan": 213.42499
+    "liguanlong": 39395.934,
+    "shawn-t": 3439.562,
+    "matthiaslum": 4475.1855,
+    "WuPeiHsuan": 210.16878
   },
   "authorDisplayNameMap": {
     "liguanlong": "LI ...ONG",

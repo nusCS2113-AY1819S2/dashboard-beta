@@ -539,6 +539,44 @@
         "deletions": 0,
         "date": "2019-04-11",
         "commitResults": []
+      },
+      {
+        "insertions": 218,
+        "deletions": 7,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "f303d2dcdc8dd6dd73e59b8b5849637e79d039be",
+            "message": "some test added, month of matches in finance class fixed",
+            "insertions": 213,
+            "deletions": 6
+          },
+          {
+            "hash": "281e1af7d2028ade2f50fb112d0313713742a5b9",
+            "message": "fix checkstyle",
+            "insertions": 5,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 160,
+        "deletions": 12,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "bbf4fa23f39b623da978707e8f14b0d3fc9fa3c4",
+            "message": "add finance to storage, add finance test",
+            "insertions": 159,
+            "deletions": 11
+          },
+          {
+            "hash": "737970edf5053fe4531d90a43ff652d3d633393a",
+            "message": "checkstyle fix",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "warheade": [
@@ -1294,6 +1332,18 @@
             "deletions": 42
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ],
     "yingrong1996": [
@@ -1884,6 +1934,18 @@
             "deletions": 5
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ],
     "E0176106": [
@@ -2536,20 +2598,32 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "huyidi": 1137,
-    "warheade": 4450,
-    "yingrong1996": 2773,
-    "E0176106": 2178
+    "huyidi": 1472,
+    "warheade": 4465,
+    "yingrong1996": 2761,
+    "E0176106": 2181
   },
   "authorContributionVariance": {
-    "huyidi": 18019.916,
-    "warheade": 185302.27,
-    "yingrong1996": 65801.06,
-    "E0176106": 133195.33
+    "huyidi": 18232.17,
+    "warheade": 180232.6,
+    "yingrong1996": 64021.523,
+    "E0176106": 129256.7
   },
   "authorDisplayNameMap": {
     "huyidi": "Hu Yidi",

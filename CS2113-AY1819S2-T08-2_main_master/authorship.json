@@ -11668,7 +11668,7 @@
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ":repoURL: https://github.com/cs2113-ay1819s2-t08-2/main"
       },
@@ -11682,7 +11682,7 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "By: `CS2113-AY1819S2-T08-2`      Since: `Mar 2019`      Licence: `MIT`"
       },
@@ -12095,7 +12095,7 @@
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12109,7 +12109,7 @@
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12130,14 +12130,14 @@
       {
         "lineNumber": 81,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
@@ -12312,21 +12312,21 @@
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12347,7 +12347,7 @@
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12410,14 +12410,14 @@
       {
         "lineNumber": 121,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
@@ -12445,28 +12445,28 @@
       {
         "lineNumber": 126,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12487,7 +12487,7 @@
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12508,7 +12508,7 @@
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12571,21 +12571,21 @@
       {
         "lineNumber": 144,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 146,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12606,7 +12606,7 @@
       {
         "lineNumber": 149,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12634,21 +12634,21 @@
       {
         "lineNumber": 153,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 154,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12683,77 +12683,77 @@
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 161,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Adds a new purchase to the expenditure list +"
       },
       {
         "lineNumber": 162,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Format: `addpurchase n/NAME pr/PRICE [t/TAG]...`"
       },
       {
         "lineNumber": 163,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 164,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 165,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* Only SGD currency is supported."
       },
       {
         "lineNumber": 166,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* You only have to input the value (see example)"
       },
       {
         "lineNumber": 167,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 168,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 170,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12774,7 +12774,7 @@
       {
         "lineNumber": 173,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12788,28 +12788,28 @@
       {
         "lineNumber": 175,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Shows a list of all recorded purchases with the corresponding price in the expenditure list. +"
       },
       {
         "lineNumber": 177,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Format: `explist`"
       },
       {
         "lineNumber": 178,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12823,112 +12823,112 @@
       {
         "lineNumber": 180,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 181,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Deletes an existing purchase in the expenditure list. +"
       },
       {
         "lineNumber": 182,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Format: `deletepurchase INDEX`"
       },
       {
         "lineNumber": 183,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 184,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 185,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* Deletes the purchase at the specified `INDEX`."
       },
       {
         "lineNumber": 186,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* The index refers to the index number shown in the displayed expenditure list."
       },
       {
         "lineNumber": 187,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* The index *must be a positive integer* (1, 2, 3, …) ."
       },
       {
         "lineNumber": 188,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 189,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 190,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Example:"
       },
       {
         "lineNumber": 191,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 192,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* `explist` +"
       },
       {
         "lineNumber": 193,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "`deletepurchase 2` +"
       },
       {
         "lineNumber": 194,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Deletes the 2nd purchase in the expenditure list."
       },
       {
         "lineNumber": 195,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -12942,14 +12942,14 @@
       {
         "lineNumber": 197,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 198,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Clears all past purchases recorded from the expenditure list. +"
       },
@@ -12991,70 +12991,70 @@
       {
         "lineNumber": 204,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Views total expenditure for the day +"
       },
       {
         "lineNumber": 205,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Format: `totalexpday DATE`"
       },
       {
         "lineNumber": 206,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 207,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 208,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "DATE should be in the DDMMYY format"
       },
       {
         "lineNumber": 209,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 210,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 211,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Example:"
       },
       {
         "lineNumber": 212,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "`totalexpday 191218`"
       },
       {
         "lineNumber": 213,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -13068,84 +13068,84 @@
       {
         "lineNumber": 215,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 216,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Sets a spending limit for one day to control expenditure. +"
       },
       {
         "lineNumber": 217,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Format: `setlimit VALUE`"
       },
       {
         "lineNumber": 218,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 219,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 220,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* Only SGD currency is supported."
       },
       {
         "lineNumber": 221,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* You only have to input the value (see example)"
       },
       {
         "lineNumber": 222,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 223,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 224,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Example:"
       },
       {
         "lineNumber": 225,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "`setlimit 20.00`"
       },
       {
         "lineNumber": 226,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -13887,91 +13887,91 @@
       {
         "lineNumber": 332,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 333,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Add habit which you wish to track into your monthly habit tracker. +"
       },
       {
         "lineNumber": 334,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Format: \u0027addHabit d/DATE h/HABIT a/ACCOMPLISHED\u0027"
       },
       {
         "lineNumber": 335,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 336,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 337,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "A calendar of the month is shown, along with previous records of the month."
       },
       {
         "lineNumber": 338,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 339,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 340,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Example:"
       },
       {
         "lineNumber": 341,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 342,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* `addHabit d/010119 n/SleepBefore12am a/Done`"
       },
       {
         "lineNumber": 343,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 344,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -14013,91 +14013,91 @@
       {
         "lineNumber": 350,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 351,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "View the past 5 most recent workout. +"
       },
       {
         "lineNumber": 352,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Format: `workout`"
       },
       {
         "lineNumber": 353,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 354,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 355,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Only the most recent 5 workout will be displayed, older workout will not be shown"
       },
       {
         "lineNumber": 356,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 357,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 358,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 359,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 360,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 361,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* `workout`"
       },
       {
         "lineNumber": 362,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -14111,126 +14111,126 @@
       {
         "lineNumber": 364,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 365,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Record your current workout and add them into your workout records. +"
       },
       {
         "lineNumber": 366,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Format: `record e/EXERCISE s/SETS r/REPS t/TIME`"
       },
       {
         "lineNumber": 367,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 368,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 369,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Words in `UPPER_CASE` are the parameters."
       },
       {
         "lineNumber": 370,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "EXERCISE must only contain alphanumeric. +"
       },
       {
         "lineNumber": 371,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "SETS, REPS and TIME must only contain integer, and TIME must be in minutes +"
       },
       {
         "lineNumber": 372,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "****"
       },
       {
         "lineNumber": 373,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 374,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Examples:"
       },
       {
         "lineNumber": 375,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 376,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* `record e/SIT UPS s/5 r/20 t/10`"
       },
       {
         "lineNumber": 377,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 378,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "Record the workout of doing 5 SETS of 20 REPS of SIT UPS in 10 MINUTES"
       },
       {
         "lineNumber": 379,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
       {
         "lineNumber": 380,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "\u003d\u003d General Commands"
       },
       {
         "lineNumber": 381,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": ""
       },
@@ -14727,7 +14727,7 @@
       {
         "lineNumber": 452,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "\u003d\u003d Exiting the program : `exit`"
       },
@@ -14762,7 +14762,7 @@
       {
         "lineNumber": 457,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "\u003d\u003d Saving the data"
       },
@@ -14804,7 +14804,7 @@
       {
         "lineNumber": 463,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "\u003d\u003d Encrypting data files `[coming in v2.0]`"
       },
@@ -14888,7 +14888,7 @@
       {
         "lineNumber": 475,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* *Add* : `add n/NAME p/PHONE_NUMBER e/EMAIL a/ADDRESS [t/TAG]...` +"
       },
@@ -14902,7 +14902,7 @@
       {
         "lineNumber": 477,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* *List* : `list`"
       },
@@ -14937,14 +14937,14 @@
       {
         "lineNumber": 482,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* *Delete* : `delete INDEX` +"
       },
       {
         "lineNumber": 483,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "e.g. `delete 3`"
       },
@@ -15035,21 +15035,22 @@
       {
         "lineNumber": 496,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* *Clear* : `clear`"
       },
       {
         "lineNumber": 497,
         "author": {
-          "gitId": "-"
+          "gitId": "wongyuqi"
         },
         "content": "* *Exit* : `exit`"
       }
     ],
     "authorContributionMap": {
       "weizhonglauw": 78,
-      "-": 360,
+      "-": 226,
+      "wongyuqi": 134,
       "jayrometan": 59
     }
   },

@@ -753,10 +753,275 @@
         "commitResults": []
       },
       {
+        "insertions": 130,
+        "deletions": 103,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "04a60e74dd5458548f46e9f5fea467e06e87636c",
+            "message": "Optimise calendar build slightly",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "ee370d12ef5309d03feea176f8a3a650a23b5812",
+            "message": "Update Developer Guide",
+            "insertions": 44,
+            "deletions": 13
+          },
+          {
+            "hash": "3ada610584b2b69f5d6f79515ca33c579e345d5d",
+            "message": "Reformat Developer Guide",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "c9fe07b2fde95d9a08b36141c842ce2fe677272c",
+            "message": "Update GUI",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "9bb67f772b36b0b8b797f500e5af36e4f123e4bd",
+            "message": "Update UG.",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "655f415b7f996872f75087a616657a56bfe019a4",
+            "message": "Update UG, DG and README. Rename Task Manager to Student Buddy.",
+            "insertions": 77,
+            "deletions": 81
+          },
+          {
+            "hash": "dd2d2624402588647e363b512f5a9b4aaa6e3e5e",
+            "message": "Rename app from Task Manager to Student Buddy.",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-02",
+        "date": "2019-04-03",
         "commitResults": []
+      },
+      {
+        "insertions": 34,
+        "deletions": 30,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "40d40f870b30fa6ad45348b083bd805775ef535d",
+            "message": "Modify edit command to fix duplicate entry bug",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "1eb0a0e028a42f142a5359509f0df10d33aca297",
+            "message": "Tweak logic to remove possibility of identical tasks with different priority",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "358f4b93956edcba9b9577e9954454df513fee06",
+            "message": "Fix tests broken by change in logic",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "9d91031ae53da53bdbd14b11f651079fe9220941",
+            "message": "Fix selected task highlighting logic to prevent multiple tasks with similar names from being highlighted.",
+            "insertions": 21,
+            "deletions": 17
+          },
+          {
+            "hash": "3e5994582ac9fd81e95cf71af7a02d64f2d9c00c",
+            "message": "Change UI to allow scrollbars to appear on calendar cells if number of tasks exceeds the height of the cell. Modify cell test wrapping width such that the scrollbar does not cover any text.",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 18,
+        "deletions": 11,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "eca0160402f9b4731b231797460ec046e23c463c",
+            "message": "Update PPP",
+            "insertions": 16,
+            "deletions": 9
+          },
+          {
+            "hash": "2a2c7396148ed52feff8bc752351b9845b9b3017",
+            "message": "Update code contribution link",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8dc523cbea0e54b7117fd8f7f2cba788f77a05d8",
+            "message": "Fix link",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 266,
+        "deletions": 19,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "29a79cba82f665d790845f108522241b49b77cd7",
+            "message": "Calendar tweaks Ensure calendar is cleared before updating Update cellTasks to show module codes",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "466a5e925b67d7c77bbaef8e00a21c29353a6c4b",
+            "message": "Add month changing functionality",
+            "insertions": 247,
+            "deletions": 12
+          },
+          {
+            "hash": "49fe0f4f0dda87ae8df5ad5238ab63de395fb433",
+            "message": "Fix checkstyle",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "dd9d547e1413089d242129ca231ce7319e9a6695",
+            "message": "Update tests",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "08425ad32637d6d64ff118a153f836170320f6a0",
+            "message": "Rename taskmanager.json to StudentBuddy.json",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 224,
+        "deletions": 91,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "305e0030780606343bc97095309fb29a01c349d1",
+            "message": "Update UG and DG",
+            "insertions": 61,
+            "deletions": 4
+          },
+          {
+            "hash": "ba5abe9c5ce323c0bed5029fdbe62e3e772a1f1c",
+            "message": "Update PPP",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "db92c44f2efd7180ab76f38cedce1598441a6e32",
+            "message": "Update DG",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "e87e86d9adb424414cd0b8d5c1e33502830ce669",
+            "message": "Allow month command to be used without loggin in Add tests for Month Add tests for MonthCommand",
+            "insertions": 107,
+            "deletions": 6
+          },
+          {
+            "hash": "139a69bee49c8b70c148ecc2d1bb19f4af5295d6",
+            "message": "Fix checkstyle",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "5e1c6e91ae7bbfad6e7f9cfbba3aacbe80a5e91d",
+            "message": "Fix checkstyle",
+            "insertions": 13,
+            "deletions": 25
+          },
+          {
+            "hash": "55e3006c8d6b2887b020331f99498cdd78eac7bd",
+            "message": "Fix checkstyle",
+            "insertions": 16,
+            "deletions": 35
+          },
+          {
+            "hash": "dbea21be280439834f25c5dbd62e91ec23b0e2b8",
+            "message": "Fix checkstyle",
+            "insertions": 15,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 41,
+        "deletions": 24,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "6b3b43f300f72df968f0794d7ad60a60534ef144",
+            "message": "Reset selected task when task list is modified, the month is changed or the user logs out GUI tweaks to nicely fit 1280x800, and set minimum height to 600 to accomodate shorter screens",
+            "insertions": 35,
+            "deletions": 23
+          },
+          {
+            "hash": "cffd7aa1f8f54d92a47c050ad5b2e29386ca7a1b",
+            "message": "Update UG",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "e1cbd5e27dd69fd3da83939b7eaff1ca44ae3cbd",
+            "message": "Update DG",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 34,
+        "deletions": 27,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "c14578d42c66620225d8fbb92dda5cd1c303fedc",
+            "message": "Minor changes to replace some references to \"Task Manager\" with \"Student Buddy\" Update UG image Update SampleDataUtil to create sample tasks based on system clock",
+            "insertions": 32,
+            "deletions": 25
+          },
+          {
+            "hash": "b18f123866b6dd3534972b21bbccfb138963d4cd",
+            "message": "Fix grammar mistake",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "654313370d34adc5f757630abc4d84e862ae0b5f",
+            "message": "Fix grammar",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "Shengkok": [
@@ -1270,23 +1535,313 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 348,
+        "deletions": 15,
         "date": "2019-04-01",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "ee131aa7717f00d7fb13b4fbe6211bda6db7f6ec",
+            "message": "Updated storage of notes",
+            "insertions": 190,
+            "deletions": 2
+          },
+          {
+            "hash": "5419caea1c0888090b05e4c04233b953e1805253",
+            "message": "Added DeleteNotes Feature",
+            "insertions": 113,
+            "deletions": 1
+          },
+          {
+            "hash": "7d0c4896cb3e943e051fca32e5704fefb46638d4",
+            "message": "adjusted dimensions of UI",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "be65769df0dc2f25a20ce9b711a2c19d72d09456",
+            "message": "Added priority to to notes and colour to notes UI",
+            "insertions": 43,
+            "deletions": 10
+          }
+        ]
       },
       {
-        "insertions": 21,
-        "deletions": 5,
+        "insertions": 135,
+        "deletions": 85,
         "date": "2019-04-02",
         "commitResults": [
+          {
+            "hash": "d326f1c15c4ae7643803f1ed48e71d3f2050029e",
+            "message": "Update shengkok.adoc",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "0cbe178a07e376138e3a46a778bb068f8fef1e36",
+            "message": "Update shengkok.adoc",
+            "insertions": 3,
+            "deletions": 17
+          },
+          {
+            "hash": "cff8e05f3b34406d3b22a4aa961d3f6304e28fc2",
+            "message": "Fixed NotesEvent Error",
+            "insertions": 0,
+            "deletions": 10
+          },
+          {
+            "hash": "911787be0adc3b928217c02c285efdc7fa6c0dc1",
+            "message": "fix dataencryption tag error on travis",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "1d8242b941dd9a4e1f1a0d700144d3265250a0d8",
+            "message": "fix trailing whitespace error",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "71af872fc6b633bb35a21072bc1d94a75510966b",
+            "message": "Fixed Checkstyle error",
+            "insertions": 17,
+            "deletions": 17
+          },
+          {
+            "hash": "842f12d9ce3e68f36a082275289440d277ec747a",
+            "message": "Added DeleteNotesCommand section",
+            "insertions": 50,
+            "deletions": 10
+          },
+          {
+            "hash": "c2b01250353262b9c3a6710d620588e7a9a66b58",
+            "message": "notes.json",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d71592e282e1f85d366a5d893f822e86e9bfb44d",
+            "message": "fix checkstyle error",
+            "insertions": 2,
+            "deletions": 2
+          },
           {
             "hash": "dc924efa02001a6fe26f7627e350030f27bd76ec",
             "message": "Added DeleteNotes and updated AddNotes",
             "insertions": 21,
             "deletions": 5
+          },
+          {
+            "hash": "84b3321220b00119fae5c5658e9b99edde8d565e",
+            "message": "notes.json",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d359e99db2f6e30fe7b61c1c2d83e88e64a3b833",
+            "message": "deleted notes.json",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "c4825d989936babe7758a4080731178b1a277750",
+            "message": "added deletenotes and updated addnotes",
+            "insertions": 20,
+            "deletions": 4
+          },
+          {
+            "hash": "9395d54df08b852505da4de6fdd9474473cea95b",
+            "message": "Update shengkok.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "12d895370d5c8bbbfaba1a23390e5b321a5cd5fb",
+            "message": "Change title of project",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 30,
+        "deletions": 2,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "eca311bc79b1e6c2762821a14bebb30cf1d0b434",
+            "message": "Updated user guide for add notes and delete notes",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "a764d4d68761d70416c67d0a4f7a7eff2a26be58",
+            "message": "Added in addnote and deletenote diagrams",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "aa6d915322726bc1f45b4cf59eef3413ff5eb692",
+            "message": "Fixed error where addnote before and after",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "f41260813e3d06922f17624205dd23165358c2f0",
+            "message": "Finalized user guide for notes section",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 58,
+        "deletions": 62,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "80c888c8d9802b6533e1a41e67373b704920067a",
+            "message": "Finalized developer guide for notes",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "e76d04aad4f5a0322ecdbee7888e97244bcf9e89",
+            "message": "trailing whitespace error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3fe1e723691407898c116700baa7f764fa439b7c",
+            "message": "Fix ppp\u0027s reference to user guide",
+            "insertions": 2,
+            "deletions": 6
+          },
+          {
+            "hash": "83703cfc44adaa30219c22f1259c6e6f027415ea",
+            "message": "Update shengkok.adoc",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "362ddf9454ee28cb73261a389db292f96dbe6ef5",
+            "message": "Finalised markdown for notes",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "5a42c7bed7f68ec00e4c908c41a924212cd82a38",
+            "message": "Finalised markdown for developer guide",
+            "insertions": 25,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 6,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "39d0ad582a46da5b8432728244f7bd8cd9b94bf6",
+            "message": "Updated introduction of PPP",
+            "insertions": 14,
+            "deletions": 4
+          },
+          {
+            "hash": "22a5aa699172daeb056605828724742ef55049d4",
+            "message": "Fixed trailing spaces checkstyle error",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 31,
+        "deletions": 16,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "3f7c2a8ea1d62a5e0ed02fead3a713b574ca87e5",
+            "message": "Update shengkok.adoc",
+            "insertions": 20,
+            "deletions": 13
+          },
+          {
+            "hash": "200e553cb0036cb846b76327d6ba86599ca7d6b7",
+            "message": "Fixed italics mark up",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c6a81b03ecac3f7ef066d7e3510ae45e64fce7fd",
+            "message": "Added other projects section",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "fcefc4a4cc3ac0deb55a7af733b070a33f834857",
+            "message": "Trailing whitespace checkstyle fixed",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "ff598b886ab3c30cf5f4f10c88820aa3a269268d",
+            "message": "Fixed message shown during wrong deletenote command",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 253,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "76145d344519e8a6142ac3dcaa29b01bb6d622d0",
+            "message": "Wrote tests for notes package",
+            "insertions": 253,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 53,
+        "deletions": 38,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "1e4fff2974d15cf527acec7146551ed57a711718",
+            "message": "Fixed checkstyle",
+            "insertions": 47,
+            "deletions": 34
+          },
+          {
+            "hash": "40dd9a122b95ef1ace9e6811ce7903f4ba4f3847",
+            "message": "fixed more checkstyle error",
+            "insertions": 6,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
       }
     ],
     "khairulhazril": [
@@ -2000,15 +2555,126 @@
         ]
       },
       {
+        "insertions": 512,
+        "deletions": 111,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "5b334e305e4adf512dedfe05a1659f3cdfd24637",
+            "message": "Updat UG",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "4792105bb36df9e1d47b942815c3ca9c22cb74c0",
+            "message": "Remove undo/redo feature in DG",
+            "insertions": 0,
+            "deletions": 80
+          },
+          {
+            "hash": "bfe44c9cf406641a2a94fad86c01610050747b73",
+            "message": "Edit task commands to allow alias",
+            "insertions": 474,
+            "deletions": 0
+          },
+          {
+            "hash": "fdbffdf06cda706af0e0a71a43f5483e8b14953c",
+            "message": "Edit files for checkstyle",
+            "insertions": 28,
+            "deletions": 27
+          },
+          {
+            "hash": "58c7b70ce07b00272836e3a6fca06dedf1145a67",
+            "message": "Fix daysRemaining feature",
+            "insertions": 7,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 20,
+        "deletions": 36,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "4ab67591cfa8519a19fd266d4b74652c6443eb98",
+            "message": "Edit PPP",
+            "insertions": 14,
+            "deletions": 7
+          },
+          {
+            "hash": "a2c7f054a7d7ccaf371c6912f52d588bac255cbe",
+            "message": "Update PPP",
+            "insertions": 2,
+            "deletions": 7
+          },
+          {
+            "hash": "8deeaee6e84ab2bedee194f07f47c2795991efd1",
+            "message": "Update PPP",
+            "insertions": 4,
+            "deletions": 22
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-01",
+        "date": "2019-04-03",
         "commitResults": []
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-02",
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 11,
+        "deletions": 11,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "24f5e28c79fbedbdbc91057667ed1ca83c836a57",
+            "message": "Fix errors found in mock test",
+            "insertions": 11,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
         "commitResults": []
       }
     ],
@@ -2443,20 +3109,74 @@
         "deletions": 0,
         "date": "2019-04-02",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Justin-Ong": 929,
-    "Shengkok": 995,
-    "khairulhazril": 6862,
-    "nicholasleeeee": 321
+    "Justin-Ong": 1510,
+    "Shengkok": 1698,
+    "khairulhazril": 6880,
+    "nicholasleeeee": 300
   },
   "authorContributionVariance": {
-    "Justin-Ong": 14608.796,
-    "Shengkok": 9572.143,
-    "khairulhazril": 6597221.5,
-    "nicholasleeeee": 28549.205
+    "Justin-Ong": 14983.763,
+    "Shengkok": 11407.9375,
+    "khairulhazril": 5665816.5,
+    "nicholasleeeee": 24483.918
   },
   "authorDisplayNameMap": {
     "Justin-Ong": "ONG...TIN",

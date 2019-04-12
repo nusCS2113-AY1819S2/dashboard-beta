@@ -420,7 +420,7 @@
         "commitResults": []
       }
     ],
-    "swalahlah": [
+    "wongyuqi": [
       {
         "insertions": 0,
         "deletions": 0,
@@ -650,10 +650,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 426,
+        "deletions": 59,
         "date": "2019-03-20",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "8c87ead0fe2e8e5cd4c467d9101aebddb28a81b6",
+            "message": "Add files via upload",
+            "insertions": 135,
+            "deletions": 0
+          },
+          {
+            "hash": "40f0bf7b031b97c63e504761a0ddf2e95f5fa933",
+            "message": "Update UserGuide.adoc",
+            "insertions": 291,
+            "deletions": 59
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -2203,19 +2216,19 @@
   },
   "authorFinalContributionMap": {
     "yongjia96": 898,
-    "swalahlah": 0,
+    "wongyuqi": 134,
     "weizhonglauw": 2572,
     "jayrometan": 3457
   },
   "authorContributionVariance": {
     "yongjia96": 8197.675,
-    "swalahlah": 0.0,
+    "wongyuqi": 3792.9333,
     "weizhonglauw": 164728.66,
     "jayrometan": 84203.7
   },
   "authorDisplayNameMap": {
     "yongjia96": "PAN...JIA",
-    "swalahlah": "LIO...HUI",
+    "wongyuqi": "WON... QI",
     "weizhonglauw": "LAU...ONG",
     "jayrometan": "TAN...OME"
   }

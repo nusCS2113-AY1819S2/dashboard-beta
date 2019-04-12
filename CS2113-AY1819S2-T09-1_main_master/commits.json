@@ -778,6 +778,49 @@
             "deletions": 3
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 89,
+        "deletions": 94,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "842bf2374663ab1411a964b1a3c6cef14e0ba64c",
+            "message": "Logic: Refactor \u0027planner_list_all\u0027 to \u0027planner_list\u0027",
+            "insertions": 34,
+            "deletions": 45
+          },
+          {
+            "hash": "bea6de78bf7c9b4dbe30677a6d046f9ef32665f0",
+            "message": "Test: update for \u0027planner_list\u0027",
+            "insertions": 55,
+            "deletions": 49
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ],
     "WendyBaiYunwei": [
@@ -1160,6 +1203,36 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
         "commitResults": []
       }
     ],
@@ -2365,6 +2438,49 @@
             "deletions": 195
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 30,
+        "deletions": 19,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "734a2f19093d9baf28b2a32370d4293a132783dd",
+            "message": "Test/TestApp: fix `initPrefs(...)` implementation and broken tests (#210)",
+            "insertions": 18,
+            "deletions": 18
+          },
+          {
+            "hash": "b00cdaf348c4eedaed3bfa9c741311f1b76f153f",
+            "message": "Model/module: make `Code` store uppercase string (#211)",
+            "insertions": 12,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "chyeo": [
@@ -3173,6 +3289,36 @@
             "deletions": 8
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ],
     "lycjackie": [
@@ -3987,22 +4133,52 @@
             "deletions": 11
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "truegitnovice": 2486,
+    "truegitnovice": 2494,
     "WendyBaiYunwei": 265,
-    "Creastery": 4749,
-    "chyeo": 2537,
-    "lycjackie": 4760
+    "Creastery": 4764,
+    "chyeo": 2533,
+    "lycjackie": 4745
   },
   "authorContributionVariance": {
-    "truegitnovice": 79452.69,
-    "WendyBaiYunwei": 1137.3586,
-    "Creastery": 208245.33,
-    "chyeo": 267281.9,
-    "lycjackie": 601645.75
+    "truegitnovice": 73830.125,
+    "WendyBaiYunwei": 1050.3445,
+    "Creastery": 194685.55,
+    "chyeo": 248439.8,
+    "lycjackie": 555779.5
   },
   "authorDisplayNameMap": {
     "truegitnovice": "AHN...GYU",

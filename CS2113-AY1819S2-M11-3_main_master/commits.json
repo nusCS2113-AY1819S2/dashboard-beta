@@ -1029,6 +1029,91 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 91,
+        "deletions": 44,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "71325187137bddc362f5e7918f0fd370eaea0ae4",
+            "message": "AddCommand: Fixed bugs",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "8b1bcad73fe596e34b738da5f5417c506111a62b",
+            "message": "DeleteCommand: Fixed bugs",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "dc9ed505e104328759630d926aa1ea593f1724aa",
+            "message": "EditCommand: Fixed bugs",
+            "insertions": 41,
+            "deletions": 5
+          },
+          {
+            "hash": "b2f5b6f04fcd671af6a255fbe1df06ecdb2719a2",
+            "message": "ModelManager: Updated getUpdatedFlashcardList()",
+            "insertions": 7,
+            "deletions": 4
+          },
+          {
+            "hash": "7c9789899817243be068d2cc6c6b7ef3cb87481b",
+            "message": "AddCommandIntegrationTest: Updated tests",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "9a2f808478f82c2b779589149dc75c2300138e34",
+            "message": "DeleteCommandTest: Updated tests",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "bc5e33730a488b22bfd94cab5d269efcd5d0a673",
+            "message": "EditCommandTest: Updated tests",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "7929478a76641d5051e9b5248219211cfb82c872",
+            "message": "SelectCommand: Fixed bugs",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "79f930b213fb55053b6cc9121d7fb47ecf0ed6be",
+            "message": "SelectCommand: Updated",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "98bad1353d5a6e85298645306ba91f9291f7a5ab",
+            "message": "Fixed checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "c9b2c841d2fe7e8b00f3c5461bf4d597d48d97ae",
+            "message": "Fixed checkstyle",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "c837b61f1f185ac79264b51876f6dce7b071b7ab",
+            "message": "SelectCommand: Updated",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "d3097db05494c6f107687fbf6c03afdc8680c968",
+            "message": "SelectedCommandTest: Updated tests",
+            "insertions": 25,
+            "deletions": 27
+          }
+        ]
       }
     ],
     "jemine1998": [
@@ -1553,6 +1638,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
         "commitResults": []
       }
     ],
@@ -2622,18 +2713,24 @@
         "deletions": 0,
         "date": "2019-04-11",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "wanchinglim": 3090,
+    "wanchinglim": 3144,
     "jemine1998": 1314,
-    "dannong": 4478
+    "dannong": 4470
   },
   "authorContributionVariance": {
-    "wanchinglim": 254630.25,
-    "jemine1998": 10827.107,
-    "dannong": 703152.94
+    "wanchinglim": 250583.69,
+    "jemine1998": 10678.71,
+    "dannong": 692579.06
   },
   "authorDisplayNameMap": {
     "wanchinglim": "LIM...ING",
