@@ -2,10 +2,118 @@
   "authorDailyContributionsMap": {
     "wanchinglim": [
       {
-        "insertions": 2,
-        "deletions": 1,
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 140,
+        "deletions": 69,
         "date": "2019-02-25",
         "commitResults": [
+          {
+            "hash": "9f4ab2ff3ea17cfaf0e886439ec7247e05e40ebc",
+            "message": "UI: Added different colours to different tags",
+            "insertions": 66,
+            "deletions": 1
+          },
+          {
+            "hash": "10adc1553a36608ba60882fbe14b1e9ca0051f74",
+            "message": "Revert \"UI: Added different colours to different tags\"",
+            "insertions": 1,
+            "deletions": 66
+          },
+          {
+            "hash": "d3be6e86ec6b3f6a4987697a1db1cdb61438045e",
+            "message": "UI: Added different colours to different tags",
+            "insertions": 71,
+            "deletions": 1
+          },
           {
             "hash": "4ef7aa9ff6aad0c0047ade357de62af0183eab0f",
             "message": "Updated User Guide for \"List\" command",
@@ -19,6 +127,36 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
       },
       {
         "insertions": 232,
@@ -52,8 +190,154 @@
         ]
       },
       {
-        "insertions": 78,
-        "deletions": 85,
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 1386,
+        "deletions": 1378,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "b5821dfcd8b20b833f3c7dec2d7b62454fc5a85b",
+            "message": "Refactored Person to Subject",
+            "insertions": 864,
+            "deletions": 858
+          },
+          {
+            "hash": "09d9c231451bc3d3d2c6b9962db491e48a346662",
+            "message": "Refactored person package to subject",
+            "insertions": 169,
+            "deletions": 169
+          },
+          {
+            "hash": "21e235ca94b2a1dbbe634db3982029ff675fbe7e",
+            "message": "Refactored PersonBuilder to SubjectBuilder",
+            "insertions": 96,
+            "deletions": 96
+          },
+          {
+            "hash": "1edab4cd4e6951c65a82b3a68654380e58860192",
+            "message": "Refactored PersonUtil to SubjectUtil",
+            "insertions": 90,
+            "deletions": 88
+          },
+          {
+            "hash": "95b228911900598457a749ada71bd522b63ae020",
+            "message": "Refactored methods in Model from Person to Subject",
+            "insertions": 140,
+            "deletions": 140
+          },
+          {
+            "hash": "1b2e84fe07998595f151a8e64eedfa7450c3e4d3",
+            "message": "Refactored PersonCard to SubjectCard",
+            "insertions": 27,
+            "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 1097,
+        "deletions": 1023,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "3cb2a6930fc5d4b66e0359ce4e7cf57b2023675b",
+            "message": "Refactored Person/person in the remaining files to Subject/subject",
+            "insertions": 1097,
+            "deletions": 1023
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 220,
+        "deletions": 225,
         "date": "2019-03-21",
         "commitResults": [
           {
@@ -67,14 +351,259 @@
             "message": "Updated add, edit, and summary of UserGuide.adoc",
             "insertions": 9,
             "deletions": 11
+          },
+          {
+            "hash": "1356ac87b16a9a7e690e1ad8517795bea20dda90",
+            "message": "Refactored NameContainsKeywords to TopicContainsKeywords",
+            "insertions": 41,
+            "deletions": 39
+          },
+          {
+            "hash": "d8501dc24024cfbc30bc7af982a6889fe6e08c0e",
+            "message": "Refactored Name to Topic",
+            "insertions": 101,
+            "deletions": 101
           }
         ]
       },
       {
-        "insertions": 45,
-        "deletions": 51,
+        "insertions": 242,
+        "deletions": 240,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "279c6e35cf0d82c69944a5c5e844ccef3f58653f",
+            "message": "Refactored Name \u0026 Tag Prefixes to Topic \u0026 Subject",
+            "insertions": 53,
+            "deletions": 52
+          },
+          {
+            "hash": "550206ed15ae154f7a94d5e1ce5b153fb456a85c",
+            "message": "Refactored some methods for name to topic",
+            "insertions": 40,
+            "deletions": 40
+          },
+          {
+            "hash": "73f1352360da4f9b59238706235db7cee2691e91",
+            "message": "Refactored Tag class to Subject class",
+            "insertions": 75,
+            "deletions": 75
+          },
+          {
+            "hash": "37686e682b288d0b4a3eef59f733d0a25d793c8a",
+            "message": "Refactored tagName to subjectName",
+            "insertions": 22,
+            "deletions": 21
+          },
+          {
+            "hash": "e75c589d9c66c910d85afc10f0d6d6f03bc5044f",
+            "message": "Refactored some occurrences of Tag to Subject",
+            "insertions": 17,
+            "deletions": 17
+          },
+          {
+            "hash": "f14b39cd1b533bb352e6bf4cbb76418ef95d3b17",
+            "message": "Refactored Name field ID into Topic field ID",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "8541009ddfc4ff3317c2ead3c5125de40c42fc3a",
+            "message": "Refactored getName method to getTopic",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "14dd0da7392fa1ee8497d5ac1b36dd87b7193f26",
+            "message": "Refactored Tags field ID into Subject field ID",
+            "insertions": 27,
+            "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 77,
+        "deletions": 77,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "3d8690d7f876204cff10bfd9a5eda699cbcaa208",
+            "message": "Refactored Subject into SubjectTag",
+            "insertions": 77,
+            "deletions": 77
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 1130,
+        "deletions": 45,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "5eae497fafb5ac15ebb2b494f55027f9f5a71e3f",
+            "message": "UI: Added Subjects panel",
+            "insertions": 182,
+            "deletions": 1
+          },
+          {
+            "hash": "fc746186a54c8334bf6bc63a7cb100c0540beb18",
+            "message": "Model: Added Subject model",
+            "insertions": 333,
+            "deletions": 0
+          },
+          {
+            "hash": "dba138936f46d93e956cca234422d24e3b2803ee",
+            "message": "Model: Edited Subject tag field for Flashcard",
+            "insertions": 30,
+            "deletions": 7
+          },
+          {
+            "hash": "0d5f7097194895fb76c784c06f195abaf398954d",
+            "message": "Logic: Added functions for Subject Book",
+            "insertions": 55,
+            "deletions": 0
+          },
+          {
+            "hash": "b8800e8581522ebeef00f9957668d045911f12ef",
+            "message": "Model: Added functions for Subject Book",
+            "insertions": 143,
+            "deletions": 3
+          },
+          {
+            "hash": "46716da4b6dcd183c7775773941d4e0c0b31cbbe",
+            "message": "AddCommand: Adds a subject tag if it is unique",
+            "insertions": 23,
+            "deletions": 3
+          },
+          {
+            "hash": "0a3992b496d395a65960a72b93e2007f593c2bc8",
+            "message": "MainApp: Added initialSubjectBook to initModelManager",
+            "insertions": 13,
+            "deletions": 11
+          },
+          {
+            "hash": "d8c441e383e2eff0463d8e1a5583b9783b7a090e",
+            "message": "Storage: Added storage for Subject Book",
+            "insertions": 329,
+            "deletions": 2
+          },
+          {
+            "hash": "6db3baf0d0f4a9d3cf6703f1815df1f1711911ea",
+            "message": "Model Util: Edited list of sample flashcards",
+            "insertions": 22,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 87,
+        "deletions": 26,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "5026eb7eec88d40251829169d5b38eed26944f98",
+            "message": "UI: Displayed list of flashcards based on subject",
+            "insertions": 64,
+            "deletions": 7
+          },
+          {
+            "hash": "d7ea3aa44aa472214b5f60bb031e6ae0325564e0",
+            "message": "UI: Solved UI issues for displaying flashcards based on subject",
+            "insertions": 2,
+            "deletions": 14
+          },
+          {
+            "hash": "ce9ee105d24718f6b666d8a67c1c6b74d5123489",
+            "message": "Add: Updated the way of adding unique subjects",
+            "insertions": 21,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 641,
+        "deletions": 524,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "7ed5fd37affb65e4504a959de3c4c3e7ae1ef91d",
+            "message": "UI: Displays subjects in Subject panel on application start up",
+            "insertions": 32,
+            "deletions": 5
+          },
+          {
+            "hash": "515531c8c01264b88ccaec3270d4ad401109e3e2",
+            "message": "Storage: Edited subjectBookFilePath",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "7a574080e121f2690161e7e24282064a0f0e72b6",
+            "message": "ClearCommand: Clears Subject Book",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "3f7378b65bceb5b6d72d9262cf8547320b327b37",
+            "message": "Fixed Bug: Updating of Subject Book and filtered subjects list after a flashcard is added",
+            "insertions": 25,
+            "deletions": 63
+          },
+          {
+            "hash": "3d75d3989c7c7e148aba54883e1c91abf2e5ec7d",
+            "message": "Tests: Commented out tests",
+            "insertions": 563,
+            "deletions": 402
+          },
+          {
+            "hash": "6f6988b03b6cde7294991a8e05a9949358bee5a5",
+            "message": "Tests: Fixed checkstyle errors for application",
+            "insertions": 18,
+            "deletions": 52
+          }
+        ]
+      },
+      {
+        "insertions": 324,
+        "deletions": 467,
         "date": "2019-03-30",
         "commitResults": [
+          {
+            "hash": "e4f727a6f60c8673665a54f33a19dd39337747ea",
+            "message": "AddCommand: Updated sample add command",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c643666e38bee5edfb86f71e76f4b464b1950228",
+            "message": "Revert \"Merge branch \u0027master\u0027 into v1.3-UI\"",
+            "insertions": 114,
+            "deletions": 321
+          },
+          {
+            "hash": "14e2c156abfe612f9d57f39498069a5f102a0fb9",
+            "message": "Updated UserGuide.adoc",
+            "insertions": 164,
+            "deletions": 94
+          },
           {
             "hash": "d7776fe86971aae8a6ae1264c979c4346f14e328",
             "message": "Updated UserGuide.adoc",
@@ -85,9 +614,81 @@
       },
       {
         "insertions": 0,
-        "deletions": 8,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 252,
+        "deletions": 135,
         "date": "2019-04-02",
         "commitResults": [
+          {
+            "hash": "0f9ba713f8a749b05d4f8053f2e796964b045271",
+            "message": "DeveloperGuide: Updated Quizzing by Subject Feature",
+            "insertions": 110,
+            "deletions": 9
+          },
+          {
+            "hash": "4cfd15fd4f261bdefd7679e88a1f287e424e38b0",
+            "message": "DeveloperGuide: Fixed formatting issues",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "777402459fed7ba3f404c38ec2e0d2eeb0dde258",
+            "message": "DeveloperGuide: Fixed formatting issues",
+            "insertions": 18,
+            "deletions": 19
+          },
+          {
+            "hash": "8b739c456195b3fb2632ca4e8442560ce3fc3239",
+            "message": "DeveloperGuide: Added sequence diagrams",
+            "insertions": 16,
+            "deletions": 8
+          },
+          {
+            "hash": "10deda07113c9d352f3fc75077fcb977c2835dc9",
+            "message": "DeveloperGuide: Fixed formatting issues",
+            "insertions": 30,
+            "deletions": 30
+          },
+          {
+            "hash": "9347a058ed21eb9eef72b580b87ea1875e994add",
+            "message": "DeveloperGuide: Updated design considerations",
+            "insertions": 25,
+            "deletions": 3
+          },
+          {
+            "hash": "18ac795ad35180afff66cbc9d29dc12bdac496d4",
+            "message": "UserGuide: Updated \"add\" command",
+            "insertions": 28,
+            "deletions": 29
+          },
+          {
+            "hash": "a7ca9e206d4fb706404a0dcf88fed08ec0206be5",
+            "message": "DeveloperGuide: Added tags for Quizzing by Subject feature",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "af818a703915762c860c3347adb21a0f8bc73b27",
+            "message": "PP: Updated wanchinglim.adoc",
+            "insertions": 12,
+            "deletions": 18
+          },
+          {
+            "hash": "e7eb6d706205834d3d5e5e251e769540d601551c",
+            "message": "PP: Updated wanchinglim.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
           {
             "hash": "6fa1723d22496e4cda3bbe4bdd23ec4c4b730faf",
             "message": "DeveloperGuide: Fixed formatting issues",
@@ -95,9 +696,468 @@
             "deletions": 8
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 59,
+        "deletions": 41,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "12db7a3250bd6de69e29e230f8dba3141be9bac8",
+            "message": "Logic: Added getUpdatedFlashcardList",
+            "insertions": 14,
+            "deletions": 6
+          },
+          {
+            "hash": "0b4ff1fa6d15ac22f7425a417d87140ebda5489d",
+            "message": "Model: Added getUpdatedFlashcardList",
+            "insertions": 32,
+            "deletions": 12
+          },
+          {
+            "hash": "39208b831e7b707e42becfaa94d3b6c4be5a5127",
+            "message": "DeleteCommand: Deletes from flashcards in the selected subject instead of all flashcards",
+            "insertions": 13,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 604,
+        "deletions": 463,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "b7a6e43424da43f169b64103921ddbf50f2d1e44",
+            "message": "Model: Updated getUpdatedFlashcardList",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "18c5671138f571f210d25e607b84ca0c8ce3f53c",
+            "message": "EditCommand: Edits from flashcards in the selected subject instead of all flashcards",
+            "insertions": 11,
+            "deletions": 20
+          },
+          {
+            "hash": "82f1c2d244689caecd33100cfd0b9ad0f3ed6f5c",
+            "message": "FlashcardListPanel: Deleted unused subject list",
+            "insertions": 8,
+            "deletions": 19
+          },
+          {
+            "hash": "6aeb80296a0b18264838af7015a83c029b9ac1b4",
+            "message": "Fixed checkstyle",
+            "insertions": 44,
+            "deletions": 33
+          },
+          {
+            "hash": "364af40cb704393387bae5ceee40f7a71edf0043",
+            "message": "Created SubjectTagBuilder in Tests",
+            "insertions": 49,
+            "deletions": 0
+          },
+          {
+            "hash": "290ce0f4efb9ca91d3bc1ab44f93d37769ced282",
+            "message": "Created TypicalSubjects in Test",
+            "insertions": 57,
+            "deletions": 0
+          },
+          {
+            "hash": "10197848db6056fe5ed1ef3d5c2225a5d0a8b1dd",
+            "message": "DeleteCommandTest: Updated",
+            "insertions": 33,
+            "deletions": 29
+          },
+          {
+            "hash": "2c0d73eb40f8087d23b2cc887f0c97d3cd053eb8",
+            "message": "Fixed checkstyle for tests",
+            "insertions": 11,
+            "deletions": 19
+          },
+          {
+            "hash": "ed1b5aa06acc1a3878c74a27da611ad52c01a0e9",
+            "message": "SubjectTagBuilder: Updated build()",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "76e70981c9ea02798652c3ee950870805731d952",
+            "message": "TypicalFlashcards: Refactored tests from address book\u0027s to flashcards",
+            "insertions": 39,
+            "deletions": 32
+          },
+          {
+            "hash": "a396ff7140961bef2998f24289200b21420f7494",
+            "message": "Tests: Updated tests from persons to flashcards",
+            "insertions": 78,
+            "deletions": 78
+          },
+          {
+            "hash": "fc93c0683e1a83855429354655f6ee6f36d13b63",
+            "message": "DeleteCommandTest: Fixed",
+            "insertions": 21,
+            "deletions": 5
+          },
+          {
+            "hash": "bef47963007c70277ffc8eeb52ae8ca30b05602e",
+            "message": "CommandTestUtil: Refactored person to flashcards",
+            "insertions": 32,
+            "deletions": 32
+          },
+          {
+            "hash": "888b512070fcfa86019d1a99674d5195fc9f6222",
+            "message": "TypicalFlashcards: Updated",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e05f0d76a39c5e9af083a00486176661f4ac3029",
+            "message": "Test: Updated tests from persons to flashcards",
+            "insertions": 184,
+            "deletions": 172
+          },
+          {
+            "hash": "2ad8e9778a411cdd700764fffa5f4c929d860699",
+            "message": "FlashcardTest: Fixed tests",
+            "insertions": 23,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 409,
+        "deletions": 277,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "33a342f76bc38ec8e373f462800e4e034fe65d74",
+            "message": "Flashcard: Removed irrelevant index",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "8587d3dc31744e8dfea9fb593397c78e8335c71f",
+            "message": "EditCommandTest: Updated tests",
+            "insertions": 69,
+            "deletions": 44
+          },
+          {
+            "hash": "cd77e4a1dc74980d14e9241c9b0c901a92c7cb35",
+            "message": "Fixed checkstyle",
+            "insertions": 18,
+            "deletions": 13
+          },
+          {
+            "hash": "b37a776515dca4698b7ba68d546e3e24981e4ad8",
+            "message": "AddCommandTest: Updated tests",
+            "insertions": 59,
+            "deletions": 39
+          },
+          {
+            "hash": "a5801df94068bf5191a302d83e9d7c9a1fbe20ff",
+            "message": "FlashcardBuilder: Updated default flashcard",
+            "insertions": 9,
+            "deletions": 4
+          },
+          {
+            "hash": "638819dd8a78891c85fb523719c5352b61ed0be5",
+            "message": "AddCommandIntegrationTest: Updated tests",
+            "insertions": 18,
+            "deletions": 16
+          },
+          {
+            "hash": "a76a3dcf1e6b106b49274468867b75354b05498f",
+            "message": "FlashcardCardTest: Updated tests",
+            "insertions": 1,
+            "deletions": 7
+          },
+          {
+            "hash": "a9e86ecced1ef75f3ed628356bbca86e9ca76241",
+            "message": "AddCommandParserTest: Updated tests",
+            "insertions": 4,
+            "deletions": 11
+          },
+          {
+            "hash": "91f220e7106518b216bdd6c94e639f4862c02144",
+            "message": "Fixed checkstyle",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "a654780cbb0ae485db9703f6b72aa47d7d0d6eca",
+            "message": "Flashcard: Updated same flashcard",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bfd7317ffbe7041067a8393e288aa57a018dad35",
+            "message": "EditCommandTest: Updated tests",
+            "insertions": 26,
+            "deletions": 15
+          },
+          {
+            "hash": "d571fe479a1690acc7ba420d301386deb280c8b5",
+            "message": "Fixed checkstyle",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "d546f27d89268486f30072fd62b442a4284b7150",
+            "message": "TypicalFlashcards: Updated sample flashcards (for manually added)",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "9ad8356e211b6661ab8eefe0a7f179d8c962a2c7",
+            "message": "JsonFlashBookStorageTest: Updated tests",
+            "insertions": 9,
+            "deletions": 11
+          },
+          {
+            "hash": "25e3ef11d6ba7814f444c5684156bd2c9f0046da",
+            "message": "UniqueFlashcardListTest: Updated tests",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "5f5e382cbf735800b97b250728c7ea51b6db90ec",
+            "message": "FlashcardTest: Updated tests",
+            "insertions": 20,
+            "deletions": 12
+          },
+          {
+            "hash": "2020f8ba545cff4921cb90de08d19cfb9039a6a3",
+            "message": "FlashBookTest: Updated tests",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "a6992d1923d24195352a1db36bb48d445e036bde",
+            "message": "duplicateFlashcardFlashBook.json: Updated fields",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "a34b78aab51cfcd05c9b17727437e834769d7cf0",
+            "message": "typicalFlashcardsFlashBook.json: Updated fields",
+            "insertions": 33,
+            "deletions": 33
+          },
+          {
+            "hash": "a525ec763075b3838724fc3244087eb0e2150ed1",
+            "message": "EditCommandTest: Updated tests",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "044caf71c6574025dd0017651990bad12c332b1d",
+            "message": "TypicalFlashcards: Updated flashcard samples",
+            "insertions": 9,
+            "deletions": 3
+          },
+          {
+            "hash": "c83ac3f473a8a43e3f176ec8a8fd88a607ea371a",
+            "message": "JsonSerializableFlashBookTest: Updated",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "eda1709df1198a9f470c56be594ff8e1639e8bbd",
+            "message": "StorageManagerTest: Updated tests",
+            "insertions": 4,
+            "deletions": 8
+          },
+          {
+            "hash": "5c9ebc11237685ac8b6970715436f93e8c03e68a",
+            "message": "Created SubjectBookBuilder test",
+            "insertions": 35,
+            "deletions": 0
+          },
+          {
+            "hash": "5f5c4a5c24ef9edb7b94459e88a9b81ff73680e2",
+            "message": "ModelManagerTest: Updated tests",
+            "insertions": 16,
+            "deletions": 12
+          },
+          {
+            "hash": "2da827733758b508b0145679aa25082c3da61fe1",
+            "message": "FlashcardListPanelTest: Updated tests",
+            "insertions": 17,
+            "deletions": 15
+          },
+          {
+            "hash": "40544636f16f31ebc1f66c221c9f2cbffd5b24e1",
+            "message": "Configured reposense",
+            "insertions": 30,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "jemine1998": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
       {
         "insertions": 387,
         "deletions": 117,
@@ -143,6 +1203,48 @@
         ]
       },
       {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
         "insertions": 3,
         "deletions": 4,
         "date": "2019-03-12",
@@ -162,6 +1264,12 @@
         ]
       },
       {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
         "insertions": 263,
         "deletions": 15,
         "date": "2019-03-14",
@@ -173,6 +1281,18 @@
             "deletions": 15
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
       },
       {
         "insertions": 101,
@@ -192,6 +1312,66 @@
             "deletions": 7
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
       },
       {
         "insertions": 186,
@@ -258,6 +1438,12 @@
         ]
       },
       {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
         "insertions": 266,
         "deletions": 52,
         "date": "2019-04-02",
@@ -287,6 +1473,30 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
       },
       {
         "insertions": 283,
@@ -332,9 +1542,64 @@
             "deletions": 28
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
       }
     ],
     "dannong": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 1,
+        "deletions": 0,
+        "date": "2019-02-14",
+        "commitResults": [
+          {
+            "hash": "694d0fb73a69da01e8b9641abedef4b64cbf5e0c",
+            "message": "testing push commit, should be linked to Travis build",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
       {
         "insertions": 59,
         "deletions": 22,
@@ -423,23 +1688,170 @@
         ]
       },
       {
-        "insertions": 11,
-        "deletions": 10,
+        "insertions": 31,
+        "deletions": 32,
         "date": "2019-02-19",
         "commitResults": [
+          {
+            "hash": "2a3d4f492077a06dc9bb2b1519de83bbcd28f941",
+            "message": "Updated: - build.gradle (FlashCards \u0026 url) - README (FlashCards \u0026 Travis \u0026 Coveralls) - DeveloperGuide (repoURL) - UserGuide (repoURL)",
+            "insertions": 10,
+            "deletions": 11
+          },
           {
             "hash": "2100e3256ad9562ca9992851a0d400b974712d9c",
             "message": "Revert \"Updates:\"",
             "insertions": 11,
             "deletions": 10
+          },
+          {
+            "hash": "044876cf771b9b33096dcd02df666ef5f26c17f4",
+            "message": "Update build.gradle (site name \u0026 url)",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "191073a863a6e19d1773a89f1eea70a4928caacf",
+            "message": "Update Read Me (repoURL)",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "1d19070eac8d040a98098cbea0925afb292fd010",
+            "message": "Update Developer Guide (repoURL)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7167e2becc0e6e255c452787ab25e4150b57be25",
+            "message": "Update User Guide (repoURL)",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       },
       {
-        "insertions": 4,
-        "deletions": 4,
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 252,
+        "deletions": 49,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "c8c57d4709cfffc43263447686a3fc30a35349e9",
+            "message": "Update Developer Guide",
+            "insertions": 175,
+            "deletions": 33
+          },
+          {
+            "hash": "6dd3358f98590fa7ab7e85605c3f087cd48864df",
+            "message": "Logic: Add Alias for Find, Clear, Delete, Edit and List Commands",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "846e8e50cdcddda242ae3115e2d17aae1f4a6363",
+            "message": "Logic: Add Tests for Commands",
+            "insertions": 52,
+            "deletions": 0
+          },
+          {
+            "hash": "4cff44951fe6fa717b1a673305ccc33db52c3d42",
+            "message": "Logic: Add Alias in User Guide",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "acc4b44aa2df2578aa0a6b9eb849b9a7641faecf",
+            "message": "Logic: Add Alias in User Guide (2)",
+            "insertions": 14,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 601,
+        "deletions": 33,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "5514f7f44e12e71eb4088eeeebca3b449d7dd674",
+            "message": "Global - Add a Deadline/Exams Command",
+            "insertions": 601,
+            "deletions": 33
+          }
+        ]
+      },
+      {
+        "insertions": 47,
+        "deletions": 70,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "bd02a7448c2bef787943f19b8d88090d79598bf5",
+            "message": "Global - Add a Deadline/Exam Command",
+            "insertions": 47,
+            "deletions": 70
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 98,
+        "deletions": 82,
         "date": "2019-03-03",
         "commitResults": [
+          {
+            "hash": "c8eed61e94a89425c6636d02fd94f4cd464bb087",
+            "message": "Updated photo for project list, aboutus, contactus and user guide",
+            "insertions": 94,
+            "deletions": 78
+          },
           {
             "hash": "97f930e0beacb56e10fe712f81cbabb2f1cda6b1",
             "message": "Update photo for project list",
@@ -455,6 +1867,105 @@
         ]
       },
       {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "2858dd22b066159ba6e3a9b4c55a175e449f626b",
+            "message": "Remove coveralls badge",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 14,
+        "deletions": 1,
+        "date": "2019-03-07",
+        "commitResults": [
+          {
+            "hash": "b3b179816428fec6d4a3c975cfaaf684b3b08261",
+            "message": "Update User Guide (preface \u0026 outcomes)",
+            "insertions": 14,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 13,
+        "deletions": 4,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "8521928f9044b807495e5bc3e72c6794a4346a92",
+            "message": "Added new StackPane for cardPlaceholder",
+            "insertions": 13,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
         "insertions": 25,
         "deletions": 22,
         "date": "2019-03-17",
@@ -468,8 +1979,20 @@
         ]
       },
       {
-        "insertions": 22,
-        "deletions": 25,
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 46,
+        "deletions": 47,
         "date": "2019-03-20",
         "commitResults": [
           {
@@ -477,14 +2000,560 @@
             "message": "Revert Developer Guide",
             "insertions": 22,
             "deletions": 25
+          },
+          {
+            "hash": "6c3e6253a32e9e4a34c720822a3f03a838eb0ce0",
+            "message": "Update Developer Guide (Shelf-Life of FlashCards)",
+            "insertions": 24,
+            "deletions": 22
           }
         ]
       },
       {
-        "insertions": 1,
-        "deletions": 1,
+        "insertions": 2396,
+        "deletions": 2370,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "44586895d52c49fa6480a0d74ae824bd864c536c",
+            "message": "Refactored Subjects in SystemTests to Flashcards",
+            "insertions": 297,
+            "deletions": 289
+          },
+          {
+            "hash": "c7e5c27a0d921eb8e57ac866eb4d29a8ce037f08",
+            "message": "Refactored Subjects in Logic to Flashcards",
+            "insertions": 175,
+            "deletions": 173
+          },
+          {
+            "hash": "2165704ce5be91278488c9b64ca1ac19822b1580",
+            "message": "Refactored Subjects in Commons to Flashcards",
+            "insertions": 30,
+            "deletions": 30
+          },
+          {
+            "hash": "d9adf99852e847477ceb968d44e163883fd802ec",
+            "message": "Refactored Subjects in Model to Flashcards",
+            "insertions": 320,
+            "deletions": 320
+          },
+          {
+            "hash": "5340a19515da292d4e131d9e8b03afb5a9c48724",
+            "message": "Refactored Subjects in Storage to Flashcards",
+            "insertions": 36,
+            "deletions": 35
+          },
+          {
+            "hash": "9c430d5ddb35df333c16988d9e68e83958d33d8c",
+            "message": "Refactored Subjects in UI to Flashcards",
+            "insertions": 115,
+            "deletions": 114
+          },
+          {
+            "hash": "a4c9891d1fe752594444ccb5c1cd4bd05ad750a7",
+            "message": "Refactored Subjects in test/data to Flashcards",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "77c54962adc199b5fb5ffe73e004a1cd10bf9acd",
+            "message": "Refactored Subjects in Guitests to Flashcards",
+            "insertions": 68,
+            "deletions": 67
+          },
+          {
+            "hash": "aba9eaa7879b5a36b37948dc252b151f38d0636f",
+            "message": "Refactored Subjects in test/UI to Flashcards",
+            "insertions": 211,
+            "deletions": 208
+          },
+          {
+            "hash": "9fa970ce4c6695099c5872f9e30f1e91a0610979",
+            "message": "Refactored Subjects in TestUtil to Flashcards",
+            "insertions": 246,
+            "deletions": 246
+          },
+          {
+            "hash": "1a7f407e206c05ec846be95a1b3db763c905840c",
+            "message": "Refactored Subjects in test/storage to Flashcards",
+            "insertions": 47,
+            "deletions": 47
+          },
+          {
+            "hash": "cbbd06a3f944609c890676fe6db6fdc798c9fc49",
+            "message": "Refactored Subjects in test/model to Flashcards",
+            "insertions": 315,
+            "deletions": 314
+          },
+          {
+            "hash": "0498b5276a8d75a6b4ac00f16d3b6780a5719ec6",
+            "message": "Refactored Subjects in test/logic to Flashcards",
+            "insertions": 437,
+            "deletions": 429
+          },
+          {
+            "hash": "49d4e1256eb916a93f9f85385d0a14e9d8c5fd69",
+            "message": "Refactored Subjects in remaining tests to Flashcards",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "effdce9fb9ba66f89f8528a4d86330e0ced744ab",
+            "message": "Refactored Subjects in Resources to Flashcards",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "1be04a9c2842bb7a5ccd7aa4ae697c52df830029",
+            "message": "Refactored Subjects in Docs to Flashcards",
+            "insertions": 77,
+            "deletions": 76
+          }
+        ]
+      },
+      {
+        "insertions": 464,
+        "deletions": 464,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "bba5d203f0239c642295adb32e2890c972a3038e",
+            "message": "Refactored Name in Logic to Topic",
+            "insertions": 43,
+            "deletions": 43
+          },
+          {
+            "hash": "118331d06c249c4fd8d22a2354a319056361d8cb",
+            "message": "Refactored Name in Model to Topic",
+            "insertions": 41,
+            "deletions": 41
+          },
+          {
+            "hash": "d06113b5a9a9e60b4c90e039c4999d56f70d613f",
+            "message": "Refactored Name in Storage to Topic",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "f0c3166b7a5e6a94650606ed8a7751f97a939002",
+            "message": "Refactored Name in UI to Topic",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "cb5cad415d1d7ae8413f7fd6d4ccda1a5419068d",
+            "message": "Refactored Name in Resources to Topic",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7d75ded354696d5ebc4536cd398067cbfa7d64b2",
+            "message": "Refactored Name in Systemtests to Topic",
+            "insertions": 62,
+            "deletions": 62
+          },
+          {
+            "hash": "deddec00c511e9a8af0a995cc65feb8a722ae194",
+            "message": "Refactored Name in test/UI to Topic",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "935d3b852e9ee32eadc97fe625ea798ec6019984",
+            "message": "Refactored Name in Testutil to Topic",
+            "insertions": 33,
+            "deletions": 33
+          },
+          {
+            "hash": "972390a5094d03b5b96c5a1d55829883452e4e74",
+            "message": "Refactored Name in test/Storage to Topic",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "d487e7bef32f439575919234043441997200c81e",
+            "message": "Refactored Name in test/Model to Topic",
+            "insertions": 127,
+            "deletions": 127
+          },
+          {
+            "hash": "9a252da8e20baf4a1db76da10514d8eb81d1fb5e",
+            "message": "Refactored Name in test/Logic to Topic",
+            "insertions": 99,
+            "deletions": 99
+          },
+          {
+            "hash": "165f5c94cec037600c920cae3735788cb26cb0c0",
+            "message": "Refactored Name in remaining tests to Topic",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "d0348b6d35fd193569fbffdcae058ac78ad67ab1",
+            "message": "Refactored Name in Guitests to Topic",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "37a562b148b3fd3066e82a685394a68840832470",
+            "message": "Refactored Name in test/Commons to Topic",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 50,
+        "deletions": 48,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "b4c4cbeaf44e1a629abc5b140c16cf0363b1901e",
+            "message": "Changes to comply with Checkstyle tests",
+            "insertions": 50,
+            "deletions": 48
+          }
+        ]
+      },
+      {
+        "insertions": 2120,
+        "deletions": 2483,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "250747f3477bc6f08927b637afc9ea756efe6125",
+            "message": "Refactored Phone in Logic to Difficulty",
+            "insertions": 42,
+            "deletions": 38
+          },
+          {
+            "hash": "60f2e86603d3a3be18c9a47d448580a1a7ef9c46",
+            "message": "Refactored Phone in Model to Difficulty",
+            "insertions": 73,
+            "deletions": 71
+          },
+          {
+            "hash": "e90074b1af6158879c611edc9388841059d1ef0e",
+            "message": "Refactored Phone in Storage to Difficulty",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "7aafc85f108bd48651cedc80276f0b180449b5d0",
+            "message": "Refactored Phone in UI to Difficulty",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "759e8c27d82d10a5ab6f74f9675c4865f89afc2a",
+            "message": "Refactored Phone in Resources to Difficulty",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "46990f0aad9ca4ad9bc1fffd3c5be00f1776b4cb",
+            "message": "Refactored Phone in test/Logic to Difficulty",
+            "insertions": 100,
+            "deletions": 89
+          },
+          {
+            "hash": "2df57f5864c439e2beebf2133ee2f9a85d4a0862",
+            "message": "Refactored Phone in test/Model to Difficulty",
+            "insertions": 51,
+            "deletions": 51
+          },
+          {
+            "hash": "2f1dc43775f79dd482fb857d07c343333fe1e0e6",
+            "message": "Refactored Phone in SystemTests to Difficulty",
+            "insertions": 63,
+            "deletions": 46
+          },
+          {
+            "hash": "b2b78ddf76dee323476959f1824233c3592aaf98",
+            "message": "Refactored Phone in test/Storage to Difficulty",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "db3e6c21d59c8ac51ed5b21b1c5a9f9c39141072",
+            "message": "Refactored Phone in TestUtils to Difficulty",
+            "insertions": 33,
+            "deletions": 30
+          },
+          {
+            "hash": "5721dc360248ca280979dd79c09c7193736ef782",
+            "message": "Refactored Phone in test/UI to Difficulty",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "2b56bc5f090fbff53acad0ca6e380f861db42f1b",
+            "message": "Refactored Phone in remaining tests to Difficulty",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "0112f35b274d5a42762c1011d3b8cb676c770fe8",
+            "message": "Refactored Address Book in SystemTests to Flash Book",
+            "insertions": 95,
+            "deletions": 95
+          },
+          {
+            "hash": "47739abb56563544a1d3dfc66317c42d96f65236",
+            "message": "Refactored Address Book in test/UI to Flash Book",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "371daeec27481be80686974f989008250cb75682",
+            "message": "Refactored Address Book in TestUtil to Flash Book",
+            "insertions": 38,
+            "deletions": 38
+          },
+          {
+            "hash": "faf6c6389f563d7b509c72cedbb427a529caf7e6",
+            "message": "Refactored Address Book in test/Storage to Flash Book",
+            "insertions": 155,
+            "deletions": 155
+          },
+          {
+            "hash": "e07a30b8a46a4fa4b5e066fa75b948d6cbf33cad",
+            "message": "Refactored Address Book in test/Model to Flash Book",
+            "insertions": 349,
+            "deletions": 349
+          },
+          {
+            "hash": "691e5a5c9dfde5fb306b704a0294db0ce6652def",
+            "message": "Refactored Address Book in test/Logic to Flash Book",
+            "insertions": 143,
+            "deletions": 143
+          },
+          {
+            "hash": "e0ac6a5487fb224b43713181201478e082f1b860",
+            "message": "Refactored Address Book in remaining tests to Flash Book",
+            "insertions": 17,
+            "deletions": 17
+          },
+          {
+            "hash": "925629b216e87a342eac06891ead76507b5d5698",
+            "message": "Refactored Address Book in UI to Flash Book",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "88330f47c02344eae737468de613ccaba2685a4a",
+            "message": "Refactored Address Book in Storage to Flash Book",
+            "insertions": 103,
+            "deletions": 102
+          },
+          {
+            "hash": "143485c12def63bd9db3326fd7b95e1288d5c01f",
+            "message": "Refactored Address Book in Model to Flash Book",
+            "insertions": 210,
+            "deletions": 210
+          },
+          {
+            "hash": "1bab1088e437768551c3d1b255dadc945ab8e2ae",
+            "message": "Refactored Address Book in Logic to Flash Book",
+            "insertions": 45,
+            "deletions": 45
+          },
+          {
+            "hash": "d0a51ce5609de53561e6c9cdb749c9c027a8ad97",
+            "message": "Refactored Address Book in MainApp \u0026 Commons to Flash Book",
+            "insertions": 42,
+            "deletions": 42
+          },
+          {
+            "hash": "f030b8128b17cd1b1c7d953b5d168ba8aa8704ca",
+            "message": "Refactored Address in SystemTests to Content",
+            "insertions": 40,
+            "deletions": 40
+          },
+          {
+            "hash": "15344380dee56370f907da1a596af750d58990cd",
+            "message": "Refactored Address in test/UI to Content",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "f35628ee3c4f76fc0aa242e6aeea15ba957de13e",
+            "message": "Refactored Address in TestUtil to Content",
+            "insertions": 30,
+            "deletions": 30
+          },
+          {
+            "hash": "188eeb101a9021a9cbbdd79b691cf004528243ca",
+            "message": "Refactored Address in test/Storage to Content",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "62c05e991bc31606895fcf97c19811189a9ac106",
+            "message": "Refactored Address in test/Model to Content",
+            "insertions": 52,
+            "deletions": 51
+          },
+          {
+            "hash": "3540b07975ed3dbbecb1a984eb45e02aa4b43b8e",
+            "message": "Refactored Address in test/Logic to Content",
+            "insertions": 75,
+            "deletions": 75
+          },
+          {
+            "hash": "f9a78395d523fff4657b4790019a9622078bbf15",
+            "message": "Refactored Address in remaining tests to Content",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "8c363b3a30815bf860f6143b29368c8f522c2704",
+            "message": "Refactored Address in Resources to Content",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d671ee7b48383f124d34253f1b00936da5f9dbce",
+            "message": "Refactored Address in UI to Content",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4680379faa91672100a414e774e317aa98dc82a3",
+            "message": "Refactored Address in Storage to Content",
+            "insertions": 11,
+            "deletions": 11
+          },
+          {
+            "hash": "52c66715127bd9455aa3e41f315b5f7df3940803",
+            "message": "Refactored Address in Model to Content",
+            "insertions": 32,
+            "deletions": 32
+          },
+          {
+            "hash": "fdad345918ed2af45c4b95c8841ef4c7b4602dbd",
+            "message": "Refactored Address in Logic to Content",
+            "insertions": 38,
+            "deletions": 38
+          },
+          {
+            "hash": "ddefd155478839392dccce4b9cde2c8827d8c6a2",
+            "message": "Update Docs after refactoring",
+            "insertions": 17,
+            "deletions": 17
+          },
+          {
+            "hash": "a43dedf4b0c227525d0fc6ec76c8d584d3c3ba60",
+            "message": "Delete Email Field",
+            "insertions": 159,
+            "deletions": 562
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 409,
+        "deletions": 13,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "3a0d23c13fedc378b4e5dc577c62b438f00d451b",
+            "message": "GUI layout for Right Most Panel",
+            "insertions": 409,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 145,
+        "deletions": 313,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "803fa5067a1de4691e7688320cae24f406f17f0c",
+            "message": "GUI display of Topic and Content",
+            "insertions": 125,
+            "deletions": 269
+          },
+          {
+            "hash": "2e4f808ef1ee6d57822276075feb5eaa8580a348",
+            "message": "Changes to comply with CheckStyle tests.",
+            "insertions": 15,
+            "deletions": 40
+          },
+          {
+            "hash": "d5a8f0723727d364da115d54d6f96caa03cce3b7",
+            "message": "Update Developer Guide",
+            "insertions": 5,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 92,
+        "deletions": 58,
         "date": "2019-04-02",
         "commitResults": [
+          {
+            "hash": "7ad48dd3627e9303a645f049851a2288f5dbe86f",
+            "message": "Change colours of GUI display in the last panel",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "f24ed3333d75db391d8296ca43c9a0e19c447470",
+            "message": "Update Developer Guide 2",
+            "insertions": 14,
+            "deletions": 9
+          },
+          {
+            "hash": "08a3d2fd8ed00f7d59a9ea190833d63cf5f594d4",
+            "message": "Update docs for submission v1.3",
+            "insertions": 69,
+            "deletions": 41
+          },
+          {
+            "hash": "8ed4e5a26e97bdd9077ba81b232497ee24e61a04",
+            "message": "Changes to comply with checkstyle tests",
+            "insertions": 3,
+            "deletions": 3
+          },
           {
             "hash": "cda6e7276b5214511d8011a2ed109e0a072d6304",
             "message": "Update UserGuide.adoc",
@@ -492,6 +2561,18 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
       },
       {
         "insertions": 1,
@@ -505,71 +2586,54 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "wanchinglim": 196,
-    "jemine1998": 1361,
-    "dannong": 7
-  },
-  "authorFileFormatContributionMap": {
-    "wanchinglim": {
-      "adoc": 196,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "jemine1998": {
-      "adoc": 252,
-      "cs": 0,
-      "css": 0,
-      "fxml": 1,
-      "gradle": 0,
-      "html": 0,
-      "java": 1099,
-      "js": 0,
-      "json": 9,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "dannong": {
-      "adoc": 7,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    }
+    "wanchinglim": 3090,
+    "jemine1998": 1314,
+    "dannong": 4478
   },
   "authorContributionVariance": {
-    "wanchinglim": 2449.0334,
-    "jemine1998": 11136.201,
-    "dannong": 1701.9692
+    "wanchinglim": 254630.25,
+    "jemine1998": 10827.107,
+    "dannong": 703152.94
   },
   "authorDisplayNameMap": {
     "wanchinglim": "LIM...ING",

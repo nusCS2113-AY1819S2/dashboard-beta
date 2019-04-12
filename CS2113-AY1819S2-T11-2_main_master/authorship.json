@@ -977,9 +977,9 @@
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "image::mainClassDiagram.png[]"
+        "content": "image::ClassDiagram.png[]"
       },
       {
         "lineNumber": 36,
@@ -4681,9 +4681,9 @@
     "authorContributionMap": {
       "liguanlong": 81,
       "shawn-t": 29,
-      "-": 270,
+      "-": 269,
       "matthiaslum": 103,
-      "WuPeiHsuan": 80
+      "WuPeiHsuan": 81
     }
   },
   {
@@ -9803,58 +9803,58 @@
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "** Community:"
+        "content": "*** Drew the class diagram."
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "-"
         },
-        "content": "*** PRs reviewed (with non-trivial review comments)"
+        "content": "** Community:"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "-"
         },
-        "content": "*** Contributed to forum discussions"
+        "content": "*** PRs reviewed (with non-trivial review comments)"
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "-"
         },
-        "content": "*** Reported bugs and suggestions for other teams in the class"
+        "content": "*** Contributed to forum discussions"
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "-"
         },
-        "content": "*** Some parts of the history feature I added was adopted by several other class mates"
+        "content": "*** Reported bugs and suggestions for other teams in the class"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "-"
         },
-        "content": "** Tools:"
+        "content": "*** Some parts of the history feature I added was adopted by several other class mates"
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "-"
         },
-        "content": "*** Enable Travis CI for the team repo."
+        "content": "** Tools:"
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "*** Enable Travis CI for the team repo."
       },
       {
         "lineNumber": 45,
@@ -9875,14 +9875,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Contributions to the User Guide"
+        "content": ""
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d Contributions to the User Guide"
       },
       {
         "lineNumber": 49,
@@ -9896,266 +9896,266 @@
         "author": {
           "gitId": "-"
         },
-        "content": "|\u003d\u003d\u003d"
+        "content": ""
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "-"
         },
-        "content": "|_Given below are sections I contributed to the User Guide. They showcase my ability to write documentation targeting end-users._"
+        "content": "|\u003d\u003d\u003d"
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "-"
         },
-        "content": "|\u003d\u003d\u003d"
+        "content": "|_Given below are sections I contributed to the User Guide. They showcase my ability to write documentation targeting end-users._"
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "|\u003d\u003d\u003d"
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Listing all persons in sorted order : `sort`"
+        "content": ""
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d Listing all persons in sorted order : `sort`"
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "-"
         },
-        "content": "Shows a list of all persons sorted by desired attribute in alphabetical order in the address book. +"
+        "content": ""
       },
       {
         "lineNumber": 57,
         "author": {
           "gitId": "-"
         },
-        "content": "Desired attribute could be name, appointment or status. +"
+        "content": "Shows a list of all persons sorted by desired attribute in alphabetical order in the address book. +"
       },
       {
         "lineNumber": 58,
         "author": {
           "gitId": "-"
         },
-        "content": "Format: `sort DESIRED_ATTRIBUTE`"
+        "content": "Desired attribute could be name, appointment or status. +"
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Format: `sort DESIRED_ATTRIBUTE`"
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "-"
         },
-        "content": "Examples:"
+        "content": ""
       },
       {
         "lineNumber": 61,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Examples:"
       },
       {
         "lineNumber": 62,
         "author": {
           "gitId": "-"
         },
-        "content": "* `sort name` +"
+        "content": ""
       },
       {
         "lineNumber": 63,
         "author": {
           "gitId": "-"
         },
-        "content": "Shows a list of all persons sorted by name in alphabetical order in the address book."
+        "content": "* `sort name` +"
       },
       {
         "lineNumber": 64,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Shows a list of all persons sorted by name in alphabetical order in the address book."
       },
       {
         "lineNumber": 65,
         "author": {
           "gitId": "-"
         },
-        "content": "* `sort status` +"
+        "content": ""
       },
       {
         "lineNumber": 66,
         "author": {
           "gitId": "-"
         },
-        "content": "Shows a list of all persons sorted by status according to the degree of urgency in the address book."
+        "content": "* `sort status` +"
       },
       {
         "lineNumber": 67,
         "author": {
           "gitId": "-"
         },
-        "content": "The sequence of the status in this order is as follows: Critical, Waiting for Surgery, Life-support, Waiting for doctor appointment, Therapy and Observation."
+        "content": "Shows a list of all persons sorted by status according to the degree of urgency in the address book."
       },
       {
         "lineNumber": 68,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "The sequence of the status in this order is as follows: Critical, Waiting for Surgery, Life-support, Waiting for doctor appointment, Therapy and Observation."
       },
       {
         "lineNumber": 69,
         "author": {
           "gitId": "-"
         },
-        "content": "* `sort appointment` +"
+        "content": ""
       },
       {
         "lineNumber": 70,
         "author": {
           "gitId": "-"
         },
-        "content": "Shows a list of all persons sorted by appointment date in chronological order in the address book."
+        "content": "* `sort appointment` +"
       },
       {
         "lineNumber": 71,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Shows a list of all persons sorted by appointment date in chronological order in the address book."
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Contributions to the Developer Guide"
+        "content": ""
       },
       {
         "lineNumber": 73,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d Contributions to the Developer Guide"
       },
       {
         "lineNumber": 74,
         "author": {
           "gitId": "-"
         },
-        "content": "|\u003d\u003d\u003d"
+        "content": ""
       },
       {
         "lineNumber": 75,
         "author": {
           "gitId": "-"
         },
-        "content": "|_Given below are sections I contributed to the Developer Guide. They showcase my ability to write technical documentation and the technical depth of my contributions to the project._"
+        "content": "|\u003d\u003d\u003d"
       },
       {
         "lineNumber": 76,
         "author": {
           "gitId": "-"
         },
-        "content": "|\u003d\u003d\u003d"
+        "content": "|_Given below are sections I contributed to the Developer Guide. They showcase my ability to write technical documentation and the technical depth of my contributions to the project._"
       },
       {
         "lineNumber": 77,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "|\u003d\u003d\u003d"
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d Testing"
+        "content": ""
       },
       {
         "lineNumber": 79,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "\u003d\u003d Design"
       },
       {
         "lineNumber": 80,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "\u003d\u003d\u003d Running Tests"
+        "content": ""
       },
       {
         "lineNumber": 81,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "image::ClassDiagram.png[]"
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "There are two ways to run tests."
+        "content": ""
       },
       {
         "lineNumber": 83,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "\u003d\u003d Testing"
       },
       {
         "lineNumber": 84,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "*Method 1: Using IntelliJ JUnit test runner*"
+        "content": ""
       },
       {
         "lineNumber": 85,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d Running Tests"
       },
       {
         "lineNumber": 86,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "* To run all tests, right-click on the `src/test/java` folder and choose `Run \u0027All Tests\u0027`"
+        "content": ""
       },
       {
         "lineNumber": 87,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "* To run a subset of tests, you can right-click on a test package, test class, or a test and choose `Run \u0027ABC\u0027`"
+        "content": "There are two ways to run tests."
       },
       {
         "lineNumber": 88,
@@ -10169,7 +10169,7 @@
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "*Method 2: Using Gradle*"
+        "content": "*Method 1: Using IntelliJ JUnit test runner*"
       },
       {
         "lineNumber": 90,
@@ -10183,126 +10183,126 @@
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "* Open a console and run the command `gradlew clean allTests` (Mac/Linux: `./gradlew clean allTests`)"
+        "content": "* To run all tests, right-click on the `src/test/java` folder and choose `Run \u0027All Tests\u0027`"
       },
       {
         "lineNumber": 92,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "* To run a subset of tests, you can right-click on a test package, test class, or a test and choose `Run \u0027ABC\u0027`"
       },
       {
         "lineNumber": 93,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "\u003d\u003d\u003d Types of tests"
+        "content": ""
       },
       {
         "lineNumber": 94,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "*Method 2: Using Gradle*"
       },
       {
         "lineNumber": 95,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ".  *Non-GUI Tests* - These are tests not involving the GUI. They include,"
+        "content": ""
       },
       {
         "lineNumber": 96,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "..  _Unit tests_ targeting the lowest level methods/classes. +"
+        "content": "* Open a console and run the command `gradlew clean allTests` (Mac/Linux: `./gradlew clean allTests`)"
       },
       {
         "lineNumber": 97,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "e.g. `seedu.addressbook.common.UtilsTest`"
+        "content": ""
       },
       {
         "lineNumber": 98,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "..  _Integration tests_ that are checking the integration of multiple code units (those code units are assumed to be working). +"
+        "content": "\u003d\u003d\u003d Types of tests"
       },
       {
         "lineNumber": 99,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "e.g. `seedu.addressbook.storage.StorageFileTest`"
+        "content": ""
       },
       {
         "lineNumber": 100,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "..  Hybrids of unit and integration tests. These test are checking multiple code units as well as how the are connected together. +"
+        "content": ".  *Non-GUI Tests* - These are tests not involving the GUI. They include,"
       },
       {
         "lineNumber": 101,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "e.g. `seedu.addressbook.logic.LogicTest`"
+        "content": "..  _Unit tests_ targeting the lowest level methods/classes. +"
       },
       {
         "lineNumber": 102,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "e.g. `seedu.addressbook.common.UtilsTest`"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "\u003d\u003d Implementation"
+        "content": "..  _Integration tests_ that are checking the integration of multiple code units (those code units are assumed to be working). +"
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "e.g. `seedu.addressbook.storage.StorageFileTest`"
       },
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "This section describes some noteworthy details on how certain features are implemented."
+        "content": "..  Hybrids of unit and integration tests. These test are checking multiple code units as well as how the are connected together. +"
       },
       {
         "lineNumber": 106,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "e.g. `seedu.addressbook.logic.LogicTest`"
       },
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": "\u003d\u003d\u003d Sort feature"
+        "content": ""
       },
       {
         "lineNumber": 108,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d\u003d Current Implementation"
+        "content": "\u003d\u003d Implementation"
       },
       {
         "lineNumber": 109,
@@ -10314,9 +10314,9 @@
       {
         "lineNumber": 110,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "-"
         },
-        "content": "The sort mechanism is facilitated by `UniquePersonList` and `SortCommand`. `UniquePersonList` stores a list of all persons in the address book as an `internalList`. Additionally, it implements the following operations:"
+        "content": "This section describes some noteworthy details on how certain features are implemented."
       },
       {
         "lineNumber": 111,
@@ -10330,28 +10330,28 @@
         "author": {
           "gitId": "-"
         },
-        "content": "* `UniquePersonList#SortByName()` -- Sort `internalList` by name column in alphabetical order"
+        "content": "\u003d\u003d\u003d Sort feature"
       },
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "-"
         },
-        "content": "* `SortCommand#getPersonsSortedByDate()` -- Return a list sorted by appointment column in chronological order"
+        "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "-"
         },
-        "content": "* `SortCommand#getPersonsSortedByStatus()` -- Return a list sorted by status column according to the degree of urgency. The sequence of the status in this order is as follows: Critical, Waiting for Surgery, Life Support, Waiting for doctor appointment, Therapy and Observation."
+        "content": ""
       },
       {
         "lineNumber": 115,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "The sort mechanism is facilitated by `UniquePersonList` and `SortCommand`. `UniquePersonList` stores a list of all persons in the address book as an `internalList`. Additionally, it implements the following operations:"
       },
       {
         "lineNumber": 116,
@@ -10365,168 +10365,168 @@
         "author": {
           "gitId": "-"
         },
-        "content": "These operations are exposed in `AddressBook` as `AddressBook#sorted(String attribute)`. Corresponding operation will be called depending on attribute the user wants to sort the list by."
+        "content": "* `UniquePersonList#SortByName()` -- Sort `internalList` by name column in alphabetical order"
       },
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "* `SortCommand#getPersonsSortedByDate()` -- Return a list sorted by appointment column in chronological order"
       },
       {
         "lineNumber": 119,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "Given below is two examples usage scenario and how the sort mechanism behaves at each step."
+        "content": "* `SortCommand#getPersonsSortedByStatus()` -- Return a list sorted by status column according to the degree of urgency. The sequence of the status in this order is as follows: Critical, Waiting for Surgery, Life Support, Waiting for doctor appointment, Therapy and Observation."
       },
       {
         "lineNumber": 120,
         "author": {
-          "gitId": "-"
+          "gitId": "WuPeiHsuan"
         },
         "content": ""
       },
       {
         "lineNumber": 121,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "-"
         },
-        "content": "Example 1:"
+        "content": ""
       },
       {
         "lineNumber": 122,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "These operations are exposed in `AddressBook` as `AddressBook#sorted(String attribute)`. Corresponding operation will be called depending on attribute the user wants to sort the list by."
       },
       {
         "lineNumber": 123,
-        "author": {
-          "gitId": "WuPeiHsuan"
-        },
-        "content": "Step 1. The user launches the application for the first time. The `UniquePersonList` will be initialized with the initial address book state."
-      },
-      {
-        "lineNumber": 124,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 125,
+        "lineNumber": 124,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "Step 2. The user executes `add n/…` to add some new people. These people will be added sequentially to the end of the list."
+        "content": "Given below is two examples usage scenario and how the sort mechanism behaves at each step."
+      },
+      {
+        "lineNumber": 125,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
       },
       {
         "lineNumber": 126,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "Example 1:"
       },
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "-"
         },
-        "content": "Step 3. The user then decides to execute the command `list`. Commands that do not modify the address book, such as list, will usually not call `AddressBook#sorted(String attribute)` . Thus, the `internalList` remains unchanged."
+        "content": ""
       },
       {
         "lineNumber": 128,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 129,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "Step 4. The user decides to view the list sorted by their name by executing the `sort name` command. This command will call `AddressBook#sorted(String attribute)` and pass the string “name” to the method. Since the value of parameter is “name”, `SortByName()` will be called. `internalList` will then be sorted by name column in alphabetical order. At last, `internalList` will be returned and displayed to the user."
-      },
-      {
-        "lineNumber": 130,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 131,
-        "author": {
-          "gitId": "WuPeiHsuan"
-        },
-        "content": "Example 2:"
-      },
-      {
-        "lineNumber": 132,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 133,
         "author": {
           "gitId": "WuPeiHsuan"
         },
         "content": "Step 1. The user launches the application for the first time. The `UniquePersonList` will be initialized with the initial address book state."
       },
       {
-        "lineNumber": 134,
+        "lineNumber": 129,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 135,
+        "lineNumber": 130,
         "author": {
           "gitId": "WuPeiHsuan"
         },
         "content": "Step 2. The user executes `add n/…` to add some new people. These people will be added sequentially to the end of the list."
       },
       {
-        "lineNumber": 136,
+        "lineNumber": 131,
         "author": {
           "gitId": "WuPeiHsuan"
         },
         "content": ""
       },
       {
-        "lineNumber": 137,
+        "lineNumber": 132,
         "author": {
           "gitId": "WuPeiHsuan"
         },
         "content": "Step 3. The user then decides to execute the command `list`. Commands that do not modify the address book, such as list, will usually not call `AddressBook#sorted(String attribute)` . Thus, the `internalList` remains unchanged."
       },
       {
-        "lineNumber": 138,
+        "lineNumber": 133,
         "author": {
-          "gitId": "WuPeiHsuan"
+          "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 139,
+        "lineNumber": 134,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Step 4. The user decides to view the list sorted by their name by executing the `sort name` command. This command will call `AddressBook#sorted(String attribute)` and pass the string “name” to the method. Since the value of parameter is “name”, `SortByName()` will be called. `internalList` will then be sorted by name column in alphabetical order. At last, `internalList` will be returned and displayed to the user."
+      },
+      {
+        "lineNumber": 135,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 136,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "Step 4. The user decides to view the list sorted by their name by executing the `sort appointment` command. This command will call `SortCommand#execute()` and pass the string “appointment” to the method. Since the value of parameter is “appointment”, `SortCommand#getPersonsSortedByDate()` will be called. A list sorted by appointment column in chronological order will be returned and displayed to the user."
+        "content": "Example 2:"
+      },
+      {
+        "lineNumber": 137,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 138,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "Step 1. The user launches the application for the first time. The `UniquePersonList` will be initialized with the initial address book state."
+      },
+      {
+        "lineNumber": 139,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
       },
       {
         "lineNumber": 140,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "Step 2. The user executes `add n/…` to add some new people. These people will be added sequentially to the end of the list."
       },
       {
         "lineNumber": 141,
@@ -10540,28 +10540,28 @@
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "\u003d\u003d\u003d Add Status feature"
+        "content": "Step 3. The user then decides to execute the command `list`. Commands that do not modify the address book, such as list, will usually not call `AddressBook#sorted(String attribute)` . Thus, the `internalList` remains unchanged."
       },
       {
         "lineNumber": 143,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "\u003d\u003d\u003d\u003d Current Implementation"
+        "content": ""
       },
       {
         "lineNumber": 144,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "Step 4. The user decides to view the list sorted by their name by executing the `sort appointment` command. This command will call `SortCommand#execute()` and pass the string “appointment” to the method. Since the value of parameter is “appointment”, `SortCommand#getPersonsSortedByDate()` will be called. A list sorted by appointment column in chronological order will be returned and displayed to the user."
       },
       {
         "lineNumber": 145,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "the add status feature facilitated by the `Status` class, it implements the following operations:"
+        "content": ""
       },
       {
         "lineNumber": 146,
@@ -10575,80 +10575,115 @@
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "* `status(String)` -- The constructor for the class `Status`."
+        "content": "\u003d\u003d\u003d Add Status feature"
       },
       {
         "lineNumber": 148,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "* `toString()` -- Returns a String containing the name of the patient\u0027s status."
+        "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
       {
         "lineNumber": 149,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "* `isValidStatus()` -- Checks if if a given string is a valid status."
+        "content": ""
       },
       {
         "lineNumber": 150,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "* `equals(Object)` -- Checks if two patients\u0027 status are equal."
+        "content": "the add status feature facilitated by the `Status` class, it implements the following operations:"
       },
       {
         "lineNumber": 151,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "* `isCorrectStatus()` -- Checks if if a given string is any of following status: Critical / Waiting for Surgery / Life Support / Waiting for doctor appointment / Therapy / Observation."
+        "content": ""
       },
       {
         "lineNumber": 152,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "* `status(String)` -- The constructor for the class `Status`."
       },
       {
         "lineNumber": 153,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "In addition to the Appointment class, we update the ReadOnlyPerson interface and the Person class (which implements the interface) to ensure that every Person object is constructed with an Appointment class. To be specific, the following operations are added or updated."
+        "content": "* `toString()` -- Returns a String containing the name of the patient\u0027s status."
       },
       {
         "lineNumber": 154,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": ""
+        "content": "* `isValidStatus()` -- Checks if if a given string is a valid status."
       },
       {
         "lineNumber": 155,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "* `Person(Status status)` --  The class `Person` now requires a Status object during its construction."
+        "content": "* `equals(Object)` -- Checks if two patients\u0027 status are equal."
       },
       {
         "lineNumber": 156,
         "author": {
           "gitId": "WuPeiHsuan"
         },
-        "content": "* `getStatus()` -- The class `Person` implements a method that returns the Status object of a Person."
+        "content": "* `isCorrectStatus()` -- Checks if if a given string is any of following status: Critical / Waiting for Surgery / Life Support / Waiting for doctor appointment / Therapy / Observation."
       },
       {
         "lineNumber": 157,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 158,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "In addition to the Appointment class, we update the ReadOnlyPerson interface and the Person class (which implements the interface) to ensure that every Person object is constructed with an Appointment class. To be specific, the following operations are added or updated."
+      },
+      {
+        "lineNumber": 159,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 160,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "* `Person(Status status)` --  The class `Person` now requires a Status object during its construction."
+      },
+      {
+        "lineNumber": 161,
+        "author": {
+          "gitId": "WuPeiHsuan"
+        },
+        "content": "* `getStatus()` -- The class `Person` implements a method that returns the Status object of a Person."
+      },
+      {
+        "lineNumber": 162,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 158,
+        "lineNumber": 163,
         "author": {
           "gitId": "-"
         },
@@ -10657,7 +10692,7 @@
     ],
     "authorContributionMap": {
       "-": 94,
-      "WuPeiHsuan": 64
+      "WuPeiHsuan": 69
     }
   },
   {
