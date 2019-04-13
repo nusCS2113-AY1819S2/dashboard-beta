@@ -2464,8 +2464,8 @@
         "commitResults": []
       },
       {
-        "insertions": 30,
-        "deletions": 19,
+        "insertions": 34,
+        "deletions": 23,
         "date": "2019-04-13",
         "commitResults": [
           {
@@ -2479,6 +2479,12 @@
             "message": "Model/module: make `Code` store uppercase string (#211)",
             "insertions": 12,
             "deletions": 1
+          },
+          {
+            "hash": "9074adff635f908251b3405f575f128a486209d0",
+            "message": "Ui: update `GuiSettings#DEFAULT_WIDTH` and `MainWindow.fxml` (#212)",
+            "insertions": 4,
+            "deletions": 4
           }
         ]
       }
@@ -4169,14 +4175,14 @@
   "authorFinalContributionMap": {
     "truegitnovice": 2494,
     "WendyBaiYunwei": 265,
-    "Creastery": 4764,
-    "chyeo": 2533,
-    "lycjackie": 4745
+    "Creastery": 4768,
+    "chyeo": 2532,
+    "lycjackie": 4743
   },
   "authorContributionVariance": {
     "truegitnovice": 73830.125,
     "WendyBaiYunwei": 1050.3445,
-    "Creastery": 194685.55,
+    "Creastery": 194649.42,
     "chyeo": 248439.8,
     "lycjackie": 555779.5
   },

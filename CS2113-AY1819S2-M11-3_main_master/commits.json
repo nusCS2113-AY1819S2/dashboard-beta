@@ -1114,6 +1114,12 @@
             "deletions": 27
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ],
     "jemine1998": [
@@ -1644,6 +1650,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
         "commitResults": []
       }
     ],
@@ -2715,22 +2727,66 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 165,
+        "deletions": 30,
         "date": "2019-04-12",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "137d44fe6986398e749a9f6e92ca945c030e4884",
+            "message": "Resolve init and nullpointer exception error",
+            "insertions": 13,
+            "deletions": 14
+          },
+          {
+            "hash": "a29bd970ca4e8ca0f20adb0786d8f5cbcc926aba",
+            "message": "GUI updates",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a75b01b3f15d09772364d00e6ee28872f7e685be",
+            "message": "Add Sample Flashcards for Sample Flashbook",
+            "insertions": 119,
+            "deletions": 6
+          },
+          {
+            "hash": "3c02468daa79c84c51b80d9525550c3283ef0fd7",
+            "message": "Update PPP dannong.adoc",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "31125aa2d2e5c6cf97fb92b8ec50fa74a73cb7f6",
+            "message": "Add User Stories to Developer Guide",
+            "insertions": 32,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 33,
+        "deletions": 22,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "e858d50340d2476842f7175eac2bd8e14e7854c3",
+            "message": "Update GUI",
+            "insertions": 33,
+            "deletions": 22
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "wanchinglim": 3144,
-    "jemine1998": 1314,
-    "dannong": 4470
+    "wanchinglim": 3139,
+    "jemine1998": 1310,
+    "dannong": 4636
   },
   "authorContributionVariance": {
-    "wanchinglim": 250583.69,
-    "jemine1998": 10678.71,
-    "dannong": 692579.06
+    "wanchinglim": 247204.23,
+    "jemine1998": 10534.197,
+    "dannong": 681263.2
   },
   "authorDisplayNameMap": {
     "wanchinglim": "LIM...ING",

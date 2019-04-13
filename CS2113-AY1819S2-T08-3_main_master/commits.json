@@ -723,6 +723,19 @@
         "deletions": 0,
         "date": "2019-04-12",
         "commitResults": []
+      },
+      {
+        "insertions": 122,
+        "deletions": 238,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "5851784c70e8a0c875dc6cadb57462763e7af09c",
+            "message": " Update seanieyap.adoc with v1.4 updates  (#188)",
+            "insertions": 122,
+            "deletions": 238
+          }
+        ]
       }
     ],
     "marcus-pzj": [
@@ -1350,6 +1363,12 @@
             "deletions": 48
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ],
     "dingheng4448": [
@@ -1907,6 +1926,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
         "commitResults": []
       }
     ],
@@ -2520,20 +2545,26 @@
         "deletions": 0,
         "date": "2019-04-12",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "seanieyap": 12121,
+    "seanieyap": 12005,
     "marcus-pzj": 2208,
     "dingheng4448": 1774,
     "macchazuki": 1118
   },
   "authorContributionVariance": {
-    "seanieyap": 2245503.8,
-    "marcus-pzj": 412063.78,
-    "dingheng4448": 24830.6,
-    "macchazuki": 15434.134
+    "seanieyap": 2210845.0,
+    "marcus-pzj": 405831.78,
+    "dingheng4448": 24501.848,
+    "macchazuki": 15219.77
   },
   "authorDisplayNameMap": {
     "seanieyap": "SEA...ONG",

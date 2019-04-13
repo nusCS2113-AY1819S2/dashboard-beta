@@ -888,6 +888,12 @@
         "deletions": 0,
         "date": "2019-04-12",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ],
     "cheahzk": [
@@ -2319,6 +2325,49 @@
             "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 195,
+        "deletions": 34,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "1c8500b8e1629ba6d78859d59d5570b66649317c",
+            "message": "DeveloperGuide: Added extra info to current implementation of Daily Time Planner, Instruction for Manual Testing under appendix",
+            "insertions": 143,
+            "deletions": 14
+          },
+          {
+            "hash": "38dd2b94675e77d53195b41af2685a7a3221e4f3",
+            "message": "UserGuide: Added extra info to showtime command.",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "3c16d33dbacbfd3e8d58ea786a995136d39e9647",
+            "message": "Updated personal PPP.",
+            "insertions": 40,
+            "deletions": 9
+          },
+          {
+            "hash": "bba695b444a2ac83edfc437b62d1c3084fc669d6",
+            "message": "PPP: Made some correction to diagram dimensions",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "63c286d9c9c620a5451a85c2f237b21e4846e022",
+            "message": "PPP: Solving pictures not showing.",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "e896775d775f42bb894de7ce060e88e51daa2d02",
+            "message": "Travis checkstyle fix",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "jingchen-z": [
@@ -3471,6 +3520,12 @@
         "deletions": 0,
         "date": "2019-04-12",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ],
     "BrittonAlone": [
@@ -4192,6 +4247,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
         "commitResults": []
       }
     ],
@@ -5001,22 +5062,28 @@
         "deletions": 0,
         "date": "2019-04-12",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
     "Wanchunwei": 3163,
-    "cheahzk": 6987,
+    "cheahzk": 7101,
     "jingchen-z": 1542,
     "BrittonAlone": 852,
     "Zeyang-Li": 2283
   },
   "authorContributionVariance": {
-    "Wanchunwei": 220695.98,
-    "cheahzk": 1506611.1,
-    "jingchen-z": 26429.953,
-    "BrittonAlone": 8367.326,
-    "Zeyang-Li": 8895673.0
+    "Wanchunwei": 217360.64,
+    "cheahzk": 1483517.0,
+    "jingchen-z": 26076.17,
+    "BrittonAlone": 8253.825,
+    "Zeyang-Li": 8757900.0
   },
   "authorDisplayNameMap": {
     "Wanchunwei": "WAN...WEI",

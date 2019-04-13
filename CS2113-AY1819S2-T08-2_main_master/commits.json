@@ -418,6 +418,18 @@
         "deletions": 0,
         "date": "2019-04-11",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ],
     "wongyuqi": [
@@ -798,6 +810,18 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
         "commitResults": []
       }
     ],
@@ -1571,6 +1595,18 @@
             "deletions": 20
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ],
     "jayrometan": [
@@ -2182,8 +2218,8 @@
         "commitResults": []
       },
       {
-        "insertions": 230,
-        "deletions": 76,
+        "insertions": 272,
+        "deletions": 99,
         "date": "2019-04-11",
         "commitResults": [
           {
@@ -2209,6 +2245,50 @@
             "message": "Added one activity diagram for the developer guide",
             "insertions": 4,
             "deletions": 0
+          },
+          {
+            "hash": "fa091d0948f0ca6df5fce012e7c2f0c39bf32f2c",
+            "message": "Grammatical mistakes to the developer guide",
+            "insertions": 29,
+            "deletions": 10
+          },
+          {
+            "hash": "412dceb8a7b6b56f34537ab733dac05d642d2c59",
+            "message": "Checkstyle update for file SampleDataUtil",
+            "insertions": 13,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 1015,
+        "deletions": 6,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "d774f9f245cfe94054fc45943575844896f822b8",
+            "message": "Added AddTaskCommandTest.java and DeleteTaskCommandTest.java",
+            "insertions": 1015,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 393,
+        "deletions": 35,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "18cf6dd78d9c7c0d717b7e31659bdbb0e38f7488",
+            "message": "Added some test commands",
+            "insertions": 360,
+            "deletions": 3
+          },
+          {
+            "hash": "1768f5aa526b9c9b255908341e11d5d9d64ac8ff",
+            "message": "Modified some merge conflicts!",
+            "insertions": 33,
+            "deletions": 32
           }
         ]
       }
@@ -2217,14 +2297,14 @@
   "authorFinalContributionMap": {
     "yongjia96": 898,
     "wongyuqi": 134,
-    "weizhonglauw": 2572,
-    "jayrometan": 3457
+    "weizhonglauw": 2573,
+    "jayrometan": 4840
   },
   "authorContributionVariance": {
-    "yongjia96": 8197.675,
-    "wongyuqi": 3792.9333,
-    "weizhonglauw": 164728.66,
-    "jayrometan": 84203.7
+    "yongjia96": 7950.1973,
+    "wongyuqi": 3674.4646,
+    "weizhonglauw": 159966.14,
+    "jayrometan": 96530.086
   },
   "authorDisplayNameMap": {
     "yongjia96": "PAN...JIA",

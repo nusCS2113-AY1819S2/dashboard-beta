@@ -561,6 +561,30 @@
         "deletions": 0,
         "date": "2019-04-09",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ],
     "jacobhan": [
@@ -1128,6 +1152,79 @@
             "deletions": 9
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 200,
+        "deletions": 80,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "c7ddbdcf7995693d633aa067560aa4b36c3fed27",
+            "message": "fixed stock command and added tests",
+            "insertions": 101,
+            "deletions": 1
+          },
+          {
+            "hash": "093c87228b0830a9507b8362601cbf0cd9ff6709",
+            "message": "checkstyle",
+            "insertions": 12,
+            "deletions": 9
+          },
+          {
+            "hash": "476fb98348b5cd1cb790d3f840c5b2aba6e3f147",
+            "message": "ug update",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "c4c1420bc577d0d1a66c3426693e9425df5d02ee",
+            "message": "stock change",
+            "insertions": 43,
+            "deletions": 8
+          },
+          {
+            "hash": "c74287492c1a0245c80a564296aac5e79b4bab3c",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "87a093c7bfb923a5f0d6f7717885d072a31c0727",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 26
+          },
+          {
+            "hash": "50d360e4baac5774d8978ac908ace5d58484f1f9",
+            "message": "cleaned up stock command",
+            "insertions": 39,
+            "deletions": 33
+          },
+          {
+            "hash": "2bbe72f63c5bea51294652f3f43a584ae8d66ed9",
+            "message": "checkstyle",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "ngkaicong": [
@@ -1483,6 +1580,30 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
         "commitResults": []
       }
     ],
@@ -2034,20 +2155,44 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "frankquekch": 2511,
-    "jacobhan": 507,
+    "frankquekch": 2512,
+    "jacobhan": 700,
     "ngkaicong": 0,
-    "yushao2": 2803
+    "yushao2": 2801
   },
   "authorContributionVariance": {
-    "frankquekch": 352509.5,
-    "jacobhan": 4832.464,
+    "frankquekch": 332195.38,
+    "jacobhan": 5573.5586,
     "ngkaicong": 0.0,
-    "yushao2": 593762.75
+    "yushao2": 557056.1
   },
   "authorDisplayNameMap": {
     "frankquekch": "DOM...HAO",

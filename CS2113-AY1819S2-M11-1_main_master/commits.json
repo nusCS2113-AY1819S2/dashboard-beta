@@ -1340,10 +1340,35 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 278,
+        "deletions": 28,
         "date": "2019-04-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "53fe86cf6a34ab719290a95748630e5362f0d28d",
+            "message": "Added dataAnalysis command edited transfer command to fix updatematch bug",
+            "insertions": 255,
+            "deletions": 15
+          },
+          {
+            "hash": "5a04a8eb831d809667a15ac14ecf59ac1d0b40a9",
+            "message": "added import for Salary",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "512a3d6027ee0b54eb0cca61dfd9e9e6161cba7c",
+            "message": "fix checkstyle",
+            "insertions": 12,
+            "deletions": 12
+          },
+          {
+            "hash": "058e135e75eee228d83210ab2542219b0859ee77",
+            "message": "block edition of goals scored using editPlayer command to avoid updateMatch running into error",
+            "insertions": 10,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "yingrong1996": [
@@ -2600,30 +2625,104 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 90,
+        "deletions": 19,
         "date": "2019-04-12",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "624f3c6cbcc8e2b00f9bd6284b07eed128a805c8",
+            "message": "Remove unecessary comment Change ticketSales constraint message",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "55666faa7e4b650bc8b17df6dcbd332050fc634d",
+            "message": "Add SameTeamException and TeamNotFoundException in addMatch",
+            "insertions": 27,
+            "deletions": 13
+          },
+          {
+            "hash": "7526d5044255a95370a5f561643c60f6ce25bdc7",
+            "message": "Fix checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "47c0a96a5a8d482ace316663642d8c21bf2f1f78",
+            "message": "Add ViewMatchCommand",
+            "insertions": 61,
+            "deletions": 3
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 189,
+        "deletions": 164,
         "date": "2019-04-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "2b4714ac48fdf0086d73bc7a84fc5830c98742d4",
+            "message": "Fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "eb3191596224f9d0962dcfbf81f2b89712646dec",
+            "message": "Remove duplicate TeamName Class",
+            "insertions": 10,
+            "deletions": 73
+          },
+          {
+            "hash": "4cbe541e97a8e75840603f30ced76ca0c32eaf72",
+            "message": "Fix bugs",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "0aa02e97221b3d85a757a5fd3ba333aa737e72d9",
+            "message": "Change Set to List to allow Goal Updates",
+            "insertions": 110,
+            "deletions": 44
+          },
+          {
+            "hash": "1982802e8945b50f6eb1a4eb4c0b7334d496f453",
+            "message": "Fix bug",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "b74accb6aedb3f0d2db05ed1817c57f03c50e3d4",
+            "message": "Fix logical bug",
+            "insertions": 14,
+            "deletions": 16
+          },
+          {
+            "hash": "ba33e7609dae276a34360cfb2c3c121775bf958e",
+            "message": "Fix checkstyle",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "e0f870a7e4fa7a596d82e3f75f4b63c497e6f019",
+            "message": "Implement method to find player by Name",
+            "insertions": 36,
+            "deletions": 17
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
     "huyidi": 1472,
-    "warheade": 4465,
-    "yingrong1996": 2761,
-    "E0176106": 2181
+    "warheade": 4645,
+    "yingrong1996": 2721,
+    "E0176106": 2385
   },
   "authorContributionVariance": {
     "huyidi": 18232.17,
-    "warheade": 180232.6,
+    "warheade": 180165.67,
     "yingrong1996": 64021.523,
-    "E0176106": 129256.7
+    "E0176106": 129990.36
   },
   "authorDisplayNameMap": {
     "huyidi": "Hu Yidi",

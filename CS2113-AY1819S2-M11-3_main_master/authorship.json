@@ -4321,7 +4321,7 @@
       {
         "lineNumber": 262,
         "author": {
-          "gitId": "jemine1998"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4335,7 +4335,7 @@
       {
         "lineNumber": 264,
         "author": {
-          "gitId": "jemine1998"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4349,7 +4349,7 @@
       {
         "lineNumber": 266,
         "author": {
-          "gitId": "jemine1998"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4391,7 +4391,7 @@
       {
         "lineNumber": 272,
         "author": {
-          "gitId": "jemine1998"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4587,7 +4587,7 @@
       {
         "lineNumber": 300,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
@@ -5693,7 +5693,7 @@
       {
         "lineNumber": 458,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
@@ -5721,7 +5721,7 @@
       {
         "lineNumber": 462,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
@@ -5735,7 +5735,7 @@
       {
         "lineNumber": 464,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
@@ -5749,7 +5749,7 @@
       {
         "lineNumber": 466,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
@@ -9900,189 +9900,189 @@
       {
         "lineNumber": 1059,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "|`* * *` |New User |See usage instructions |Refer to instructions when I forget how to use the App"
+        "content": ""
       },
       {
         "lineNumber": 1060,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "|`* * *` |New User |See usage instructions |Refer to instructions when I forget how to use the App"
       },
       {
         "lineNumber": 1061,
         "author": {
           "gitId": "dannong"
         },
-        "content": "|`* * *` |New User |Create a new account |Only see flash cards and flashcards that are customised by me"
+        "content": ""
       },
       {
         "lineNumber": 1062,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "|`* * *` |User |Add a new flash card |Insert a new unique flashcard"
       },
       {
         "lineNumber": 1063,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "|`* * *` |User |Login |"
+        "content": ""
       },
       {
         "lineNumber": 1064,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 1065,
-        "author": {
-          "gitId": "dannong"
-        },
-        "content": "|`* * *` |User |Add a new flash card |Insert a new unique flashcard"
-      },
-      {
-        "lineNumber": 1066,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 1067,
         "author": {
           "gitId": "dannong"
         },
         "content": "|`* * *` |User |Edit a flash card |Change my mistakes"
       },
       {
-        "lineNumber": 1068,
+        "lineNumber": 1065,
         "author": {
           "gitId": "-"
         },
         "content": ""
+      },
+      {
+        "lineNumber": 1066,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "|`* * *` |User |Delete a flash card through its index|Remove flashcards that I no longer need"
+      },
+      {
+        "lineNumber": 1067,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1068,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "|`* * *` |User |List flash cards categorized by flashcards |Have an overview of the flashcards I currently have"
       },
       {
         "lineNumber": 1069,
         "author": {
           "gitId": "dannong"
         },
-        "content": "|`* * *` |User |Delete a flash card |Remove flashcards that I no longer need"
+        "content": ""
       },
       {
         "lineNumber": 1070,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "|`* * *` |User |Find a flash card |Locate the flashcard I need without going through the entire list"
       },
       {
         "lineNumber": 1071,
         "author": {
           "gitId": "dannong"
         },
-        "content": "|`* * *` |User |List flash cards categorized by flashcards |Have an overview of the flash cards I currently have"
+        "content": ""
       },
       {
         "lineNumber": 1072,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "|`* * *` |User |Add a deadline or exam date to a flashcard |Aware of when the content is needed"
       },
       {
         "lineNumber": 1073,
         "author": {
           "gitId": "dannong"
         },
-        "content": "|`* * *` |User |Find a flash card |Locate the flash card I need without going through the entire list"
+        "content": ""
       },
       {
         "lineNumber": 1074,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "|`* * *` |User |Add a countdown calendar for my flashcards |Aware of how many days left to be familiar with the content"
       },
       {
         "lineNumber": 1075,
         "author": {
           "gitId": "dannong"
         },
-        "content": "|`* *` |User |Categorize each flash card by importance |Prioritise which information to study or memorise first"
+        "content": ""
       },
       {
         "lineNumber": 1076,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "|`* * *` |User |Delete unnecessary flashcards automatically |Prevent overloading of flashcards"
       },
       {
         "lineNumber": 1077,
         "author": {
           "gitId": "dannong"
         },
-        "content": "|`* *` |User |Retrieve a recently deleted flash card |Retrieve the flash card which I might have accidentally deleted"
+        "content": ""
       },
       {
         "lineNumber": 1078,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "|`* * *` |User |Sort the flash cards according to Difficulty |Categorise the flashcards according to the difficulty levels"
       },
       {
         "lineNumber": 1079,
         "author": {
           "gitId": "-"
         },
-        "content": "|\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d"
+        "content": ""
       },
       {
         "lineNumber": 1080,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "|`* * *` |User |Categorise the flash cards according to Subjects |Split the flashcards into respective subjects"
       },
       {
         "lineNumber": 1081,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "_{More to be added in future versions of the developer guide}_"
+        "content": ""
       },
       {
         "lineNumber": 1082,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "|`* * *` |User |Have a overview of Subject, Flashcard, Topic and Content |Sees the entire flashbook in a glance"
       },
       {
         "lineNumber": 1083,
         "author": {
           "gitId": "-"
         },
-        "content": "[appendix]"
+        "content": ""
       },
       {
         "lineNumber": 1084,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "\u003d\u003d Use Cases"
+        "content": "|`* * *` |User |View next flashcard |Navigate through the flashcard list"
       },
       {
         "lineNumber": 1085,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
@@ -10091,133 +10091,133 @@
         "author": {
           "gitId": "dannong"
         },
-        "content": "(For all use cases below, the *System* is the `FlashCards` and the *Actor* is the `User`, unless specified otherwise)"
+        "content": "|`* * *` |User |View previous flashcard |Navigate through the flashcard list"
       },
       {
         "lineNumber": 1087,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
       {
         "lineNumber": 1088,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "[discrete]"
+        "content": "|`* * *` |User |View number of flashcards |Shows the number of flashcards"
       },
       {
         "lineNumber": 1089,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003d\u003d\u003d Use case: Create Account"
+        "content": ""
       },
       {
         "lineNumber": 1090,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "|`* * *` |User |View topic and content of flashcard separately |Shows only one at each time"
       },
       {
         "lineNumber": 1091,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "*MSS*"
+        "content": ""
       },
       {
         "lineNumber": 1092,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "|`* * *` |User |Alias for commands |Reduce the time to input each long command"
       },
       {
         "lineNumber": 1093,
         "author": {
           "gitId": "dannong"
         },
-        "content": "1.  User enters a new username"
+        "content": ""
       },
       {
         "lineNumber": 1094,
         "author": {
           "gitId": "dannong"
         },
-        "content": "2.  FlashCards creates a new User Account"
+        "content": "|`* *` |User |Categorize each flashcard by importance |Prioritise which information to study or memorise first"
       },
       {
         "lineNumber": 1095,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "+"
+        "content": ""
       },
       {
         "lineNumber": 1096,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "Use case ends."
+        "content": "|`* *` |User |Retrieve a recently deleted flashcard |Retrieve the flashcard which I might have accidentally deleted"
       },
       {
         "lineNumber": 1097,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
       {
         "lineNumber": 1098,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "*Extensions*"
+        "content": "|`*` |New User |Create a new account |Only see flash cards and flashcards that are customised by me"
       },
       {
         "lineNumber": 1099,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
       {
         "lineNumber": 1100,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "[none]"
+        "content": "|`*` |User |Login |"
       },
       {
         "lineNumber": 1101,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "* 1a. Username is taken"
+        "content": ""
       },
       {
         "lineNumber": 1102,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "** 1a1. FlashCards prints error message"
+        "content": "|\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 1103,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "+"
+        "content": ""
       },
       {
         "lineNumber": 1104,
         "author": {
           "gitId": "dannong"
         },
-        "content": "Use case resumes at step 1."
+        "content": "_{More to be added in future versions of the developer guide}_"
       },
       {
         "lineNumber": 1105,
@@ -10231,14 +10231,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "[discrete]"
+        "content": "[appendix]"
       },
       {
         "lineNumber": 1107,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Use case: Login"
+        "content": "\u003d\u003d Use Cases"
       },
       {
         "lineNumber": 1108,
@@ -10250,14 +10250,14 @@
       {
         "lineNumber": 1109,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "*MSS*"
+        "content": "(For all use cases below, the *System* is the `FlashCards` and the *Actor* is the `User`, unless specified otherwise)"
       },
       {
         "lineNumber": 1110,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
@@ -10266,154 +10266,154 @@
         "author": {
           "gitId": "dannong"
         },
-        "content": "1.  User enters username"
+        "content": "[discrete]"
       },
       {
         "lineNumber": 1112,
         "author": {
           "gitId": "dannong"
         },
-        "content": "2.  FlashCards retrieves all relevant data for user account"
+        "content": "\u003d\u003d\u003d Use case: Create Account"
       },
       {
         "lineNumber": 1113,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "+"
+        "content": ""
       },
       {
         "lineNumber": 1114,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "Use case ends."
-      },
-      {
-        "lineNumber": 1115,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 1116,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*Extensions*"
-      },
-      {
-        "lineNumber": 1117,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 1118,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "[none]"
-      },
-      {
-        "lineNumber": 1119,
-        "author": {
-          "gitId": "dannong"
-        },
-        "content": "* 1a. Account not found"
-      },
-      {
-        "lineNumber": 1120,
-        "author": {
-          "gitId": "dannong"
-        },
-        "content": "** 1a1. FlashCards prints error message"
-      },
-      {
-        "lineNumber": 1121,
-        "author": {
-          "gitId": "dannong"
-        },
-        "content": "+"
-      },
-      {
-        "lineNumber": 1122,
-        "author": {
-          "gitId": "dannong"
-        },
-        "content": "Use case resumes at step 1."
-      },
-      {
-        "lineNumber": 1123,
-        "author": {
-          "gitId": "dannong"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 1124,
-        "author": {
-          "gitId": "dannong"
-        },
-        "content": "[discrete]"
-      },
-      {
-        "lineNumber": 1125,
-        "author": {
-          "gitId": "dannong"
-        },
-        "content": "\u003d\u003d\u003d Use case: Adding a Flash Card"
-      },
-      {
-        "lineNumber": 1126,
-        "author": {
-          "gitId": "dannong"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 1127,
         "author": {
           "gitId": "dannong"
         },
         "content": "*MSS*"
       },
       {
-        "lineNumber": 1128,
+        "lineNumber": 1115,
         "author": {
           "gitId": "dannong"
         },
         "content": ""
       },
       {
-        "lineNumber": 1129,
+        "lineNumber": 1116,
         "author": {
           "gitId": "dannong"
         },
-        "content": "1.  User enters flashcard and data to add as a flash card"
+        "content": "1.  User enters a new username"
+      },
+      {
+        "lineNumber": 1117,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "2.  FlashCards creates a new User Account"
+      },
+      {
+        "lineNumber": 1118,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "+"
+      },
+      {
+        "lineNumber": 1119,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "Use case ends."
+      },
+      {
+        "lineNumber": 1120,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1121,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "*Extensions*"
+      },
+      {
+        "lineNumber": 1122,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1123,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "[none]"
+      },
+      {
+        "lineNumber": 1124,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "* 1a. Username is taken"
+      },
+      {
+        "lineNumber": 1125,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "** 1a1. FlashCards prints error message"
+      },
+      {
+        "lineNumber": 1126,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "+"
+      },
+      {
+        "lineNumber": 1127,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "Use case resumes at step 1."
+      },
+      {
+        "lineNumber": 1128,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1129,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "[discrete]"
       },
       {
         "lineNumber": 1130,
         "author": {
           "gitId": "dannong"
         },
-        "content": "2.  FlashCards displays the flash card that was just added"
+        "content": "\u003d\u003d\u003d Use case: Login"
       },
       {
         "lineNumber": 1131,
         "author": {
           "gitId": "-"
         },
-        "content": "+"
+        "content": ""
       },
       {
         "lineNumber": 1132,
         "author": {
           "gitId": "-"
         },
-        "content": "Use case ends."
+        "content": "*MSS*"
       },
       {
         "lineNumber": 1133,
@@ -10427,175 +10427,175 @@
         "author": {
           "gitId": "dannong"
         },
-        "content": "[discrete]"
+        "content": "1.  User enters username"
       },
       {
         "lineNumber": 1135,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003d\u003d\u003d Use case: Editing a Flash Card"
+        "content": "2.  FlashCards retrieves all relevant data for user account"
       },
       {
         "lineNumber": 1136,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "+"
       },
       {
         "lineNumber": 1137,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "*MSS*"
+        "content": "Use case ends."
       },
       {
         "lineNumber": 1138,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1139,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "1.  User enters the flashcard of the flash card to be edited"
+        "content": "*Extensions*"
       },
       {
         "lineNumber": 1140,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "2.  FlashCards displays a list of flash cards belonging to the same flashcard"
+        "content": ""
       },
       {
         "lineNumber": 1141,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "3.  User selects the index of the flash card to edit"
+        "content": "[none]"
       },
       {
         "lineNumber": 1142,
         "author": {
           "gitId": "dannong"
         },
-        "content": "4.  FlashCards prompts for new data"
+        "content": "* 1a. Account not found"
       },
       {
         "lineNumber": 1143,
         "author": {
           "gitId": "dannong"
         },
-        "content": "5. User enters new data"
+        "content": "** 1a1. FlashCards prints error message"
       },
       {
         "lineNumber": 1144,
         "author": {
           "gitId": "dannong"
         },
-        "content": "6. FlashCards displays the updated flash card"
+        "content": "+"
       },
       {
         "lineNumber": 1145,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "+"
+        "content": "Use case resumes at step 1."
       },
       {
         "lineNumber": 1146,
         "author": {
-          "gitId": "-"
-        },
-        "content": "Use case ends."
-      },
-      {
-        "lineNumber": 1147,
-        "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
       {
-        "lineNumber": 1148,
+        "lineNumber": 1147,
         "author": {
           "gitId": "dannong"
         },
         "content": "[discrete]"
       },
       {
+        "lineNumber": 1148,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "\u003d\u003d\u003d Use case: Adding a Flash Card"
+      },
+      {
         "lineNumber": 1149,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003d\u003d\u003d Use case: Deleting a Flash Card"
+        "content": ""
       },
       {
         "lineNumber": 1150,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "*MSS*"
       },
       {
         "lineNumber": 1151,
         "author": {
           "gitId": "dannong"
         },
-        "content": "*MSS*"
+        "content": ""
       },
       {
         "lineNumber": 1152,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "1.  User enters flashcard and data to add as a flash card"
       },
       {
         "lineNumber": 1153,
         "author": {
           "gitId": "dannong"
         },
-        "content": "1.  User enters the flashcard of the flash card to be deleted"
+        "content": "2.  FlashCards displays the flash card that was just added"
       },
       {
         "lineNumber": 1154,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "2.  FlashCards displays a list of flash cards belonging to the same flashcard"
+        "content": "+"
       },
       {
         "lineNumber": 1155,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "3.  User selects the index of the flash card to delete"
+        "content": "Use case ends."
       },
       {
         "lineNumber": 1156,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "4.  FlashCards displays the updated list of flash cards"
+        "content": ""
       },
       {
         "lineNumber": 1157,
         "author": {
           "gitId": "dannong"
         },
-        "content": "+"
+        "content": "[discrete]"
       },
       {
         "lineNumber": 1158,
         "author": {
           "gitId": "dannong"
         },
-        "content": "Use case ends."
+        "content": "\u003d\u003d\u003d Use case: Editing a Flash Card"
       },
       {
         "lineNumber": 1159,
@@ -10609,91 +10609,91 @@
         "author": {
           "gitId": "dannong"
         },
-        "content": "[discrete]"
+        "content": "*MSS*"
       },
       {
         "lineNumber": 1161,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003d\u003d\u003d Use case: Listing all Flash Cards categorized by Subjects"
+        "content": ""
       },
       {
         "lineNumber": 1162,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "1.  User enters the flashcard of the flash card to be edited"
       },
       {
         "lineNumber": 1163,
         "author": {
           "gitId": "dannong"
         },
-        "content": "*MSS*"
+        "content": "2.  FlashCards displays a list of flash cards belonging to the same flashcard"
       },
       {
         "lineNumber": 1164,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "3.  User selects the index of the flash card to edit"
       },
       {
         "lineNumber": 1165,
         "author": {
           "gitId": "dannong"
         },
-        "content": "1.  FlashCards displays an indexed list of flash cards categorized by flashcards"
+        "content": "4.  FlashCards prompts for new data"
       },
       {
         "lineNumber": 1166,
         "author": {
           "gitId": "dannong"
         },
-        "content": "+"
+        "content": "5. User enters new data"
       },
       {
         "lineNumber": 1167,
         "author": {
           "gitId": "dannong"
         },
-        "content": "Use case ends."
+        "content": "6. FlashCards displays the updated flash card"
       },
       {
         "lineNumber": 1168,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "+"
       },
       {
         "lineNumber": 1169,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "[discrete]"
+        "content": "Use case ends."
       },
       {
         "lineNumber": 1170,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Use case: Finding a Flash Card"
+        "content": ""
       },
       {
         "lineNumber": 1171,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "[discrete]"
       },
       {
         "lineNumber": 1172,
         "author": {
           "gitId": "dannong"
         },
-        "content": "*MSS*"
+        "content": "\u003d\u003d\u003d Use case: Deleting a Flash Card"
       },
       {
         "lineNumber": 1173,
@@ -10707,82 +10707,82 @@
         "author": {
           "gitId": "dannong"
         },
-        "content": "1.  User enters a keyword"
+        "content": "*MSS*"
       },
       {
         "lineNumber": 1175,
         "author": {
           "gitId": "dannong"
         },
-        "content": "2.  FlashCards displays all flash cards that contains the given keyword"
+        "content": ""
       },
       {
         "lineNumber": 1176,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "+"
+        "content": "1.  User enters the flashcard of the flash card to be deleted"
       },
       {
         "lineNumber": 1177,
         "author": {
           "gitId": "dannong"
         },
-        "content": "Use case ends."
+        "content": "2.  FlashCards displays a list of flash cards belonging to the same flashcard"
       },
       {
         "lineNumber": 1178,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "3.  User selects the index of the flash card to delete"
       },
       {
         "lineNumber": 1179,
         "author": {
           "gitId": "dannong"
         },
-        "content": "*Extensions*"
+        "content": "4.  FlashCards displays the updated list of flash cards"
       },
       {
         "lineNumber": 1180,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
-      },
-      {
-        "lineNumber": 1181,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "[none]"
-      },
-      {
-        "lineNumber": 1182,
-        "author": {
-          "gitId": "dannong"
-        },
-        "content": "* 1a. Keyword not found"
-      },
-      {
-        "lineNumber": 1183,
-        "author": {
-          "gitId": "-"
-        },
         "content": "+"
       },
       {
-        "lineNumber": 1184,
+        "lineNumber": 1181,
         "author": {
           "gitId": "dannong"
         },
         "content": "Use case ends."
       },
       {
+        "lineNumber": 1182,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1183,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "[discrete]"
+      },
+      {
+        "lineNumber": 1184,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "\u003d\u003d\u003d Use case: Listing all Flash Cards categorized by Subjects"
+      },
+      {
         "lineNumber": 1185,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
@@ -10791,70 +10791,70 @@
         "author": {
           "gitId": "dannong"
         },
-        "content": "[discrete]"
+        "content": "*MSS*"
       },
       {
         "lineNumber": 1187,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003d\u003d\u003d Use case: Clear all Data of a particular User"
+        "content": ""
       },
       {
         "lineNumber": 1188,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "1.  FlashCards displays an indexed list of flash cards categorized by flashcards"
       },
       {
         "lineNumber": 1189,
         "author": {
           "gitId": "dannong"
         },
-        "content": "*MSS*"
+        "content": "+"
       },
       {
         "lineNumber": 1190,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "Use case ends."
       },
       {
         "lineNumber": 1191,
         "author": {
           "gitId": "dannong"
         },
-        "content": "1.  User enters clear command"
+        "content": ""
       },
       {
         "lineNumber": 1192,
         "author": {
           "gitId": "dannong"
         },
-        "content": "2.  FlashCards clears all flash cards of the user"
+        "content": "[discrete]"
       },
       {
         "lineNumber": 1193,
         "author": {
           "gitId": "dannong"
         },
-        "content": "+"
+        "content": "\u003d\u003d\u003d Use case: Finding a Flash Card"
       },
       {
         "lineNumber": 1194,
         "author": {
           "gitId": "dannong"
         },
-        "content": "Use case ends."
+        "content": ""
       },
       {
         "lineNumber": 1195,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "*MSS*"
       },
       {
         "lineNumber": 1196,
@@ -10868,147 +10868,147 @@
         "author": {
           "gitId": "dannong"
         },
-        "content": "_{More use cases to be added in future versions of the developer guide}_"
+        "content": "1.  User enters a keyword"
       },
       {
         "lineNumber": 1198,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "2.  FlashCards displays all flash cards that contains the given keyword"
       },
       {
         "lineNumber": 1199,
         "author": {
           "gitId": "-"
         },
-        "content": "[appendix]"
+        "content": "+"
       },
       {
         "lineNumber": 1200,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "\u003d\u003d Non Functional Requirements"
+        "content": "Use case ends."
       },
       {
         "lineNumber": 1201,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
       {
         "lineNumber": 1202,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ".  Should work on any \u003c\u003cmainstream-os,mainstream OS\u003e\u003e as long as it has Java `9` or higher installed."
+        "content": "*Extensions*"
       },
       {
         "lineNumber": 1203,
         "author": {
           "gitId": "dannong"
         },
-        "content": ".  Should be able to hold up to 1000 flashcards without a noticeable sluggishness in performance for typical usage."
+        "content": ""
       },
       {
         "lineNumber": 1204,
         "author": {
           "gitId": "-"
         },
-        "content": ".  A user with above average typing speed for regular English text (i.e. not code, not system admin commands) should be able to accomplish most of the tasks faster using commands than using the mouse."
+        "content": "[none]"
       },
       {
         "lineNumber": 1205,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "* 1a. Keyword not found"
       },
       {
         "lineNumber": 1206,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": ""
+        "content": "+"
       },
       {
         "lineNumber": 1207,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003d\u003d\u003d Performance Requirement"
+        "content": "Use case ends."
       },
       {
         "lineNumber": 1208,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "The product will have a high performance speed of less than 2 seconds."
+        "content": ""
       },
       {
         "lineNumber": 1209,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "[discrete]"
       },
       {
         "lineNumber": 1210,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003d\u003d\u003d Interface Requirement"
+        "content": "\u003d\u003d\u003d Use case: Clear all Data of a particular User"
       },
       {
         "lineNumber": 1211,
         "author": {
           "gitId": "dannong"
         },
-        "content": "The product will have a simple and user-friendly interface, making it easy even for new users using our application."
+        "content": ""
       },
       {
         "lineNumber": 1212,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "*MSS*"
       },
       {
         "lineNumber": 1213,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003d\u003d\u003d Portability Requirement"
+        "content": ""
       },
       {
         "lineNumber": 1214,
         "author": {
           "gitId": "dannong"
         },
-        "content": "The product can be used through both laptop and smartphone allowing users to use them on the go."
+        "content": "1.  User enters clear command"
       },
       {
         "lineNumber": 1215,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "2.  FlashCards clears all flash cards of the user"
       },
       {
         "lineNumber": 1216,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003d\u003d\u003d Operational Requirement"
+        "content": "+"
       },
       {
         "lineNumber": 1217,
         "author": {
           "gitId": "dannong"
         },
-        "content": "The system is capable of categorizing the cards based on the flashcards and allows easy access to cards when searching for one."
+        "content": "Use case ends."
       },
       {
         "lineNumber": 1218,
@@ -11022,40 +11022,40 @@
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003d\u003d\u003d Technical Requirement"
+        "content": ""
       },
       {
         "lineNumber": 1220,
         "author": {
           "gitId": "dannong"
         },
-        "content": "The system should work on common operating systems such as Mac OS, Windows, Linux and Solaris platform."
+        "content": "_{More use cases to be added in future versions of the developer guide}_"
       },
       {
         "lineNumber": 1221,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 1222,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Constraints"
+        "content": "[appendix]"
       },
       {
         "lineNumber": 1223,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "The system is built on Java 9 and it is advisable to use it with the recommended version of Java 9. When used on a newer/older version of Java, the user might not be able to enjoy the full benefits of the application."
+        "content": "\u003d\u003d Non Functional Requirements"
       },
       {
         "lineNumber": 1224,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -11064,159 +11064,159 @@
         "author": {
           "gitId": "-"
         },
-        "content": "_{More to be added}_"
+        "content": ".  Should work on any \u003c\u003cmainstream-os,mainstream OS\u003e\u003e as long as it has Java `9` or higher installed."
       },
       {
         "lineNumber": 1226,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": ".  Should be able to hold up to 1000 flashcards without a noticeable sluggishness in performance for typical usage."
       },
       {
         "lineNumber": 1227,
         "author": {
           "gitId": "-"
         },
-        "content": "[appendix]"
+        "content": ".  A user with above average typing speed for regular English text (i.e. not code, not system admin commands) should be able to accomplish most of the tasks faster using commands than using the mouse."
       },
       {
         "lineNumber": 1228,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Glossary"
+        "content": ""
       },
       {
         "lineNumber": 1229,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
       {
         "lineNumber": 1230,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "[[mainstream-os]] Mainstream OS::"
+        "content": "\u003d\u003d\u003d Performance Requirement"
       },
       {
         "lineNumber": 1231,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "Windows, Linux, Unix, OS-X"
+        "content": "The product will have a high performance speed of less than 2 seconds."
       },
       {
         "lineNumber": 1232,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
       {
         "lineNumber": 1233,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "[[private-contact-detail]] Private contact detail::"
+        "content": "\u003d\u003d\u003d Interface Requirement"
       },
       {
         "lineNumber": 1234,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "A contact detail that is not meant to be shared with others"
+        "content": "The product will have a simple and user-friendly interface, making it easy even for new users using our application."
       },
       {
         "lineNumber": 1235,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
       {
         "lineNumber": 1236,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "[appendix]"
+        "content": "\u003d\u003d\u003d Portability Requirement"
       },
       {
         "lineNumber": 1237,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "\u003d\u003d Product Survey"
+        "content": "The product can be used through both laptop and smartphone allowing users to use them on the go."
       },
       {
         "lineNumber": 1238,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
       {
         "lineNumber": 1239,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "*Product Name*"
+        "content": "\u003d\u003d\u003d Operational Requirement"
       },
       {
         "lineNumber": 1240,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "The system is capable of categorizing the cards based on the flashcards and allows easy access to cards when searching for one."
       },
       {
         "lineNumber": 1241,
         "author": {
-          "gitId": "-"
-        },
-        "content": "Author: ..."
-      },
-      {
-        "lineNumber": 1242,
-        "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
       {
+        "lineNumber": 1242,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "\u003d\u003d\u003d Technical Requirement"
+      },
+      {
         "lineNumber": 1243,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "Pros:"
+        "content": "The system should work on common operating systems such as Mac OS, Windows, Linux and Solaris platform."
       },
       {
         "lineNumber": 1244,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
       {
         "lineNumber": 1245,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "* ..."
+        "content": "\u003d\u003d\u003d Constraints"
       },
       {
         "lineNumber": 1246,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "* ..."
+        "content": "The system is built on Java 9 and it is advisable to use it with the recommended version of Java 9. When used on a newer/older version of Java, the user might not be able to enjoy the full benefits of the application."
       },
       {
         "lineNumber": 1247,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
         "content": ""
       },
@@ -11225,7 +11225,7 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Cons:"
+        "content": "_{More to be added}_"
       },
       {
         "lineNumber": 1249,
@@ -11239,14 +11239,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "* ..."
+        "content": "[appendix]"
       },
       {
         "lineNumber": 1251,
         "author": {
           "gitId": "-"
         },
-        "content": "* ..."
+        "content": "\u003d\u003d Glossary"
       },
       {
         "lineNumber": 1252,
@@ -11260,14 +11260,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "[appendix]"
+        "content": "[[mainstream-os]] Mainstream OS::"
       },
       {
         "lineNumber": 1254,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d Instructions for Manual Testing"
+        "content": "Windows, Linux, Unix, OS-X"
       },
       {
         "lineNumber": 1255,
@@ -11281,98 +11281,98 @@
         "author": {
           "gitId": "-"
         },
-        "content": "Given below are instructions to test the app manually."
+        "content": "[[private-contact-detail]] Private contact detail::"
       },
       {
         "lineNumber": 1257,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "A contact detail that is not meant to be shared with others"
       },
       {
         "lineNumber": 1258,
         "author": {
           "gitId": "-"
         },
-        "content": "[NOTE]"
+        "content": ""
       },
       {
         "lineNumber": 1259,
         "author": {
           "gitId": "-"
         },
-        "content": "These instructions only provide a starting point for testers to work on; testers are expected to do more _exploratory_ testing."
+        "content": "[appendix]"
       },
       {
         "lineNumber": 1260,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "\u003d\u003d Product Survey"
       },
       {
         "lineNumber": 1261,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Launch and Shutdown"
+        "content": ""
       },
       {
         "lineNumber": 1262,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "*Product Name*"
       },
       {
         "lineNumber": 1263,
         "author": {
           "gitId": "-"
         },
-        "content": ". Initial launch"
+        "content": ""
       },
       {
         "lineNumber": 1264,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "Author: ..."
       },
       {
         "lineNumber": 1265,
         "author": {
           "gitId": "-"
         },
-        "content": ".. Download the jar file and copy into an empty folder"
+        "content": ""
       },
       {
         "lineNumber": 1266,
         "author": {
           "gitId": "-"
         },
-        "content": ".. Double-click the jar file +"
+        "content": "Pros:"
       },
       {
         "lineNumber": 1267,
-        "author": {
-          "gitId": "dannong"
-        },
-        "content": "   Expected: Shows the GUI with a set of sample flashcards. The window size may not be optimum."
-      },
-      {
-        "lineNumber": 1268,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
+        "lineNumber": 1268,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "* ..."
+      },
+      {
         "lineNumber": 1269,
         "author": {
           "gitId": "-"
         },
-        "content": ". Saving window preferences"
+        "content": "* ..."
       },
       {
         "lineNumber": 1270,
@@ -11386,49 +11386,49 @@
         "author": {
           "gitId": "-"
         },
-        "content": ".. Resize the window to an optimum size. Move the window to a different location. Close the window."
+        "content": "Cons:"
       },
       {
         "lineNumber": 1272,
         "author": {
           "gitId": "-"
         },
-        "content": ".. Re-launch the app by double-clicking the jar file. +"
+        "content": ""
       },
       {
         "lineNumber": 1273,
         "author": {
           "gitId": "-"
         },
-        "content": "   Expected: The most recent window size and location is retained."
+        "content": "* ..."
       },
       {
         "lineNumber": 1274,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "* ..."
       },
       {
         "lineNumber": 1275,
         "author": {
           "gitId": "-"
         },
-        "content": "_{ more test cases ... }_"
+        "content": ""
       },
       {
         "lineNumber": 1276,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "[appendix]"
       },
       {
         "lineNumber": 1277,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Deleting a flashcard"
+        "content": "\u003d\u003d Instructions for Manual Testing"
       },
       {
         "lineNumber": 1278,
@@ -11440,9 +11440,9 @@
       {
         "lineNumber": 1279,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": ". Deleting a flashcard while all flashcards are listed"
+        "content": "Given below are instructions to test the app manually."
       },
       {
         "lineNumber": 1280,
@@ -11454,117 +11454,278 @@
       {
         "lineNumber": 1281,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": ".. Prerequisites: List all flashcards using the `list` command. Multiple flashcards in the list."
+        "content": "[NOTE]"
       },
       {
         "lineNumber": 1282,
         "author": {
           "gitId": "-"
         },
-        "content": ".. Test case: `delete 1` +"
+        "content": "These instructions only provide a starting point for testers to work on; testers are expected to do more _exploratory_ testing."
       },
       {
         "lineNumber": 1283,
         "author": {
           "gitId": "-"
         },
-        "content": "   Expected: First contact is deleted from the list. Details of the deleted contact shown in the status message. Timestamp in the status bar is updated."
+        "content": ""
       },
       {
         "lineNumber": 1284,
         "author": {
           "gitId": "-"
         },
-        "content": ".. Test case: `delete 0` +"
+        "content": "\u003d\u003d\u003d Launch and Shutdown"
       },
       {
         "lineNumber": 1285,
         "author": {
-          "gitId": "dannong"
+          "gitId": "-"
         },
-        "content": "   Expected: No flashcard is deleted. Error details shown in the status message. Status bar remains the same."
+        "content": ""
       },
       {
         "lineNumber": 1286,
         "author": {
           "gitId": "-"
         },
-        "content": ".. Other incorrect delete commands to try: `delete`, `delete x` (where x is larger than the list size) _{give more}_ +"
+        "content": ". Initial launch"
       },
       {
         "lineNumber": 1287,
         "author": {
           "gitId": "-"
         },
-        "content": "   Expected: Similar to previous."
+        "content": ""
       },
       {
         "lineNumber": 1288,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": ".. Download the jar file and copy into an empty folder"
       },
       {
         "lineNumber": 1289,
         "author": {
           "gitId": "-"
         },
-        "content": "_{ more test cases ... }_"
+        "content": ".. Double-click the jar file +"
       },
       {
         "lineNumber": 1290,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "   Expected: Shows the GUI with a set of sample flashcards. The window size may not be optimum."
       },
       {
         "lineNumber": 1291,
         "author": {
           "gitId": "-"
         },
-        "content": "\u003d\u003d\u003d Saving data"
+        "content": ""
       },
       {
         "lineNumber": 1292,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": ". Saving window preferences"
       },
       {
         "lineNumber": 1293,
         "author": {
           "gitId": "-"
         },
-        "content": ". Dealing with missing/corrupted data files"
+        "content": ""
       },
       {
         "lineNumber": 1294,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": ".. Resize the window to an optimum size. Move the window to a different location. Close the window."
       },
       {
         "lineNumber": 1295,
         "author": {
           "gitId": "-"
         },
-        "content": ".. _{explain how to simulate a missing/corrupted file and the expected behavior}_"
+        "content": ".. Re-launch the app by double-clicking the jar file. +"
       },
       {
         "lineNumber": 1296,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "   Expected: The most recent window size and location is retained."
       },
       {
         "lineNumber": 1297,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1298,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "_{ more test cases ... }_"
+      },
+      {
+        "lineNumber": 1299,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1300,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "\u003d\u003d\u003d Deleting a flashcard"
+      },
+      {
+        "lineNumber": 1301,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1302,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": ". Deleting a flashcard while all flashcards are listed"
+      },
+      {
+        "lineNumber": 1303,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1304,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": ".. Prerequisites: List all flashcards using the `list` command. Multiple flashcards in the list."
+      },
+      {
+        "lineNumber": 1305,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".. Test case: `delete 1` +"
+      },
+      {
+        "lineNumber": 1306,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "   Expected: First contact is deleted from the list. Details of the deleted contact shown in the status message. Timestamp in the status bar is updated."
+      },
+      {
+        "lineNumber": 1307,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".. Test case: `delete 0` +"
+      },
+      {
+        "lineNumber": 1308,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "   Expected: No flashcard is deleted. Error details shown in the status message. Status bar remains the same."
+      },
+      {
+        "lineNumber": 1309,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".. Other incorrect delete commands to try: `delete`, `delete x` (where x is larger than the list size) _{give more}_ +"
+      },
+      {
+        "lineNumber": 1310,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "   Expected: Similar to previous."
+      },
+      {
+        "lineNumber": 1311,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1312,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "_{ more test cases ... }_"
+      },
+      {
+        "lineNumber": 1313,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1314,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "\u003d\u003d\u003d Saving data"
+      },
+      {
+        "lineNumber": 1315,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1316,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ". Dealing with missing/corrupted data files"
+      },
+      {
+        "lineNumber": 1317,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1318,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".. _{explain how to simulate a missing/corrupted file and the expected behavior}_"
+      },
+      {
+        "lineNumber": 1319,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 1320,
         "author": {
           "gitId": "-"
         },
@@ -11573,9 +11734,9 @@
     ],
     "authorContributionMap": {
       "wanchinglim": 143,
-      "jemine1998": 72,
-      "dannong": 218,
-      "-": 864
+      "jemine1998": 68,
+      "dannong": 255,
+      "-": 854
     }
   },
   {
@@ -14812,7 +14973,7 @@
     }
   },
   {
-    "path": "docs/team/dannicaong.adoc",
+    "path": "docs/team/dannong.adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -45599,9 +45760,9 @@
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "            \"Names should only contain alphanumeric characters and spaces, and it should not be blank\";"
+        "content": "            \"Topics should only contain alphanumeric characters and spaces, and it should not be blank\";"
       },
       {
         "lineNumber": 14,
@@ -45928,8 +46089,8 @@
     ],
     "authorContributionMap": {
       "wanchinglim": 13,
-      "dannong": 4,
-      "-": 42
+      "dannong": 5,
+      "-": 41
     }
   },
   {
@@ -50791,299 +50952,1090 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "            new Flashcard(new Topic(\"Pythagoras Theorem\"), new Difficulty(\"123\"),"
+        "content": ""
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "                new Content(\"a^2 + b^2 \u003d c^2\"), EMPTY_DEADLINE,"
+        "content": "            // list of flashcards in subject Mathematics"
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "                getTagSet(\"math\")),"
+        "content": "            new Flashcard(new Topic(\"Formula of Pythagoras Theorem\"), new Difficulty(\"1\"),"
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "wanchinglim"
         },
-        "content": "            new Flashcard(new Topic(\"Photosynthesis\"), new Difficulty(\"123\"),"
+        "content": "                new Content(\"a^2 + b^2 \u003d c^2\"), EMPTY_DEADLINE,"
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "                new Content(\"Happens in plants\"), EMPTY_DEADLINE,"
+        "content": "                getTagSet(\"Mathematics\")),"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "                getTagSet(\"science\"))"
+        "content": ""
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "        };"
+        "content": "            // list of flashcards in subject Chemistry"
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": "    }"
+        "content": "            new Flashcard(new Topic(\"Define Acid\"), new Difficulty(\"1\"),"
       },
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "-"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "                new Content(\"An acid is a compound that dissociates to produce hydrogen ions \""
       },
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "    /* public static SubjectBook[] getSampleSubjects() {"
+        "content": "                        + \"when it is dissolved in water.\"), EMPTY_DEADLINE,"
       },
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "        return new SubjectBook[] {"
+        "content": "                getTagSet(\"Chemistry\")),"
       },
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "                new SubjectBook(new SubjectTag(\"math\")),"
+        "content": "            new Flashcard(new Topic(\"Define Strong Acid\"), new Difficulty(\"1\"),"
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "                new SubjectBook(new SubjectTag(\"science\")),"
+        "content": "                new Content(\"A strong acid dissociates or ionises completely into ions. \""
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "                new SubjectBook(new SubjectTag(\"english\"))"
+        "content": "                        + \"All the acid molecules become ions in water\"), EMPTY_DEADLINE,"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "        };"
+        "content": "                getTagSet(\"Chemistry\")),"
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "    }"
+        "content": "            new Flashcard(new Topic(\"Define Weak Acid\"), new Difficulty(\"1\"),"
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "                new Content(\"A weak acid only slightly or partially ionised. \""
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "    public static ReadOnlySubjectBook getSampleSubjectBook() {"
+        "content": "                        + \"Not all the acid molecules become ions in water.\"), EMPTY_DEADLINE,"
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "        SubjectBook sampleSB \u003d new SubjectBook();"
+        "content": "                getTagSet(\"Chemistry\")),"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "        for (SubjectBook sampleSubject : getSampleSubjects()) {"
+        "content": "            new Flashcard(new Topic(\"Give an example of a Weak Acid\"), new Difficulty(\"2\"),"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "            sampleSB.addSubject(sampleSubject);"
+        "content": "                new Content(\"Ethanoic acid is a weak acid. Most of the acid molecules remain unchanged in water \""
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "        }"
+        "content": "                        + \"as very few molecules are ionised to produce hydrogen ions.\"), EMPTY_DEADLINE,"
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "        return sampleSB;"
+        "content": "                getTagSet(\"Chemistry\")),"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": "    }*/"
+        "content": "            new Flashcard(new Topic(\"Is Ammonia an Acid\"), new Difficulty(\"2\"),"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "wanchinglim"
+          "gitId": "dannong"
         },
-        "content": ""
+        "content": "                new Content(\"No, ammonia is not an acid. It does not produce hydrogen ions when dissolved in water.\"),"
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    public static ReadOnlyFlashBook getSampleFlashBook() {"
+        "content": "                    EMPTY_DEADLINE,"
       },
       {
         "lineNumber": 49,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        FlashBook sampleAb \u003d new FlashBook();"
+        "content": "                getTagSet(\"Chemistry\")),"
       },
       {
         "lineNumber": 50,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        for (Flashcard sampleFlashcard : getSampleFlashcards()) {"
+        "content": "            new Flashcard(new Topic(\"Define Basicity of an Acid\"), new Difficulty(\"1\"),"
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "dannong"
         },
-        "content": "            sampleAb.addFlashcard(sampleFlashcard);"
+        "content": "                new Content(\"Basicity of an acid refers to the number of moles of hydrogen ions that can be \""
       },
       {
         "lineNumber": 52,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"produced by one mole of acid.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 53,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Chemistry\")),"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"What is the difference between Organic and Inorganic Acids\"), new Difficulty(\"3\"),"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Organic acids are obtained from plants and animals whereas Inorganic acids can be \""
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"prepared in the laboratory from mineral elements or inorganic matter.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Chemistry\")),"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            // list of flashcards in subject Physics"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"Define Energy of a System\"), new Difficulty(\"1\"),"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Energy of a system is defined as its capacity to do work\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Physics\")),"
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"What is the Principle of Conservation of Energy\"), new Difficulty(\"2\"),"
+      },
+      {
+        "lineNumber": 64,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"The Principle of Conservation of Energy states that energy cannot be created nor \""
+      },
+      {
+        "lineNumber": 65,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"destroyed in any process. Total amount of energy of a closed system remains constant. \""
+      },
+      {
+        "lineNumber": 66,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"Energy can also be converted or transformed from one form to another.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Physics\")),"
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"List the forms of Energy\"), new Difficulty(\"2\"),"
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Potential Energy, Kinetic Energy, Electrical Energy, Thermal Energy, Light Energy and \""
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"Nuclear Energy.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Physics\")),"
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"Define Kinetic Energy\"), new Difficulty(\"1\"),"
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Kinetic Energy is the energy a body possessed by virtue of its motion.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Physics\")),"
+      },
+      {
+        "lineNumber": 75,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"Define Potential Energy\"), new Difficulty(\"1\"),"
+      },
+      {
+        "lineNumber": 76,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Potential Energy is the stored energy in a system.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Physics\")),"
+      },
+      {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"Define Gravitational Potential Energy\"), new Difficulty(\"1\"),"
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Gravitational Potential Energy is defined as the amount of work done in order to \""
+      },
+      {
+        "lineNumber": 80,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"raise the body to the height h from a reference level.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 81,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Physics\")),"
+      },
+      {
+        "lineNumber": 82,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"Define Friction\"), new Difficulty(\"1\"),"
+      },
+      {
+        "lineNumber": 83,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Friction is the force that resists the motion of one surface relative to another with \""
+      },
+      {
+        "lineNumber": 84,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"which it is in contact. It is parallel to the contact surfaces and opposite to the \""
+      },
+      {
+        "lineNumber": 85,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"direction of motion or impeding motion.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 86,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Physics\")),"
+      },
+      {
+        "lineNumber": 87,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"What are the Advantages of Friction\"), new Difficulty(\"3\"),"
+      },
+      {
+        "lineNumber": 88,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Friction prevents slipping when walking. Friction is also used in braking pads to \""
+      },
+      {
+        "lineNumber": 89,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"slow down cars.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 90,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Physics\")),"
+      },
+      {
+        "lineNumber": 91,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"What are the Disadvantages of Friction\"), new Difficulty(\"3\"),"
+      },
+      {
+        "lineNumber": 92,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Friction reduces speed of motion and causes wear and tear. Energy is also wasted as \""
+      },
+      {
+        "lineNumber": 93,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"work done to overcome friction.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 94,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Physics\")),"
+      },
+      {
+        "lineNumber": 95,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"List Methods to Reduce Friction\"), new Difficulty(\"3\"),"
+      },
+      {
+        "lineNumber": 96,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Lubricate the surfaces in contact. Smoothen the surfaces in contact by polishing. \""
+      },
+      {
+        "lineNumber": 97,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"Place ball bearings, rollers between surfaces.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 98,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Physics\")),"
+      },
+      {
+        "lineNumber": 99,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 100,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            // list of flashcards in subject Geography"
+      },
+      {
+        "lineNumber": 101,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"List some Cities that are experiencing Housing Shortage\"), new Difficulty(\"2\"),"
+      },
+      {
+        "lineNumber": 102,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Los Angeles, USA. Beijing, China. Istanbul, Turkey. Cairo, Egypt. Lagos, Nigeria. \""
+      },
+      {
+        "lineNumber": 103,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"Mumbai, India.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 104,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Geography\")),"
+      },
+      {
+        "lineNumber": 105,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"What are the Reasons for Housing Shortage\"), new Difficulty(\"1\"),"
+      },
+      {
+        "lineNumber": 106,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Limited land supply. Push-pull factors in rural-urban migration. High birth rate. \""
+      },
+      {
+        "lineNumber": 107,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"Landuse competition.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 108,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Geography\")),"
+      },
+      {
+        "lineNumber": 109,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"What are the Consequences of Housing Shortage\"), new Difficulty(\"2\"),"
+      },
+      {
+        "lineNumber": 110,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Homelessness. Slums and squatter settlements which result in environmental pollution, \""
+      },
+      {
+        "lineNumber": 111,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"low level of health due to poor living conditions, and vulnerability.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 112,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Geography\")),"
+      },
+      {
+        "lineNumber": 113,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"List the Strategies that are used to manage Housing Shortage\"),"
+      },
+      {
+        "lineNumber": 114,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                    new Difficulty(\"3\"),"
+      },
+      {
+        "lineNumber": 115,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Slum upgrading and provision of public housing.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 116,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Geography\")),"
+      },
+      {
+        "lineNumber": 117,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"What are the types of Floods\"), new Difficulty(\"1\"),"
+      },
+      {
+        "lineNumber": 118,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Coastal floods, river floods and flash floods.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 119,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Geography\")),"
+      },
+      {
+        "lineNumber": 120,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"What is a Coastal Flood\"), new Difficulty(\"1\"),"
+      },
+      {
+        "lineNumber": 121,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"A coastal flood is the flooding along the coast, especially low-lying coastal land \""
+      },
+      {
+        "lineNumber": 122,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"and river mouths, caused by storm surge from typhoons or hurricanes or tsunamis.\"),"
+      },
+      {
+        "lineNumber": 123,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                    EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 124,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Geography\")),"
+      },
+      {
+        "lineNumber": 125,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"What is a River Flood\"), new Difficulty(\"1\"),"
+      },
+      {
+        "lineNumber": 126,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"A river flood happens when rivers overflow its banks due to increase discharge in the \""
+      },
+      {
+        "lineNumber": 127,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"river due to snowmelt, heavy rainfall or dam failure.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 128,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Geography\")),"
+      },
+      {
+        "lineNumber": 129,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"What is a Flash Flood\"), new Difficulty(\"1\"),"
+      },
+      {
+        "lineNumber": 130,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"A flash flood is a quick rise in water level and takes place suddenly. \""
+      },
+      {
+        "lineNumber": 131,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"It lasts for a short period of time and can be caused by heavy rainfall or coastal \""
+      },
+      {
+        "lineNumber": 132,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"and river floods.\"), EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 133,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Geography\")),"
+      },
+      {
+        "lineNumber": 134,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            new Flashcard(new Topic(\"Why is Singapore more prone to Flooding\"), new Difficulty(\"3\"),"
+      },
+      {
+        "lineNumber": 135,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                new Content(\"Singapore is a densely built-up area with a high proportion of concrete surfaces \""
+      },
+      {
+        "lineNumber": 136,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"which are impermeable. When it rains heavily, there are little of low levels of \""
+      },
+      {
+        "lineNumber": 137,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"infiltration and this leads to high surface run-off. The drains are unable to cope with \""
+      },
+      {
+        "lineNumber": 138,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"the high volume of water. Moreover, debris also chokes up the drains and water is \""
+      },
+      {
+        "lineNumber": 139,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                        + \"unable to flow smoothly. As a result, the drains overflow, resulting in flash floods.\"),"
+      },
+      {
+        "lineNumber": 140,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                    EMPTY_DEADLINE,"
+      },
+      {
+        "lineNumber": 141,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                getTagSet(\"Geography\"))"
+      },
+      {
+        "lineNumber": 142,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        };"
+      },
+      {
+        "lineNumber": 143,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 144,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 145,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "    /* public static SubjectBook[] getSampleSubjects() {"
+      },
+      {
+        "lineNumber": 146,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "        return new SubjectBook[] {"
+      },
+      {
+        "lineNumber": 147,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "                new SubjectBook(new SubjectTag(\"math\")),"
+      },
+      {
+        "lineNumber": 148,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "                new SubjectBook(new SubjectTag(\"science\")),"
+      },
+      {
+        "lineNumber": 149,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "                new SubjectBook(new SubjectTag(\"english\"))"
+      },
+      {
+        "lineNumber": 150,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "        };"
+      },
+      {
+        "lineNumber": 151,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 152,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 153,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "    public static ReadOnlySubjectBook getSampleSubjectBook() {"
+      },
+      {
+        "lineNumber": 154,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "        SubjectBook sampleSB \u003d new SubjectBook();"
+      },
+      {
+        "lineNumber": 155,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "        for (SubjectBook sampleSubject : getSampleSubjects()) {"
+      },
+      {
+        "lineNumber": 156,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "            sampleSB.addSubject(sampleSubject);"
+      },
+      {
+        "lineNumber": 157,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "        }"
+      },
+      {
+        "lineNumber": 158,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "        return sampleSB;"
+      },
+      {
+        "lineNumber": 159,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "    }*/"
+      },
+      {
+        "lineNumber": 160,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 161,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "    public static ReadOnlyFlashBook getSampleFlashBook() {"
+      },
+      {
+        "lineNumber": 162,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "        FlashBook sampleAb \u003d new FlashBook();"
+      },
+      {
+        "lineNumber": 163,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "        for (Flashcard sampleFlashcard : getSampleFlashcards()) {"
+      },
+      {
+        "lineNumber": 164,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            sampleAb.addFlashcard(sampleFlashcard);"
+      },
+      {
+        "lineNumber": 165,
         "author": {
           "gitId": "-"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 53,
+        "lineNumber": 166,
         "author": {
           "gitId": "-"
         },
         "content": "        return sampleAb;"
       },
       {
-        "lineNumber": 54,
+        "lineNumber": 167,
         "author": {
           "gitId": "-"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 55,
+        "lineNumber": 168,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 56,
+        "lineNumber": 169,
         "author": {
           "gitId": "-"
         },
         "content": "    /**"
       },
       {
-        "lineNumber": 57,
+        "lineNumber": 170,
         "author": {
           "gitId": "-"
         },
         "content": "     * Returns a tag set containing the list of strings given."
       },
       {
-        "lineNumber": 58,
+        "lineNumber": 171,
         "author": {
           "gitId": "-"
         },
         "content": "     */"
       },
       {
-        "lineNumber": 59,
+        "lineNumber": 172,
         "author": {
           "gitId": "wanchinglim"
         },
         "content": "    public static Set\u003cSubjectTag\u003e getTagSet(String... strings) {"
       },
       {
-        "lineNumber": 60,
+        "lineNumber": 173,
         "author": {
           "gitId": "-"
         },
         "content": "        return Arrays.stream(strings)"
       },
       {
-        "lineNumber": 61,
+        "lineNumber": 174,
         "author": {
           "gitId": "wanchinglim"
         },
         "content": "                .map(SubjectTag::new)"
       },
       {
-        "lineNumber": 62,
+        "lineNumber": 175,
         "author": {
           "gitId": "-"
         },
         "content": "                .collect(Collectors.toSet());"
       },
       {
-        "lineNumber": 63,
+        "lineNumber": 176,
         "author": {
           "gitId": "-"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 64,
+        "lineNumber": 177,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 65,
+        "lineNumber": 178,
         "author": {
           "gitId": "-"
         },
@@ -51091,8 +52043,8 @@
       }
     ],
     "authorContributionMap": {
-      "wanchinglim": 26,
-      "dannong": 14,
+      "wanchinglim": 21,
+      "dannong": 132,
       "-": 25
     }
   },
@@ -61152,493 +62104,486 @@
         "author": {
           "gitId": "dannong"
         },
-        "content": "import javafx.application.Platform;"
+        "content": "import javafx.beans.value.ObservableValue;"
       },
       {
         "lineNumber": 8,
         "author": {
           "gitId": "dannong"
         },
-        "content": "import javafx.beans.value.ObservableValue;"
+        "content": "import javafx.fxml.FXML;"
       },
       {
         "lineNumber": 9,
         "author": {
           "gitId": "dannong"
         },
-        "content": "import javafx.fxml.FXML;"
+        "content": "import javafx.scene.control.Label;"
       },
       {
         "lineNumber": 10,
         "author": {
           "gitId": "dannong"
         },
-        "content": "import javafx.scene.control.Label;"
+        "content": "import javafx.scene.control.SplitPane;"
       },
       {
         "lineNumber": 11,
         "author": {
           "gitId": "dannong"
         },
-        "content": "import javafx.scene.control.SplitPane;"
+        "content": "import javafx.scene.layout.AnchorPane;"
       },
       {
         "lineNumber": 12,
         "author": {
           "gitId": "dannong"
         },
-        "content": "import javafx.scene.layout.AnchorPane;"
+        "content": "import javafx.scene.layout.Region;"
       },
       {
         "lineNumber": 13,
         "author": {
           "gitId": "dannong"
         },
-        "content": "import javafx.scene.layout.Region;"
+        "content": "import javafx.scene.layout.StackPane;"
       },
       {
         "lineNumber": 14,
         "author": {
           "gitId": "dannong"
         },
-        "content": "import javafx.scene.layout.StackPane;"
+        "content": "import javafx.scene.web.WebView;"
       },
       {
         "lineNumber": 15,
         "author": {
           "gitId": "dannong"
         },
-        "content": "import javafx.scene.web.WebView;"
+        "content": "import seedu.address.MainApp;"
       },
       {
         "lineNumber": 16,
         "author": {
           "gitId": "dannong"
         },
-        "content": "import seedu.address.MainApp;"
+        "content": "import seedu.address.model.flashcard.Flashcard;"
       },
       {
         "lineNumber": 17,
         "author": {
           "gitId": "dannong"
         },
-        "content": "import seedu.address.model.flashcard.Flashcard;"
+        "content": ""
       },
       {
         "lineNumber": 18,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "/**"
       },
       {
         "lineNumber": 19,
         "author": {
           "gitId": "dannong"
         },
-        "content": "/**"
+        "content": " * Panel containing the topic and content of flashcards."
       },
       {
         "lineNumber": 20,
         "author": {
           "gitId": "dannong"
         },
-        "content": " * Panel containing the topic and content of flashcards."
+        "content": " */"
       },
       {
         "lineNumber": 21,
         "author": {
           "gitId": "dannong"
         },
-        "content": " */"
+        "content": ""
       },
       {
         "lineNumber": 22,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "public class RightPanel extends UiPart\u003cRegion\u003e {"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "dannong"
         },
-        "content": "public class RightPanel extends UiPart\u003cRegion\u003e {"
+        "content": "    public static final URL DEFAULT_PAGE \u003d"
       },
       {
         "lineNumber": 24,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    public static final URL DEFAULT_PAGE \u003d"
+        "content": "            requireNonNull(MainApp.class.getResource(FXML_FILE_FOLDER + \"default.html\"));"
       },
       {
         "lineNumber": 25,
         "author": {
           "gitId": "dannong"
         },
-        "content": "            requireNonNull(MainApp.class.getResource(FXML_FILE_FOLDER + \"default.html\"));"
+        "content": "    public static final String SEARCH_PAGE_URL \u003d \"https://se-education.org/dummy-search-page/?name\u003d\";"
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    public static final String SEARCH_PAGE_URL \u003d \"https://se-education.org/dummy-search-page/?name\u003d\";"
+        "content": "    //public static final String SEARCH_PAGE_URL \u003d \"https://cs2113-ay1819s2-m11-3.github.io/TopicContentPage.html\";"
       },
       {
         "lineNumber": 27,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    //public static final String SEARCH_PAGE_URL \u003d \"https://cs2113-ay1819s2-m11-3.github.io/TopicContentPage.html\";"
+        "content": "    //public static final String DEFAULT_PAGE \u003d \"default.html\";"
       },
       {
         "lineNumber": 28,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    //public static final String DEFAULT_PAGE \u003d \"default.html\";"
+        "content": "    //public static final String SEARCH_PAGE_URL \u003d \"https://dannong.github.io/dannflashcards/TopicContentPage.html\";"
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    //public static final String SEARCH_PAGE_URL \u003d \"https://dannong.github.io/dannflashcards/TopicContentPage.html\";"
+        "content": "    //private static final String FXML \u003d \"BrowserPanel.fxml\";"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    //private static final String FXML \u003d \"BrowserPanel.fxml\";"
+        "content": ""
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "    private static final String FXML \u003d \"RightPanel.fxml\";"
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    private static final String FXML \u003d \"RightPanel.fxml\";"
+        "content": ""
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "    @FXML"
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    @FXML"
+        "content": "    private WebView browser;"
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    private WebView browser;"
+        "content": "    @FXML"
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    @FXML"
+        "content": "    private SplitPane rightMostPane;"
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    private SplitPane rightMostPane;"
+        "content": "    @FXML"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    @FXML"
+        "content": "    private AnchorPane buttonAnchorPane;"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    private AnchorPane buttonAnchorPane;"
+        "content": "    @FXML"
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    @FXML"
+        "content": "    private StackPane contentAnchorPane;"
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    private StackPane contentAnchorPane;"
+        "content": "    //private AnchorPane contentAnchorPane;"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    //private AnchorPane contentAnchorPane;"
+        "content": "    @FXML"
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    @FXML"
+        "content": "    private StackPane topicAnchorPane;"
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    private StackPane topicAnchorPane;"
+        "content": "    @FXML"
       },
       {
         "lineNumber": 45,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    @FXML"
+        "content": "    private Label selectedFlashcardTopic;"
       },
       {
         "lineNumber": 46,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    private Label selectedFlashcardTopic;"
+        "content": "    @FXML"
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    @FXML"
+        "content": "    private Label selectedFlashcardContent;"
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    private Label selectedFlashcardContent;"
+        "content": ""
       },
       {
         "lineNumber": 49,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "    public RightPanel(ObservableValue\u003cFlashcard\u003e selectedFlashcard) {"
       },
       {
         "lineNumber": 50,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    public RightPanel(ObservableValue\u003cFlashcard\u003e selectedFlashcard) {"
+        "content": "        super(FXML);"
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        super(FXML);"
+        "content": ""
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "        // Load flashcard page when selected flashcard changes."
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        // Load flashcard page when selected flashcard changes."
+        "content": "        selectedFlashcard.addListener((observable, oldValue, newValue) -\u003e {"
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        selectedFlashcard.addListener((observable, oldValue, newValue) -\u003e {"
+        "content": "            //if (newValue \u003d\u003d null) {"
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "dannong"
         },
-        "content": "            if (newValue \u003d\u003d null) {"
+        "content": "            //    loadDefaultPage();"
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                loadDefaultPage();"
+        "content": "            //    return;"
       },
       {
         "lineNumber": 57,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                return;"
+        "content": "            //}"
       },
       {
         "lineNumber": 58,
         "author": {
           "gitId": "dannong"
         },
-        "content": "            }"
+        "content": "            loadFlashcardPage(newValue);"
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "dannong"
         },
-        "content": "            loadFlashcardPage(newValue);"
+        "content": "        });"
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        });"
+        "content": ""
       },
       {
         "lineNumber": 61,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "        //loadDefaultPage();"
       },
       {
         "lineNumber": 62,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        loadDefaultPage();"
+        "content": "    }"
       },
       {
         "lineNumber": 63,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    }"
+        "content": ""
       },
       {
         "lineNumber": 64,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "    private void loadFlashcardPage(Flashcard flashcard) {"
       },
       {
         "lineNumber": 65,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    private void loadFlashcardPage(Flashcard flashcard) {"
+        "content": "        //loadPage(SEARCH_PAGE_URL + flashcard.getTopic().fullTopic);"
       },
       {
         "lineNumber": 66,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        //loadPage(SEARCH_PAGE_URL + flashcard.getTopic().fullTopic);"
+        "content": "        selectedFlashcardTopic.setText(flashcard.getTopic().toString());"
       },
       {
         "lineNumber": 67,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        selectedFlashcardTopic.setText(flashcard.getTopic().toString());"
+        "content": "        selectedFlashcardContent.setText(flashcard.getContent().toString());"
       },
       {
         "lineNumber": 68,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        selectedFlashcardContent.setText(flashcard.getContent().toString());"
+        "content": "    }"
       },
       {
         "lineNumber": 69,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    }"
+        "content": ""
       },
       {
         "lineNumber": 70,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "    //public void loadPage(String url) {"
       },
       {
         "lineNumber": 71,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    public void loadPage(String url) {"
+        "content": "    //    Platform.runLater(() -\u003e browser.getEngine().load(url));"
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        Platform.runLater(() -\u003e browser.getEngine().load(url));"
+        "content": ""
       },
       {
         "lineNumber": 73,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    }"
+        "content": "    //private void loadDefaultPage() {"
       },
       {
         "lineNumber": 74,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    private void loadDefaultPage() {"
+        "content": "    //      loadPage(DEFAULT_PAGE.toExternalForm());"
       },
       {
         "lineNumber": 75,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        loadPage(DEFAULT_PAGE.toExternalForm());"
+        "content": "    //}"
       },
       {
         "lineNumber": 76,
-        "author": {
-          "gitId": "dannong"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 77,
         "author": {
           "gitId": "dannong"
         },
@@ -61646,7 +62591,7 @@
       }
     ],
     "authorContributionMap": {
-      "dannong": 77
+      "dannong": 76
     }
   },
   {
@@ -67912,7 +68857,7 @@
         "author": {
           "gitId": "dannong"
         },
-        "content": "            \u003cStackPane fx:id\u003d\"subjectListPanelPlaceholder\" VBox.vgrow\u003d\"ALWAYS\" minWidth\u003d\"340\" prefWidth\u003d\"340\"/\u003e"
+        "content": "            \u003cStackPane fx:id\u003d\"subjectListPanelPlaceholder\" VBox.vgrow\u003d\"ALWAYS\" minWidth\u003d\"340\" prefWidth\u003d\"340\" minHeight\u003d\"650\" prefHeight\u003d\"650\"/\u003e"
       },
       {
         "lineNumber": 64,
@@ -68152,353 +69097,430 @@
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003c?import javafx.scene.layout.AnchorPane?\u003e"
+        "content": "\u003c?import javafx.scene.control.Button?\u003e"
       },
       {
         "lineNumber": 4,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003c?import javafx.scene.layout.HBox?\u003e"
+        "content": "\u003c?import javafx.scene.control.ButtonBar?\u003e"
       },
       {
         "lineNumber": 5,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003c?import javafx.scene.control.SplitPane?\u003e"
+        "content": "\u003c?import javafx.scene.control.Label?\u003e"
       },
       {
         "lineNumber": 6,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003c?import javafx.scene.control.ButtonBar?\u003e"
+        "content": "\u003c?import javafx.scene.control.SplitPane?\u003e"
       },
       {
         "lineNumber": 7,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003c?import javafx.scene.control.Button?\u003e"
+        "content": "\u003c?import javafx.scene.effect.InnerShadow?\u003e"
       },
       {
         "lineNumber": 8,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003c?import javafx.scene.layout.Region?\u003e"
+        "content": "\u003c?import javafx.scene.layout.AnchorPane?\u003e"
       },
       {
         "lineNumber": 9,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003c?import javafx.scene.layout.StackPane?\u003e"
+        "content": "\u003c?import javafx.scene.layout.HBox?\u003e"
       },
       {
         "lineNumber": 10,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003c?import javafx.scene.control.Label?\u003e"
+        "content": "\u003c?import javafx.scene.layout.StackPane?\u003e"
       },
       {
         "lineNumber": 11,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003c?import javafx.geometry.Insets?\u003e"
+        "content": ""
       },
       {
         "lineNumber": 12,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003c?import javafx.scene.web.WebView?\u003e"
+        "content": "\u003c?import javafx.scene.control.TextArea?\u003e"
       },
       {
         "lineNumber": 13,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003c?import javafx.scene.layout.VBox?\u003e"
+        "content": "\u003cSplitPane fx:id\u003d\"rightMostPane\" dividerPositions\u003d\"0.1\" orientation\u003d\"VERTICAL\" prefHeight\u003d\"50.0\" prefWidth\u003d\"500.0\" xmlns\u003d\"http://javafx.com/javafx/8.0.172-ea\" xmlns:fx\u003d\"http://javafx.com/fxml/1\"\u003e"
       },
       {
         "lineNumber": 14,
         "author": {
           "gitId": "dannong"
         },
-        "content": ""
+        "content": "    \u003c!--\u003cWebView fx:id\u003d\"browser\" opacity\u003d\"0.0\"/\u003e--\u003e"
       },
       {
         "lineNumber": 15,
         "author": {
           "gitId": "dannong"
         },
-        "content": "\u003cSplitPane fx:id\u003d\"rightMostPane\" dividerPositions\u003d\"0.1\" orientation\u003d\"VERTICAL\""
+        "content": "    \u003citems\u003e"
       },
       {
         "lineNumber": 16,
         "author": {
           "gitId": "dannong"
         },
-        "content": "           prefHeight\u003d\"50.0\" prefWidth\u003d\"500.0\""
+        "content": "        \u003cAnchorPane fx:id\u003d\"buttonAnchorPane\" minHeight\u003d\"60.0\" minWidth\u003d\"580.0\"\u003e"
       },
       {
         "lineNumber": 17,
         "author": {
           "gitId": "dannong"
         },
-        "content": "           xmlns\u003d\"http://javafx.com/javafx\" xmlns:fx\u003d\"http://javafx.com/fxml\"\u003e"
+        "content": "                \u003cchildren\u003e"
       },
       {
         "lineNumber": 18,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    \u003c!--\u003cWebView fx:id\u003d\"browser\" opacity\u003d\"0.0\"/\u003e--\u003e"
+        "content": "                    \u003cHBox alignment\u003d\"BASELINE_CENTER\" layoutX\u003d\"150.0\" layoutY\u003d\"20.0\" prefHeight\u003d\"60.0\" spacing\u003d\"10\"\u003e"
       },
       {
         "lineNumber": 19,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    \u003citems\u003e"
+        "content": "                        \u003cchildren\u003e"
       },
       {
         "lineNumber": 20,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        \u003cAnchorPane fx:id\u003d\"buttonAnchorPane\" minHeight\u003d\"60.0\" minWidth\u003d\"580.0\"\u003e"
+        "content": "                            \u003cButtonBar buttonMinWidth\u003d\"100.0\" minHeight\u003d\"20.0\" minWidth\u003d\"300.0\"\u003e"
       },
       {
         "lineNumber": 21,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                \u003cchildren\u003e"
+        "content": "                                \u003cbuttons\u003e"
       },
       {
         "lineNumber": 22,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                    \u003cHBox spacing\u003d\"10\" alignment\u003d\"BASELINE_CENTER\" layoutX\u003d\"150.0\" layoutY\u003d\"20.0\" prefHeight\u003d\"60.0\"\u003e"
+        "content": "                                    \u003c!--\u003cButton mnemonicParsing\u003d\"false\" text\u003d\"Topic\" onAction\u003d\"#handleChangeToTopic\"/\u003e--\u003e"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                        \u003cchildren\u003e"
+        "content": "                                    \u003c!--\u003cButton mnemonicParsing\u003d\"false\" text\u003d\"Content\" onAction\u003d\"#handleChangeToContent\"/\u003e--\u003e"
       },
       {
         "lineNumber": 24,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                            \u003cButtonBar\u003e"
+        "content": "                                    \u003c!--\u003cButton mnemonicParsing\u003d\"false\" text\u003d\"Topic and Content\" /\u003e--\u003e"
       },
       {
         "lineNumber": 25,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                                \u003cbuttons\u003e"
+        "content": "                                    \u003cButton mnemonicParsing\u003d\"false\" text\u003d\"Topic\" /\u003e"
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                                    \u003c!--\u003cButton mnemonicParsing\u003d\"false\" text\u003d\"Topic\" onAction\u003d\"#handleChangeToTopic\"/\u003e--\u003e"
+        "content": "                                    \u003cButton mnemonicParsing\u003d\"false\" text\u003d\"Content\" /\u003e"
       },
       {
         "lineNumber": 27,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                                    \u003c!--\u003cButton mnemonicParsing\u003d\"false\" text\u003d\"Content\" onAction\u003d\"#handleChangeToContent\"/\u003e--\u003e"
+        "content": "                                \u003c/buttons\u003e"
       },
       {
         "lineNumber": 28,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                                    \u003c!--\u003cButton mnemonicParsing\u003d\"false\" text\u003d\"Topic and Content\" /\u003e--\u003e"
+        "content": "                     \u003ceffect\u003e"
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                                    \u003cButton mnemonicParsing\u003d\"false\" text\u003d\"Topic\"/\u003e"
+        "content": "                        \u003cInnerShadow /\u003e"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                                    \u003cButton mnemonicParsing\u003d\"false\" text\u003d\"Content\"/\u003e"
+        "content": "                     \u003c/effect\u003e"
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                                \u003c/buttons\u003e"
+        "content": "                            \u003c/ButtonBar\u003e"
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                            \u003c/ButtonBar\u003e"
+        "content": "                        \u003c/children\u003e"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                        \u003c/children\u003e"
+        "content": "                    \u003c/HBox\u003e"
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                    \u003c/HBox\u003e"
+        "content": "                \u003c/children\u003e"
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                \u003c/children\u003e"
+        "content": "        \u003c/AnchorPane\u003e"
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        \u003c/AnchorPane\u003e"
+        "content": "        \u003c!--\u003cAnchorPane fx:id\u003d\"contentAnchorPane\" minHeight\u003d\"550.0\" minWidth\u003d\"500.0\" style\u003d\"-fx-background-color: grey;\"\u003e--\u003e"
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        \u003c!--\u003cAnchorPane fx:id\u003d\"contentAnchorPane\" minHeight\u003d\"550.0\" minWidth\u003d\"500.0\" style\u003d\"-fx-background-color: grey;\"\u003e--\u003e"
+        "content": "                \u003c!--\u003cchildren\u003e--\u003e"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                \u003c!--\u003cchildren\u003e--\u003e"
+        "content": "                    \u003c!--\u003cLabel fx:id\u003d\"selectedFlashcardContent\" style\u003d\"-fx-text-fill: black;\"/\u003e--\u003e"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                    \u003c!--\u003cLabel fx:id\u003d\"selectedFlashcardContent\" style\u003d\"-fx-text-fill: black;\"/\u003e--\u003e"
+        "content": "                \u003c!--\u003c/children\u003e--\u003e"
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                \u003c!--\u003c/children\u003e--\u003e"
+        "content": "        \u003c!--\u003c/AnchorPane\u003e--\u003e"
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        \u003c!--\u003c/AnchorPane\u003e--\u003e"
+        "content": "        \u003c!--\u003cStackPane fx:id\u003d\"topicAnchorPane\" minHeight\u003d\"200.0\" minWidth\u003d\"500.0\" style\u003d\"-fx-background-color: black;\"\u003e--\u003e"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        \u003cStackPane fx:id\u003d\"topicAnchorPane\" minHeight\u003d\"200.0\" minWidth\u003d\"500.0\" style\u003d\"-fx-background-color: black;\"\u003e"
+        "content": "            \u003c!--\u003cchildren\u003e--\u003e"
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "dannong"
         },
-        "content": "            \u003cchildren\u003e"
+        "content": "                \u003c!--\u003cLabel fx:id\u003d\"selectedFlashcardTopic\" style\u003d\"-fx-text-fill: white;\"/\u003e--\u003e"
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                \u003cLabel fx:id\u003d\"selectedFlashcardTopic\" style\u003d\"-fx-text-fill: white;\"/\u003e"
+        "content": "            \u003c!--\u003c/children\u003e--\u003e"
       },
       {
         "lineNumber": 45,
         "author": {
           "gitId": "dannong"
         },
-        "content": "            \u003c/children\u003e"
+        "content": "        \u003c!--\u003c/StackPane\u003e--\u003e"
       },
       {
         "lineNumber": 46,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        \u003c/StackPane\u003e"
+        "content": "        \u003c!--\u003cStackPane fx:id\u003d\"contentAnchorPane\" minHeight\u003d\"250.0\" minWidth\u003d\"500.0\" style\u003d\"-fx-background-color: black;\"\u003e--\u003e"
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        \u003cStackPane fx:id\u003d\"contentAnchorPane\" minHeight\u003d\"250.0\" minWidth\u003d\"500.0\" style\u003d\"-fx-background-color: black;\"\u003e"
+        "content": "            \u003c!--\u003cchildren\u003e--\u003e"
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "dannong"
         },
-        "content": "            \u003cchildren\u003e"
+        "content": "                \u003c!--\u003cLabel fx:id\u003d\"selectedFlashcardContent\" style\u003d\"-fx-text-fill: white;\"/\u003e--\u003e"
       },
       {
         "lineNumber": 49,
         "author": {
           "gitId": "dannong"
         },
-        "content": "                \u003cLabel fx:id\u003d\"selectedFlashcardContent\" style\u003d\"-fx-text-fill: white;\"/\u003e"
+        "content": "            \u003c!--\u003c/children\u003e--\u003e"
       },
       {
         "lineNumber": 50,
         "author": {
           "gitId": "dannong"
         },
-        "content": "            \u003c/children\u003e"
+        "content": "        \u003c!--\u003c/StackPane\u003e--\u003e"
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "dannong"
         },
-        "content": "        \u003c/StackPane\u003e"
+        "content": "        \u003cStackPane fx:id\u003d\"topicAnchorPane\" minHeight\u003d\"600.0\" minWidth\u003d\"500.0\" style\u003d\"-fx-background-color: black;\"\u003e"
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "dannong"
         },
-        "content": "    \u003c/items\u003e"
+        "content": "            \u003cchildren\u003e"
       },
       {
         "lineNumber": 53,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                \u003cLabel fx:id\u003d\"selectedFlashcardTopic\" style\u003d\"-fx-text-fill: white;\" styleClass\u003d\"cell_big_label\" wrapText\u003d\"true\" textAlignment\u003d\"CENTER\" /\u003e"
+      },
+      {
+        "lineNumber": 54,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                \u003cLabel fx:id\u003d\"selectedFlashcardContent\" style\u003d\"-fx-text-fill: white;\" styleClass\u003d\"cell_big_label\" wrapText\u003d\"true\" textAlignment\u003d\"CENTER\"/\u003e"
+      },
+      {
+        "lineNumber": 55,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            \u003c/children\u003e"
+      },
+      {
+        "lineNumber": 56,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "        \u003c/StackPane\u003e"
+      },
+      {
+        "lineNumber": 57,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "        \u003c!--\u003cStackPane fx:id\u003d\"contentAnchorPane\" minHeight\u003d\"250.0\" minWidth\u003d\"500.0\" style\u003d\"-fx-background-color: black;\"\u003e--\u003e"
+      },
+      {
+        "lineNumber": 58,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            \u003c!--\u003cchildren\u003e--\u003e"
+      },
+      {
+        "lineNumber": 59,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "                \u003c!--\u003cLabel fx:id\u003d\"selectedFlashcardContent\" style\u003d\"-fx-text-fill: white;\" styleClass\u003d\"cell_big_label\" wrapText\u003d\"true\" textAlignment\u003d\"CENTER\"/\u003e--\u003e"
+      },
+      {
+        "lineNumber": 60,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "            \u003c!--\u003c/children\u003e--\u003e"
+      },
+      {
+        "lineNumber": 61,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "        \u003c!--\u003c/StackPane\u003e--\u003e"
+      },
+      {
+        "lineNumber": 62,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 63,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "    \u003c/items\u003e"
+      },
+      {
+        "lineNumber": 64,
         "author": {
           "gitId": "dannong"
         },
@@ -68506,7 +69528,7 @@
       }
     ],
     "authorContributionMap": {
-      "dannong": 53
+      "dannong": 64
     }
   },
   {

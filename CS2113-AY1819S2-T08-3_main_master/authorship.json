@@ -8410,14 +8410,14 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "1. Prefixed parameters such as `n/NAME`, `st/START_TIME`, `des/DESCRIPTION`, etc."
+        "content": ". Prefixed parameters such as `n/NAME`, `st/START_TIME`, `des/DESCRIPTION`, etc."
       },
       {
         "lineNumber": 419,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "2. Non-Prefixed parameters, A.K.A. keywords, such as `INDEX`, `TYPE_OF_VIEW`. etc."
+        "content": ". Non-Prefixed parameters, A.K.A. keywords, such as `INDEX`, `TYPE_OF_VIEW`. etc."
       },
       {
         "lineNumber": 420,
@@ -9488,7 +9488,7 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d\u003d\u003d\u003d Create a class to hold `Days`, instead of utilising a `HashMap`"
+        "content": "\u003d\u003d\u003d\u003d\u003d Create a class to represent `Days`, instead of utilising a `HashMap`"
       },
       {
         "lineNumber": 573,
@@ -18132,28 +18132,28 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "1. Tag modules. E.g. \"CS2113T\", \"CS2101\"."
+        "content": ". Tag modules. E.g. \"CS2113T\", \"CS2101\"."
       },
       {
         "lineNumber": 101,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "2. Tag type of lesson. E.g. \"Lecture\", \"Tutorial\", \"Lab\"."
+        "content": ". Tag type of lesson. E.g. \"Lecture\", \"Tutorial\", \"Lab\"."
       },
       {
         "lineNumber": 102,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "3. Tag type of activities. E.g. \"Sports\", \"Seminar\", \"Talk\"."
+        "content": ". Tag type of activities. E.g. \"Sports\", \"Seminar\", \"Talk\"."
       },
       {
         "lineNumber": 103,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "4. Tag difficulty of task. E.g. \"Tough\", \"Simple\", \"Trivial\"."
+        "content": ". Tag difficulty of task. E.g. \"Tough\", \"Simple\", \"Trivial\"."
       },
       {
         "lineNumber": 104,
@@ -20463,7 +20463,7 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "image::Export_Command_Directory_1.png[width\u003d\"790\"]"
+        "content": "image::Export_Command_Directory_1.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 434,
@@ -43561,609 +43561,609 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "This portfolio documents my contributions to *PlanMySem*, an application that was morphed from https://github.com/CS2113-AY1819S2-T08-3/main[AddressBook Level 3]"
       },
       {
         "lineNumber": 18,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "This portfolio documents my contributions to *PlanMySem*, an application that was morphed from https://github.com/CS2113-AY1819S2-T08-3/main[AddressBook Level 3]"
+        "content": "into a scheduling/calendar application that caters to NUS students and staff."
       },
       {
         "lineNumber": 19,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "into a scheduling/calendar application that caters to NUS students and staff."
+        "content": ""
       },
       {
         "lineNumber": 20,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "In summary, *PlanMySem* offers the following features:"
       },
       {
         "lineNumber": 21,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "In summary, *PlanMySem* offers the following features:"
+        "content": ""
       },
       {
         "lineNumber": 22,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "* Automatic creation of a planner that is synchronized to the NUS academic calendar for the current semester."
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* Automatic creation of a planner that is synchronized to the NUS academic calendar for the current semester."
+        "content": "* Quick and easy slot management (adding, editing and deleting of slots). This is achieved via two systems."
       },
       {
         "lineNumber": 24,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* Quick and easy slot management (adding, editing and deleting of slots). This is achieved via two systems."
+        "content": "    ** A unique recursion system which takes into account special weeks such as recess week or reading week to allow efficient adding of recurring items."
       },
       {
         "lineNumber": 25,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** A unique recursion system which takes into account special weeks such as recess week or reading week to allow efficient adding of recurring items."
+        "content": "    ** An intuitive tagging system to manage large amount of slots productively."
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** An intuitive tagging system to manage large amount of slots productively."
+        "content": "//* Optimized for you if you prefer to work with a Command Line Interface (CLI) and/or are learning to work more efficiently with CLI tools."
       },
       {
         "lineNumber": 27,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* Optimized for you if you prefer to work with a Command Line Interface (CLI) and/or are learning to work more efficiently with CLI tools."
+        "content": "//* Utilizes minimal resources on your machine while still allowing you to view your schedules swiftly."
       },
       {
         "lineNumber": 28,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* Utilizes minimal resources on your machine while still allowing you to view your schedules swiftly."
+        "content": ""
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "This application was developed as part of CS2113T, a software engineering module in the National University of Singapore (NUS), and consisted of 4 partners, \u003c\u003cmarcus-pzj#, Marcus\u003e\u003e, \u003c\u003cmacchazuki#, Jullian\u003e\u003e, \u003c\u003cdingheng4448#, Ding Heng\u003e\u003e"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "This application was developed as part of CS2113T, a software engineering module in the National University of Singapore (NUS), and consisted of 4 partners, \u003c\u003cmarcus-pzj#, Marcus\u003e\u003e, \u003c\u003cmacchazuki#, Jullian\u003e\u003e, \u003c\u003cdingheng4448#, Ding Heng\u003e\u003e"
+        "content": "and myself; in which I served as the team lead. I was responsible for the slot management feature (add, edit and delete commands) and the structure of the codebase."
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "and myself; in which I served as the team lead. I was responsible for the slot management feature (add, edit and delete commands) and the structure of the codebase."
+        "content": ""
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "\u003d\u003d Overview"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d Overview"
+        "content": ""
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "The next sections will illustrate these enhancements in more detail as well as the respective changes that I have made to both the user guide and developer guide."
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "The next sections will illustrate these enhancements in more detail as well as the respective changes that I have made to both the user guide and developer guide."
+        "content": ""
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "Kindly take note that throughout this portfolio, there will be various icons used as described as such."
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Kindly take note that throughout this portfolio, there will be various icons used as described as such."
+        "content": ""
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "[TIP]"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[TIP]"
+        "content": "This is a tip. Follow these suggested tips to make your life much simpler when using *PlanMySem*!"
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "This is a tip. Follow these suggested tips to make your life much simpler when using *PlanMySem*!"
+        "content": ""
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "[NOTE]"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[NOTE]"
+        "content": "This is a note. These are things for you to take note of when using *PlanMySem*."
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "This is a note. These are things for you to take note of when using *PlanMySem*."
+        "content": ""
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "[IMPORTANT]"
       },
       {
         "lineNumber": 45,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[IMPORTANT]"
+        "content": "This is a sign-post dictating important information. These are information that you will surely need to know to use *PlanMySem* efficiently."
       },
       {
         "lineNumber": 46,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "This is a sign-post dictating important information. These are information that you will surely need to know to use *PlanMySem* efficiently."
+        "content": ""
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "[CAUTION]"
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[CAUTION]"
+        "content": "This is a sign-post informing caution. Please take note of these items and exercise some care."
       },
       {
         "lineNumber": 49,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "This is a sign-post informing caution. Please take note of these items and exercise some care."
+        "content": ""
       },
       {
         "lineNumber": 50,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "\u003d\u003d Summary of contributions"
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d Summary of contributions"
+        "content": "This section shows a summary of my coding, documentation, and other helpful contributions to the team project."
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "This section shows a summary of my coding, documentation, and other helpful contributions to the team project."
+        "content": ""
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "* *Main Feature*: Slot management system, including the recursion and tagging system, of *PlanMySem*."
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* *Major enhancements*:"
+        "content": "    ** What it does: Slot management composes of the three interactions that users are able to perform regarding slots."
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Item 1: A Slot management system, including the recursion and tagging system, of *PlanMySem*."
+        "content": "        As such, slot management consists of the execution of the add, edit and delete commands and its functions."
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        *** What it does: Slot management composes of the three interactions that users are able to perform regarding slots."
+        "content": "    ** Justification: Slot management is the most crucial feature of *PlanMySem*, it is also the highlight of the application."
       },
       {
         "lineNumber": 57,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "            As such, slot management consists of the execution of the add, edit and delete commands and its functions."
+        "content": "        Without so, the planner cannot be manipulated nor interacted with."
       },
       {
         "lineNumber": 58,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        *** Justification: Slot management is the most crucial feature of *PlanMySem*, it is also the highlight of the application."
+        "content": "    ** Highlights: This enhancement involved many variables and data types due to the nature of slots and its details."
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "            Without so, the planner cannot be manipulated nor interacted with."
+        "content": "        As such, this enhancement involved a large amount of cases, same was the came as with its tests. Additionally, to cater"
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        *** Highlights: This enhancement involved many variables and data types due to the nature of slots and its details."
+        "content": "        for greater user experience and ease of use, several variations of each functions were done up."
       },
       {
         "lineNumber": 61,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "            As such, this enhancement involved a large amount of cases, same was the came as with its tests. Additionally, to cater"
+        "content": "        For example, slots can be editing via tags or index."
       },
       {
         "lineNumber": 62,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "            for greater user experience and ease of use, several variations of each functions were done up."
+        "content": ""
       },
       {
         "lineNumber": 63,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "            For example, slots can be editing via tags or index."
+        "content": "* *Minor Features*:"
       },
       {
         "lineNumber": 64,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "    ** A new unique parsing system to replace the existing system for both prefixed parameters and keywords."
       },
       {
         "lineNumber": 65,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Item 2: A new unique parsing system to replace the existing system for both prefixed parameters and keywords."
+        "content": "    ** A clock system to manage dates and time more efficiently as with the nature of a planner application, the application is very time sensitive."
       },
       {
         "lineNumber": 66,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        *** What it does: It parses commands input by the user and determines the user intention, hence determining what action"
+        "content": ""
       },
       {
         "lineNumber": 67,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "            is to be taken by the application."
+        "content": "* *Code contributed*:"
       },
       {
         "lineNumber": 68,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        *** Justification: A new parser with flexible reading of prefixed parameters allows for unordered parameters instead of fixed ordering"
+        "content": "    ** View my RepoSense contribution analysis: [https://nuscs2113-ay1819s2.github.io/dashboard-beta/#search\u003d\u0026sort\u003ddisplayName\u0026since\u003d2019-02-10\u0026until\u003d2019-03-26\u0026timeframe\u003dday\u0026reverse\u003dfalse\u0026groupSelect\u003dgroupByRepos\u0026breakdown\u003dfalse\u0026tabAuthor\u003dseanieyap\u0026tabRepo\u003dCS2113-AY1819S2-T08-3_main_master[here]]"
       },
       {
         "lineNumber": 69,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "            in the old parse. This way, new parser allow for greater ease of use and overall user experience."
+        "content": "    ** View my Pull Requests: [https://github.com/CS2113-AY1819S2-T08-3/main/pulls?q\u003dis%3Apr+author%3Aseanieyap+is%3Aclosed[here]]"
       },
       {
         "lineNumber": 70,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        *** Highlights: The implementation of this feature required taking care of numerous cases in an effective manner. It"
+        "content": ""
       },
       {
         "lineNumber": 71,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "            was a tedious and slow process but necessary."
+        "content": "* *Other contributions*:"
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "    ** Project Management: I was involved with the conception of *PlanMySem* and managed the codebase up till the release of version 1.4. These releases can be viewed https://github.com/CS2113-AY1819S2-T08-3/main/releases[here]."
       },
       {
         "lineNumber": 73,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* *Minor enhancement*:"
+        "content": "    ** Testing: I wrote tests for all code in trying to achieve the most code coverage and ensure reliability of my code."
       },
       {
         "lineNumber": 74,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Item 1: A clock system to manage dates and time more efficiently as with the nature of a planner application, the application is very time sensitive."
+        "content": "        Most of classes belonging to my features have 100% code coverage. At this time of writing, the code coverage for the entire codebase of *PlanMySem* is 91%."
       },
       {
         "lineNumber": 75,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "    ** Documentation: I updated the User Guide and Developer\u0027s Guide regarding all items related to the features that I am in charge of and the design."
       },
       {
         "lineNumber": 76,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* *Code contributed*:"
+        "content": "    ** Community: I reviewed Pull Requests and provided non-trivial review comments for some requests. These Pull Requests can be viewed https://github.com/CS2113-AY1819S2-T08-3/main/pulls?q\u003dis%3Apr+is%3Aclosed+reviewed-by%3Aseanieyap[here]."
       },
       {
         "lineNumber": 77,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** View my RepoSense contribution analysis: [https://nuscs2113-ay1819s2.github.io/dashboard-beta/#search\u003d\u0026sort\u003ddisplayName\u0026since\u003d2019-02-10\u0026until\u003d2019-03-26\u0026timeframe\u003dday\u0026reverse\u003dfalse\u0026groupSelect\u003dgroupByRepos\u0026breakdown\u003dfalse\u0026tabAuthor\u003dseanieyap\u0026tabRepo\u003dCS2113-AY1819S2-T08-3_main_master[here]]"
+        "content": "    ** Tools: Integrated all AddressBook Level 4 continuous Integration and continuous Deployment tools"
       },
       {
         "lineNumber": 78,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** View my Pull Requests: [https://github.com/CS2113-AY1819S2-T08-3/main/pulls?q\u003dis%3Apr+author%3Aseanieyap+is%3Aclosed[here]]"
+        "content": "        *** Continuous Integration tools: https://travis-ci.org/CS2113-AY1819S2-T08-3/main[Travis-CI], https://ci.appveyor.com/project/seanieyap/main-r8jp5[AppVeyor]"
       },
       {
         "lineNumber": 79,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "        *** Continuous Deployment tools: https://app.netlify.com/sites/planmysem/deploys[Netlify]"
       },
       {
         "lineNumber": 80,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* *Other contributions*:"
+        "content": "        *** Test Coverage History \u0026 Statistics tools: https://coveralls.io/github/CS2113-AY1819S2-T08-3/main?branch\u003dmaster[Coveralls]"
       },
       {
         "lineNumber": 81,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Project Management:"
+        "content": "        *** Automated code reviews and code analytics tools: https://app.codacy.com/project/CS2113T-T08-3/main/dashboard[Codacy]"
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        *** I was involved with the conception of *PlanMySem* up till the release of version 1.3. These releases can be viewed [https://github.com/CS2113-AY1819S2-T08-3/main/releases[here]]"
+        "content": ""
       },
       {
         "lineNumber": 83,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Testing:"
+        "content": "\u003d\u003d Contributions to the User Guide"
       },
       {
         "lineNumber": 84,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        *** I wrote tests for all code in trying to achieve the most code coverage and ensure reliability of my code."
+        "content": "This section shows some of my contributions to the User Guide."
       },
       {
         "lineNumber": 85,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        Most of classes belonging to my features have 100% code coverage. At this time of writing, the code coverage for the entire codebase of *PlanMySem* is 86%."
+        "content": "They not only showcase my ability to write documentation targeting end-users but also make user-centric design choices."
       },
       {
         "lineNumber": 86,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Community:"
+        "content": ""
       },
       {
         "lineNumber": 87,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        ***"
+        "content": "My contributions here can be summarised into 2 sections, features and adding, editing and deleting slots."
       },
       {
         "lineNumber": 88,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Tools: Integrated all AddressBook Level 4 continuous Integration and continuous Deployment tools"
+        "content": ""
       },
       {
         "lineNumber": 89,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        *** continuous Integration tools:"
+        "content": "\u003d\u003d\u003d Features"
       },
       {
         "lineNumber": 90,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        **** [https://travis-ci.org/CS2113-AY1819S2-T08-3/main[Travis-CI]]"
+        "content": "Under the Features section, I contributed to explaining the Tagging and Recursion system that I designed."
       },
       {
         "lineNumber": 91,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        **** [https://ci.appveyor.com/project/seanieyap/main-r8jp5[AppVeyor]]"
+        "content": ""
       },
       {
         "lineNumber": 92,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        *** continuous Deployment tools:"
+        "content": "*Tagging System*"
       },
       {
         "lineNumber": 93,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        **** [https://app.netlify.com/sites/planmysem/deploys[Netlify]]"
+        "content": ""
       },
       {
         "lineNumber": 94,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        *** Test Coverage History \u0026 Statistics tools:"
+        "content": "Unlike other commercial calendar/scheduling/planner software, *PlanMySem* makes use of a tagging system to manage _slots_."
       },
       {
         "lineNumber": 95,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        **** [https://coveralls.io/github/CS2113-AY1819S2-T08-3/main?branch\u003dmaster[Coveralls]]"
+        "content": ""
       },
       {
         "lineNumber": 96,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        *** Automated code reviews and code analytics tools:"
+        "content": "Using tags to tag _slots_ will make tasks easier for you in the future. Performing tasks such as viewing, deleting and editing _slots_ will be more efficient."
       },
       {
         "lineNumber": 97,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "        **** [https://app.codacy.com/project/CS2113T-T08-3/main/dashboard[Codacy]]"
+        "content": ""
       },
       {
         "lineNumber": 98,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//Recommended uses for tags:"
       },
       {
         "lineNumber": 99,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d Contributions to the User Guide"
+        "content": "//"
       },
       {
         "lineNumber": 100,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "This section shows some of my contributions to the User Guide."
+        "content": "//1. Tag modules. E.g. \"CS2113T\", \"CS2101\"."
       },
       {
         "lineNumber": 101,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "They not only showcase my ability to write documentation targeting end-users but also make user-centric design choices."
+        "content": "//2. Tag type of lesson. E.g. \"Lecture\", \"Tutorial\", \"Lab\"."
       },
       {
         "lineNumber": 102,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//3. Tag type of activities. E.g. \"Sports\", \"Seminar\", \"Talk\"."
       },
       {
         "lineNumber": 103,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "My contributions here can be summarised into 2 sections, features and adding slots."
+        "content": "//4. Tag difficulty of task. E.g. \"Tough\", \"Simple\", \"Trivial\"."
       },
       {
         "lineNumber": 104,
@@ -44177,56 +44177,56 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d\u003d Features"
+        "content": "*Recursion System*"
       },
       {
         "lineNumber": 106,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Under the Features section, I contributed to explaining the Tagging and Recursion system that I designed."
+        "content": ""
       },
       {
         "lineNumber": 107,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "Recursion facilitates quick addition of multiple _slots_, similar to Microsoft Outlook\u0027s series of appointments."
       },
       {
         "lineNumber": 108,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "*Tagging System*"
+        "content": ""
       },
       {
         "lineNumber": 109,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "In NUS, academic semesters are split into weeks of several types. Recursion allows you to add _slots_ to these types of weeks with ease through the use of the `r/`(recursion) parameter."
       },
       {
         "lineNumber": 110,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Unlike other commercial calendar/scheduling/planner software, *PlanMySem* makes use of a tagging system to manage _slots_."
+        "content": ""
       },
       {
         "lineNumber": 111,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "[TIP]"
       },
       {
         "lineNumber": 112,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Using tags to tag _slots_ will make tasks easier for you in the future. Performing tasks such as viewing, deleting and editing _slots_ will be more efficient."
+        "content": "You can save time by utilizing the alternate and shortcut commands. E.g. instead of using `delete`, you may also use `del` or simply `d`."
       },
       {
         "lineNumber": 113,
@@ -44240,7 +44240,7 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Recommended uses for tags:"
+        "content": "*Identifiers and Parameters*"
       },
       {
         "lineNumber": 115,
@@ -44254,56 +44254,56 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "1. Tag modules. E.g. \"CS2113T\", \"CS2101\"."
+        "content": "Identifiers in *PlanMySem* are designed to be, short and easy to memorise."
       },
       {
         "lineNumber": 117,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "2. Tag type of lesson. E.g. \"Lecture\", \"Tutorial\", \"Lab\"."
+        "content": "Once you are familiarised with them, they should be intuitive to use to add your parameters."
       },
       {
         "lineNumber": 118,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "3. Tag type of activities. E.g. \"Sports\", \"Seminar\", \"Talk\"."
+        "content": "The table of Identifiers and Parameters and their descriptions (Table 1) below is useful for your reference as you jump right into grasping the system."
       },
       {
         "lineNumber": 119,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "4. Tag difficulty of task. E.g. \"Tough\", \"Simple\", \"Trivial\"."
+        "content": ""
       },
       {
         "lineNumber": 120,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": ".Identifiers and their Parameters and descriptions."
       },
       {
         "lineNumber": 121,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "*Recursion System*"
+        "content": "[width\u003d\"100%\",cols\u003d\"5%,\u003c10%,\u003c30%,\u003c30%,\u003c25\",options\u003d\"header\"]"
       },
       {
         "lineNumber": 122,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "|\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 123,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Recursion facilitates quick addition of multiple _slots_, similar to Microsoft Outlook\u0027s series of appointments."
+        "content": "|Identifier |Parameter |Description |Format |Example"
       },
       {
         "lineNumber": 124,
@@ -44317,105 +44317,105 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "In NUS, academic semesters are split into weeks of several types. Recursion allows you to add _slots_ to these types of weeks with ease through the use of the `r/`(recursion) parameter."
+        "content": ".2+|`n/`"
       },
       {
         "lineNumber": 126,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "    |`NAME` |Name of a _slot_ |Text |`n/CS2113T`"
       },
       {
         "lineNumber": 127,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[TIP]"
+        "content": "    |`KEYWORD` |Text that are part of the name of a _slot_ |Text |`n/CS`"
       },
       {
         "lineNumber": 128,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "You can save time by utilizing the alternate and shortcut commands. E.g. instead of using `delete`, you may also use `del` or simply `d`."
+        "content": "|`l/` |`LOCATION` |Location of a _slot_ |Text |`l/COM2 04-22`"
       },
       {
         "lineNumber": 129,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "|`des/` |`DESCRIPTION` |Description of a _slot_ |Text |`des/Topic: Abstraction`"
       },
       {
         "lineNumber": 130,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "*Identifiers and Parameters*"
+        "content": "5+|_Further rows are omitted due to space constrains_"
       },
       {
         "lineNumber": 131,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "|\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d"
       },
       {
         "lineNumber": 132,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Identifiers in *PlanMySem* are designed to be, short and easy to memorise."
+        "content": ""
       },
       {
         "lineNumber": 133,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Once you are familiarised with them, they should be intuitive to use to add your parameters."
+        "content": "[TIP]"
       },
       {
         "lineNumber": 134,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "The table of Identifiers and Parameters and their descriptions (Table 1) below is useful for your reference as you jump right into grasping the system."
+        "content": "You may order identifiers and parameters in any fashion and you will still be able to achieve what you want!"
       },
       {
         "lineNumber": 135,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "So, do not bother thinking about where to place parameters as ordering does not matter, instead become more efficient and save your time!"
       },
       {
         "lineNumber": 136,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ".Identifiers and their Parameters and descriptions."
+        "content": ""
       },
       {
         "lineNumber": 137,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[width\u003d\"100%\",cols\u003d\"5%,\u003c10%,\u003c30%,\u003c30%,\u003c25\",options\u003d\"header\"]"
+        "content": "[IMPORTANT]"
       },
       {
         "lineNumber": 138,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "|\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d"
+        "content": "Identifiers may be appended with a `n` to dictate \"new\". +"
       },
       {
         "lineNumber": 139,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "|Identifier |Parameter |Description |Format |Example"
+        "content": "E.g. `nt/NEW_TAG` signifies new tags in which you want to replace existing tags with."
       },
       {
         "lineNumber": 140,
@@ -44429,84 +44429,84 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ".2+|`n/`"
+        "content": "[CAUTION]"
       },
       {
         "lineNumber": 142,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    |`NAME` |Name of a _slot_ |Text |`n/CS2113T`"
+        "content": "While table 1 shows you all the identifiers and parameters that *PlanMySem* uses, there are some commands that do not make use of identifiers nor parameters."
       },
       {
         "lineNumber": 143,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    |`KEYWORD` |Text that are part of the name of a _slot_ |Text |`n/CS`"
+        "content": "The view command is one such exception that make use of keywords that must be typed in a specific order."
       },
       {
         "lineNumber": 144,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "|`l/` |`LOCATION` |Location of a _slot_ |Text |`l/COM2 04-22`"
+        "content": ""
       },
       {
         "lineNumber": 145,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "|`des/` |`DESCRIPTION` |Description of a _slot_ |Text |`des/Topic: Abstraction`"
+        "content": "\u003d\u003d\u003d Adding Slots : `add` / `a`"
       },
       {
         "lineNumber": 146,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "|`t/` |`TAG` |Tag of a _slot_ |Text |`t/Lab`"
+        "content": "Here is an example of a helpful guide to a specific feature that I was responsible for."
       },
       {
         "lineNumber": 147,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "5+|_Further rows are omitted due to space constrains_"
+        "content": ""
       },
       {
         "lineNumber": 148,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "|\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d"
+        "content": "Add _slot(s)_ to the planner. +"
       },
       {
         "lineNumber": 149,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "Format: `add n/NAME d/DATE_OR_DAY_OF_WEEK st/START_TIME et/END_TIME_OR_DURATION +"
       },
       {
         "lineNumber": 150,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[TIP]"
+        "content": "[l/LOCATION] [des/DESCRIPTION] [r/normal] [r/recess] [r/reading] [r/exam] [r/past] [t/TAG]...`"
       },
       {
         "lineNumber": 151,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "You may order identifiers and parameters in any fashion and you will still be able to achieve what you want!"
+        "content": ""
       },
       {
         "lineNumber": 152,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "So, do not bother thinking about where to place parameters as ordering does not matter, instead become more efficient and save your time!"
+        "content": "Examples:"
       },
       {
         "lineNumber": 153,
@@ -44520,21 +44520,21 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[IMPORTANT]"
+        "content": "* `add n/CS2113T Lecture d/mon st/8:00 am et/9:00 am des/Topic: Software Engineering t/CS2113T t/Lecture r/normal r/past` +"
       },
       {
         "lineNumber": 155,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Identifiers may be appended with a `n` to dictate \"new\". +"
+        "content": "Add a single _slot_, named \"CS2113T Lecture\" with description \"Software Engineering\" on all mondays, from 0800hrs to 0900hrs with the tags \"CS2113T\" and \"Tutorial\"."
       },
       {
         "lineNumber": 156,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "E.g. `nt/NEW_TAG` signifies new tags in which you want to replace existing tags with."
+        "content": "Here, the recursion parameters enable a single command to place 13 slots on all \"normal\" weeks that lectures take place on."
       },
       {
         "lineNumber": 157,
@@ -44548,21 +44548,21 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[CAUTION]"
+        "content": "[#img-add]"
       },
       {
         "lineNumber": 159,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "While table 1 shows you all the identifiers and parameters that *PlanMySem* uses, there are some commands that do not make use of identifiers nor parameters."
+        "content": ".[.underline]#Output after entering `add n/CS2113T Lecture d/mon st/8:00 am et/9:00 am des/Topic: Software Engineering t/CS2113T t/Lecture r/normal r/past`#"
       },
       {
         "lineNumber": 160,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "The view command is one such exception that make use of keywords that must be typed in a specific order."
+        "content": "image::Add_Command_Output_1.png[width\u003d\"600\"]"
       },
       {
         "lineNumber": 161,
@@ -44576,14 +44576,14 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d\u003d Adding Slots : `add` / `a`"
+        "content": "* `add n/CS2113T Lecture d/mon st/8:00 am et/9:00 am des/Topic: Software Engineering t/CS2113T t/Lecture r/recess r/reading r/past` +"
       },
       {
         "lineNumber": 163,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Here is an example of a helpful guide to a specific feature that I was responsible for."
+        "content": "Do the same but instead of \"normal\" weeks, do the opposite of the norm and recurse the _slot_ on both recess and reading week."
       },
       {
         "lineNumber": 164,
@@ -44597,35 +44597,35 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Add _slot(s)_ to the planner. +"
+        "content": "* `add n/CS2113T Lecture d/mon st/8:00 am et/9:00 am des/Topic: Software Engineering t/CS2113T t/Lecture` +"
       },
       {
         "lineNumber": 166,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Format: `add n/NAME d/DATE_OR_DAY_OF_WEEK st/START_TIME et/END_TIME_OR_DURATION +"
+        "content": "Do the same but without any recursion, instead place the _slot_ the coming monday."
       },
       {
         "lineNumber": 167,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[l/LOCATION] [des/DESCRIPTION] [r/normal] [r/recess] [r/reading] [r/exam] [r/past] [t/TAG]...`"
+        "content": ""
       },
       {
         "lineNumber": 168,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "[TIP]"
       },
       {
         "lineNumber": 169,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Examples:"
+        "content": "You may add single _slots_ by omitting the `r/` identifiers and its parameters."
       },
       {
         "lineNumber": 170,
@@ -44639,21 +44639,21 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* `add n/CS2113T Lecture d/mon st/8:00 am et/9:00 am des/Topic: Software Engineering t/CS2113T t/Lecture r/normal r/past` +"
+        "content": "[NOTE]"
       },
       {
         "lineNumber": 172,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Add a single _slot_, named \"CS2113T Lecture\" with description \"Software Engineering\" on all mondays, from 0800hrs to 0900hrs with the tags \"CS2113T\" and \"Tutorial\"."
+        "content": "*PlanMySem* does not dictate your scheduling preferences."
       },
       {
         "lineNumber": 173,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Here, the recursion parameters enable a single command to place 13 slots on all \"normal\" weeks that lectures take place on."
+        "content": "As such, you may even add identical slots or slots with overlapping start and end times to help plan for tentative/unconfirmed events."
       },
       {
         "lineNumber": 174,
@@ -44667,42 +44667,42 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[#img-add]"
+        "content": "_Here, the editing and deleting slots features are omitted._"
       },
       {
         "lineNumber": 176,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ".[.underline]#Output after entering `add n/CS2113T Lecture d/mon st/8:00 am et/9:00 am des/Topic: Software Engineering t/CS2113T t/Lecture r/normal r/past`#"
+        "content": ""
       },
       {
         "lineNumber": 177,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "image::Add_Command_Output_1.png[width\u003d\"400\"]"
+        "content": "\u003d\u003d Contributions to the Developer Guide"
       },
       {
         "lineNumber": 178,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "This section shows some of my contributions to the Developer Guide."
       },
       {
         "lineNumber": 179,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* `add n/CS2113T Lecture d/mon st/8:00 am et/9:00 am des/Topic: Software Engineering t/CS2113T t/Lecture r/recess r/reading r/past` +"
+        "content": ""
       },
       {
         "lineNumber": 180,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Do the same but instead of \"normal\" weeks, do the opposite of the norm and recurse the _slot_ on both recess and reading week."
+        "content": "They showcase my ability to:"
       },
       {
         "lineNumber": 181,
@@ -44716,84 +44716,84 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* `add n/CS2113T Lecture d/mon st/8:00 am et/9:00 am des/Topic: Software Engineering t/CS2113T t/Lecture` +"
+        "content": "* Write technical documentation and create UML diagrams."
       },
       {
         "lineNumber": 183,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Do the same but without any recursion, instead place the _slot_ the coming monday."
+        "content": "* Design practical and effective code solutions."
       },
       {
         "lineNumber": 184,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "* Adhere to software engineering practices."
       },
       {
         "lineNumber": 185,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[TIP]"
+        "content": ""
       },
       {
         "lineNumber": 186,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "You may add single _slots_ by omitting the `r/` identifiers and its parameters."
+        "content": "My contributions here can be summarised into 3 sections, design, slot management and Parser/Command Format and Structure."
       },
       {
         "lineNumber": 187,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "{zwsp}"
+        "content": ""
       },
       {
         "lineNumber": 188,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "_Here, the Editing and Deleting slots features are omitted._"
+        "content": "\u003d\u003d\u003d Design"
       },
       {
         "lineNumber": 189,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "Under the design section, I wrote documentation and created UML diagrams to explain the overall system architecture."
       },
       {
         "lineNumber": 190,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d Contributions to the Developer Guide"
+        "content": "For instance, I documented the design of the architecture and its 4 innate components."
       },
       {
         "lineNumber": 191,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "This section shows some of my contributions to the Developer Guide."
+        "content": ""
       },
       {
         "lineNumber": 192,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": ".Architecture Diagram"
       },
       {
         "lineNumber": 193,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "They showcase my ability to:"
+        "content": "image::ArchitectureDiagram.png[width\u003d\"600\"]"
       },
       {
         "lineNumber": 194,
@@ -44807,63 +44807,63 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* Write technical documentation and create UML diagrams."
+        "content": "The *_Architecture Diagram_* given above explains the high-level design of the App. Given below is a quick overview of each component."
       },
       {
         "lineNumber": 196,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* Design practical and effective code solutions."
+        "content": ""
       },
       {
         "lineNumber": 197,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* Adhere to software engineering practices."
+        "content": "[TIP]"
       },
       {
         "lineNumber": 198,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "The `.pptx` files used to create diagrams in this document can be found in the link:{repoURL}/docs/diagrams/[diagrams] folder. To update a diagram, modify the diagram in the pptx file, select the objects of the diagram, and choose `Save as picture`."
       },
       {
         "lineNumber": 199,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "My contributions here can be summarised into 3 sections, design, slot management and Parser/Command Format and Structure."
+        "content": ""
       },
       {
         "lineNumber": 200,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "`Main` has only one class called link:{repoURL}/src/planmysem/Main.java[`Main`]. It is responsible for,"
       },
       {
         "lineNumber": 201,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d\u003d Design"
+        "content": ""
       },
       {
         "lineNumber": 202,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Under the design section, I wrote documentation and created UML diagrams to explain the overall system architecture."
+        "content": "* At app launch: Initializes the components in the correct sequence, and connects them up with each other."
       },
       {
         "lineNumber": 203,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "For instance, I documented the design of the architecture and its 4 innate components."
+        "content": "* At shut down: Shuts down the components and invokes cleanup method where necessary."
       },
       {
         "lineNumber": 204,
@@ -44877,147 +44877,147 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ".Architecture Diagram"
+        "content": "\u003c\u003cDesign-Common,*`Common`*\u003e\u003e represents a collection of classes used by multiple other components."
       },
       {
         "lineNumber": 206,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "image::Architecture.png[width\u003d\"400\"]"
+        "content": ""
       },
       {
         "lineNumber": 207,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "The following class plays an important role at the architecture level, the App consists of four components:"
       },
       {
         "lineNumber": 208,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "The *_Architecture Diagram_* given above explains the high-level design of the App. Given below is a quick overview of each component."
+        "content": ""
       },
       {
         "lineNumber": 209,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "* \u003c\u003cDesign-Ui,*`UI`*\u003e\u003e: The UI of the App."
       },
       {
         "lineNumber": 210,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[TIP]"
+        "content": "* \u003c\u003cDesign-Logic,*`Logic`*\u003e\u003e: The command executor."
       },
       {
         "lineNumber": 211,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "The `.pptx` files used to create diagrams in this document can be found in the link:{repoURL}/docs/diagrams/[diagrams] folder. To update a diagram, modify the diagram in the pptx file, select the objects of the diagram, and choose `Save as picture`."
+        "content": "* \u003c\u003cDesign-Model,*`Model`*\u003e\u003e: Holds the data of the App in-memory."
       },
       {
         "lineNumber": 212,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "* \u003c\u003cDesign-Storage,*`Storage`*\u003e\u003e: Reads data from, and writes data to, the hard disk."
       },
       {
         "lineNumber": 213,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//`Main` has only one class called link:{repoURL}/src/planmysem/Main.java[`Main`]. It is responsible for,"
+        "content": ""
       },
       {
         "lineNumber": 214,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "Each of the four components"
       },
       {
         "lineNumber": 215,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* At app launch: Initializes the components in the correct sequence, and connects them up with each other."
+        "content": ""
       },
       {
         "lineNumber": 216,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* At shut down: Shuts down the components and invokes cleanup method where necessary."
+        "content": "* Defines its _API_ in an `interface` with the same name as the Component."
       },
       {
         "lineNumber": 217,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "* Exposes its functionality using a `{Component Name}Manager` class."
       },
       {
         "lineNumber": 218,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//\u003c\u003cDesign-Common,*`Common`*\u003e\u003e represents a collection of classes used by multiple other components."
+        "content": ""
       },
       {
         "lineNumber": 219,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "\u003d\u003d\u003d\u003d Logic component"
       },
       {
         "lineNumber": 220,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "The following class plays an important role at the architecture level, the App consists of four components:"
+        "content": ""
       },
       {
         "lineNumber": 221,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": ".Structure of the Logic Component"
       },
       {
         "lineNumber": 222,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* \u003c\u003cDesign-Ui,*`UI`*\u003e\u003e: The UI of the App."
+        "content": "image::LogicComponentClassDiagram.png[width\u003d\"600\"]"
       },
       {
         "lineNumber": 223,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* \u003c\u003cDesign-Logic,*`Logic`*\u003e\u003e: The command executor."
+        "content": ""
       },
       {
         "lineNumber": 224,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* \u003c\u003cDesign-Model,*`Model`*\u003e\u003e: Holds the data of the App in-memory."
+        "content": "*API* :"
       },
       {
         "lineNumber": 225,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* \u003c\u003cDesign-Storage,*`Storage`*\u003e\u003e: Reads data from, and writes data to, the hard disk."
+        "content": "link:{repoURL}/src/planmysem/logic/Logic.java[`Logic.java`]"
       },
       {
         "lineNumber": 226,
@@ -45031,7 +45031,7 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Each of the four components"
+        "content": "The `Logic` component,"
       },
       {
         "lineNumber": 228,
@@ -45045,49 +45045,49 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* Defines its _API_ in an `interface` with the same name as the Component."
+        "content": ".  uses the `parser` class to parse the user command."
       },
       {
         "lineNumber": 230,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* Exposes its functionality using a `{Component Name}Manager` class."
+        "content": "**  This results in a `Command` object which is executed."
       },
       {
         "lineNumber": 231,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": ".  The command execution can affect the `Model` (e.g. adding a _Slot_)."
       },
       {
         "lineNumber": 232,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//For example, the `Logic` component (see the class diagram given below) defines its API in the `Logic.java` interface and exposes its functionality using the `Logic.java` class."
+        "content": ".  The result of the command execution is encapsulated as a `CommandResult` object which is passed back to `Ui`."
       },
       {
         "lineNumber": 233,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": ".  In addition, the `CommandResult` object can also instruct the `Ui` to display results, such as displaying help to the user."
       },
       {
         "lineNumber": 234,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//.Class Diagram of overall application."
+        "content": ""
       },
       {
         "lineNumber": 235,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//image::OverallClassDiagram.png[width\u003d\"400\"]"
+        "content": "Given below is the Sequence Diagram for interactions within the `Logic` component for the `execute(\"delete 1\")` API call."
       },
       {
         "lineNumber": 236,
@@ -45101,70 +45101,70 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": ".Interactions Inside the Logic Component for the `delete 1` Command"
       },
       {
         "lineNumber": 238,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//[discrete]"
+        "content": "image::SDforDeleteSlot.png[width\u003d\"600\"]"
       },
       {
         "lineNumber": 239,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//\u003d\u003d\u003d\u003d How the architecture components interact with each other"
+        "content": ""
       },
       {
         "lineNumber": 240,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "_Here, the other 3 major components are omitted._"
       },
       {
         "lineNumber": 241,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//The _Sequence Diagram_ below shows how the components interact with each other for the scenario where the user issues the command `delete 1`."
+        "content": ""
       },
       {
         "lineNumber": 242,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "\u003d\u003d\u003d Slot Management"
       },
       {
         "lineNumber": 243,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//.Component interactions for `delete 1` command"
+        "content": ""
       },
       {
         "lineNumber": 244,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//image::SDforDeleteSlot.png[width\u003d\"300\"]"
+        "content": "_Slot_ Management involves mainly the interaction between the users and their _slots_."
       },
       {
         "lineNumber": 245,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": ""
       },
       {
         "lineNumber": 246,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//The sections below give more details of each component."
+        "content": "The section below will describe in detail the Current Implementation, Design Considerations and Future Implementation of the Slot Management."
       },
       {
         "lineNumber": 247,
@@ -45178,126 +45178,126 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//[[Design-Ui]]"
+        "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
       {
         "lineNumber": 249,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//\u003d\u003d\u003d\u003d UI component"
+        "content": ""
       },
       {
         "lineNumber": 250,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "Users are able to perform three actions (or commands), though a small variety of methods, involving _slots_:"
       },
       {
         "lineNumber": 251,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//.Structure of the UI Component"
+        "content": ""
       },
       {
         "lineNumber": 252,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//image::UiClassDiagram.png[width\u003d\"300\"]"
+        "content": "* `Add`"
       },
       {
         "lineNumber": 253,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "    ** Add multiple slots via the _recursion_ system."
       },
       {
         "lineNumber": 254,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//*API* : link:{repoURL}/src/planmysem/ui/Ui.java[`Ui.java`]"
+        "content": "    ** Add a single slot via omitting the _recursion_ system."
       },
       {
         "lineNumber": 255,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "* `Edit`"
       },
       {
         "lineNumber": 256,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//The UI consists of a `MainWindow` that is made up of just `commandInput` and `outputConsole`."
+        "content": "    ** Edit multiple _slots_ via _tags_."
       },
       {
         "lineNumber": 257,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//This application is mainly a text-based application, hence here are not much componenets here."
+        "content": "    ** Edit a single _slot_ via _index_."
       },
       {
         "lineNumber": 258,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "* `Delete`"
       },
       {
         "lineNumber": 259,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//The `UI` component uses JavaFx UI framework. The layout of these UI parts are defined in matching `.fxml` files that are in the `src/main/resources/view` folder."
+        "content": "    ** Delete _slots_ via _tags_."
       },
       {
         "lineNumber": 260,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//For example, the layout of the link:{repoURL}/src/planmysem/ui/MainWindow.java[`MainWindow`] is specified in link:{repoURL}/src/main/resources/view/MainWindow.fxml[`MainWindow.fxml`]"
+        "content": "    ** Delete a single _slot_ via _index_."
       },
       {
         "lineNumber": 261,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": ""
       },
       {
         "lineNumber": 262,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//The `UI` component,"
+        "content": "The `Add` command heavily relies on the _recursion_ system to select multiple dates in which to add the same slot to multiple days."
       },
       {
         "lineNumber": 263,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "Additionally, the `Add` command also allows users to input _tags_ to tag _slots_."
       },
       {
         "lineNumber": 264,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* Executes user commands read from `commandInput`, using the `Logic` component."
+        "content": ""
       },
       {
         "lineNumber": 265,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* Displays `commandResult` to the user via `outputConsole`."
+        "content": "The `Edit` and `Delete` command then makes use of the _tagging_ system to then select multiple slots for editing/deleting."
       },
       {
         "lineNumber": 266,
@@ -45311,42 +45311,42 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[[Design-Logic]]"
+        "content": "\u003d\u003d\u003d\u003d Design Considerations"
       },
       {
         "lineNumber": 268,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d\u003d\u003d Logic component"
+        "content": ""
       },
       {
         "lineNumber": 269,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "Here are the considerations regarding slot management."
       },
       {
         "lineNumber": 270,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "[[fig-LogicClassDiagram]]"
+        "content": "The choices made were largely due to computation effectiveness."
       },
       {
         "lineNumber": 271,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ".Structure of the Logic Component"
+        "content": ""
       },
       {
         "lineNumber": 272,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "image::LogicClassDiagram.png[width\u003d\"400\"]"
+        "content": "\u003d\u003d\u003d\u003d\u003d\u003d Aspect: Wrapping of data in `Slot`"
       },
       {
         "lineNumber": 273,
@@ -45360,105 +45360,105 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "*API* :"
+        "content": "The topic of whether to wrap all primitives and `Strings`, in Java, is contentious."
       },
       {
         "lineNumber": 275,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "link:{repoURL}/src/planmysem/logic/Logic.java[`Logic.java`]"
+        "content": "However, in this case of *PlanMySem*, there are no possible invalid values for any of the data that `Slot` holds, other than the `/` character that would have already been handled by `parser`."
       },
       {
         "lineNumber": 276,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "For instance, any `String` is a valid `name` and the same goes for `location`, `description` and etc; wrapping these data will not achieve any narrowing of possible valid inputs."
       },
       {
         "lineNumber": 277,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ".  `Logic` uses the `parser` class to parse the user command."
+        "content": ""
       },
       {
         "lineNumber": 278,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ".  This results in a `Command` object which is executed."
+        "content": "Hence, data in `Slot` are not wrapped. This is in accordance to the You aren\u0027t gonna need it (YAGNI) principle."
       },
       {
         "lineNumber": 279,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ".  The command execution can affect the `Model` (e.g. adding a _Slot_)."
+        "content": ""
       },
       {
         "lineNumber": 280,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ".  The result of the command execution is encapsulated as a `CommandResult` object which is passed back to `Ui`."
+        "content": "\u003d\u003d\u003d\u003d\u003d\u003d Aspect: Storing and accessing `Slots`"
       },
       {
         "lineNumber": 281,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ".  In addition, the `CommandResult` object can also instruct the `Ui` to display results, such as displaying help to the user."
+        "content": ""
       },
       {
         "lineNumber": 282,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "* *Alternative 1 (current implementation):* Use of `Map`, such as `HashMap` to store `Days` that store `Slots`."
       },
       {
         "lineNumber": 283,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Given below is the Sequence Diagram for interactions within the `Logic` component for the `execute(\"delete 1\")` API call."
+        "content": "** Pros: `HashMap` allows for easier and faster, O(1) access time, access of particular `Day` according to date."
       },
       {
         "lineNumber": 284,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "** Cons: This requires splitting of the calendar into days, as such there is no easy way to account for `Slots` that occur across days."
       },
       {
         "lineNumber": 285,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ".Interactions Inside the Logic Component for the `delete 1` Command"
+        "content": ""
       },
       {
         "lineNumber": 286,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "image::SDforDeleteSlot.png[width\u003d\"600\"]"
+        "content": "* *Alternative 2:* Store `Slots` in a huge list."
       },
       {
         "lineNumber": 287,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "** Pros: Allows for easier access by \"index\" and offers flexibility, for example, in the time of slots."
       },
       {
         "lineNumber": 288,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "_Here, the other 3 major components are omitted._"
+        "content": "** Cons: Expensive to access, add and remove items. Furthermore, it is extremely expensive to collect slots that occur in a day, a very important and most likely to be a commonly used feature."
       },
       {
         "lineNumber": 289,
@@ -45472,413 +45472,413 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//[[Design-Model]]"
+        "content": "Alternative 1 was chosen as the benefits of quick and easy access to days outweigh the disadvantages involve with forbidding slots than span over a day."
       },
       {
         "lineNumber": 291,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//\u003d\u003d\u003d\u003d Model component"
+        "content": "After all, there are few cases of slots crossing the boundaries of a day, over midnight."
       },
       {
         "lineNumber": 292,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": ""
       },
       {
         "lineNumber": 293,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//.Overall structure of the Model Component"
+        "content": "\u003d\u003d\u003d\u003d Future Implementation"
       },
       {
         "lineNumber": 294,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//image::ModelClassDiagram.png[width\u003d\"300\"]"
+        "content": ""
       },
       {
         "lineNumber": 295,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "\u003d\u003d\u003d\u003d\u003d Create a class to represent `Days`, instead of utilising a `HashMap`"
       },
       {
         "lineNumber": 296,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//*API* : link:{repoURL}/src/planmysem/model/Model.java[`Model.java`]"
+        "content": ""
       },
       {
         "lineNumber": 297,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "Currently, `Days` are held in a HashMap of key `LocalDate` and value `Day`. While this works without any loss in performance, this causes duplication of code and removes some key concepts of abstraction."
       },
       {
         "lineNumber": 298,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "For example, there are code blocks dedicated to retrieving days or slots that could have been placed into this new class. This is an issue as these code have nothing to do with for instance, `Semester` but they are placed there."
       },
       {
         "lineNumber": 299,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//[[Design-Planner]]"
+        "content": ""
       },
       {
         "lineNumber": 300,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//\u003d\u003d\u003d\u003d Planner component"
+        "content": "Therefore, this needs to be implemented in the future to achieve less coupling, more cohesion and respect the Single Responsibility Principle (SRP), Open-Closed Principle (OCP) and Separation of Concerns Principle (SoC)."
       },
       {
         "lineNumber": 301,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": ""
       },
       {
         "lineNumber": 302,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//*API* : link:{repoURL}/src/planmysem/data/Planner.java[`Planner.java`]"
+        "content": "\u003d\u003d\u003d\u003d\u003d `Planner` to hold multiple `Semesters`"
       },
       {
         "lineNumber": 303,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": ""
       },
       {
         "lineNumber": 304,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//The `Planner` component,"
+        "content": "While *PlanMySem* now allow users to work on the current semester, it is unable to cater to future semesters. For instance when a semester is about to end, users are not able to plan ahead for the coming semester."
       },
       {
         "lineNumber": 305,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": ""
       },
       {
         "lineNumber": 306,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* stores a `Planner` object that represents the entire Planner."
+        "content": "This is an issue that plagues user experience and is a significant problem. To solve this issue, `Planner` needs to hold multiple semesters in a `List` and more features need to be included to allow saving, loading and switching of semesters and etc."
       },
       {
         "lineNumber": 307,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* stores the data of the entire application."
+        "content": ""
       },
       {
         "lineNumber": 308,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* stores the data of the current semester in an unmodifiable `Semester`."
+        "content": ""
       },
       {
         "lineNumber": 309,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "\u003d\u003d\u003d Parser / Command Format and Structure"
       },
       {
         "lineNumber": 310,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//[[Design-Semester]]"
+        "content": ""
       },
       {
         "lineNumber": 311,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//\u003d\u003d\u003d\u003d Semester component"
+        "content": "Due to the flexibility and huge variation of the envisioned command format and structures, it was decided that it was more appropriate to create a new Parser"
       },
       {
         "lineNumber": 312,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "instead of relying on the existing regex implementation in AB3 for heavy parsing."
       },
       {
         "lineNumber": 313,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//*API* : link:{repoURL}/src/planmysem/model/semester/Semester.java[`Semester.java`]"
+        "content": ""
       },
       {
         "lineNumber": 314,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "The AB3 parser was heavily modified to serve unordered command parameters as well as to allow more flexibility such that mistakes in commands will still be"
       },
       {
         "lineNumber": 315,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//The `Semester` component,"
+        "content": "interpreted as valid as long as the \"minimal\" set of parameters are present. Regex is currently only used to retrieve the command keywords and arguments."
       },
       {
         "lineNumber": 316,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "Arguments are then parsed via 2 different methods/techniques according to the format and structure of the command keyword."
       },
       {
         "lineNumber": 317,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* stores a `Semester` object that represents the an academic semester."
+        "content": ""
       },
       {
         "lineNumber": 318,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* stores the data of the entire semester in an unmodifiable `HashMap\u003cLocalDate, Day\u003e`."
+        "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
       {
         "lineNumber": 319,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* Semesters essentially hold \"days\" in which holds slots."
+        "content": ""
       },
       {
         "lineNumber": 320,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "* Ordering of parameters are ignored when possible."
       },
       {
         "lineNumber": 321,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//[[Design-Slot]]"
+        "content": "* Repeated parameters are ignored. The first parameter of the same \"type\" are taken as valid, the rest are discarded."
       },
       {
         "lineNumber": 322,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//\u003d\u003d\u003d\u003d Slot component"
+        "content": "* Alternate formats of commands are implemented to give freedom of choice and cater to different types of users such as different personalities and comfort levels."
       },
       {
         "lineNumber": 323,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "* Shortened versions of command keywords are implemented to give ways for users to shortened commands and be more efficient."
       },
       {
         "lineNumber": 324,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//*API* : link:{repoURL}/src/planmysem/model/slot/Slot.java[`Slot.java`]"
+        "content": ""
       },
       {
         "lineNumber": 325,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "Hence, parameters in *PlanMySem* can be categorised into 2 categories:"
       },
       {
         "lineNumber": 326,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//The `Slot` component,"
+        "content": ""
       },
       {
         "lineNumber": 327,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": ". Prefixed parameters such as `n/NAME`, `st/START_TIME`, `des/DESCRIPTION`, etc."
       },
       {
         "lineNumber": 328,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* stores a `Slot` object that represents a time-slot similar to traditional/conventional calendar/scheduling applications."
+        "content": ". Non-Prefixed parameters, A.K.A. keywords, such as `INDEX`, `TYPE_OF_VIEW`. etc."
       },
       {
         "lineNumber": 329,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//** such as outlook or google calendar."
+        "content": ""
       },
       {
         "lineNumber": 330,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* stores the data of the slot details as well as start time and duration."
+        "content": "\u003d\u003d\u003d\u003d\u003d\u003d Parsing Prefixed Parameters"
       },
       {
         "lineNumber": 331,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": ""
       },
       {
         "lineNumber": 332,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//[NOTE]"
+        "content": "To retrieve parameters, the function `private static HashMap\u003cString, Set\u003cString\u003e\u003e getParametersWithArguments(String args)` can be called."
       },
       {
         "lineNumber": 333,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//Notice how `Slot` does not hold its end time but rather it holds the `duration`. This is simply our design choice as it is meaningless to save both variables."
+        "content": "The keys of the returned `HashMap` represent prefixes while the values represent the prefix\u0027s parameters, held in a set."
       },
       {
         "lineNumber": 334,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "This allows for easy, quick and efficient access to specific prefixes and its parameters; O(1) access, insertion and removal."
       },
       {
         "lineNumber": 335,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//[[Design-Storage]]"
+        "content": ""
       },
       {
         "lineNumber": 336,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//\u003d\u003d\u003d\u003d Storage component"
+        "content": "The results of `getParametersWithArguments` can be interpreted in these manners:"
       },
       {
         "lineNumber": 337,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": ""
       },
       {
         "lineNumber": 338,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//.Structure of the Storage Component"
+        "content": "* When the returned set of parameters, to a specific prefix, is `null`, then both the prefix and parameters was not keyed in at all."
       },
       {
         "lineNumber": 339,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//image::StorageClassDiagram.png[width\u003d\"200\"]"
+        "content": "* When the returned set of parameters, to a specific prefix, is not `null` but contains empty `strings` such that `string.isEmpty()` returns true, then the prefix was keyed in but the parameter was left blank."
       },
       {
         "lineNumber": 340,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": ""
       },
       {
         "lineNumber": 341,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//*API* : link:{repoURL}/src/planmysem/storage/Storage.java[`Storage.java`]"
+        "content": "[IMPORTANT]"
       },
       {
         "lineNumber": 342,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "The values of the returned `HashMap` is a `Set`, hence, there is no need to handle repeated parameters of a specific prefix as they will be automatically discarded."
       },
       {
         "lineNumber": 343,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//The `Storage` component,"
+        "content": ""
       },
       {
         "lineNumber": 344,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//"
+        "content": "\u003d\u003d\u003d\u003d\u003d\u003d Parsing Keywords"
       },
       {
         "lineNumber": 345,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* can save `UserPref` objects in json format and read it back."
+        "content": ""
       },
       {
         "lineNumber": 346,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "//* can save the Planner data in json format and read it back."
+        "content": "Here, keywords are thought of as parameters that are not prefixed."
       },
       {
         "lineNumber": 347,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "In *PlanMySem*, keywords are utilized in command structures when they are to be used alone or when order of parameters are important."
       },
       {
         "lineNumber": 348,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d\u003d Slot Management"
+        "content": "In such cases, there is no logical need for prefixing as the meaning of these parameters can be identified."
       },
       {
         "lineNumber": 349,
@@ -45892,35 +45892,35 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "_Slot_ Management involves mainly the interaction between the users and their _slots_."
+        "content": "The function `private String getStartingArgument(String args)` provides this functionality."
       },
       {
         "lineNumber": 351,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "Here, `IncorrectCommand` is invoked due to different circumstances:"
       },
       {
         "lineNumber": 352,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "The section below will describe in detail the Current Implementation, Design Considerations and Future Implementation of the Slot Management."
+        "content": ""
       },
       {
         "lineNumber": 353,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "* When the keyword is null, then the parameter was not keyed in."
       },
       {
         "lineNumber": 354,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d\u003d\u003d Current Implementation"
+        "content": "* When the keyword data type does not match the intended, then the parameter was keyed in wrongly or is mis-ordered."
       },
       {
         "lineNumber": 355,
@@ -45934,1109 +45934,297 @@
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Users are able to perform three actions (or commands), though a small variety of methods, involving _slots_:"
+        "content": "[NOTE]"
       },
       {
         "lineNumber": 357,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "Additional keywords are purposefully *not* handled to provide ease of use and cater to user mistakes."
       },
       {
         "lineNumber": 358,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* `Add`"
+        "content": ""
       },
       {
         "lineNumber": 359,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Add multiple slots via the _recursion_ system."
+        "content": "_Here, the design considerations and future implementations are omitted._"
       },
       {
         "lineNumber": 360,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Add a single slot via omitting the _recursion_ system."
+        "content": ""
       },
       {
         "lineNumber": 361,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* `Edit`"
+        "content": "//\u003d\u003d\u003d\u003d Design Considerations"
       },
       {
         "lineNumber": 362,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Edit multiple _slots_ via _tags_."
+        "content": "//"
       },
       {
         "lineNumber": 363,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Edit a single _slot_ via _index_."
+        "content": "//Here are the considerations that led to the new parsing system."
       },
       {
         "lineNumber": 364,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* `Delete`"
+        "content": "//The choices made were largely due to the fact that they provide a better user experience and ease of use."
       },
       {
         "lineNumber": 365,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Delete _slots_ via _tags_."
+        "content": "//"
       },
       {
         "lineNumber": 366,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "    ** Delete a single _slot_ via _index_."
+        "content": "//\u003d\u003d\u003d\u003d\u003d Aspect: Handling repeated parameters"
       },
       {
         "lineNumber": 367,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//"
       },
       {
         "lineNumber": 368,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "The `Add` command heavily relies on the _recursion_ system to select multiple dates in which to add the same slot to multiple days."
+        "content": "//* *Alternative 1 (current choice):* When possible, accept repeated parameters."
       },
       {
         "lineNumber": 369,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Additionally, the `Add` command also allows users to input _tags_ to tag _slots_."
+        "content": "//** Pros: Less computationally expensive and allow users to make minor mistakes."
       },
       {
         "lineNumber": 370,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//** Cons: User errors may be misinterpreted and hence wrong actions may be executed."
       },
       {
         "lineNumber": 371,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "The `Edit` and `Delete` command then makes use of the _tagging_ system to then select multiple slots for editing/deleting."
+        "content": "//"
       },
       {
         "lineNumber": 372,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//* *Alternative 2:* Always accept and handle repeated parameters."
       },
       {
         "lineNumber": 373,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d\u003d\u003d Design Considerations"
+        "content": "//** Pros: Errors are shown to the user so that the invalid command may be fixed."
       },
       {
         "lineNumber": 374,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//** Cons: Force user to rewrite commands, even in the event of simple/minor mistakes, and thus may hinder user experience and ease of use."
       },
       {
         "lineNumber": 375,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Here are the considerations regarding slot management."
+        "content": "//"
       },
       {
         "lineNumber": 376,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "The choices made were largely due to computation effectiveness."
+        "content": "//\u003d\u003d\u003d\u003d\u003d Aspect: Handling order of parameters"
       },
       {
         "lineNumber": 377,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//"
       },
       {
         "lineNumber": 378,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d\u003d\u003d\u003d Aspect: Wrapping of primitive data types in `Slot`"
+        "content": "//* *Alternative 1 (current choice):* Parse parameters without regards to order."
       },
       {
         "lineNumber": 379,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//** Pros: Greater user experience due to greater ease of use."
       },
       {
         "lineNumber": 380,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* *Alternative 1 (current choice):* Use of \"primitive\" data types instead of creating and utilising wrapped objects. +"
+        "content": "//** Cons: More computationally expensive and tougher development process due to more cases to care for, requires manual parsing."
       },
       {
         "lineNumber": 381,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "E.g. `name`, `location` amd `description` are not wrapped but \"primitive\"."
+        "content": "//"
       },
       {
         "lineNumber": 382,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "** Pros: Allows for more flexible code to account for flexible parsing (as needed in this application)."
+        "content": "//* *Alternative 2:* Accept only a specific ordering of parameters."
       },
       {
         "lineNumber": 383,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "** Cons: Bigger code base and duplicated code."
+        "content": "//** Pros: Less computationally expensive and short development process, able to use existing regex solutions in AB3."
       },
       {
         "lineNumber": 384,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//** Cons: Greatly hinder user experience as order of parameters have no relation to meaning of commands."
       },
       {
         "lineNumber": 385,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* *Alternative 2:* Wrap \"primitive\" data types."
+        "content": "//"
       },
       {
         "lineNumber": 386,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "** Pros: Less errors in handling invalid values."
+        "content": "//Alternative 1 was chosen due to the team\u0027s priority in providing a better user experience and allow ease of use."
       },
       {
         "lineNumber": 387,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "** Cons: May cause inflexibility in writing code to account for flexible parsing."
+        "content": ""
       },
       {
         "lineNumber": 388,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//\u003d\u003d\u003d\u003d Future Implementation"
       },
       {
         "lineNumber": 389,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Alternative 1 was chosen as, in this case of *PlanMySem*, there is a need to achieve varied and flexible commands and as such,"
+        "content": "//"
       },
       {
         "lineNumber": 390,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "it is not necessary to handle invalid values with the innate `Model` objects as these are taken care of when parsing."
+        "content": "//Though the current implementation has much flexibility, there is more that can be done to elevate user experience to the next level."
       },
       {
         "lineNumber": 391,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//These are some possible enhancements:"
       },
       {
         "lineNumber": 392,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "Additionally, doing these actions when parsing, though bloats code, allows for more varied responses to the user and improves user experience."
+        "content": "//"
       },
       {
         "lineNumber": 393,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//1. Parse more formats of date and time."
       },
       {
         "lineNumber": 394,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "\u003d\u003d\u003d\u003d\u003d Aspect: Storing and accessing `Slots`"
+        "content": "//2. Parse time as a single parameter instead of two."
       },
       {
         "lineNumber": 395,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": ""
+        "content": "//3. Enhance function calls to retrieve prepended parameters and keywords to handle trivial cases that should invoke `IncorrectCommand`."
       },
       {
         "lineNumber": 396,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "* *Alternative 1 (current implementation):* Use of `Map`, such as `HashMap` to store `Days` that store `Slots`."
+        "content": "//"
       },
       {
         "lineNumber": 397,
         "author": {
           "gitId": "seanieyap"
         },
-        "content": "** Pros: `HashMap` allows for easier and faster, O(1) access time, access of particular `Day` according to date."
+        "content": ""
       },
       {
         "lineNumber": 398,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "** Cons: This requires splitting of the calendar into days, as such there is no easy way to account for `Slots` that occur across days."
-      },
-      {
-        "lineNumber": 399,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 400,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "* *Alternative 2:* Store `Slots` in a huge list."
-      },
-      {
-        "lineNumber": 401,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "** Pros: Allows for easier access by \"index\" and offers flexibility, for example, in the time of slots."
-      },
-      {
-        "lineNumber": 402,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "** Cons: Expensive to access, add and remove items. Furthermore, it is extremely expensive to collect slots that occur in a day, a very important and most likely to be a commonly used feature."
-      },
-      {
-        "lineNumber": 403,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 404,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "Alternative 1 was chosen as the benefits of quick and easy access to days outweigh the disadvantages involve with forbidding slots than span over a day."
-      },
-      {
-        "lineNumber": 405,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "After all, there are few cases of slots crossing the boundaries of a day, over midnight."
-      },
-      {
-        "lineNumber": 406,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 407,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "_Here, the future implementations are omitted._"
-      },
-      {
-        "lineNumber": 408,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 409,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//\u003d\u003d\u003d\u003d Future Implementation"
-      },
-      {
-        "lineNumber": 410,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 411,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//\u003d\u003d\u003d\u003d\u003d Create a class to hold `Days`, instead of utilising a `HashMap`"
-      },
-      {
-        "lineNumber": 412,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 413,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//Currently, `Days` are held in a HashMap of key `LocalDate` and value `Day`. While this works without any loss in performance, this causes duplication of code and removes some key concepts of abstraction."
-      },
-      {
-        "lineNumber": 414,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//For example, there are code blocks dedicated to retrieving days or slots that could have been placed into this new class. This is an issue as these code have nothing to do with for instance, `Semester` but they are placed there."
-      },
-      {
-        "lineNumber": 415,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 416,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//Therefore, this needs to be implemented in the future to achieve less coupling, more cohesion and respect the Single Responsibility Principle (SRP), Open-Closed Principle (OCP) and Separation of Concerns Principle (SoC)."
-      },
-      {
-        "lineNumber": 417,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 418,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//\u003d\u003d\u003d\u003d\u003d `Planner` to hold multiple `Semesters`"
-      },
-      {
-        "lineNumber": 419,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 420,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//While *PlanMySem* now allow users to work on the current semester, it is unable to cater to future semesters. For instance when a semester is about to end, users are not able to plan ahead for the coming semester."
-      },
-      {
-        "lineNumber": 421,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 422,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//This is an issue that plagues user experience and is a significant problem. To solve this issue, `Planner` needs to hold multiple semesters in a `List` and more features need to be included to allow saving, loading and switching of semesters and etc."
-      },
-      {
-        "lineNumber": 423,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 424,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 425,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "\u003d\u003d\u003d Parser / Command Format and Structure"
-      },
-      {
-        "lineNumber": 426,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 427,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "Due to the flexibility and huge variation of the envisioned command format and structures, it was decided that it was more appropriate to create a new Parser"
-      },
-      {
-        "lineNumber": 428,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "instead of relying on the existing regex implementation in AB3 for heavy parsing."
-      },
-      {
-        "lineNumber": 429,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 430,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "The AB3 parser was heavily modified to serve unordered command parameters as well as to allow more flexibility such that mistakes in commands will still be"
-      },
-      {
-        "lineNumber": 431,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "interpreted as valid as long as the \"minimal\" set of parameters are present. Regex is currently only used to retrieve the command keywords and arguments."
-      },
-      {
-        "lineNumber": 432,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "Arguments are then parsed via 2 different methods/techniques according to the format and structure of the command keyword."
-      },
-      {
-        "lineNumber": 433,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 434,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "\u003d\u003d\u003d\u003d Current Implementation"
-      },
-      {
-        "lineNumber": 435,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 436,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "* Ordering of parameters are ignored when possible."
-      },
-      {
-        "lineNumber": 437,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "* Repeated parameters are ignored. The first parameter of the same \"type\" are taken as valid, the rest are discarded."
-      },
-      {
-        "lineNumber": 438,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "* Alternate formats of commands are implemented to give freedom of choice and cater to different types of users such as different personalities and comfort levels."
-      },
-      {
-        "lineNumber": 439,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "* Shortened versions of command keywords are implemented to give ways for users to shortened commands and be more efficient."
-      },
-      {
-        "lineNumber": 440,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 441,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "Hence, parameters in *PlanMySem* can be categorised into 2 categories:"
-      },
-      {
-        "lineNumber": 442,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 443,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "1. Prefixed parameters such as `n/NAME`, `st/START_TIME`, `des/DESCRIPTION`, etc."
-      },
-      {
-        "lineNumber": 444,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "2. Non-Prefixed parameters, A.K.A. keywords, such as `INDEX`, `TYPE_OF_VIEW`. etc."
-      },
-      {
-        "lineNumber": 445,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 446,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "_Here, the explanation of parsing prefixed parameters and keywords are omitted._"
-      },
-      {
-        "lineNumber": 447,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 448,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//\u003d\u003d\u003d\u003d\u003d\u003d Parsing Prefixed Parameters"
-      },
-      {
-        "lineNumber": 449,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 450,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//To retrieve the set of parameters, the function `private static HashMap\u003cString, Set\u003cString\u003e\u003e getParametersWithArguments(String args)` can be called."
-      },
-      {
-        "lineNumber": 451,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//The function returns a `HashMap` data structure, specifically `HashMap\u003cString, Set\u003cString\u003e\u003e`, to hold parameters, allowing for easy, quick and efficient access to specific prefixes and its keyed in parameters; O(1) access, insertion and removal."
-      },
-      {
-        "lineNumber": 452,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 453,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//However, this means that exceptions have to be manually taken care of, at the stage of parsing, this exception would particularly be `ParseException`."
-      },
-      {
-        "lineNumber": 454,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 455,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//The following are cases in which `ParseException` is invoked:"
-      },
-      {
-        "lineNumber": 456,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 457,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//* When the returned set is `null`, then the prefix and parameters was not keyed in at all."
-      },
-      {
-        "lineNumber": 458,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//* When the returned set is not `null` but contains empty `strings` such that `string.isEmpty()`, then the prefix was keyed in but was left empty on purpose."
-      },
-      {
-        "lineNumber": 459,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 460,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//\u003d\u003d\u003d\u003d\u003d\u003d Parsing Keywords"
-      },
-      {
-        "lineNumber": 461,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 462,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//Here, keywords are thought of as parameters that are not prefixed."
-      },
-      {
-        "lineNumber": 463,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//In *PlanMySem*, keywords are utilized in command structures when they are to be used alone or when order of parameters are important."
-      },
-      {
-        "lineNumber": 464,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//In such cases, there is no logical need for prefixing as the meaning of these parameters can be identified."
-      },
-      {
-        "lineNumber": 465,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 466,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//The function `private String getStartingArgument(String args)` provides this functionality."
-      },
-      {
-        "lineNumber": 467,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//Here, `IncorrectCommand` is invoked due to different circumstances:"
-      },
-      {
-        "lineNumber": 468,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 469,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//* When the keyword is null, then the parameter was not keyed in."
-      },
-      {
-        "lineNumber": 470,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//* When the keyword data type does not match the intended, then the parameter was keyed in wrongly or is mis-ordered."
-      },
-      {
-        "lineNumber": 471,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 472,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//[NOTE]"
-      },
-      {
-        "lineNumber": 473,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//Additional keywords are purposefully *not* handled to provide ease of use and cater to user mistakes."
-      },
-      {
-        "lineNumber": 474,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 475,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "\u003d\u003d\u003d\u003d Design Considerations"
-      },
-      {
-        "lineNumber": 476,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 477,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "Here are the considerations that led to the new parsing system."
-      },
-      {
-        "lineNumber": 478,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "The choices made were largely due to the fact that they provide a better user experience and ease of use."
-      },
-      {
-        "lineNumber": 479,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 480,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "\u003d\u003d\u003d\u003d\u003d Aspect: Handling repeated parameters"
-      },
-      {
-        "lineNumber": 481,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 482,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "* *Alternative 1 (current choice):* Accept and ignore repeated parameters when possible."
-      },
-      {
-        "lineNumber": 483,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "** Pros: Less Computationally expensive and allows users to make minor mistakes."
-      },
-      {
-        "lineNumber": 484,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "** Cons: User errors may be misinterpreted and hence wrong actions may be executed."
-      },
-      {
-        "lineNumber": 485,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 486,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "* *Alternative 2:* Accept repeated parameters only when as necessary."
-      },
-      {
-        "lineNumber": 487,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "** Pros: Errors are shown to the user so that the invalid command may be fixed."
-      },
-      {
-        "lineNumber": 488,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "** Cons: May hinder user experience, ease of use."
-      },
-      {
-        "lineNumber": 489,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 490,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "\u003d\u003d\u003d\u003d\u003d Aspect: Handling order of parameters"
-      },
-      {
-        "lineNumber": 491,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 492,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "* *Alternative 1 (current choice):* Parse parameters without regards to order."
-      },
-      {
-        "lineNumber": 493,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "** Pros: Greater user experience due to greater ease of use."
-      },
-      {
-        "lineNumber": 494,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "** Cons: More computationally expensive and tougher development process due to more cases to care for, requires manual parsing."
-      },
-      {
-        "lineNumber": 495,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 496,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "* *Alternative 2:* Accept only a specific ordering of parameters."
-      },
-      {
-        "lineNumber": 497,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "** Pros: Less computationally expensive and short development process, able to use existing regex solutions in AB3."
-      },
-      {
-        "lineNumber": 498,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "** Cons: Greatly hinder user experience as order of parameters have no relation to meaning of commands."
-      },
-      {
-        "lineNumber": 499,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 500,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "Alternative 1 was chosen due to the team\u0027s priority in providing a better user experience and allow ease of use."
-      },
-      {
-        "lineNumber": 501,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 502,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "_Here, the future implementations are omitted._"
-      },
-      {
-        "lineNumber": 503,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 504,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//\u003d\u003d\u003d\u003d Future Implementation"
-      },
-      {
-        "lineNumber": 505,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 506,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//Though the current implementation has much flexibility, there is more that can be done to elevate user experience to the next level."
-      },
-      {
-        "lineNumber": 507,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//These are some possible enhancements:"
-      },
-      {
-        "lineNumber": 508,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 509,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//1. Parse more formats of date and time."
-      },
-      {
-        "lineNumber": 510,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//2. Parse time as a single parameter instead of two."
-      },
-      {
-        "lineNumber": 511,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//3. Enhance function calls to retrieve prepended parameters and keywords to handle trivial cases that should invoke `IncorrectCommand`."
-      },
-      {
-        "lineNumber": 512,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "//"
-      },
-      {
-        "lineNumber": 513,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 514,
         "author": {
           "gitId": "seanieyap"
         },
@@ -47044,7 +46232,7 @@
       }
     ],
     "authorContributionMap": {
-      "seanieyap": 514
+      "seanieyap": 398
     }
   },
   {
