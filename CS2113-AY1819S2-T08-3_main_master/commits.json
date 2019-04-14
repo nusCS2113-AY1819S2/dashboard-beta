@@ -736,6 +736,12 @@
             "deletions": 238
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "marcus-pzj": [
@@ -1369,6 +1375,31 @@
         "deletions": 0,
         "date": "2019-04-13",
         "commitResults": []
+      },
+      {
+        "insertions": 223,
+        "deletions": 74,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "68e9a83cf26e61c94a99e1dd25027b94e1e6ea93",
+            "message": "Update Documentation (#191)",
+            "insertions": 197,
+            "deletions": 62
+          },
+          {
+            "hash": "056bd67462bb0b603a627ff370a6502a17c617bf",
+            "message": "Updates to documentation (#192)",
+            "insertions": 15,
+            "deletions": 11
+          },
+          {
+            "hash": "d372dacf5a2b2ccfd083fab1b77face992a34c3d",
+            "message": "Update PPP (#194)",
+            "insertions": 11,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "dingheng4448": [
@@ -1929,10 +1960,30 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 120,
+        "deletions": 55,
         "date": "2019-04-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "e3d79eb2ad23f26d34f8135ff6e7f7f8fc7e62aa",
+            "message": "Update documentation (#190)",
+            "insertions": 120,
+            "deletions": 55
+          }
+        ]
+      },
+      {
+        "insertions": 223,
+        "deletions": 202,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "5ae7955a5d7fc31fd2e76351bdbf8907cbb478e9",
+            "message": "Update documentation (#193)",
+            "insertions": 223,
+            "deletions": 202
+          }
+        ]
       }
     ],
     "macchazuki": [
@@ -2551,20 +2602,26 @@
         "deletions": 0,
         "date": "2019-04-13",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "seanieyap": 12005,
-    "marcus-pzj": 2208,
-    "dingheng4448": 1774,
-    "macchazuki": 1118
+    "seanieyap": 11983,
+    "marcus-pzj": 2363,
+    "dingheng4448": 1913,
+    "macchazuki": 1083
   },
   "authorContributionVariance": {
-    "seanieyap": 2210845.0,
-    "marcus-pzj": 405831.78,
-    "dingheng4448": 24501.848,
-    "macchazuki": 15219.77
+    "seanieyap": 2181967.0,
+    "marcus-pzj": 399877.9,
+    "dingheng4448": 26219.139,
+    "macchazuki": 15011.161
   },
   "authorDisplayNameMap": {
     "seanieyap": "SEA...ONG",

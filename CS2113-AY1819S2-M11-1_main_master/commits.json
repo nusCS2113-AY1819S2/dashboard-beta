@@ -577,6 +577,31 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 198,
+        "deletions": 9,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "6ac377d2ee9c88a9dcf04888b1fab9ba6012fad1",
+            "message": "update user guide",
+            "insertions": 80,
+            "deletions": 8
+          },
+          {
+            "hash": "a6c8e3e2eedce05b0c2e313ac2bb8c1e9379eff5",
+            "message": "add team file, put PPP here",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "001e0d11c2de9f557e7e509aaa6c47e048202a89",
+            "message": "update developer guide",
+            "insertions": 118,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "warheade": [
@@ -1340,8 +1365,8 @@
         "commitResults": []
       },
       {
-        "insertions": 278,
-        "deletions": 28,
+        "insertions": 559,
+        "deletions": 140,
         "date": "2019-04-13",
         "commitResults": [
           {
@@ -1367,6 +1392,49 @@
             "message": "block edition of goals scored using editPlayer command to avoid updateMatch running into error",
             "insertions": 10,
             "deletions": 1
+          },
+          {
+            "hash": "938bf66e3233b861409fcbd28f242f85a018b8db",
+            "message": "added transfer record to dataAnalysis feature changed transfer command to store transfer record changed addressbook and adaptedaddressbook to store transfer records in storage",
+            "insertions": 105,
+            "deletions": 68
+          },
+          {
+            "hash": "5c5b5cf4990c9bd7db7534733d08b0b5a885f2b7",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0a6c6611f94707703546c15f86d71f936269697e",
+            "message": "Added parser test for export, transfer and dataAnalysis",
+            "insertions": 142,
+            "deletions": 9
+          },
+          {
+            "hash": "2f0f12d09671e9f1cac308a4115374b336f08e29",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a6128b37296ccd31d7ce33987293c69ea5e7c588",
+            "message": "checkstyle",
+            "insertions": 32,
+            "deletions": 33
+          }
+        ]
+      },
+      {
+        "insertions": 392,
+        "deletions": 103,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "dfa90ba47126d3744256a2e6784d2c0ffcb17189",
+            "message": "Updated user guide for player, export, data analysis and general features",
+            "insertions": 392,
+            "deletions": 103
           }
         ]
       }
@@ -1961,16 +2029,97 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 123,
+        "deletions": 133,
         "date": "2019-04-12",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "c262d0a0ff8a013b10c49221f02e7128e4b2651c",
+            "message": "Change Set\u003cPlayer\u003e to List\u003cPlayer\u003e edit testcases",
+            "insertions": 46,
+            "deletions": 76
+          },
+          {
+            "hash": "08a4ff44d14daceaa79adcd84dd956c079549ad2",
+            "message": "reimplemented test cases for player",
+            "insertions": 14,
+            "deletions": 17
+          },
+          {
+            "hash": "cbfa6ce413345dc7840ccd39808fb9086f9f4431",
+            "message": "Optimize deleteteam add testcase",
+            "insertions": 39,
+            "deletions": 14
+          },
+          {
+            "hash": "b39c3df24560697e290654480585308ccea18863",
+            "message": "Checkstyle",
+            "insertions": 24,
+            "deletions": 26
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 38,
+        "deletions": 52,
         "date": "2019-04-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "686a027a1087ce02e284a44488f2b4034dd5bdf4",
+            "message": "fix checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "b57bd099ca18fd7a2901e8703ee060d44092b573",
+            "message": "change editteam to disable teamname change with player or match",
+            "insertions": 19,
+            "deletions": 22
+          },
+          {
+            "hash": "7b4c5f66308fa7beeb6d2b6f3fc1097c6c2d5f66",
+            "message": "debug",
+            "insertions": 1,
+            "deletions": 19
+          },
+          {
+            "hash": "748c79ea08ed650483c7a5b9d1d3c12411314ab1",
+            "message": "Added string to help add dummy team",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "93abdf7e2716b231939fe5a90a65d503c1d4a470",
+            "message": "checkstyle",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "d6c212a173e33d744de5f423a64c8386a401610f",
+            "message": "checkstyle",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 300,
+        "deletions": 14,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "69b7730c30dfa6334a5897cd651653afd295f542",
+            "message": "updated UG \u0026 DG change editteam to make name changes invalid for certain cases",
+            "insertions": 283,
+            "deletions": 8
+          },
+          {
+            "hash": "2810bc26db42e6f89a72a6c0e249600e0543f766",
+            "message": "debug Editteam function",
+            "insertions": 17,
+            "deletions": 6
+          }
+        ]
       }
     ],
     "E0176106": [
@@ -2656,8 +2805,8 @@
         ]
       },
       {
-        "insertions": 189,
-        "deletions": 164,
+        "insertions": 602,
+        "deletions": 294,
         "date": "2019-04-13",
         "commitResults": [
           {
@@ -2707,22 +2856,83 @@
             "message": "Implement method to find player by Name",
             "insertions": 36,
             "deletions": 17
+          },
+          {
+            "hash": "4d7a8b0dc9cfe8df11bbfa467b56e82384092090",
+            "message": "Fix bug regarding editPlayer",
+            "insertions": 34,
+            "deletions": 0
+          },
+          {
+            "hash": "dee6e61a4efb517b48a7210159042d77d5acfd76",
+            "message": "Fix some bugs for editTeamName",
+            "insertions": 80,
+            "deletions": 3
+          },
+          {
+            "hash": "04ccd55d2270abd9978c1d5df7c702b99ac943c6",
+            "message": "Revert \"Fix bug regarding editPlayer\"",
+            "insertions": 0,
+            "deletions": 34
+          },
+          {
+            "hash": "1ba0d47e29580f288c749c62ecd5b6b6970cdbd1",
+            "message": "Revert \"Revert \"Fix bug regarding editPlayer\"\"",
+            "insertions": 34,
+            "deletions": 0
+          },
+          {
+            "hash": "636cbfe4b077779a1b9a22fa612542bdfc01f181",
+            "message": "Revert \"Fix some bugs for editTeamName\"",
+            "insertions": 3,
+            "deletions": 80
+          },
+          {
+            "hash": "e170a6dfe2a5ee25146ac77049fa8cec520ab3e6",
+            "message": "Fix checkstyle",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "3285d06f3a80abb6fade960a74cf7739e288173a",
+            "message": "Add ParserTest code for match commands",
+            "insertions": 247,
+            "deletions": 3
+          },
+          {
+            "hash": "ad505afc3cf73fbb996560d7262bb7351e5aea26",
+            "message": "Fix checkstyle",
+            "insertions": 11,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 174,
+        "deletions": 1,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "b8979860c94d76805f9226dac419add46d8f297a",
+            "message": "Add LogicTest code",
+            "insertions": 174,
+            "deletions": 1
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "huyidi": 1472,
-    "warheade": 4645,
-    "yingrong1996": 2721,
-    "E0176106": 2385
+    "huyidi": 1639,
+    "warheade": 5114,
+    "yingrong1996": 3021,
+    "E0176106": 2797
   },
   "authorContributionVariance": {
-    "huyidi": 18232.17,
-    "warheade": 180165.67,
-    "yingrong1996": 64021.523,
-    "E0176106": 129990.36
+    "huyidi": 18345.754,
+    "warheade": 183129.16,
+    "yingrong1996": 63778.844,
+    "E0176106": 136828.03
   },
   "authorDisplayNameMap": {
     "huyidi": "Hu Yidi",

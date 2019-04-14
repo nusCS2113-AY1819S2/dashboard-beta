@@ -1022,6 +1022,44 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 28,
+        "deletions": 1,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "78f8463cadc006f02dbd14dcc979416fa606701a",
+            "message": "Update DG",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "51d280d6d0f7e952aa17867de8d6717476ac96e6",
+            "message": "Update DG",
+            "insertions": 24,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 2,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "94cea384d1f901daa074c4407c2b8d6279191a35",
+            "message": "Update PPP",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "Shengkok": [
@@ -1841,6 +1879,24 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
         "commitResults": []
       }
     ],
@@ -2676,6 +2732,37 @@
         "deletions": 0,
         "date": "2019-04-11",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 106,
+        "deletions": 238,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "a072408891e6d998ab5df8bd0202afbeff44d98e",
+            "message": "Update PPP",
+            "insertions": 103,
+            "deletions": 230
+          },
+          {
+            "hash": "fa7d6cfdcedc626e309b2a17c5e449cf3a35efdb",
+            "message": "Edit to comply with travis",
+            "insertions": 3,
+            "deletions": 8
+          }
+        ]
       }
     ],
     "nicholasleeeee": [
@@ -3163,20 +3250,38 @@
         "deletions": 0,
         "date": "2019-04-11",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Justin-Ong": 1510,
-    "Shengkok": 1698,
-    "khairulhazril": 6880,
-    "nicholasleeeee": 300
+    "Justin-Ong": 1522,
+    "Shengkok": 1705,
+    "khairulhazril": 6935,
+    "nicholasleeeee": 287
   },
   "authorContributionVariance": {
-    "Justin-Ong": 14983.763,
-    "Shengkok": 11407.9375,
-    "khairulhazril": 5665816.5,
-    "nicholasleeeee": 24483.918
+    "Justin-Ong": 14410.407,
+    "Shengkok": 10960.788,
+    "khairulhazril": 5409423.5,
+    "nicholasleeeee": 23374.125
   },
   "authorDisplayNameMap": {
     "Justin-Ong": "ONG...TIN",

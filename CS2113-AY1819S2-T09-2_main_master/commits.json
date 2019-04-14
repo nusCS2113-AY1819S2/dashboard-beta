@@ -894,6 +894,12 @@
         "deletions": 0,
         "date": "2019-04-13",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "cheahzk": [
@@ -2368,6 +2374,12 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "jingchen-z": [
@@ -3522,10 +3534,66 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 109,
+        "deletions": 66,
         "date": "2019-04-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "c8813a6afaa968c0b93ed3dd7445030f993f6e7b",
+            "message": "Style fix",
+            "insertions": 45,
+            "deletions": 31
+          },
+          {
+            "hash": "d347bd5cedea66020b2193f7ea76cb4b3d4aea7e",
+            "message": "Timeline bug fix",
+            "insertions": 39,
+            "deletions": 10
+          },
+          {
+            "hash": "ea759d5956fc295aaaeeff05839000c00f77b964",
+            "message": "Bug fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b9586f9975e466c3b052f0957d3a38bc35d09604",
+            "message": "Fix warning",
+            "insertions": 24,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 52,
+        "deletions": 4,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "0ebe813e3ad938b05d19a9be9ada69936e8f2de4",
+            "message": "Update DG PPP",
+            "insertions": 28,
+            "deletions": 2
+          },
+          {
+            "hash": "031e4ae50b72f03075051d9f5d369cbb97ab2906",
+            "message": "Update PPP",
+            "insertions": 21,
+            "deletions": 0
+          },
+          {
+            "hash": "09390eb266d5d958a21843da3470635672e31e33",
+            "message": "Update DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c5493d16eeeb15070ddea3ebb7a93000cfdcc0ad",
+            "message": "Update DG",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "BrittonAlone": [
@@ -4254,6 +4322,19 @@
         "deletions": 0,
         "date": "2019-04-13",
         "commitResults": []
+      },
+      {
+        "insertions": 20,
+        "deletions": 2,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "0430c411307fb51c2b0fba2b0c0086ae180d29e8",
+            "message": "Sequence Diagram for remind feature added. DG and JinShibo PPP updated.",
+            "insertions": 20,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "Zeyang-Li": [
@@ -5034,10 +5115,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 6,
+        "deletions": 1,
         "date": "2019-04-08",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "3def1aa64abdb03d65f025e1da2b03022a3167c9",
+            "message": "update images",
+            "insertions": 6,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -5064,26 +5152,51 @@
         "commitResults": []
       },
       {
+        "insertions": 52,
+        "deletions": 23,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "12985be453494dc64ec16fd2d90ec47fd91dd354",
+            "message": "delete thrid lib",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "7c3a5fd52046cc02cc22a05c60cece65c811eeeb",
+            "message": "delete third lib 2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c1dd74b6e1135433be9cae652d27e24c92dda893",
+            "message": "update sequence diagrams",
+            "insertions": 50,
+            "deletions": 20
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-13",
+        "date": "2019-04-14",
         "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
     "Wanchunwei": 3163,
-    "cheahzk": 7101,
-    "jingchen-z": 1542,
-    "BrittonAlone": 852,
-    "Zeyang-Li": 2283
+    "cheahzk": 7106,
+    "jingchen-z": 1630,
+    "BrittonAlone": 871,
+    "Zeyang-Li": 2306
   },
   "authorContributionVariance": {
-    "Wanchunwei": 217360.64,
-    "cheahzk": 1483517.0,
-    "jingchen-z": 26076.17,
-    "BrittonAlone": 8253.825,
-    "Zeyang-Li": 8757900.0
+    "Wanchunwei": 214124.3,
+    "cheahzk": 1463512.5,
+    "jingchen-z": 25792.248,
+    "BrittonAlone": 8127.3013,
+    "Zeyang-Li": 8623241.0
   },
   "authorDisplayNameMap": {
     "Wanchunwei": "WAN...WEI",

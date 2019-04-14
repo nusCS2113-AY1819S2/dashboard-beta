@@ -336,16 +336,42 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 196,
         "deletions": 0,
         "date": "2019-03-29",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "4910c6393dfa4f23136a445c5944d4bd5263d923",
+            "message": "fxml for UI implemented.",
+            "insertions": 53,
+            "deletions": 0
+          },
+          {
+            "hash": "3a397edd48c846fa23ce9bcdc7daca0d6ee5caa1",
+            "message": "WorkoutCard and WorkoutListPanel for UI implemented",
+            "insertions": 134,
+            "deletions": 0
+          },
+          {
+            "hash": "3c6f43b43c3f952fa56e570f1c780f0e40392782",
+            "message": "WorkoutList UI Implemented",
+            "insertions": 9,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 3,
+        "deletions": 3,
         "date": "2019-03-30",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "a68512f0a9321c676aacd4d53654010bb4b0551a",
+            "message": "Workout Card UI tweaked",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -396,10 +422,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 3,
+        "deletions": 3,
         "date": "2019-04-08",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "dd73f667f356ba23d4046673f2bdfb41ff19ee6a",
+            "message": "Workout Card UI tweaked",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -426,10 +459,162 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 98,
+        "deletions": 61,
         "date": "2019-04-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "b050b1b902fbb0c1cce6a582d26d4b1cfd5ba32a",
+            "message": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-2/main",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "5af6849082ccaa13c0ade2e376b30c7bb9470cf7",
+            "message": "Style changed",
+            "insertions": 16,
+            "deletions": 8
+          },
+          {
+            "hash": "c0b7430134f15e206af535fe911414e50b848400",
+            "message": "Style changed",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "1e53e3810cc10c8d746c3f51730de01f47fe03c7",
+            "message": "Style changed",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1445deaa752b72e8480531272b83742ddb36a755",
+            "message": "MainWindow changed",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "bca165fb2085dc1c51c4e2f7bdfb004728355dd8",
+            "message": "MainWindow changed",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "4654fe92b8ffb59e6d295489228632b3a18f9a6a",
+            "message": "MainWindow changed",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "dfd455363a0ff326bdac9bbdfc4089c32de6a001",
+            "message": "Workout Card changed to fit format properly",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "c55ab9dcfa079512c7252a3c9e87f1263080f712",
+            "message": "Record command bugfix",
+            "insertions": 16,
+            "deletions": 8
+          },
+          {
+            "hash": "77bc429bf067b81e9787da21f80f4f73d4c4b3ac",
+            "message": "Bugfix to merge",
+            "insertions": 8,
+            "deletions": 19
+          },
+          {
+            "hash": "01e9a44fc6d6bebd3045d21ee0261ed7e7b18b3f",
+            "message": "WorkoutCommand implemented",
+            "insertions": 33,
+            "deletions": 5
+          },
+          {
+            "hash": "2349963506a9457f065ecab48f8bded156bfb5c8",
+            "message": "Travis fixed",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "00a011da28948352b838ca4a82a5078f784d7952",
+            "message": "Travis fixed",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 195,
+        "deletions": 83,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "cec86d02b33bd1120489b1826ee584e9429ebd6a",
+            "message": "Workout command implemented and run successfully",
+            "insertions": 58,
+            "deletions": 10
+          },
+          {
+            "hash": "ed47de963fddba5d66f8503c3d7b343c37776210",
+            "message": "travis errors fixed",
+            "insertions": 8,
+            "deletions": 6
+          },
+          {
+            "hash": "d562df93b169152379761eb18e7ed27d573c98d9",
+            "message": "travis errors fixed",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "2705b5f588a2cb85301a944bae3233a27c209ccb",
+            "message": "travis errors fixed",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "dd0f9452c6b52a20c522e2d6fc1f9b95379b3e43",
+            "message": "All minor spelling changes, comment changes and tidying up of code",
+            "insertions": 22,
+            "deletions": 49
+          },
+          {
+            "hash": "388968b9d837e65326809c381ac32314ee59c317",
+            "message": "More comment changes",
+            "insertions": 5,
+            "deletions": 10
+          },
+          {
+            "hash": "67502a22e151ab0bdc68596d693178da6b45913d",
+            "message": "Travis fixed",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "8168bbc7d848255ee11b31352c08b9432fb00a60",
+            "message": "WorkerBuilder added",
+            "insertions": 79,
+            "deletions": 0
+          },
+          {
+            "hash": "dd444c91f32fddaaea149c561177ee95567a2cb0",
+            "message": "WorkerBuilder added",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "352619671e2e97f0b17de0a1840f5f137b3cfc9b",
+            "message": "WorkerBuilder added",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "7107e8a5b1ad834be4a8ca4a60f9a52d2c71c70d",
+            "message": "WorkerBuilder added",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "wongyuqi": [
@@ -822,6 +1007,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
         "commitResults": []
       }
     ],
@@ -1603,9 +1794,22 @@
         "commitResults": []
       },
       {
+        "insertions": 60,
+        "deletions": 23,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "0c3d41dfe2f7abb569806b8d68cd31805d7410b6",
+            "message": "Modified developer guide",
+            "insertions": 60,
+            "deletions": 23
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-13",
+        "date": "2019-04-14",
         "commitResults": []
       }
     ],
@@ -2274,8 +2478,8 @@
         ]
       },
       {
-        "insertions": 393,
-        "deletions": 35,
+        "insertions": 1173,
+        "deletions": 533,
         "date": "2019-04-13",
         "commitResults": [
           {
@@ -2289,22 +2493,83 @@
             "message": "Modified some merge conflicts!",
             "insertions": 33,
             "deletions": 32
+          },
+          {
+            "hash": "57d9580e31980184f22738f5f205f5c9295a3b09",
+            "message": "Developer Guide",
+            "insertions": 64,
+            "deletions": 303
+          },
+          {
+            "hash": "72a854a2b884414adcc8827874d8675f637f1ff6",
+            "message": "Added more tests!",
+            "insertions": 523,
+            "deletions": 87
+          },
+          {
+            "hash": "5e9856be11c7ef9abb2e05f4681ceea0a7b0e042",
+            "message": "Added more tests!",
+            "insertions": 104,
+            "deletions": 33
+          },
+          {
+            "hash": "197b224ca5cc3546f64a5ec15b619193f4f15a56",
+            "message": "DEVELOPERGUIDE UPDATES",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "58719f94b691b9d5d93d3cdaa4a265ab1c283398",
+            "message": "userguide updates!",
+            "insertions": 51,
+            "deletions": 55
+          },
+          {
+            "hash": "eb2386af01c9ac7bae884700d25fe3126b6ffc52",
+            "message": "developerguide updates",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "1f8ffff1ceeaea9f7df5f1880eb6cd94788a2acf",
+            "message": "developerguide updates",
+            "insertions": 29,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 871,
+        "deletions": 89,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "e4f918bbd15947f905ad483820724fb2cad273b1",
+            "message": "Added the rest of the tests!",
+            "insertions": 849,
+            "deletions": 58
+          },
+          {
+            "hash": "ed26a202d08c5f8a472c28386582f34daf4858a0",
+            "message": "Added the rest of the tests!",
+            "insertions": 22,
+            "deletions": 31
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "yongjia96": 898,
-    "wongyuqi": 134,
-    "weizhonglauw": 2573,
-    "jayrometan": 4840
+    "yongjia96": 1286,
+    "wongyuqi": 142,
+    "weizhonglauw": 2583,
+    "jayrometan": 6178
   },
   "authorContributionVariance": {
-    "yongjia96": 7950.1973,
-    "wongyuqi": 3674.4646,
-    "weizhonglauw": 159966.14,
-    "jayrometan": 96530.086
+    "yongjia96": 9542.875,
+    "wongyuqi": 3617.9602,
+    "weizhonglauw": 157487.05,
+    "jayrometan": 142357.31
   },
   "authorDisplayNameMap": {
     "yongjia96": "PAN...JIA",

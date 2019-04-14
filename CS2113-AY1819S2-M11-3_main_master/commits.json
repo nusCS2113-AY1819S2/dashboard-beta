@@ -1116,10 +1116,53 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 150,
+        "deletions": 152,
         "date": "2019-04-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "0fd28ff45e92cae2fe28bacdcc5ab7538b4d1856",
+            "message": "Updated User Guide",
+            "insertions": 71,
+            "deletions": 57
+          },
+          {
+            "hash": "877d79f88ab691fb1cdb7f0709e374f4467a5b05",
+            "message": "LogicManagerTest: Updated tests",
+            "insertions": 43,
+            "deletions": 51
+          },
+          {
+            "hash": "4926576785b17780db029394e880b092047e9008",
+            "message": "Fixed sentences in User Guide",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "e8445a6a34c1c254307217d072164e27ecd608f8",
+            "message": "User Guide: Removed irrelevant sections, added new sections, and fixed sentences",
+            "insertions": 20,
+            "deletions": 15
+          },
+          {
+            "hash": "923627fe0c0af1701c4a911f5da599f13e5f4b34",
+            "message": "Removed irrelevant section in User Guide",
+            "insertions": 0,
+            "deletions": 12
+          },
+          {
+            "hash": "b4b5f934d6f165ac40ffad1341faa1d40f8f78a3",
+            "message": "Fixed sentences in User Guide",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "f4a13c7b17bcc37a77cfbbbef1f623f34fbd776a",
+            "message": "Updated formatting in User Guide",
+            "insertions": 6,
+            "deletions": 7
+          }
+        ]
       }
     ],
     "jemine1998": [
@@ -2779,12 +2822,12 @@
     ]
   },
   "authorFinalContributionMap": {
-    "wanchinglim": 3139,
+    "wanchinglim": 3170,
     "jemine1998": 1310,
-    "dannong": 4636
+    "dannong": 4596
   },
   "authorContributionVariance": {
-    "wanchinglim": 247204.23,
+    "wanchinglim": 246782.66,
     "jemine1998": 10534.197,
     "dannong": 681263.2
   },

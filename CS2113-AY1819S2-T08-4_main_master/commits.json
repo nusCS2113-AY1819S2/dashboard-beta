@@ -717,6 +717,37 @@
         "deletions": 0,
         "date": "2019-04-11",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 546,
+        "deletions": 4,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "61e7183f541e36c79851f0f9a6ec02013598f262",
+            "message": "Minor fix",
+            "insertions": 12,
+            "deletions": 4
+          },
+          {
+            "hash": "f03309dba019f193415ead7b4c64d3a6585f42ad",
+            "message": "Add test cases",
+            "insertions": 534,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "ssunil3232": [
@@ -1535,6 +1566,24 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
         "commitResults": []
       }
     ],
@@ -2712,6 +2761,43 @@
         "deletions": 0,
         "date": "2019-04-11",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 104,
+        "deletions": 157,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "152c73fa8e6cf9501f539de7a19595c74c328bc3",
+            "message": "updates to shanseet PPP",
+            "insertions": 64,
+            "deletions": 110
+          },
+          {
+            "hash": "59ae625ec474182d551c38b638262c1346dae579",
+            "message": "updates to shanseet PPP",
+            "insertions": 22,
+            "deletions": 20
+          },
+          {
+            "hash": "d205e9f371e3ad766e28dd577ad71189b670c4a7",
+            "message": "formatting updates to shanseet PPP",
+            "insertions": 18,
+            "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "weizhang05": [
@@ -3707,8 +3793,8 @@
         "commitResults": []
       },
       {
-        "insertions": 1185,
-        "deletions": 1449,
+        "insertions": 1250,
+        "deletions": 1518,
         "date": "2019-04-11",
         "commitResults": [
           {
@@ -3818,22 +3904,192 @@
             "message": "fix style check",
             "insertions": 3,
             "deletions": 5
+          },
+          {
+            "hash": "5b91152a22fc0ca5791febaf9f877a2b9c4ca4b4",
+            "message": "created sample House data",
+            "insertions": 27,
+            "deletions": 0
+          },
+          {
+            "hash": "8c9449782bf774ae5442cbe5f330ea4dda20720e",
+            "message": "modified sample data",
+            "insertions": 32,
+            "deletions": 63
+          },
+          {
+            "hash": "51aef9779793bfa59912616d02cddf89ce5eb1d0",
+            "message": "fix style check",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 778,
+        "deletions": 513,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "4f05138a2ab1d7c38fceb7c81e47f28b88bb3d12",
+            "message": "refactor participant to freshman",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "669f0ff05617b7e0245efa1ec36919ef2e9d82da",
+            "message": "refactor participant to freshman",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7d53f5290634bfe4a917ffc92b4de5635147c816",
+            "message": "removed additional spacing",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "937f38c4681e3da7669b5ed5aec3069fc3214873",
+            "message": "removed additional spacing",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1c0020d75be9adbf4e36509d1cf91ffffef6cab6",
+            "message": "added Value class and updated parser to reference to Value instead",
+            "insertions": 16,
+            "deletions": 2
+          },
+          {
+            "hash": "540f3868c43668bbfab0021b0664a1f5abf70185",
+            "message": "added extra space in Value class",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "6e3e5afa918b64181992c290695a445d69ea33a7",
+            "message": "fix style check",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "71cba265400e0722813c7bec0774356790764e05",
+            "message": "updated sample data and refactor person to participant",
+            "insertions": 50,
+            "deletions": 24
+          },
+          {
+            "hash": "69266c764c1acd32bf653af646952a33a602ff85",
+            "message": "improved algorithm for group assignment to OGLs and Freshmen",
+            "insertions": 60,
+            "deletions": 15
+          },
+          {
+            "hash": "3a02c47fe90b1cf3dc5a7a7150a5f9bbb7d65984",
+            "message": "corrected algorithm for assignment groups to OGLs and freshmen",
+            "insertions": 23,
+            "deletions": 25
+          },
+          {
+            "hash": "5f404d01de400f9ab4cb2647426d8ee0d00659bc",
+            "message": "removed extra spacing",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "14a69dc5b3bc543a88b558d2d2ee07b4038fb85b",
+            "message": "fix style check",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "f195ab9b26927712e294e7eeb0dc267159df414f",
+            "message": "updated comments for randomization algorithm",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "ab3bdb26911ed28e64d1278d6a5f93b64172b662",
+            "message": "updated exception catching to be more specific cases",
+            "insertions": 13,
+            "deletions": 6
+          },
+          {
+            "hash": "fac5c2d95264cce153ffff56544152b699be6706",
+            "message": "created test cases for randomize command",
+            "insertions": 170,
+            "deletions": 0
+          },
+          {
+            "hash": "271aef99d63cd99a61cb89ef3b690043ad1b9189",
+            "message": "fix style check",
+            "insertions": 5,
+            "deletions": 7
+          },
+          {
+            "hash": "6b7544304faebb4b4b1a2c567356686c53fddadc",
+            "message": "fix style check",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "5342a0796b75ae83c359d19537796c5243cbab69",
+            "message": "refactor person to participant",
+            "insertions": 383,
+            "deletions": 383
+          },
+          {
+            "hash": "d7c7c1906980c98c177a9dc82e437589ee2f03f2",
+            "message": "refactor person to participant and fix style check",
+            "insertions": 17,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 8,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "fe459ecb9fbaa87ff55f4cda2c71ade74d101bb2",
+            "message": "fix style check",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "0c5cdea3dc5184818085975e1c6894a553ad4cd0",
+            "message": "fix style check",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "a37b1c8bcd954bc80c0041b95c9ba82509fc38eb",
+            "message": "refactor person to participant",
+            "insertions": 3,
+            "deletions": 3
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "tantantan277": 2353,
-    "ssunil3232": 1481,
-    "shanseet": 3165,
-    "weizhang05": 2635
+    "tantantan277": 2873,
+    "ssunil3232": 1448,
+    "shanseet": 3094,
+    "weizhang05": 3073
   },
   "authorContributionVariance": {
-    "tantantan277": 59898.562,
-    "ssunil3232": 17823.967,
-    "shanseet": 51763.48,
-    "weizhang05": 202393.7
+    "tantantan277": 60717.406,
+    "ssunil3232": 17110.957,
+    "shanseet": 50049.984,
+    "weizhang05": 225145.22
   },
   "authorDisplayNameMap": {
     "tantantan277": "PHA...TAN",

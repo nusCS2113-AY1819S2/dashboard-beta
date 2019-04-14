@@ -759,6 +759,128 @@
         "deletions": 0,
         "date": "2019-04-06",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 566,
+        "deletions": 48,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "1144bb786ef48d0321d6dc4eb93f9cd6d0d53daa",
+            "message": "- changed project portoflio name to windrichie.adoc - event list panel automatically updates after addevent command is called",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f18655a1f1b57498766bc8ff77e9cea35bbbea7b",
+            "message": "added FilterEventCommand to show events on a specific date",
+            "insertions": 114,
+            "deletions": 19
+          },
+          {
+            "hash": "74aebe1de5f8e5cd036fffd3ee270a3620998886",
+            "message": "sort events by timing so that when filterevent is called, the events happening on the day are sorted by time",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "ce8c031004dac8c0a30fdcd3c2da61b9536cf1a0",
+            "message": "same as previous commit",
+            "insertions": 29,
+            "deletions": 5
+          },
+          {
+            "hash": "668f218b89b061279238f633fd01fc717aa5294b",
+            "message": "updated EventTimeComparator to sort by date before sorting by time",
+            "insertions": 26,
+            "deletions": 3
+          },
+          {
+            "hash": "40a28ac57ac7b4422c14a471c7301547b526f24f",
+            "message": "created all necessary classes for the UI part of timetable / activity",
+            "insertions": 259,
+            "deletions": 4
+          },
+          {
+            "hash": "3275c144ace712aeb4ed402e999d8035b1c7e419",
+            "message": "successfully added functions and classes to display activity list on left panel using \"listactivity\" command",
+            "insertions": 58,
+            "deletions": 6
+          },
+          {
+            "hash": "5754866499e522c57b8ab5ad627834d2e5463c16",
+            "message": "enable listactivity + index to show timetables of different people in the address book",
+            "insertions": 75,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 80,
+        "deletions": 74,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "5dd3e899cf1d7d21b33d617a462225bedaa41981",
+            "message": "added check mechanism for listactivity command to make sure index is only digits and is not more than the number of people in the AB",
+            "insertions": 19,
+            "deletions": 7
+          },
+          {
+            "hash": "536b211377be8e6aa9fb3e026f6684e53e36c753",
+            "message": "fixed Travis checkstyle error - Attempt #1",
+            "insertions": 49,
+            "deletions": 63
+          },
+          {
+            "hash": "f72b52ab36dcf507a59fca8c5a25e89c47ccdb2a",
+            "message": "fixed JUnit Test errors",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "100a55dc79bdc159d4d01ffb079997e7b2d1566b",
+            "message": "fixed Travis checkstyle errors - Attempt #2",
+            "insertions": 5,
+            "deletions": 3
+          }
+        ]
       }
     ],
     "JKupoluyi": [
@@ -1771,6 +1893,54 @@
             "deletions": 6
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "Sameow": [
@@ -2317,6 +2487,54 @@
         "deletions": 0,
         "date": "2019-04-06",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "Shizhe-NUS": [
@@ -2707,20 +2925,68 @@
         "deletions": 0,
         "date": "2019-04-06",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "windrichie": 2358,
-    "JKupoluyi": 1001,
-    "Sameow": 273,
+    "windrichie": 2888,
+    "JKupoluyi": 998,
+    "Sameow": 272,
     "Shizhe-NUS": 51
   },
   "authorContributionVariance": {
-    "windrichie": 42134.207,
-    "JKupoluyi": 13442.469,
-    "Sameow": 565.49866,
-    "Shizhe-NUS": 74.74495
+    "windrichie": 42108.383,
+    "JKupoluyi": 11962.723,
+    "Sameow": 501.74872,
+    "Shizhe-NUS": 65.87109
   },
   "authorDisplayNameMap": {
     "windrichie": "Windrich",

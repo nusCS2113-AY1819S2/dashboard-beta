@@ -821,6 +821,12 @@
         "deletions": 0,
         "date": "2019-04-13",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "WendyBaiYunwei": [
@@ -1233,6 +1239,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
         "commitResults": []
       }
     ],
@@ -2487,6 +2499,25 @@
             "deletions": 4
           }
         ]
+      },
+      {
+        "insertions": 129,
+        "deletions": 115,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "b59439225fa580e62f1094e02e50e9785c61b9b3",
+            "message": "docs: update UserGuide structure and general commands usage (#218)",
+            "insertions": 121,
+            "deletions": 115
+          },
+          {
+            "hash": "b0bffed5e8e048843ebcab0f81acd3bb4b5d7437",
+            "message": "DeveloperGuide: update \"Troubleshooting Testing\" section (#219)",
+            "insertions": 8,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "chyeo": [
@@ -3324,6 +3355,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
         "commitResults": []
       }
     ],
@@ -4165,26 +4202,58 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 406,
+        "deletions": 174,
         "date": "2019-04-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "c91e3b3d1d8929d984280e5b6271d3f0c220f015",
+            "message": "docs/UserGuide: re-structure content and add more images (#207)",
+            "insertions": 406,
+            "deletions": 174
+          }
+        ]
+      },
+      {
+        "insertions": 66,
+        "deletions": 1,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "d1962718e9cae668cb8993239f12d1b76de0c16f",
+            "message": "README: acknowledge css source. (#216)",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "192f34d93c201aef243d52772b4fdec86822a72f",
+            "message": "docs/Images: Upload labelled UI (#217)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "508d543e1f5929180b720e51e6b120aa7ae64775",
+            "message": "Logic: add new `reset` command (#214)",
+            "insertions": 62,
+            "deletions": 0
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "truegitnovice": 2494,
-    "WendyBaiYunwei": 265,
-    "Creastery": 4768,
-    "chyeo": 2532,
-    "lycjackie": 4743
+    "truegitnovice": 2471,
+    "WendyBaiYunwei": 233,
+    "Creastery": 4834,
+    "chyeo": 2487,
+    "lycjackie": 5136
   },
   "authorContributionVariance": {
-    "truegitnovice": 73830.125,
-    "WendyBaiYunwei": 1050.3445,
-    "Creastery": 194649.42,
-    "chyeo": 248439.8,
-    "lycjackie": 555779.5
+    "truegitnovice": 72804.75,
+    "WendyBaiYunwei": 1034.5128,
+    "Creastery": 191645.98,
+    "chyeo": 244981.34,
+    "lycjackie": 549714.0
   },
   "authorDisplayNameMap": {
     "truegitnovice": "AHN...GYU",

@@ -484,6 +484,43 @@
             "deletions": 8
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 166,
+        "deletions": 43,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "12813589cbea75be818a99f3fe2622b7c203f0f4",
+            "message": "update UG, DG and PPP",
+            "insertions": 131,
+            "deletions": 33
+          },
+          {
+            "hash": "86b9e0831ebc1eccb9c6a2cda3ae00705f9d9b62",
+            "message": "add tags to UG sections",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "968ff531ddeee3fadc332b83af21e834ab83db09",
+            "message": "update minor changes to UG, DG and PPP",
+            "insertions": 28,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "gautamrajulu": [
@@ -980,6 +1017,24 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
         "commitResults": []
       }
     ],
@@ -1565,6 +1620,38 @@
             "message": "PPP: update PPP and relevant UGDG sections",
             "insertions": 47,
             "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 60,
+        "deletions": 24,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "cc73df0b0c2bde7f55a3f1b6e1d8a3d64d718e1c",
+            "message": "PPP: update UG, DG and PPP",
+            "insertions": 60,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "8c6f1e7917f025b9b38cb4a5967385eb908de937",
+            "message": "PPP: update app layout",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       }
@@ -2242,6 +2329,31 @@
         "deletions": 0,
         "date": "2019-04-11",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 88,
+        "deletions": 69,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "15da2e2799661dbfa488bf98f127a3548fbc3098",
+            "message": "Update Documentation (#198)",
+            "insertions": 88,
+            "deletions": 69
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "andreathniah": [
@@ -2915,22 +3027,107 @@
             "deletions": 48
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 501,
+        "deletions": 193,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "7d95be2e959a934b4a74ce3530802e3536f20d9c",
+            "message": "DefineTag, AddTag, ListTag: update  and refactor codes",
+            "insertions": 46,
+            "deletions": 32
+          },
+          {
+            "hash": "04661bf7d3abb48675be6a64807abb08046e3af8",
+            "message": "DeveloperGuide: add sequence diagrams",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f5f07bf633c8f5c42b70abd9ab3554d186d17d57",
+            "message": "Merge branch \u0027master\u0027 of https://github.com/CS2113-AY1819S2-T09-3/main into v1.4/documentations",
+            "insertions": 47,
+            "deletions": 30
+          },
+          {
+            "hash": "49b2f8f102db1de9fca7bab7b8110b38bd4dd4c9",
+            "message": "Documentation: update DeveloperGuide, UserGuide, PPP with updated figures and descriptions",
+            "insertions": 142,
+            "deletions": 28
+          },
+          {
+            "hash": "f15a2ab348bf3549a02bc60fbde203a2d6e837e0",
+            "message": "DeveloperGuide: updated manual testing instructions",
+            "insertions": 246,
+            "deletions": 71
+          },
+          {
+            "hash": "3b591c01763906274a15d46969b261fd9a693b9e",
+            "message": "PPP: update with new layout image",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "60e3b654905ddd08066687a41e20fe5d6d68e918",
+            "message": "Fix travis error",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "becf0d758547fea199017714776c774fc7037c50",
+            "message": "DefineTag: fix checkstyle errors",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "8fe614cee5692449e54b0aa167ec63278c919f89",
+            "message": "PPP: reduce image size to fit into 10 page of PPP",
+            "insertions": 6,
+            "deletions": 24
+          },
+          {
+            "hash": "002933abdbff6570447edcf9f56dcae172c32df2",
+            "message": "DeveloperGuide: update with minor styling tweaks",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "6b44f1fed110462c20ed1b251ee81b5a90530772",
+            "message": "Fix travis checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "rachellim10": 608,
+    "rachellim10": 634,
     "gautamrajulu": 233,
-    "josephinetanadi": 5008,
-    "arhjaye": 1988,
-    "andreathniah": 5594
+    "josephinetanadi": 4943,
+    "arhjaye": 2034,
+    "andreathniah": 5947
   },
   "authorContributionVariance": {
-    "rachellim10": 1840.3076,
-    "gautamrajulu": 1010.9891,
-    "josephinetanadi": 237375.39,
-    "arhjaye": 175324.36,
-    "andreathniah": 2127371.2
+    "rachellim10": 2339.7031,
+    "gautamrajulu": 967.73627,
+    "josephinetanadi": 227232.88,
+    "arhjaye": 167525.28,
+    "andreathniah": 2032676.4
   },
   "authorDisplayNameMap": {
     "rachellim10": "RAC... YU",

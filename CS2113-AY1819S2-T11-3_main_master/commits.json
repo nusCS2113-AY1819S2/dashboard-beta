@@ -585,6 +585,12 @@
         "deletions": 0,
         "date": "2019-04-13",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "jacobhan": [
@@ -1172,8 +1178,8 @@
         "commitResults": []
       },
       {
-        "insertions": 200,
-        "deletions": 80,
+        "insertions": 475,
+        "deletions": 179,
         "date": "2019-04-13",
         "commitResults": [
           {
@@ -1223,6 +1229,139 @@
             "message": "checkstyle",
             "insertions": 3,
             "deletions": 0
+          },
+          {
+            "hash": "d82ecc89c47ec743cc2668f59759f4614a914b46",
+            "message": "suggestions",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "b2dd22c08d8e4d64bbe7110628410b991f82307d",
+            "message": "added crypto command",
+            "insertions": 163,
+            "deletions": 21
+          },
+          {
+            "hash": "ebb8fb7c61effbc70e6aa54afb012313e800567d",
+            "message": "crypto command working",
+            "insertions": 17,
+            "deletions": 18
+          },
+          {
+            "hash": "7a2478b04260657f6fe86cb87dd04612831a2803",
+            "message": "adjust crypto command",
+            "insertions": 9,
+            "deletions": 19
+          },
+          {
+            "hash": "9579f48a4d56deeafb69d10d8d6d0a72a535a501",
+            "message": "checkstyles",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "b6481bdbe000614f2b1ad9eafdc3e99c027b7181",
+            "message": "checkstyle",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "26a80bb5758fb7d76e9612b6369f43a96d625c04",
+            "message": "checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "49cec18bf2cbbce84743ae15b22f273a5e0c21e0",
+            "message": "checkstyles",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "62ce960e11aac3f1c0dd19d7c78b3e37ff820f89",
+            "message": "ug",
+            "insertions": 26,
+            "deletions": 3
+          },
+          {
+            "hash": "40c7277928fa84ef0b8c215bcf06fd007002535a",
+            "message": "checkstyle",
+            "insertions": 23,
+            "deletions": 1
+          },
+          {
+            "hash": "d26fbd208f60b34c94a9b2e5d830db3a5b1dbc7f",
+            "message": "checkstyle",
+            "insertions": 15,
+            "deletions": 16
+          },
+          {
+            "hash": "b5ca7541cf6b605a09a49cb9d0c37b91a34345fe",
+            "message": "checkstyles",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 2070,
+        "deletions": 1790,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "6592717100710a682a394283454e2feee6c084fa",
+            "message": "crypto test and ug",
+            "insertions": 50,
+            "deletions": 0
+          },
+          {
+            "hash": "e68a1307cc1954d89dd8edd726e87cc3030aa005",
+            "message": "ppp",
+            "insertions": 264,
+            "deletions": 39
+          },
+          {
+            "hash": "2f3973aee82cc682668cd204ca74816c3520fdc1",
+            "message": "ppp",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "a746827665d7ad9dd6637fc81e8c2d8ca7c6f2f9",
+            "message": "ppp",
+            "insertions": 864,
+            "deletions": 866
+          },
+          {
+            "hash": "87c0cbad580fe7039c66f3294d654b8f03ad8afe",
+            "message": "checkstyles",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6324bfc897020d0345698acc72f2dbf25fd3e277",
+            "message": "ug",
+            "insertions": 17,
+            "deletions": 12
+          },
+          {
+            "hash": "edceca6d2497d3c163b17c4eeae0259bcee85424",
+            "message": "ppp",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
+            "hash": "09e76850ad4a9a91bcf2468a3c23235c52da38ba",
+            "message": "uncommented",
+            "insertions": 858,
+            "deletions": 861
+          },
+          {
+            "hash": "c70353fdecf33d4be838326af2de85b3e0e17744",
+            "message": "ppp",
+            "insertions": 0,
+            "deletions": 2
           }
         ]
       }
@@ -1604,6 +1743,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
         "commitResults": []
       }
     ],
@@ -2175,24 +2320,37 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 694,
         "deletions": 0,
         "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "f5c86ff9f093662f2483d7d138d64c5a4b27781b",
+            "message": "PPP",
+            "insertions": 694,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
         "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "frankquekch": 2512,
-    "jacobhan": 700,
+    "frankquekch": 2510,
+    "jacobhan": 1164,
     "ngkaicong": 0,
-    "yushao2": 2801
+    "yushao2": 3410
   },
   "authorContributionVariance": {
-    "frankquekch": 332195.38,
-    "jacobhan": 5573.5586,
+    "frankquekch": 327474.56,
+    "jacobhan": 235624.33,
     "ngkaicong": 0.0,
-    "yushao2": 557056.1
+    "yushao2": 553402.2
   },
   "authorDisplayNameMap": {
     "frankquekch": "DOM...HAO",

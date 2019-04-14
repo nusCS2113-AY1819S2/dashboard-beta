@@ -462,6 +462,67 @@
         "deletions": 0,
         "date": "2019-04-12",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 2821,
+        "deletions": 176,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "2bfd5b08586fe86c850a5d9744fd22f1613904e9",
+            "message": "Update",
+            "insertions": 2734,
+            "deletions": 117
+          },
+          {
+            "hash": "b9970957a4c1e6edf6b5ea67a544d130c0d9eff5",
+            "message": "Update wupeihsuan.adoc",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "b5805d45234a47f23bc966a1b2bd22130e7bc945",
+            "message": "Added some comments and refactored some code",
+            "insertions": 32,
+            "deletions": 19
+          },
+          {
+            "hash": "80f3a41ce70f9569637e7f990021f6275c45e4f3",
+            "message": "Update AccountManager.java",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "edb250e9a9d3a2a1a6ca65a684c09823bbac645c",
+            "message": "Update AccountManager.java",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "51e05e11be1b0fb745d77be95c0b0ab57ad3d713",
+            "message": "s",
+            "insertions": 42,
+            "deletions": 24
+          },
+          {
+            "hash": "bb4bbdc2f92ded1e96244eea87653ff2faef045a",
+            "message": "Update AccountManager.java",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "a3b3aa9e20bccd509d68e07336101272ac4c24e8",
+            "message": "Fix some logic in registration password checking",
+            "insertions": 9,
+            "deletions": 7
+          }
+        ]
       }
     ],
     "shawn-t": [
@@ -1093,6 +1154,44 @@
             "deletions": 50
           }
         ]
+      },
+      {
+        "insertions": 44,
+        "deletions": 27,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "523e56bb71d440e34494bbae8b4975863afd296c",
+            "message": "UserGuide updated",
+            "insertions": 22,
+            "deletions": 4
+          },
+          {
+            "hash": "53d0cb9e2f2eed7b78cbf93f2d4ad3bb5d98347d",
+            "message": "UI image in User guide updated and refer command use case in Develop Guide updated",
+            "insertions": 22,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 17,
+        "deletions": 8,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "67e76beff3a518698b896ebc47679073e83ad92c",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "df6b8f5f83f127393b1c24ccacc5691c14a87500",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 16,
+            "deletions": 7
+          }
+        ]
       }
     ],
     "matthiaslum": [
@@ -1643,6 +1742,18 @@
         "deletions": 0,
         "date": "2019-04-12",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "WuPeiHsuan": [
@@ -2126,20 +2237,39 @@
         "deletions": 0,
         "date": "2019-04-12",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 1,
+        "deletions": 2,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "b71ec8d765c1f3988902b5a9de2d40b05877691c",
+            "message": "Update wupeihsuan.adoc",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "liguanlong": 524,
-    "shawn-t": 548,
+    "liguanlong": 541,
+    "shawn-t": 791,
     "matthiaslum": 844,
     "WuPeiHsuan": 505
   },
   "authorContributionVariance": {
-    "liguanlong": 39395.934,
-    "shawn-t": 3439.562,
-    "matthiaslum": 4475.1855,
-    "WuPeiHsuan": 210.16878
+    "liguanlong": 172700.94,
+    "shawn-t": 3367.1875,
+    "matthiaslum": 4348.098,
+    "WuPeiHsuan": 203.77734
   },
   "authorDisplayNameMap": {
     "liguanlong": "LI ...ONG",

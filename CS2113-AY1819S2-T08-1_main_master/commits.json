@@ -74,10 +74,53 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 37,
+        "deletions": 43,
         "date": "2019-02-22",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "ff0043310094b29b83d8ea307c3d0cc08ffa16b0",
+            "message": "Update AboutUs.adoc",
+            "insertions": 16,
+            "deletions": 19
+          },
+          {
+            "hash": "a08d924efb8058b99acba2eac2d706c89fa47ae8",
+            "message": "Update AboutUs.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "2626ae17f1c47d0839285bada5e692383ae4d1b4",
+            "message": "Update AboutUs.adoc",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "a31525624eee6e13a89fdd968520d8bddf51f855",
+            "message": "Update AboutUs.adoc",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "e3e3efb62bb3af4fcf4e06344f6a1ded014f9f75",
+            "message": "Update AboutUs.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7189f5bd88a91fbf51b45dfeaf834278e7267fa0",
+            "message": "Update ContactUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f1f342009c0fcc2a97fd869f0d53ddd14b7583a2",
+            "message": "Update ContactUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -128,10 +171,29 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 21,
+        "deletions": 22,
         "date": "2019-03-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "e5518736f20bf44083973f3abf240f96bdfca2d3",
+            "message": "Updates on aboutus",
+            "insertions": 13,
+            "deletions": 14
+          },
+          {
+            "hash": "85a3cdfaa48cd86867d711915891cf54db776b6d",
+            "message": "Small syntax error fix",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "cc979ea942a99b35f256bce61465893d49760aad",
+            "message": "Minor Edits",
+            "insertions": 7,
+            "deletions": 8
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -140,16 +202,36 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 601,
+        "deletions": 13,
         "date": "2019-03-05",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "c89aa710c78bcf60618c710f113f8a53c1339855",
+            "message": "Added AddVolunteer",
+            "insertions": 594,
+            "deletions": 6
+          },
+          {
+            "hash": "5a51e8815013edf0643ac23a77ec02f80fd7469e",
+            "message": "Update AboutUs",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
       },
       {
-        "insertions": 0,
+        "insertions": 1,
         "deletions": 0,
         "date": "2019-03-06",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "0fd8560395bb7502071fd5343bd92c4a99dd0fc8",
+            "message": "Update AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -170,10 +252,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1126,
+        "deletions": 1050,
         "date": "2019-03-10",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "18ac207a3f9533bbc2f2c068c3e45304f5c8d439",
+            "message": "Add space to line 142",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "0a52eb8b15d403bd4788fa0c415f7bf4520e6e64",
+            "message": "Remove Person, Replaced with Volunteer Class",
+            "insertions": 1125,
+            "deletions": 1050
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -218,16 +313,48 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 2018,
+        "deletions": 1892,
         "date": "2019-03-18",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "801a2afd913c1e74b0b93ff8791863c619c941a5",
+            "message": "Update V1.2",
+            "insertions": 764,
+            "deletions": 644
+          },
+          {
+            "hash": "598db2c2004061cad2bc34ed51b907cfcfc0cc48",
+            "message": "Fixed some test issues",
+            "insertions": 1219,
+            "deletions": 1213
+          },
+          {
+            "hash": "2ea20bca7dc5e983eebe02d9a60a0f747cf2edd1",
+            "message": "More test fixes",
+            "insertions": 35,
+            "deletions": 35
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 88,
+        "deletions": 1325,
         "date": "2019-03-19",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "dc2f6f0a14a412c3e304406dc8d8a34921d2d6f0",
+            "message": "Fixed test Files",
+            "insertions": 29,
+            "deletions": 17
+          },
+          {
+            "hash": "e42ecebda33016623695887dd264649dc172eaaa",
+            "message": "Removed Person",
+            "insertions": 59,
+            "deletions": 1308
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -248,28 +375,146 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 9706,
+        "deletions": 943,
         "date": "2019-03-23",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "b21d02f07a7929f2ed11e474d59fd8f1282e5820",
+            "message": "basic volunteer commands w/o tests, to test",
+            "insertions": 9437,
+            "deletions": 675
+          },
+          {
+            "hash": "aa01435be57a39df64f2f0f73405949a11837884",
+            "message": "updated AddressbookParser",
+            "insertions": 264,
+            "deletions": 87
+          },
+          {
+            "hash": "5fd1980eb9826c406bd1c2291e724e47b0ced9fb",
+            "message": "removed VolunteerUtil and EditVolunteerDescriptor for merging",
+            "insertions": 0,
+            "deletions": 172
+          },
+          {
+            "hash": "7ba417cace6caba6d33ba7c628fd716161ba5ae3",
+            "message": "updated labels for parser",
+            "insertions": 5,
+            "deletions": 9
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 679,
+        "deletions": 3954,
         "date": "2019-03-24",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "262c089f2d97992681e6ad5e9beae4615d9eb754",
+            "message": "update fix mapObject Issue",
+            "insertions": 2,
+            "deletions": 26
+          },
+          {
+            "hash": "16cf34a7d66bebfbd49ec616bef36bd703a788e6",
+            "message": "fixed blank space",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c126ac04aae5e79623ba2aae6ff9d3c3d8e51b2c",
+            "message": "removed previous commit test cases",
+            "insertions": 0,
+            "deletions": 3252
+          },
+          {
+            "hash": "bed0d9ed4030382cee3ba2d0258ae5bf96f4ab0d",
+            "message": "fixed trailing whitespaces and newline at EOF",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "6d4a5f11f3f41ba6f420f320653070e77a3c150d",
+            "message": "changed style to travis description, i.e. Dietary_preference -\u003e DietaryPreference",
+            "insertions": 299,
+            "deletions": 263
+          },
+          {
+            "hash": "bc0479a13e146aebe61f93210b32e239e603286f",
+            "message": "fixed trailing whitespace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9c36ca5af4c4b95a162b473068bc15c0ba46f3f0",
+            "message": "fixed trailing whitespace:",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "ccb11b72330a4fb1be16e2a2c987881d9c7b77d2",
+            "message": "fixed trailing whitespace",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2e75d7bffead233ec99a065ff6b32c6f1c33e0c4",
+            "message": "fixing travis checkstyle",
+            "insertions": 240,
+            "deletions": 206
+          },
+          {
+            "hash": "e1a6241d58f5e36df2b4626d789a0940fd42e998",
+            "message": "Fixed coding style except for Map Commands",
+            "insertions": 127,
+            "deletions": 195
+          }
+        ]
       },
       {
-        "insertions": 0,
+        "insertions": 15,
         "deletions": 0,
         "date": "2019-03-25",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "deda962f28a6c8639269ca91a47cc22ae9fa01c9",
+            "message": "updated VolunteerCard",
+            "insertions": 15,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 599,
+        "deletions": 271,
         "date": "2019-03-26",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "76c9f770b75b26db1a7bdf9632a0c98654b853e2",
+            "message": "Fixed Volunteer Functions",
+            "insertions": 61,
+            "deletions": 71
+          },
+          {
+            "hash": "8095051e5a68f2ef9d25b9aaeab5fe424d878657",
+            "message": "updated UI part for volunteer",
+            "insertions": 56,
+            "deletions": 167
+          },
+          {
+            "hash": "d07c5e5884c4dace85d873506f05e7f8af17066c",
+            "message": "updated ui files",
+            "insertions": 472,
+            "deletions": 27
+          },
+          {
+            "hash": "faf5fc0879854027bf1440e179e816771be30fbf",
+            "message": "set optional for dietary preference and medical condition",
+            "insertions": 10,
+            "deletions": 6
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -296,10 +541,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 327,
+        "deletions": 67,
         "date": "2019-03-31",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "3035b61d41ddbd0ff66267f0111c90934ff40168",
+            "message": "added gender and race:",
+            "insertions": 327,
+            "deletions": 67
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -308,10 +560,107 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 384,
+        "deletions": 150,
         "date": "2019-04-02",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "a20d03dd0f1188fbb1bc49f65cb9449a78bb2784",
+            "message": "updated user guide",
+            "insertions": 17,
+            "deletions": 12
+          },
+          {
+            "hash": "34cc7fd1b1c606b14dad34b378c4a051523dd7d6",
+            "message": "changes to example addVolunteer",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "cbf394cf7e5dddf3dd24922fb257843b734172cf",
+            "message": "fixed travis errors",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "8766655fd1c9e4469e3e09ff4bd2a5560b820c6c",
+            "message": "newline at EOF Travis fix",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a345f8c486a00819a74bc1dbd53397647655f37e",
+            "message": "Create Zander.adoc",
+            "insertions": 58,
+            "deletions": 0
+          },
+          {
+            "hash": "aeca2bfb2570526ac26cda2cdacce58b8c552cc5",
+            "message": "Create Zander.adoc",
+            "insertions": 58,
+            "deletions": 0
+          },
+          {
+            "hash": "659721f810e0f8e2cbadf28e9834848c7c456d6d",
+            "message": "Rename Zander.adoc to Zhuhui.adoc",
+            "insertions": 58,
+            "deletions": 0
+          },
+          {
+            "hash": "d0513768a2ddcd867886d23b6a7425363c8ddf53",
+            "message": "Rename Zander.adoc to Zhuhui.adoc",
+            "insertions": 58,
+            "deletions": 0
+          },
+          {
+            "hash": "2688f8be12172b7c7104d78ede63b6044e3bf52b",
+            "message": "Update Zhuhui.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c12aa60017cb22ff2cad3ceadc887eb66f650b2c",
+            "message": "Update Zhuhui.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e084e99f8b27d1b05fcb71d843dc45c5ca8264ad",
+            "message": "Delete Zander.adoc",
+            "insertions": 0,
+            "deletions": 58
+          },
+          {
+            "hash": "35d286ec08ac2154752144fd6608851e03b6ec8a",
+            "message": "Delete Zander.adoc",
+            "insertions": 0,
+            "deletions": 58
+          },
+          {
+            "hash": "318557c612111e94f59b228809acb0c6dd50269a",
+            "message": "Update Zhuhui.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e73749024b3371c3616117215c340a4e637a1052",
+            "message": "Update Zhuhui.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "451dfbd89b318dbe2fd2aee5086faf9dcf47ab7c",
+            "message": "Rename Huu to Huu.adoc",
+            "insertions": 57,
+            "deletions": 0
+          },
+          {
+            "hash": "d04acb47e40969b727c4ef6010a2f57c6656bba2",
+            "message": "Rename Huu to Huu.adoc",
+            "insertions": 57,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -359,6 +708,43 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 5,
+        "deletions": 5,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "b86b0c8471016ec075b83eeeb50a7bb0aaaa3a7d",
+            "message": "Included portfolio links",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "4ce8c67ad34e18c33005abc1b57ad8a9c4f6c6b9",
+            "message": "Updated Email Address",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
         "commitResults": []
       }
     ],
@@ -430,10 +816,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1,
+        "deletions": 1,
         "date": "2019-02-21",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "b11b25cef3850a9bf6e2d92cee89441aef389433",
+            "message": "Update AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -490,16 +883,54 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 94,
+        "deletions": 34,
         "date": "2019-03-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "ff27ca8f5c1374680c95262d07794fb7909600d2",
+            "message": "Updated with filter and mapping function",
+            "insertions": 48,
+            "deletions": 0
+          },
+          {
+            "hash": "98c5f5b8f1ed0d4e96240fc982c813255ab741e7",
+            "message": "UserGuide V1.1",
+            "insertions": 44,
+            "deletions": 32
+          },
+          {
+            "hash": "6b19e468dab960139a7c3e25cd850fa5f2ac894a",
+            "message": "UserGuide V1.1 updated",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1b32450353bba4c560b508909a2c8f65f3c552a0",
+            "message": "UserGuide v1.1 bugs fixed",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 331,
+        "deletions": 18,
         "date": "2019-03-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "cd464d55fbde0c0525acca4114bc2caf09bac92a",
+            "message": "AddProject Command added for VolunCHeer V1.1",
+            "insertions": 304,
+            "deletions": 12
+          },
+          {
+            "hash": "b262a143c526db0d60b26900ebc4eec407dc4238",
+            "message": "Some bugs updated",
+            "insertions": 27,
+            "deletions": 6
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -550,10 +981,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 326,
+        "deletions": 16,
         "date": "2019-03-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "4cabfa0e421adde62b5e07d7aaf23db592030288",
+            "message": "DeleteProjectCommand added",
+            "insertions": 326,
+            "deletions": 16
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -580,10 +1018,35 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 42,
+        "deletions": 32,
         "date": "2019-03-18",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "67e30acd5509c9e13fdd467691c47d7f8cdc958a",
+            "message": "v1.2 update file",
+            "insertions": 17,
+            "deletions": 8
+          },
+          {
+            "hash": "78ce88a4a3257ffb8759fe6ea894cb5aaef8a57d",
+            "message": "Some bugs fixed",
+            "insertions": 9,
+            "deletions": 20
+          },
+          {
+            "hash": "3cdd1695c752fafad2921b30c7ebb7c24e694fcb",
+            "message": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-1/main",
+            "insertions": 16,
+            "deletions": 1
+          },
+          {
+            "hash": "cce0fb1b640e6dbd6aacd3b3b32c1e9f41fba6c5",
+            "message": "V1.2 debug",
+            "insertions": 0,
+            "deletions": 3
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -622,22 +1085,61 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 687,
+        "deletions": 220,
         "date": "2019-03-25",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "4cea0f5490ceac638a8b4fa8278e0e75632eeea7",
+            "message": "AssignBeneficiaryCommand added",
+            "insertions": 561,
+            "deletions": 148
+          },
+          {
+            "hash": "d6c4922e7745b884546658ae699b02bf4c7e6057",
+            "message": "AssignBeneficiaryParser added",
+            "insertions": 126,
+            "deletions": 72
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 251,
+        "deletions": 84,
         "date": "2019-03-26",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "8587f4e39e4e2ea5d3635e028af27c418c9488a2",
+            "message": "Added EventsCenter to control the events occurence Made AssignBeneficiaryCommand undoable New Class undoableCommand extends from Command to track previous addressbook status when undoCommand is give ModelManager adjusted",
+            "insertions": 251,
+            "deletions": 84
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 196,
+        "deletions": 413,
         "date": "2019-03-27",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "fb719c5ac1fcd6d7c4db8245df678c17a9465a5c",
+            "message": "Bugs Fixed",
+            "insertions": 142,
+            "deletions": 211
+          },
+          {
+            "hash": "774a2b2d8aa9c652d97cb34f7b0d344f3f88adde",
+            "message": "Fixed some unrelated files + set up projectPanel for ui",
+            "insertions": 23,
+            "deletions": 176
+          },
+          {
+            "hash": "35c7b449ae7958a2296ab9ae7b152d3db455af1b",
+            "message": "ProjectList UI Added",
+            "insertions": 31,
+            "deletions": 26
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -652,34 +1154,141 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 228,
+        "deletions": 59,
         "date": "2019-03-30",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "768d9b4043fdced9a3e121c627f4277ea367d9bc",
+            "message": "AssignBeneficiaryCommand edited isComplete status update to project class Still need to refine",
+            "insertions": 228,
+            "deletions": 59
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 253,
+        "deletions": 60,
         "date": "2019-03-31",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "1da955f540b8527df269d46c9446788d214c5091",
+            "message": "Storage problem",
+            "insertions": 167,
+            "deletions": 28
+          },
+          {
+            "hash": "504fa49bff421d5810815d4754e84aeb630be07c",
+            "message": "Adjust AssignBeneficiary Command",
+            "insertions": 20,
+            "deletions": 14
+          },
+          {
+            "hash": "9420673da1e60473197e874880eb260e6acc8258",
+            "message": "UserGuide updated for v1.3",
+            "insertions": 65,
+            "deletions": 17
+          },
+          {
+            "hash": "a1875daad65f53af8d56d460f49a090e1aec1d77",
+            "message": "minor fix",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 257,
+        "deletions": 140,
         "date": "2019-04-01",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "864a2b5b4d350f1a32eb8e6fe805c556d323a0fd",
+            "message": "UserGuide for V1.3",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "042b4f98d0effa7cc9f2d9d5e3848b3eb08d54aa",
+            "message": "Assign Beneficiary Command adjustment Project Builder added",
+            "insertions": 186,
+            "deletions": 86
+          },
+          {
+            "hash": "d4658a7fd28c71b79915364e85cbed92b5389176",
+            "message": "Assign Beneficiary Command tested - working (UI set)",
+            "insertions": 60,
+            "deletions": 23
+          },
+          {
+            "hash": "5c885092e65f221e48e1c98d9d64ac6a6dc266a1",
+            "message": "v1.3",
+            "insertions": 9,
+            "deletions": 29
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 32,
+        "deletions": 43,
         "date": "2019-04-02",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "9dae3cd3ed13effb3b6ba10c2736bf3dde87a4ae",
+            "message": "Complete project command implemented",
+            "insertions": 32,
+            "deletions": 43
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 157,
+        "deletions": 46,
         "date": "2019-04-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "1e5ab709ef7398ce98c0ce9d6eecc36cfe7aeb82",
+            "message": "Complete command + UI implemented",
+            "insertions": 12,
+            "deletions": 15
+          },
+          {
+            "hash": "f3505b341998f210cc2f1c69e909bf809b8ff121",
+            "message": "Complete Command + UI Implemented",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9ab891aa40f063aca86c3b34fee997109fbbbee1",
+            "message": "Project portfolio document + UG updated for v1.3.1",
+            "insertions": 118,
+            "deletions": 6
+          },
+          {
+            "hash": "6ae788ffeeaf2c23544454039f7564fd8efdf02a",
+            "message": "Fixed Travis Errors",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "a4c2eb10005cde4735a06de91011fd523bd60ade",
+            "message": "debug",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "17e54d48db2209c25c99bfa31875885eeabdb1ae",
+            "message": "Travis check",
+            "insertions": 2,
+            "deletions": 14
+          },
+          {
+            "hash": "2b1e737a1fb25a7ea391c97df63fdf7fcd20cb05",
+            "message": "Fix the Invalid Command error for CompleteCommand",
+            "insertions": 17,
+            "deletions": 2
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -688,16 +1297,66 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 324,
+        "deletions": 91,
         "date": "2019-04-05",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "f4b39b7d85014a824a5ed3b56016af0a637ef452",
+            "message": "AssignVolunteerCommand added",
+            "insertions": 303,
+            "deletions": 18
+          },
+          {
+            "hash": "e50792c1a55ec36b721e544719ae57d5d280ebb1",
+            "message": "Minor bugs fixed",
+            "insertions": 14,
+            "deletions": 12
+          },
+          {
+            "hash": "48c6c1d7f230455e7e861de601e7f8abdd957bdd",
+            "message": "Fixed conflicts",
+            "insertions": 7,
+            "deletions": 61
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 172,
+        "deletions": 104,
         "date": "2019-04-06",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "a582a5223a022f84787463938ce8feccf6f90f7a",
+            "message": "Merge with Jeremy Successful",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "84fb8f773acb5803eeaa641fdf107a1556777250",
+            "message": "Set up date validation for addProject Command",
+            "insertions": 98,
+            "deletions": 24
+          },
+          {
+            "hash": "5fb211c802bfc2702eda624c4379d1ad982b3a77",
+            "message": "Travis checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4429831e9578815771ef0be8486a89ca3de87386",
+            "message": "Travis Checkstyle",
+            "insertions": 54,
+            "deletions": 66
+          },
+          {
+            "hash": "69358c874355e20fd3beb36f20de6c0a4e73bad3",
+            "message": "Travis Checkstyle",
+            "insertions": 11,
+            "deletions": 8
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -712,23 +1371,96 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 3,
         "deletions": 0,
         "date": "2019-04-09",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "eb1063b6ad2770d2d0df2c0884b9e847f3c05cb7",
+            "message": "author",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 360,
-        "deletions": 2,
+        "insertions": 497,
+        "deletions": 101,
         "date": "2019-04-10",
         "commitResults": [
           {
             "hash": "031d17559bc1db385fab657c4639ed465cdd4830",
             "message": "Added CheerTheme and Track volunteers assigned on ui",
-            "insertions": 360,
+            "insertions": 406,
+            "deletions": 67
+          },
+          {
+            "hash": "64a04a7e4e6376d87d69f527b414a9acbdcc60bd",
+            "message": "config file",
+            "insertions": 28,
+            "deletions": 0
+          },
+          {
+            "hash": "979c0d936a6f3c9828979d2e8958919697b97282",
+            "message": "config file for zander",
+            "insertions": 2,
             "deletions": 2
+          },
+          {
+            "hash": "8fd44fdae188c9c40cba643f7b986d9027f81de6",
+            "message": "config file for reposense",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "905839cc2b5e0a39d0c6cba9a7aa6922bab08c49",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ba8cff1c94daed7ebb91237a7c634da5d0768de9",
+            "message": "Checkstyle",
+            "insertions": 24,
+            "deletions": 26
+          },
+          {
+            "hash": "ebc12c70bda77e2236e492c0e3eddd2f4f4944aa",
+            "message": "Project sorted by date",
+            "insertions": 27,
+            "deletions": 0
+          },
+          {
+            "hash": "c20da6106c74ac91023960bdcec4c1fe76dcffec",
+            "message": "checkstyle",
+            "insertions": 7,
+            "deletions": 3
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
       }
     ],
     "articstranger": [
@@ -823,10 +1555,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 2,
+        "deletions": 1,
         "date": "2019-02-25",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "13c8d911f0562fad7edae9cc880604dac3fd2c06",
+            "message": "updated project description",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -859,16 +1598,72 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 17,
+        "deletions": 15,
         "date": "2019-03-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "f60da110705b34fab636a6cc990a824e6304c4fe",
+            "message": "README.adoc: updated the travis build link and image.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f945020582ec9058ae5269aa3f1a59f07605fd2a",
+            "message": "README.adoc: commented out non-travis badges",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "7feee8fd4d5e82a656ff77e5cb9f59a8443ebbb6",
+            "message": "README.adoc: updated description and acknowledgements",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "f8c306cdd11e11618871f8bd3e947ef1af731bf0",
+            "message": "README.adoc: added linebreak and fixed bulletpoints",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "5b590e887f32ddd9b9420fb675697c16ebfb00a3",
+            "message": "README.adoc: changed bulletpoints",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 53,
+        "deletions": 17,
         "date": "2019-03-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "dbd22f8b6173458f1511902942cdf70ab7aca3fc",
+            "message": "CliSyntax:added new tags",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "9010b95744bfa9feb352b2085de2f6b71e245676",
+            "message": "MapCommand: created class and messages (non-functional)",
+            "insertions": 39,
+            "deletions": 0
+          },
+          {
+            "hash": "7896e7d4309c8f9e598066eac03de50d58a5c856",
+            "message": "AddressBookParser: added case for MapCommand",
+            "insertions": 4,
+            "deletions": 13
+          },
+          {
+            "hash": "05b55b3dc726a82750bcb510430ebcae6505c11c",
+            "message": "MapCommand: fixed empty shell to not throw errors AddressBookParser: fixed calling of MapCommand to not throw errors",
+            "insertions": 7,
+            "deletions": 4
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -943,16 +1738,72 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 50,
         "deletions": 0,
         "date": "2019-03-17",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "77a7014df8a36ad521c9653ac66e5f0c17e4ee75",
+            "message": "added MapCommandParser and MapObject",
+            "insertions": 50,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 122,
+        "deletions": 29,
         "date": "2019-03-18",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "319bc54b31473f85222f4c801c7f7fff9d9e13d3",
+            "message": "MapCommand.java: updated usage description and added message success string",
+            "insertions": 17,
+            "deletions": 6
+          },
+          {
+            "hash": "6263a15f9deeb4b77565b99a0d346a45a3bab77a",
+            "message": "MapObject: shifted location from address/logic/parser/ to address/model/",
+            "insertions": 23,
+            "deletions": 4
+          },
+          {
+            "hash": "ecd1f308b1f16190044bfc1503aa1030184578e5",
+            "message": "MapCommand: set to throw exception",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ef19babe6518b0088fba18922e251114ad5f875b",
+            "message": "AddressBookParser: updated calling method for MapCommand MapCommandParser: added parseCriteria function",
+            "insertions": 52,
+            "deletions": 9
+          },
+          {
+            "hash": "a4cdf4582994e806be015e43d3082612954600b5",
+            "message": "model.java: removed extra curly brace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f08cea38be34020748298f0c79a7aa5781276253",
+            "message": "UserGuide: changed map command description and usage",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "9e235e3d4ff9677ae7a0bc927d765675615f0eda",
+            "message": "DeveloperGuide: added documentation about mapping",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "cd262c8b118619b7be578b15bfe29e792691be4f",
+            "message": "DeveloperGuide: fixed ending tag of map section",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -991,16 +1842,84 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 130,
+        "deletions": 14,
         "date": "2019-03-25",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "ae140247db9e23bfb0cafe7d5f5986bd9c16ff8e",
+            "message": "Messages.java: added mapping success message",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "64941a937cb835b9d6f0431f46460858fde698c4",
+            "message": "MapCommand: updated with working functionality",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "f565924a38415e5579a2b8ff30828565a4106d97",
+            "message": "MapObject: added functions to access private variables",
+            "insertions": 18,
+            "deletions": 1
+          },
+          {
+            "hash": "99c3d6313457300d1049587768af78b367146735",
+            "message": "Model and ModelManager: added helper functions for MapCommand",
+            "insertions": 82,
+            "deletions": 0
+          },
+          {
+            "hash": "bab2b7408e739febe53098b8f56fcdd29e400d71",
+            "message": "Volunteer.java: added a points field for mapping",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "b4c2ce26b691982e19d23455b2f137a34a120603",
+            "message": "AddCommandTest: added overrides for MapCommand methods",
+            "insertions": 21,
+            "deletions": 4
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 295,
+        "deletions": 140,
         "date": "2019-03-26",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "fd99e40ad8475e143c4193e2d8d4ba4bed077c34",
+            "message": "checkstyle formatting",
+            "insertions": 183,
+            "deletions": 106
+          },
+          {
+            "hash": "d4e7f5f9f43e7adfe03498f41ed272b74fbd9c44",
+            "message": "more checkstyle fixes",
+            "insertions": 17,
+            "deletions": 8
+          },
+          {
+            "hash": "108d2b25b95844fbd6d322d12a906d68d06dbed0",
+            "message": "updated map command with input checks",
+            "insertions": 65,
+            "deletions": 9
+          },
+          {
+            "hash": "108c38d14f98349b2b979dfc54ee5627bb2540e2",
+            "message": "extracted isValidInt method to ParserUtil",
+            "insertions": 17,
+            "deletions": 16
+          },
+          {
+            "hash": "4e7ab47fa04b4efde831a36571e22b71b6932478",
+            "message": "ModelManager: added sorting function(non functional)",
+            "insertions": 13,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1021,10 +1940,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 38,
+        "deletions": 42,
         "date": "2019-03-30",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "1c2a7e180b236498496c8cd07469b70d15c81e42",
+            "message": "SortCommandParser: deleted(obsolete)",
+            "insertions": 0,
+            "deletions": 9
+          },
+          {
+            "hash": "41ff674c0f5f26e7c3054354b1b79f20d5d5a57f",
+            "message": "SortCommand: fixed call to model/ModelManager AddressBookParser: changed to call SortCommand() directly Model and ModelManager: updated sortVolunteers method",
+            "insertions": 38,
+            "deletions": 33
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1039,22 +1971,49 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 4,
+        "deletions": 4,
         "date": "2019-04-02",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "5196010f8688bcda34b61e185c10f2f36793665c",
+            "message": "UserGuide: updated map command",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f70e941864f6697b49e9d2645b233420c4cc60a6",
+            "message": "UserGuide: fixed some typos",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 36,
+        "deletions": 39,
         "date": "2019-04-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "ead1a5a3c4c940c744b823b8810389982fbe54ee",
+            "message": "reworked sort command",
+            "insertions": 36,
+            "deletions": 39
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 47,
+        "deletions": 12,
         "date": "2019-04-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "d2b5bcd386b4049d3288bd825b2e90eb85bd6073",
+            "message": "SortCommand fixed to work with UI checkstyle fixes",
+            "insertions": 47,
+            "deletions": 12
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1091,6 +2050,99 @@
         "deletions": 0,
         "date": "2019-04-10",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 8,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "5b0cbfc8086f8c8322ab0c113fa19827091f898e",
+            "message": "created ExportCommand and ExportCommandParser",
+            "insertions": 8,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 601,
+        "deletions": 173,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "904cad20a8f4bfd90d5dcd480735d2f8a401ec1a",
+            "message": "renamed ExportCommand \u0026 ExportCommandParser to ExportVolunteerCommand \u0026 ExportVolunteerCommandParser",
+            "insertions": 75,
+            "deletions": 8
+          },
+          {
+            "hash": "205271cfdd9c0a45e0e5c3fba68d89a36e861211",
+            "message": "implemented export volunteer command",
+            "insertions": 204,
+            "deletions": 62
+          },
+          {
+            "hash": "db0228e3aae4fceb0bc58300a8f3ed96f9520cc2",
+            "message": "ExportVolunteerCommand debugging",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "c323875d0425aa37db468bd81de0dd26ca0da643",
+            "message": "checkstyle fixes",
+            "insertions": 122,
+            "deletions": 83
+          },
+          {
+            "hash": "a00208bab1ab05907abc14d56250ae136cad15ca",
+            "message": "Created MapCommandTest",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "51975209db6df1f7f62aba8124689c4cb72cf2fc",
+            "message": "MapCommandTest fully implemented + miscellaneous changes",
+            "insertions": 96,
+            "deletions": 10
+          },
+          {
+            "hash": "6babb8947fffeb64742fe46291e858e5c6b2feeb",
+            "message": "DeveloperGuide updated with filtered export section",
+            "insertions": 89,
+            "deletions": 0
+          },
+          {
+            "hash": "3b0be1d8c3d0882c899b52e34e9a5848ee67c28f",
+            "message": "MapCommandTest checkstyle",
+            "insertions": 4,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 48,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "ae12de76edbd1413c80145eb32427a3790935b72",
+            "message": "MapCommandParserTest added + reposense tags",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "94a89aacf712506db3b77a66095b78765d9c7827",
+            "message": "DG updated with considerations for filtered export",
+            "insertions": 23,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "ndhuu": [
@@ -1191,10 +2243,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 53,
+        "deletions": 45,
         "date": "2019-02-26",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "b9600e1595c2d8856bc8ea580dd77db4dec337f5",
+            "message": "updated users\u0027stories",
+            "insertions": 53,
+            "deletions": 45
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1203,10 +2262,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 60,
+        "deletions": 343,
         "date": "2019-02-28",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "243570665c44232fd3c94ff6d7b8c59a622b04b8",
+            "message": "Update developer guide including related diagrams",
+            "insertions": 60,
+            "deletions": 343
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1221,16 +2287,54 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 290,
+        "deletions": 3,
         "date": "2019-03-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "2994f5672a40f11f59c1e2eab0e1ec934d64aefd",
+            "message": "update Developer Guide with use cases",
+            "insertions": 290,
+            "deletions": 3
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 651,
+        "deletions": 72,
         "date": "2019-03-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "43c92b5b396cc1f65536a817e3542542da4eb87e",
+            "message": "update dev guide",
+            "insertions": 19,
+            "deletions": 58
+          },
+          {
+            "hash": "d5544228e5ccd6c2577d67ae1d319a7899be97ad",
+            "message": "have beneficary class and addBeneficiary command ready",
+            "insertions": 618,
+            "deletions": 12
+          },
+          {
+            "hash": "df935b96aa4adba29522182be7efdedd19598e43",
+            "message": "resolve conflict with project version",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "ae5ea2aa0dc165a82a0dfd66db380e10cc06d010",
+            "message": "solve some travis problem",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "0f21bed5faf3c7e8b9295152a78c82a7147cb351",
+            "message": "solve some travis problem",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1263,10 +2367,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 112,
+        "deletions": 3,
         "date": "2019-03-10",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "d639b0217e8084ebda57e395f4fd832cca2822ae",
+            "message": "change add command",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "17c9463ab7f06833f8986efac11b48c5ce7a7cc4",
+            "message": "unfinished update beneficiary, compilable",
+            "insertions": 99,
+            "deletions": 3
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1281,10 +2398,23 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 423,
+        "deletions": 423,
         "date": "2019-03-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "3b5d284ff57350172e005cbbc3e48b638f257069",
+            "message": "beneficirary command",
+            "insertions": 213,
+            "deletions": 210
+          },
+          {
+            "hash": "baf2fecdc02cc32dd27d77196a520ed9138cd5a2",
+            "message": "Revert \"beneficirary command\"",
+            "insertions": 210,
+            "deletions": 213
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1305,22 +2435,115 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1621,
+        "deletions": 582,
         "date": "2019-03-17",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "621e221327a2a77a9418bfe97e86916ae03030de",
+            "message": " update beneficiary\u0027s basic commands (add, edit, find, list, delete) only based on person (there\u0027s logic bug)",
+            "insertions": 1157,
+            "deletions": 153
+          },
+          {
+            "hash": "c33574da48045b7aa2ab3fdf3008352507a79782",
+            "message": "temporary old testing for beneficiary basic commands",
+            "insertions": 64,
+            "deletions": 29
+          },
+          {
+            "hash": "6556391282b78dd49b798e8454924d1a3f76217f",
+            "message": "no EOF prob with travis",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "a82ad2c7a8953e12f4b495f648faa9d938f202c0",
+            "message": "fix coding style",
+            "insertions": 355,
+            "deletions": 317
+          },
+          {
+            "hash": "e5592e768c5a5bdf976d9e23ca41cdc65e20315b",
+            "message": "fix coding style",
+            "insertions": 41,
+            "deletions": 78
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 138,
+        "deletions": 63,
         "date": "2019-03-18",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "9ca148e017df9a769c0f4d269b3111f9abb456ae",
+            "message": "fix coding style",
+            "insertions": 35,
+            "deletions": 22
+          },
+          {
+            "hash": "484684566f6c74e2aca5e7b5aae37b5a6f3fa345",
+            "message": "fix coding style",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "c9f173c6c11484e9fe91f7dc7a6622ac7b068afe",
+            "message": "fix coding style",
+            "insertions": 31,
+            "deletions": 15
+          },
+          {
+            "hash": "250d9d869ff5f1b3b1f7b695de50eb5b463e6e4f",
+            "message": "fix coding style",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "264e6b283a1893d56c1307cbebad6ab8eadc5fb4",
+            "message": "fix coding style",
+            "insertions": 22,
+            "deletions": 22
+          },
+          {
+            "hash": "ee4eaac9ba04b60f5104cb393b70cb8e382916f1",
+            "message": "Update DG, command line recommendation",
+            "insertions": 44,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1601,
+        "deletions": 21,
         "date": "2019-03-19",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "ca8dccdf30d2924546faee5700d7acf1bff1ed35",
+            "message": "fix zander prob",
+            "insertions": 1545,
+            "deletions": 15
+          },
+          {
+            "hash": "4ccd4b82561af11d4bed4a293a7b46f54401451b",
+            "message": "update minor comments",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "c5e93a8efb86d7ee040133f4c74e1c5b4940fd43",
+            "message": "Add delete beneficiary command parser",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "39e0cdebd5670fedfe9245a648806db2a51a06cc",
+            "message": "Add the command line of beneficiary to the parser",
+            "insertions": 22,
+            "deletions": 2
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1335,15 +2558,33 @@
         "commitResults": []
       },
       {
-        "insertions": 6,
-        "deletions": 0,
+        "insertions": 268,
+        "deletions": 32,
         "date": "2019-03-22",
         "commitResults": [
           {
+            "hash": "4ee4ec09287e76caadc794520231098f731c4ccd",
+            "message": "set basic UI and set beneficiary panel",
+            "insertions": 220,
+            "deletions": 1
+          },
+          {
+            "hash": "7048539012ebc25935d33a69d7075611755df318",
+            "message": "add panel Title, ongoing",
+            "insertions": 14,
+            "deletions": 8
+          },
+          {
             "hash": "75760825bd6fd5f1191c1195579441e9c966ceda",
             "message": "have label UI",
-            "insertions": 6,
-            "deletions": 0
+            "insertions": 19,
+            "deletions": 10
+          },
+          {
+            "hash": "257d596a1ef706dfd1e589619d0c6de745ddfdc9",
+            "message": "Update storage of beneficiaries",
+            "insertions": 15,
+            "deletions": 13
           }
         ]
       },
@@ -1354,22 +2595,73 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 54,
         "deletions": 0,
         "date": "2019-03-24",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "e8e068d9e08f42d161b34b81bb2801674071ae90",
+            "message": "Update the beneficiary logic on deletion",
+            "insertions": 54,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 90,
+        "deletions": 11,
         "date": "2019-03-25",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "828c438d7de8945459c492cf40e472a4492656a7",
+            "message": "Update beneficiary for project title list",
+            "insertions": 88,
+            "deletions": 6
+          },
+          {
+            "hash": "448c55d84de42094950a116b2284b50f08c3da0e",
+            "message": "shift Ui text beneficiary out of beneficiary panel class",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "c3ad48f1a6ab1b8f9c3cfc97a6f23c426991f972",
+            "message": "update after merge",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 139,
+        "deletions": 38,
         "date": "2019-03-26",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "c1e0f738cafb74d2344e8dfe22386432dc23f397",
+            "message": "update UI for volunteer and beneficiary",
+            "insertions": 101,
+            "deletions": 25
+          },
+          {
+            "hash": "43272bafe0880b93f69b9ffdc03d3dc02dc80527",
+            "message": "volunteer strorage",
+            "insertions": 15,
+            "deletions": 1
+          },
+          {
+            "hash": "1719e3a865cd1bf2df453e8e0b58ccc56fa1e5c9",
+            "message": "fix volunteer storage problem",
+            "insertions": 22,
+            "deletions": 11
+          },
+          {
+            "hash": "674070f6746b9e882dbbfab80421ec62dcad821a",
+            "message": "fix volunteer storage problem",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1384,10 +2676,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 61,
+        "deletions": 11,
         "date": "2019-03-29",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "8eaae1e1abe4f1f683973c2b51346550eaaf35e2",
+            "message": "update edit beneficiary",
+            "insertions": 61,
+            "deletions": 11
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1396,37 +2695,293 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 58,
+        "deletions": 26,
         "date": "2019-03-31",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "dbdcb3585a7fd4ad23784c46c8438486aac76f5f",
+            "message": "fix Quinn assign bug",
+            "insertions": 58,
+            "deletions": 26
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 396,
+        "deletions": 72,
         "date": "2019-04-01",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "9f04ecb9042e5b6dd1c5511f022b3f04c7129c22",
+            "message": "fix bug adding same beneficiary",
+            "insertions": 15,
+            "deletions": 23
+          },
+          {
+            "hash": "c9d8f670e795b77299a511042eac2ea4dc64376c",
+            "message": "Update add error message",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "50b5bb1be47c6cc1f46e51ee8ea515aec3de2f57",
+            "message": "update edit beneficiary command to adopt project assigned",
+            "insertions": 23,
+            "deletions": 8
+          },
+          {
+            "hash": "87b826c0f43e2cc436afd66a2c961ce5b97b8c40",
+            "message": "Update doc",
+            "insertions": 66,
+            "deletions": 11
+          },
+          {
+            "hash": "224ace7d672f89ade82e0b82d0d884bb985b0e36",
+            "message": "try summary command",
+            "insertions": 156,
+            "deletions": 3
+          },
+          {
+            "hash": "04b62ee1ecd49d10097087ab09465f484e54c3cf",
+            "message": "new beneficiary summary command",
+            "insertions": 115,
+            "deletions": 12
+          },
+          {
+            "hash": "f2785909f07c4822859f7c46f900e5bcfac6ca1f",
+            "message": "fix after merge",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "b787ebddaf6d48a5f22c58ca46d5a6b4090fef30",
+            "message": "fix zander problem AGAIN",
+            "insertions": 7,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 26,
+        "deletions": 8,
         "date": "2019-04-02",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "534bfdf17ec10af252a770cc5b1d9cb3928025df",
+            "message": "fix bug for assign command and add volunteer command",
+            "insertions": 24,
+            "deletions": 6
+          },
+          {
+            "hash": "7455148a85849712dcc00d265273d53552301833",
+            "message": "fix project storage problem",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 468,
+        "deletions": 5224,
         "date": "2019-04-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "c1135d480e9db67cc749cd0374bb3226461d3cf4",
+            "message": "update PPP",
+            "insertions": 72,
+            "deletions": 12
+          },
+          {
+            "hash": "8e0ac34196621561016f8fb5db663ecce946c054",
+            "message": "update PPP",
+            "insertions": 72,
+            "deletions": 12
+          },
+          {
+            "hash": "aa2e4068cb3e4a5356b2d0308868ee9c39e19b14",
+            "message": "remove unrelated tests",
+            "insertions": 34,
+            "deletions": 2429
+          },
+          {
+            "hash": "073b1cb4a35e2abbd5b42e06fe4d1ec65dd867ef",
+            "message": "remove unrelated tests",
+            "insertions": 34,
+            "deletions": 2433
+          },
+          {
+            "hash": "37a34ceb33994c74917856e2aaee496883e6bda9",
+            "message": "fix checkstyle",
+            "insertions": 128,
+            "deletions": 169
+          },
+          {
+            "hash": "d3c9f88298d263c59d99c8b217c4d3f881260c0f",
+            "message": "fix checkstyle",
+            "insertions": 128,
+            "deletions": 169
+          }
+        ]
       },
       {
-        "insertions": 1,
-        "deletions": 1,
+        "insertions": 6101,
+        "deletions": 6013,
         "date": "2019-04-04",
         "commitResults": [
           {
             "hash": "069004313d1384fe617d0f8d3cfb407dd6900bbb",
             "message": "fix checkstyle",
+            "insertions": 1551,
+            "deletions": 1549
+          },
+          {
+            "hash": "df6566b53f62653b67c92096f04c145ff8764848",
+            "message": "fix checkstyle",
+            "insertions": 1551,
+            "deletions": 1549
+          },
+          {
+            "hash": "49f80d56037dac4cffe2bad4556e0c8d6e3279ed",
+            "message": "fix checkstyle",
+            "insertions": 127,
+            "deletions": 131
+          },
+          {
+            "hash": "db89f61a75d2fc2867506cc529468c4963c1e773",
+            "message": "fix checkstyle",
+            "insertions": 127,
+            "deletions": 131
+          },
+          {
+            "hash": "54e9c90c941afd2bf71464529c95753a8e6f3a9e",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b33a8647cbe8586ca38da25474523056cae7a43e",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e8c9b400655b3d21fcd1960b11e35f92e2b8fa89",
+            "message": "fix checkstyle",
+            "insertions": 1020,
+            "deletions": 1021
+          },
+          {
+            "hash": "ecc848560dc96dd391f5b83873f15e6bf4b1dae9",
+            "message": "fix checkstyle",
+            "insertions": 1009,
+            "deletions": 1010
+          },
+          {
+            "hash": "ec10f238cd89ccfcaf4f92c355c8b62e88c22a87",
+            "message": "fix checkstyle",
+            "insertions": 252,
+            "deletions": 252
+          },
+          {
+            "hash": "704767b70f78f5c2c3110377644addc0bf5bd05e",
+            "message": "fix checkstyle",
+            "insertions": 252,
+            "deletions": 252
+          },
+          {
+            "hash": "bd12f2e4b42bfa14367af63d81c8b7ec35db8f43",
+            "message": "fix checkstyle",
+            "insertions": 30,
+            "deletions": 27
+          },
+          {
+            "hash": "d03c0c593e513ca1f5fef9c1fe29946f076e2920",
+            "message": "fix checkstyle",
+            "insertions": 30,
+            "deletions": 27
+          },
+          {
+            "hash": "0dd2a7d8b5c849364f656bdc2baca566ba6dbc39",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a0519fb84b3a74fb5c20de4a80b5417e744dc636",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "192cdf541719233cb2cba112baf60aecf840d073",
+            "message": "fix checkstyle",
+            "insertions": 6,
+            "deletions": 10
+          },
+          {
+            "hash": "1f778ebe73bc7ca217bfae30c3103a77e9251e9f",
+            "message": "fix checkstyle",
+            "insertions": 6,
+            "deletions": 10
+          },
+          {
+            "hash": "b6838064223fffdd694b6d0902bd6bdc384b5b45",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "4d095a5681dbc5479bff7819d7fd8cc805ab6948",
+            "message": "fix checkstyle",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "4b455da0e9d022943466c7b6e81fe49382aa212b",
+            "message": "fix checkstyle",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "7f3a0646ad6e93d88d882e82c75c65d506931bd9",
+            "message": "fix checkstyle",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "9911a2f014f57d78c7fe8dbb9131e5b221e28a40",
+            "message": "fix checkstyle",
+            "insertions": 57,
+            "deletions": 12
+          },
+          {
+            "hash": "b81387e5798bdd780fb1fcbc3f2c4c058975630a",
+            "message": "fix checkstyle",
+            "insertions": 57,
+            "deletions": 12
+          },
+          {
+            "hash": "291703a554ccaae238914a0d5dbb1cfd4d962c5e",
+            "message": "fix checkstyle",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "b0748f57bc0f2a6d3fcf85bb161360fc4683dd83",
+            "message": "fix checkstyle",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "8483915f70c09317e3431186a15ceb48b6081527",
+            "message": "try PR coverage",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4692d7083172f39f5364eb1516e72b3d2004ac95",
+            "message": "try PR coverage",
             "insertions": 1,
             "deletions": 1
           }
@@ -1445,42 +3000,312 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1449,
+        "deletions": 30,
         "date": "2019-04-07",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "52d44071c646dd1db0546a2d63f6b6447ee3d5b5",
+            "message": "ongoing test",
+            "insertions": 1426,
+            "deletions": 4
+          },
+          {
+            "hash": "cee736a4a23e47cc0ec22a2c688b60bd6d077b27",
+            "message": "test Delete",
+            "insertions": 7,
+            "deletions": 14
+          },
+          {
+            "hash": "5052a3dba34774dc988ba100c57a5b2c1278e14d",
+            "message": "edit beneficiary command test, ongoing",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "2865914fc1699a71f4f67873ebdfb5b2708b936f",
+            "message": "add summarise command",
+            "insertions": 11,
+            "deletions": 12
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 113,
+        "deletions": 52,
         "date": "2019-04-08",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "009aa0edd3c90847a3a81d8b40d9cc1bb946ce34",
+            "message": "add hard delete",
+            "insertions": 60,
+            "deletions": 15
+          },
+          {
+            "hash": "b150c007a7bcd704403cef79856e897439415abe",
+            "message": "fix exit bug",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "6392a2e01c80bbfd5fa86b3da79c2de064275779",
+            "message": "make sure beneficiaries have diff name",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "282134371a83da2c2bc20c0fca091575e949106d",
+            "message": "synchronize delete project command",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "1dfa320464cc764486f630c88f5a34e9724be300",
+            "message": "improve code quality",
+            "insertions": 14,
+            "deletions": 4
+          },
+          {
+            "hash": "10175ae3148c28dd7889bf48df91b87852cd931b",
+            "message": "shorten command keyword",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "bca6eae070c4f21010057f57632bce9561f3a5d9",
+            "message": "fix checkstyle",
+            "insertions": 8,
+            "deletions": 13
+          },
+          {
+            "hash": "5d019e5fd25a93db481791f054a376ced0215b28",
+            "message": "fix checkstyle",
+            "insertions": 2,
+            "deletions": 9
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 59,
+        "deletions": 52,
         "date": "2019-04-09",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "8b472c91ff893a04ecc66db57dc31168f43f8f29",
+            "message": "Update pref",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "39d213834f3964046cac6f5d288e639b56984db3",
+            "message": "fix edit bug",
+            "insertions": 50,
+            "deletions": 43
+          }
+        ]
       },
       {
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-10",
         "commitResults": []
+      },
+      {
+        "insertions": 944,
+        "deletions": 513,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "baca54014fb1a18d7f65d0f03efdbc77feaf6547",
+            "message": "fix the undo problem",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "8bb7a491cd8dc842a7aa93c89654fc5984011cd3",
+            "message": "update delete test",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "bb8e6ffe75bf1c622949881d0ff31081f89f0664",
+            "message": "update test for sync in delete benef",
+            "insertions": 250,
+            "deletions": 91
+          },
+          {
+            "hash": "33f15648ae3cb213cd9eb197602ddfce0eee736f",
+            "message": "test for edit benef command",
+            "insertions": 252,
+            "deletions": 14
+          },
+          {
+            "hash": "cf5d86e12b3003c0facc669018e10dfecf028b0f",
+            "message": "test for edit benef command",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "25a46429dba8d63e17b93e19edc54932db295853",
+            "message": "refactor to improve code quality",
+            "insertions": 273,
+            "deletions": 255
+          },
+          {
+            "hash": "2aa7d9449ff92e304a9f307e83e44dd6bd234990",
+            "message": "fix checkstyle",
+            "insertions": 42,
+            "deletions": 43
+          },
+          {
+            "hash": "7f3fb85683115ea81e4821cddecff552842a0581",
+            "message": "minor update",
+            "insertions": 9,
+            "deletions": 3
+          },
+          {
+            "hash": "c157acf76aa1f02cb4c54ef32660061731420d27",
+            "message": "fix checkstyle",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "b7d9b869285aa9329d2d2b477bda9f05f8db3b64",
+            "message": "refactor",
+            "insertions": 107,
+            "deletions": 99
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 1616,
+        "deletions": 772,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "0ae587a361ccc4b98def7b9c526eae568fca1891",
+            "message": "test sync in edit benef command",
+            "insertions": 67,
+            "deletions": 4
+          },
+          {
+            "hash": "1b7a2dc7f35afbdcee37a909a9f444ebe4bf8107",
+            "message": "delete benf parser test",
+            "insertions": 430,
+            "deletions": 1
+          },
+          {
+            "hash": "cc6fd40ac46d665fedfae463acc77009c36f2b16",
+            "message": "test add benf parser",
+            "insertions": 145,
+            "deletions": 142
+          },
+          {
+            "hash": "7f5f974b5073c22139674dfdd1cea91c70a53a45",
+            "message": "done testing",
+            "insertions": 286,
+            "deletions": 322
+          },
+          {
+            "hash": "e15811d910b13e9ba0c34ec6b2da0049f45089d1",
+            "message": "add benef alias",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "6390ad4eb9caabcb353bdd0a4a88c7a163453db5",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "59ec2aae676a4680a7caa7558d0d3d8d1101a4cd",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9d0162032abf65e3f7b28af63bff1a6cb0e86849",
+            "message": "checkstyle",
+            "insertions": 68,
+            "deletions": 31
+          },
+          {
+            "hash": "d9bca0e51ea2ad133e8a77beef06ad0f5b37c81e",
+            "message": "remove edit command test",
+            "insertions": 0,
+            "deletions": 248
+          },
+          {
+            "hash": "03a257fc0af8ed052a3167cb764292dbec2fe380",
+            "message": "model test for benef",
+            "insertions": 543,
+            "deletions": 2
+          },
+          {
+            "hash": "d2c5b5a2dc74cdc2d949d22ce407e2d803723e91",
+            "message": "tag author :((",
+            "insertions": 48,
+            "deletions": 9
+          },
+          {
+            "hash": "d27507d7243064c62f62fea43103404c85cd2287",
+            "message": "update stub",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "6f15a0196fba7be2c53e1a859dbee692c443a086",
+            "message": "checkstyle",
+            "insertions": 7,
+            "deletions": 9
+          },
+          {
+            "hash": "75473ae6d9d252232cbe1442b08090bac557d420",
+            "message": "checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 4,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "f81352ac4e85668df58418f3ed68dcf8b649c4b4",
+            "message": "reposense",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "309381239d8c9da84cbc7c02b8df0d9329d4f84b",
+            "message": "checksryle",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "swalahlah": 0,
-    "quinnzzzzz": 360,
-    "articstranger": 0,
-    "ndhuu": 6
+    "swalahlah": 2863,
+    "quinnzzzzz": 2466,
+    "articstranger": 974,
+    "ndhuu": 6948
   },
   "authorContributionVariance": {
-    "swalahlah": 0.0,
-    "quinnzzzzz": 2147.6655,
-    "articstranger": 0.0,
-    "ndhuu": 0.6488885
+    "swalahlah": 2319275.8,
+    "quinnzzzzz": 33064.332,
+    "articstranger": 12493.51,
+    "ndhuu": 2865395.0
   },
   "authorDisplayNameMap": {
     "swalahlah": "LIO...HUI",
