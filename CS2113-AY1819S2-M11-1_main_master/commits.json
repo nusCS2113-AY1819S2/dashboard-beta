@@ -579,8 +579,8 @@
         ]
       },
       {
-        "insertions": 198,
-        "deletions": 9,
+        "insertions": 417,
+        "deletions": 82,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -600,6 +600,78 @@
             "message": "update developer guide",
             "insertions": 118,
             "deletions": 1
+          },
+          {
+            "hash": "c41cd29fa7af18770c9dc26d997a50022afe0110",
+            "message": "update UGDG",
+            "insertions": 26,
+            "deletions": 25
+          },
+          {
+            "hash": "57dbcb8fd07d2a083ffa02c220429a66a8547430",
+            "message": "update DG, PPP",
+            "insertions": 88,
+            "deletions": 1
+          },
+          {
+            "hash": "5c64e1ac48ce5046fd89acab15a3f6cd5a65991b",
+            "message": "update dg",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c6c59c8146b7ac24badc2529faf40c9ae97a0836",
+            "message": "update AboutUs",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c5562d67e88beb65e1b3dbd3fd1529bc494ed9ac",
+            "message": "update manual testing section in DG",
+            "insertions": 64,
+            "deletions": 0
+          },
+          {
+            "hash": "816b9940836a01eadcce9d127deb10793b60ec95",
+            "message": "minor adjust of finance",
+            "insertions": 17,
+            "deletions": 22
+          },
+          {
+            "hash": "6323c0aa61ad8bf40fb02c3b6bb82a2bd8dea7ce",
+            "message": "fix checkstyle",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "87370598c66fb75b8ef8eae9fcc77e199a09273d",
+            "message": "update dg",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e08ccba1d9a34e12ad0b94d75130fb3d027f261f",
+            "message": "small update dg",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "ae76753cbdd3031228c73298691bf27f471e8f1c",
+            "message": "small change",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "eeeb442999f4b0f0741fd47e0f1ba18d83b379a8",
+            "message": "small change",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "b4faccf3a2f52e2da8ca583ae7bedcb4b7b47077",
+            "message": "resolve bug in help",
+            "insertions": 3,
+            "deletions": 3
           }
         ]
       }
@@ -1426,8 +1498,8 @@
         ]
       },
       {
-        "insertions": 392,
-        "deletions": 103,
+        "insertions": 1292,
+        "deletions": 380,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -1435,6 +1507,30 @@
             "message": "Updated user guide for player, export, data analysis and general features",
             "insertions": 392,
             "deletions": 103
+          },
+          {
+            "hash": "4276b80bb9cff5efb7bfde052aeed6f0dd57f10f",
+            "message": "Update UGDG and PPP",
+            "insertions": 754,
+            "deletions": 3
+          },
+          {
+            "hash": "148b9b5fa0f74d2ca25406a69da28c9f260ef14e",
+            "message": "developerguide userguide stylesheet warheade",
+            "insertions": 110,
+            "deletions": 263
+          },
+          {
+            "hash": "3d12f35a81509949c7973153acb7be35bd310972",
+            "message": "warheade.adoc",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e12b8888386b8e811d2e8121309a1cfef080db39",
+            "message": "manual test cases",
+            "insertions": 33,
+            "deletions": 8
           }
         ]
       }
@@ -2103,8 +2199,8 @@
         ]
       },
       {
-        "insertions": 300,
-        "deletions": 14,
+        "insertions": 504,
+        "deletions": 57,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -2118,6 +2214,30 @@
             "message": "debug Editteam function",
             "insertions": 17,
             "deletions": 6
+          },
+          {
+            "hash": "d514847fe47d2d2071d08184f34376ce33857b2d",
+            "message": "added PPP",
+            "insertions": 121,
+            "deletions": 0
+          },
+          {
+            "hash": "a69e421977bac95c6c91000375a5eecb9ac3ba57",
+            "message": "updated ug and dg added MIT badge",
+            "insertions": 66,
+            "deletions": 28
+          },
+          {
+            "hash": "815cc17b85005a956bb94ec744ca49818ee224c3",
+            "message": "image size change",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "42c66887e0c93f564e5b287df7939f7d6df7422f",
+            "message": "added manual testing",
+            "insertions": 16,
+            "deletions": 14
           }
         ]
       }
@@ -2908,8 +3028,8 @@
         ]
       },
       {
-        "insertions": 174,
-        "deletions": 1,
+        "insertions": 615,
+        "deletions": 90,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -2917,22 +3037,88 @@
             "message": "Add LogicTest code",
             "insertions": 174,
             "deletions": 1
+          },
+          {
+            "hash": "949f439576315d5f7208b546362137d3eea98e21",
+            "message": "Add and Edit comments",
+            "insertions": 41,
+            "deletions": 17
+          },
+          {
+            "hash": "caa5414aa3ff7adbf11677aacf2ef7175e1c73a6",
+            "message": "Edit more comments",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "73539eed1393f74cd389656b4cc5e9ebb65a7cc0",
+            "message": "Fix error in AboutUs and README",
+            "insertions": 21,
+            "deletions": 22
+          },
+          {
+            "hash": "ebb294b304643951ab595de186037c0a251bdf81",
+            "message": "Edit AboutUs",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5cdfafffa26bd43ef152513a18cb4501f46c34fd",
+            "message": "Update UG",
+            "insertions": 128,
+            "deletions": 11
+          },
+          {
+            "hash": "69ef52285e0f376966f76948dc0f5baab75a7bc2",
+            "message": "Update UG",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "a5c0da4053ae6129bd0198e7f08d6ef082ad24f8",
+            "message": "Update UG",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "bf6ad27cb610ba508d8f11073b8e3adf60a057ce",
+            "message": "Update UG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7e61c3ab8990cfd5428a4427d1e4e664adf0ef2e",
+            "message": "Update UGDG",
+            "insertions": 51,
+            "deletions": 21
+          },
+          {
+            "hash": "ef72f54e85e8630d97f6724c8b9fc72ebc13bfff",
+            "message": "Update Docs",
+            "insertions": 127,
+            "deletions": 0
+          },
+          {
+            "hash": "3ab2212f8d9fa2d59dbbecff9d76fb2b2bde30ff",
+            "message": "Update Dev guide",
+            "insertions": 54,
+            "deletions": 0
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "huyidi": 1639,
-    "warheade": 5114,
-    "yingrong1996": 3021,
-    "E0176106": 2797
+    "huyidi": 1778,
+    "warheade": 5747,
+    "yingrong1996": 3195,
+    "E0176106": 3099
   },
   "authorContributionVariance": {
-    "huyidi": 18345.754,
-    "warheade": 183129.16,
-    "yingrong1996": 63778.844,
-    "E0176106": 136828.03
+    "huyidi": 21102.918,
+    "warheade": 216256.16,
+    "yingrong1996": 66323.19,
+    "E0176106": 142208.52
   },
   "authorDisplayNameMap": {
     "huyidi": "Hu Yidi",

@@ -544,8 +544,8 @@
         ]
       },
       {
-        "insertions": 195,
-        "deletions": 83,
+        "insertions": 388,
+        "deletions": 145,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -613,6 +613,42 @@
             "message": "WorkerBuilder added",
             "insertions": 4,
             "deletions": 0
+          },
+          {
+            "hash": "b96fae25b56b3239475a7e695e63d4f3b212f237",
+            "message": "DG updated",
+            "insertions": 24,
+            "deletions": 1
+          },
+          {
+            "hash": "dcce4ba21e5fc6ff6da619dd44b5107f567c5e0d",
+            "message": "UG Updated",
+            "insertions": 13,
+            "deletions": 10
+          },
+          {
+            "hash": "5d25d94144525a69884329a747b4b545d80cb2c3",
+            "message": "DG updated",
+            "insertions": 15,
+            "deletions": 19
+          },
+          {
+            "hash": "ea104c5a3b5c57aefcdeb3e335627abfa10dc2f2",
+            "message": "PPP updated",
+            "insertions": 99,
+            "deletions": 4
+          },
+          {
+            "hash": "b75735b9859ac04d4b49457830624623c784af60",
+            "message": "PPP updated",
+            "insertions": 19,
+            "deletions": 5
+          },
+          {
+            "hash": "2e9aa83dec2f53f55cbaa6cab97f9a0948d338aa",
+            "message": "PPP Updated",
+            "insertions": 23,
+            "deletions": 23
           }
         ]
       }
@@ -1794,8 +1830,8 @@
         "commitResults": []
       },
       {
-        "insertions": 60,
-        "deletions": 23,
+        "insertions": 1328,
+        "deletions": 29,
         "date": "2019-04-13",
         "commitResults": [
           {
@@ -1803,14 +1839,159 @@
             "message": "Modified developer guide",
             "insertions": 60,
             "deletions": 23
+          },
+          {
+            "hash": "9cc88f338f4dd712c2e5abb86a502b53b8007644",
+            "message": "Implemented test cases and classes",
+            "insertions": 351,
+            "deletions": 5
+          },
+          {
+            "hash": "8f6f71344a26921587720e9c9599ab391452d645",
+            "message": "Implemented: PurchaseTest PurchaseNameTest PriceTest PurchaseListTest ExpenditureListBuilder PurchaseBuilder PurchaseUtil AddPurchaseCommandTest ClearExpListCommandTest",
+            "insertions": 917,
+            "deletions": 1
           }
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 824,
+        "deletions": 380,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "f13dc6792ba38a6502cc8a632f20bfe30493dfa0",
+            "message": "Updated UG and DG for v1.4",
+            "insertions": 284,
+            "deletions": 109
+          },
+          {
+            "hash": "502947fe65da6fa49a62d2df8685747f0ec8ede1",
+            "message": "added json files",
+            "insertions": 1,
+            "deletions": 17
+          },
+          {
+            "hash": "5ff2e5c289517a7292c0d5eb163ce91da74fe32d",
+            "message": "travis",
+            "insertions": 12,
+            "deletions": 2
+          },
+          {
+            "hash": "f4dac1fa34804edeba21415b232a487c4c808fd9",
+            "message": "travis",
+            "insertions": 57,
+            "deletions": 52
+          },
+          {
+            "hash": "7b433a75d10b8e23c03433ff7b6f7ab6153eb9cc",
+            "message": "resolve merge conflicts travis",
+            "insertions": 7,
+            "deletions": 9
+          },
+          {
+            "hash": "29270161215c366715c64c8b7d16821484b34568",
+            "message": "travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d3838d45c4e0a181baf763fceae00e36d87a5d59",
+            "message": "travis",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "8a8038671d6d65dd6a4c3f1eac3903b1e09b69ca",
+            "message": "updated user guide",
+            "insertions": 62,
+            "deletions": 42
+          },
+          {
+            "hash": "717e3dfb32ec05bb58dc1885a68bbffd9bddf3ec",
+            "message": "updated user guide",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c676868dea1706d7ac9e224c43d4517cc8c55be0",
+            "message": "updated ug and dg",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "23872c12fe4b9e2f96122f3ec34d2075469d4ef2",
+            "message": "format issues",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "839047a4df00fb493587407df5812e8aa352dc9b",
+            "message": "updated developer guide",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "7bd6321b86e0f6a1dc4a6aacd632584ba4b24789",
+            "message": "solved format issue",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "b820f4c49a7feb0aaa984b174a67ddf21d34f07e",
+            "message": "updated ui",
+            "insertions": 20,
+            "deletions": 18
+          },
+          {
+            "hash": "d16bb0ab14645911124debda48ece01ee9772f49",
+            "message": "TEST CASES",
+            "insertions": 77,
+            "deletions": 15
+          },
+          {
+            "hash": "5bbe3f3e9f01e557f458eee99d14ce494051e5fd",
+            "message": "TESTCASES",
+            "insertions": 141,
+            "deletions": 12
+          },
+          {
+            "hash": "2523395bb00a9c14fafaa29184c4c18049133419",
+            "message": "TRAVIS",
+            "insertions": 5,
+            "deletions": 67
+          },
+          {
+            "hash": "65638501abc5b566191536385f18eda3621bb301",
+            "message": "TRAVIS",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "a5364400065857642ee396f3933f10450d974f2d",
+            "message": "wz project portfolio updates on UG and DG",
+            "insertions": 121,
+            "deletions": 12
+          },
+          {
+            "hash": "328133e76b36d88d01c8f398104eedf2087861a5",
+            "message": "travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e775ac14b0ad071ac34a27740c514a7069aa83c6",
+            "message": "travis",
+            "insertions": 10,
+            "deletions": 3
+          },
+          {
+            "hash": "2ed9e847a30e8f64a1059aea753398f720f62ab9",
+            "message": "updated ppp",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "jayrometan": [
@@ -2539,8 +2720,8 @@
         ]
       },
       {
-        "insertions": 871,
-        "deletions": 89,
+        "insertions": 1100,
+        "deletions": 186,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -2554,22 +2735,82 @@
             "message": "Added the rest of the tests!",
             "insertions": 22,
             "deletions": 31
+          },
+          {
+            "hash": "e1bfe6ba0a312afbe93330e18dfc12286d98c904",
+            "message": "PPP update!",
+            "insertions": 108,
+            "deletions": 1
+          },
+          {
+            "hash": "9d80fae859afab829941ede05583240bdf05c6db",
+            "message": "PPP update!",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "c2fd09c8e139f4b603935b96c04b3c3d50ab3856",
+            "message": "PPP update!",
+            "insertions": 66,
+            "deletions": 57
+          },
+          {
+            "hash": "294a169f3439f2b24d7ff04d46635e91d97b971e",
+            "message": "PPP update!",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5bd42dd22d9c0c1913fe93f0a1ac8bdc897caa7d",
+            "message": "PPP update!",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "b32ea30069630a226639b862d29849f1ab410cb3",
+            "message": "PPP update!",
+            "insertions": 28,
+            "deletions": 15
+          },
+          {
+            "hash": "cb6a9d5a25aa7e4bdcec6c6574b21843885503d7",
+            "message": "PPP update!",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "20901217e2e3003b8c213632e2b51d5af6fd14c6",
+            "message": "PPP update!",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "dcf3ba677cd3284bcaf666d88bff3f888d8380fe",
+            "message": "edited the about us page to include the PPP",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "09ead474cae6dcea922a0fa5e117216255b96fc7",
+            "message": "edited the about us page to include the PPP",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "yongjia96": 1286,
-    "wongyuqi": 142,
-    "weizhonglauw": 2583,
-    "jayrometan": 6178
+    "yongjia96": 1425,
+    "wongyuqi": 79,
+    "weizhonglauw": 4419,
+    "jayrometan": 6266
   },
   "authorContributionVariance": {
-    "yongjia96": 9542.875,
+    "yongjia96": 12523.25,
     "wongyuqi": 3617.9602,
-    "weizhonglauw": 157487.05,
-    "jayrometan": 142357.31
+    "weizhonglauw": 198104.95,
+    "jayrometan": 152148.31
   },
   "authorDisplayNameMap": {
     "yongjia96": "PAN...JIA",

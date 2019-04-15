@@ -587,10 +587,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 22,
+        "deletions": 2,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "057b65f674c4bc4a81fb2aff39dd9250b0a906d6",
+            "message": "Update README",
+            "insertions": 22,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "jacobhan": [
@@ -1305,8 +1312,8 @@
         ]
       },
       {
-        "insertions": 2070,
-        "deletions": 1790,
+        "insertions": 4436,
+        "deletions": 3702,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -1362,6 +1369,174 @@
             "message": "ppp",
             "insertions": 0,
             "deletions": 2
+          },
+          {
+            "hash": "2b55a3084e13dca9e2396ad6e4dbc86f6dc0d455",
+            "message": "small changes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "85bc7db589ea609614b59247e454b14165b4ab30",
+            "message": "crypto changes",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "67729c6a0f7fab9285e88c15611a4618b7cbe635",
+            "message": "checkstyles",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "90ee9e3cc8261bc3809c24bd857b45df38694d7b",
+            "message": "invest command",
+            "insertions": 667,
+            "deletions": 611
+          },
+          {
+            "hash": "71a0726658560675aaf6793e79e55bed56104046",
+            "message": "invest command",
+            "insertions": 71,
+            "deletions": 31
+          },
+          {
+            "hash": "bc92ac0afb03e8471c27098f3d65070065f15e0c",
+            "message": "added Number",
+            "insertions": 66,
+            "deletions": 7
+          },
+          {
+            "hash": "7ca4cc8444c14fe6807f0de9bef10ba778174d2f",
+            "message": "fixed number class",
+            "insertions": 26,
+            "deletions": 9
+          },
+          {
+            "hash": "bd3a73e628483aff18afe01b2db0bc822e82a282",
+            "message": "fixed number",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "51094c9d55466cea9ef1845bb483b76e970ccab1",
+            "message": "fixed invest command",
+            "insertions": 15,
+            "deletions": 8
+          },
+          {
+            "hash": "199fa89c0b70d921e89f2c93e65639689b0ca23e",
+            "message": "added suggestion",
+            "insertions": 8,
+            "deletions": 13
+          },
+          {
+            "hash": "3771fc1120493a352020b2d7eebf4ff4c8a98191",
+            "message": "invest tests",
+            "insertions": 336,
+            "deletions": 245
+          },
+          {
+            "hash": "0294eb6451a600d3eaa336f056b739a6eb53fec4",
+            "message": "uncommented excel",
+            "insertions": 856,
+            "deletions": 856
+          },
+          {
+            "hash": "994036f80ac04e7184a4ceb3f5657fee6bb7a566",
+            "message": "checkstyles",
+            "insertions": 10,
+            "deletions": 7
+          },
+          {
+            "hash": "dce0e746435280c9bb85600accde05a91145c238",
+            "message": "checkstyle",
+            "insertions": 23,
+            "deletions": 1
+          },
+          {
+            "hash": "6c1d8fec84cd73bbd860f01d575ef2ac0d01ce32",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "211eeb8789a86146af4bb43df7c365a6f23674f8",
+            "message": "checkstyles",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "af4f29f894765971a32d91649d46554649686ee3",
+            "message": "ug",
+            "insertions": 23,
+            "deletions": 0
+          },
+          {
+            "hash": "faea184bf421a09ca8b21889ff82585ff6933421",
+            "message": "dg",
+            "insertions": 52,
+            "deletions": 15
+          },
+          {
+            "hash": "3207050d49a6f02132bf004a2877ae7b3fe67edf",
+            "message": "more dg",
+            "insertions": 47,
+            "deletions": 0
+          },
+          {
+            "hash": "a9e29e0b929a1182dfd0cc720475669a32702851",
+            "message": "more dg",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3f3f2492804df76b96451c984f62e0b4f74a1b97",
+            "message": "more dg",
+            "insertions": 33,
+            "deletions": 33
+          },
+          {
+            "hash": "bb24003a235a95b14bb99894b48138b831706ab2",
+            "message": "dg",
+            "insertions": 53,
+            "deletions": 14
+          },
+          {
+            "hash": "d2b02c77e20000880a9103d3c318dda548e53c07",
+            "message": "dg",
+            "insertions": 20,
+            "deletions": 31
+          },
+          {
+            "hash": "2e4bce024ebb237db433a27e3e54580ab397badc",
+            "message": "ppp",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "30122427436b5dfd91c127025c166dfd6ca761bc",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1964d8019f6aaa874c38e298030235b5cd4ca6f9",
+            "message": "dg",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "67f4331930eb6153633c7ee647e9185e803255e8",
+            "message": "dg png",
+            "insertions": 15,
+            "deletions": 0
+          },
+          {
+            "hash": "8e1fdfa8bc555b1d00a65a9b9ec50a2850229e65",
+            "message": "ppp",
+            "insertions": 22,
+            "deletions": 10
           }
         ]
       }
@@ -2333,24 +2508,67 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 105,
+        "deletions": 187,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "e4f02df0d89546d9c2e57fd150bba72b60192e78",
+            "message": "Changed PPP",
+            "insertions": 5,
+            "deletions": 21
+          },
+          {
+            "hash": "8bb43f90ca4fb29d7431ecc991e4bdfba0f85cde",
+            "message": "PPP",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "cb93f9f2875e482f416a6ceb1a3b2f90279810df",
+            "message": "ppp",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "4246c943c8f8c1277403970e6a026202c98715d5",
+            "message": "Fixed developer guide",
+            "insertions": 2,
+            "deletions": 5
+          },
+          {
+            "hash": "c43768312adc31a12cf58e2471c8cd961d375e05",
+            "message": "Refactoring",
+            "insertions": 45,
+            "deletions": 45
+          },
+          {
+            "hash": "47301230a39497ce4baf45c72b4fdff833e7e4cd",
+            "message": "Edited website",
+            "insertions": 9,
+            "deletions": 73
+          },
+          {
+            "hash": "c8d2ab0b27ca2f6aa7c8d2e9e6973b29b7cd757e",
+            "message": "Refactored DG",
+            "insertions": 32,
+            "deletions": 32
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "frankquekch": 2510,
-    "jacobhan": 1164,
+    "frankquekch": 2524,
+    "jacobhan": 1634,
     "ngkaicong": 0,
-    "yushao2": 3410
+    "yushao2": 3456
   },
   "authorContributionVariance": {
-    "frankquekch": 327474.56,
-    "jacobhan": 235624.33,
+    "frankquekch": 327354.06,
+    "jacobhan": 1020501.56,
     "ngkaicong": 0.0,
-    "yushao2": 553402.2
+    "yushao2": 553527.9
   },
   "authorDisplayNameMap": {
     "frankquekch": "DOM...HAO",

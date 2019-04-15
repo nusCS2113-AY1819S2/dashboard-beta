@@ -755,22 +755,72 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 592,
+        "deletions": 15,
         "date": "2019-04-06",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "ecbb5c10f1dbe3192bed57bdb2dc933dc4ecaba6",
+            "message": "Model: add predicate classes to test \u0027Year\u0027 and \u0027Semester\u0027",
+            "insertions": 70,
+            "deletions": 0
+          },
+          {
+            "hash": "52a0dda2869144c7307c83c497854f9dcd34a734",
+            "message": "Logic: add \u0027planner_show\u0027 command",
+            "insertions": 154,
+            "deletions": 2
+          },
+          {
+            "hash": "700e621c808dec0bb55eab5fc36913465e368a59",
+            "message": "Test: add tests for \u0027Year\u0027 and \u0027Semester\u0027 predicates class",
+            "insertions": 101,
+            "deletions": 0
+          },
+          {
+            "hash": "00b0d09dd2437b8d1b1f819c271a77dbcd79fb4d",
+            "message": "TestUtil: update to allow using variables in other classes",
+            "insertions": 30,
+            "deletions": 13
+          },
+          {
+            "hash": "4f9a800ea2598d5bd79641a1c781c83c1e0a9a49",
+            "message": "Test: add test cases for \u0027planner_show\u0027",
+            "insertions": 237,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 59,
+        "deletions": 23,
         "date": "2019-04-07",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "1bc4468057d89578f5e5b58a207ad25b40a0b020",
+            "message": "Logic: update \u0027planner_move\u0027 to handle co-requisites",
+            "insertions": 59,
+            "deletions": 23
+          }
+        ]
       },
       {
-        "insertions": 12,
-        "deletions": 3,
+        "insertions": 140,
+        "deletions": 39,
         "date": "2019-04-08",
         "commitResults": [
+          {
+            "hash": "181b24e3fcb847d3c7485740bb4ecd47652060e0",
+            "message": "Model: add method to help in carrying out handling of co-requisites",
+            "insertions": 50,
+            "deletions": 2
+          },
+          {
+            "hash": "ed22a52fa272b0c623ca762922e9932dbc4370e7",
+            "message": "Test: update test cases for \u0027planner_move\u0027 command",
+            "insertions": 78,
+            "deletions": 34
+          },
           {
             "hash": "0ea4ce8c4b8cec8d5b136f7d912749ef59e86bd8",
             "message": "UI: update `DegreePlannerCard` to indicate `Special Semester Term` (#198)",
@@ -823,10 +873,54 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 757,
+        "deletions": 154,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "d9422e7ed194827187d438c411cb2be7edcb342d",
+            "message": "test/model: add unit tests for `DegreePlanner`-related classes (#209)",
+            "insertions": 339,
+            "deletions": 0
+          },
+          {
+            "hash": "3ae9043cccb83c03435dad7a33c8258177c9ca76",
+            "message": "UserGuide: update \u0027planner_move\u0027, \u0027planner_list\u0027 and \u0027planner_show\u0027\u0027 (#227)",
+            "insertions": 186,
+            "deletions": 56
+          },
+          {
+            "hash": "b9f9d63c6b7aebaf95c8374f29fb297e37e66063",
+            "message": "PPP: update truegitnovice (#238)",
+            "insertions": 54,
+            "deletions": 27
+          },
+          {
+            "hash": "b1ddba543db71df1266ff0f0b99bbbcc9fbb47b4",
+            "message": "DeveloperGuide: update \u0027planner_move\u0027, \u0027planner_list\u0027, \u0027planner_show\u0027\u0027 (#235)",
+            "insertions": 178,
+            "deletions": 71
+          }
+        ]
+      },
+      {
+        "insertions": 109,
+        "deletions": 49,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "92c61d613d38cd98d2687f1234a273874d59c3cc",
+            "message": "docs/DeveloperGuide: update UI Componenet Diagram (#242)",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "283d05e89030520f8dc465a50afc7585a8a1170a",
+            "message": "Update PPP: truegitnovice (#250)",
+            "insertions": 108,
+            "deletions": 45
+          }
+        ]
       }
     ],
     "WendyBaiYunwei": [
@@ -1242,10 +1336,66 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1139,
+        "deletions": 71,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "6eeb8e2c1aa85df0d6b90a883898b9b03af950eb",
+            "message": "Logic/commands: improve logic checks for `planner_add` (#161)",
+            "insertions": 377,
+            "deletions": 18
+          },
+          {
+            "hash": "3954287ccbc68ae72c1eecb37ea7c5b9f90073f9",
+            "message": "[#160] Logic/commands: implement `planner_remove` command (#162)",
+            "insertions": 318,
+            "deletions": 0
+          },
+          {
+            "hash": "0abdb78b4a74139b0a976839524dc9c87bfde112",
+            "message": "[#191] Logic/commands: implement `planner_suggest` command (#192)",
+            "insertions": 354,
+            "deletions": 0
+          },
+          {
+            "hash": "b839d2908198510637e7a75dbb03522a7abf688f",
+            "message": "Logic/commands: simplify `planner_add` implementation (#225)",
+            "insertions": 15,
+            "deletions": 24
+          },
+          {
+            "hash": "1d565bc6962e271d1cc3d4e9a8498ad13f7f1d44",
+            "message": "User guide: update ug for planner add, remove and suggest (#215)",
+            "insertions": 75,
+            "deletions": 29
+          }
+        ]
+      },
+      {
+        "insertions": 311,
+        "deletions": 76,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "4de5871298887644fa39f09e0b0975034faab440",
+            "message": "docs/DeveloperGuide: update planner add, remove and suggest (#240)",
+            "insertions": 225,
+            "deletions": 1
+          },
+          {
+            "hash": "7269a3c739654ed82193ea86e4e3c1a60fe9f84f",
+            "message": "Update wendybaiyunwei.adoc (#245)",
+            "insertions": 78,
+            "deletions": 40
+          },
+          {
+            "hash": "705eb45b6ad1678f61b2f28987e07ffabed5eb94",
+            "message": "Update wendybaiyunwei.adoc (#249)",
+            "insertions": 8,
+            "deletions": 35
+          }
+        ]
       }
     ],
     "Creastery": [
@@ -2501,8 +2651,8 @@
         ]
       },
       {
-        "insertions": 129,
-        "deletions": 115,
+        "insertions": 1277,
+        "deletions": 537,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -2516,6 +2666,49 @@
             "message": "DeveloperGuide: update \"Troubleshooting Testing\" section (#219)",
             "insertions": 8,
             "deletions": 0
+          },
+          {
+            "hash": "c5fcb999b2926051adae812e02a83a159ed795a2",
+            "message": "Model/util: update `SampleDataUtil` (#146)",
+            "insertions": 234,
+            "deletions": 74
+          },
+          {
+            "hash": "f0cfec547ea2d05f1112a2966ca9a3c3c032ec42",
+            "message": "Logic/commands: enhance logic checks for module management commands (#222)",
+            "insertions": 635,
+            "deletions": 201
+          },
+          {
+            "hash": "9e4de0e4ccde7ff255f14a4d0627983bc4b049eb",
+            "message": "docs/UserGuide: update Module Management section (#231)",
+            "insertions": 181,
+            "deletions": 108
+          },
+          {
+            "hash": "8f74a54eafadc42cbe698b71154ef3ecb119d9a3",
+            "message": "MainApp: bump `MainApp#VERSION` to v1.4 for release (#221)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a373a80717728ebb13b4384cb2425a25dc7898d4",
+            "message": "docs/team: update Ngo Wei Lin\u0027s Personal Project Portfolio (#239)",
+            "insertions": 97,
+            "deletions": 38
+          }
+        ]
+      },
+      {
+        "insertions": 155,
+        "deletions": 36,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "396d4219ed4b7746d7b1d08878015af4e297bc67",
+            "message": "docs/DeveloperGuide: update Edit Module feature (#251)",
+            "insertions": 155,
+            "deletions": 36
           }
         ]
       }
@@ -3279,10 +3472,29 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 777,
+        "deletions": 39,
         "date": "2019-04-04",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "a7de2dd3afdf5b1d2b00852cabba44ab2613bb7e",
+            "message": "Logic: create logic for \u0027requirement_move\u0027 command",
+            "insertions": 278,
+            "deletions": 0
+          },
+          {
+            "hash": "7778aacb6f6a85cda9a535c0d8c2e3261ea0f534",
+            "message": "Logic: update application to take in new command",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "434f419b5915d6603246d99c55b122f67533d438",
+            "message": "test/parser: creating test cases for new command",
+            "insertions": 495,
+            "deletions": 39
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -3346,22 +3558,86 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 289,
         "deletions": 0,
         "date": "2019-04-12",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "ecd939a15ca567a7180b26fbf17c48b3c2808137",
+            "message": "Test/requirement: adding test cases for \u0027RequirementCategory\u0027 classes",
+            "insertions": 289,
+            "deletions": 0
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 226,
+        "deletions": 143,
         "date": "2019-04-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "93fbb76ce3ad082ab1545fd0e9372fdc8987b858",
+            "message": "Logic: update \u0027requirement_remove\u0027 command logic",
+            "insertions": 82,
+            "deletions": 43
+          },
+          {
+            "hash": "398096eb3346970d679fa863499a8dc66b7377d9",
+            "message": "test/parser: update test case for updated command logic",
+            "insertions": 44,
+            "deletions": 33
+          },
+          {
+            "hash": "2be3da0e8b3bf08440f56118157424bbca5948a9",
+            "message": "test/logic: update test cases to reflect new command logic",
+            "insertions": 100,
+            "deletions": 67
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 562,
+        "deletions": 190,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "d982a9836c9f460619719a9e8fbba50483f43cdb",
+            "message": "test: update \u0027requirement_add\u0027 command test cases",
+            "insertions": 103,
+            "deletions": 56
+          },
+          {
+            "hash": "6c686c78e5be01b760f37bea14b0256693bf5818",
+            "message": "Requirement: refactor \u0027collectors\u0027 to \u0027StringUtil\u0027",
+            "insertions": 41,
+            "deletions": 44
+          },
+          {
+            "hash": "d6d5b1c731d5d93aae2556980481d371ffd29a83",
+            "message": "docs/UserGuide: update User Guide for Requirements Tracker (#228)",
+            "insertions": 126,
+            "deletions": 43
+          },
+          {
+            "hash": "095c909471db75e0709ece4b2b5a27a367383e12",
+            "message": "docs/DeveloperGuide: update to reflect current impelemtation (#232)",
+            "insertions": 292,
+            "deletions": 47
+          }
+        ]
+      },
+      {
+        "insertions": 67,
+        "deletions": 35,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "da350504aec0a112e8a99d187e98aed596e336f9",
+            "message": "docs/team: update personal portfolio to reflect changes (#236)",
+            "insertions": 67,
+            "deletions": 35
+          }
+        ]
       }
     ],
     "lycjackie": [
@@ -4190,10 +4466,47 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 98,
+        "deletions": 2,
         "date": "2019-04-11",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "c5279083634ac853f63c5008f5995c4a6613af5c",
+            "message": "Model/module: add `TagContainsKeywordsPredicate` class",
+            "insertions": 38,
+            "deletions": 0
+          },
+          {
+            "hash": "de79e7ed59aeec0de74d677a5fe0030f9fbd5e06",
+            "message": "Logic/parser: `FindCommandParser` now able to parse `PREFIX_TAG`",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "e93df71175bd4be73f2575f10ec2e2608bad7e6b",
+            "message": "FindCommand: Update MESSAGE_USAGE",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "9ce830086ae4bcf91f811e6e73daddbac61678b9",
+            "message": "test/parser: add unit tests to `FindCommandParserTest`",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "5ecc03928760d4fcc6ddc5552e6b60bc45b5dede",
+            "message": "test/commands: add unit test to `FindCommandTest`",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "166f2edaabbe318c33a7787c35ea6ec8025bb659",
+            "message": "systemtests/FindCommandSystemTest: add unit tests",
+            "insertions": 20,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -4215,8 +4528,8 @@
         ]
       },
       {
-        "insertions": 66,
-        "deletions": 1,
+        "insertions": 690,
+        "deletions": 234,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -4236,24 +4549,114 @@
             "message": "Logic: add new `reset` command (#214)",
             "insertions": 62,
             "deletions": 0
+          },
+          {
+            "hash": "8875b95f7dff5db947e73eeee0f658f363fd0c14",
+            "message": "Logic: refactor XYZContainsKeywordsPredicate keyword to `String` (#206)",
+            "insertions": 84,
+            "deletions": 135
+          },
+          {
+            "hash": "01493d826b34b587c3eaeb5e9ab3713d2500d70b",
+            "message": "Logic/parser:  utilise tags",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "12b1804ae3474179fc9ed99d8c78f0491bd5033f",
+            "message": "test/module: add unit tests to `TagContainsKeywordsPredicateTest`",
+            "insertions": 64,
+            "deletions": 0
+          },
+          {
+            "hash": "80b57566839cd77057a0b8a4d82e6c78357ec301",
+            "message": "Model: support `SemesterContainsKeywordsPredicate` for module",
+            "insertions": 14,
+            "deletions": 3
+          },
+          {
+            "hash": "aafaa33f58361dcb4cd922b367b0b2f46e5f932f",
+            "message": "Logic/parser: `FindCommandParser` now able to parse `PREFIX_SEMSTER`",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "809dad830355f4774f7be0d7657c5390cefaff5d",
+            "message": "test/parser: add unit tests to `FindCommandParserTest` To ensure that we are able to search for semester.",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "fcf224586b8fe6a155fde5083b74d740e1a25ada",
+            "message": "test/commands: add unit test to `FindCommandTest`",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "1cc3ec530cd575d43f721b38affd5fdc9562efcb",
+            "message": "systemtests/FindCommandSystemTest: add unit tests",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "6d5126e426116d65401e9b56d930e26f9911174a",
+            "message": "docs/UserGuide: add `reset` command and improve `find` command (#226)",
+            "insertions": 60,
+            "deletions": 19
+          },
+          {
+            "hash": "48f71253636ae1341867614eba334534298b1c14",
+            "message": "docs/UserGuide: add some future enhancement (#229)",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "0932641276427cfa7d6da7dfa0b782ebcee4941d",
+            "message": "docs/DeveloperGuide: improve explanation for `find` feature. (#172)",
+            "insertions": 223,
+            "deletions": 34
+          },
+          {
+            "hash": "b8760eeb4e0184f750c6a4155197b54a032e143d",
+            "message": "docs/UserGuide: fix minor typo (#233)",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "a5d44ff4919818d4ebbd71dd86e3e66ef1bb11ea",
+            "message": "docs/PPP: Update more information in PPP (#234)",
+            "insertions": 109,
+            "deletions": 33
+          },
+          {
+            "hash": "a356d98157176eacd20c33180f3f5e33dc516cf0",
+            "message": "docs/UserGuide: fix typo (#237)",
+            "insertions": 2,
+            "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "truegitnovice": 2471,
-    "WendyBaiYunwei": 233,
-    "Creastery": 4834,
-    "chyeo": 2487,
-    "lycjackie": 5136
+    "truegitnovice": 3818,
+    "WendyBaiYunwei": 1498,
+    "Creastery": 5808,
+    "chyeo": 4071,
+    "lycjackie": 5553
   },
   "authorContributionVariance": {
-    "truegitnovice": 72804.75,
-    "WendyBaiYunwei": 1034.5128,
-    "Creastery": 191645.98,
-    "chyeo": 244981.34,
-    "lycjackie": 549714.0
+    "truegitnovice": 85112.82,
+    "WendyBaiYunwei": 24951.695,
+    "Creastery": 228392.61,
+    "chyeo": 251302.94,
+    "lycjackie": 550115.06
   },
   "authorDisplayNameMap": {
     "truegitnovice": "AHN...GYU",

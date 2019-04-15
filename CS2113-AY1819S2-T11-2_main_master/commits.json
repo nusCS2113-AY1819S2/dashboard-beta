@@ -470,8 +470,8 @@
         "commitResults": []
       },
       {
-        "insertions": 2821,
-        "deletions": 176,
+        "insertions": 2822,
+        "deletions": 177,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -521,6 +521,18 @@
             "message": "Fix some logic in registration password checking",
             "insertions": 9,
             "deletions": 7
+          },
+          {
+            "hash": "8d366aa5dd167b463fa8b29ba7cf260efc00e8f5",
+            "message": "Added a default account",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "5f04093ad450b5d678679785a8d6030a9ad80a81",
+            "message": "Revert \"Added a default account\"",
+            "insertions": 0,
+            "deletions": 1
           }
         ]
       }
@@ -1175,8 +1187,8 @@
         ]
       },
       {
-        "insertions": 17,
-        "deletions": 8,
+        "insertions": 883,
+        "deletions": 456,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -1190,6 +1202,228 @@
             "message": "Update DeveloperGuide.adoc",
             "insertions": 16,
             "deletions": 7
+          },
+          {
+            "hash": "990ac0853cbd7694e646b0b9fb26461ecfff58c5",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 20,
+            "deletions": 1
+          },
+          {
+            "hash": "a546307a54a0d26dbea34b2c0029c9001aeaa080",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "1c7eeb03711b939ccd2998c76ea6970fde8b6398",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 7
+          },
+          {
+            "hash": "2fa809e2a1495e63d6cfc15857658c183cdd8f95",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "761db25c011cafd22449b35a4b177fdbddba913e",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "81f506530777b7f6cca9cc64e7d258b57053386f",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "8e4ce442216e86a5c7be8cc2cee971aa8ab167b5",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3de67a2beeb73d705f431f2b9ef1189f565ea368",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "3037f9cb75523b7c34ebcdb446e318bc0bba34e7",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 52,
+            "deletions": 6
+          },
+          {
+            "hash": "1597f85f96ee383f0f13be6e41188a3be75c9137",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "00ff2a951b249a4bc8160b1c3b7a74a30063515b",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 44,
+            "deletions": 25
+          },
+          {
+            "hash": "6b201c0b7f0e217e1d6cffdf24e2bcd88c23f8d3",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "5e220bf5b4046239a1025865eb3316959b5db564",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 8,
+            "deletions": 6
+          },
+          {
+            "hash": "094e06906d78fa88e6ce70e642a880694cc02ad2",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 56,
+            "deletions": 6
+          },
+          {
+            "hash": "d61893969f3aa98254d1a6d7ac168de3065f94b6",
+            "message": "Update ReferCommand.java",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1ab1aea0436643a0a3d413816dd4c1916d84b23a",
+            "message": "Update ReferCommand.java",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "d9eeeb752caa3e651c03f54c0690b8dc8bf5af1c",
+            "message": "Update UserGuide.adoc",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "1af31a8c06276ee734394b5bd162bae92b1e179e",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "9232d26552e1512c437765afacd97c793ff8cc74",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 31,
+            "deletions": 11
+          },
+          {
+            "hash": "c148f6abc35d6336f8528aef1d45d706c7b0d24e",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "6a3ce631a73fe0e95bd1ad948a0f559d87fa6063",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "a5fe1c47d10b909b8cbc966020eda633b925543b",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "7c69cf7dc8c5fb9b8167d6e80a9dc08320e60b5b",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 7,
+            "deletions": 11
+          },
+          {
+            "hash": "379e7b975d4eae75d0e02ed9c5cba5be1e633f75",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 47,
+            "deletions": 12
+          },
+          {
+            "hash": "bf3ca9fdce9abb73b1271fa28f3b83ee9ffa0c97",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 35,
+            "deletions": 2
+          },
+          {
+            "hash": "1d86327b3f93b5dbfcf9ee936e0517134c118870",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e1e8fe6574c5e4103fb1a41eddb0abb3b88f6db1",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e94b47a8f1663bde081a435cbb5b5bf9abf3b7f8",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "196f97ba8225c97d2c43c737216686f1e4d75533",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bf090aacfc2f5418df21dd90ecc2eeeb17c9a835",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 45,
+            "deletions": 11
+          },
+          {
+            "hash": "2b2ce32b2b95914a61141c4da3417802f93faab5",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "36cf36e85689e425d7b44d95ace9e57b2c8cefe7",
+            "message": "Update shawn-t.adoc",
+            "insertions": 438,
+            "deletions": 31
+          },
+          {
+            "hash": "3d93c0337db47f596498d2e59c7603ad55c8fd89",
+            "message": "Update shawn-t.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "26ee5470df33abbeb984092e5553e198de44d203",
+            "message": "Update shawn-t.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "552eb8d752455db08497d3ff822442f89df6cd9c",
+            "message": "Update shawn-t.adoc",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "d656665f4775337e084171e939dc9ee1a35d7983",
+            "message": "Update shawn-t.adoc",
+            "insertions": 1,
+            "deletions": 168
+          },
+          {
+            "hash": "cd0462f5ba5f94e3cf452561b0530afb068b91b6",
+            "message": "Update shawn-t.adoc",
+            "insertions": 2,
+            "deletions": 104
           }
         ]
       }
@@ -1750,10 +1984,107 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 922,
+        "deletions": 329,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "b94930fa808892effd61b9dbcbd0e490a29754d8",
+            "message": "fixed all those bugs",
+            "insertions": 364,
+            "deletions": 117
+          },
+          {
+            "hash": "c4671030ddfec7c8a76cb211f84dfe520696db17",
+            "message": "Update matthiaslum.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c80c814bdc07471385b64febc3fd298b00ef7f9a",
+            "message": "added sequence diagram",
+            "insertions": 50,
+            "deletions": 29
+          },
+          {
+            "hash": "b951e916e6debb2a5c86a554c0376aa68e156c6e",
+            "message": "ApptDate section in the developer guide",
+            "insertions": 71,
+            "deletions": 11
+          },
+          {
+            "hash": "18ba3b0ae22a9295b0e68c2db1d1c91c1209f292",
+            "message": "no message",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "f090ec1ed06d7f07004c4caef8f59aa5990c1709",
+            "message": "manual testing for ApptDate and appointment command",
+            "insertions": 63,
+            "deletions": 0
+          },
+          {
+            "hash": "0358bb3ed0a975b20e5df7d87effdc6ac3401ec1",
+            "message": "no message",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "4e629af85afa99db3a78cc659a41161e72cf7b6f",
+            "message": "end of manual testing section",
+            "insertions": 80,
+            "deletions": 2
+          },
+          {
+            "hash": "362d34fbac0d7e5627345a49aea1728cc80e31cc",
+            "message": "no message",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "1dcaa5d288f20e1444c47082105f6696b604ea85",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "0952cc70b0079f676bce47c18250c382d6b4882e",
+            "message": "Update UserGuide.adoc",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "b9fdd7b57ee9241c774dbcffd93bc09193309b12",
+            "message": "Update UserGuide.adoc",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "b019e50990b1e118d6ad3f01b7d943aba3ddd4e6",
+            "message": "updated portfolio",
+            "insertions": 252,
+            "deletions": 31
+          },
+          {
+            "hash": "b30bb63276e4a3d8dd8ce2a59f66ab56c8cc2208",
+            "message": "Update matthiaslum.adoc",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "6dfee7a996150e52e0c781d4968e88b4fd16ad0f",
+            "message": "Update matthiaslum.adoc",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "1d2de7834c1ec939fa308f765110609ea7ec1a0d",
+            "message": "Update matthiaslum.adoc",
+            "insertions": 0,
+            "deletions": 115
+          }
+        ]
       }
     ],
     "WuPeiHsuan": [
@@ -2245,8 +2576,8 @@
         "commitResults": []
       },
       {
-        "insertions": 1,
-        "deletions": 2,
+        "insertions": 83,
+        "deletions": 52,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -2254,22 +2585,46 @@
             "message": "Update wupeihsuan.adoc",
             "insertions": 1,
             "deletions": 2
+          },
+          {
+            "hash": "5989b39099386a163f207d2e5522498c732d0df1",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 32,
+            "deletions": 0
+          },
+          {
+            "hash": "7f0c153fccb1db14aa0e0dceca598e16da98996b",
+            "message": "Update wupeihsuan.adoc",
+            "insertions": 35,
+            "deletions": 0
+          },
+          {
+            "hash": "c42ca89fefd5bc4c9f36ff92ed561d449dd0e024",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 14,
+            "deletions": 49
+          },
+          {
+            "hash": "0823a95999b018f406030c300b5369dce1cb37fb",
+            "message": "Update wupeihsuan.adoc",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "liguanlong": 541,
-    "shawn-t": 791,
-    "matthiaslum": 844,
-    "WuPeiHsuan": 505
+    "liguanlong": 637,
+    "shawn-t": 1103,
+    "matthiaslum": 1509,
+    "WuPeiHsuan": 551
   },
   "authorContributionVariance": {
-    "liguanlong": 172700.94,
-    "shawn-t": 3367.1875,
-    "matthiaslum": 4348.098,
-    "WuPeiHsuan": 203.77734
+    "liguanlong": 172882.9,
+    "shawn-t": 29964.78,
+    "matthiaslum": 27641.557,
+    "WuPeiHsuan": 470.48438
   },
   "authorDisplayNameMap": {
     "liguanlong": "LI ...ONG",

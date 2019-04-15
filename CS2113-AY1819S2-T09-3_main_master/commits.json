@@ -517,10 +517,17 @@
         ]
       },
       {
-        "insertions": 0,
+        "insertions": 10,
         "deletions": 0,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "76bada4315ee445f284ec01205cf2bc62205f8e6",
+            "message": "add minor changes to PPP",
+            "insertions": 10,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "gautamrajulu": [
@@ -1032,10 +1039,101 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 355,
+        "deletions": 82,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "964433e63454ad42cca617d89c8a439c88d1fe6c",
+            "message": "test for sort",
+            "insertions": 156,
+            "deletions": 1
+          },
+          {
+            "hash": "6aa7fb163ad95bc7c714485d6809fe035d19cfdf",
+            "message": "checkstyle errors",
+            "insertions": 13,
+            "deletions": 9
+          },
+          {
+            "hash": "46696fd68d8a4cd9c48b1ca678abc2a5d34e3746",
+            "message": "more changes",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "346cc99de86b46717c394a763aaf7dbefa9499f4",
+            "message": "even more changes",
+            "insertions": 5,
+            "deletions": 9
+          },
+          {
+            "hash": "43f74c41192f50b0555ef47f3fd55e4495c4f04f",
+            "message": "final? changes",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "d7e217cbbae1a51824575e8987d105857c153e78",
+            "message": "lexographic change",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1251b2a8480371d35ae152fdde6d31b06c900105",
+            "message": ".",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "a11e714548b2d705f3352af06008544fdeede5be",
+            "message": "..",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "d905d631f51a7ce71e0561d5c07a27621e69a066",
+            "message": "...",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "11a5bc566efcf13fe6d7320d39ca76517a3c64d6",
+            "message": "....",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "9273edef8c7dec24fccac439d3ad1286a3ca150d",
+            "message": "UserGuide (#204)",
+            "insertions": 145,
+            "deletions": 42
+          },
+          {
+            "hash": "85b8a0984da2693c146281d2120d2a6bcc4dfbee",
+            "message": "added manual testing",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "674d9c1a1d2ac3a0702888298854f1a952ce3709",
+            "message": "added reposense link",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "a711a618a05b14233dc74bfced3892bb1af5fe63",
+            "message": "RJ link",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a44e915c4389f6bddf43a4ce65bd2be66d4efc97",
+            "message": "PPP legend",
+            "insertions": 8,
+            "deletions": 3
+          }
+        ]
       }
     ],
     "josephinetanadi": [
@@ -1643,7 +1741,7 @@
         ]
       },
       {
-        "insertions": 1,
+        "insertions": 11,
         "deletions": 1,
         "date": "2019-04-14",
         "commitResults": [
@@ -1652,6 +1750,12 @@
             "message": "PPP: update app layout",
             "insertions": 1,
             "deletions": 1
+          },
+          {
+            "hash": "ab4047a025c3e711fdfbb61420437e892beebdc1",
+            "message": "PPP: update icons section",
+            "insertions": 10,
+            "deletions": 0
           }
         ]
       }
@@ -2350,10 +2454,29 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 96,
+        "deletions": 46,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "39df48e93a294fa8c1f47cd2337770102093c8d0",
+            "message": "Update UG to v2.0 (#202)",
+            "insertions": 74,
+            "deletions": 26
+          },
+          {
+            "hash": "f1b28f5b0dfbdedae66a88f4861e32ca14df6b13",
+            "message": "update numbering for figure (#208)",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "335dd20f1892f13e01c5bcc3b97223c3c663377e",
+            "message": "update ppp (#210)",
+            "insertions": 17,
+            "deletions": 15
+          }
+        ]
       }
     ],
     "andreathniah": [
@@ -3108,26 +3231,75 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 88,
+        "deletions": 40,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "414f4fc4da40c9c9c7cefe1c6f1134c303b0e1f1",
+            "message": "PPP: fix broken image link",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "463d9aa9f0e773ab44d4bf4cea473235cb3a1e94",
+            "message": "Documentation: update guides with icons\u0027 meaning",
+            "insertions": 46,
+            "deletions": 6
+          },
+          {
+            "hash": "97732dadf6af44a0e0c675bbe13c6e4f118dffb1",
+            "message": "ghPages: remove unnecessary navigation bar and other minor fixes",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "41407f56e49e09b889e7625279e504b08a7aac4a",
+            "message": "UserGuide: update application layout",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "14caf9315743e03d71abbab4b012a47462c983d2",
+            "message": "fix duplicate task name",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "4a41af2780e7bf104a548d8bbf8515783d9737df",
+            "message": "change typicalTask to have same details as typicalProject",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "f7110e899cbcf404c5eb0d7fcb741e6476f09ab9",
+            "message": "fix failed test cases on other commands",
+            "insertions": 9,
+            "deletions": 7
+          },
+          {
+            "hash": "a8a44cd2cc847f369eac9e5a982f583e37ed444a",
+            "message": "fix travis error",
+            "insertions": 8,
+            "deletions": 6
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "rachellim10": 634,
-    "gautamrajulu": 233,
-    "josephinetanadi": 4943,
-    "arhjaye": 2034,
-    "andreathniah": 5947
+    "rachellim10": 641,
+    "gautamrajulu": 531,
+    "josephinetanadi": 4953,
+    "arhjaye": 2084,
+    "andreathniah": 6009
   },
   "authorContributionVariance": {
-    "rachellim10": 2339.7031,
-    "gautamrajulu": 967.73627,
-    "josephinetanadi": 227232.88,
-    "arhjaye": 167525.28,
-    "andreathniah": 2032676.4
+    "rachellim10": 2335.5764,
+    "gautamrajulu": 3779.75,
+    "josephinetanadi": 227183.42,
+    "arhjaye": 167348.02,
+    "andreathniah": 2031950.5
   },
   "authorDisplayNameMap": {
     "rachellim10": "RAC... YU",

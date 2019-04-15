@@ -744,10 +744,72 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 194,
+        "deletions": 77,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "09c0f00b9c3361a34bd1d2046aea37f0b301af7a",
+            "message": "Update documentations",
+            "insertions": 146,
+            "deletions": 44
+          },
+          {
+            "hash": "e1ca172e0bfcb6ae7a6bd88d4f15531c4c233e30",
+            "message": "Update PPP",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "72f0da6b8065fc84ae9294884defc9cd45fb353c",
+            "message": "Add code summary to PPP",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "4d31dddbd47f9120bb0fbd28200d8d9a1699d412",
+            "message": "Minor PPP change",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "dd27899fbda95473a05aeb96038a54bdfb1dd45f",
+            "message": "Update PPP and minor fix",
+            "insertions": 14,
+            "deletions": 3
+          },
+          {
+            "hash": "37c168983fa7281061ab33f50e9edfbdcc1b35c2",
+            "message": "Minor code change",
+            "insertions": 22,
+            "deletions": 14
+          },
+          {
+            "hash": "9d07f243e5bf36a5c33c8cfe9ef7aebea4260ad5",
+            "message": "Fix checkstyles",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "e6748c52f29eafb5a255eb3c5630369317de18dc",
+            "message": "Update screenshot",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 1,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "fe2b25acfa539870e8f24da0520a237d2c91e773",
+            "message": "Add file making",
+            "insertions": 8,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "ssunil3232": [
@@ -1584,6 +1646,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
         "commitResults": []
       }
     ],
@@ -2769,8 +2837,8 @@
         "commitResults": []
       },
       {
-        "insertions": 104,
-        "deletions": 157,
+        "insertions": 109,
+        "deletions": 162,
         "date": "2019-04-13",
         "commitResults": [
           {
@@ -2790,13 +2858,110 @@
             "message": "formatting updates to shanseet PPP",
             "insertions": 18,
             "deletions": 27
+          },
+          {
+            "hash": "8e00f7581b2bc25956a1dd9a90e5a4e56ce2a3d9",
+            "message": "add \u0027logic +\u0027 in about us",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c882107b53685be0b5e2f1ecd2a838cdc66acc30",
+            "message": "fix typos",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 218,
+        "deletions": 197,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "8e68e1c907ce0276a12c4804b0b1b957c82c78d8",
+            "message": "remove unnecessary list of groups from House class",
+            "insertions": 2,
+            "deletions": 41
+          },
+          {
+            "hash": "745fb369f43b535b03c2a382c2d6a8b6a9cebfe6",
+            "message": "add diagram to dev guide, rearrange info a bit",
+            "insertions": 24,
+            "deletions": 11
+          },
+          {
+            "hash": "5fe17e06c291ce2f2bcaeac3e2d85de7e4435216",
+            "message": "change uniquepersonlist and filteredpersons to participant",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "cf9925c427a32c83ce829fd1e27e1189151f9364",
+            "message": "change design considerations to table format",
+            "insertions": 77,
+            "deletions": 75
+          },
+          {
+            "hash": "0d31109431fdf02e868fa7af9727cc7999cda542",
+            "message": "standardising language",
+            "insertions": 47,
+            "deletions": 23
+          },
+          {
+            "hash": "14cfc4d7b07427cfcdfa0bd1173f01a42a2ad619",
+            "message": "changes to DG formatting",
+            "insertions": 16,
+            "deletions": 10
+          },
+          {
+            "hash": "c1a2aed3bbfa3629f07034660f9022c9b5f7c974",
+            "message": "create separate function in editgroupcommand for abstraction",
+            "insertions": 10,
+            "deletions": 3
+          },
+          {
+            "hash": "12ed1ecee9bbd699c29fa95a1e5afc8859d05946",
+            "message": "create separate function in add functions for abstraction",
+            "insertions": 12,
+            "deletions": 7
+          },
+          {
+            "hash": "9a8aa2d7da39cb5a0a8f65283a8f4024faabf819",
+            "message": "add editgroup seq diagram",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "d1d4651a15ca37c9c064881086badf601ce801a8",
+            "message": "add edit group command diagram into dev guide",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "e9bb66b71bbe456172bc74ba0ba226df7d8f64b5",
+            "message": "remove unused import",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "348985b4b71af44a0917c5ead7dde889184a098b",
+            "message": "quick update to shanseet PPP",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "354ca3254f98aa51cb7f1efd9351a23a9fcba71f",
+            "message": "update shanseet PPP to fit 10 page limit",
+            "insertions": 6,
+            "deletions": 11
           }
         ]
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-14",
+        "date": "2019-04-15",
         "commitResults": []
       }
     ],
@@ -4053,8 +4218,8 @@
         ]
       },
       {
-        "insertions": 13,
-        "deletions": 8,
+        "insertions": 135,
+        "deletions": 111,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -4074,22 +4239,221 @@
             "message": "refactor person to participant",
             "insertions": 3,
             "deletions": 3
+          },
+          {
+            "hash": "3dbcbaf7e1ed4afe44fe605b154d31046072fb06",
+            "message": "added comment for valid DOB check",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "055d66ce6367ff7c15503fc588a873df6c0448a8",
+            "message": "implemented birthday check where not undergrads are older than 50 y/o",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "66ff4e15896a56c2d55abbab213abdd1fa7c7312",
+            "message": "corrected DOB data to be of valid year",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "72476ac1110318843b3cc2462a69e1a0bcb7c614",
+            "message": "updated Value to include MAX_AGE",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "382fa7bb7a75ef409e7aa6d2c773bea228c87f99",
+            "message": "corrected typo",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b9efac8023103db1ed1ae07ab100506ef97169b7",
+            "message": "cleaning and optimizing of randomize algorithm",
+            "insertions": 42,
+            "deletions": 58
+          },
+          {
+            "hash": "0284a6cac03b92119547bbb242e0783b511b5ef4",
+            "message": "updated README",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "005af4a4a3e19c9440b2e620239b082f446a1662",
+            "message": "updated UserGuide for randomize feature",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "40680a27ec93b59721e601682ab87dc34170eaf9",
+            "message": "updated UserGuide for randomize feature",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "0236e096bffd1cf297f4c43204a968747c9d8a3b",
+            "message": "updated UserGuide for randomize feature",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "6feb07c93332d724c2179e834cbfecf297b32158",
+            "message": "updated UserGuide for randomize feature",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "bbbf43b1fc9249e61d1097a00be4cd87fc26397c",
+            "message": "updated UserGuide for randomize feature",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c28b98e6c60f19949926d4557abbde8533bb4269",
+            "message": "updated UserGuide for randomize feature",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "16443b87f935f5779b2669aa3fc991b78d3e387f",
+            "message": "updated UserGuide for randomize feature",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "403320f9e57500fa651e7cced0ec81b3e315d511",
+            "message": "updated UserGuide for randomize feature",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a7fc832019e2b6f3a2688cce53d9c878dfba95d6",
+            "message": "updated name for JAR file",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6200fee1be35073ab1f9ed890a411450a96eff85",
+            "message": "updated name for JAR file after build",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "17fda0286417d6f0171212fda0545cef616d194b",
+            "message": "fixed specific duplicate message based on context of object",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "9e264d6479434751981961d0b34333c73f1d1d0f",
+            "message": "fix style check",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "12ba8214b3446e1582f70bea94c0e618277dcc60",
+            "message": "moved randomize AD to correct location",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "521567516c85123870120de77ff93c680ff49b6b",
+            "message": "updated DG for randomize feature",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "fbf638628788b16205e641acc5cf508022510674",
+            "message": "updated DG for randomize feature",
+            "insertions": 9,
+            "deletions": 5
+          },
+          {
+            "hash": "5000f1ff885b5815ea5ce19cc4bc5ead9d35d8d2",
+            "message": "fix style check",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f57501b79d9404a13e66e5b24fda0ce002786271",
+            "message": "updated PPP",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "20d82d4f0fd0d096ddf0509b22a406bee4712a3b",
+            "message": "updated PPP",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 19,
+        "deletions": 10,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "30cd2c5796f6a01349a3808ccb40cf63d34515b0",
+            "message": "fixed DG and updated randomized SD",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7b8032132c52c29c8b620368b5f34743392f019a",
+            "message": "updated PPP",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "8c325eee11b405b92f25c99c56d3536f636ce3a5",
+            "message": "updated README",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b9dd767f4f09f6383f6f5eac38a86f4d147e7cd2",
+            "message": "updated PPP",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "cb8f691810b444841cf63fb4c29643a4613fab28",
+            "message": "updated PPP",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "646676499cf06193dbb2614098fe9f1a8d90250e",
+            "message": "updated PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ffa1dc61a5ae5dd0a40adf023c63064ed8d33f76",
+            "message": "updated PPP",
+            "insertions": 2,
+            "deletions": 0
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "tantantan277": 2873,
-    "ssunil3232": 1448,
-    "shanseet": 3094,
-    "weizhang05": 3073
+    "tantantan277": 3003,
+    "ssunil3232": 1348,
+    "shanseet": 3177,
+    "weizhang05": 3051
   },
   "authorContributionVariance": {
-    "tantantan277": 60717.406,
-    "ssunil3232": 17110.957,
-    "shanseet": 50049.984,
-    "weizhang05": 225145.22
+    "tantantan277": 60284.246,
+    "ssunil3232": 16885.44,
+    "shanseet": 50879.88,
+    "weizhang05": 221824.69
   },
   "authorDisplayNameMap": {
     "tantantan277": "PHA...TAN",

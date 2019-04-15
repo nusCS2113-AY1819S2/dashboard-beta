@@ -1049,8 +1049,8 @@
         ]
       },
       {
-        "insertions": 4,
-        "deletions": 2,
+        "insertions": 100,
+        "deletions": 88,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -1058,6 +1058,60 @@
             "message": "Update PPP",
             "insertions": 4,
             "deletions": 2
+          },
+          {
+            "hash": "ecd6c94ecc9f8b399e4b32cd6be5d6ee7e982567",
+            "message": "Update SampleDataUtil to fix crash on initial startup",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "247bd493d502f6303e8a2827d5708a95b6cea1ca",
+            "message": "Fix command not usable if logged in as admin without user account created Update isSameTask",
+            "insertions": 20,
+            "deletions": 28
+          },
+          {
+            "hash": "6194225bf520dd29e4ca77cbbd9d089875e34516",
+            "message": "Update tests",
+            "insertions": 28,
+            "deletions": 11
+          },
+          {
+            "hash": "12b3714b9bc178e91e11ab703de057320fabf5bb",
+            "message": "Remove unused imports",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "6ec08b54984093e5b646ca2ae2ff7e6570c9976b",
+            "message": "Fix test",
+            "insertions": 11,
+            "deletions": 10
+          },
+          {
+            "hash": "2e31edef347b64018b13c2824da33148cad758f7",
+            "message": "Update PPP",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "a37b21493816ee7b157dbc090c79164098cd9c33",
+            "message": "Update PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0cfef514d544a627937a0806f1d317f466a8a57f",
+            "message": "Update PPP",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "25d6973d25d345a0b5b92fb31bccf40b43822d92",
+            "message": "Fix admin permissions",
+            "insertions": 16,
+            "deletions": 16
           }
         ]
       }
@@ -1894,10 +1948,161 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 711,
+        "deletions": 133,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "361e086664e84fc612154f69e423c3e39097724f",
+            "message": "Added tests for add notes and delete notes",
+            "insertions": 535,
+            "deletions": 7
+          },
+          {
+            "hash": "1307cd802906a01eacc074041fc70244300062bf",
+            "message": "Fix checkstyle issues",
+            "insertions": 56,
+            "deletions": 51
+          },
+          {
+            "hash": "7bd1b34dd77dbf7651f03fd5d6df3a57b8486d00",
+            "message": "Fix more checkstyle errors",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "f8070db99b21f86b58b0b6db2ce5a3fbc2291cb4",
+            "message": "Checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "988645fa5487167d168ebe2cccdd89c9d28a8873",
+            "message": "commented out check",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "560460407482cc2939b85b1ff6938f34c5a73c96",
+            "message": "fix checkstyle error",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b1697bf3bfba65a186c09878328255ab4bbd8940",
+            "message": "Added notes storage for V2.0",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "ae1ce7f5fbb3308a0c93a17b864a1ee2326153a2",
+            "message": "Updated value proposition and user stories",
+            "insertions": 27,
+            "deletions": 33
+          },
+          {
+            "hash": "bdb7792631db83d657d77c3f26801aafaff652c6",
+            "message": "Added coming soon and command summary",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "bc34dd3e8d693696cd2a496a6cdc9e976b898af9",
+            "message": "Update UserGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "2897383b5fb9b16ab1e96723fcb44030378e19c9",
+            "message": "fixed delete note in command summary",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "170dde0c68191f8da3c88b2beaa863c25631336d",
+            "message": "fix trailing white space",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d482a110ddf451168e9c3c951834aedf2dda104e",
+            "message": "Update shengkok.adoc",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "244403416bcd602b92c6f70f054f6fbf83414056",
+            "message": "Update shengkok.adoc",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "14d9e9134233f84c14fac68a55bef98290b2f03d",
+            "message": "change notes feature diagram sizes",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "8c238719d5580ac6be35e6751b1ad1ea4724b8ac",
+            "message": "Change sizes of notes diagram",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1cb2c84cb9bd8a3e0d082c6f6d79022124d2b8ca",
+            "message": "Change sizes of notes diagram",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "513bbacedd3c4bb6d024d0fd1e2a6ef8376f5b46",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "53ee34892a1b52f7d35d1ae22abde11cfde5dfde",
+            "message": "Fine tuning sizes of notes diagram to fit ppp",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "fd72c36daaef3757fc21ea3c70fb65362bf2a950",
+            "message": "Removed \"Other projects\" due to space constraint",
+            "insertions": 0,
+            "deletions": 10
+          },
+          {
+            "hash": "413bc46e2abffc99786cb186276880470dce657e",
+            "message": "Change deletenotes diagram",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "88d24cb86484c278627404b88ee03d87ead15bcd",
+            "message": "Shorten sentences",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d70229733d88964aff0d41377395de8c10ac2a46",
+            "message": "Fixed spelling errors",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "218d6300ddd4c285cf2bc04df3838e1d3e1c1340",
+            "message": "Add use cases for notes",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "3e0dd044cd78197203f65cc6fd60daeac9ee73e4",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "khairulhazril": [
@@ -2746,8 +2951,8 @@
         "commitResults": []
       },
       {
-        "insertions": 106,
-        "deletions": 238,
+        "insertions": 2392,
+        "deletions": 1932,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -2761,6 +2966,168 @@
             "message": "Edit to comply with travis",
             "insertions": 3,
             "deletions": 8
+          },
+          {
+            "hash": "fb545dddee227c5306bdf5fa686c1d0666f819e9",
+            "message": "Edit code to state that task is due today instead of overdue",
+            "insertions": 15,
+            "deletions": 2
+          },
+          {
+            "hash": "26a53c90a747170ea10e0c9841ab4c256f89d6f7",
+            "message": "Update UG Edit test cases",
+            "insertions": 105,
+            "deletions": 0
+          },
+          {
+            "hash": "202185624307f47a511128b60b749bad82fa86d5",
+            "message": "Update UG Edit test cases to pass",
+            "insertions": 1403,
+            "deletions": 1263
+          },
+          {
+            "hash": "1bf393cfe15bb51bd786bc161ea77acf474fe20b",
+            "message": "Edit for checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "622066dffdd1c0da178f18b4f0f1d7435a7791fe",
+            "message": "Comment AddCommandSystemTest out",
+            "insertions": 253,
+            "deletions": 253
+          },
+          {
+            "hash": "a2da5cc945a8b0105fa5dd34e64054cb2629c70d",
+            "message": "Edit test cases",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "39b911f7b84c7e7bfedf05ed80265b1a614942d5",
+            "message": "Update DG",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "5795e48db2a913d6178f7edf10a49c4b7c971582",
+            "message": "Edit sample data",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "31bd7546204d0af12998d7a3db0d7315bc8b08bd",
+            "message": "Edit DG",
+            "insertions": 12,
+            "deletions": 9
+          },
+          {
+            "hash": "882cb50fcb94efccf8969d5a9ece28e5089ac5fa",
+            "message": "Update DG and PPP",
+            "insertions": 10,
+            "deletions": 2
+          },
+          {
+            "hash": "eeda09044701b28ef54bc43d4dd6be01bc95609b",
+            "message": "Update DG and PP Add TaskClassDiagram",
+            "insertions": 18,
+            "deletions": 6
+          },
+          {
+            "hash": "5439f0060b07f086a107640a5118d6fd0d38a1a8",
+            "message": "Add proposed delete overdue feature",
+            "insertions": 17,
+            "deletions": 6
+          },
+          {
+            "hash": "8c3a4dc7d9f48a1c19d404fae3cd0864b8ab7fd5",
+            "message": "Standardise UG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bb17c766cf01f3bfff4249d7bf2bec1c1b7892f5",
+            "message": "Standardise UG",
+            "insertions": 30,
+            "deletions": 29
+          },
+          {
+            "hash": "794ba67ecd46763925b9a1366add3fb778d613ef",
+            "message": "Edit UG",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "1155b5054290a390433bb89deea8a678dd0cb691",
+            "message": "Update PPP",
+            "insertions": 173,
+            "deletions": 6
+          },
+          {
+            "hash": "1c9a43270974cc1f369f7de6cc778bd7c90a9695",
+            "message": "Edit test case",
+            "insertions": 71,
+            "deletions": 50
+          },
+          {
+            "hash": "ab6a3c803a60d745e815bcc09159b09739f9f6b4",
+            "message": "Edit PPP",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "9056ef13e44c3f7dd3e149985be2db90e16e4f21",
+            "message": "Update DG",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "d41719f74083729a543b53cc3e8a0a9e6e8e6a78",
+            "message": "Update PPP",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "e2b1c8081e56bdd96874b8dc08c8e80aa9c0b3ee",
+            "message": "Update user stories",
+            "insertions": 10,
+            "deletions": 14
+          },
+          {
+            "hash": "d1121b22daa2bbbea0120ccd6acb910c280325ed",
+            "message": "Add Alias for sort parameters and update UG",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "726b423a108574ad0a9770deb5ca31b873bbacc5",
+            "message": "Update PPP",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "3e5dc6a99c38cdd506ab45b05c44093fda245a74",
+            "message": "Fix typo",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "3e762e0eda3f6045b9726ca531d27a117859697c",
+            "message": "Edit DG",
+            "insertions": 116,
+            "deletions": 20
+          },
+          {
+            "hash": "050b5bad2b2b2d46402a3e807822af828ab5d8a3",
+            "message": "Reformat DG",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "bad11b575b95c4e4f878a59f3a23b61876fbca0a",
+            "message": "Standardise UG",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       }
@@ -3272,15 +3639,15 @@
     ]
   },
   "authorFinalContributionMap": {
-    "Justin-Ong": 1522,
-    "Shengkok": 1705,
-    "khairulhazril": 6935,
-    "nicholasleeeee": 287
+    "Justin-Ong": 1503,
+    "Shengkok": 2269,
+    "khairulhazril": 7373,
+    "nicholasleeeee": 3523
   },
   "authorContributionVariance": {
-    "Justin-Ong": 14410.407,
-    "Shengkok": 10960.788,
-    "khairulhazril": 5409423.5,
+    "Justin-Ong": 14604.75,
+    "Shengkok": 20804.02,
+    "khairulhazril": 5631562.0,
     "nicholasleeeee": 23374.125
   },
   "authorDisplayNameMap": {

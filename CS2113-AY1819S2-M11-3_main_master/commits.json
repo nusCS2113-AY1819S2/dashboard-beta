@@ -1116,8 +1116,8 @@
         ]
       },
       {
-        "insertions": 150,
-        "deletions": 152,
+        "insertions": 218,
+        "deletions": 213,
         "date": "2019-04-13",
         "commitResults": [
           {
@@ -1161,6 +1161,127 @@
             "message": "Updated formatting in User Guide",
             "insertions": 6,
             "deletions": 7
+          },
+          {
+            "hash": "d6821ca8314a1dfb1111a4cd152a518438040989",
+            "message": "DeveloperGuide: Updated \"Quizzing by Subject\" section",
+            "insertions": 44,
+            "deletions": 39
+          },
+          {
+            "hash": "d60e7b4e2246c97263113776ba3a6991b48e4638",
+            "message": "Developer Guide: Fixed mistakes and formatting",
+            "insertions": 19,
+            "deletions": 19
+          },
+          {
+            "hash": "82348dcb721936b7f9c73ebd3746557fa82e4a30",
+            "message": "Developer Guide: Fixed typo",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b7251917283ecfee5c6278d3d771a80d69dd8e6a",
+            "message": "Updated AboutUs.adoc",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 285,
+        "deletions": 253,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "e2c4dfb9f656643de53f62bb124bf1b0e94ed529",
+            "message": "Developer Guide: Updated and fixed mistakes",
+            "insertions": 100,
+            "deletions": 76
+          },
+          {
+            "hash": "72a918d78d7694466684e92be728cd02b6bbc189",
+            "message": "Developer Guide: Fixed formatting",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "6d935bce17e8eb2f59fa0fbbdec57c5c3b721200",
+            "message": "Developer Guide: Fixed formatting",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "a351916ba17b15e662b414d2c8becb6b2faa569d",
+            "message": "Developer Guide: Fixed formatting",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "58e3241129c20e2f726d74c056ade5ff3548914c",
+            "message": "Developer Guide: Updated UI image",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "aea60aec58f27cf15c36e41abf000495c3822f9f",
+            "message": "Fixed formatting and spelling errors",
+            "insertions": 39,
+            "deletions": 37
+          },
+          {
+            "hash": "ef406c17280161028b668efefcea88a0cb207bd1",
+            "message": "Updated PPP",
+            "insertions": 74,
+            "deletions": 38
+          },
+          {
+            "hash": "be9e8fb087287c629f828482b752dba8d0d6459c",
+            "message": "Fixed mistakes in PPP",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "1739400f0adf2e8ecc0aa00fb9bb7210c0c01883",
+            "message": "Fixed punctuation and spelling errors in PPP",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "9176fc74433b7b24038dd71482768bb1a0cd2746",
+            "message": "Fixed errors in PPP",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b891e6e131ebb5b9cde28d52b636ebd28f037097",
+            "message": "Fixed punctuation and mistakes in PPP",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "4512f34a9ca8f7f4e086bac38ed58023372ef124",
+            "message": "Updated Developer Guide",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "cde9bd72c67e17849fc597578fba934cba7f6a71",
+            "message": "Updated User Guide",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "0abed03854bb501391e6fcf47b774c1f30fee3cf",
+            "message": "Updated Developer Guide",
+            "insertions": 36,
+            "deletions": 45
+          },
+          {
+            "hash": "91f45513656a336f91ef4b97db5115733c84fca5",
+            "message": "Updated User Guide",
+            "insertions": 0,
+            "deletions": 24
           }
         ]
       }
@@ -1700,6 +1821,145 @@
         "deletions": 0,
         "date": "2019-04-13",
         "commitResults": []
+      },
+      {
+        "insertions": 544,
+        "deletions": 642,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "eebc1e08fce0a230bcda428a945833b7b8bac3cb",
+            "message": "ListCommand resolved",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9f1b4105a143de75217afd300a9ea716ce35dcb5",
+            "message": "FindCommand Resolved",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "86c296d9990d4a9dfa93cbd5cd86a6fd500c3f19",
+            "message": "next command resolved",
+            "insertions": 10,
+            "deletions": 3
+          },
+          {
+            "hash": "48b4a68b384c2d0150dab67efbdac8074283c465",
+            "message": "previous command resolved",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "44cff95cbb01b5725b09e52b2721f74d0b64f577",
+            "message": "Select Command only works after select Subject",
+            "insertions": 17,
+            "deletions": 5
+          },
+          {
+            "hash": "04bbd22af9379dc0f694baf1b73ded548237d1d1",
+            "message": "Added getter for selected Subject",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "669b88a0340c1f6cedb8883758cdb92e2fb0a8e1",
+            "message": "Enable null for access to getFilteredFlashcardList",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "6d2e9a57048116506f39befc06673e3fadad8a35",
+            "message": "Added necessary functions in model manager",
+            "insertions": 18,
+            "deletions": 3
+          },
+          {
+            "hash": "a1120d9b679a4502541f3d4338a9d9f0f838cb00",
+            "message": "Sort Resolved",
+            "insertions": 7,
+            "deletions": 5
+          },
+          {
+            "hash": "00eb2558495c7ba208552e608b7df73eafb7618d",
+            "message": "Edited UserGuide",
+            "insertions": 35,
+            "deletions": 90
+          },
+          {
+            "hash": "ae4d92fab948eca95bda5764b5d760d5de47ca0a",
+            "message": "updated dev guide",
+            "insertions": 63,
+            "deletions": 54
+          },
+          {
+            "hash": "013393034ad991c65c5736b596715a41c1c9f70c",
+            "message": "Updated Dev Guide with use cases and stories",
+            "insertions": 44,
+            "deletions": 0
+          },
+          {
+            "hash": "4785a35ad85a3d02adf3c06edfe882cc5c80a258",
+            "message": "Amendments to pass checkStyle",
+            "insertions": 15,
+            "deletions": 140
+          },
+          {
+            "hash": "93fe9968e3ae2870a73c283fad592212e6f43b30",
+            "message": "PPP update",
+            "insertions": 6,
+            "deletions": 2
+          },
+          {
+            "hash": "d7cb850c738f5f22f2851ab0063b2af44e62d1ba",
+            "message": "no message",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "158d27ee360ae989fcf92d7fa8d4bea15a94ea5b",
+            "message": "updating and creating test",
+            "insertions": 131,
+            "deletions": 72
+          },
+          {
+            "hash": "53187a0270fd7518cbe216b8a78effe5700c3b90",
+            "message": "new changes",
+            "insertions": 111,
+            "deletions": 216
+          },
+          {
+            "hash": "2c037ea8f8b53a30fa8a63826b3ae3e5e9e3aca9",
+            "message": "Updated",
+            "insertions": 12,
+            "deletions": 10
+          },
+          {
+            "hash": "d92e8896645ed62463c8f4b72255376f9000d2ff",
+            "message": "Update AboutUs.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "18510c61254bb55ea63f67efdd3b7219e48b594e",
+            "message": "update Jemine1998.adoc",
+            "insertions": 12,
+            "deletions": 3
+          },
+          {
+            "hash": "a8be47bd921b9d5e5b88b0ce484b15a53a85de82",
+            "message": "updated documentation",
+            "insertions": 15,
+            "deletions": 33
+          },
+          {
+            "hash": "7a2046988061fb01e3aac2eea6cde615af5c166e",
+            "message": "Update UserGuide.adoc",
+            "insertions": 30,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "dannong": [
@@ -2807,8 +3067,8 @@
         ]
       },
       {
-        "insertions": 33,
-        "deletions": 22,
+        "insertions": 178,
+        "deletions": 38,
         "date": "2019-04-13",
         "commitResults": [
           {
@@ -2816,20 +3076,165 @@
             "message": "Update GUI",
             "insertions": 33,
             "deletions": 22
+          },
+          {
+            "hash": "f80c7c35923fa993f334f3bdadd62558eb907d62",
+            "message": "GUI updates (Display of only topic or content at a time)",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "bedb41d8660ce96de0e6742d272978b98e3960d7",
+            "message": "GUI buttons update + Display Message",
+            "insertions": 131,
+            "deletions": 14
+          },
+          {
+            "hash": "405bbe0652608b7fb82c9961fd75f035a9b38004",
+            "message": "Added MnemonicParsing for Buttons",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 478,
+        "deletions": 397,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "fd45b6ba94d4ff775138879347f7e7b41b4d3ff7",
+            "message": "Changed font size of the right panel display",
+            "insertions": 27,
+            "deletions": 27
+          },
+          {
+            "hash": "240c1c2a713e630059b97a875785dd0264439635",
+            "message": "GUI font updates",
+            "insertions": 2,
+            "deletions": 7
+          },
+          {
+            "hash": "ec9200b742ab8908ec55ae5680b7fad5a74bce29",
+            "message": "Remove Content Label in FlashcardCard",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "57aa70dee0c41f8551fad8269df8a81c7e5cfd78",
+            "message": "Add Difficulty Level before Difficulty",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7952e5faf3a9a0a3068d22542fca4cbbdc904c3b",
+            "message": "Fix tests",
+            "insertions": 63,
+            "deletions": 48
+          },
+          {
+            "hash": "b07cb42f796db00089f9e8d2401cad59ad906398",
+            "message": "Upgrade Deadline",
+            "insertions": 79,
+            "deletions": 7
+          },
+          {
+            "hash": "21668f6d451d8f705ef8c0d43aed634e47efafad",
+            "message": "Update Deadline Command",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "0d3b7be0448d89aec63832f95cd968bbad13bcd9",
+            "message": "Update Deadline Command 2",
+            "insertions": 7,
+            "deletions": 79
+          },
+          {
+            "hash": "7c5c81bf07d06b1ed6fdf292713d8ee39fcfe0e9",
+            "message": "Fix checkstyle",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "9eb4ddc6776858ddb0b7b978bfc6b9ca09a46751",
+            "message": "Add Note Alias to Deadline Command",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "32bcb78b36e469a7316ad40e2b6a349deec6473e",
+            "message": "Add deleteSubject Command",
+            "insertions": 118,
+            "deletions": 2
+          },
+          {
+            "hash": "9582ad864eae7b809ad09b42e7dc86c0465b06ab",
+            "message": "Update README, UG with UIFINAL.png",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f46ff2b72a38cb1fbdab3c1ce243d6ed49859558",
+            "message": "Update Developer Guide",
+            "insertions": 56,
+            "deletions": 46
+          },
+          {
+            "hash": "9880ccea4a0add5678c736ffc522e99c09cf60f4",
+            "message": "Update Developer Guide",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "2271e5114d5f58ac3fb355c84ae3c74a67f88ebe",
+            "message": "Update Developer Guide, User Guide, PPP",
+            "insertions": 79,
+            "deletions": 144
+          },
+          {
+            "hash": "5c75303c2e26b81b77c844f498e141fb991a4430",
+            "message": "Fixed Checkstyle",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "9a3d65c193c42c42c87e5992b4992fc99e172f5d",
+            "message": "Update README with code acknowledgements",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "984bec70e1eba1b9c0cbcdac16fa971584834265",
+            "message": "Update dannong.adoc",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "c8e9b9e68e82caff695d1d9e53851dc78c29963d",
+            "message": "Update dannong.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "858d2fdb88bf0f214e57b4ada4171ce46d9e1256",
+            "message": "Update dannong.adoc",
+            "insertions": 4,
+            "deletions": 4
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "wanchinglim": 3170,
-    "jemine1998": 1310,
-    "dannong": 4596
+    "wanchinglim": 3144,
+    "jemine1998": 1368,
+    "dannong": 4889
   },
   "authorContributionVariance": {
-    "wanchinglim": 246782.66,
-    "jemine1998": 10534.197,
-    "dannong": 681263.2
+    "wanchinglim": 245367.62,
+    "jemine1998": 30591.924,
+    "dannong": 676813.94
   },
   "authorDisplayNameMap": {
     "wanchinglim": "LIM...ING",

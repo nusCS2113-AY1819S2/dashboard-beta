@@ -896,10 +896,131 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 730,
+        "deletions": 280,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "0a3c93e4ffeddc1b92239661111378ec4bcfa75a",
+            "message": "Update UG",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "ec7b75817c0ba847a10ef5fbdc432dcf6b1acdab",
+            "message": "update UG",
+            "insertions": 94,
+            "deletions": 4
+          },
+          {
+            "hash": "9774688aeddebb990871a5023e7bba4c6c27c552",
+            "message": "Update UG2",
+            "insertions": 33,
+            "deletions": 8
+          },
+          {
+            "hash": "2a40105a7e0d4f41815d4b05a26ecce2b7d07233",
+            "message": "update UG3",
+            "insertions": 12,
+            "deletions": 4
+          },
+          {
+            "hash": "ad8c6b01c13a2e48d63f3379573fc0f0f2aa4e02",
+            "message": "UG",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "d131c06d5409595777b973666b3539b13fb2a737",
+            "message": "UG 3",
+            "insertions": 20,
+            "deletions": 7
+          },
+          {
+            "hash": "fc3ed2dab131d8a987b620ef2c07e1ca8085717f",
+            "message": "UG4",
+            "insertions": 5,
+            "deletions": 11
+          },
+          {
+            "hash": "e9a3d65f49d425655ddfc86f32bc24c9e0559a1c",
+            "message": "DG",
+            "insertions": 23,
+            "deletions": 0
+          },
+          {
+            "hash": "a159938905b05db81ad43d36f8688c961c5f59aa",
+            "message": "Update DG",
+            "insertions": 37,
+            "deletions": 8
+          },
+          {
+            "hash": "8721809d167f2732b6b9171a2e42a359f2483ceb",
+            "message": "DG 2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cd33eb8ec8dc12dbda38eb14a1dc2cbd8051550e",
+            "message": "DG3",
+            "insertions": 10,
+            "deletions": 8
+          },
+          {
+            "hash": "b00cf78efd57aa55165a4e3127df7a5b288f257e",
+            "message": "Update DG",
+            "insertions": 53,
+            "deletions": 24
+          },
+          {
+            "hash": "241a037b971aa441c286c89d9d4394845be6eeec",
+            "message": "DG",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "7b79acbae046eca9c9d525cee14bb060df25c870",
+            "message": "Update PPP",
+            "insertions": 386,
+            "deletions": 27
+          },
+          {
+            "hash": "31dc50e8afbea1f792d5d9b254c017630543bf11",
+            "message": "ppp",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "16a2f24ba3c1ff940023c826b9494a191043394b",
+            "message": "DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ebb4c0b04d0c939c57324fa02f6e5bd3aa59e71d",
+            "message": "PPP2",
+            "insertions": 17,
+            "deletions": 24
+          },
+          {
+            "hash": "e86293b0f164d4b3b68a21296432e4aff2eec36b",
+            "message": "test",
+            "insertions": 1,
+            "deletions": 11
+          },
+          {
+            "hash": "fd8ad7025b483661970499897d71cfffaff52fdf",
+            "message": "ppp3",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "bb8d617d86ed3eb877a031c6dbaf2759a53ae605",
+            "message": "PPP",
+            "insertions": 0,
+            "deletions": 128
+          }
+        ]
       }
     ],
     "cheahzk": [
@@ -2376,10 +2497,23 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 5,
+        "deletions": 4,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "370f03b51fc07c97065176da6df15d5f5aeb1700",
+            "message": "Bug fix for valid date check",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "4d7f19d05081a45aa0b75d15328f44db51c3fa8e",
+            "message": "Travis fix",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
       }
     ],
     "jingchen-z": [
@@ -3565,8 +3699,8 @@
         ]
       },
       {
-        "insertions": 52,
-        "deletions": 4,
+        "insertions": 441,
+        "deletions": 82,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -3592,6 +3726,120 @@
             "message": "Update DG",
             "insertions": 2,
             "deletions": 1
+          },
+          {
+            "hash": "9ab9f018492d4bda5b4de9ed619ca9667ac2d83e",
+            "message": "Update PPP",
+            "insertions": 18,
+            "deletions": 13
+          },
+          {
+            "hash": "8b6889776b66fa14c66d0e95eb18738a071588da",
+            "message": "Update PPP 1.1",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4f21b271bd0c8f877724f8f30a8fb16f1ec9d7d8",
+            "message": "Update PPP 1.2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d113e1bbd1cac3be2952ef1eefee9cafcc389350",
+            "message": "Update PPP 1.3",
+            "insertions": 9,
+            "deletions": 10
+          },
+          {
+            "hash": "b5706c21da79ea0d680e64fe5d1dbb2f9791bf9c",
+            "message": "Update PPP 1.4",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "20f519d03db606c1a4d073e77d9289610f31a062",
+            "message": "Update PPP 1.5",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "bec0463504c6320966fe13329870c31020ad3b1e",
+            "message": "Update PPP 1.6",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "bbbdbe7cc2d33b59633e2225908b902454ee3134",
+            "message": "Update UG PPP 1.6",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "80981a1e9e0f5aa26d93066c393414f02c6e2b11",
+            "message": "Update PPP 1.7",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "ca58a8de88e359d1abae2e3958f92e5b516571e4",
+            "message": "Update PPP 1.8",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "47d289b1b6eab6e8f9f27d4e3a12e1db6905fa43",
+            "message": "Bug fix",
+            "insertions": 17,
+            "deletions": 7
+          },
+          {
+            "hash": "5cb594c169f131df1b3e848474d12855bc8572fd",
+            "message": "Style fixing",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c41ac2ccba322a861f235cbec921e5e6753a0b2f",
+            "message": "Test cases on Timeline and Month",
+            "insertions": 157,
+            "deletions": 5
+          },
+          {
+            "hash": "845eda2b2a8dd9adb41fc4a3b6943d1f8816274a",
+            "message": "Test cases on Find and History",
+            "insertions": 111,
+            "deletions": 8
+          },
+          {
+            "hash": "e9914a27f96d3da79e2d617415ae6ed5413f9a9f",
+            "message": "Style fixing 1.0",
+            "insertions": 15,
+            "deletions": 11
+          },
+          {
+            "hash": "fe8d41fd2a26956e7e327ec7f5638f1115b5bc23",
+            "message": "Resolve conflict",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f43c905c56bbfb03bb64d740aca1f05460b1c2c2",
+            "message": "fix on UG DG",
+            "insertions": 22,
+            "deletions": 3
+          },
+          {
+            "hash": "196fd0088a9310f57b94fbd5fad780aa22a69753",
+            "message": "Style fixing",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d0cfd0e5ed980ac372952e6496aca13d8ce9097e",
+            "message": "Updated PPP",
+            "insertions": 3,
+            "deletions": 0
           }
         ]
       }
@@ -4324,8 +4572,8 @@
         "commitResults": []
       },
       {
-        "insertions": 20,
-        "deletions": 2,
+        "insertions": 344,
+        "deletions": 147,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -4333,6 +4581,48 @@
             "message": "Sequence Diagram for remind feature added. DG and JinShibo PPP updated.",
             "insertions": 20,
             "deletions": 2
+          },
+          {
+            "hash": "8e7c829e79590288c8e995582a77580bc91bcebb",
+            "message": "test for remind feature added",
+            "insertions": 120,
+            "deletions": 1
+          },
+          {
+            "hash": "dc14b18fbc5921a89f389ea8bcf8269419fc6036",
+            "message": "travis",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "a073dd75affaf1d3baba3e244b86093aeb12707b",
+            "message": "test for list command",
+            "insertions": 82,
+            "deletions": 15
+          },
+          {
+            "hash": "350901b6ac98818374ec68108ecc845648bde431",
+            "message": "list command fix bugs",
+            "insertions": 80,
+            "deletions": 54
+          },
+          {
+            "hash": "fbeb8b61fce2637a3b1f6062aa073de8ad24eb17",
+            "message": "travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c42690fa255b9f342b6495cf254973046c51f0b8",
+            "message": "travis",
+            "insertions": 38,
+            "deletions": 68
+          },
+          {
+            "hash": "7e860717e59eee1f265fdd9a379664286bf66372",
+            "message": "travis",
+            "insertions": 0,
+            "deletions": 3
           }
         ]
       }
@@ -5152,8 +5442,8 @@
         "commitResults": []
       },
       {
-        "insertions": 52,
-        "deletions": 23,
+        "insertions": 56,
+        "deletions": 27,
         "date": "2019-04-13",
         "commitResults": [
           {
@@ -5173,30 +5463,91 @@
             "message": "update sequence diagrams",
             "insertions": 50,
             "deletions": 20
+          },
+          {
+            "hash": "7e2f3708e1381c50363e071e545aa801f334fdef",
+            "message": "update PPP",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "0764d21cd7b31bb9c6bb45c3fc3a2f10974af558",
+            "message": "update PPP 2",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1094,
+        "deletions": 240,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "d294e6727f162330522e06ebb58b9c1a8a77fb42",
+            "message": "update tests",
+            "insertions": 1029,
+            "deletions": 121
+          },
+          {
+            "hash": "bdd5567a1d0fae186872d3a1f5ddfedcc66922ca",
+            "message": "update test cases",
+            "insertions": 13,
+            "deletions": 10
+          },
+          {
+            "hash": "89f6e4ddc3fa7b272a0878cb13e9ea977fc898e7",
+            "message": "testCASES!",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "421bcb00518ab50f6db093de304b85ccf3805605",
+            "message": "TESTCASE",
+            "insertions": 28,
+            "deletions": 34
+          },
+          {
+            "hash": "dc1338c42c2be6d3464146a4a54cf89a3c3fb53e",
+            "message": "travis fix",
+            "insertions": 11,
+            "deletions": 14
+          },
+          {
+            "hash": "eadd142445592e3c813a7cfe0491572ca0af952a",
+            "message": "travis fix 2",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bd5c1818ed3fa9dcbbc28c46c66c607f8a6ec718",
+            "message": "travis fix 2",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "816a589bca062bf957ffe328432f306cb8efb31b",
+            "message": "travis fix 3",
+            "insertions": 0,
+            "deletions": 49
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Wanchunwei": 3163,
-    "cheahzk": 7106,
-    "jingchen-z": 1630,
-    "BrittonAlone": 871,
-    "Zeyang-Li": 2306
+    "Wanchunwei": 3565,
+    "cheahzk": 7097,
+    "jingchen-z": 1863,
+    "BrittonAlone": 1009,
+    "Zeyang-Li": 3199
   },
   "authorContributionVariance": {
-    "Wanchunwei": 214124.3,
-    "cheahzk": 1463512.5,
-    "jingchen-z": 25792.248,
-    "BrittonAlone": 8127.3013,
-    "Zeyang-Li": 8623241.0
+    "Wanchunwei": 226645.8,
+    "cheahzk": 1463388.6,
+    "jingchen-z": 28994.082,
+    "BrittonAlone": 11328.662,
+    "Zeyang-Li": 8631567.0
   },
   "authorDisplayNameMap": {
     "Wanchunwei": "WAN...WEI",

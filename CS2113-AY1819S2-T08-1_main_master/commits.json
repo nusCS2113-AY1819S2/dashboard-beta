@@ -742,10 +742,90 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 49,
+        "deletions": 23,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "e9b51964e75dc5acf9a6d96a4be2b349ad606d37",
+            "message": "Update Zhuhui.adoc",
+            "insertions": 43,
+            "deletions": 13
+          },
+          {
+            "hash": "19966ef65b0ba256cc579079b9847aa94e28c21e",
+            "message": "Update Zhuhui.adoc",
+            "insertions": 2,
+            "deletions": 6
+          },
+          {
+            "hash": "bd0ce9b060f973d32e18646242247cf6fb3be414",
+            "message": "Update Zhuhui.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6e060ba2e14eaf00d6b440618fe47480aadaaf54",
+            "message": "Update Zhuhui.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a84af4eaae3c8a1417dd6d6a6b0a690070312ee4",
+            "message": "Update Zhuhui.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "709caca737f841c1c4b00534b1d566cfe8491994",
+            "message": "Updated Jeremy \u0027s Link",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 19,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "d3f2ba16c01fbbb88881a772d0bf08faaa2cc5d0",
+            "message": "Update Zhuhui.adoc",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "0e6c62ce3ef2cbac0719d0142f88ad1f7ee1845b",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b8106685ab6e1ff692f6ec14c1a93a0a424e4580",
+            "message": "update instructions",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "9454555f3f5c548eca113003998990dbd3fcae36",
+            "message": "Updated Links",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "44ecae442b289fdb9596afb3be039baf30ee77b2",
+            "message": "fixed UG",
+            "insertions": 4,
+            "deletions": 9
+          },
+          {
+            "hash": "0a49bec054f7b983dd60d4103985054e4f6dabe8",
+            "message": "updated UG",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "quinnzzzzz": [
@@ -1439,10 +1519,17 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1473,
+        "deletions": 2378,
         "date": "2019-04-11",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "b53a7bfd6bbfbea06d4e41ee8a7cbfc50e1d0154",
+            "message": "Cleaned up person related commands + code cleaning",
+            "insertions": 1473,
+            "deletions": 2378
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1451,16 +1538,313 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1319,
+        "deletions": 4003,
         "date": "2019-04-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "c0622ebe7cfa9da1773f2118bea9b228bccc510a",
+            "message": "Test Cases for Project",
+            "insertions": 780,
+            "deletions": 1
+          },
+          {
+            "hash": "d512910b86ce52edf4ad4ac253bbf05d41c373b3",
+            "message": "Cleaned up person class + test files for project model",
+            "insertions": 319,
+            "deletions": 351
+          },
+          {
+            "hash": "d235ec5b2913f851e9d34d0ad35cb727bd681ca7",
+            "message": "Checkstyle",
+            "insertions": 7,
+            "deletions": 480
+          },
+          {
+            "hash": "8cdce418dfe125a277dbf71b3019add2e406fdb9",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "cedb2a3a0b9578816fc3317776ace3501013f823",
+            "message": "Fix formatting and clean up code",
+            "insertions": 212,
+            "deletions": 3168
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 5043,
+        "deletions": 3011,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "37844f214b70f6ac3a0a8afbf55dd345cc6a3668",
+            "message": "Before Merge Jeremy",
+            "insertions": 211,
+            "deletions": 362
+          },
+          {
+            "hash": "8af5c8318c4767b275575336a8c28e72f0a09cef",
+            "message": "Test Files for ProjectCommand",
+            "insertions": 496,
+            "deletions": 14
+          },
+          {
+            "hash": "642e90cc2728cfd2ed77d867da959d328479a370",
+            "message": "Fixing test cases",
+            "insertions": 44,
+            "deletions": 82
+          },
+          {
+            "hash": "25f8137d680e63d5d35599d8fe04f25b0a5a63e0",
+            "message": "Checkstyle",
+            "insertions": 17,
+            "deletions": 10
+          },
+          {
+            "hash": "a6afb739fee6a3333d1a52c34513723374914ebf",
+            "message": "Checkstyle",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "387b08d6c03abf5878071b2289e09c199d48fa1f",
+            "message": "Checkstyle",
+            "insertions": 115,
+            "deletions": 165
+          },
+          {
+            "hash": "d33f8ac6c53fdbe198d2c3fe2e9a5f3e702e2940",
+            "message": "Checkstyle",
+            "insertions": 79,
+            "deletions": 58
+          },
+          {
+            "hash": "1bd657df8435af79441cbc7b778f33b2cd0cb565",
+            "message": "Checkstyle",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "e1c5d1b2b932336087a5bb740798a25b1f9aff2d",
+            "message": "Checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a8dc7ffd78711aa1b658465638d9240b698bb691",
+            "message": "Checkstyle",
+            "insertions": 27,
+            "deletions": 17
+          },
+          {
+            "hash": "7e97fd1a4ea1bb2ee1d1c0aa2365646dcb891b27",
+            "message": "Checkstyle",
+            "insertions": 17,
+            "deletions": 12
+          },
+          {
+            "hash": "ac42386a70ae32284b74a2865def8782f7546ded",
+            "message": "Fix ParserUtilTest",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "12ba917e614ec3c5890449f530f21184163b892f",
+            "message": "Update on UserGuide \u0026 DeveloperGuide",
+            "insertions": 141,
+            "deletions": 63
+          },
+          {
+            "hash": "23530074d311315539bb7dda8c671f97c6714956",
+            "message": "Update on UG",
+            "insertions": 32,
+            "deletions": 15
+          },
+          {
+            "hash": "ddae212884228dc7190307aa03b1867c65b90658",
+            "message": "Checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2f54d7282680085e4da8b025003d5d75a0e3338e",
+            "message": "VersionedABTest edit",
+            "insertions": 16,
+            "deletions": 12
+          },
+          {
+            "hash": "b8ae1532748d9807283296d5205be32d1a2f5898",
+            "message": "v1.4 All test pass",
+            "insertions": 105,
+            "deletions": 21
+          },
+          {
+            "hash": "8e8610128b6c6bff80d7b371dcbe9a8f084e5202",
+            "message": "Checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "edffbda0f16aab726cb08f911e642cdce998c2dd",
+            "message": "Added diagram",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "9c0fd555dd024bfb90bc777da8469acacd00a057",
+            "message": "Image bugs",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "9347f4fec3408446eccae5050ee1fbbfeecb73be",
+            "message": "update on PPP",
+            "insertions": 48,
+            "deletions": 67
+          },
+          {
+            "hash": "adc986582f43808af03c093e1c3ea06abf3abb5e",
+            "message": "Added Volunteer Test Files + update on doc",
+            "insertions": 1882,
+            "deletions": 17
+          },
+          {
+            "hash": "2cd156e278dd4df70ae261e7ebfd5eb6a544f1c9",
+            "message": "update PPP",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "105068e877de69925e32758d0e67c90fdb86cd5e",
+            "message": "Final checks",
+            "insertions": 6,
+            "deletions": 565
+          },
+          {
+            "hash": "ff4b03ab3a72e9743d43fffdde85562b4b140f69",
+            "message": "Adjustments for v1.4 release",
+            "insertions": 1546,
+            "deletions": 1468
+          },
+          {
+            "hash": "e485dd943cf09839d4a631f4bcfe1724e4a4c7f6",
+            "message": "Add in Zander Login feature",
+            "insertions": 172,
+            "deletions": 0
+          },
+          {
+            "hash": "331e75eec2ac813f3e92f5ccc57099b38afec6ee",
+            "message": "Merge Zander",
+            "insertions": 31,
+            "deletions": 10
+          },
+          {
+            "hash": "845016e21c3b14aa1b3a9cc46973de3474587380",
+            "message": "Checkstyle",
+            "insertions": 3,
+            "deletions": 8
+          },
+          {
+            "hash": "599c0259b43c0c4a3b573656569c3b190fa63620",
+            "message": "Checkstyle",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "e519bb297a474f53169e597eb7fd2be0e99f55a5",
+            "message": "Checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "341a6ddc8bb3de92eed0d19a67614794ba335b06",
+            "message": "Checkstyle",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "a41592309f30907a7a6787c2c71b1fc1677b595d",
+            "message": "Checkstyle",
+            "insertions": 17,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 545,
+        "deletions": 472,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "3b89082390732b3fddb638141a70eb5c59cf72de",
+            "message": "Checkstyle",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "95f0e2bd0dc72207b3b1249122495abab207ad59",
+            "message": "Checkstyle",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "28392d6924b83d66f7d88a8cbf65b6db2ee5c9ca",
+            "message": "Checkstyle",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "83ba25c2e89ef43993cc2d86b14631247b824a64",
+            "message": "PPP",
+            "insertions": 86,
+            "deletions": 74
+          },
+          {
+            "hash": "e3dfe2379ad9e02b7ffbf1ca17f95da7ca195155",
+            "message": "Documentations",
+            "insertions": 155,
+            "deletions": 81
+          },
+          {
+            "hash": "2c401a77915aef3af4a4585be080a26505a295d1",
+            "message": "v1.4 Documentation",
+            "insertions": 245,
+            "deletions": 269
+          },
+          {
+            "hash": "70dac737ba55832291f9c98e00270059f12ef120",
+            "message": "PPP edits",
+            "insertions": 46,
+            "deletions": 17
+          },
+          {
+            "hash": "98896654c1416f0c8deaed0c56538d32e8b44bf9",
+            "message": "update documents",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "16199c5cd90414f80f9e9bf3dcd591e1f8bf4c80",
+            "message": "Documentation",
+            "insertions": 3,
+            "deletions": 19
+          },
+          {
+            "hash": "79c345e62a799248519348cfd5f9b35441b6211a",
+            "message": "Fix bugs on documents",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0a4693f906348c164be6a509f41ff0bf3b114534",
+            "message": "Checkstyle",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
       }
     ],
     "articstranger": [
@@ -2126,8 +2510,8 @@
         ]
       },
       {
-        "insertions": 48,
-        "deletions": 0,
+        "insertions": 429,
+        "deletions": 247,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -2141,6 +2525,85 @@
             "message": "DG updated with considerations for filtered export",
             "insertions": 23,
             "deletions": 0
+          },
+          {
+            "hash": "2bbf3cd1bd4be262abb18a7d8a7e3d00861c2359",
+            "message": "DG typo fixed + UG intro updated",
+            "insertions": 21,
+            "deletions": 17
+          },
+          {
+            "hash": "d0cf8e97e7c2bc7f4daa73253bbfe8e5337eeb81",
+            "message": "icon testing",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f4f7b5c1ae4a1a2a75169707a4d3451df1d736b7",
+            "message": "test UG icons",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "bfcecb86a301153aab5ebc0aec0df4f7d52e6dde",
+            "message": "UG further updates",
+            "insertions": 19,
+            "deletions": 16
+          },
+          {
+            "hash": "49015b9b949ac601c0bb79a4b464b7468cd77e3a",
+            "message": "ug update for merging",
+            "insertions": 18,
+            "deletions": 7
+          },
+          {
+            "hash": "784a92e6f29d610fe331b8a9ca5b8c01f5ba8502",
+            "message": "UG updated up to project section",
+            "insertions": 60,
+            "deletions": 39
+          },
+          {
+            "hash": "ebb5257c1b91422934817612c24f989d91e94fa9",
+            "message": "UG overall format",
+            "insertions": 253,
+            "deletions": 138
+          },
+          {
+            "hash": "b95975c5467d94588dab3f630c9620e11e98c448",
+            "message": "UG tweaks",
+            "insertions": 1,
+            "deletions": 21
+          },
+          {
+            "hash": "f85553eb83af132ad75251da4b3e46a3d427bffe",
+            "message": "PPP",
+            "insertions": 5,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "4cc2040a230ad84c85a16911a803c2e543384050",
+            "message": "Rename files",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7d046400c991a68b8d90dc13b38c3d761fa00c20",
+            "message": "Zhuhui whitespace removed",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e5480058a196298645e5a930f7b9b43545685c74",
+            "message": "update bugs in UG",
+            "insertions": 2,
+            "deletions": 2
           }
         ]
       }
@@ -3275,10 +3738,16 @@
         ]
       },
       {
-        "insertions": 2,
-        "deletions": 4,
+        "insertions": 766,
+        "deletions": 462,
         "date": "2019-04-14",
         "commitResults": [
+          {
+            "hash": "fce959943efc8179564969ac2d5aa368f8bbf0ba",
+            "message": "update DG",
+            "insertions": 21,
+            "deletions": 7
+          },
           {
             "hash": "f81352ac4e85668df58418f3ed68dcf8b649c4b4",
             "message": "reposense",
@@ -3290,22 +3759,131 @@
             "message": "checksryle",
             "insertions": 2,
             "deletions": 1
+          },
+          {
+            "hash": "1d9e36ce082de308e279d1e7ce67c36bec8cecdd",
+            "message": "ug",
+            "insertions": 1,
+            "deletions": 16
+          },
+          {
+            "hash": "0bf6679367e7d8152f9eb85691e76509dbb5671d",
+            "message": "ug",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9273ec232040265a66eb93ced3a32416dce68c49",
+            "message": "ug",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "4797c93fad73e5264f7ea03d1ac60f060ca308a7",
+            "message": "update dg",
+            "insertions": 135,
+            "deletions": 37
+          },
+          {
+            "hash": "8536ac3288da5a276acdb2f9b9f716e51d4abecb",
+            "message": "update docs",
+            "insertions": 239,
+            "deletions": 164
+          },
+          {
+            "hash": "8e4cf9b9c04971483368425e5b6a51e0d6f53c9e",
+            "message": "checkstyle",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0db10094ecd453ab7f8dec82310c1334ef3e6813",
+            "message": "update Ui",
+            "insertions": 10,
+            "deletions": 21
+          },
+          {
+            "hash": "949650184ae5cf59ee0c8a7085247d65eeb10881",
+            "message": "checkstule",
+            "insertions": 152,
+            "deletions": 108
+          },
+          {
+            "hash": "9c1f5923805fd2ea26a8ee7e2260f5472a581ac0",
+            "message": "update summary sequence diagram",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "0aed4c567075196c37534f97d8192fc22fdf9daa",
+            "message": "make dg consistent",
+            "insertions": 75,
+            "deletions": 18
+          },
+          {
+            "hash": "13f4ee891500aa307616840ca63540e01fdf29ef",
+            "message": "update DG",
+            "insertions": 15,
+            "deletions": 19
+          },
+          {
+            "hash": "c7395462ebe2111f735e73e6214643c0e5d796c1",
+            "message": "dg",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "772f16509c836e49ceef52d0a57ce44a99a1bd31",
+            "message": "zander dg",
+            "insertions": 45,
+            "deletions": 5
+          },
+          {
+            "hash": "fc9cdcf0e173d669abed259eb6ea96ce69bec7cf",
+            "message": "reformat",
+            "insertions": 53,
+            "deletions": 53
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 22,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "e1242109dc19bdffb1d265642ea293bc61e3cf94",
+            "message": "dg",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "69730e7583a93dd4fbb9526600700ceaadfe2401",
+            "message": "kl",
+            "insertions": 2,
+            "deletions": 17
+          },
+          {
+            "hash": "2747063a645495592719579f64f67ccec5cda1c9",
+            "message": "update ug with password",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "swalahlah": 2863,
-    "quinnzzzzz": 2466,
-    "articstranger": 974,
-    "ndhuu": 6948
+    "swalahlah": 2733,
+    "quinnzzzzz": 6477,
+    "articstranger": 931,
+    "ndhuu": 6210
   },
   "authorContributionVariance": {
-    "swalahlah": 2319275.8,
-    "quinnzzzzz": 33064.332,
-    "articstranger": 12493.51,
-    "ndhuu": 2865395.0
+    "swalahlah": 2284805.2,
+    "quinnzzzzz": 1585766.9,
+    "articstranger": 18632.213,
+    "ndhuu": 2829275.8
   },
   "authorDisplayNameMap": {
     "swalahlah": "LIO...HUI",

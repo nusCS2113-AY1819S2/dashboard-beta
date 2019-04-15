@@ -852,8 +852,8 @@
         ]
       },
       {
-        "insertions": 80,
-        "deletions": 74,
+        "insertions": 733,
+        "deletions": 285,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -879,6 +879,192 @@
             "message": "fixed Travis checkstyle errors - Attempt #2",
             "insertions": 5,
             "deletions": 3
+          },
+          {
+            "hash": "e02f3c8de601d109956b0d2353e87ded03f2bb59",
+            "message": "fixed a bug in the listactivity command. it couldn\u0027t detect the change in timetable of a person after an AddActivity command.",
+            "insertions": 16,
+            "deletions": 2
+          },
+          {
+            "hash": "1f3fd33215ece2846996c610cca8c2ba978ddc24",
+            "message": "added EventCheckAvailabilityCommand to check if a person can attend an event",
+            "insertions": 206,
+            "deletions": 20
+          },
+          {
+            "hash": "6e747f647c02b8090827f4018a10a556c0ab1317",
+            "message": "Fixed Travis checkstyle errors - attempt #1",
+            "insertions": 41,
+            "deletions": 30
+          },
+          {
+            "hash": "b8b830d788d7f0f7594cad458dadf063a46e73f6",
+            "message": "fixed Travis checkstyle error - attempt #2",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "cfd9d63e31990aac410f1a03c9355debf4e4d151",
+            "message": "added 2 test classes - DateTest and TimeTest for the Event package",
+            "insertions": 106,
+            "deletions": 4
+          },
+          {
+            "hash": "0df12e9ab2ad7ff75a46786d177535ca52095c31",
+            "message": "fixed a bug in listactivity command. did not work for last element of the list (changed if condition)",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "d543a1a079ead704ab578e116a1398999fe6abb1",
+            "message": "fixed 2 bugs - AddCommand and ListActivityCommand - Add command needed activity and activity day, now no need - listactivity did not work for new person, now it works",
+            "insertions": 14,
+            "deletions": 7
+          },
+          {
+            "hash": "d23d8a565390f9f3003ea3095ab1acb0ed18a68e",
+            "message": "fixed Travis checkstyle error - attempt #1",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "51873c5ecd920a3e943cc16c73829c4fc351a5c4",
+            "message": "fixed Travis checkstyle error - unused imports",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "b574ddd98f9d3cd3c4802080eaac98502d867a87",
+            "message": "fixed Travis checkstyle error - imports",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "88685fd95bbdd45672740d864d61c6114b58634b",
+            "message": "added a new test class for filtereventcommandparser",
+            "insertions": 33,
+            "deletions": 0
+          },
+          {
+            "hash": "6836bdcd52576d67ce0b81988fa0f4113d8f5f43",
+            "message": "fixed test bugs for AddCommandParserTest (Travis)",
+            "insertions": 17,
+            "deletions": 23
+          },
+          {
+            "hash": "7c8ca542b84b629bccc57740fd0607ec2ff03435",
+            "message": "change function name",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6068a1d75cc6e1a13c4759bd3be32c63119f2e47",
+            "message": "fixed Travis checkstyle error - unused imports",
+            "insertions": 1,
+            "deletions": 21
+          },
+          {
+            "hash": "cd54663c9f6a4117b6a7bf1d9ae5065a8c66092b",
+            "message": "fixed Travis checkstyle error - trailing whitespace",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "a00dfc062fbc53cd616a6aee67c77b7dbf5b46cc",
+            "message": "updated User Guide and fixed a bug in AddActivityCommand (now it can take not only modules. if it\u0027s a module, it will be added in the module list of a person)",
+            "insertions": 78,
+            "deletions": 23
+          },
+          {
+            "hash": "4812afea79445a2f5931915f731fa80883030107",
+            "message": "added \"+\"s in user guide to make new line",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "4943bec29a5f43db97a619153a3de4e86981428e",
+            "message": "added \"`\" in user guide",
+            "insertions": 13,
+            "deletions": 13
+          },
+          {
+            "hash": "4ef66f7eb99a4042682e2d7d25bd28f0db2346a9",
+            "message": "changed UI picture and the name of the app (top left)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d84d91c0d704e39b43ecf51d6ec32f4750dd4c88",
+            "message": "added \"Command Summary\" section in User Guide",
+            "insertions": 22,
+            "deletions": 6
+          },
+          {
+            "hash": "ce5650950274b530a325729c94d639e9cf2c0bd9",
+            "message": "fixed Travis checkstyle error - trailing whitespace",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "48a2835d31f6e9d483d0ef6646ce760e31dc42af",
+            "message": "refactor CheckAvailabilityEventCommand for better abstraction",
+            "insertions": 14,
+            "deletions": 9
+          },
+          {
+            "hash": "7eb5b3ccca3a5915651951e1dd7d7b92a7e3cc03",
+            "message": "added Dev Guide implementation for ListActivity",
+            "insertions": 41,
+            "deletions": 8
+          },
+          {
+            "hash": "3cfabea436d72e9b2b7d310a95f066960c5f7fda",
+            "message": "updated Project Portfolio pages for the tags",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "8aa55283ebc369d7cdaefaff8fec79ff5283467b",
+            "message": "updated Dev Guide and fixed the bug for timing of activity",
+            "insertions": 16,
+            "deletions": 13
+          },
+          {
+            "hash": "de986e9b90f76e78c2a7e9ebf9c2f6a1cbf5ec25",
+            "message": "Update windrichie.adoc",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "54ff3c135962d859152cc87169dd58ae72588100",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3e76dc32cfa1b789f1d65a309aadeef44efd25e4",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3aecde4d9090ac34560fd62d2b7caeae70a7fdfe",
+            "message": "Update DeveloperGuide.adoc",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "d515bcaf92c9325e45ed0fe80a51abf7b8c4f917",
+            "message": "Update EventCheckAvailabilityCommand.java",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "c2cb39f1cd495fa884bce86f842cf40daf6a85d6",
+            "message": "version update",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       }
@@ -1937,10 +2123,29 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 106,
+        "deletions": 79,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "2011164a096b73fbca5ab178d30c2cf39ec95693",
+            "message": "Modulelist test",
+            "insertions": 39,
+            "deletions": 0
+          },
+          {
+            "hash": "a27498fc8dc052e7f6f2786c7cbf987dbc50c987",
+            "message": "Update ModuleTest.java",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "db4f7c6c119e4c72fc8de9405488266d617302b6",
+            "message": "Updated Dev guide, user guide and portfolio.",
+            "insertions": 66,
+            "deletions": 78
+          }
+        ]
       }
     ],
     "Sameow": [
@@ -2415,8 +2620,8 @@
         ]
       },
       {
-        "insertions": 44,
-        "deletions": 27,
+        "insertions": 47,
+        "deletions": 38,
         "date": "2019-04-02",
         "commitResults": [
           {
@@ -2442,14 +2647,27 @@
             "message": "updated testcase for interleave feature",
             "insertions": 6,
             "deletions": 1
+          },
+          {
+            "hash": "d48bf622c978cfe6995e2d6b14f17201c72213d3",
+            "message": "PPP final touches",
+            "insertions": 3,
+            "deletions": 11
           }
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 8,
+        "deletions": 4,
         "date": "2019-04-03",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "66066c50bcb4330eedd3f4c53bcfbb6522b80595",
+            "message": "some base code to sync with Layomi\u0027s implementation",
+            "insertions": 8,
+            "deletions": 4
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -2489,52 +2707,276 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 36,
+        "deletions": 8,
         "date": "2019-04-07",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "c42895abe77bd78710f7f54e7dfc971dc8fcac0c",
+            "message": "Making use of edit command to implement interleaving",
+            "insertions": 36,
+            "deletions": 8
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 71,
+        "deletions": 79,
         "date": "2019-04-08",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "3f34e2442708a446988ac179ab597102a1f64c37",
+            "message": "finally ready to code interleave?",
+            "insertions": 35,
+            "deletions": 4
+          },
+          {
+            "hash": "83b1dca1bdea6baf68dd8e99d70902c67de812a9",
+            "message": "code to make use of existing generic editing methods",
+            "insertions": 14,
+            "deletions": 61
+          },
+          {
+            "hash": "57c8fba4d37d72ea549a8d2171454b1dc5ec435e",
+            "message": "added interleave command usage",
+            "insertions": 22,
+            "deletions": 14
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 139,
+        "deletions": 97,
         "date": "2019-04-09",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "b3256731af74eea07d49d5ba1364ea2b0eca0163",
+            "message": "Some refactoring and working on interleaving",
+            "insertions": 139,
+            "deletions": 97
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 16,
+        "deletions": 18,
         "date": "2019-04-10",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "28460dea07c8c75bb35532a49413b31e5c570430",
+            "message": "End of day save",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "29f1538545c549f997db9e0966e97af0b0708c8b",
+            "message": "Done interleaving",
+            "insertions": 9,
+            "deletions": 16
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 63,
+        "deletions": 46,
         "date": "2019-04-11",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "337e2930563c652a9205a139510b015c12a7ff25",
+            "message": "Finished interleaving. Now updating other classes",
+            "insertions": 63,
+            "deletions": 46
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 182,
+        "deletions": 114,
         "date": "2019-04-12",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "47f1cbbf533de5e2b8265acfe67ae6744e6e6bd0",
+            "message": "End of day save",
+            "insertions": 127,
+            "deletions": 43
+          },
+          {
+            "hash": "85b46886a1ffe17df327f4f5df4e37e2cf6921d9",
+            "message": "Finally done with all the tests",
+            "insertions": 26,
+            "deletions": 26
+          },
+          {
+            "hash": "13c3d3461f4e9f52cea4d98231a74adc9f0691f8",
+            "message": "Fix travis errors",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "849c8cbebb268358dbe94787ec4c16b92446ed03",
+            "message": "Fix travis errors",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "6843abbc8b87905ba8f8876f72378684424af63e",
+            "message": "Removed useless method",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "4b3297838cc47cbdf83e0b229bbc7a2994c4fec3",
+            "message": "Fix travis errors",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "c66a2cea64b8c03ccba97e2b9be737604c58511e",
+            "message": "Removed useless method",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "31898e875b7575ee5e023dc2257de03e3a2e42c9",
+            "message": "Removing useless method again -_-",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "b1c50c89e08b977a69b4beffc162d8353fb91ea4",
+            "message": "Fix travis line too long error",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "34533e345a70a78ad5482158fe35ec62df2f8ac7",
+            "message": "Line too long",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "d9b35026dbb550b4f5e84be3be5687e79083705a",
+            "message": "Removed unused import",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "8cab651fe0e710b535038fb7a8a3dbbf90076cd4",
+            "message": "Removed unused import",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "6ffeeb47b508ebf114f399e6cb3a2312d0148f48",
+            "message": "Removed unused import",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "9d8de38a6bb0a1bd7541b18d724290763d552be4",
+            "message": "Passed execute_duplicatePersonUnfilteredList_failure testcase. Found out that module code regex doesnt accept \"CS2113T\"",
+            "insertions": 16,
+            "deletions": 18
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 197,
+        "deletions": 99,
         "date": "2019-04-13",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "b3a7c199ddf737129998a971a07f755da014419d",
+            "message": "End of day save",
+            "insertions": 85,
+            "deletions": 43
+          },
+          {
+            "hash": "53a661fdaeab35d1b6700eefc417161508229398",
+            "message": "ALMOST THRE",
+            "insertions": 47,
+            "deletions": 27
+          },
+          {
+            "hash": "8266502ae6d70c0243ddac1617ee2ed79bb82fc3",
+            "message": "No idea why this test is failing. Every piece of data seems to be same but....",
+            "insertions": 20,
+            "deletions": 4
+          },
+          {
+            "hash": "89b1fafdeeb7cf386a1d06a25a4f9f5854bb36e5",
+            "message": "no idea why parse_allFieldsPresent_success() doesnt work too...",
+            "insertions": 18,
+            "deletions": 12
+          },
+          {
+            "hash": "3604655e5fb4dec15d7f4bbf30d4cffbbf155231",
+            "message": "Same problem. Objects to be tested are the same but somehow different",
+            "insertions": 27,
+            "deletions": 13
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 99,
+        "deletions": 49,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "8f069e74a29d445f9a10d94de565779a8ccb1c61",
+            "message": "parse_missingParts_failure() PASSED CS2113 A+ CONFIRMED",
+            "insertions": 17,
+            "deletions": 2
+          },
+          {
+            "hash": "b3db71764c0deae1bc95ae2aa7aa293789e8eeb9",
+            "message": "Trying to solve readAndSaveAddressBook_allInOrder_success",
+            "insertions": 16,
+            "deletions": 6
+          },
+          {
+            "hash": "16943599fd1437a27c57bb52129fad876cc71f95",
+            "message": "solved readAndSaveAddressBook_allInOrder_success",
+            "insertions": 36,
+            "deletions": 20
+          },
+          {
+            "hash": "1224d2de33799be26c92e49a07f63c29b119f672",
+            "message": "Fixed Travis",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3f67e282d5990f2d823f70aac6d336a1289bbfda",
+            "message": "Fixed Travis",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "0cc96d66d13f8cee082f52e1f2cff5d073021207",
+            "message": "Solved 2 testcases YYYAAAAYYYY",
+            "insertions": 13,
+            "deletions": 9
+          },
+          {
+            "hash": "e0c3e742d6511cd2c1946710a1c88d3d5c688af7",
+            "message": "Another testcase gone",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f454797d34fa51be83c94ae38d987eda8d63a58b",
+            "message": "Completed interleaving",
+            "insertions": 14,
+            "deletions": 7
+          },
+          {
+            "hash": "f0c03cd253ca45af9a5042acea67e0e54bb72c74",
+            "message": "update",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "Shizhe-NUS": [
@@ -2977,15 +3419,15 @@
     ]
   },
   "authorFinalContributionMap": {
-    "windrichie": 2888,
-    "JKupoluyi": 998,
-    "Sameow": 272,
-    "Shizhe-NUS": 51
+    "windrichie": 3331,
+    "JKupoluyi": 963,
+    "Sameow": 807,
+    "Shizhe-NUS": 46
   },
   "authorContributionVariance": {
-    "windrichie": 42108.383,
-    "JKupoluyi": 11962.723,
-    "Sameow": 501.74872,
+    "windrichie": 55976.23,
+    "JKupoluyi": 12272.511,
+    "Sameow": 4344.816,
     "Shizhe-NUS": 65.87109
   },
   "authorDisplayNameMap": {

@@ -738,10 +738,17 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 33,
+        "deletions": 1,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "17db4b2395fbd24f2be7fbe18f08c138073a82d1",
+            "message": "v1.4 (#205)",
+            "insertions": 33,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "marcus-pzj": [
@@ -1377,8 +1384,8 @@
         "commitResults": []
       },
       {
-        "insertions": 223,
-        "deletions": 74,
+        "insertions": 271,
+        "deletions": 106,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -1398,6 +1405,24 @@
             "message": "Update PPP (#194)",
             "insertions": 11,
             "deletions": 1
+          },
+          {
+            "hash": "470378372b940d51c36f94e7bdda70cc816ac924",
+            "message": "Update documentation (#197)",
+            "insertions": 31,
+            "deletions": 12
+          },
+          {
+            "hash": "193b34f3324fdb8095065bc9e339351f70eb990a",
+            "message": "Fix broken links (#198)",
+            "insertions": 15,
+            "deletions": 16
+          },
+          {
+            "hash": "5e5389217cc1ddefdd3db58a1cdb2fb2aca35c41",
+            "message": "Fix bug in listing and editing slots (#200)",
+            "insertions": 2,
+            "deletions": 4
           }
         ]
       }
@@ -1973,8 +1998,8 @@
         ]
       },
       {
-        "insertions": 223,
-        "deletions": 202,
+        "insertions": 363,
+        "deletions": 336,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -1982,6 +2007,18 @@
             "message": "Update documentation (#193)",
             "insertions": 223,
             "deletions": 202
+          },
+          {
+            "hash": "1bad6052547a5685d5b1d1109163d45e7da0539a",
+            "message": "Semester: Enhance code quality (#203)",
+            "insertions": 119,
+            "deletions": 108
+          },
+          {
+            "hash": "3920e1644205443a8c1394c11f4821fe228b172a",
+            "message": "Update DeveloperGuide (#204)",
+            "insertions": 21,
+            "deletions": 26
           }
         ]
       }
@@ -2604,24 +2641,49 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 345,
+        "deletions": 141,
         "date": "2019-04-14",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "73f1190375e1a1fee67555fe57eadee0478d9ad9",
+            "message": "Update documentation and keystorage tests (#199)",
+            "insertions": 329,
+            "deletions": 129
+          },
+          {
+            "hash": "548f73621c9a5100ce2f054455acf2e67d0ad54f",
+            "message": "Update PPP (#201)",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "38f7c2e3031b3fe098efb3dcf7eea282e3ff6bba",
+            "message": "Fixed wrong link in PPP (#202)",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "866337018be27fb1ace864de5f345e31f2f8e225",
+            "message": "Update documentation (#206)",
+            "insertions": 11,
+            "deletions": 6
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "seanieyap": 11983,
-    "marcus-pzj": 2363,
-    "dingheng4448": 1913,
-    "macchazuki": 1083
+    "seanieyap": 11936,
+    "marcus-pzj": 2380,
+    "dingheng4448": 1969,
+    "macchazuki": 1315
   },
   "authorContributionVariance": {
-    "seanieyap": 2181967.0,
-    "marcus-pzj": 399877.9,
-    "dingheng4448": 26219.139,
-    "macchazuki": 15011.161
+    "seanieyap": 2181350.8,
+    "marcus-pzj": 400366.94,
+    "dingheng4448": 30396.037,
+    "macchazuki": 17992.658
   },
   "authorDisplayNameMap": {
     "seanieyap": "SEA...ONG",
