@@ -1373,8 +1373,8 @@
         ]
       },
       {
-        "insertions": 311,
-        "deletions": 76,
+        "insertions": 315,
+        "deletions": 79,
         "date": "2019-04-15",
         "commitResults": [
           {
@@ -1394,6 +1394,12 @@
             "message": "Update wendybaiyunwei.adoc (#249)",
             "insertions": 8,
             "deletions": 35
+          },
+          {
+            "hash": "11bb02ba65b0c3aa16a74fddd1ac511dca0204c6",
+            "message": "planner_remove: fix bug in removing co-requisite module (#254)",
+            "insertions": 4,
+            "deletions": 3
           }
         ]
       }
@@ -2700,8 +2706,8 @@
         ]
       },
       {
-        "insertions": 155,
-        "deletions": 36,
+        "insertions": 254,
+        "deletions": 98,
         "date": "2019-04-15",
         "commitResults": [
           {
@@ -2709,6 +2715,12 @@
             "message": "docs/DeveloperGuide: update Edit Module feature (#251)",
             "insertions": 155,
             "deletions": 36
+          },
+          {
+            "hash": "fd1a4416c8fe72bdfc1f17a06eed1866228bd4c1",
+            "message": "Logic/commands: fix command usage (#255)",
+            "insertions": 99,
+            "deletions": 62
           }
         ]
       }
@@ -4645,16 +4657,16 @@
     ]
   },
   "authorFinalContributionMap": {
-    "truegitnovice": 3818,
-    "WendyBaiYunwei": 1498,
-    "Creastery": 5808,
-    "chyeo": 4071,
-    "lycjackie": 5553
+    "truegitnovice": 3814,
+    "WendyBaiYunwei": 1496,
+    "Creastery": 5892,
+    "chyeo": 4067,
+    "lycjackie": 5516
   },
   "authorContributionVariance": {
     "truegitnovice": 85112.82,
-    "WendyBaiYunwei": 24951.695,
-    "Creastery": 228392.61,
+    "WendyBaiYunwei": 25029.219,
+    "Creastery": 228644.73,
     "chyeo": 251302.94,
     "lycjackie": 550115.06
   },

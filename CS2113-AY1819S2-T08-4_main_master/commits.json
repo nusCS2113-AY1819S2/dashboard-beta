@@ -4393,8 +4393,8 @@
         ]
       },
       {
-        "insertions": 19,
-        "deletions": 10,
+        "insertions": 139,
+        "deletions": 41,
         "date": "2019-04-15",
         "commitResults": [
           {
@@ -4438,6 +4438,84 @@
             "message": "updated PPP",
             "insertions": 2,
             "deletions": 0
+          },
+          {
+            "hash": "8068cceec5074f36f0cc11e0a07af2ef5f5a6849",
+            "message": "updated DG",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "9b0a33dc5b9cd146165476e174610b1f23bccac3",
+            "message": "fixed linking of build status",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4fddf92859aef42d721ed6f8c6bd407bc6d98c02",
+            "message": "updated PPP",
+            "insertions": 38,
+            "deletions": 15
+          },
+          {
+            "hash": "10c8e327e7212d7aecd7d37d7d7c4d37ad385a38",
+            "message": "updated PPP",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f45ca16e7fdb7a1b8333af80a614177b82c8d4d5",
+            "message": "updated README",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a07257745f9c77101f40e0ee0f34e57d4db951c3",
+            "message": "updated UG",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "0d543d881e2a24344802693ca6cd96bee2e91984",
+            "message": "updated randomize SD and DG",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "35d3b024acda813b721e310216d0a88316d2e5dd",
+            "message": "updated DG",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8809173dc01e6845271f4cec9c9b8c10f7853b54",
+            "message": "updated DG",
+            "insertions": 17,
+            "deletions": 7
+          },
+          {
+            "hash": "5e0443471b5e8a668b5a2b7ac048f36062dc1984",
+            "message": "added diagrams for randomization",
+            "insertions": 39,
+            "deletions": 0
+          },
+          {
+            "hash": "66dc96f3c0371fb61217538012c603e9f102f1c8",
+            "message": "updated DG",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "9e2267424f97cb3dd7c9bec1111571327646eda8",
+            "message": "updated DG",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "88d968219e575ef3ec34aafb6c88483fe771e135",
+            "message": "updated PPP",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       }
@@ -4445,15 +4523,15 @@
   },
   "authorFinalContributionMap": {
     "tantantan277": 3003,
-    "ssunil3232": 1348,
-    "shanseet": 3177,
-    "weizhang05": 3051
+    "ssunil3232": 1346,
+    "shanseet": 3180,
+    "weizhang05": 3145
   },
   "authorContributionVariance": {
     "tantantan277": 60284.246,
     "ssunil3232": 16885.44,
     "shanseet": 50879.88,
-    "weizhang05": 221824.69
+    "weizhang05": 221648.5
   },
   "authorDisplayNameMap": {
     "tantantan277": "PHA...TAN",

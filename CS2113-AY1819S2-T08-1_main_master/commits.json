@@ -785,8 +785,8 @@
         ]
       },
       {
-        "insertions": 14,
-        "deletions": 19,
+        "insertions": 47,
+        "deletions": 39,
         "date": "2019-04-15",
         "commitResults": [
           {
@@ -824,6 +824,24 @@
             "message": "updated UG",
             "insertions": 1,
             "deletions": 0
+          },
+          {
+            "hash": "ee8dc5f85d163f4bdeacf57a49ea9165203006d0",
+            "message": "final pls",
+            "insertions": 20,
+            "deletions": 15
+          },
+          {
+            "hash": "a0f6dab72f2922712fa049bdef144c3f5a39b265",
+            "message": "final pls",
+            "insertions": 12,
+            "deletions": 4
+          },
+          {
+            "hash": "4d580584a3f72d5786805bfe9715d926c319ba0b",
+            "message": "final pls checkstyle",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       }
@@ -1774,8 +1792,8 @@
         ]
       },
       {
-        "insertions": 545,
-        "deletions": 472,
+        "insertions": 1011,
+        "deletions": 1028,
         "date": "2019-04-15",
         "commitResults": [
           {
@@ -1843,6 +1861,30 @@
             "message": "Checkstyle",
             "insertions": 2,
             "deletions": 3
+          },
+          {
+            "hash": "19278b139205b6d067e63c05cac36f5e180969b1",
+            "message": "Documents",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7731faeaba4737d7e24d2393741d94a097508e2e",
+            "message": "Edit some grammar mistakes",
+            "insertions": 10,
+            "deletions": 19
+          },
+          {
+            "hash": "e9092028cc81c0934b61e826881e1ac09089fc0b",
+            "message": "Update test files",
+            "insertions": 444,
+            "deletions": 533
+          },
+          {
+            "hash": "f95fd2315b6f2e4050cb6ea655433eb9a235e9a4",
+            "message": "zander adoc",
+            "insertions": 10,
+            "deletions": 2
           }
         ]
       }
@@ -3847,8 +3889,8 @@
         ]
       },
       {
-        "insertions": 7,
-        "deletions": 22,
+        "insertions": 11,
+        "deletions": 26,
         "date": "2019-04-15",
         "commitResults": [
           {
@@ -3868,22 +3910,34 @@
             "message": "update ug with password",
             "insertions": 1,
             "deletions": 1
+          },
+          {
+            "hash": "d55a504f6d4415d192d59b346849e3fd02c1edb5",
+            "message": "find bef message",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f8f73aa62e67c98e4d3d268e149c8fcfbaab5291",
+            "message": "update phone",
+            "insertions": 2,
+            "deletions": 2
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "swalahlah": 2733,
-    "quinnzzzzz": 6477,
+    "swalahlah": 2754,
+    "quinnzzzzz": 6475,
     "articstranger": 931,
-    "ndhuu": 6210
+    "ndhuu": 6206
   },
   "authorContributionVariance": {
-    "swalahlah": 2284805.2,
-    "quinnzzzzz": 1585766.9,
+    "swalahlah": 2284263.5,
+    "quinnzzzzz": 1622172.8,
     "articstranger": 18632.213,
-    "ndhuu": 2829275.8
+    "ndhuu": 2829160.2
   },
   "authorDisplayNameMap": {
     "swalahlah": "LIO...HUI",

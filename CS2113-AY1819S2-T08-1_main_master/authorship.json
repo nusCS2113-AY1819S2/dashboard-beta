@@ -22077,49 +22077,49 @@
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "quinnzzzzz"
+          "gitId": "swalahlah"
         },
-        "content": "\u003d\u003d Terminology"
+        "content": "image::Ui.png[400]"
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "quinnzzzzz"
-        },
-        "content": "* Volunteer: The volunteers who participate in volunteer organization such as NUS Community Service Club, NUS Vietnamese"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "quinnzzzzz"
-        },
-        "content": "Community\u0027s CIP Committee."
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "quinnzzzzz"
+          "gitId": "swalahlah"
         },
         "content": ""
       },
       {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "The user interacts with VolunCHeer using a command-line interface, and has a GUI created with JavaFX. VolunCHeer is written"
+      },
+      {
+        "lineNumber": 25,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "in Java, and has about 10 kLoC."
+      },
+      {
         "lineNumber": 26,
         "author": {
-          "gitId": "quinnzzzzz"
+          "gitId": "swalahlah"
         },
-        "content": "* Beneficiary: Organizations who benefit from volunteering activities such as Old Folk Home, Nursing Home, and"
+        "content": ""
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "quinnzzzzz"
+          "gitId": "swalahlah"
         },
-        "content": "Orphanage."
+        "content": "VolunCHeer\u0027s codebase draws from https://se-edu.github.io/[SE-EDU]\u0027s AddressBook Level 4."
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "quinnzzzzz"
+          "gitId": "swalahlah"
         },
         "content": ""
       },
@@ -22128,98 +22128,98 @@
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "* Project: Projects that are set for volunteers to participate and help the beneficiary."
+        "content": "\u003d\u003d Terminology"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": ""
+        "content": "* Volunteer: The volunteers who participate in volunteer organization such as NUS Community Service Club, NUS Vietnamese"
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "* Volunteering Project Manager: The one who manages the arrangement of projects, assign volunteers and contact and associate"
+        "content": "Community\u0027s CIP Committee."
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "beneficiaries with projects. In this project portfolio, the Volunteering Project Manager is mentioned as the user."
+        "content": ""
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": ""
+        "content": "* Beneficiary: Organizations who benefit from volunteering activities such as Old Folk Home, Nursing Home, and"
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "\u003d\u003d Role"
+        "content": "Orphanage."
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "I am in charge of testing for VolunCHeer. If you found any bugs in VolunCHeer, please do not hesitate to https://github.com/cs2113-ay1819s2-t08-1/main/blob/master/docs/AboutUs.adoc[contact us] directly."
+        "content": ""
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "quinnzzzzz"
         },
-        "content": ""
+        "content": "* Project: Projects that are set for volunteers to participate and help the beneficiary."
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "quinnzzzzz"
         },
-        "content": "\u003d\u003d Summary of contributions"
+        "content": ""
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "quinnzzzzz"
         },
-        "content": ""
+        "content": "* Volunteering Project Manager: The one who manages the arrangement of projects, assign volunteers and contact and associate"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "* *Major enhancement*: Volunteer Feature"
+        "content": "beneficiaries with projects. In this project portfolio, the Volunteering Project Manager is mentioned as the user."
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "** What it does: It allows Project Manager to store the data of the volunteers and access specific data easily with a few simple commands."
+        "content": ""
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "** Justification: This feature is one of the basic building blocks of VolunCHeer. Having access to and being able to filter"
+        "content": "\u003d\u003d Role"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "thousands of volunteers\u0027 data in matter of seconds would allow project managers to plan their projects efficiently and effectively."
+        "content": "I am in charge of testing for VolunCHeer. If you found any bugs in VolunCHeer, please do not hesitate to https://github.com/cs2113-ay1819s2-t08-1/main/blob/master/docs/AboutUs.adoc[contact us] directly."
       },
       {
         "lineNumber": 43,
@@ -22231,49 +22231,49 @@
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "quinnzzzzz"
+          "gitId": "swalahlah"
         },
-        "content": "* *Major enhancement*: Password Feature"
+        "content": "\u003d\u003d Summary of contributions"
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "quinnzzzzz"
+          "gitId": "swalahlah"
         },
-        "content": "** What it does: It prompts for a password verification upon executing the application and prevent unauthorised users from using VolunCHeer."
+        "content": ""
       },
       {
         "lineNumber": 46,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "** Justification: The data stored in VolunCHeer is important and confidential. I have implemented the password feature"
+        "content": "* *Major enhancement*: Volunteer Feature"
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "because we are concerned about the security of our users and do not wish data stored in our program to be stolen."
+        "content": "** What it does: It allows Project Manager to store the data of the volunteers and access specific data easily with a few simple commands."
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "** Highlights: A simple UI with a single password field is used to implement this feature as it is more user friendly"
+        "content": "** Justification: This feature is one of the basic building blocks of VolunCHeer. Having access to and being able to filter"
       },
       {
         "lineNumber": 49,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "compared to using the command line interface."
+        "content": "thousands of volunteers\u0027 data in matter of seconds would allow project managers to plan their projects efficiently and effectively."
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "quinnzzzzz"
+          "gitId": "swalahlah"
         },
         "content": ""
       },
@@ -22282,126 +22282,126 @@
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "* *Minor enhancement*: Exit Dialog Box"
+        "content": "* *Major enhancement*: Password Feature"
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "** What it does: It prompts the user for a confirmation message when exiting VolunCHeer. It allows the `exit` command to bypass the message."
+        "content": "** What it does: It prompts for a password verification upon executing the application and prevent unauthorised users from using VolunCHeer."
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "** Justification: This feature prevents accidental termination of the program by the user or external program."
+        "content": "** Justification: The data stored in VolunCHeer is important and confidential. I have implemented the password feature"
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": ""
+        "content": "because we are concerned about the security of our users and do not wish data stored in our program to be stolen."
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "quinnzzzzz"
         },
-        "content": "* *Code contributed*: [https://github.com/cs2113-ay1819s2-t08-1/main/tree/master/src/main/java/seedu/address/logic/command/volunteer.java[Volunteer]] [https://github.com/cs2113-ay1819s2-t08-1/main/tree/master/src/main/java/seedu/address/ui/ValidatePassword.java[Password]]"
+        "content": "** Highlights: A simple UI with a single password field is used to implement this feature as it is more user friendly"
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "quinnzzzzz"
         },
-        "content": "* *Other contributions*:"
+        "content": "compared to using the command line interface."
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "quinnzzzzz"
         },
         "content": ""
       },
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "quinnzzzzz"
         },
-        "content": "** UI interface:"
+        "content": "* *Minor enhancement*: Exit Dialog Box"
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "*** Ensure that UI is running smoothly"
+        "content": "** What it does: It prompts the user for a confirmation message when exiting VolunCHeer. It allows the exit command to bypass the message."
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "quinnzzzzz"
         },
-        "content": ""
+        "content": "** Justification: This feature prevents accidental termination of the program by the user or external program."
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "quinnzzzzz"
         },
-        "content": "\u003d\u003d Contributions to the User Guide"
+        "content": ""
       },
       {
         "lineNumber": 62,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "* *Code contributed*: [https://github.com/cs2113-ay1819s2-t08-1/main/tree/master/src/main/java/seedu/address/logic/command/volunteer.java[Volunteer]] [https://github.com/cs2113-ay1819s2-t08-1/main/tree/master/src/main/java/seedu/address/ui/ValidatePassword.java[Password]]"
       },
       {
         "lineNumber": 63,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "|\u003d\u003d\u003d"
+        "content": "* *Other contributions*:"
       },
       {
         "lineNumber": 64,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "|_Given below are sections I contributed to the User Guide. They showcase my ability to write documentation targeting end-users._"
+        "content": ""
       },
       {
         "lineNumber": 65,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "|\u003d\u003d\u003d"
+        "content": "** UI interface:"
       },
       {
         "lineNumber": 66,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "*** Ensure that UI is running smoothly"
       },
       {
         "lineNumber": 67,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "*Volunteer Feature"
+        "content": ""
       },
       {
         "lineNumber": 68,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "include::../UserGuide.adoc[tag\u003dVolunteerManagement]"
+        "content": "\u003d\u003d Contributions to the User Guide"
       },
       {
         "lineNumber": 69,
@@ -22415,14 +22415,14 @@
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "\u003d\u003d Contributions to the Developer Guide"
+        "content": "|\u003d\u003d\u003d"
       },
       {
         "lineNumber": 71,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "|_Given below are sections I contributed to the User Guide. They showcase my ability to write documentation targeting end-users._"
       },
       {
         "lineNumber": 72,
@@ -22436,31 +22436,87 @@
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "|_Given below are sections I contributed to the Developer Guide. They showcase my ability to write technical documentation and the technical depth of my contributions to the project._"
+        "content": ""
       },
       {
         "lineNumber": 74,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "|\u003d\u003d\u003d"
+        "content": "*Volunteer Feature"
       },
       {
         "lineNumber": 75,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "include::../UserGuide.adoc[tag\u003dVolunteerManagement]"
       },
       {
         "lineNumber": 76,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 77,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "\u003d\u003d Contributions to the Developer Guide"
+      },
+      {
+        "lineNumber": 78,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 79,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "|\u003d\u003d\u003d"
+      },
+      {
+        "lineNumber": 80,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "|_Given below are sections I contributed to the Developer Guide. They showcase my ability to write technical documenta"
+      },
+      {
+        "lineNumber": 81,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "tion and the technical depth of my contributions to the project._"
+      },
+      {
+        "lineNumber": 82,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "|\u003d\u003d\u003d"
+      },
+      {
+        "lineNumber": 83,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 84,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "*Password Feature"
       },
       {
-        "lineNumber": 77,
+        "lineNumber": 85,
         "author": {
           "gitId": "quinnzzzzz"
         },
@@ -22468,8 +22524,8 @@
       }
     ],
     "authorContributionMap": {
-      "swalahlah": 36,
-      "quinnzzzzz": 41
+      "swalahlah": 45,
+      "quinnzzzzz": 40
     }
   },
   {
@@ -25174,7 +25230,7 @@
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    public static final String MESSAGE_BENEFICIARIES_LISTED_OVERVIEW \u003d \"%1$d persons listed!\";"
+        "content": "    public static final String MESSAGE_BENEFICIARIES_LISTED_OVERVIEW \u003d \"%1$d beneficiaries listed!\";"
       },
       {
         "lineNumber": 19,
@@ -36321,7 +36377,7 @@
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        + \"Example: \" + COMMAND_WORD + \" alice bob charlie\";"
+        "content": "        + \"Example: \" + COMMAND_WORD + \" Orphanage\";"
       },
       {
         "lineNumber": 26,
@@ -41987,418 +42043,425 @@
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "    public static final String COMMAND_ALIAS \u003d \"av\";"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \": Adds a person to the address book. \""
+        "content": ""
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        + \"Parameters: \""
+        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \": Adds a person to the address book. \""
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        + PREFIX_NAME + \"NAME \""
+        "content": "        + \"Parameters: \""
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "        + PREFIX_AGE + \"AGE \""
+        "content": "        + PREFIX_NAME + \"NAME \""
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_GENDER + \"GENDER \""
+        "content": "        + PREFIX_AGE + \"AGE \""
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_RACE + \"RACE \""
+        "content": "        + PREFIX_GENDER + \"GENDER \""
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_RELIGION + \"RELIGION \""
+        "content": "        + PREFIX_RACE + \"RACE \""
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_PHONE + \"PHONE \""
+        "content": "        + \"[\" + PREFIX_RELIGION + \"RELIGION] \""
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        + PREFIX_ADDRESS + \"ADDRESS \""
+        "content": "        + PREFIX_PHONE + \"PHONE \""
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "        + PREFIX_EMAIL + \"EMAIL \""
+        "content": "        + PREFIX_ADDRESS + \"ADDRESS \""
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_EMERGENCY_CONTACT + \"EMERGENCY CONTACT \""
+        "content": "        + PREFIX_EMAIL + \"EMAIL \""
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_DIETARY_PREFERENCE + \"DIETARY PREFERENCE \""
+        "content": "        + PREFIX_EMERGENCY_CONTACT + \"EMERGENCY CONTACT] \""
       },
       {
         "lineNumber": 45,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_MEDICAL_CONDITION + \"MEDICAL CONDITION \""
+        "content": "        + \"[\" + PREFIX_DIETARY_PREFERENCE + \"DIETARY PREFERENCE] \""
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_TAG + \"TAG]...\\n\""
+        "content": "        + \"[\" + PREFIX_MEDICAL_CONDITION + \"MEDICAL CONDITION] \""
       },
       {
         "lineNumber": 47,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        + \"Example: \" + COMMAND_WORD + \" \""
+        "content": "        + \"[\" + PREFIX_TAG + \"TAG]...\\n\""
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        + PREFIX_NAME + \"John Doe \""
+        "content": "        + \"Example: \" + COMMAND_WORD + \" \""
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "        + PREFIX_AGE + \"22 \""
+        "content": "        + PREFIX_NAME + \"John Doe \""
       },
       {
         "lineNumber": 50,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_GENDER + \"M \""
+        "content": "        + PREFIX_AGE + \"22 \""
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_RACE + \"French \""
+        "content": "        + PREFIX_GENDER + \"M \""
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_RELIGION + \"Christian \""
+        "content": "        + PREFIX_RACE + \"French \""
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_PHONE + \"98765432 \""
+        "content": "        + PREFIX_RELIGION + \"Christian \""
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        + PREFIX_ADDRESS + \"311, Clementi Ave 2, #02-25 \""
+        "content": "        + PREFIX_PHONE + \"98765432 \""
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "        + PREFIX_EMAIL + \"johnd@example.com \""
+        "content": "        + PREFIX_ADDRESS + \"311, Clementi Ave 2, #02-25 \""
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_EMERGENCY_CONTACT + \"Sally Mother 91234567 \""
+        "content": "        + PREFIX_EMAIL + \"johnd@example.com \""
       },
       {
         "lineNumber": 57,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_DIETARY_PREFERENCE + \"nil \""
+        "content": "        + PREFIX_EMERGENCY_CONTACT + \"Sally Mother 91234567 \""
       },
       {
         "lineNumber": 58,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_MEDICAL_CONDITION + \"nil \""
+        "content": "        + PREFIX_DIETARY_PREFERENCE + \"nil \""
       },
       {
         "lineNumber": 59,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "        + PREFIX_MEDICAL_CONDITION + \"nil \""
+      },
+      {
+        "lineNumber": 60,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "        + PREFIX_TAG + \"newVolunteer\";"
       },
       {
-        "lineNumber": 60,
-        "author": {
-          "gitId": "ndhuu"
-        },
-        "content": ""
-      },
-      {
         "lineNumber": 61,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    public static final String MESSAGE_SUCCESS \u003d \"New volunteer added: %1$s\";"
+        "content": ""
       },
       {
         "lineNumber": 62,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    public static final String MESSAGE_DUPLICATE_VOLUNTEER \u003d \"This volunteer already exists in the address book\";"
+        "content": "    public static final String MESSAGE_SUCCESS \u003d \"New volunteer added: %1$s\";"
       },
       {
         "lineNumber": 63,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "    public static final String MESSAGE_DUPLICATE_VOLUNTEER \u003d \"This volunteer already exists in the address book\";"
       },
       {
         "lineNumber": 64,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    private final Volunteer toAdd;"
+        "content": ""
       },
       {
         "lineNumber": 65,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "    private final Volunteer toAdd;"
       },
       {
         "lineNumber": 66,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    public AddVolunteerCommand(Volunteer volunteer) {"
+        "content": ""
       },
       {
         "lineNumber": 67,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        requireNonNull(volunteer);"
+        "content": "    public AddVolunteerCommand(Volunteer volunteer) {"
       },
       {
         "lineNumber": 68,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        toAdd \u003d volunteer;"
+        "content": "        requireNonNull(volunteer);"
       },
       {
         "lineNumber": 69,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    }"
+        "content": "        toAdd \u003d volunteer;"
       },
       {
         "lineNumber": 70,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 71,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    public CommandResult execute(Model model, CommandHistory history) throws CommandException {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 73,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        requireNonNull(model);"
+        "content": "    public CommandResult execute(Model model, CommandHistory history) throws CommandException {"
       },
       {
         "lineNumber": 74,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "        requireNonNull(model);"
       },
       {
         "lineNumber": 75,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        if (model.hasVolunteer(toAdd)) {"
+        "content": ""
       },
       {
         "lineNumber": 76,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            throw new CommandException(MESSAGE_DUPLICATE_VOLUNTEER);"
+        "content": "        if (model.hasVolunteer(toAdd)) {"
       },
       {
         "lineNumber": 77,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        }"
+        "content": "            throw new CommandException(MESSAGE_DUPLICATE_VOLUNTEER);"
       },
       {
         "lineNumber": 78,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 79,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        model.addVolunteer(toAdd);"
+        "content": ""
       },
       {
         "lineNumber": 80,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        model.commitAddressBook();"
+        "content": "        model.addVolunteer(toAdd);"
       },
       {
         "lineNumber": 81,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        return new CommandResult(String.format(MESSAGE_SUCCESS, toAdd));"
+        "content": "        model.commitAddressBook();"
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    }"
+        "content": "        return new CommandResult(String.format(MESSAGE_SUCCESS, toAdd));"
       },
       {
         "lineNumber": 83,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 84,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 85,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    public boolean equals(Object other) {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 86,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        return other \u003d\u003d this // short circuit if same object"
+        "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 87,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            || (other instanceof AddVolunteerCommand // instanceof handles nulls"
+        "content": "        return other \u003d\u003d this // short circuit if same object"
       },
       {
         "lineNumber": 88,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            \u0026\u0026 toAdd.equals(((AddVolunteerCommand) other).toAdd));"
+        "content": "            || (other instanceof AddVolunteerCommand // instanceof handles nulls"
       },
       {
         "lineNumber": 89,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    }"
+        "content": "            \u0026\u0026 toAdd.equals(((AddVolunteerCommand) other).toAdd));"
       },
       {
         "lineNumber": 90,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "}"
+        "content": "    }"
       },
       {
         "lineNumber": 91,
+        "author": {
+          "gitId": "ndhuu"
+        },
+        "content": "}"
+      },
+      {
+        "lineNumber": 92,
         "author": {
           "gitId": "ndhuu"
         },
@@ -42406,7 +42469,7 @@
       }
     ],
     "authorContributionMap": {
-      "swalahlah": 23,
+      "swalahlah": 24,
       "quinnzzzzz": 16,
       "-": 2,
       "ndhuu": 50
@@ -42565,250 +42628,257 @@
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "-"
+          "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "    public static final String COMMAND_ALIAS \u003d \"dv\";"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "-"
         },
-        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD"
+        "content": ""
       },
       {
         "lineNumber": 24,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD"
+      },
+      {
+        "lineNumber": 25,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        + \": Deletes the volunteer identified by the index number used in the displayed volunteer list.\\n\""
       },
       {
-        "lineNumber": 25,
+        "lineNumber": 26,
         "author": {
           "gitId": "-"
         },
         "content": "        + \"Parameters: INDEX (must be a positive integer)\\n\""
       },
       {
-        "lineNumber": 26,
+        "lineNumber": 27,
         "author": {
           "gitId": "-"
         },
         "content": "        + \"Example: \" + COMMAND_WORD + \" 1\";"
       },
       {
-        "lineNumber": 27,
+        "lineNumber": 28,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 28,
+        "lineNumber": 29,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "    public static final String MESSAGE_DELETE_VOLUNTEER_SUCCESS \u003d \"Deleted Volunteer: %1$s\";"
       },
       {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
         "lineNumber": 30,
         "author": {
           "gitId": "-"
         },
-        "content": "    private final Index targetIndex;"
+        "content": ""
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    private final Index targetIndex;"
       },
       {
         "lineNumber": 32,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 33,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "    public DeleteVolunteerCommand(Index targetIndex) {"
       },
       {
-        "lineNumber": 33,
+        "lineNumber": 34,
         "author": {
           "gitId": "-"
         },
         "content": "        this.targetIndex \u003d targetIndex;"
       },
       {
-        "lineNumber": 34,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
         "lineNumber": 35,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "-"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "-"
         },
-        "content": "    public CommandResult execute(Model model, CommandHistory history) throws CommandException {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "-"
         },
-        "content": "        requireNonNull(model);"
+        "content": "    public CommandResult execute(Model model, CommandHistory history) throws CommandException {"
       },
       {
         "lineNumber": 39,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        requireNonNull(model);"
+      },
+      {
+        "lineNumber": 40,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        List\u003cVolunteer\u003e lastShownList \u003d model.getFilteredVolunteerList();"
       },
       {
-        "lineNumber": 40,
+        "lineNumber": 41,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 41,
+        "lineNumber": 42,
         "author": {
           "gitId": "-"
         },
         "content": "        if (targetIndex.getZeroBased() \u003e\u003d lastShownList.size()) {"
       },
       {
-        "lineNumber": 42,
+        "lineNumber": 43,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "            throw new CommandException(Messages.MESSAGE_INVALID_VOLUNTEER_DISPLAYED_INDEX);"
       },
       {
-        "lineNumber": 43,
+        "lineNumber": 44,
         "author": {
           "gitId": "-"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 44,
+        "lineNumber": 45,
         "author": {
           "gitId": "-"
         },
         "content": ""
-      },
-      {
-        "lineNumber": 45,
-        "author": {
-          "gitId": "swalahlah"
-        },
-        "content": "        Volunteer volunteerToDelete \u003d lastShownList.get(targetIndex.getZeroBased());"
       },
       {
         "lineNumber": 46,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        model.deleteVolunteer(volunteerToDelete);"
+        "content": "        Volunteer volunteerToDelete \u003d lastShownList.get(targetIndex.getZeroBased());"
       },
       {
         "lineNumber": 47,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "        model.deleteVolunteer(volunteerToDelete);"
+      },
+      {
+        "lineNumber": 48,
         "author": {
           "gitId": "-"
         },
         "content": "        model.commitAddressBook();"
       },
       {
-        "lineNumber": 48,
+        "lineNumber": 49,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        return new CommandResult(String.format(MESSAGE_DELETE_VOLUNTEER_SUCCESS, volunteerToDelete));"
       },
       {
-        "lineNumber": 49,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
         "lineNumber": 50,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 51,
         "author": {
           "gitId": "-"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "-"
         },
-        "content": "    public boolean equals(Object other) {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 53,
         "author": {
           "gitId": "-"
         },
-        "content": "        return other \u003d\u003d this // short circuit if same object"
+        "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "-"
         },
-        "content": "            || (other instanceof DeleteVolunteerCommand // instanceof handles nulls"
+        "content": "        return other \u003d\u003d this // short circuit if same object"
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            \u0026\u0026 targetIndex.equals(((DeleteVolunteerCommand) other).targetIndex)); // state check"
+        "content": "            || (other instanceof DeleteVolunteerCommand // instanceof handles nulls"
       },
       {
         "lineNumber": 56,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "            \u0026\u0026 targetIndex.equals(((DeleteVolunteerCommand) other).targetIndex)); // state check"
+      },
+      {
+        "lineNumber": 57,
         "author": {
           "gitId": "-"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 57,
+        "lineNumber": 58,
         "author": {
           "gitId": "-"
         },
@@ -42816,7 +42886,7 @@
       }
     ],
     "authorContributionMap": {
-      "swalahlah": 14,
+      "swalahlah": 15,
       "quinnzzzzz": 3,
       "-": 40
     }
@@ -43193,2033 +43263,2040 @@
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "    public static final String COMMAND_ALIAS \u003d \"ev\";"
       },
       {
         "lineNumber": 54,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \": Edits the details of the volunteer identified \""
+        "content": ""
       },
       {
         "lineNumber": 55,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"by the index number used in the displayed volunteer list. \""
+        "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \": Edits the details of the volunteer identified \""
       },
       {
         "lineNumber": 56,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"Existing values will be overwritten by the input values.\\n\""
+        "content": "        + \"by the index number used in the displayed volunteer list. \""
       },
       {
         "lineNumber": 57,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"Parameters: INDEX (must be a positive integer) \""
+        "content": "        + \"Existing values will be overwritten by the input values.\\n\""
       },
       {
         "lineNumber": 58,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_NAME + \"NAME] \""
+        "content": "        + \"Parameters: INDEX (must be a positive integer) \""
       },
       {
         "lineNumber": 59,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_AGE + \"AGE] \""
+        "content": "        + \"[\" + PREFIX_NAME + \"NAME] \""
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_GENDER + \"AGE] \""
+        "content": "        + \"[\" + PREFIX_AGE + \"AGE] \""
       },
       {
         "lineNumber": 61,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_RACE + \"RACE] \""
+        "content": "        + \"[\" + PREFIX_GENDER + \"AGE] \""
       },
       {
         "lineNumber": 62,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_RELIGION + \"AGE] \""
+        "content": "        + \"[\" + PREFIX_RACE + \"RACE] \""
       },
       {
         "lineNumber": 63,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_PHONE + \"PHONE] \""
+        "content": "        + \"[\" + PREFIX_RELIGION + \"AGE] \""
       },
       {
         "lineNumber": 64,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_EMAIL + \"EMAIL] \""
+        "content": "        + \"[\" + PREFIX_PHONE + \"PHONE] \""
       },
       {
         "lineNumber": 65,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_EMERGENCY_CONTACT + \"NAME, RELATIONSHIP, PHONE] \""
+        "content": "        + \"[\" + PREFIX_EMAIL + \"EMAIL] \""
       },
       {
         "lineNumber": 66,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_DIETARY_PREFERENCE + \"PREFERENCE] \""
+        "content": "        + \"[\" + PREFIX_EMERGENCY_CONTACT + \"NAME, RELATIONSHIP, PHONE] \""
       },
       {
         "lineNumber": 67,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_MEDICAL_CONDITION + \"STATUS] \""
+        "content": "        + \"[\" + PREFIX_DIETARY_PREFERENCE + \"PREFERENCE] \""
       },
       {
         "lineNumber": 68,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_ADDRESS + \"ADDRESS] \""
+        "content": "        + \"[\" + PREFIX_MEDICAL_CONDITION + \"STATUS] \""
       },
       {
         "lineNumber": 69,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"[\" + PREFIX_TAG + \"TAG]...\\n\""
+        "content": "        + \"[\" + PREFIX_ADDRESS + \"ADDRESS] \""
       },
       {
         "lineNumber": 70,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + \"Example: \" + COMMAND_WORD + \" 1 \""
+        "content": "        + \"[\" + PREFIX_TAG + \"TAG]...\\n\""
       },
       {
         "lineNumber": 71,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_PHONE + \"91234567 \""
+        "content": "        + \"Example: \" + COMMAND_WORD + \" 1 \""
       },
       {
         "lineNumber": 72,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        + PREFIX_EMAIL + \"johndoe@example.com\";"
+        "content": "        + PREFIX_PHONE + \"91234567 \""
       },
       {
         "lineNumber": 73,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        + PREFIX_EMAIL + \"johndoe@example.com\";"
       },
       {
         "lineNumber": 74,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    public static final String MESSAGE_EDIT_VOLUNTEER_SUCCESS \u003d \"Edited Volunteer: %1$s\";"
+        "content": ""
       },
       {
         "lineNumber": 75,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    public static final String MESSAGE_NOT_EDITED \u003d \"At least one field to edit must be provided.\";"
+        "content": "    public static final String MESSAGE_EDIT_VOLUNTEER_SUCCESS \u003d \"Edited Volunteer: %1$s\";"
       },
       {
         "lineNumber": 76,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    public static final String MESSAGE_DUPLICATE_VOLUNTEER \u003d \"This volunteer already exists in the address book.\";"
+        "content": "    public static final String MESSAGE_NOT_EDITED \u003d \"At least one field to edit must be provided.\";"
       },
       {
         "lineNumber": 77,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "    public static final String MESSAGE_DUPLICATE_VOLUNTEER \u003d \"This volunteer already exists in the address book.\";"
       },
       {
         "lineNumber": 78,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    private final Index index;"
+        "content": ""
       },
       {
         "lineNumber": 79,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    private final EditVolunteerDescriptor editVolunteerDescriptor;"
+        "content": "    private final Index index;"
       },
       {
         "lineNumber": 80,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "    private final EditVolunteerDescriptor editVolunteerDescriptor;"
       },
       {
         "lineNumber": 81,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    /**"
+        "content": ""
       },
       {
         "lineNumber": 82,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "     * @param index                   of the volunteer in the filtered volunteer list to edit"
+        "content": "    /**"
       },
       {
         "lineNumber": 83,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "     * @param editVolunteerDescriptor details to edit the volunteer with"
+        "content": "     * @param index                   of the volunteer in the filtered volunteer list to edit"
       },
       {
         "lineNumber": 84,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "     */"
+        "content": "     * @param editVolunteerDescriptor details to edit the volunteer with"
       },
       {
         "lineNumber": 85,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    public EditVolunteerCommand(Index index, EditVolunteerDescriptor editVolunteerDescriptor) {"
+        "content": "     */"
       },
       {
         "lineNumber": 86,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        requireNonNull(index);"
+        "content": "    public EditVolunteerCommand(Index index, EditVolunteerDescriptor editVolunteerDescriptor) {"
       },
       {
         "lineNumber": 87,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        requireNonNull(editVolunteerDescriptor);"
+        "content": "        requireNonNull(index);"
       },
       {
         "lineNumber": 88,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        requireNonNull(editVolunteerDescriptor);"
       },
       {
         "lineNumber": 89,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        this.index \u003d index;"
+        "content": ""
       },
       {
         "lineNumber": 90,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        this.editVolunteerDescriptor \u003d new EditVolunteerDescriptor(editVolunteerDescriptor);"
+        "content": "        this.index \u003d index;"
       },
       {
         "lineNumber": 91,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    }"
+        "content": "        this.editVolunteerDescriptor \u003d new EditVolunteerDescriptor(editVolunteerDescriptor);"
       },
       {
         "lineNumber": 92,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 93,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    /**"
+        "content": ""
       },
       {
         "lineNumber": 94,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "     * Creates and returns a {@code Volunteer} with the details of {@code volunteerToEdit}"
+        "content": "    /**"
       },
       {
         "lineNumber": 95,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "     * edited with {@code editVolunteerDescriptor}."
+        "content": "     * Creates and returns a {@code Volunteer} with the details of {@code volunteerToEdit}"
       },
       {
         "lineNumber": 96,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "     */"
+        "content": "     * edited with {@code editVolunteerDescriptor}."
       },
       {
         "lineNumber": 97,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    private static Volunteer createEditedVolunteer(Volunteer volunteerToEdit,"
+        "content": "     */"
       },
       {
         "lineNumber": 98,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                                                   EditVolunteerDescriptor editVolunteerDescriptor) {"
+        "content": "    private static Volunteer createEditedVolunteer(Volunteer volunteerToEdit,"
       },
       {
         "lineNumber": 99,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        assert volunteerToEdit !\u003d null;"
+        "content": "                                                   EditVolunteerDescriptor editVolunteerDescriptor) {"
       },
       {
         "lineNumber": 100,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        assert volunteerToEdit !\u003d null;"
       },
       {
         "lineNumber": 101,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        Name updatedName \u003d editVolunteerDescriptor.getName().orElse(volunteerToEdit.getName());"
+        "content": ""
       },
       {
         "lineNumber": 102,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        Age updatedAge \u003d editVolunteerDescriptor.getAge().orElse(volunteerToEdit.getAge());"
+        "content": "        Name updatedName \u003d editVolunteerDescriptor.getName().orElse(volunteerToEdit.getName());"
       },
       {
         "lineNumber": 103,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        Gender updatedGender \u003d editVolunteerDescriptor.getGender().orElse(volunteerToEdit.getGender());"
+        "content": "        Age updatedAge \u003d editVolunteerDescriptor.getAge().orElse(volunteerToEdit.getAge());"
       },
       {
         "lineNumber": 104,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        Race updatedRace \u003d editVolunteerDescriptor.getRace().orElse(volunteerToEdit.getRace());"
+        "content": "        Gender updatedGender \u003d editVolunteerDescriptor.getGender().orElse(volunteerToEdit.getGender());"
       },
       {
         "lineNumber": 105,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        Religion updatedReligion \u003d editVolunteerDescriptor.getReligion().orElse(volunteerToEdit.getReligion());"
+        "content": "        Race updatedRace \u003d editVolunteerDescriptor.getRace().orElse(volunteerToEdit.getRace());"
       },
       {
         "lineNumber": 106,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        Phone updatedPhone \u003d editVolunteerDescriptor.getPhone().orElse(volunteerToEdit.getPhone());"
+        "content": "        Religion updatedReligion \u003d editVolunteerDescriptor.getReligion().orElse(volunteerToEdit.getReligion());"
       },
       {
         "lineNumber": 107,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        Email updatedEmail \u003d editVolunteerDescriptor.getEmail().orElse(volunteerToEdit.getEmail());"
+        "content": "        Phone updatedPhone \u003d editVolunteerDescriptor.getPhone().orElse(volunteerToEdit.getPhone());"
       },
       {
         "lineNumber": 108,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        Address updatedAddress \u003d editVolunteerDescriptor.getAddress().orElse(volunteerToEdit.getAddress());"
+        "content": "        Email updatedEmail \u003d editVolunteerDescriptor.getEmail().orElse(volunteerToEdit.getEmail());"
       },
       {
         "lineNumber": 109,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        EmergencyContact updatedEmergencyContact \u003d"
+        "content": "        Address updatedAddress \u003d editVolunteerDescriptor.getAddress().orElse(volunteerToEdit.getAddress());"
       },
       {
         "lineNumber": 110,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            editVolunteerDescriptor.getEmergencyContact().orElse(volunteerToEdit.getEmergencyContact());"
+        "content": "        EmergencyContact updatedEmergencyContact \u003d"
       },
       {
         "lineNumber": 111,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        DietaryPreference updatedDietaryPreference \u003d"
+        "content": "            editVolunteerDescriptor.getEmergencyContact().orElse(volunteerToEdit.getEmergencyContact());"
       },
       {
         "lineNumber": 112,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            editVolunteerDescriptor.getDietaryPreference().orElse(volunteerToEdit.getDietaryPreference());"
+        "content": "        DietaryPreference updatedDietaryPreference \u003d"
       },
       {
         "lineNumber": 113,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        MedicalCondition updatedMedicalCondition \u003d"
+        "content": "            editVolunteerDescriptor.getDietaryPreference().orElse(volunteerToEdit.getDietaryPreference());"
       },
       {
         "lineNumber": 114,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            editVolunteerDescriptor.getMedicalCondition().orElse(volunteerToEdit.getMedicalCondition());"
+        "content": "        MedicalCondition updatedMedicalCondition \u003d"
       },
       {
         "lineNumber": 115,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        Set\u003cTag\u003e updatedTags \u003d editVolunteerDescriptor.getTags().orElse(volunteerToEdit.getTags());"
+        "content": "            editVolunteerDescriptor.getMedicalCondition().orElse(volunteerToEdit.getMedicalCondition());"
       },
       {
         "lineNumber": 116,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        Set\u003cTag\u003e updatedTags \u003d editVolunteerDescriptor.getTags().orElse(volunteerToEdit.getTags());"
       },
       {
         "lineNumber": 117,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        return new Volunteer(updatedName, updatedAge, updatedGender, updatedRace, updatedReligion, updatedPhone,"
+        "content": ""
       },
       {
         "lineNumber": 118,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            updatedAddress, updatedEmail, updatedEmergencyContact, updatedDietaryPreference,"
+        "content": "        return new Volunteer(updatedName, updatedAge, updatedGender, updatedRace, updatedReligion, updatedPhone,"
       },
       {
         "lineNumber": 119,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            updatedMedicalCondition, updatedTags);"
+        "content": "            updatedAddress, updatedEmail, updatedEmergencyContact, updatedDietaryPreference,"
       },
       {
         "lineNumber": 120,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    }"
+        "content": "            updatedMedicalCondition, updatedTags);"
       },
       {
         "lineNumber": 121,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 123,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    public CommandResult execute(Model model, CommandHistory history) throws CommandException {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 124,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        requireNonNull(model);"
+        "content": "    public CommandResult execute(Model model, CommandHistory history) throws CommandException {"
       },
       {
         "lineNumber": 125,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        List\u003cVolunteer\u003e lastShownList \u003d model.getFilteredVolunteerList();"
+        "content": "        requireNonNull(model);"
       },
       {
         "lineNumber": 126,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "        List\u003cVolunteer\u003e lastShownList \u003d model.getFilteredVolunteerList();"
       },
       {
         "lineNumber": 127,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        if (index.getZeroBased() \u003e\u003d lastShownList.size()) {"
+        "content": ""
       },
       {
         "lineNumber": 128,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            throw new CommandException(Messages.MESSAGE_INVALID_VOLUNTEER_DISPLAYED_INDEX);"
+        "content": "        if (index.getZeroBased() \u003e\u003d lastShownList.size()) {"
       },
       {
         "lineNumber": 129,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        }"
+        "content": "            throw new CommandException(Messages.MESSAGE_INVALID_VOLUNTEER_DISPLAYED_INDEX);"
       },
       {
         "lineNumber": 130,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 131,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        Volunteer volunteerToEdit \u003d lastShownList.get(index.getZeroBased());"
+        "content": ""
       },
       {
         "lineNumber": 132,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        Volunteer editedVolunteer \u003d createEditedVolunteer(volunteerToEdit, editVolunteerDescriptor);"
+        "content": "        Volunteer volunteerToEdit \u003d lastShownList.get(index.getZeroBased());"
       },
       {
         "lineNumber": 133,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "        Volunteer editedVolunteer \u003d createEditedVolunteer(volunteerToEdit, editVolunteerDescriptor);"
       },
       {
         "lineNumber": 134,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        if (!volunteerToEdit.isSameVolunteer(editedVolunteer) \u0026\u0026 model.hasVolunteer(editedVolunteer)) {"
+        "content": ""
       },
       {
         "lineNumber": 135,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            throw new CommandException(MESSAGE_DUPLICATE_VOLUNTEER);"
+        "content": "        if (!volunteerToEdit.isSameVolunteer(editedVolunteer) \u0026\u0026 model.hasVolunteer(editedVolunteer)) {"
       },
       {
         "lineNumber": 136,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        }"
+        "content": "            throw new CommandException(MESSAGE_DUPLICATE_VOLUNTEER);"
       },
       {
         "lineNumber": 137,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 138,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        model.setVolunteer(volunteerToEdit, editedVolunteer);"
+        "content": ""
       },
       {
         "lineNumber": 139,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        model.updateFilteredVolunteerList(PREDICATE_SHOW_ALL_VOLUNTEERS);"
+        "content": "        model.setVolunteer(volunteerToEdit, editedVolunteer);"
       },
       {
         "lineNumber": 140,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        model.commitAddressBook();"
+        "content": "        model.updateFilteredVolunteerList(PREDICATE_SHOW_ALL_VOLUNTEERS);"
       },
       {
         "lineNumber": 141,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        return new CommandResult(String.format(MESSAGE_EDIT_VOLUNTEER_SUCCESS, editedVolunteer));"
+        "content": "        model.commitAddressBook();"
       },
       {
         "lineNumber": 142,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    }"
+        "content": "        return new CommandResult(String.format(MESSAGE_EDIT_VOLUNTEER_SUCCESS, editedVolunteer));"
       },
       {
         "lineNumber": 143,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 144,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 145,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    public boolean equals(Object other) {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 146,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        // short circuit if same object"
+        "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 147,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        if (other \u003d\u003d this) {"
+        "content": "        // short circuit if same object"
       },
       {
         "lineNumber": 148,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return true;"
+        "content": "        if (other \u003d\u003d this) {"
       },
       {
         "lineNumber": 149,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            return true;"
       },
       {
         "lineNumber": 150,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 151,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        // instanceof handles nulls"
+        "content": ""
       },
       {
         "lineNumber": 152,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        if (!(other instanceof EditVolunteerCommand)) {"
+        "content": "        // instanceof handles nulls"
       },
       {
         "lineNumber": 153,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return false;"
+        "content": "        if (!(other instanceof EditVolunteerCommand)) {"
       },
       {
         "lineNumber": 154,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            return false;"
       },
       {
         "lineNumber": 155,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 156,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        // state check"
+        "content": ""
       },
       {
         "lineNumber": 157,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        EditVolunteerCommand e \u003d (EditVolunteerCommand) other;"
+        "content": "        // state check"
       },
       {
         "lineNumber": 158,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        return index.equals(e.index)"
+        "content": "        EditVolunteerCommand e \u003d (EditVolunteerCommand) other;"
       },
       {
         "lineNumber": 159,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            \u0026\u0026 editVolunteerDescriptor.equals(e.editVolunteerDescriptor);"
+        "content": "        return index.equals(e.index)"
       },
       {
         "lineNumber": 160,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    }"
+        "content": "            \u0026\u0026 editVolunteerDescriptor.equals(e.editVolunteerDescriptor);"
       },
       {
         "lineNumber": 161,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 162,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    /**"
+        "content": ""
       },
       {
         "lineNumber": 163,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "     * Stores the details to edit the volunteer with. Each non-empty field value will replace the"
+        "content": "    /**"
       },
       {
         "lineNumber": 164,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "     * corresponding field value of the volunteer."
+        "content": "     * Stores the details to edit the volunteer with. Each non-empty field value will replace the"
       },
       {
         "lineNumber": 165,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "     */"
+        "content": "     * corresponding field value of the volunteer."
       },
       {
         "lineNumber": 166,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    public static class EditVolunteerDescriptor {"
+        "content": "     */"
       },
       {
         "lineNumber": 167,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        private Name name;"
+        "content": "    public static class EditVolunteerDescriptor {"
       },
       {
         "lineNumber": 168,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        private Age age;"
+        "content": "        private Name name;"
       },
       {
         "lineNumber": 169,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        private Gender gender;"
+        "content": "        private Age age;"
       },
       {
         "lineNumber": 170,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        private Race race;"
+        "content": "        private Gender gender;"
       },
       {
         "lineNumber": 171,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        private Religion religion;"
+        "content": "        private Race race;"
       },
       {
         "lineNumber": 172,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        private Phone phone;"
+        "content": "        private Religion religion;"
       },
       {
         "lineNumber": 173,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        private Address address;"
+        "content": "        private Phone phone;"
       },
       {
         "lineNumber": 174,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        private Email email;"
+        "content": "        private Address address;"
       },
       {
         "lineNumber": 175,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        private EmergencyContact emergencycontact;"
+        "content": "        private Email email;"
       },
       {
         "lineNumber": 176,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        private DietaryPreference dietarypreference;"
+        "content": "        private EmergencyContact emergencycontact;"
       },
       {
         "lineNumber": 177,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        private MedicalCondition medicalcondition;"
+        "content": "        private DietaryPreference dietarypreference;"
       },
       {
         "lineNumber": 178,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        private Set\u003cTag\u003e tags;"
+        "content": "        private MedicalCondition medicalcondition;"
       },
       {
         "lineNumber": 179,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        private Set\u003cTag\u003e tags;"
       },
       {
         "lineNumber": 180,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "        public EditVolunteerDescriptor() {"
+        "content": ""
       },
       {
         "lineNumber": 181,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        }"
+        "content": "        public EditVolunteerDescriptor() {"
       },
       {
         "lineNumber": 182,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 183,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        /**"
+        "content": ""
       },
       {
         "lineNumber": 184,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "         * Copy constructor."
+        "content": "        /**"
       },
       {
         "lineNumber": 185,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "         * A defensive copy of {@code tags} is used internally."
+        "content": "         * Copy constructor."
       },
       {
         "lineNumber": 186,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "         */"
+        "content": "         * A defensive copy of {@code tags} is used internally."
       },
       {
         "lineNumber": 187,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        public EditVolunteerDescriptor(EditVolunteerDescriptor toCopy) {"
+        "content": "         */"
       },
       {
         "lineNumber": 188,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            setName(toCopy.name);"
+        "content": "        public EditVolunteerDescriptor(EditVolunteerDescriptor toCopy) {"
       },
       {
         "lineNumber": 189,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            setAge(toCopy.age);"
+        "content": "            setName(toCopy.name);"
       },
       {
         "lineNumber": 190,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            setGender(toCopy.gender);"
+        "content": "            setAge(toCopy.age);"
       },
       {
         "lineNumber": 191,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            setRace(toCopy.race);"
+        "content": "            setGender(toCopy.gender);"
       },
       {
         "lineNumber": 192,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            setReligion(toCopy.religion);"
+        "content": "            setRace(toCopy.race);"
       },
       {
         "lineNumber": 193,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            setPhone(toCopy.phone);"
+        "content": "            setReligion(toCopy.religion);"
       },
       {
         "lineNumber": 194,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            setAddress(toCopy.address);"
+        "content": "            setPhone(toCopy.phone);"
       },
       {
         "lineNumber": 195,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            setEmail(toCopy.email);"
+        "content": "            setAddress(toCopy.address);"
       },
       {
         "lineNumber": 196,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            setEmergencyContact(toCopy.emergencycontact);"
+        "content": "            setEmail(toCopy.email);"
       },
       {
         "lineNumber": 197,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            setDietaryPreference(toCopy.dietarypreference);"
+        "content": "            setEmergencyContact(toCopy.emergencycontact);"
       },
       {
         "lineNumber": 198,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            setMedicalCondition(toCopy.medicalcondition);"
+        "content": "            setDietaryPreference(toCopy.dietarypreference);"
       },
       {
         "lineNumber": 199,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            setTags(toCopy.tags);"
+        "content": "            setMedicalCondition(toCopy.medicalcondition);"
       },
       {
         "lineNumber": 200,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            setTags(toCopy.tags);"
       },
       {
         "lineNumber": 201,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 202,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        /**"
+        "content": ""
       },
       {
         "lineNumber": 203,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "         * Returns true if at least one field is edited."
+        "content": "        /**"
       },
       {
         "lineNumber": 204,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "         */"
+        "content": "         * Returns true if at least one field is edited."
       },
       {
         "lineNumber": 205,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        public boolean isAnyFieldEdited() {"
+        "content": "         */"
       },
       {
         "lineNumber": 206,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return CollectionUtil.isAnyNonNull(name, phone, email, address, tags);"
+        "content": "        public boolean isAnyFieldEdited() {"
       },
       {
         "lineNumber": 207,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            return CollectionUtil.isAnyNonNull(name, phone, email, address, tags);"
       },
       {
         "lineNumber": 208,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 209,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "        public Optional\u003cName\u003e getName() {"
+        "content": ""
       },
       {
         "lineNumber": 210,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            return Optional.ofNullable(name);"
+        "content": "        public Optional\u003cName\u003e getName() {"
       },
       {
         "lineNumber": 211,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        }"
+        "content": "            return Optional.ofNullable(name);"
       },
       {
         "lineNumber": 212,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 213,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "        public void setName(Name name) {"
+        "content": ""
       },
       {
         "lineNumber": 214,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            this.name \u003d name;"
+        "content": "        public void setName(Name name) {"
       },
       {
         "lineNumber": 215,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            this.name \u003d name;"
       },
       {
         "lineNumber": 216,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 217,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        public Optional\u003cAge\u003e getAge() {"
+        "content": ""
       },
       {
         "lineNumber": 218,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            return Optional.ofNullable(age);"
+        "content": "        public Optional\u003cAge\u003e getAge() {"
       },
       {
         "lineNumber": 219,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "        }"
+        "content": "            return Optional.ofNullable(age);"
       },
       {
         "lineNumber": 220,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 221,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        public void setAge(Age age) {"
+        "content": ""
       },
       {
         "lineNumber": 222,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            this.age \u003d age;"
+        "content": "        public void setAge(Age age) {"
       },
       {
         "lineNumber": 223,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            this.age \u003d age;"
       },
       {
         "lineNumber": 224,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 225,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        public Optional\u003cGender\u003e getGender() {"
+        "content": ""
       },
       {
         "lineNumber": 226,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            return Optional.ofNullable(gender);"
+        "content": "        public Optional\u003cGender\u003e getGender() {"
       },
       {
         "lineNumber": 227,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "        }"
+        "content": "            return Optional.ofNullable(gender);"
       },
       {
         "lineNumber": 228,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 229,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        public void setGender(Gender gender) {"
+        "content": ""
       },
       {
         "lineNumber": 230,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            this.gender \u003d gender;"
+        "content": "        public void setGender(Gender gender) {"
       },
       {
         "lineNumber": 231,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            this.gender \u003d gender;"
       },
       {
         "lineNumber": 232,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 233,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        public Optional\u003cRace\u003e getRace() {"
+        "content": ""
       },
       {
         "lineNumber": 234,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            return Optional.ofNullable(race);"
+        "content": "        public Optional\u003cRace\u003e getRace() {"
       },
       {
         "lineNumber": 235,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "        }"
+        "content": "            return Optional.ofNullable(race);"
       },
       {
         "lineNumber": 236,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 237,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        public void setRace(Race race) {"
+        "content": ""
       },
       {
         "lineNumber": 238,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            this.race \u003d race;"
+        "content": "        public void setRace(Race race) {"
       },
       {
         "lineNumber": 239,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            this.race \u003d race;"
       },
       {
         "lineNumber": 240,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 241,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        public Optional\u003cReligion\u003e getReligion() {"
+        "content": ""
       },
       {
         "lineNumber": 242,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            return Optional.ofNullable(religion);"
+        "content": "        public Optional\u003cReligion\u003e getReligion() {"
       },
       {
         "lineNumber": 243,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "        }"
+        "content": "            return Optional.ofNullable(religion);"
       },
       {
         "lineNumber": 244,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 245,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        public void setReligion(Religion religion) {"
+        "content": ""
       },
       {
         "lineNumber": 246,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            this.religion \u003d religion;"
+        "content": "        public void setReligion(Religion religion) {"
       },
       {
         "lineNumber": 247,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            this.religion \u003d religion;"
       },
       {
         "lineNumber": 248,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 249,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        public Optional\u003cPhone\u003e getPhone() {"
+        "content": ""
       },
       {
         "lineNumber": 250,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return Optional.ofNullable(phone);"
+        "content": "        public Optional\u003cPhone\u003e getPhone() {"
       },
       {
         "lineNumber": 251,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            return Optional.ofNullable(phone);"
       },
       {
         "lineNumber": 252,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 253,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "        public void setPhone(Phone phone) {"
+        "content": ""
       },
       {
         "lineNumber": 254,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            this.phone \u003d phone;"
+        "content": "        public void setPhone(Phone phone) {"
       },
       {
         "lineNumber": 255,
+        "author": {
+          "gitId": "ndhuu"
+        },
+        "content": "            this.phone \u003d phone;"
+      },
+      {
+        "lineNumber": 256,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 256,
+        "lineNumber": 257,
         "author": {
           "gitId": "ndhuu"
         },
         "content": ""
-      },
-      {
-        "lineNumber": 257,
-        "author": {
-          "gitId": "swalahlah"
-        },
-        "content": "        public Optional\u003cEmail\u003e getEmail() {"
       },
       {
         "lineNumber": 258,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return Optional.ofNullable(email);"
+        "content": "        public Optional\u003cEmail\u003e getEmail() {"
       },
       {
         "lineNumber": 259,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            return Optional.ofNullable(email);"
       },
       {
         "lineNumber": 260,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 261,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "        public void setEmail(Email email) {"
+        "content": ""
       },
       {
         "lineNumber": 262,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            this.email \u003d email;"
+        "content": "        public void setEmail(Email email) {"
       },
       {
         "lineNumber": 263,
+        "author": {
+          "gitId": "ndhuu"
+        },
+        "content": "            this.email \u003d email;"
+      },
+      {
+        "lineNumber": 264,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 264,
+        "lineNumber": 265,
         "author": {
           "gitId": "ndhuu"
         },
         "content": ""
-      },
-      {
-        "lineNumber": 265,
-        "author": {
-          "gitId": "swalahlah"
-        },
-        "content": "        public Optional\u003cAddress\u003e getAddress() {"
       },
       {
         "lineNumber": 266,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return Optional.ofNullable(address);"
+        "content": "        public Optional\u003cAddress\u003e getAddress() {"
       },
       {
         "lineNumber": 267,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            return Optional.ofNullable(address);"
       },
       {
         "lineNumber": 268,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 269,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "        public void setAddress(Address address) {"
+        "content": ""
       },
       {
         "lineNumber": 270,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            this.address \u003d address;"
+        "content": "        public void setAddress(Address address) {"
       },
       {
         "lineNumber": 271,
+        "author": {
+          "gitId": "ndhuu"
+        },
+        "content": "            this.address \u003d address;"
+      },
+      {
+        "lineNumber": 272,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 272,
+        "lineNumber": 273,
         "author": {
           "gitId": "ndhuu"
         },
         "content": ""
-      },
-      {
-        "lineNumber": 273,
-        "author": {
-          "gitId": "swalahlah"
-        },
-        "content": "        public Optional\u003cEmergencyContact\u003e getEmergencyContact() {"
       },
       {
         "lineNumber": 274,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return Optional.ofNullable(emergencycontact);"
+        "content": "        public Optional\u003cEmergencyContact\u003e getEmergencyContact() {"
       },
       {
         "lineNumber": 275,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            return Optional.ofNullable(emergencycontact);"
       },
       {
         "lineNumber": 276,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 277,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "        public void setEmergencyContact(EmergencyContact emergencycontact) {"
+        "content": ""
       },
       {
         "lineNumber": 278,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            this.emergencycontact \u003d emergencycontact;"
+        "content": "        public void setEmergencyContact(EmergencyContact emergencycontact) {"
       },
       {
         "lineNumber": 279,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        }"
+        "content": "            this.emergencycontact \u003d emergencycontact;"
       },
       {
         "lineNumber": 280,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 281,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "        public Optional\u003cDietaryPreference\u003e getDietaryPreference() {"
+        "content": ""
       },
       {
         "lineNumber": 282,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return Optional.ofNullable(dietarypreference);"
+        "content": "        public Optional\u003cDietaryPreference\u003e getDietaryPreference() {"
       },
       {
         "lineNumber": 283,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            return Optional.ofNullable(dietarypreference);"
       },
       {
         "lineNumber": 284,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 285,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "        public void setDietaryPreference(DietaryPreference dietarypreference) {"
+        "content": ""
       },
       {
         "lineNumber": 286,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            this.dietarypreference \u003d dietarypreference;"
+        "content": "        public void setDietaryPreference(DietaryPreference dietarypreference) {"
       },
       {
         "lineNumber": 287,
+        "author": {
+          "gitId": "ndhuu"
+        },
+        "content": "            this.dietarypreference \u003d dietarypreference;"
+      },
+      {
+        "lineNumber": 288,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 288,
+        "lineNumber": 289,
         "author": {
           "gitId": "ndhuu"
         },
         "content": ""
-      },
-      {
-        "lineNumber": 289,
-        "author": {
-          "gitId": "swalahlah"
-        },
-        "content": "        public Optional\u003cMedicalCondition\u003e getMedicalCondition() {"
       },
       {
         "lineNumber": 290,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return Optional.ofNullable(medicalcondition);"
+        "content": "        public Optional\u003cMedicalCondition\u003e getMedicalCondition() {"
       },
       {
         "lineNumber": 291,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            return Optional.ofNullable(medicalcondition);"
       },
       {
         "lineNumber": 292,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 293,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        public void setMedicalCondition(MedicalCondition medicalcondition) {"
+        "content": ""
       },
       {
         "lineNumber": 294,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            this.medicalcondition \u003d medicalcondition;"
+        "content": "        public void setMedicalCondition(MedicalCondition medicalcondition) {"
       },
       {
         "lineNumber": 295,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "        }"
+        "content": "            this.medicalcondition \u003d medicalcondition;"
       },
       {
         "lineNumber": 296,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 297,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        /**"
+        "content": ""
       },
       {
         "lineNumber": 298,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "         * Returns an unmodifiable tag set, which throws {@code UnsupportedOperationException}"
+        "content": "        /**"
       },
       {
         "lineNumber": 299,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "         * if modification is attempted."
+        "content": "         * Returns an unmodifiable tag set, which throws {@code UnsupportedOperationException}"
       },
       {
         "lineNumber": 300,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "         * Returns {@code Optional#empty()} if {@code tags} is null."
+        "content": "         * if modification is attempted."
       },
       {
         "lineNumber": 301,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "         */"
+        "content": "         * Returns {@code Optional#empty()} if {@code tags} is null."
       },
       {
         "lineNumber": 302,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        public Optional\u003cSet\u003cTag\u003e\u003e getTags() {"
+        "content": "         */"
       },
       {
         "lineNumber": 303,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return (tags !\u003d null) ? Optional.of(Collections.unmodifiableSet(tags)) : Optional.empty();"
+        "content": "        public Optional\u003cSet\u003cTag\u003e\u003e getTags() {"
       },
       {
         "lineNumber": 304,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "            return (tags !\u003d null) ? Optional.of(Collections.unmodifiableSet(tags)) : Optional.empty();"
       },
       {
         "lineNumber": 305,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 306,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "        /**"
+        "content": ""
       },
       {
         "lineNumber": 307,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "         * Sets {@code tags} to this object\u0027s {@code tags}."
+        "content": "        /**"
       },
       {
         "lineNumber": 308,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "         * A defensive copy of {@code tags} is used internally."
+        "content": "         * Sets {@code tags} to this object\u0027s {@code tags}."
       },
       {
         "lineNumber": 309,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "         */"
+        "content": "         * A defensive copy of {@code tags} is used internally."
       },
       {
         "lineNumber": 310,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        public void setTags(Set\u003cTag\u003e tags) {"
+        "content": "         */"
       },
       {
         "lineNumber": 311,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "            this.tags \u003d (tags !\u003d null) ? new HashSet\u003c\u003e(tags) : null;"
+        "content": "        public void setTags(Set\u003cTag\u003e tags) {"
       },
       {
         "lineNumber": 312,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        }"
+        "content": "            this.tags \u003d (tags !\u003d null) ? new HashSet\u003c\u003e(tags) : null;"
       },
       {
         "lineNumber": 313,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "        }"
       },
       {
         "lineNumber": 314,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "ndhuu"
         },
-        "content": "        @Override"
+        "content": ""
       },
       {
         "lineNumber": 315,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        public boolean equals(Object other) {"
+        "content": "        @Override"
       },
       {
         "lineNumber": 316,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            // short circuit if same object"
+        "content": "        public boolean equals(Object other) {"
       },
       {
         "lineNumber": 317,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            if (other \u003d\u003d this) {"
+        "content": "            // short circuit if same object"
       },
       {
         "lineNumber": 318,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                return true;"
+        "content": "            if (other \u003d\u003d this) {"
       },
       {
         "lineNumber": 319,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            }"
+        "content": "                return true;"
       },
       {
         "lineNumber": 320,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "            }"
       },
       {
         "lineNumber": 321,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            // instanceof handles nulls"
+        "content": ""
       },
       {
         "lineNumber": 322,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            if (!(other instanceof EditVolunteerDescriptor)) {"
+        "content": "            // instanceof handles nulls"
       },
       {
         "lineNumber": 323,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                return false;"
+        "content": "            if (!(other instanceof EditVolunteerDescriptor)) {"
       },
       {
         "lineNumber": 324,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            }"
+        "content": "                return false;"
       },
       {
         "lineNumber": 325,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "            }"
       },
       {
         "lineNumber": 326,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            // state check"
+        "content": ""
       },
       {
         "lineNumber": 327,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            EditVolunteerDescriptor e \u003d (EditVolunteerDescriptor) other;"
+        "content": "            // state check"
       },
       {
         "lineNumber": 328,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "            EditVolunteerDescriptor e \u003d (EditVolunteerDescriptor) other;"
       },
       {
         "lineNumber": 329,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return getName().equals(e.getName())"
+        "content": ""
       },
       {
         "lineNumber": 330,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                \u0026\u0026 getAge().equals(e.getAge())"
+        "content": "            return getName().equals(e.getName())"
       },
       {
         "lineNumber": 331,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                \u0026\u0026 getGender().equals(e.getGender())"
+        "content": "                \u0026\u0026 getAge().equals(e.getAge())"
       },
       {
         "lineNumber": 332,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                \u0026\u0026 getRace().equals(e.getRace())"
+        "content": "                \u0026\u0026 getGender().equals(e.getGender())"
       },
       {
         "lineNumber": 333,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                \u0026\u0026 getReligion().equals(e.getReligion())"
+        "content": "                \u0026\u0026 getRace().equals(e.getRace())"
       },
       {
         "lineNumber": 334,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                \u0026\u0026 getPhone().equals(e.getPhone())"
+        "content": "                \u0026\u0026 getReligion().equals(e.getReligion())"
       },
       {
         "lineNumber": 335,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                \u0026\u0026 getAddress().equals(e.getAddress())"
+        "content": "                \u0026\u0026 getPhone().equals(e.getPhone())"
       },
       {
         "lineNumber": 336,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                \u0026\u0026 getEmail().equals(e.getEmail())"
+        "content": "                \u0026\u0026 getAddress().equals(e.getAddress())"
       },
       {
         "lineNumber": 337,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                \u0026\u0026 getEmergencyContact().equals(e.getEmergencyContact())"
+        "content": "                \u0026\u0026 getEmail().equals(e.getEmail())"
       },
       {
         "lineNumber": 338,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                \u0026\u0026 getDietaryPreference().equals(e.getDietaryPreference())"
+        "content": "                \u0026\u0026 getEmergencyContact().equals(e.getEmergencyContact())"
       },
       {
         "lineNumber": 339,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                \u0026\u0026 getMedicalCondition().equals(e.getMedicalCondition())"
+        "content": "                \u0026\u0026 getDietaryPreference().equals(e.getDietaryPreference())"
       },
       {
         "lineNumber": 340,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "                \u0026\u0026 getTags().equals(e.getTags());"
+        "content": "                \u0026\u0026 getMedicalCondition().equals(e.getMedicalCondition())"
       },
       {
         "lineNumber": 341,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        }"
+        "content": "                \u0026\u0026 getTags().equals(e.getTags());"
       },
       {
         "lineNumber": 342,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    }"
+        "content": "        }"
       },
       {
         "lineNumber": 343,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 344,
         "author": {
           "gitId": "swalahlah"
         },
@@ -45227,7 +45304,7 @@
       }
     ],
     "authorContributionMap": {
-      "swalahlah": 260,
+      "swalahlah": 261,
       "quinnzzzzz": 15,
       "articstranger": 1,
       "ndhuu": 67
@@ -45365,187 +45442,194 @@
       {
         "lineNumber": 19,
         "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "    public static final String COMMAND_ALIAS \u003d \"fv\";"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 20,
+        "lineNumber": 21,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "    public static final String MESSAGE_USAGE \u003d COMMAND_WORD + \": Finds all volunteers whose names contain any of \""
       },
       {
-        "lineNumber": 21,
+        "lineNumber": 22,
         "author": {
           "gitId": "-"
         },
         "content": "        + \"the specified keywords (case-insensitive) and displays them as a list with index numbers.\\n\""
       },
       {
-        "lineNumber": 22,
+        "lineNumber": 23,
         "author": {
           "gitId": "-"
         },
         "content": "        + \"Parameters: KEYWORD [MORE_KEYWORDS]...\\n\""
       },
       {
-        "lineNumber": 23,
+        "lineNumber": 24,
         "author": {
           "gitId": "-"
         },
         "content": "        + \"Example: \" + COMMAND_WORD + \" alice bob charlie\";"
       },
       {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
         "lineNumber": 25,
         "author": {
           "gitId": "-"
         },
-        "content": "    private final NameContainsKeywordsPredicate predicate;"
+        "content": ""
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    private final NameContainsKeywordsPredicate predicate;"
       },
       {
         "lineNumber": 27,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 28,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "    public FindVolunteerCommand(NameContainsKeywordsPredicate predicate) {"
       },
       {
-        "lineNumber": 28,
+        "lineNumber": 29,
         "author": {
           "gitId": "-"
         },
         "content": "        this.predicate \u003d predicate;"
       },
       {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
         "lineNumber": 30,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "-"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "-"
         },
-        "content": "    public CommandResult execute(Model model, CommandHistory history) {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "-"
         },
-        "content": "        requireNonNull(model);"
+        "content": "    public CommandResult execute(Model model, CommandHistory history) {"
       },
       {
         "lineNumber": 34,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        requireNonNull(model);"
+      },
+      {
+        "lineNumber": 35,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        model.updateFilteredVolunteerList(predicate);"
       },
       {
-        "lineNumber": 35,
+        "lineNumber": 36,
         "author": {
           "gitId": "-"
         },
         "content": "        return new CommandResult("
       },
       {
-        "lineNumber": 36,
+        "lineNumber": 37,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "            String.format(Messages.MESSAGE_VOLUNTEERS_LISTED_OVERVIEW, model.getFilteredVolunteerList().size()));"
       },
       {
-        "lineNumber": 37,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    }"
-      },
-      {
         "lineNumber": 38,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "-"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "-"
         },
-        "content": "    public boolean equals(Object other) {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "-"
         },
-        "content": "        return other \u003d\u003d this // short circuit if same object"
+        "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "-"
         },
-        "content": "            || (other instanceof FindVolunteerCommand // instanceof handles nulls"
+        "content": "        return other \u003d\u003d this // short circuit if same object"
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            \u0026\u0026 predicate.equals(((FindVolunteerCommand) other).predicate)); // state check"
+        "content": "            || (other instanceof FindVolunteerCommand // instanceof handles nulls"
       },
       {
         "lineNumber": 44,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "            \u0026\u0026 predicate.equals(((FindVolunteerCommand) other).predicate)); // state check"
+      },
+      {
+        "lineNumber": 45,
         "author": {
           "gitId": "-"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 45,
+        "lineNumber": 46,
         "author": {
           "gitId": "-"
         },
@@ -45553,7 +45637,7 @@
       }
     ],
     "authorContributionMap": {
-      "swalahlah": 10,
+      "swalahlah": 11,
       "quinnzzzzz": 3,
       "-": 32
     }
@@ -45676,23 +45760,23 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "-"
+          "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "    public static final String COMMAND_ALIAS \u003d \"lv\";"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "-"
         },
-        "content": "    public static final String MESSAGE_SUCCESS \u003d \"Listed all volunteers\";"
+        "content": ""
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "-"
+          "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "    public static final String MESSAGE_SUCCESS \u003d \"Listed all volunteers\";"
       },
       {
         "lineNumber": 20,
@@ -45706,45 +45790,52 @@
         "author": {
           "gitId": "-"
         },
-        "content": "    @Override"
+        "content": ""
       },
       {
         "lineNumber": 22,
         "author": {
           "gitId": "-"
         },
-        "content": "    public CommandResult execute(Model model, CommandHistory history) {"
+        "content": "    @Override"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "-"
         },
-        "content": "        requireNonNull(model);"
+        "content": "    public CommandResult execute(Model model, CommandHistory history) {"
       },
       {
         "lineNumber": 24,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "        requireNonNull(model);"
+      },
+      {
+        "lineNumber": 25,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        model.updateFilteredVolunteerList(PREDICATE_SHOW_ALL_VOLUNTEERS);"
       },
       {
-        "lineNumber": 25,
+        "lineNumber": 26,
         "author": {
           "gitId": "-"
         },
         "content": "        return new CommandResult(MESSAGE_SUCCESS);"
       },
       {
-        "lineNumber": 26,
+        "lineNumber": 27,
         "author": {
           "gitId": "-"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 27,
+        "lineNumber": 28,
         "author": {
           "gitId": "-"
         },
@@ -45752,7 +45843,7 @@
       }
     ],
     "authorContributionMap": {
-      "swalahlah": 6,
+      "swalahlah": 7,
       "quinnzzzzz": 3,
       "-": 18
     }
@@ -46419,490 +46510,490 @@
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "import seedu.address.logic.commands.volunteer.SelectVolunteerCommand;"
+        "content": "import seedu.address.logic.parser.beneficiary.AddBeneficiaryCommandParser;"
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "import seedu.address.logic.parser.beneficiary.AddBeneficiaryCommandParser;"
+        "content": "import seedu.address.logic.parser.beneficiary.DeleteBeneficiaryCommandParser;"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "import seedu.address.logic.parser.beneficiary.DeleteBeneficiaryCommandParser;"
+        "content": "import seedu.address.logic.parser.beneficiary.EditBeneficiaryCommandParser;"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "import seedu.address.logic.parser.beneficiary.EditBeneficiaryCommandParser;"
-      },
-      {
-        "lineNumber": 40,
-        "author": {
-          "gitId": "ndhuu"
-        },
         "content": "import seedu.address.logic.parser.beneficiary.FindBeneficiaryCommandParser;"
       },
       {
-        "lineNumber": 41,
+        "lineNumber": 40,
         "author": {
           "gitId": "-"
         },
         "content": "import seedu.address.logic.parser.exceptions.ParseException;"
       },
       {
-        "lineNumber": 42,
+        "lineNumber": 41,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "import seedu.address.logic.parser.project.AddProjectCommandParser;"
       },
       {
-        "lineNumber": 43,
+        "lineNumber": 42,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "import seedu.address.logic.parser.project.AssignBeneficiaryCommandParser;"
       },
       {
-        "lineNumber": 44,
+        "lineNumber": 43,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "import seedu.address.logic.parser.project.AssignVolunteerCommandParser;"
       },
       {
-        "lineNumber": 45,
+        "lineNumber": 44,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "import seedu.address.logic.parser.project.CompleteCommandParser;"
       },
       {
-        "lineNumber": 46,
+        "lineNumber": 45,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "import seedu.address.logic.parser.project.DeleteProjectCommandParser;"
       },
       {
-        "lineNumber": 47,
+        "lineNumber": 46,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "import seedu.address.logic.parser.volunteer.AddVolunteerCommandParser;"
       },
       {
-        "lineNumber": 48,
+        "lineNumber": 47,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "import seedu.address.logic.parser.volunteer.DeleteVolunteerCommandParser;"
       },
       {
-        "lineNumber": 49,
+        "lineNumber": 48,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "import seedu.address.logic.parser.volunteer.EditVolunteerCommandParser;"
       },
       {
-        "lineNumber": 50,
+        "lineNumber": 49,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "import seedu.address.logic.parser.volunteer.FindVolunteerCommandParser;"
       },
       {
-        "lineNumber": 51,
-        "author": {
-          "gitId": "quinnzzzzz"
-        },
-        "content": "import seedu.address.logic.parser.volunteer.SelectVolunteerCommandParser;"
-      },
-      {
-        "lineNumber": 52,
+        "lineNumber": 50,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 53,
+        "lineNumber": 51,
         "author": {
           "gitId": "-"
         },
         "content": "/**"
       },
       {
-        "lineNumber": 54,
+        "lineNumber": 52,
         "author": {
           "gitId": "-"
         },
         "content": " * Parses user input."
       },
       {
-        "lineNumber": 55,
+        "lineNumber": 53,
         "author": {
           "gitId": "-"
         },
         "content": " */"
       },
       {
-        "lineNumber": 56,
+        "lineNumber": 54,
         "author": {
           "gitId": "-"
         },
         "content": "public class AddressBookParser {"
       },
       {
-        "lineNumber": 57,
+        "lineNumber": 55,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 58,
+        "lineNumber": 56,
         "author": {
           "gitId": "-"
         },
         "content": "    /**"
       },
       {
-        "lineNumber": 59,
+        "lineNumber": 57,
         "author": {
           "gitId": "-"
         },
         "content": "     * Used for initial separation of command word and args."
       },
       {
-        "lineNumber": 60,
+        "lineNumber": 58,
         "author": {
           "gitId": "-"
         },
         "content": "     */"
       },
       {
-        "lineNumber": 61,
+        "lineNumber": 59,
         "author": {
           "gitId": "-"
         },
         "content": "    private static final Pattern BASIC_COMMAND_FORMAT \u003d Pattern.compile(\"(?\u003ccommandWord\u003e\\\\S+)(?\u003carguments\u003e.*)\");"
       },
       {
-        "lineNumber": 62,
+        "lineNumber": 60,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 63,
+        "lineNumber": 61,
         "author": {
           "gitId": "-"
         },
         "content": "    /**"
       },
       {
-        "lineNumber": 64,
+        "lineNumber": 62,
         "author": {
           "gitId": "-"
         },
         "content": "     * Parses user input into command for execution."
       },
       {
-        "lineNumber": 65,
+        "lineNumber": 63,
         "author": {
           "gitId": "-"
         },
         "content": "     *"
       },
       {
-        "lineNumber": 66,
+        "lineNumber": 64,
         "author": {
           "gitId": "-"
         },
         "content": "     * @param userInput full user input string"
       },
       {
-        "lineNumber": 67,
+        "lineNumber": 65,
         "author": {
           "gitId": "-"
         },
         "content": "     * @return the command based on the user input"
       },
       {
-        "lineNumber": 68,
+        "lineNumber": 66,
         "author": {
           "gitId": "-"
         },
         "content": "     * @throws ParseException if the user input does not conform the expected format"
       },
       {
-        "lineNumber": 69,
+        "lineNumber": 67,
         "author": {
           "gitId": "-"
         },
         "content": "     */"
       },
       {
-        "lineNumber": 70,
+        "lineNumber": 68,
         "author": {
           "gitId": "-"
         },
         "content": "    public Command parseCommand(String userInput) throws ParseException {"
       },
       {
-        "lineNumber": 71,
+        "lineNumber": 69,
         "author": {
           "gitId": "-"
         },
         "content": "        final Matcher matcher \u003d BASIC_COMMAND_FORMAT.matcher(userInput.trim());"
       },
       {
-        "lineNumber": 72,
+        "lineNumber": 70,
         "author": {
           "gitId": "-"
         },
         "content": "        if (!matcher.matches()) {"
       },
       {
-        "lineNumber": 73,
+        "lineNumber": 71,
         "author": {
           "gitId": "-"
         },
         "content": "            throw new ParseException(String.format(MESSAGE_INVALID_COMMAND_FORMAT, HelpCommand.MESSAGE_USAGE));"
       },
       {
-        "lineNumber": 74,
+        "lineNumber": 72,
         "author": {
           "gitId": "-"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 75,
+        "lineNumber": 73,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 76,
+        "lineNumber": 74,
         "author": {
           "gitId": "-"
         },
         "content": "        final String commandWord \u003d matcher.group(\"commandWord\");"
       },
       {
-        "lineNumber": 77,
+        "lineNumber": 75,
         "author": {
           "gitId": "-"
         },
         "content": "        final String arguments \u003d matcher.group(\"arguments\");"
       },
       {
-        "lineNumber": 78,
+        "lineNumber": 76,
         "author": {
           "gitId": "-"
         },
         "content": "        switch (commandWord) {"
       },
       {
-        "lineNumber": 79,
+        "lineNumber": 77,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 80,
+        "lineNumber": 78,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        case AddProjectCommand.COMMAND_WORD:"
       },
       {
-        "lineNumber": 81,
+        "lineNumber": 79,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "        case AddProjectCommand.COMMAND_WORD_ALIAS:"
       },
       {
-        "lineNumber": 82,
+        "lineNumber": 80,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "            return new AddProjectCommandParser().parse(arguments);"
       },
       {
-        "lineNumber": 83,
+        "lineNumber": 81,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 84,
+        "lineNumber": 82,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        case AddBeneficiaryCommand.COMMAND_WORD:"
       },
       {
-        "lineNumber": 85,
+        "lineNumber": 83,
         "author": {
           "gitId": "ndhuu"
         },
         "content": "        case AddBeneficiaryCommand.COMMAND_WORD_ALIAS:"
       },
       {
-        "lineNumber": 86,
+        "lineNumber": 84,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "            return new AddBeneficiaryCommandParser().parse(arguments);"
       },
       {
-        "lineNumber": 87,
+        "lineNumber": 85,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 88,
+        "lineNumber": 86,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        case AddVolunteerCommand.COMMAND_WORD:"
       },
       {
-        "lineNumber": 89,
+        "lineNumber": 87,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "        case AddVolunteerCommand.COMMAND_ALIAS:"
+      },
+      {
+        "lineNumber": 88,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "            return new AddVolunteerCommandParser().parse(arguments);"
       },
       {
-        "lineNumber": 90,
+        "lineNumber": 89,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
-        "lineNumber": 91,
+        "lineNumber": 90,
         "author": {
           "gitId": "ndhuu"
         },
         "content": "        case SummaryBeneficiaryCommand.COMMAND_WORD:"
       },
       {
-        "lineNumber": 92,
+        "lineNumber": 91,
         "author": {
           "gitId": "ndhuu"
         },
         "content": "        case SummaryBeneficiaryCommand.COMMAND_WORD_ALIAS:"
       },
       {
-        "lineNumber": 93,
+        "lineNumber": 92,
         "author": {
           "gitId": "ndhuu"
         },
         "content": "            return new SummaryBeneficiaryCommand();"
       },
       {
-        "lineNumber": 94,
+        "lineNumber": 93,
         "author": {
           "gitId": "ndhuu"
         },
         "content": ""
       },
       {
-        "lineNumber": 95,
+        "lineNumber": 94,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "        case AssignBeneficiaryCommand.COMMAND_WORD:"
       },
       {
-        "lineNumber": 96,
+        "lineNumber": 95,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "            return new AssignBeneficiaryCommandParser().parse(arguments);"
       },
       {
-        "lineNumber": 97,
+        "lineNumber": 96,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": ""
       },
       {
-        "lineNumber": 98,
+        "lineNumber": 97,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "        case AssignVolunteerCommand.COMMAND_WORD:"
       },
       {
-        "lineNumber": 99,
+        "lineNumber": 98,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": "            return new AssignVolunteerCommandParser().parse(arguments);"
       },
       {
-        "lineNumber": 100,
+        "lineNumber": 99,
         "author": {
           "gitId": "quinnzzzzz"
         },
         "content": ""
       },
       {
-        "lineNumber": 101,
+        "lineNumber": 100,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        case EditBeneficiaryCommand.COMMAND_WORD:"
       },
       {
-        "lineNumber": 102,
+        "lineNumber": 101,
         "author": {
           "gitId": "ndhuu"
         },
         "content": "        case EditBeneficiaryCommand.COMMAND_WORD_ALIAS:"
       },
       {
-        "lineNumber": 103,
+        "lineNumber": 102,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "            return new EditBeneficiaryCommandParser().parse(arguments);"
       },
       {
-        "lineNumber": 104,
+        "lineNumber": 103,
         "author": {
           "gitId": "swalahlah"
         },
         "content": ""
       },
       {
-        "lineNumber": 105,
+        "lineNumber": 104,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        case EditVolunteerCommand.COMMAND_WORD:"
+      },
+      {
+        "lineNumber": 105,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "        case EditVolunteerCommand.COMMAND_ALIAS:"
       },
       {
         "lineNumber": 106,
@@ -46986,175 +47077,175 @@
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return new DeleteVolunteerCommandParser().parse(arguments);"
+        "content": "        case DeleteVolunteerCommand.COMMAND_ALIAS:"
       },
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "-"
+          "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "            return new DeleteVolunteerCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 119,
         "author": {
           "gitId": "-"
         },
-        "content": "        case ClearCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 120,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new ClearCommand();"
+        "content": "        case ClearCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 121,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            return new ClearCommand();"
       },
       {
         "lineNumber": 122,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 123,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "        case FindBeneficiaryCommand.COMMAND_WORD:"
       },
       {
-        "lineNumber": 123,
+        "lineNumber": 124,
         "author": {
           "gitId": "ndhuu"
         },
         "content": "        case FindBeneficiaryCommand.COMMAND_WORD_ALIAS:"
       },
       {
-        "lineNumber": 124,
+        "lineNumber": 125,
         "author": {
           "gitId": "swalahlah"
         },
         "content": "            return new FindBeneficiaryCommandParser().parse(arguments);"
       },
       {
-        "lineNumber": 125,
-        "author": {
-          "gitId": "swalahlah"
-        },
-        "content": ""
-      },
-      {
         "lineNumber": 126,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "-"
         },
-        "content": "        case FindVolunteerCommand.COMMAND_WORD:"
+        "content": ""
       },
       {
         "lineNumber": 127,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return new FindVolunteerCommandParser().parse(arguments);"
+        "content": "        case FindVolunteerCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "-"
+          "gitId": "swalahlah"
         },
-        "content": ""
+        "content": "        case FindVolunteerCommand.COMMAND_ALIAS:"
       },
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "quinnzzzzz"
+          "gitId": "swalahlah"
         },
-        "content": "        case ListProjectCommand.COMMAND_WORD:"
+        "content": "            return new FindVolunteerCommandParser().parse(arguments);"
       },
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "quinnzzzzz"
+          "gitId": "swalahlah"
         },
-        "content": "        case ListProjectCommand.COMMAND_WORD_ALIAS:"
+        "content": ""
       },
       {
         "lineNumber": 131,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": "            return new ListProjectCommand();"
+        "content": "        case ListProjectCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 132,
         "author": {
           "gitId": "quinnzzzzz"
         },
-        "content": ""
+        "content": "        case ListProjectCommand.COMMAND_WORD_ALIAS:"
       },
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "swalahlah"
+          "gitId": "quinnzzzzz"
         },
-        "content": "        case ListBeneficiaryCommand.COMMAND_WORD:"
+        "content": "            return new ListProjectCommand();"
       },
       {
         "lineNumber": 134,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "quinnzzzzz"
         },
-        "content": "        case ListBeneficiaryCommand.COMMAND_WORD_ALIAS:"
+        "content": ""
       },
       {
         "lineNumber": 135,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "            return new ListBeneficiaryCommand();"
+        "content": "        case ListBeneficiaryCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 136,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
-        "content": ""
+        "content": "        case ListBeneficiaryCommand.COMMAND_WORD_ALIAS:"
       },
       {
         "lineNumber": 137,
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        case ListVolunteerCommand.COMMAND_WORD:"
+        "content": "            return new ListBeneficiaryCommand();"
       },
       {
         "lineNumber": 138,
-        "author": {
-          "gitId": "swalahlah"
-        },
-        "content": "            return new ListVolunteerCommand();"
-      },
-      {
-        "lineNumber": 139,
         "author": {
           "gitId": "-"
         },
         "content": ""
       },
       {
+        "lineNumber": 139,
+        "author": {
+          "gitId": "swalahlah"
+        },
+        "content": "        case ListVolunteerCommand.COMMAND_WORD:"
+      },
+      {
         "lineNumber": 140,
         "author": {
-          "gitId": "-"
+          "gitId": "swalahlah"
         },
-        "content": "        case HistoryCommand.COMMAND_WORD:"
+        "content": "        case ListVolunteerCommand.COMMAND_ALIAS:"
       },
       {
         "lineNumber": 141,
         "author": {
-          "gitId": "-"
+          "gitId": "swalahlah"
         },
-        "content": "            return new HistoryCommand();"
+        "content": "            return new ListVolunteerCommand();"
       },
       {
         "lineNumber": 142,
@@ -47168,14 +47259,14 @@
         "author": {
           "gitId": "-"
         },
-        "content": "        case ExitCommand.COMMAND_WORD:"
+        "content": "        case HistoryCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 144,
         "author": {
           "gitId": "-"
         },
-        "content": "            return new ExitCommand();"
+        "content": "            return new HistoryCommand();"
       },
       {
         "lineNumber": 145,
@@ -47187,21 +47278,21 @@
       {
         "lineNumber": 146,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
-        "content": "        case SelectVolunteerCommand.COMMAND_WORD:"
+        "content": "        case ExitCommand.COMMAND_WORD:"
       },
       {
         "lineNumber": 147,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
-        "content": "            return new SelectVolunteerCommandParser().parse(arguments);"
+        "content": "            return new ExitCommand();"
       },
       {
         "lineNumber": 148,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -47396,11 +47487,11 @@
       }
     ],
     "authorContributionMap": {
-      "swalahlah": 27,
-      "quinnzzzzz": 34,
+      "swalahlah": 32,
+      "quinnzzzzz": 33,
       "articstranger": 8,
       "-": 78,
-      "ndhuu": 28
+      "ndhuu": 24
     }
   },
   {
@@ -71889,35 +71980,35 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "import static java.util.Objects.requireNonNull;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "import static seedu.address.commons.util.AppUtil.checkArgument;"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "/**"
       },
@@ -71931,35 +72022,35 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": " * Guarantees: immutable; is valid as declared in {@link #isValidPhone(String)}"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": " */"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "public class Phone {"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    public static final String MESSAGE_CONSTRAINTS \u003d"
       },
@@ -71968,208 +72059,208 @@
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "        \"Phone numbers should only contain numbers, and it should be at least 3 digits long\";"
+        "content": "        \"Phone numbers should only contain numbers, and it should be at least 3 to 20 digits long\";"
       },
       {
         "lineNumber": 14,
         "author": {
           "gitId": "ndhuu"
         },
-        "content": "    public static final String VALIDATION_REGEX \u003d \"\\\\d{3,}\";"
+        "content": "    public static final String VALIDATION_REGEX \u003d \"\\\\d{3,20}\";"
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    public final String value;"
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "     * Constructs a {@code Phone}."
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "     *"
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "     * @param phone A valid phone number."
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    public Phone(String phone) {"
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "        requireNonNull(phone);"
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "        checkArgument(isValidPhone(phone), MESSAGE_CONSTRAINTS);"
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "        value \u003d phone;"
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "     * Returns true if a given string is a valid phone number."
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "     */"
       },
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    public static boolean isValidPhone(String test) {"
       },
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "        return test.matches(VALIDATION_REGEX);"
       },
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    public String toString() {"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "        return value;"
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "        return other \u003d\u003d this // short circuit if same object"
       },
@@ -72190,62 +72281,63 @@
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    @Override"
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    public int hashCode() {"
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "        return value.hashCode();"
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "-"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "ndhuu": 52
+      "-": 46,
+      "ndhuu": 6
     }
   },
   {
@@ -79317,7 +79409,7 @@
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "        \"Age should be comprised of only positive number and at least two digit long\";"
+        "content": "        \"Age should be comprised of only positive number and is two digit long\";"
       },
       {
         "lineNumber": 15,
@@ -79359,7 +79451,7 @@
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    public static final String VALIDATION_REGEX \u003d \"\\\\d{2,}\";"
+        "content": "    public static final String VALIDATION_REGEX \u003d \"\\\\d{2}\";"
       },
       {
         "lineNumber": 21,
@@ -82328,35 +82420,35 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": ""
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "import static java.util.Objects.requireNonNull;"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "import static seedu.address.commons.util.AppUtil.checkArgument;"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": ""
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "/**"
       },
@@ -82370,252 +82462,252 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": " * Guarantees: immutable; is valid as declared in {@link #isValidPhone(String)}"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": " */"
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "public class Phone {"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": ""
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": ""
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    public static final String MESSAGE_CONSTRAINTS \u003d"
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "ndhuu"
+          "gitId": "swalahlah"
         },
-        "content": "        \"Phone numbers should only contain numbers, and it should be at least 3 digits long\";"
+        "content": "        \"Phone numbers should only contain numbers, and it should be at least 4 digits and at most 20 digits long\";"
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "-"
+          "gitId": "swalahlah"
         },
-        "content": "    public static final String VALIDATION_REGEX \u003d \"\\\\d{3,}\";"
+        "content": "    public static final String VALIDATION_REGEX \u003d \"\\\\d{4,20}\";"
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    public final String value;"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": ""
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "     * Constructs a {@code Phone}."
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "     *"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "     * @param phone A valid phone number."
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "     */"
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    public Phone(String phone) {"
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "        requireNonNull(phone);"
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "        checkArgument(isValidPhone(phone), MESSAGE_CONSTRAINTS);"
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "        value \u003d phone;"
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    }"
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": ""
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "     * Returns true if a given string is a valid phone number."
       },
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "     */"
       },
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    public static boolean isValidPhone(String test) {"
       },
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "        return test.matches(VALIDATION_REGEX);"
       },
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    }"
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": ""
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    @Override"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    public String toString() {"
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "        return value;"
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    }"
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": ""
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    @Override"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    public boolean equals(Object other) {"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "        return other \u003d\u003d this // short circuit if same object"
       },
@@ -82636,63 +82728,63 @@
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    }"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": ""
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    @Override"
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    public int hashCode() {"
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "        return value.hashCode();"
       },
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "    }"
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": ""
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "-"
+          "gitId": "ndhuu"
         },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "-": 48,
-      "ndhuu": 5
+      "swalahlah": 2,
+      "ndhuu": 51
     }
   },
   {
@@ -82822,7 +82914,7 @@
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    public static final String VALIDATION_REGEX \u003d \"[\\\\p{Alnum}][\\\\p{Alnum} ]*\";"
+        "content": "    public static final String VALIDATION_REGEX \u003d \"[\\\\p{Alpha}][\\\\p{Alpha} ]*\";"
       },
       {
         "lineNumber": 19,
@@ -83237,7 +83329,7 @@
         "author": {
           "gitId": "swalahlah"
         },
-        "content": "    public static final String VALIDATION_REGEX \u003d \"[\\\\p{Alnum}]*\";"
+        "content": "    public static final String VALIDATION_REGEX \u003d \"[\\\\p{Alpha}]*\";"
       },
       {
         "lineNumber": 19,
