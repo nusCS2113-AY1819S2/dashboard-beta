@@ -1,6 +1,5 @@
 {
-  "repoSenseVersion": "7640e703ac",
-  "reportGeneratedTime": "Thu Apr 18 06:02:53 2019 UTC",
+  "dashboardGeneratedTime": "Fri Apr 19 14:02:22 SGT 2019",
   "repos": [
     {
       "location": {
@@ -9,7 +8,9 @@
         "organization": "CS2113-AY1819S2-M11-1"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-M11-1_main_master"
+      "displayName": "CS2113-AY1819S2-M11-1_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     },
     {
       "location": {
@@ -18,7 +19,9 @@
         "organization": "CS2113-AY1819S2-M11-2"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-M11-2_main_master"
+      "displayName": "CS2113-AY1819S2-M11-2_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     },
     {
       "location": {
@@ -27,7 +30,9 @@
         "organization": "CS2113-AY1819S2-M11-3"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-M11-3_main_master"
+      "displayName": "CS2113-AY1819S2-M11-3_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     },
     {
       "location": {
@@ -36,7 +41,9 @@
         "organization": "CS2113-AY1819S2-T08-1"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-T08-1_main_master"
+      "displayName": "CS2113-AY1819S2-T08-1_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     },
     {
       "location": {
@@ -45,7 +52,9 @@
         "organization": "CS2113-AY1819S2-T08-2"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-T08-2_main_master"
+      "displayName": "CS2113-AY1819S2-T08-2_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     },
     {
       "location": {
@@ -54,7 +63,9 @@
         "organization": "CS2113-AY1819S2-T08-3"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-T08-3_main_master"
+      "displayName": "CS2113-AY1819S2-T08-3_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     },
     {
       "location": {
@@ -63,7 +74,9 @@
         "organization": "CS2113-AY1819S2-T08-4"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-T08-4_main_master"
+      "displayName": "CS2113-AY1819S2-T08-4_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     },
     {
       "location": {
@@ -72,7 +85,9 @@
         "organization": "CS2113-AY1819S2-T09-1"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-T09-1_main_master"
+      "displayName": "CS2113-AY1819S2-T09-1_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     },
     {
       "location": {
@@ -81,7 +96,9 @@
         "organization": "CS2113-AY1819S2-T09-2"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-T09-2_main_master"
+      "displayName": "CS2113-AY1819S2-T09-2_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     },
     {
       "location": {
@@ -90,7 +107,9 @@
         "organization": "CS2113-AY1819S2-T09-3"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-T09-3_main_master"
+      "displayName": "CS2113-AY1819S2-T09-3_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     },
     {
       "location": {
@@ -99,7 +118,9 @@
         "organization": "CS2113-AY1819S2-T11-1"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-T11-1_main_master"
+      "displayName": "CS2113-AY1819S2-T11-1_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     },
     {
       "location": {
@@ -108,7 +129,9 @@
         "organization": "CS2113-AY1819S2-T11-2"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-T11-2_main_master"
+      "displayName": "CS2113-AY1819S2-T11-2_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     },
     {
       "location": {
@@ -117,9 +140,9 @@
         "organization": "CS2113-AY1819S2-T11-3"
       },
       "branch": "master",
-      "displayName": "CS2113-AY1819S2-T11-3_main_master"
+      "displayName": "CS2113-AY1819S2-T11-3_main_master",
+      "sinceDate": "2019-02-10",
+      "untilDate": "2019-04-15"
     }
-  ],
-  "sinceDate": "2019-02-10",
-  "untilDate": "2019-04-15"
+  ]
 }
