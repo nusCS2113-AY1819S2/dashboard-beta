@@ -15,4 +15,4 @@
 ### java -jar RepoSense.jar --repos https://github.com/reposense/RepoSense.git
 # dummy commit
 
-java -jar RepoSense.jar --config ./configs --since 10/02/2019 --until 15/04/2019
+java -jar RepoSense.jar --config ./configs --since 10/02/2019 --until 24/04/2019
