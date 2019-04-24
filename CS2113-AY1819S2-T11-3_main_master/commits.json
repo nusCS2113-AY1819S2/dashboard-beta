@@ -598,6 +598,54 @@
             "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-22",
+        "commitResults": []
       }
     ],
     "jacobhan": [
@@ -1539,6 +1587,73 @@
             "deletions": 10
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 1250,
+        "deletions": 1249,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "f2824358c625243e611bc32bf73d88d7cb7e460e",
+            "message": "added credit",
+            "insertions": 617,
+            "deletions": 623
+          },
+          {
+            "hash": "321e781a68932c08d14896176196f9fdae7d09e5",
+            "message": "fixed stock",
+            "insertions": 616,
+            "deletions": 618
+          },
+          {
+            "hash": "1494a046f458d479c86048eee56336445ab9369e",
+            "message": "reverted and just added credits",
+            "insertions": 17,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-22",
+        "commitResults": []
       }
     ],
     "ngkaicong": [
@@ -1924,6 +2039,54 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-22",
         "commitResults": []
       }
     ],
@@ -2555,20 +2718,155 @@
             "deletions": 32
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 76,
+        "deletions": 86,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "80cca5f14ac9172101985e7207d8f210c6af52dd",
+            "message": "fixes",
+            "insertions": 59,
+            "deletions": 21
+          },
+          {
+            "hash": "37fff627b32cceb1e1a28071fbd2e7877f8a65b8",
+            "message": "bug fixes",
+            "insertions": 13,
+            "deletions": 20
+          },
+          {
+            "hash": "179e530b9a28cc1f717e39dbe902dfe7222b1fe5",
+            "message": "checkstyle fixes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "306a88921afb5d713778f34f185b403e4b68548f",
+            "message": "removed browsertest",
+            "insertions": 0,
+            "deletions": 41
+          },
+          {
+            "hash": "dd2072e7d428e625bf1d3cfbe8d98304e6b98d93",
+            "message": "fixed checkstyle",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 68,
+        "deletions": 57,
+        "date": "2019-04-21",
+        "commitResults": [
+          {
+            "hash": "7208f2d2518a29f5e3db0b60b7132fdcca11278f",
+            "message": "bugfixes",
+            "insertions": 33,
+            "deletions": 20
+          },
+          {
+            "hash": "fa5f53f6bf80b16732d051672f967d377c358a3b",
+            "message": "Checkstyle fix",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "2511cc17b7778bf463a39a59a6b8e68bac79ea89",
+            "message": "checkstyle fix",
+            "insertions": 24,
+            "deletions": 24
+          },
+          {
+            "hash": "cfc91753331bb8f1cdd9c1f3af12567dc14fa3e8",
+            "message": "Bug fix for system test",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5a9781d88d3cbc625674d9fdfe57e1a9e679a846",
+            "message": "Fixed help command",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d30892bd5090a4f384c6fecdbca22fbcf6d55b9b",
+            "message": "Editted UG",
+            "insertions": 8,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 25,
+        "date": "2019-04-22",
+        "commitResults": [
+          {
+            "hash": "dd9592f6ccbaa898b896025401e0aa9715a8674a",
+            "message": "Fixed edit bug not able to handle duplicate entries",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "c2ebfbbfe3b96e20a01d5b53ee57abce04065e21",
+            "message": "Removed irrelevant test case",
+            "insertions": 0,
+            "deletions": 9
+          },
+          {
+            "hash": "28e1e3d068d2776d2981bd159df0364b20fc34ed",
+            "message": "Removed irrelevant test case",
+            "insertions": 0,
+            "deletions": 12
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "frankquekch": 2524,
-    "jacobhan": 1634,
+    "frankquekch": 2508,
+    "jacobhan": 1632,
     "ngkaicong": 0,
-    "yushao2": 3456
+    "yushao2": 3561
   },
   "authorContributionVariance": {
-    "frankquekch": 327354.06,
-    "jacobhan": 1020501.56,
+    "frankquekch": 293913.6,
+    "jacobhan": 985256.9,
     "ngkaicong": 0.0,
-    "yushao2": 553527.9
+    "yushao2": 493346.94
   },
   "authorDisplayNameMap": {
     "frankquekch": "DOM...HAO",

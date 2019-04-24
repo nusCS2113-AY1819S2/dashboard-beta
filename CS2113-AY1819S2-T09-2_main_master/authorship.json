@@ -108185,122 +108185,129 @@
         "author": {
           "gitId": "BrittonAlone"
         },
-        "content": "            }"
+        "content": "                defaultPage.setReminder(logic);"
       },
       {
         "lineNumber": 219,
         "author": {
-          "gitId": "-"
+          "gitId": "BrittonAlone"
         },
-        "content": ""
+        "content": "            }"
       },
       {
         "lineNumber": 220,
         "author": {
           "gitId": "-"
         },
-        "content": "            if (commandResult.isShowHelp()) {"
+        "content": ""
       },
       {
         "lineNumber": 221,
         "author": {
           "gitId": "-"
         },
-        "content": "                handleHelp();"
+        "content": "            if (commandResult.isShowHelp()) {"
       },
       {
         "lineNumber": 222,
         "author": {
           "gitId": "-"
         },
-        "content": "            }"
+        "content": "                handleHelp();"
       },
       {
         "lineNumber": 223,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            }"
       },
       {
         "lineNumber": 224,
         "author": {
           "gitId": "-"
         },
-        "content": "            if (commandResult.isExit()) {"
+        "content": ""
       },
       {
         "lineNumber": 225,
         "author": {
           "gitId": "-"
         },
-        "content": "                handleExit();"
+        "content": "            if (commandResult.isExit()) {"
       },
       {
         "lineNumber": 226,
         "author": {
           "gitId": "-"
         },
-        "content": "            }"
+        "content": "                handleExit();"
       },
       {
         "lineNumber": 227,
         "author": {
           "gitId": "-"
         },
-        "content": ""
+        "content": "            }"
       },
       {
         "lineNumber": 228,
         "author": {
           "gitId": "-"
         },
-        "content": "            return commandResult;"
+        "content": ""
       },
       {
         "lineNumber": 229,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "            return commandResult;"
+      },
+      {
+        "lineNumber": 230,
         "author": {
           "gitId": "Wanchunwei"
         },
         "content": "        } catch (IllegalArgumentException | ParseException | CommandException e) {"
       },
       {
-        "lineNumber": 230,
+        "lineNumber": 231,
         "author": {
           "gitId": "-"
         },
         "content": "            logger.info(\"Invalid command: \" + commandText);"
       },
       {
-        "lineNumber": 231,
+        "lineNumber": 232,
         "author": {
           "gitId": "-"
         },
         "content": "            resultDisplay.setFeedbackToUser(e.getMessage());"
       },
       {
-        "lineNumber": 232,
+        "lineNumber": 233,
         "author": {
           "gitId": "-"
         },
         "content": "            throw e;"
       },
       {
-        "lineNumber": 233,
+        "lineNumber": 234,
         "author": {
           "gitId": "-"
         },
         "content": "        }"
       },
       {
-        "lineNumber": 234,
+        "lineNumber": 235,
         "author": {
           "gitId": "-"
         },
         "content": "    }"
       },
       {
-        "lineNumber": 235,
+        "lineNumber": 236,
         "author": {
           "gitId": "-"
         },
@@ -108311,7 +108318,7 @@
       "Wanchunwei": 14,
       "jingchen-z": 16,
       "cheahzk": 8,
-      "BrittonAlone": 5,
+      "BrittonAlone": 6,
       "Zeyang-Li": 3,
       "-": 189
     }

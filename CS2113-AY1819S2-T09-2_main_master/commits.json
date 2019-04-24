@@ -1021,6 +1021,48 @@
             "deletions": 128
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-21",
+        "commitResults": []
       }
     ],
     "cheahzk": [
@@ -2514,6 +2556,48 @@
             "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-21",
+        "commitResults": []
       }
     ],
     "jingchen-z": [
@@ -3842,6 +3926,48 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-21",
+        "commitResults": []
       }
     ],
     "BrittonAlone": [
@@ -4623,6 +4749,61 @@
             "message": "travis",
             "insertions": 0,
             "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 4853,
+        "deletions": 4852,
+        "date": "2019-04-21",
+        "commitResults": [
+          {
+            "hash": "877034bac51feee84e914dd9e8a86448395ced6f",
+            "message": "The bug found in reminder feature during PE has been fixed.",
+            "insertions": 4853,
+            "deletions": 0
+          },
+          {
+            "hash": "af6fa396e3f70e45e3a7aef0052cd3ac12d6b9be",
+            "message": "travis",
+            "insertions": 0,
+            "deletions": 4852
           }
         ]
       }
@@ -5532,6 +5713,48 @@
             "deletions": 49
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-21",
+        "commitResults": []
       }
     ]
   },
@@ -5539,15 +5762,15 @@
     "Wanchunwei": 3565,
     "cheahzk": 7097,
     "jingchen-z": 1863,
-    "BrittonAlone": 1009,
+    "BrittonAlone": 1010,
     "Zeyang-Li": 3199
   },
   "authorContributionVariance": {
-    "Wanchunwei": 226645.8,
-    "cheahzk": 1463388.6,
-    "jingchen-z": 28994.082,
-    "BrittonAlone": 11328.662,
-    "Zeyang-Li": 8631567.0
+    "Wanchunwei": 205499.83,
+    "cheahzk": 1336899.8,
+    "jingchen-z": 26618.904,
+    "BrittonAlone": 1307975.8,
+    "Zeyang-Li": 7800667.0
   },
   "authorDisplayNameMap": {
     "Wanchunwei": "WAN...WEI",
