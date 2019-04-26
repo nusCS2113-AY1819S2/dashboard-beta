@@ -2,48 +2,6 @@
   "authorDailyContributionsMap": {
     "truegitnovice": [
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-16",
-        "commitResults": []
-      },
-      {
         "insertions": 9,
         "deletions": 3,
         "date": "2019-02-17",
@@ -89,86 +47,14 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-21",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-24",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-25",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-26",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-28",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-01",
-        "commitResults": []
-      },
-      {
-        "insertions": 959,
-        "deletions": 99,
+        "insertions": 785,
+        "deletions": 1,
         "date": "2019-03-02",
         "commitResults": [
           {
             "hash": "674ac9ce3c6d3a01cf4702e667f45ed8680e2a14",
             "message": "Planner: add DegreePlanner",
             "insertions": 115,
-            "deletions": 0
-          },
-          {
-            "hash": "543f1b814c2bc95c774bb070cb727045ee51ac1c",
-            "message": "Planner: add DegreePlannerSemester",
-            "insertions": 57,
-            "deletions": 0
-          },
-          {
-            "hash": "0772e9584c5cab99d10dc101a8aab2ed510b53a2",
-            "message": "Planner: add DegreePlannerYear",
-            "insertions": 57,
             "deletions": 0
           },
           {
@@ -214,35 +100,35 @@
             "deletions": 1
           },
           {
+            "hash": "543f1b814c2bc95c774bb070cb727045ee51ac1c",
+            "message": "Planner: add DegreePlannerSemester",
+            "insertions": 57,
+            "deletions": 0
+          },
+          {
+            "hash": "0772e9584c5cab99d10dc101a8aab2ed510b53a2",
+            "message": "Planner: add DegreePlannerYear",
+            "insertions": 57,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 934,
+        "deletions": 287,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
             "hash": "4e3d8a769eba70d6fc2e00a1728a54d489a442b3",
             "message": "Planner: refactor \u0027Planner\u0027 to \u0027DegreePlanner\u0027",
             "insertions": 10,
             "deletions": 11
           },
           {
-            "hash": "38ecbd5550ff1d1476bd78c3a9808e9cb7c6d86b",
-            "message": "Model: refactor \u0027Planner\u0027 to \u0027DegreePlanner\u0027",
-            "insertions": 54,
-            "deletions": 48
-          },
-          {
             "hash": "ba8e47c513b3d3ca766af9ece432000c7cf43ae5",
             "message": "Model: update to handle DegreePlanner",
             "insertions": 110,
             "deletions": 39
-          }
-        ]
-      },
-      {
-        "insertions": 760,
-        "deletions": 189,
-        "date": "2019-03-03",
-        "commitResults": [
-          {
-            "hash": "ff9c930ff85e874c307c2e7067773e65af3f955d",
-            "message": "Storage: add files to handle DegreePlannerList",
-            "insertions": 20,
-            "deletions": 0
           },
           {
             "hash": "ad666a1cfcb8b86a9caf435ef5dd813de85a016f",
@@ -291,6 +177,18 @@
             "message": "MainApp: update to handle DegreePlannerList",
             "insertions": 24,
             "deletions": 2
+          },
+          {
+            "hash": "38ecbd5550ff1d1476bd78c3a9808e9cb7c6d86b",
+            "message": "Model: refactor \u0027Planner\u0027 to \u0027DegreePlanner\u0027",
+            "insertions": 54,
+            "deletions": 48
+          },
+          {
+            "hash": "ff9c930ff85e874c307c2e7067773e65af3f955d",
+            "message": "Storage: add files to handle DegreePlannerList",
+            "insertions": 20,
+            "deletions": 0
           },
           {
             "hash": "144b1945f848269b6dccbeb26a43cdc9e4f52dd8",
@@ -366,84 +264,6 @@
             "deletions": 13
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-05",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-06",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-07",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-17",
-        "commitResults": []
       },
       {
         "insertions": 311,
@@ -526,15 +346,9 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 691,
-        "deletions": 850,
-        "date": "2019-03-21",
+        "insertions": 754,
+        "deletions": 884,
+        "date": "2019-03-25",
         "commitResults": [
           {
             "hash": "a323d49e9aacb471fb2a4630fe74286f0ecc784d",
@@ -589,20 +403,7 @@
             "message": "Test:TestUtil: add classes to construct DegreePlanner related test cases",
             "insertions": 194,
             "deletions": 0
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 58,
-        "deletions": 32,
-        "date": "2019-03-23",
-        "commitResults": [
+          },
           {
             "hash": "c51a2c354d8ef3d853a098596127220cd37ed7e9",
             "message": "UI:DegreePlanner: convert FlowPane to ListView",
@@ -620,20 +421,7 @@
             "message": "View: update degree planner related css",
             "insertions": 35,
             "deletions": 10
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-24",
-        "commitResults": []
-      },
-      {
-        "insertions": 5,
-        "deletions": 2,
-        "date": "2019-03-25",
-        "commitResults": [
+          },
           {
             "hash": "cae52fdae95e77ba10b682266e632c1e49e9add8",
             "message": "UI: update `DegreePlannerCard` to display module codes in sorted order (#118)",
@@ -656,21 +444,9 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-28",
-        "commitResults": []
-      },
-      {
         "insertions": 556,
         "deletions": 14,
-        "date": "2019-03-29",
+        "date": "2019-03-31",
         "commitResults": [
           {
             "hash": "817f453f345daec798a55e7b79d431a642c2f8ba",
@@ -691,18 +467,6 @@
             "deletions": 13
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-30",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-31",
-        "commitResults": []
       },
       {
         "insertions": 99,
@@ -737,27 +501,41 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-03",
-        "commitResults": []
+        "insertions": 12,
+        "deletions": 3,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "0ea4ce8c4b8cec8d5b136f7d912749ef59e86bd8",
+            "message": "UI: update `DegreePlannerCard` to indicate `Special Semester Term` (#198)",
+            "insertions": 12,
+            "deletions": 3
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-04",
-        "commitResults": []
+        "insertions": 89,
+        "deletions": 94,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "842bf2374663ab1411a964b1a3c6cef14e0ba64c",
+            "message": "Logic: Refactor \u0027planner_list_all\u0027 to \u0027planner_list\u0027",
+            "insertions": 34,
+            "deletions": 45
+          },
+          {
+            "hash": "bea6de78bf7c9b4dbe30677a6d046f9ef32665f0",
+            "message": "Test: update for \u0027planner_list\u0027",
+            "insertions": 55,
+            "deletions": 49
+          }
+        ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-05",
-        "commitResults": []
-      },
-      {
-        "insertions": 592,
-        "deletions": 15,
-        "date": "2019-04-06",
+        "insertions": 1536,
+        "deletions": 228,
+        "date": "2019-04-14",
         "commitResults": [
           {
             "hash": "ecbb5c10f1dbe3192bed57bdb2dc933dc4ecaba6",
@@ -788,27 +566,13 @@
             "message": "Test: add test cases for \u0027planner_show\u0027",
             "insertions": 237,
             "deletions": 0
-          }
-        ]
-      },
-      {
-        "insertions": 59,
-        "deletions": 23,
-        "date": "2019-04-07",
-        "commitResults": [
+          },
           {
             "hash": "1bc4468057d89578f5e5b58a207ad25b40a0b020",
             "message": "Logic: update \u0027planner_move\u0027 to handle co-requisites",
             "insertions": 59,
             "deletions": 23
-          }
-        ]
-      },
-      {
-        "insertions": 140,
-        "deletions": 39,
-        "date": "2019-04-08",
-        "commitResults": [
+          },
           {
             "hash": "181b24e3fcb847d3c7485740bb4ecd47652060e0",
             "message": "Model: add method to help in carrying out handling of co-requisites",
@@ -821,62 +585,6 @@
             "insertions": 78,
             "deletions": 34
           },
-          {
-            "hash": "0ea4ce8c4b8cec8d5b136f7d912749ef59e86bd8",
-            "message": "UI: update `DegreePlannerCard` to indicate `Special Semester Term` (#198)",
-            "insertions": 12,
-            "deletions": 3
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 89,
-        "deletions": 94,
-        "date": "2019-04-12",
-        "commitResults": [
-          {
-            "hash": "842bf2374663ab1411a964b1a3c6cef14e0ba64c",
-            "message": "Logic: Refactor \u0027planner_list_all\u0027 to \u0027planner_list\u0027",
-            "insertions": 34,
-            "deletions": 45
-          },
-          {
-            "hash": "bea6de78bf7c9b4dbe30677a6d046f9ef32665f0",
-            "message": "Test: update for \u0027planner_list\u0027",
-            "insertions": 55,
-            "deletions": 49
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 757,
-        "deletions": 154,
-        "date": "2019-04-14",
-        "commitResults": [
           {
             "hash": "d9422e7ed194827187d438c411cb2be7edcb342d",
             "message": "test/model: add unit tests for `DegreePlanner`-related classes (#209)",
@@ -925,96 +633,6 @@
     ],
     "WendyBaiYunwei": [
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-17",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-18",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-21",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-24",
-        "commitResults": []
-      },
-      {
         "insertions": 77,
         "deletions": 5,
         "date": "2019-02-25",
@@ -1028,36 +646,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-26",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-28",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-01",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-02",
-        "commitResults": []
-      },
-      {
         "insertions": 65,
         "deletions": 0,
         "date": "2019-03-03",
@@ -1069,174 +657,6 @@
             "deletions": 0
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-04",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-05",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-06",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-07",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-17",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-18",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-21",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-24",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-25",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-26",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-28",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-29",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-30",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-31",
-        "commitResults": []
       },
       {
         "insertions": 208,
@@ -1262,78 +682,6 @@
             "deletions": 12
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-02",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-03",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-04",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-05",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-06",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-07",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-13",
-        "commitResults": []
       },
       {
         "insertions": 1139,
@@ -1406,84 +754,6 @@
     ],
     "Creastery": [
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-17",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-18",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-21",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-22",
-        "commitResults": []
-      },
-      {
         "insertions": 4,
         "deletions": 4,
         "date": "2019-02-23",
@@ -1497,9 +767,9 @@
         ]
       },
       {
-        "insertions": 1113,
-        "deletions": 1113,
-        "date": "2019-02-24",
+        "insertions": 2057,
+        "deletions": 2055,
+        "date": "2019-02-25",
         "commitResults": [
           {
             "hash": "93d3b72e0561183338efe13e588f2a56fe2f97d5",
@@ -1542,14 +812,7 @@
             "message": "ReadOnlyAddressBook: refactor `getPersonList()` to `getModuleList()`",
             "insertions": 25,
             "deletions": 25
-          }
-        ]
-      },
-      {
-        "insertions": 944,
-        "deletions": 942,
-        "date": "2019-02-25",
-        "commitResults": [
+          },
           {
             "hash": "1e6790588e064eba10ee9e42cb15be4a0e7b3834",
             "message": "Logic: refactor `Logic` interface method names",
@@ -2076,60 +1339,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-05",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-06",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-07",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-13",
-        "commitResults": []
-      },
-      {
         "insertions": 9,
         "deletions": 5,
         "date": "2019-03-14",
@@ -2162,18 +1371,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-17",
-        "commitResults": []
-      },
-      {
         "insertions": 491,
         "deletions": 189,
         "date": "2019-03-18",
@@ -2203,16 +1400,16 @@
             "deletions": 13
           },
           {
-            "hash": "fa7f9b9b867faf80ca329f1ba752152663818634",
-            "message": "Logic/commands: make `AddCommand#parse(...)` accept co-requisites",
-            "insertions": 27,
-            "deletions": 9
-          },
-          {
             "hash": "77a5f35b63ebac8fcb73e29fbb0e1e5c534bb674",
             "message": "Model: update `Module#toString()` method",
             "insertions": 15,
             "deletions": 1
+          },
+          {
+            "hash": "fa7f9b9b867faf80ca329f1ba752152663818634",
+            "message": "Logic/commands: make `AddCommand#parse(...)` accept co-requisites",
+            "insertions": 27,
+            "deletions": 9
           },
           {
             "hash": "a16e8b6441960056562f1966588f2cc270b46c2c",
@@ -2289,18 +1486,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-20",
-        "commitResults": []
-      },
-      {
         "insertions": 38,
         "deletions": 21,
         "date": "2019-03-21",
@@ -2318,24 +1503,6 @@
             "deletions": 2
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-24",
-        "commitResults": []
       },
       {
         "insertions": 344,
@@ -2361,12 +1528,6 @@
             "deletions": 1
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-26",
-        "commitResults": []
       },
       {
         "insertions": 135,
@@ -2395,8 +1556,8 @@
         ]
       },
       {
-        "insertions": 400,
-        "deletions": 20,
+        "insertions": 228,
+        "deletions": 15,
         "date": "2019-03-29",
         "commitResults": [
           {
@@ -2404,12 +1565,6 @@
             "message": " Model/util: add and use `InitialDataUtil` class (#134)",
             "insertions": 223,
             "deletions": 12
-          },
-          {
-            "hash": "98431c021497eb62b9d21cd07d4f868118965ad8",
-            "message": "Logic/parser: add and use `BooleanExpressionTokenizer`",
-            "insertions": 172,
-            "deletions": 5
           },
           {
             "hash": "64ec9fe2b088904ff0c90231cbeb11f83fb9e796",
@@ -2420,10 +1575,16 @@
         ]
       },
       {
-        "insertions": 2,
-        "deletions": 2,
+        "insertions": 174,
+        "deletions": 7,
         "date": "2019-03-30",
         "commitResults": [
+          {
+            "hash": "98431c021497eb62b9d21cd07d4f868118965ad8",
+            "message": "Logic/parser: add and use `BooleanExpressionTokenizer`",
+            "insertions": 172,
+            "deletions": 5
+          },
           {
             "hash": "d1dd12a6eb9faa621278ce71a5882e77f90379d3",
             "message": "test/CommandParserTestUtil: address `javac` linter warnings (#137)",
@@ -2507,12 +1668,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-02",
-        "commitResults": []
-      },
-      {
         "insertions": 24,
         "deletions": 63,
         "date": "2019-04-03",
@@ -2557,15 +1712,22 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-05",
-        "commitResults": []
+        "insertions": 7,
+        "deletions": 1,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "7cdda573d4735629880cda939408ec2e6a5b0b75",
+            "message": "build.gradle: update `defaultTasks` and add more compiler checks (#201)",
+            "insertions": 7,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 877,
         "deletions": 319,
-        "date": "2019-04-06",
+        "date": "2019-04-08",
         "commitResults": [
           {
             "hash": "e45bd0ad7ad2703c24abb7710328fd301f4b65df",
@@ -2582,22 +1744,9 @@
         ]
       },
       {
-        "insertions": 7,
-        "deletions": 1,
-        "date": "2019-04-07",
-        "commitResults": [
-          {
-            "hash": "7cdda573d4735629880cda939408ec2e6a5b0b75",
-            "message": "build.gradle: update `defaultTasks` and add more compiler checks (#201)",
-            "insertions": 7,
-            "deletions": 1
-          }
-        ]
-      },
-      {
         "insertions": 412,
         "deletions": 195,
-        "date": "2019-04-08",
+        "date": "2019-04-10",
         "commitResults": [
           {
             "hash": "87bd7344c6e23ebb7b03f0f25fe5a2643f2322b4",
@@ -2606,30 +1755,6 @@
             "deletions": 195
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-12",
-        "commitResults": []
       },
       {
         "insertions": 34,
@@ -2727,54 +1852,6 @@
     ],
     "chyeo": [
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-17",
-        "commitResults": []
-      },
-      {
         "insertions": 4,
         "deletions": 4,
         "date": "2019-02-18",
@@ -2786,48 +1863,6 @@
             "deletions": 4
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-21",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-24",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-25",
-        "commitResults": []
       },
       {
         "insertions": 73,
@@ -2843,12 +1878,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-27",
-        "commitResults": []
-      },
-      {
         "insertions": 1,
         "deletions": 1,
         "date": "2019-02-28",
@@ -2862,21 +1891,9 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-01",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-02",
-        "commitResults": []
-      },
-      {
-        "insertions": 1782,
-        "deletions": 479,
-        "date": "2019-03-03",
+        "insertions": 3319,
+        "deletions": 1940,
+        "date": "2019-03-04",
         "commitResults": [
           {
             "hash": "9f5609cfbbec54a5d46ce2d293422ce4adfc9ba2",
@@ -2985,14 +2002,7 @@
             "message": "Test: update to include RequirementList",
             "insertions": 167,
             "deletions": 54
-          }
-        ]
-      },
-      {
-        "insertions": 1537,
-        "deletions": 1461,
-        "date": "2019-03-04",
-        "commitResults": [
+          },
           {
             "hash": "3a753bb1b97baa49435c680ed3527d88cd13929c",
             "message": "Model: refractor \u0027Requirement\u0027 to \u0027RequirementCategory\u0027",
@@ -3020,39 +2030,9 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-05",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-06",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-07",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 475,
-        "deletions": 831,
-        "date": "2019-03-10",
+        "insertions": 1031,
+        "deletions": 1264,
+        "date": "2019-03-16",
         "commitResults": [
           {
             "hash": "e2c26ed53e743d4a6a33754e48cab16be31ac1c8",
@@ -3095,14 +2075,7 @@
             "message": "Main: update \u0027MainApp\u0027 to reference new \u0027JsonAddressBookStorage\u0027 methods",
             "insertions": 2,
             "deletions": 4
-          }
-        ]
-      },
-      {
-        "insertions": 92,
-        "deletions": 111,
-        "date": "2019-03-11",
-        "commitResults": [
+          },
           {
             "hash": "7db08cd7ef154b8feeb24f6161d98d16c68a8f9d",
             "message": "Test: update on existing test cases",
@@ -3114,33 +2087,13 @@
             "message": "Fix checkstyle issues",
             "insertions": 39,
             "deletions": 37
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 158,
-        "deletions": 72,
-        "date": "2019-03-13",
-        "commitResults": [
+          },
           {
             "hash": "7c96bba54984b3df7f51cc3944547e2e10090b3b",
             "message": "Storage: implementing a new storage model",
             "insertions": 158,
             "deletions": 72
-          }
-        ]
-      },
-      {
-        "insertions": 306,
-        "deletions": 250,
-        "date": "2019-03-14",
-        "commitResults": [
+          },
           {
             "hash": "051dda52ec1972e45814385f0d58d19d6267a4d3",
             "message": "Storage: update logic flow of reading and storing from Json files",
@@ -3164,7 +2117,7 @@
       {
         "insertions": 449,
         "deletions": 110,
-        "date": "2019-03-15",
+        "date": "2019-03-17",
         "commitResults": [
           {
             "hash": "3cc0993b856e4f768e62c8bf4f4bbe2a5ba5e3e8",
@@ -3181,15 +2134,9 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 12,
-        "deletions": 10,
-        "date": "2019-03-17",
+        "insertions": 401,
+        "deletions": 43,
+        "date": "2019-03-18",
         "commitResults": [
           {
             "hash": "a5aae05ed2190caed65ab8513a6c7f3d7157071a",
@@ -3202,14 +2149,7 @@
             "message": "RequirementCategoryBuilder: update to faciliate new command",
             "insertions": 9,
             "deletions": 8
-          }
-        ]
-      },
-      {
-        "insertions": 389,
-        "deletions": 33,
-        "date": "2019-03-18",
-        "commitResults": [
+          },
           {
             "hash": "8aa4241caa8433d48bf6917ad8f22e6c9954fa3e",
             "message": " commands: add \u0027RequirementAddCommand\u0027 class with uninitialized methods",
@@ -3280,21 +2220,9 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-21",
-        "commitResults": []
-      },
-      {
-        "insertions": 192,
+        "insertions": 228,
         "deletions": 242,
-        "date": "2019-03-22",
+        "date": "2019-03-25",
         "commitResults": [
           {
             "hash": "4f2a462cd41aba408cf58c5e31c704deee791e94",
@@ -3331,26 +2259,7 @@
             "message": "RequirementAddCommandTest: update to add in new test cases",
             "insertions": 22,
             "deletions": 8
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-24",
-        "commitResults": []
-      },
-      {
-        "insertions": 36,
-        "deletions": 0,
-        "date": "2019-03-25",
-        "commitResults": [
+          },
           {
             "hash": "dd67dd0b4c8624f508ed831e95ad8f92e443ea73",
             "message": "DeveloperGuide: include design considerations on requirement_add command (#105)",
@@ -3360,46 +2269,9 @@
         ]
       },
       {
-        "insertions": 399,
+        "insertions": 239,
         "deletions": 9,
-        "date": "2019-03-26",
-        "commitResults": [
-          {
-            "hash": "0fc735ad74dff29f96b1d460d76170e86208b44e",
-            "message": "Logic: implement logic for \u0027requirement_remove\u0027 command",
-            "insertions": 136,
-            "deletions": 0
-          },
-          {
-            "hash": "dcb0e39a153b8999c836986dd9a4cac49e91df01",
-            "message": "AddressBookParser: update to take in \u0027requirement_remove\u0027 command",
-            "insertions": 4,
-            "deletions": 0
-          },
-          {
-            "hash": "fe50e68280d7202f3ba70ebdcac4be57cccbfa51",
-            "message": "RequirementRemoveCommandTest: create test cases for implemented command",
-            "insertions": 259,
-            "deletions": 9
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-28",
-        "commitResults": []
-      },
-      {
-        "insertions": 436,
-        "deletions": 29,
-        "date": "2019-03-29",
+        "date": "2019-03-31",
         "commitResults": [
           {
             "hash": "ea4b496bb17c127d2777ad0493efccfae6c9185d",
@@ -3418,7 +2290,14 @@
             "message": "view: creating UI panels to display requirement categories",
             "insertions": 53,
             "deletions": 2
-          },
+          }
+        ]
+      },
+      {
+        "insertions": 722,
+        "deletions": 88,
+        "date": "2019-04-01",
+        "commitResults": [
           {
             "hash": "3a3c229c368cc12283c08143b56b9bbbc7ccd6f0",
             "message": "UI: implement the logic to display the requirement categories",
@@ -3430,33 +2309,31 @@
             "message": "Update CSS for display the requirement categories",
             "insertions": 38,
             "deletions": 20
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-30",
-        "commitResults": []
-      },
-      {
-        "insertions": 6,
-        "deletions": 7,
-        "date": "2019-03-31",
-        "commitResults": [
+          },
           {
             "hash": "4f95dbad14fb2f7c5ece50e193bf99539e6ba6b8",
             "message": "Fixing files with merge conflict issues",
             "insertions": 6,
             "deletions": 7
-          }
-        ]
-      },
-      {
-        "insertions": 120,
-        "deletions": 52,
-        "date": "2019-04-01",
-        "commitResults": [
+          },
+          {
+            "hash": "0fc735ad74dff29f96b1d460d76170e86208b44e",
+            "message": "Logic: implement logic for \u0027requirement_remove\u0027 command",
+            "insertions": 136,
+            "deletions": 0
+          },
+          {
+            "hash": "dcb0e39a153b8999c836986dd9a4cac49e91df01",
+            "message": "AddressBookParser: update to take in \u0027requirement_remove\u0027 command",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "fe50e68280d7202f3ba70ebdcac4be57cccbfa51",
+            "message": "RequirementRemoveCommandTest: create test cases for implemented command",
+            "insertions": 259,
+            "deletions": 9
+          },
           {
             "hash": "b492dc90d1a7c75ad5ba80495b6880171c2c1d88",
             "message": "docs/UserGuide: update requirement-related command usages (#149)",
@@ -3470,61 +2347,6 @@
             "deletions": 28
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-02",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-03",
-        "commitResults": []
-      },
-      {
-        "insertions": 777,
-        "deletions": 39,
-        "date": "2019-04-04",
-        "commitResults": [
-          {
-            "hash": "a7de2dd3afdf5b1d2b00852cabba44ab2613bb7e",
-            "message": "Logic: create logic for \u0027requirement_move\u0027 command",
-            "insertions": 278,
-            "deletions": 0
-          },
-          {
-            "hash": "7778aacb6f6a85cda9a535c0d8c2e3261ea0f534",
-            "message": "Logic: update application to take in new command",
-            "insertions": 4,
-            "deletions": 0
-          },
-          {
-            "hash": "434f419b5915d6603246d99c55b122f67533d438",
-            "message": "test/parser: creating test cases for new command",
-            "insertions": 495,
-            "deletions": 39
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-05",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-06",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-07",
-        "commitResults": []
       },
       {
         "insertions": 261,
@@ -3552,41 +2374,28 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 289,
-        "deletions": 0,
-        "date": "2019-04-12",
+        "insertions": 1854,
+        "deletions": 372,
+        "date": "2019-04-14",
         "commitResults": [
           {
-            "hash": "ecd939a15ca567a7180b26fbf17c48b3c2808137",
-            "message": "Test/requirement: adding test cases for \u0027RequirementCategory\u0027 classes",
-            "insertions": 289,
+            "hash": "a7de2dd3afdf5b1d2b00852cabba44ab2613bb7e",
+            "message": "Logic: create logic for \u0027requirement_move\u0027 command",
+            "insertions": 278,
             "deletions": 0
-          }
-        ]
-      },
-      {
-        "insertions": 226,
-        "deletions": 143,
-        "date": "2019-04-13",
-        "commitResults": [
+          },
+          {
+            "hash": "7778aacb6f6a85cda9a535c0d8c2e3261ea0f534",
+            "message": "Logic: update application to take in new command",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "434f419b5915d6603246d99c55b122f67533d438",
+            "message": "test/parser: creating test cases for new command",
+            "insertions": 495,
+            "deletions": 39
+          },
           {
             "hash": "93fbb76ce3ad082ab1545fd0e9372fdc8987b858",
             "message": "Logic: update \u0027requirement_remove\u0027 command logic",
@@ -3604,14 +2413,13 @@
             "message": "test/logic: update test cases to reflect new command logic",
             "insertions": 100,
             "deletions": 67
-          }
-        ]
-      },
-      {
-        "insertions": 562,
-        "deletions": 190,
-        "date": "2019-04-14",
-        "commitResults": [
+          },
+          {
+            "hash": "ecd939a15ca567a7180b26fbf17c48b3c2808137",
+            "message": "Test/requirement: adding test cases for \u0027RequirementCategory\u0027 classes",
+            "insertions": 289,
+            "deletions": 0
+          },
           {
             "hash": "d982a9836c9f460619719a9e8fbba50483f43cdb",
             "message": "test: update \u0027requirement_add\u0027 command test cases",
@@ -3653,42 +2461,6 @@
       }
     ],
     "lycjackie": [
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-15",
-        "commitResults": []
-      },
       {
         "insertions": 17,
         "deletions": 290,
@@ -3733,12 +2505,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-17",
-        "commitResults": []
-      },
-      {
         "insertions": 76,
         "deletions": 4,
         "date": "2019-02-18",
@@ -3750,48 +2516,6 @@
             "deletions": 4
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-21",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-24",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-25",
-        "commitResults": []
       },
       {
         "insertions": 2,
@@ -3807,15 +2531,9 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 14,
-        "deletions": 4,
-        "date": "2019-02-28",
+        "insertions": 396,
+        "deletions": 48,
+        "date": "2019-03-02",
         "commitResults": [
           {
             "hash": "129e5ba3b8254d2275590a481e833b0f747f08d6",
@@ -3828,37 +2546,6 @@
             "message": "Model: make `NameContainsKeywordsPredicate` extends `KeywordsPredicate",
             "insertions": 4,
             "deletions": 4
-          }
-        ]
-      },
-      {
-        "insertions": 179,
-        "deletions": 13,
-        "date": "2019-03-01",
-        "commitResults": [
-          {
-            "hash": "8586867f0c798fffbade680f4a0b00f5d89b3521",
-            "message": "Model/module: add `CodeContainsKeywordsPredicate` class",
-            "insertions": 30,
-            "deletions": 0
-          },
-          {
-            "hash": "9d1cdd95d8bdb238cd319fa7adbe4e939564314c",
-            "message": "Logic: make `FindCommandParser#parse(...)` parse `PREFIX_CODE`",
-            "insertions": 7,
-            "deletions": 1
-          },
-          {
-            "hash": "d2cf37e5c797781de48fbc22c921b92d2fac55fd",
-            "message": "FindCommand: update `MESSAGE_USAGE`",
-            "insertions": 10,
-            "deletions": 6
-          },
-          {
-            "hash": "71fe8a74d07cecaf877e362b966251ed0d078b5e",
-            "message": "test/module: add unit tests to `CodeContainsKeywordsPredicateTest`",
-            "insertions": 78,
-            "deletions": 0
           },
           {
             "hash": "3d2810020e9d2ed529a3b6e3e9c376f0a36954e3",
@@ -3867,77 +2554,10 @@
             "deletions": 5
           },
           {
-            "hash": "44bbfcdb1b35fa4225e3ea4a893288fec9d5f2a8",
-            "message": "Model/module: add `CreditsContainsKeywordsPredicate` class",
-            "insertions": 30,
-            "deletions": 0
-          },
-          {
-            "hash": "623e551f2e1663713f261d7a275d47d406adab19",
-            "message": "Logic: make `FindCommandParser#parse(...)` parse `PREFIX_CREDITS`",
-            "insertions": 7,
-            "deletions": 1
-          }
-        ]
-      },
-      {
-        "insertions": 203,
-        "deletions": 31,
-        "date": "2019-03-02",
-        "commitResults": [
-          {
-            "hash": "3b52d53ae742bd434337d8fec5d0a2828bc239e7",
-            "message": "FindCommand: update `MESSAGE_USAGE`",
-            "insertions": 3,
-            "deletions": 1
-          },
-          {
-            "hash": "f90c2f6507c4dba6e453d73ede9627e0c6af9fdb",
-            "message": "test/parser: add unit test to `FindCommandParserTest`",
-            "insertions": 6,
-            "deletions": 0
-          },
-          {
-            "hash": "04dd0986fbe1bb02dcda4cd097eb6e31442036a4",
-            "message": "test/module: add unit tests to `CreditsContainsKeywordsPredicateTest`",
-            "insertions": 70,
-            "deletions": 0
-          },
-          {
             "hash": "2969187abf0cb2ab8dabcfcc1d12df921c5d4119",
             "message": "commands/FindCommandTest: refactor methods name",
             "insertions": 5,
             "deletions": 4
-          },
-          {
-            "hash": "554eaf9cf01ebbc048f0a24bae26f682b9818643",
-            "message": "test/commands: add unit test to `FindCommandTest`",
-            "insertions": 19,
-            "deletions": 0
-          },
-          {
-            "hash": "c8ffe342107e79a1a8824837d235983c97f59a16",
-            "message": "systemtests/FindCommandSystemTest: add unit tests",
-            "insertions": 20,
-            "deletions": 0
-          },
-          {
-            "hash": "ea05da395f45d6f5a43041dbbfb869608bcde976",
-            "message": "test/parser: add unit test to `FindCommandParserTest`",
-            "insertions": 8,
-            "deletions": 0
-          },
-          {
-            "hash": "ae7d847a10524168d23febcacf50f25ff1519ed5",
-            "message": "test/commands: add unit test to `FindCommandTest`",
-            "insertions": 19,
-            "deletions": 0
-          },
-          {
-            "hash": "171e28c69b84fc20debc442a8b4d39c35d0c5d8a",
-            "message": "systemtests/FindCommandSystemTest: add unit test",
-            "insertions": 18,
-            "deletions": 0
           },
           {
             "hash": "1c62d34916f94bd732e1905e37ffb135b31e3626",
@@ -3964,18 +2584,96 @@
             "deletions": 3
           },
           {
+            "hash": "8586867f0c798fffbade680f4a0b00f5d89b3521",
+            "message": "Model/module: add `CodeContainsKeywordsPredicate` class",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "9d1cdd95d8bdb238cd319fa7adbe4e939564314c",
+            "message": "Logic: make `FindCommandParser#parse(...)` parse `PREFIX_CODE`",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "d2cf37e5c797781de48fbc22c921b92d2fac55fd",
+            "message": "FindCommand: update `MESSAGE_USAGE`",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "71fe8a74d07cecaf877e362b966251ed0d078b5e",
+            "message": "test/module: add unit tests to `CodeContainsKeywordsPredicateTest`",
+            "insertions": 78,
+            "deletions": 0
+          },
+          {
+            "hash": "f90c2f6507c4dba6e453d73ede9627e0c6af9fdb",
+            "message": "test/parser: add unit test to `FindCommandParserTest`",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "554eaf9cf01ebbc048f0a24bae26f682b9818643",
+            "message": "test/commands: add unit test to `FindCommandTest`",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "c8ffe342107e79a1a8824837d235983c97f59a16",
+            "message": "systemtests/FindCommandSystemTest: add unit tests",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "44bbfcdb1b35fa4225e3ea4a893288fec9d5f2a8",
+            "message": "Model/module: add `CreditsContainsKeywordsPredicate` class",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "623e551f2e1663713f261d7a275d47d406adab19",
+            "message": "Logic: make `FindCommandParser#parse(...)` parse `PREFIX_CREDITS`",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "3b52d53ae742bd434337d8fec5d0a2828bc239e7",
+            "message": "FindCommand: update `MESSAGE_USAGE`",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
             "hash": "c57229b3f625bf4da8b1b4ebe7386d2dc9e8ad80",
             "message": "Logic: refactor `FindCommandParser#parse(...)`",
             "insertions": 6,
             "deletions": 1
+          },
+          {
+            "hash": "04dd0986fbe1bb02dcda4cd097eb6e31442036a4",
+            "message": "test/module: add unit tests to `CreditsContainsKeywordsPredicateTest`",
+            "insertions": 70,
+            "deletions": 0
+          },
+          {
+            "hash": "ea05da395f45d6f5a43041dbbfb869608bcde976",
+            "message": "test/parser: add unit test to `FindCommandParserTest`",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "ae7d847a10524168d23febcacf50f25ff1519ed5",
+            "message": "test/commands: add unit test to `FindCommandTest`",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "171e28c69b84fc20debc442a8b4d39c35d0c5d8a",
+            "message": "systemtests/FindCommandSystemTest: add unit test",
+            "insertions": 18,
+            "deletions": 0
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-03",
-        "commitResults": []
       },
       {
         "insertions": 70,
@@ -3983,28 +2681,28 @@
         "date": "2019-03-04",
         "commitResults": [
           {
-            "hash": "d959d9f7b30425196a82c4a0ec8d8c2473d92c7c",
-            "message": "README: update acknowledgement",
-            "insertions": 2,
-            "deletions": 1
-          },
-          {
             "hash": "7af3611343a82f2e4538e0ce454e1757a3f747b2",
             "message": "docs/UserGuide: update `find` command usage (#49)",
             "insertions": 26,
             "deletions": 15
           },
           {
-            "hash": "5cf749cbac4b15c3109e8050342e8cddb99ddb7b",
-            "message": "README: update application description",
-            "insertions": 13,
-            "deletions": 7
-          },
-          {
             "hash": "5a5606035e6bdeca90fab615dc5fdec572a83da3",
             "message": "docs/team: remove `dataencryption` tag to fix `asciidoctor` warning",
             "insertions": 0,
             "deletions": 10
+          },
+          {
+            "hash": "d959d9f7b30425196a82c4a0ec8d8c2473d92c7c",
+            "message": "README: update acknowledgement",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "5cf749cbac4b15c3109e8050342e8cddb99ddb7b",
+            "message": "README: update application description",
+            "insertions": 13,
+            "deletions": 7
           },
           {
             "hash": "8004e8333ca9c22cad864aaa6b6e8b40a32d9573",
@@ -4021,40 +2719,28 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-05",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-06",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-07",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 78,
-        "deletions": 18,
-        "date": "2019-03-10",
+        "insertions": 191,
+        "deletions": 34,
+        "date": "2019-03-15",
         "commitResults": [
+          {
+            "hash": "f500d7e05ca3e611aac3845055da48eb131efa3a",
+            "message": "Logic/ParserUtil: add more helper methods",
+            "insertions": 60,
+            "deletions": 0
+          },
+          {
+            "hash": "e954bce2e3d11cae8f8e9e3a21606ae777923e02",
+            "message": "Logic: Fix `FindCommandParser#getKeywordsPredicate(...)`",
+            "insertions": 17,
+            "deletions": 10
+          },
+          {
+            "hash": "b8404b8e85a7a7da2311f5b15116378e68398dd4",
+            "message": "test/parser: add unit tests to `FindCommandParserTest`",
+            "insertions": 36,
+            "deletions": 6
+          },
           {
             "hash": "c8cb9e5afbdc2a8d0421d1363851838715cec983",
             "message": "Model: refactor `KeywordsPredicate`",
@@ -4076,55 +2762,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 113,
-        "deletions": 16,
-        "date": "2019-03-15",
-        "commitResults": [
-          {
-            "hash": "f500d7e05ca3e611aac3845055da48eb131efa3a",
-            "message": "Logic/ParserUtil: add more helper methods",
-            "insertions": 60,
-            "deletions": 0
-          },
-          {
-            "hash": "e954bce2e3d11cae8f8e9e3a21606ae777923e02",
-            "message": "Logic: Fix `FindCommandParser#getKeywordsPredicate(...)`",
-            "insertions": 17,
-            "deletions": 10
-          },
-          {
-            "hash": "b8404b8e85a7a7da2311f5b15116378e68398dd4",
-            "message": "test/parser: add unit tests to `FindCommandParserTest`",
-            "insertions": 36,
-            "deletions": 6
-          }
-        ]
-      },
-      {
         "insertions": 6,
         "deletions": 6,
         "date": "2019-03-16",
@@ -4136,30 +2773,6 @@
             "deletions": 6
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-17",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-18",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-20",
-        "commitResults": []
       },
       {
         "insertions": 6,
@@ -4175,26 +2788,8 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-24",
-        "commitResults": []
-      },
-      {
-        "insertions": 475,
-        "deletions": 117,
+        "insertions": 64,
+        "deletions": 5,
         "date": "2019-03-25",
         "commitResults": [
           {
@@ -4209,6 +2804,19 @@
             "insertions": 5,
             "deletions": 4
           },
+          {
+            "hash": "4b452f10208cde4c1f1593ecd7b54181439c08c7",
+            "message": "docs/DeveloperGuide: update `find` command implementation details (#100)",
+            "insertions": 58,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 121,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": [
           {
             "hash": "bbe2af9b0876b36196c15902904757bc37d4eb43",
             "message": "Logic: create `BooleanExpressionParser` class",
@@ -4228,23 +2836,24 @@
             "deletions": 0
           },
           {
-            "hash": "b2cf5be1f24491605b8d121281771f7b5f7c781f",
-            "message": "Logic: add helper method for `BooleanExpressionParser`",
-            "insertions": 43,
-            "deletions": 0
-          },
-          {
             "hash": "fcc701dbf43fcee9d33f2fe04cb0d38fa8451766",
             "message": "Logic: add helper method on Operator",
             "insertions": 25,
             "deletions": 0
           },
           {
-            "hash": "4b452f10208cde4c1f1593ecd7b54181439c08c7",
-            "message": "docs/DeveloperGuide: update `find` command implementation details (#100)",
-            "insertions": 58,
+            "hash": "b2cf5be1f24491605b8d121281771f7b5f7c781f",
+            "message": "Logic: add helper method for `BooleanExpressionParser`",
+            "insertions": 43,
             "deletions": 0
-          },
+          }
+        ]
+      },
+      {
+        "insertions": 380,
+        "deletions": 201,
+        "date": "2019-03-30",
+        "commitResults": [
           {
             "hash": "165b55b7cfa3996ca5691a6cac443669ab56390f",
             "message": "Logic: implement `BooleanExpressionParser#parse`",
@@ -4256,6 +2865,24 @@
             "message": "Logic: utilise `BooleanExpressionParser#parse`",
             "insertions": 1,
             "deletions": 50
+          },
+          {
+            "hash": "8d328f5147352dfbf2e7df9c6daf2c5a7a59881b",
+            "message": "Logic: adopt `CliSyntax` for consistency",
+            "insertions": 4,
+            "deletions": 8
+          },
+          {
+            "hash": "b6b35e2ce08b362c6cb29ca61a4ded2aee291c06",
+            "message": "Logic: Improve `BooleanExpressionParser#getKeywordsPredicate`",
+            "insertions": 86,
+            "deletions": 81
+          },
+          {
+            "hash": "8e3af821f16a4014e66629c621615723399a2e8b",
+            "message": "FindCommand: update `MESSAGE_USAGE`",
+            "insertions": 21,
+            "deletions": 7
           },
           {
             "hash": "377aaa302515a13ae01b8cc10522b7b3c9eb7874",
@@ -4274,64 +2901,8 @@
             "message": "systemtest/FindCommanSystemTest: add unit tests",
             "insertions": 73,
             "deletions": 1
-          },
-          {
-            "hash": "8e3af821f16a4014e66629c621615723399a2e8b",
-            "message": "FindCommand: update `MESSAGE_USAGE`",
-            "insertions": 21,
-            "deletions": 7
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-26",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-28",
-        "commitResults": []
-      },
-      {
-        "insertions": 4,
-        "deletions": 8,
-        "date": "2019-03-29",
-        "commitResults": [
-          {
-            "hash": "8d328f5147352dfbf2e7df9c6daf2c5a7a59881b",
-            "message": "Logic: adopt `CliSyntax` for consistency",
-            "insertions": 4,
-            "deletions": 8
-          }
-        ]
-      },
-      {
-        "insertions": 86,
-        "deletions": 81,
-        "date": "2019-03-30",
-        "commitResults": [
-          {
-            "hash": "b6b35e2ce08b362c6cb29ca61a4ded2aee291c06",
-            "message": "Logic: Improve `BooleanExpressionParser#getKeywordsPredicate`",
-            "insertions": 86,
-            "deletions": 81
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-31",
-        "commitResults": []
       },
       {
         "insertions": 658,
@@ -4357,18 +2928,6 @@
             "deletions": 9
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-02",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-03",
-        "commitResults": []
       },
       {
         "insertions": 2968,
@@ -4397,10 +2956,16 @@
         ]
       },
       {
-        "insertions": 90,
-        "deletions": 0,
-        "date": "2019-04-06",
+        "insertions": 478,
+        "deletions": 108,
+        "date": "2019-04-08",
         "commitResults": [
+          {
+            "hash": "0eaf376543ee0cc4868aeab89977657e06a27921",
+            "message": "Logic: improve our `clear` command",
+            "insertions": 157,
+            "deletions": 12
+          },
           {
             "hash": "f4bfee00b6c981c9da8de97eb7b45a5a96de4bfe",
             "message": "logic/Test: create unit test for `ClearCommandParser`",
@@ -4412,14 +2977,13 @@
             "message": "logic/Test: Add unit tests on updated behaviour",
             "insertions": 33,
             "deletions": 0
-          }
-        ]
-      },
-      {
-        "insertions": 197,
-        "deletions": 85,
-        "date": "2019-04-07",
-        "commitResults": [
+          },
+          {
+            "hash": "cd2407c068976c2b7315c660b4e897e3ba59eb9e",
+            "message": "[#174] UI: include title for all main panels (#194)",
+            "insertions": 34,
+            "deletions": 11
+          },
           {
             "hash": "4f2d5a1a21c5dc3ed0ca49c54701c68d0e6e4211",
             "message": "Logic: add new `Exception` for `BooleanExpressionParser`",
@@ -4447,86 +3011,6 @@
         ]
       },
       {
-        "insertions": 191,
-        "deletions": 23,
-        "date": "2019-04-08",
-        "commitResults": [
-          {
-            "hash": "0eaf376543ee0cc4868aeab89977657e06a27921",
-            "message": "Logic: improve our `clear` command",
-            "insertions": 157,
-            "deletions": 12
-          },
-          {
-            "hash": "cd2407c068976c2b7315c660b4e897e3ba59eb9e",
-            "message": "[#174] UI: include title for all main panels (#194)",
-            "insertions": 34,
-            "deletions": 11
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 98,
-        "deletions": 2,
-        "date": "2019-04-11",
-        "commitResults": [
-          {
-            "hash": "c5279083634ac853f63c5008f5995c4a6613af5c",
-            "message": "Model/module: add `TagContainsKeywordsPredicate` class",
-            "insertions": 38,
-            "deletions": 0
-          },
-          {
-            "hash": "de79e7ed59aeec0de74d677a5fe0030f9fbd5e06",
-            "message": "Logic/parser: `FindCommandParser` now able to parse `PREFIX_TAG`",
-            "insertions": 3,
-            "deletions": 1
-          },
-          {
-            "hash": "e93df71175bd4be73f2575f10ec2e2608bad7e6b",
-            "message": "FindCommand: Update MESSAGE_USAGE",
-            "insertions": 4,
-            "deletions": 1
-          },
-          {
-            "hash": "9ce830086ae4bcf91f811e6e73daddbac61678b9",
-            "message": "test/parser: add unit tests to `FindCommandParserTest`",
-            "insertions": 19,
-            "deletions": 0
-          },
-          {
-            "hash": "5ecc03928760d4fcc6ddc5552e6b60bc45b5dede",
-            "message": "test/commands: add unit test to `FindCommandTest`",
-            "insertions": 14,
-            "deletions": 0
-          },
-          {
-            "hash": "166f2edaabbe318c33a7787c35ea6ec8025bb659",
-            "message": "systemtests/FindCommandSystemTest: add unit tests",
-            "insertions": 20,
-            "deletions": 0
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-12",
-        "commitResults": []
-      },
-      {
         "insertions": 406,
         "deletions": 174,
         "date": "2019-04-13",
@@ -4540,8 +3024,8 @@
         ]
       },
       {
-        "insertions": 690,
-        "deletions": 234,
+        "insertions": 788,
+        "deletions": 236,
         "date": "2019-04-14",
         "commitResults": [
           {
@@ -4569,15 +3053,51 @@
             "deletions": 135
           },
           {
+            "hash": "c5279083634ac853f63c5008f5995c4a6613af5c",
+            "message": "Model/module: add `TagContainsKeywordsPredicate` class",
+            "insertions": 38,
+            "deletions": 0
+          },
+          {
             "hash": "01493d826b34b587c3eaeb5e9ab3713d2500d70b",
             "message": "Logic/parser:  utilise tags",
             "insertions": 6,
             "deletions": 1
           },
           {
+            "hash": "de79e7ed59aeec0de74d677a5fe0030f9fbd5e06",
+            "message": "Logic/parser: `FindCommandParser` now able to parse `PREFIX_TAG`",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "e93df71175bd4be73f2575f10ec2e2608bad7e6b",
+            "message": "FindCommand: Update MESSAGE_USAGE",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
             "hash": "12b1804ae3474179fc9ed99d8c78f0491bd5033f",
             "message": "test/module: add unit tests to `TagContainsKeywordsPredicateTest`",
             "insertions": 64,
+            "deletions": 0
+          },
+          {
+            "hash": "9ce830086ae4bcf91f811e6e73daddbac61678b9",
+            "message": "test/parser: add unit tests to `FindCommandParserTest`",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "5ecc03928760d4fcc6ddc5552e6b60bc45b5dede",
+            "message": "test/commands: add unit test to `FindCommandTest`",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "166f2edaabbe318c33a7787c35ea6ec8025bb659",
+            "message": "systemtests/FindCommandSystemTest: add unit tests",
+            "insertions": 20,
             "deletions": 0
           },
           {
@@ -4647,12 +3167,6 @@
             "deletions": 2
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-15",
-        "commitResults": []
       }
     ]
   },
@@ -4663,12 +3177,99 @@
     "chyeo": 4067,
     "lycjackie": 5516
   },
+  "authorFileFormatContributionMap": {
+    "truegitnovice": {
+      "adoc": 918,
+      "cs": 0,
+      "css": 26,
+      "fxml": 23,
+      "gradle": 0,
+      "html": 0,
+      "java": 2777,
+      "js": 0,
+      "json": 70,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "WendyBaiYunwei": {
+      "adoc": 360,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 1136,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "Creastery": {
+      "adoc": 698,
+      "cs": 0,
+      "css": 1,
+      "fxml": 10,
+      "gradle": 28,
+      "html": 0,
+      "java": 5062,
+      "js": 0,
+      "json": 93,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "chyeo": {
+      "adoc": 501,
+      "cs": 0,
+      "css": 23,
+      "fxml": 47,
+      "gradle": 0,
+      "html": 0,
+      "java": 3468,
+      "js": 0,
+      "json": 28,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "lycjackie": {
+      "adoc": 800,
+      "cs": 0,
+      "css": 465,
+      "fxml": 37,
+      "gradle": 6,
+      "html": 0,
+      "java": 4201,
+      "js": 0,
+      "json": 3,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 4,
+      "xml": 0
+    }
+  },
   "authorContributionVariance": {
-    "truegitnovice": 85112.82,
+    "truegitnovice": 119938.54,
     "WendyBaiYunwei": 25029.219,
-    "Creastery": 228644.73,
-    "chyeo": 251302.94,
-    "lycjackie": 550115.06
+    "Creastery": 356519.62,
+    "chyeo": 567828.2,
+    "lycjackie": 557856.6
   },
   "authorDisplayNameMap": {
     "truegitnovice": "AHN...GYU",

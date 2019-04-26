@@ -2,98 +2,8 @@
   "authorDailyContributionsMap": {
     "rachellim10": [
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-17",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-18",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-21",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-24",
-        "commitResults": []
-      },
-      {
-        "insertions": 115,
-        "deletions": 39,
+        "insertions": 64,
+        "deletions": 36,
         "date": "2019-02-25",
         "commitResults": [
           {
@@ -107,7 +17,14 @@
             "message": "UserGuide: update the rest of the commands",
             "insertions": 49,
             "deletions": 28
-          },
+          }
+        ]
+      },
+      {
+        "insertions": 51,
+        "deletions": 3,
+        "date": "2019-02-28",
+        "commitResults": [
           {
             "hash": "e26e54f2289408a62e675f4820fe5c9b431cc71a",
             "message": "AddAliases: add aliases for \u0027add\u0027, \u0027edit\u0027 and \u0027delete\u0027 commands",
@@ -121,126 +38,6 @@
             "deletions": 3
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-26",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-28",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-01",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-02",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-03",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-04",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-05",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-06",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-07",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-17",
-        "commitResults": []
       },
       {
         "insertions": 133,
@@ -262,24 +59,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-21",
-        "commitResults": []
-      },
-      {
         "insertions": 75,
         "deletions": 17,
         "date": "2019-03-22",
@@ -291,18 +70,6 @@
             "deletions": 17
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-24",
-        "commitResults": []
       },
       {
         "insertions": 140,
@@ -318,24 +85,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-26",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-28",
-        "commitResults": []
-      },
-      {
         "insertions": 13,
         "deletions": 10,
         "date": "2019-03-29",
@@ -347,18 +96,6 @@
             "deletions": 10
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-30",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-31",
-        "commitResults": []
       },
       {
         "insertions": 20,
@@ -385,12 +122,6 @@
             "deletions": 37
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-03",
-        "commitResults": []
       },
       {
         "insertions": 100,
@@ -424,12 +155,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-05",
-        "commitResults": []
-      },
-      {
         "insertions": 8,
         "deletions": 1,
         "date": "2019-04-06",
@@ -441,30 +166,6 @@
             "deletions": 1
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-07",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-10",
-        "commitResults": []
       },
       {
         "insertions": 176,
@@ -484,12 +185,6 @@
             "deletions": 8
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-12",
-        "commitResults": []
       },
       {
         "insertions": 166,
@@ -532,186 +227,6 @@
     ],
     "gautamrajulu": [
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-17",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-18",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-21",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-24",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-25",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-26",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-28",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-01",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-02",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-03",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-04",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-05",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-06",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-07",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-11",
-        "commitResults": []
-      },
-      {
         "insertions": 48,
         "deletions": 4,
         "date": "2019-03-12",
@@ -729,36 +244,6 @@
             "deletions": 4
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-17",
-        "commitResults": []
       },
       {
         "insertions": 10,
@@ -804,24 +289,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-21",
-        "commitResults": []
-      },
-      {
         "insertions": 72,
         "deletions": 25,
         "date": "2019-03-22",
@@ -841,42 +308,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-24",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-25",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-26",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-28",
-        "commitResults": []
-      },
-      {
         "insertions": 69,
         "deletions": 1,
         "date": "2019-03-29",
@@ -888,18 +319,6 @@
             "deletions": 1
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-30",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-31",
-        "commitResults": []
       },
       {
         "insertions": 6,
@@ -932,18 +351,6 @@
             "deletions": 0
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-03",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-04",
-        "commitResults": []
       },
       {
         "insertions": 99,
@@ -1001,42 +408,6 @@
             "deletions": 1
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-13",
-        "commitResults": []
       },
       {
         "insertions": 355,
@@ -1138,72 +509,6 @@
     ],
     "josephinetanadi": [
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-17",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-18",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-20",
-        "commitResults": []
-      },
-      {
         "insertions": 10,
         "deletions": 7,
         "date": "2019-02-21",
@@ -1215,12 +520,6 @@
             "deletions": 7
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-22",
-        "commitResults": []
       },
       {
         "insertions": 48,
@@ -1236,15 +535,9 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-24",
-        "commitResults": []
-      },
-      {
         "insertions": 15,
         "deletions": 1,
-        "date": "2019-02-25",
+        "date": "2019-02-28",
         "commitResults": [
           {
             "hash": "27065f91073a07fb05120c36206df0098c54a416",
@@ -1261,54 +554,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-26",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-28",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-01",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-02",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-03",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-04",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-05",
-        "commitResults": []
-      },
-      {
         "insertions": 327,
         "deletions": 327,
         "date": "2019-03-06",
@@ -1320,30 +565,6 @@
             "deletions": 327
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-07",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-10",
-        "commitResults": []
       },
       {
         "insertions": 1328,
@@ -1377,18 +598,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-13",
-        "commitResults": []
-      },
-      {
         "insertions": 1289,
         "deletions": 1629,
         "date": "2019-03-14",
@@ -1402,24 +611,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-17",
-        "commitResults": []
-      },
-      {
         "insertions": 42,
         "deletions": 0,
         "date": "2019-03-18",
@@ -1431,18 +622,6 @@
             "deletions": 0
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-20",
-        "commitResults": []
       },
       {
         "insertions": 1129,
@@ -1477,18 +656,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-24",
-        "commitResults": []
-      },
-      {
         "insertions": 82,
         "deletions": 39,
         "date": "2019-03-25",
@@ -1502,18 +669,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-26",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-27",
-        "commitResults": []
-      },
-      {
         "insertions": 658,
         "deletions": 532,
         "date": "2019-03-28",
@@ -1525,18 +680,6 @@
             "deletions": 532
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-29",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-30",
-        "commitResults": []
       },
       {
         "insertions": 29,
@@ -1594,12 +737,6 @@
             "deletions": 2
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-03",
-        "commitResults": []
       },
       {
         "insertions": 888,
@@ -1671,12 +808,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-07",
-        "commitResults": []
-      },
-      {
         "insertions": 69,
         "deletions": 18,
         "date": "2019-04-08",
@@ -1688,12 +819,6 @@
             "deletions": 18
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-09",
-        "commitResults": []
       },
       {
         "insertions": 292,
@@ -1720,12 +845,6 @@
             "deletions": 30
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-12",
-        "commitResults": []
       },
       {
         "insertions": 60,
@@ -1762,78 +881,6 @@
     ],
     "arhjaye": [
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-17",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-18",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-20",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-21",
-        "commitResults": []
-      },
-      {
         "insertions": 1,
         "deletions": 1,
         "date": "2019-02-22",
@@ -1847,12 +894,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-23",
-        "commitResults": []
-      },
-      {
         "insertions": 102,
         "deletions": 39,
         "date": "2019-02-24",
@@ -1864,12 +905,6 @@
             "deletions": 39
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-25",
-        "commitResults": []
       },
       {
         "insertions": 16,
@@ -1904,12 +939,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-28",
-        "commitResults": []
-      },
-      {
         "insertions": 10,
         "deletions": 4,
         "date": "2019-03-01",
@@ -1921,66 +950,6 @@
             "deletions": 4
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-02",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-03",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-04",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-05",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-06",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-07",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-11",
-        "commitResults": []
       },
       {
         "insertions": 1708,
@@ -2026,36 +995,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-17",
-        "commitResults": []
-      },
-      {
         "insertions": 246,
         "deletions": 324,
         "date": "2019-03-18",
@@ -2085,12 +1024,6 @@
             "deletions": 0
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-19",
-        "commitResults": []
       },
       {
         "insertions": 124,
@@ -2149,24 +1082,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-24",
-        "commitResults": []
-      },
-      {
         "insertions": 8,
         "deletions": 310,
         "date": "2019-03-25",
@@ -2218,12 +1133,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-28",
-        "commitResults": []
-      },
-      {
         "insertions": 375,
         "deletions": 122,
         "date": "2019-03-29",
@@ -2253,18 +1162,6 @@
             "deletions": 2
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-30",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-31",
-        "commitResults": []
       },
       {
         "insertions": 99,
@@ -2314,18 +1211,6 @@
             "deletions": 4
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-02",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-03",
-        "commitResults": []
       },
       {
         "insertions": 401,
@@ -2417,30 +1302,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-12",
-        "commitResults": []
-      },
-      {
         "insertions": 88,
         "deletions": 69,
         "date": "2019-04-13",
@@ -2481,78 +1342,12 @@
     ],
     "andreathniah": [
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-17",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-18",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 654,
-        "deletions": 88,
+        "insertions": 327,
+        "deletions": 44,
         "date": "2019-02-20",
         "commitResults": [
           {
             "hash": "9c56bbf0c01e6ef06e3cb2d30227293ac8b0e883",
-            "message": "README: update contents for v1.1",
-            "insertions": 12,
-            "deletions": 15
-          },
-          {
-            "hash": "f2ae86274b48a4c5acc663d01ae4525b3ee38257",
             "message": "README: update contents for v1.1",
             "insertions": 12,
             "deletions": 15
@@ -2564,19 +1359,7 @@
             "deletions": 24
           },
           {
-            "hash": "267459f8ef395ab8c0815fcf03981f7dcde3aff4",
-            "message": "AboutUs: update contents for v1.1",
-            "insertions": 311,
-            "deletions": 24
-          },
-          {
             "hash": "1c57fbc0aec8e52eb108ffd35de2bd0a41560dd3",
-            "message": "Docs: update contents to conform to travis checks",
-            "insertions": 3,
-            "deletions": 4
-          },
-          {
-            "hash": "c9cb5065a20ef1598546cfc1418abac2e0b03d4a",
             "message": "Docs: update contents to conform to travis checks",
             "insertions": 3,
             "deletions": 4
@@ -2586,32 +1369,8 @@
             "message": "AboutUs: fix typo in Renjie\u0027s github profile link",
             "insertions": 1,
             "deletions": 1
-          },
-          {
-            "hash": "55c2918743877086bd59a9b4708ba0bd50d9edd1",
-            "message": "AboutUs: fix typo in Renjie\u0027s github profile link",
-            "insertions": 1,
-            "deletions": 1
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-21",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-23",
-        "commitResults": []
       },
       {
         "insertions": 73,
@@ -2627,34 +1386,35 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-25",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-26",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-02-27",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 327,
+        "deletions": 44,
         "date": "2019-02-28",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-01",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "f2ae86274b48a4c5acc663d01ae4525b3ee38257",
+            "message": "README: update contents for v1.1",
+            "insertions": 12,
+            "deletions": 15
+          },
+          {
+            "hash": "267459f8ef395ab8c0815fcf03981f7dcde3aff4",
+            "message": "AboutUs: update contents for v1.1",
+            "insertions": 311,
+            "deletions": 24
+          },
+          {
+            "hash": "c9cb5065a20ef1598546cfc1418abac2e0b03d4a",
+            "message": "Docs: update contents to conform to travis checks",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "55c2918743877086bd59a9b4708ba0bd50d9edd1",
+            "message": "AboutUs: fix typo in Renjie\u0027s github profile link",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 9,
@@ -2674,24 +1434,6 @@
             "deletions": 4
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-03",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-04",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-05",
-        "commitResults": []
       },
       {
         "insertions": 5780,
@@ -2720,66 +1462,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-10",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-11",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-12",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-13",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-14",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-15",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-16",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-17",
-        "commitResults": []
-      },
-      {
         "insertions": 78,
         "deletions": 4,
         "date": "2019-03-18",
@@ -2805,18 +1487,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-19",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-20",
-        "commitResults": []
-      },
-      {
         "insertions": 65,
         "deletions": 20,
         "date": "2019-03-21",
@@ -2828,24 +1498,6 @@
             "deletions": 20
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-22",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-23",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-24",
-        "commitResults": []
       },
       {
         "insertions": 72,
@@ -2905,12 +1557,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-28",
-        "commitResults": []
-      },
-      {
         "insertions": 420,
         "deletions": 45,
         "date": "2019-03-29",
@@ -2934,12 +1580,6 @@
             "deletions": 1
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-30",
-        "commitResults": []
       },
       {
         "insertions": 573,
@@ -3079,42 +1719,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-05",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-06",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-07",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-08",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-09",
-        "commitResults": []
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-10",
-        "commitResults": []
-      },
-      {
         "insertions": 377,
         "deletions": 117,
         "date": "2019-04-11",
@@ -3150,12 +1754,6 @@
             "deletions": 48
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-12",
-        "commitResults": []
       },
       {
         "insertions": 501,
@@ -3294,12 +1892,99 @@
     "arhjaye": 2084,
     "andreathniah": 6009
   },
+  "authorFileFormatContributionMap": {
+    "rachellim10": {
+      "adoc": 152,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 489,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "gautamrajulu": {
+      "adoc": 207,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 301,
+      "js": 0,
+      "json": 23,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "josephinetanadi": {
+      "adoc": 181,
+      "cs": 0,
+      "css": 23,
+      "fxml": 51,
+      "gradle": 0,
+      "html": 0,
+      "java": 4494,
+      "js": 0,
+      "json": 204,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "arhjaye": {
+      "adoc": 551,
+      "cs": 0,
+      "css": 0,
+      "fxml": 10,
+      "gradle": 0,
+      "html": 0,
+      "java": 1523,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    },
+    "andreathniah": {
+      "adoc": 646,
+      "cs": 0,
+      "css": 51,
+      "fxml": 5,
+      "gradle": 7,
+      "html": 0,
+      "java": 5206,
+      "js": 0,
+      "json": 94,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
+    }
+  },
   "authorContributionVariance": {
-    "rachellim10": 2335.5764,
+    "rachellim10": 2166.8267,
     "gautamrajulu": 3779.75,
     "josephinetanadi": 227183.42,
     "arhjaye": 167348.02,
-    "andreathniah": 2031950.5
+    "andreathniah": 2027649.2
   },
   "authorDisplayNameMap": {
     "rachellim10": "RAC... YU",

@@ -110,7 +110,7 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* This application is a useful tool to manage the contacts of participating Freshmen, OGLs and others. Its features include:"
       },
@@ -124,7 +124,7 @@
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "** Listing of participants by their 3 categories (Freshmen, OGLs and others)"
       },
@@ -152,14 +152,14 @@
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "** Exporting participant information (by whole list, by Freshmen list or by OGL list) from the application to a readable format (Excel)"
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "** Importing participant information from Excel file to FOP Manager"
       },
@@ -270,8 +270,9 @@
       }
     ],
     "authorContributionMap": {
+      "ssunil3232": 4,
       "shanseet": 6,
-      "-": 29,
+      "-": 25,
       "weizhang05": 3
     }
   },
@@ -2265,7 +2266,7 @@
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Responsibilities: Add, List, Export, Import features and Documentations"
       },
@@ -2285,8 +2286,9 @@
       }
     ],
     "authorContributionMap": {
+      "ssunil3232": 1,
       "shanseet": 3,
-      "-": 29,
+      "-": 28,
       "weizhang05": 15
     }
   },
@@ -4581,14 +4583,14 @@
       {
         "lineNumber": 319,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The following is an Activity Diagram to summarize what happens when either the `list_f` or `list_o` commands are entered."
       },
       {
         "lineNumber": 320,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -4602,7 +4604,7 @@
       {
         "lineNumber": 322,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "image::ListFreshmenCommandActivityDiagram.png[width\u003d\"800\"]"
       },
@@ -4616,7 +4618,7 @@
       {
         "lineNumber": 324,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -4630,21 +4632,21 @@
       {
         "lineNumber": 326,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 327,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The following Sequence diagram below will explain how the `list_f` command works in detail."
       },
       {
         "lineNumber": 328,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -4658,42 +4660,42 @@
       {
         "lineNumber": 330,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "image::ListParticipantCommandSequenceDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 331,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 332,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "An example usage of the `list_f` command is as follows:"
       },
       {
         "lineNumber": 333,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 334,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*Step 1:* The user launches the application. The `VersionedAddressBook` will be initialized with the initial address book state."
       },
       {
         "lineNumber": 335,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -4707,7 +4709,7 @@
       {
         "lineNumber": 337,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -4721,14 +4723,14 @@
       {
         "lineNumber": 339,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 340,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The implementation is similar for the `list_o` command with the use of `FindingOglPredicate` instead where the searched tag is \"OGL\"."
       },
@@ -7164,56 +7166,56 @@
       {
         "lineNumber": 688,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Participant contact details can be exported in different manners:"
       },
       {
         "lineNumber": 689,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 690,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* `export`: Exports all participants\u0027 contacts into an Excel Spreadsheet"
       },
       {
         "lineNumber": 691,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* `export_f`: Exports all freshmen contacts into an Excel Spreadsheet"
       },
       {
         "lineNumber": 692,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* `export_o`: Exports all OGL contacts into an Excel Spreadsheet"
       },
       {
         "lineNumber": 693,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 694,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The following is an Activity Diagram to summarize what happens when the `export` command is entered."
       },
       {
         "lineNumber": 695,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -7227,14 +7229,14 @@
       {
         "lineNumber": 697,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "image::ExportCommandActivityDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 698,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -7269,14 +7271,14 @@
       {
         "lineNumber": 703,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The following Sequence diagram below will explain how the `export` command works in detail."
       },
       {
         "lineNumber": 704,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -7290,42 +7292,42 @@
       {
         "lineNumber": 706,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "image::ExportCommandSequenceDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 707,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 708,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "An example usage of the command is as follows:"
       },
       {
         "lineNumber": 709,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 710,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*Step 1:* The user launches the application. The `VersionedAddressBook` will be initialized with the initial address book state."
       },
       {
         "lineNumber": 711,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -7339,21 +7341,21 @@
       {
         "lineNumber": 713,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 714,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*Step 3:* The filtered list is obtained in the command. The export command calls the `WriteToExcel` class\u0027s `WriteExcelSheet()`. This will set the directory, create the Excel Workbook and Sheet, the file name, the cells and rows with the titles for the FOP Manager."
       },
       {
         "lineNumber": 715,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -7367,21 +7369,21 @@
       {
         "lineNumber": 717,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 718,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*Step 5:* Returning to `WriteExcelSheet()`, the file is output to user\u0027s current directory as an .xls file."
       },
       {
         "lineNumber": 719,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -7416,49 +7418,49 @@
       {
         "lineNumber": 724,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "// tag::import[]"
       },
       {
         "lineNumber": 725,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d Import Feature"
       },
       {
         "lineNumber": 726,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 727,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Sometimes FOP Project Directors realise they need to add many participants\u0027 contacts that they gathered and usually they gather the contacts through sign up links that allow for exportation into Excel spreadsheets. Manually added the large influx of participants is troublesome. Hence, with the Import feature, FOP Project Directors can import the data of Non-duplicate people from an excel file into the FOP Manager. This makes adding of contacts easier."
       },
       {
         "lineNumber": 728,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 729,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The following is an Activity Diagram to summarize what happens when the `import` command is entered."
       },
       {
         "lineNumber": 730,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -7472,70 +7474,70 @@
       {
         "lineNumber": 732,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "image::ImportCommandActivityDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 733,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 734,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
       {
         "lineNumber": 735,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* A third-party library \u0027Apache.poi\u0027 was integrated into the project to enable easy creation of excel files through Object-Oriented Programming (OOP). In this case, the library will enable the creation of HSSF Workbook."
       },
       {
         "lineNumber": 736,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* The `import` command will call a function from a class `WriteToExcel` to start the reading from a HSSF Workbook found in the current directory path, with the file name \"FOP_MANAGER_LIST.xls\"."
       },
       {
         "lineNumber": 737,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* The cell value from the respective heading/columns are read into their respective string and `person` is created with these strings."
       },
       {
         "lineNumber": 738,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* The `person` is added to a `List\u003cPerson\u003e` and each `person` is added into the `Address Book`."
       },
       {
         "lineNumber": 739,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 740,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The following Sequence diagram below will explain how the `import` command works in detail."
       },
       {
         "lineNumber": 741,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -7549,133 +7551,133 @@
       {
         "lineNumber": 743,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "image::ImportCommandSequenceDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 744,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 745,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "An example usage of the command is as follows:"
       },
       {
         "lineNumber": 746,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 747,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*Step 1:* The user launches the application. The `VersionedAddressBook` will be initialized with the initial address book state."
       },
       {
         "lineNumber": 748,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 749,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*Step 2:* The user enters the `import` command . The `import` command calls the `WriteToExcel` class\u0027s `ReadFromExcel()`. This will open the file of the default set name from the set directory."
       },
       {
         "lineNumber": 750,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 751,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*Step 3:* The Excel sheets is checked for the correct headings and then the cell\u0027s values are read to create each `person`. Each `person` is added to a `List\u003cPerson\u003e` which will be returned to the Import command."
       },
       {
         "lineNumber": 752,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 753,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*Step 4:* The `import` command adds each non-duplicate person into the FOP Manager."
       },
       {
         "lineNumber": 754,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 755,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "** One interesting usage of both `import` and `export` feature will be to retain and retrieve contacts. For instance, after exporting the data, we can clear. We can then import the contacts if needed."
       },
       {
         "lineNumber": 756,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "** Another interesting usage is for manual edit of the details of multiple contacts. We can clear the Address Book and then `import` command to import the data."
       },
       {
         "lineNumber": 757,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 758,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d\u003d Design Consideration"
       },
       {
         "lineNumber": 759,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Only one way was considered for the implementation of Import feature, which involved importing the third-party library."
       },
       {
         "lineNumber": 760,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "// end:: import[]"
       },
       {
         "lineNumber": 761,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -13037,9 +13039,9 @@
     ],
     "authorContributionMap": {
       "tantantan277": 82,
-      "ssunil3232": 16,
+      "ssunil3232": 92,
       "shanseet": 358,
-      "-": 928,
+      "-": 852,
       "weizhang05": 142
     }
   },
@@ -15811,7 +15813,7 @@
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "// tag::add[]"
       },
@@ -16539,7 +16541,7 @@
       {
         "lineNumber": 207,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "// end::add[]"
       },
@@ -17183,7 +17185,7 @@
       {
         "lineNumber": 299,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "// tag::list[]"
       },
@@ -17477,7 +17479,7 @@
       {
         "lineNumber": 341,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "// end::list[]"
       },
@@ -19577,35 +19579,35 @@
       {
         "lineNumber": 641,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "// tag::export[]"
       },
       {
         "lineNumber": 642,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d Export Commands"
       },
       {
         "lineNumber": 643,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 644,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "[[ExportALL]]"
       },
       {
         "lineNumber": 645,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d\u003d Exporting the whole contact list : `export`"
       },
@@ -19640,483 +19642,483 @@
       {
         "lineNumber": 650,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Excel Spreadsheet name is *FOP_MANAGER_LIST.xls*."
       },
       {
         "lineNumber": 651,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Excel Spreadsheet will be saved in the current User Directory."
       },
       {
         "lineNumber": 652,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 653,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Entering the `export` commands will result in an Excel Spreadsheet in the current User Directory. As shown below."
       },
       {
         "lineNumber": 654,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 655,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "image::ExportImage.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 656,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 657,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The Excel Spreadsheet will look like this:"
       },
       {
         "lineNumber": 658,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 659,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "image::ExportResult.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 660,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 661,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "[WARNING]"
       },
       {
         "lineNumber": 662,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 663,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Save and close the Excel file before exporting."
       },
       {
         "lineNumber": 664,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 665,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "There are other export commands to produce a spreadsheet for Freshmen and OGL lists as shown in the next two sections. +"
       },
       {
         "lineNumber": 666,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The name of the file will change accordingly, however, the location is the same."
       },
       {
         "lineNumber": 667,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 668,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "[[ExportF]]"
       },
       {
         "lineNumber": 669,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d\u003d Exporting only the Freshmen in the contact list : `export_f`"
       },
       {
         "lineNumber": 670,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 671,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Exports all the Freshmen entries from your contact list to Excel Spreadsheet. +"
       },
       {
         "lineNumber": 672,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Format: `export_f`"
       },
       {
         "lineNumber": 673,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 674,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Excel Spreadsheet name is *FOP_MANAGER_FRESHMEN_LIST.xls*. +"
       },
       {
         "lineNumber": 675,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Excel Spreadsheet will be saved in the current User Directory. +"
       },
       {
         "lineNumber": 676,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 677,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "[WARNING]"
       },
       {
         "lineNumber": 678,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 679,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Save and close the Excel file before exporting."
       },
       {
         "lineNumber": 680,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 681,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "[[ExportO]]"
       },
       {
         "lineNumber": 682,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d\u003d Exporting only the OGLs in the contact list : `export_o`"
       },
       {
         "lineNumber": 683,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 684,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Exports all the OGL entries from your contact list to Excel Spreadsheet. +"
       },
       {
         "lineNumber": 685,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Format: `export_o`"
       },
       {
         "lineNumber": 686,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 687,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Excel Spreadsheet name is *FOP_MANAGER_OGL_LIST.xls*. +"
       },
       {
         "lineNumber": 688,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Excel Spreadsheet will be saved in the current User Directory. +"
       },
       {
         "lineNumber": 689,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 690,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "[WARNING]"
       },
       {
         "lineNumber": 691,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 692,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Save and close the Excel file before exporting."
       },
       {
         "lineNumber": 693,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 694,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "// end::export[]"
       },
       {
         "lineNumber": 695,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 696,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "// tag::import[]"
       },
       {
         "lineNumber": 697,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "[[Import]]"
       },
       {
         "lineNumber": 698,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d Importing contact list : `import`"
       },
       {
         "lineNumber": 699,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 700,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Imports contact list from an Excel Spreadsheet into the FOP Manager. +"
       },
       {
         "lineNumber": 701,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Format: `import`"
       },
       {
         "lineNumber": 702,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 703,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "****"
       },
       {
         "lineNumber": 704,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* The Excel Spreadsheet should have the headings in the order NAME, SEX, BIRTHDAY, PHONE, EMAIL, MAJOR, GROUP and then TAG."
       },
       {
         "lineNumber": 705,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Entries in the NAME, SEX, BIRTHDAY, PHONE, EMAIL, MAJOR and TAG columns have to be non-null."
       },
       {
         "lineNumber": 706,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Only the non-duplicate contacts are added."
       },
       {
         "lineNumber": 707,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* If we want to edit the contacts found in the FOP Manager via excel, we should `clear` the FOP Manager and then `import`."
       },
       {
         "lineNumber": 708,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 709,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "[WARNING]"
       },
       {
         "lineNumber": 710,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 711,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Spreadsheet name has to be *FOP_MANAGER_LIST.xls* and it has to be located at the current User Directory. +"
       },
       {
         "lineNumber": 712,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The values entered under each respective columns, have to follow the format of the the `add` command. +"
       },
       {
         "lineNumber": 713,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The TAG column cannot be empty. If you want it to be empty, put a white space. +"
       },
       {
         "lineNumber": 714,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Save and close the Excel file before importing."
       },
       {
         "lineNumber": 715,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 716,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "****"
       },
       {
         "lineNumber": 717,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "// end::import[]"
       },
       {
         "lineNumber": 718,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -20599,28 +20601,28 @@
       {
         "lineNumber": 787,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "|`export` |Exports contact list |`export` |\u003c\u003cExportALL, Exporting whole contact list\u003e\u003e"
       },
       {
         "lineNumber": 788,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "|`export_f` |Exports freshmen contact list |`export_f` |\u003c\u003cExportF, Exporting freshmen contact list\u003e\u003e"
       },
       {
         "lineNumber": 789,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "|`export_o` |Exports OGL contact list |`export_o` |\u003c\u003cExportO, Exporting OGL contact list\u003e\u003e"
       },
       {
         "lineNumber": 790,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "|`import` |Imports contacts |`import` |\u003c\u003cImport, Importing contact list from Excel Spreadsheet\u003e\u003e"
       },
@@ -20655,9 +20657,9 @@
     ],
     "authorContributionMap": {
       "tantantan277": 62,
-      "ssunil3232": 40,
+      "ssunil3232": 122,
       "shanseet": 426,
-      "-": 237,
+      "-": 155,
       "weizhang05": 29
     }
   },
@@ -21418,21 +21420,21 @@
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ":note-caption: :information_source:"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ":warning-caption: :warning:"
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ":tip-caption: :bulb:"
       },
@@ -21488,14 +21490,14 @@
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "For our Software Engineering module CS2113T, my team and I worked on morphing a given Command Line Interface (CLI) Address book for its **use by Faculty Orientation Program (FOP) Project Directors for easier management of participant data during camps**."
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -21509,7 +21511,7 @@
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Often it gets messy during the facilitation and organisation of FOP camps as the FOP participant size is a lot larger than normal camps and there are various critical student data that need to be passed around among organizers. __FOP Manager__ will aid FOP Project Directors in viewing, sharing and changing the participant data more easily."
       },
@@ -21530,7 +21532,7 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "**My role** was to design features that will enable the separate listing of Freshmen, Orientation Group Leaders (OGL) and other participants in the camp, such as Organisers, from the contact list stored on FOP Manager. I was also tasked to do an export feature to export the all participants\u0027, all Freshmen\u0027s and all OGLs\u0027 data from the contact list into an Excel spreadsheet. For more conveninet adding of multiple contacts, I was also tasked to do an import feature. Hence, I contributed the `add_f`, `add_o`, `list_f`, `list_o`, `export`, `export_f`, `export_o` and `import` features in the FOP Manager."
       },
@@ -21593,7 +21595,7 @@
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*** *Justification*: This command will help the FOP Project Directors to clearly see the participants in the list of freshmen involved, the list of OGLs involved and the list of other participants involved. It will also display the number of participants in each list to give the user an idea of the expected camp size and accordingly manage the logistics."
       },
@@ -21628,21 +21630,21 @@
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*** *Format*: `export`, `export_f`, `export_o`"
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*** *Purpose*: To export the data in the contact list to Excel spreadsheets, a form shareable with other organisers involved in the camp and others without access to FOP Manager. To also export the data of Freshmen and OGLs as separate lists as well."
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*** *Justification*: This command is necessary for other organizers and non-organisers to be able to view the contacts, without altering the data stored in the FOP Manager. It will also allow the FOP Project Directors to share the contact list information to others without access to the FOP Manager. The export function will work hand-in-hand with the import function, to ensure there are multiple saved copies of the full contact list."
       },
@@ -21656,56 +21658,56 @@
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*** *Code contributed*: [LINK of Pull Requests: https://github.com/cs2113-ay1819s2-t08-4/main/pull[#97], https://github.com/cs2113-ay1819s2-t08-4/main/pull[#140], https://github.com/cs2113-ay1819s2-t08-4/main/pull[#144]]"
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "** *Feature 3*: __Importing of data from an Excel file__"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*** *Format*: `import`"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*** *Purpose*: To import contacts from an Excel spreadsheet, an easier way to add multiple contacts into the FOP Manager without needing to enter the `add` command continuously. It also allows for saving and loading of the contact list, by working hand-in-hand with the `export` command."
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*** *Justification*: This command is necessary to reduce the manual keying the FOP Project Director has to do to add contacts into the FOP Manager. It will also allow the FOP Project Director to load previous data exported from the FOP Manager, in case the Project Director losses the contact details from the FOP Manager. Thus, it is also purposeful in acting as a Back-up method."
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*** *Highlights*: This enhancement required the integration of a third-party library. Basic understanding of the usage of the library was sufficient for the implementation of this feature."
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*** *Code contributed*: [LINK of Pull Requests: https://github.com/cs2113-ay1819s2-t08-4/main/pull[#143]]"
       },
@@ -21747,7 +21749,7 @@
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*** *Justification*: This command will help the FOP Project Directors to add a tag to the freshmen and the OGLs respectively, without the need to type out the tag \"Freshman\" or \"OGL\". The feature will automatically save the Freshman and OGL added with their respective tags."
       },
@@ -21775,42 +21777,42 @@
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* *Code contributed*:"
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* _Functional code_: [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/main/java/seedu/address/logic/commands/AddFreshmanCommand.java[Add Freshman Command]],  [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/main/java/seedu/address/logic/commands/AddOglCommand.java[Add OGL Command]], [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/main/java/seedu/address/logic/commands/ListParticipantCommand.java[List Freshmen Command]], [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/main/java/seedu/address/logic/commands/ListOglCommand.java[List OGL Command]], [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/main/java/seedu/address/logic/commands/ExportCommand.java[Export Command]], [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/main/java/seedu/address/logic/commands/ExportFreshmenCommand.java[Export Freshmen Command]], [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/main/java/seedu/address/logic/commands/ExportOglCommand.java[Export OGL Command]], [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/main/java/seedu/address/logic/commands/ImportCommand.java[Import Command]]"
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* _Test code_: [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/test/java/seedu/address/logic/commands/ListParticipantCommandTest.java[List Freshmen Command Test]], [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/test/java/seedu/address/logic/commands/ListOglCommandTest.java[List OGL Command Test]], [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/test/java/seedu/address/logic/commands/ExportCommandTest.java[Export Command Test]], [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/test/java/seedu/address/logic/commands/ExportFreshmenCommandTest.java[Export Freshmen Command Test]], [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/src/test/java/seedu/address/logic/commands/ExportOglCommandTest.java[Export OGL Command Test]],"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Check out more of my code on Project Code Dashboard https://nuscs2113-ay1819s2.github.io/dashboard-beta/#\u003dundefined\u0026search\u003dssunil3232[here]."
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -21887,7 +21889,7 @@
       {
         "lineNumber": 72,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "|_We updated the given User Guide with instructions on how to use the features that we added to the morphed Address book. The following section will show the additions made to the FOP Manager User Guide for the features implemented by me. I made additions to the Add Commands, List Commands, Export Commands and the Import Command sections. This section will elaborate only on the Import Command and the Export Commands section. The rest of the commands can be found in the User Guide._"
       },
@@ -21908,28 +21910,28 @@
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "_Throughout this section, the following icons are used, as shown below:_"
       },
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "WARNING: This is a warning and they need to be heeded for FOP Manager to work smoothly."
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -21943,7 +21945,7 @@
       {
         "lineNumber": 80,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d\u003d *Exporting the whole contact list* : `export`"
       },
@@ -21978,343 +21980,343 @@
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Excel Spreadsheet name is *FOP_MANAGER_LIST.xls*."
       },
       {
         "lineNumber": 86,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Excel Spreadsheet will be saved in the current User Directory."
       },
       {
         "lineNumber": 87,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 88,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Entering the `export` commands will result in an Excel Spreadsheet in the current User Directory. As shown below."
       },
       {
         "lineNumber": 89,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 90,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "image::ExportImage.png[width\u003d\"600\"]"
       },
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The Excel Spreadsheet will look like this:"
       },
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "image::ExportResult.png[width\u003d\"600\"]"
       },
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 96,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "There are other export commands to produce a spreadsheet for Freshmen and OGL lists as shown in the next two sections. +"
       },
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The name of the file will change accordingly, however, the location is the same."
       },
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d\u003d *Exporting only the Freshmen in the contact list* : `export_f`"
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Exports all the Freshmen entries from your contact list to Excel Spreadsheet. +"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Format: `export_f`"
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Excel Spreadsheet name is *FOP_MANAGER_FRESHMEN_LIST.xls*. +"
       },
       {
         "lineNumber": 106,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Excel Spreadsheet will be saved in the current User Directory. +"
       },
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d\u003d *Exporting only the OGLs in the contact list* : `export_o`"
       },
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 110,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Exports all the OGL entries from your contact list to Excel Spreadsheet. +"
       },
       {
         "lineNumber": 111,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Format: `export_o`"
       },
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 113,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Excel Spreadsheet name is *FOP_MANAGER_OGL_LIST.xls*. +"
       },
       {
         "lineNumber": 114,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Excel Spreadsheet will be saved in the current User Directory. +"
       },
       {
         "lineNumber": 115,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 116,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d *Import Command*"
       },
       {
         "lineNumber": 117,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d\u003d *Importing contact list* : `import`"
       },
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 119,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Imports contact list from an Excel Spreadsheet into the FOP Manager. +"
       },
       {
         "lineNumber": 120,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Format: `import`"
       },
       {
         "lineNumber": 121,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "****"
       },
       {
         "lineNumber": 123,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* The Excel Spreadsheet should have the headings in the order NAME, SEX, BIRTHDAY, PHONE, EMAIL, MAJOR, GROUP and then TAG."
       },
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Entries in the NAME, SEX, BIRTHDAY, PHONE, EMAIL and MAJOR columns have to be non-null."
       },
       {
         "lineNumber": 125,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* Only the non-duplicate contacts are added."
       },
       {
         "lineNumber": 126,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "* If we want to edit the contacts found in the FOP Manager via excel, we should `clear` the FOP Manager and then `import`."
       },
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "[WARNING]"
       },
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Spreadsheet name has to be *FOP_MANAGER_LIST.xls* and it has to be located at the current User Directory. +"
       },
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The values entered under each respective columns, have to follow the format of the the `add` command."
       },
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "****"
       },
@@ -22328,7 +22330,7 @@
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Link to view the User Guide: [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/docs/UserGuide.adoc[User Guide]]"
       },
@@ -22363,7 +22365,7 @@
       {
         "lineNumber": 140,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "|_I added the sections on Participant Management, the Export Feature and the Import Feature to the FOP Manager Developer Guide. The following section is an example contribution of the Participant Management section I wrote on in the Developer Guide and sample of the Export Feature and Import Feature sections. You can view the Export Feature and the Import Feature in greater detail from the Developer Guide._"
       },
@@ -22398,7 +22400,7 @@
       {
         "lineNumber": 145,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Participant management refers to how users manipulate and view the data of camp participants. Participants are categorised into 3 types: OGL, Freshman or other. This section describes how the 3 types of participants are managed."
       },
@@ -22510,28 +22512,28 @@
       {
         "lineNumber": 161,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "All participants are stored in the same contact list as a `UniqueParticipantList` in an AddressBook object. Participants created as OGLs or Freshmen differ only in the tags added to them. The different listing of the participants is very useful for Project Directors as it helps them to view the Freshmen and the OGL contacts separately, to specifically see who are in the respective lists and how many participants are there in each of the lists."
       },
       {
         "lineNumber": 162,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 163,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "\u003d\u003d\u003d\u003d Current Implementation"
       },
       {
         "lineNumber": 164,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -22552,105 +22554,105 @@
       {
         "lineNumber": 167,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The following Sequence diagram below will explain how the `list_f` command works in detail."
       },
       {
         "lineNumber": 168,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 169,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "image::ListParticipantCommandSequenceDiagram.png[width\u003d\"800\"]"
       },
       {
         "lineNumber": 170,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "_Sequence Diagram for listing Freshmen command_"
       },
       {
         "lineNumber": 171,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 172,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "An example usage of the `list_f` command is as follows:"
       },
       {
         "lineNumber": 173,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 174,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*Step 1:* The user launches the application. The `VersionedAddressBook` will be initialized with the initial address book state."
       },
       {
         "lineNumber": 175,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 176,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*Step 2:* The user enters the `list_f` command . The `list_f` command calls the `FindingParticipantPredicate` class and searches all tags of each person for \"Freshman\"."
       },
       {
         "lineNumber": 177,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 178,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "*Step 3:* The `updateFilteredPersonList()` takes in this predicate and the `getFilteredPersonList()` is called to give the list of Freshmen in the contact list"
       },
       {
         "lineNumber": 179,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
       {
         "lineNumber": 180,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "The implementation is similar for the `list_o` command with the use of `FindingOglPredicate` instead where the searched tag is \"OGL\"."
       },
       {
         "lineNumber": 181,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": ""
       },
@@ -22755,14 +22757,13 @@
       {
         "lineNumber": 196,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "Link to view the Developer Guide: [https://github.com/CS2113-AY1819S2-T08-4/main/blob/master/docs/DeveloperGuide.adoc[Developer Guide]]"
       }
     ],
     "authorContributionMap": {
-      "ssunil3232": 66,
-      "-": 104,
+      "ssunil3232": 170,
       "weizhang05": 26
     }
   },
@@ -26093,7 +26094,7 @@
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "    private static final int LEFT_OUT_CHARACTER \u003d 3;"
       },
@@ -27325,21 +27326,21 @@
       {
         "lineNumber": 225,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "                    if (birthdayString.length() \u003c 8) {"
       },
       {
         "lineNumber": 226,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "                        birthdayString \u003d \u00270\u0027 + birthdayString;"
       },
       {
         "lineNumber": 227,
         "author": {
-          "gitId": "-"
+          "gitId": "ssunil3232"
         },
         "content": "                    }"
       },
@@ -27856,8 +27857,7 @@
       }
     ],
     "authorContributionMap": {
-      "ssunil3232": 267,
-      "-": 4,
+      "ssunil3232": 271,
       "weizhang05": 29
     }
   },
