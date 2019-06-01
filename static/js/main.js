@@ -160,33 +160,21 @@ window.app = new window.Vue({
       return full;
     },
 
-    // handle opening of sidebar //
-    activateTab(tabName) {
-      // changing isTabActive to trigger redrawing of component
+    deactivateTab() {
       this.isTabActive = false;
       if (document.getElementById('tabs-wrapper')) {
         document.getElementById('tabs-wrapper').scrollTop = 0;
       }
-
-      this.isTabActive = true;
-      this.isCollapsed = false;
-      this.tabType = tabName;
     },
 
     updateTabAuthorship(obj) {
+      this.deactivateTab();
       this.tabInfo.tabAuthorship = Object.assign({}, obj);
-      this.activateTab('authorship');
-    },
-    updateTabZoom(obj) {
-      this.tabInfo.tabZoom = Object.assign({}, obj);
-      this.activateTab('zoom');
-    },
 
-    // updating summary view
-    updateSummaryDates() {
-      this.$refs.summary.updateDateRange();
+      this.isTabActive = true;
+      this.isCollapsed = false;
+      this.tabType = 'authorship';
     },
-
     renderAuthorShipTabHash(minDate, maxDate) {
       const hash = window.hashParams;
       const info = {
@@ -224,7 +212,6 @@ window.app = new window.Vue({
     },
   },
   components: {
-    v_zoom: window.vZoom,
     v_summary: window.vSummary,
     v_authorship: window.vAuthorship,
     CircleSpinner: window.VueLoadingSpinner.Circle,
