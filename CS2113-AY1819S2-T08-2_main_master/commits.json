@@ -338,6 +338,19 @@
         ]
       },
       {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "b4f436c642cfb8f8b48dea08d00b326a395239ae",
+            "message": "team member photos",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      },
+      {
         "insertions": 1695,
         "deletions": 47,
         "date": "2019-03-23",
@@ -574,8 +587,8 @@
         ]
       },
       {
-        "insertions": 58,
-        "deletions": 16,
+        "insertions": 67,
+        "deletions": 28,
         "date": "2019-04-07",
         "commitResults": [
           {
@@ -583,6 +596,24 @@
             "message": "added dummy data",
             "insertions": 22,
             "deletions": 1
+          },
+          {
+            "hash": "082163cd4832fce288f84513a4f2b27595ddca7a",
+            "message": "added dummy data",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "5741d5fa46f2460ff5aa5f2696e5c8a95886ba8f",
+            "message": "added dummy data",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4d995699680f800d0a62dc20458868cd37efd9f4",
+            "message": "added dummy data fixing travis error",
+            "insertions": 4,
+            "deletions": 4
           },
           {
             "hash": "2e0e8979c0031391e43d64b6cecb92748baf427b",
@@ -693,6 +724,18 @@
             "message": "updated images name and affected adocs",
             "insertions": 6,
             "deletions": 6
+          },
+          {
+            "hash": "cfd916fd79b9b7f30ba4d23b0b764c31a0d3ae5f",
+            "message": "deleted unused images",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "bae6322e094ef0c1e9d13d621fa52c305fa26dd6",
+            "message": "reformat ui image",
+            "insertions": 0,
+            "deletions": 0
           }
         ]
       },
@@ -718,6 +761,12 @@
             "message": "renaming to _LIFE_",
             "insertions": 1,
             "deletions": 1
+          },
+          {
+            "hash": "44c2a55b274512c0c0eff4c12f80348311a86c6f",
+            "message": "Updated Ui class diagram",
+            "insertions": 0,
+            "deletions": 0
           },
           {
             "hash": "745182f1d774bf004f8429a7836b7e2045bd0a6d",
@@ -809,6 +858,19 @@
             "message": "modified diagrams related to undo redo functions",
             "insertions": 20,
             "deletions": 20
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "5c693649411407a3e0ac0f5ed1c8361328dfebe3",
+            "message": "modified storage component class diagram",
+            "insertions": 0,
+            "deletions": 0
           }
         ]
       },
@@ -969,6 +1031,12 @@
             "deletions": 3
           },
           {
+            "hash": "6981075b675a69d63b2a98b35ee321c5b9747bb5",
+            "message": "updated ui",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
             "hash": "2ed9e847a30e8f64a1059aea753398f720f62ab9",
             "message": "updated ppp",
             "insertions": 2,
@@ -1075,6 +1143,12 @@
             "hash": "ac7913a285e5963a01948b0543f31eb5771b413f",
             "message": "Add files via upload",
             "insertions": 2284,
+            "deletions": 0
+          },
+          {
+            "hash": "10b2cfa61db8f0ffbffe0e4978d31ca3f834c321",
+            "message": "Add files via upload",
+            "insertions": 0,
             "deletions": 0
           }
         ]
@@ -1228,6 +1302,19 @@
         ]
       },
       {
+        "insertions": 0,
+        "deletions": 1,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "7ba74d08166e25035c795d4a447b53844ed45cc2",
+            "message": "Update .gitignore",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
         "insertions": 60,
         "deletions": 0,
         "date": "2019-03-31",
@@ -1241,7 +1328,7 @@
         ]
       },
       {
-        "insertions": 733,
+        "insertions": 736,
         "deletions": 136,
         "date": "2019-04-01",
         "commitResults": [
@@ -1260,7 +1347,7 @@
           {
             "hash": "e2572c1fbe27ab8cc439cbd358511247e74c9c89",
             "message": "Implemented some missing methods Generated a JAR file.",
-            "insertions": 142,
+            "insertions": 145,
             "deletions": 34
           }
         ]
@@ -1523,6 +1610,12 @@
             "deletions": 10
           },
           {
+            "hash": "90e39dbb9672cdad7e2522b0a1347e78fbcfdb24",
+            "message": "Some documentation updates.",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
             "hash": "412dceb8a7b6b56f34537ab733dac05d642d2c59",
             "message": "Checkstyle update for file SampleDataUtil",
             "insertions": 13,
@@ -1689,83 +1782,40 @@
     "yongjia96": 1418,
     "weizhonglauw": 4270,
     "wongyuqi": 4599,
-    "jayrometan": 6138
+    "jayrometan": 6141
   },
   "authorFileFormatContributionMap": {
     "yongjia96": {
-      "adoc": 153,
-      "cs": 0,
-      "css": 0,
-      "fxml": 44,
-      "gradle": 0,
-      "html": 0,
-      "java": 1211,
-      "js": 0,
       "json": 10,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "adoc": 153,
+      "java": 1211,
+      "fxml": 44
     },
     "weizhonglauw": {
       "adoc": 482,
-      "cs": 0,
-      "css": 5,
-      "fxml": 56,
-      "gradle": 0,
-      "html": 0,
-      "java": 3718,
-      "js": 0,
       "json": 9,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "java": 3718,
+      "css": 5,
+      "fxml": 56
     },
     "wongyuqi": {
       "adoc": 2603,
-      "cs": 0,
-      "css": 0,
-      "fxml": 62,
-      "gradle": 0,
-      "html": 0,
       "java": 1934,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "fxml": 62
     },
     "jayrometan": {
       "adoc": 760,
-      "cs": 0,
-      "css": 0,
-      "fxml": 98,
-      "gradle": 0,
-      "html": 0,
-      "java": 5210,
-      "js": 0,
       "json": 70,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "MF": 3,
+      "java": 5210,
+      "fxml": 98
     }
   },
   "authorContributionVariance": {
     "yongjia96": 12176.698,
-    "weizhonglauw": 192830.77,
+    "weizhonglauw": 192787.3,
     "wongyuqi": 173551.75,
-    "jayrometan": 151145.73
+    "jayrometan": 151204.02
   },
   "authorDisplayNameMap": {
     "yongjia96": "PAN...JIA",

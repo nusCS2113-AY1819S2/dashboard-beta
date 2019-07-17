@@ -15,10 +15,16 @@
         ]
       },
       {
-        "insertions": 3834,
-        "deletions": 1370,
+        "insertions": 3935,
+        "deletions": 1375,
         "date": "2019-02-16",
         "commitResults": [
+          {
+            "hash": "3eee7c15b2b69b3129242f8ad932f3587b79ca35",
+            "message": "Added appveyor.yml",
+            "insertions": 18,
+            "deletions": 0
+          },
           {
             "hash": "37fa3c8a5a9a3762d88d850a5fbe54e1e9e111d6",
             "message": "Added checkstyles from addressbooklvl4",
@@ -34,13 +40,13 @@
           {
             "hash": "178b42177898ececdb24883f0a421f7ab35502f3",
             "message": "Rename package name and fixed checkstyle errors",
-            "insertions": 3142,
-            "deletions": 1312
+            "insertions": 3149,
+            "deletions": 1317
           },
           {
             "hash": "dc0c379e26374caa5f17cc895e8d70d693f79f11",
             "message": "Update documents to match new project",
-            "insertions": 2,
+            "insertions": 76,
             "deletions": 0
           },
           {
@@ -70,7 +76,7 @@
           {
             "hash": "9121d74450ff853543ea6e83857710ef4fc93111",
             "message": "Added fixes for Appveyor build issues",
-            "insertions": 1,
+            "insertions": 3,
             "deletions": 1
           },
           {
@@ -82,15 +88,15 @@
         ]
       },
       {
-        "insertions": 1376,
-        "deletions": 361,
+        "insertions": 1380,
+        "deletions": 386,
         "date": "2019-02-17",
         "commitResults": [
           {
             "hash": "4c3797ad6967dddf3ac775065a9686b38878ad79",
             "message": "Updated UserGuide.adoc and added Portfolio pages for all team members \u0026 other misc",
-            "insertions": 1362,
-            "deletions": 114
+            "insertions": 1366,
+            "deletions": 139
           },
           {
             "hash": "581d65a216207faf2054c031139df688c9698ddf",
@@ -113,15 +119,15 @@
         ]
       },
       {
-        "insertions": 25,
-        "deletions": 90,
+        "insertions": 28,
+        "deletions": 92,
         "date": "2019-02-18",
         "commitResults": [
           {
             "hash": "4974371d124701d1991135b423f9d861d926196f",
             "message": "Fix build.gradle issues with build configurations",
-            "insertions": 24,
-            "deletions": 90
+            "insertions": 27,
+            "deletions": 92
           },
           {
             "hash": "a7fa0a86ad2b022959e3dc2705402524055055c2",
@@ -132,8 +138,8 @@
         ]
       },
       {
-        "insertions": 19,
-        "deletions": 1,
+        "insertions": 20,
+        "deletions": 2,
         "date": "2019-02-19",
         "commitResults": [
           {
@@ -141,12 +147,18 @@
             "message": "build.gradle: fix headless task issue",
             "insertions": 19,
             "deletions": 1
+          },
+          {
+            "hash": "6acdff015a238ebd247e9f50a3c072e301bbc0e6",
+            "message": "appveyor.yml: fixed type in the task \"test\"",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       },
       {
-        "insertions": 601,
-        "deletions": 88,
+        "insertions": 612,
+        "deletions": 90,
         "date": "2019-02-24",
         "commitResults": [
           {
@@ -154,6 +166,12 @@
             "message": "Refactor class and package names to suit \"planmysem\"",
             "insertions": 457,
             "deletions": 71
+          },
+          {
+            "hash": "dc0eafc22b655c719f7427af92c30cebac8452f9",
+            "message": "travis.yml: update script to suit morphed AB3",
+            "insertions": 11,
+            "deletions": 2
           },
           {
             "hash": "0015765ae148642e1520c5b5209344fda05afc0d",
@@ -367,14 +385,14 @@
         ]
       },
       {
-        "insertions": 1008,
+        "insertions": 1618,
         "deletions": 922,
         "date": "2019-03-26",
         "commitResults": [
           {
             "hash": "b99339bd98f4827b0fe0097ed95c8a6dbcc60628",
             "message": " Update UserGuide.adoc with \"Managing Slots\" and diagrams  (#119)",
-            "insertions": 862,
+            "insertions": 1472,
             "deletions": 371
           },
           {
@@ -386,15 +404,15 @@
         ]
       },
       {
-        "insertions": 4104,
-        "deletions": 2258,
+        "insertions": 4383,
+        "deletions": 2814,
         "date": "2019-03-29",
         "commitResults": [
           {
             "hash": "054da6ad006056813c73f6f6b0c5e51cc797866f",
             "message": " Update entire project to follow better software engineering practices  (#123)",
-            "insertions": 4104,
-            "deletions": 2258
+            "insertions": 4383,
+            "deletions": 2814
           }
         ]
       },
@@ -437,15 +455,15 @@
         ]
       },
       {
-        "insertions": 1503,
-        "deletions": 1759,
+        "insertions": 1528,
+        "deletions": 1878,
         "date": "2019-04-02",
         "commitResults": [
           {
             "hash": "63ce703ae75c53e5f3cb912944efa0d0bca83b7e",
             "message": "v1.3 (#146)",
-            "insertions": 1503,
-            "deletions": 1759
+            "insertions": 1528,
+            "deletions": 1878
           }
         ]
       },
@@ -503,14 +521,14 @@
       },
       {
         "insertions": 57,
-        "deletions": 104,
+        "deletions": 343,
         "date": "2019-04-11",
         "commitResults": [
           {
             "hash": "e2995232be0c9df2c4e1e1bc222a31e6025d56c2",
             "message": " Update DeveloperGuide.adoc with tips from TA  (#185)",
             "insertions": 57,
-            "deletions": 104
+            "deletions": 343
           }
         ]
       },
@@ -594,8 +612,8 @@
         ]
       },
       {
-        "insertions": 3445,
-        "deletions": 1498,
+        "insertions": 3640,
+        "deletions": 1655,
         "date": "2019-03-18",
         "commitResults": [
           {
@@ -633,6 +651,12 @@
             "message": "Update Documentation (#89)",
             "insertions": 43,
             "deletions": 59
+          },
+          {
+            "hash": "d3668ecda7210d33a3b077b8dd752a90db126a94",
+            "message": "Merge (#13)",
+            "insertions": 195,
+            "deletions": 157
           }
         ]
       },
@@ -716,7 +740,7 @@
         ]
       },
       {
-        "insertions": 210,
+        "insertions": 216,
         "deletions": 33,
         "date": "2019-03-20",
         "commitResults": [
@@ -735,13 +759,13 @@
           {
             "hash": "01523305abd76b75ad388edbc8ed875924a45f2b",
             "message": "Add config file for Reposense",
-            "insertions": 25,
+            "insertions": 28,
             "deletions": 0
           },
           {
             "hash": "36ebc761201b6fa3eae66d77c128713037efea6e",
             "message": "Add config file for Reposense (#102)",
-            "insertions": 25,
+            "insertions": 28,
             "deletions": 0
           },
           {
@@ -895,6 +919,12 @@
             "message": "Update PPP (#194)",
             "insertions": 11,
             "deletions": 1
+          },
+          {
+            "hash": "ec9d5b58a9f0e96ecbdd23c9788d6b39cc1bbea7",
+            "message": "Add images (#195)",
+            "insertions": 0,
+            "deletions": 0
           },
           {
             "hash": "470378372b940d51c36f94e7bdda70cc816ac924",
@@ -1195,6 +1225,12 @@
             "message": "Update documentation (#154)",
             "insertions": 201,
             "deletions": 56
+          },
+          {
+            "hash": "1f115cc315207b5a352ed7a769c8ef5fdbb3f20f",
+            "message": "Rename image extension (#156)",
+            "insertions": 0,
+            "deletions": 0
           }
         ]
       },
@@ -1223,6 +1259,12 @@
             "deletions": 202
           },
           {
+            "hash": "2279d7dc42e6ca703a70c2ca83bc3755bc746321",
+            "message": "DeveloperGuide: Update view month sequence diagram (#196)",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
             "hash": "1bad6052547a5685d5b1d1109163d45e7da0539a",
             "message": "Semester: Enhance code quality (#203)",
             "insertions": 119,
@@ -1239,10 +1281,58 @@
     ],
     "macchazuki": [
       {
-        "insertions": 130,
-        "deletions": 13,
+        "insertions": 270,
+        "deletions": 36,
         "date": "2019-03-03",
         "commitResults": [
+          {
+            "hash": "117a2c152b86c09a26818167078104d149c13570",
+            "message": "added Encryptor class to encrypt and decrypt storage data",
+            "insertions": 104,
+            "deletions": 9
+          },
+          {
+            "hash": "342ae03e1c6b4785d1642ba3d262a325957aae5a",
+            "message": "set encryption to false",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "94f6fde2db5edbab9560f9c4a798bfe569a945b4",
+            "message": "added junit class",
+            "insertions": 21,
+            "deletions": 0
+          },
+          {
+            "hash": "e7a6d198133e15283afbe5e5c6c3f4f8d8442217",
+            "message": "checkstyle edits",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "6e43d1c4898a96a05323346b5079dab1270fc598",
+            "message": "removed junit test",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "f6a8c120a747bdd211ec6fd68409ce601d27698e",
+            "message": "checkstyle edits",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "16f9525d07ad0b761df11c67fb5e9fc5e735043d",
+            "message": "more checkstyle edits",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "2e0b682b9eb3396780d8b5da00fa12c916bd5eaa",
+            "message": "Update documentation for encryption",
+            "insertions": 4,
+            "deletions": 3
+          },
           {
             "hash": "3d01560ebdbffb06f24b64a2490424794d30cf89",
             "message": "Add data encryption (#49)",
@@ -1252,14 +1342,14 @@
         ]
       },
       {
-        "insertions": 216,
+        "insertions": 220,
         "deletions": 24,
         "date": "2019-03-17",
         "commitResults": [
           {
             "hash": "ccf86609a15434de634ef700981cfcf99afae187",
             "message": "export calendar as .ics file",
-            "insertions": 84,
+            "insertions": 86,
             "deletions": 0
           },
           {
@@ -1277,14 +1367,14 @@
           {
             "hash": "84f6e3b86752fb813b0eb69e410057f78266a7be",
             "message": "Add ExportCommandP (#77)",
-            "insertions": 107,
+            "insertions": 109,
             "deletions": 11
           }
         ]
       },
       {
-        "insertions": 128,
-        "deletions": 51,
+        "insertions": 200,
+        "deletions": 94,
         "date": "2019-03-18",
         "commitResults": [
           {
@@ -1300,10 +1390,22 @@
             "deletions": 4
           },
           {
+            "hash": "839fea6ee4b69c4a3c728690e2f0f668852bcc93",
+            "message": "Resolve checkstyle errors",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
             "hash": "eee2b88c4aeaef8b8dc7a05d4ece20567f8468ba",
             "message": "Resolve checkstyle errors (#85)",
             "insertions": 1,
             "deletions": 1
+          },
+          {
+            "hash": "4503bd623077c4e6368c97c7a36efe84029c8bed",
+            "message": "Update use cases in developer guide",
+            "insertions": 71,
+            "deletions": 42
           },
           {
             "hash": "c956010adad52233c159eba7c661526b03934eca",
@@ -1345,14 +1447,14 @@
         ]
       },
       {
-        "insertions": 90,
-        "deletions": 42,
+        "insertions": 541,
+        "deletions": 256,
         "date": "2019-03-23",
         "commitResults": [
           {
             "hash": "262ebfc156361862c45dab83ff6a37bca4e6c9f7",
             "message": "Add KeyStore to store encryption key",
-            "insertions": 81,
+            "insertions": 82,
             "deletions": 37
           },
           {
@@ -1368,10 +1470,47 @@
             "deletions": 1
           },
           {
+            "hash": "5bf8bb374a93e271cb1cfa1f0abb673ea3c3d861",
+            "message": "merge upstream (#6)",
+            "insertions": 442,
+            "deletions": 212
+          },
+          {
+            "hash": "5f238c9b88c915e1b45da505375e21055ce80ba3",
+            "message": "Update docs",
+            "insertions": 8,
+            "deletions": 2
+          },
+          {
             "hash": "d14aa56d34ccaf1cab5c9c91643512c308674ad2",
             "message": "Update User Guide and Dev Guide for encryption (#114)",
             "insertions": 3,
             "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 156,
+        "deletions": 4,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "8da0076c18e25d50125848f95b35fb61422025c2",
+            "message": "Add import command",
+            "insertions": 140,
+            "deletions": 0
+          },
+          {
+            "hash": "64d370633f55a37a35a63fab15cbf285f440364b",
+            "message": "checkstyle fix",
+            "insertions": 13,
+            "deletions": 1
+          },
+          {
+            "hash": "ef2862bcdf42e293650d40d7a974fd1cb900f216",
+            "message": "codacy edits",
+            "insertions": 3,
+            "deletions": 3
           }
         ]
       },
@@ -1493,7 +1632,7 @@
         ]
       },
       {
-        "insertions": 139,
+        "insertions": 217,
         "deletions": 78,
         "date": "2019-04-10",
         "commitResults": [
@@ -1512,21 +1651,21 @@
           {
             "hash": "ada9170987f0b3590b1e5c0256bc9e538fbf5dd8",
             "message": "add test files",
-            "insertions": 3,
+            "insertions": 81,
             "deletions": 7
           }
         ]
       },
       {
         "insertions": 201,
-        "deletions": 21,
+        "deletions": 99,
         "date": "2019-04-11",
         "commitResults": [
           {
             "hash": "76e8ad7f2192175cfcf8cfc6501ca6f53d2fa6a2",
             "message": "Fixed ExportCommandTest bugs (#184)",
             "insertions": 112,
-            "deletions": 12
+            "deletions": 90
           },
           {
             "hash": "462ae1512bce138ca52a87cc1520a318742f47fd",
@@ -1570,86 +1709,47 @@
     ]
   },
   "authorFinalContributionMap": {
-    "seanieyap": 11936,
-    "marcus-pzj": 2380,
+    "seanieyap": 12048,
+    "marcus-pzj": 2383,
     "dingheng4448": 1969,
-    "macchazuki": 1315
+    "macchazuki": 1318
   },
   "authorFileFormatContributionMap": {
     "seanieyap": {
+      "yml": 31,
       "adoc": 2557,
-      "cs": 0,
-      "css": 2030,
-      "fxml": 3,
       "gradle": 89,
-      "html": 0,
+      "xml": 434,
+      "sh": 74,
+      "css": 2030,
+      "slim": 3,
+      "properties": 4,
       "java": 6821,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 2,
-      "xml": 434
+      "fxml": 3,
+      "txt": 2
     },
     "marcus-pzj": {
-      "adoc": 480,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 1850,
-      "js": 0,
+      "gitignore": 3,
       "json": 50,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "adoc": 480,
+      "java": 1850
     },
     "dingheng4448": {
       "adoc": 700,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 1269,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "java": 1269
     },
     "macchazuki": {
+      "gitignore": 3,
       "adoc": 373,
-      "cs": 0,
-      "css": 1,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
       "java": 941,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "css": 1
     }
   },
   "authorContributionVariance": {
-    "seanieyap": 2181350.8,
-    "marcus-pzj": 400366.94,
+    "seanieyap": 2399237.2,
+    "marcus-pzj": 455101.2,
     "dingheng4448": 30396.037,
-    "macchazuki": 17992.658
+    "macchazuki": 28947.447
   },
   "authorDisplayNameMap": {
     "seanieyap": "SEA...ONG",
