@@ -313,7 +313,7 @@
         ]
       },
       {
-        "insertions": 703,
+        "insertions": 702,
         "deletions": 146,
         "date": "2019-03-31",
         "commitResults": [
@@ -352,12 +352,6 @@
             "message": "Auto save charts to folder chart/",
             "insertions": 522,
             "deletions": 35
-          },
-          {
-            "hash": "798db02d7167cf271fc63cefadb588286534ab9c",
-            "message": "Ignore chart files",
-            "insertions": 1,
-            "deletions": 0
           },
           {
             "hash": "a368d66e62a14aa9457aad2a541bf54fb641ef14",
@@ -900,36 +894,6 @@
             "deletions": 8
           },
           {
-            "hash": "f626e34b2b9ab476084a42ef8fc81af3b1dcf8c5",
-            "message": "Add files via upload",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "61eb70180728ac281c8e03d2f79da8237a9d5ab0",
-            "message": "Add files via upload",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "7261e64f70c80755f00a56b0a0816f1e6e73680e",
-            "message": "Add files via upload",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "b23089c69aef7c6a32f3dd5848efafe3e302b68d",
-            "message": "Add files via upload",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "79b53d6c538050564ae40f133790bc0ac4bbc771",
-            "message": "Add files via upload",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "35e6cc373a7fb917fd9f7c5f71fc9c5d945f4d80",
             "message": "Styling of command",
             "insertions": 1,
@@ -942,12 +906,6 @@
         "deletions": 22,
         "date": "2019-04-08",
         "commitResults": [
-          {
-            "hash": "66f7275ae0b6a944e233ab09d0ff58f8132f2103",
-            "message": "replace the pictures for the DG",
-            "insertions": 0,
-            "deletions": 0
-          },
           {
             "hash": "3dc6b1bd88e6ea6319961640f76d41f99aa91879",
             "message": "Test cases added",
@@ -1119,12 +1077,6 @@
             "deletions": 3
           },
           {
-            "hash": "42426c097fb0ff1a025b1ba15f1dae19f6af2130",
-            "message": "ExportResult",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "ff57af0d1e36e307381f76a53bf95f3ab3d9a0fa",
             "message": "Import and add Images to export",
             "insertions": 33,
@@ -1153,18 +1105,6 @@
             "hash": "2a5f14cd7d08eb8b351d619634554ee910664292",
             "message": "Update UserGuide.adoc",
             "insertions": 2,
-            "deletions": 0
-          },
-          {
-            "hash": "bafc73fc13fdd7c7cb352b3925aa2a02ee55e085",
-            "message": "Import Diagrams",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "a368d028a53802e9991f137117cf52ed8289c2a0",
-            "message": "Import diagrams",
-            "insertions": 0,
             "deletions": 0
           },
           {
@@ -1200,8 +1140,8 @@
         ]
       },
       {
-        "insertions": 12,
-        "deletions": 8,
+        "insertions": 8,
+        "deletions": 6,
         "date": "2019-04-12",
         "commitResults": [
           {
@@ -1209,12 +1149,6 @@
             "message": "updates",
             "insertions": 1,
             "deletions": 1
-          },
-          {
-            "hash": "afe431fc680507588cbf672023e14b4b746f05ae",
-            "message": "Docs updated",
-            "insertions": 4,
-            "deletions": 2
           },
           {
             "hash": "5efd36513b9bca144396ad7f2c6f7c3731803213",
@@ -1276,42 +1210,6 @@
             "message": "Update ssunil3232.adoc",
             "insertions": 2,
             "deletions": 2
-          },
-          {
-            "hash": "5f1bcec5108e38fecebcba30be60748a7b9a3255",
-            "message": "Delete ExportCommandSequenceDiagram.pptx",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "63859a40cc2e21ed6232871ad267de6063155d00",
-            "message": "Delete ListParticipantCommandSequenceDiagram.pptx",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "95457b3d3435acbb8d3cac37dba050363fa52ad9",
-            "message": "Add files via upload",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "9ef7b68675a36b9163cd83fd481b7dc35c6dc262",
-            "message": "Delete ExportCommandSequenceDiagram.png",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "84771942c4ac7af435d891373e30e663c8a16956",
-            "message": "Delete ListParticipantCommandSequenceDiagram.png",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "7fa4dcb4667340cf4f6bb7db4beafa8b5a6652b1",
-            "message": "Add files via upload",
-            "insertions": 0,
-            "deletions": 0
           },
           {
             "hash": "15b3e5a73d5c6b5e87e61f229d2392d2a9bacf0a",
@@ -1461,18 +1359,6 @@
             "message": "Update Dev Guide v1.1",
             "insertions": 2,
             "deletions": 2
-          },
-          {
-            "hash": "8c2cef0755d6f1a7b95529199a53fbf2ec297df3",
-            "message": "Delete sample Ui.png",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "01d62492753270b0a66f045e3f006a38a8c87e5e",
-            "message": "Add mockup UI v1",
-            "insertions": 0,
-            "deletions": 0
           },
           {
             "hash": "2332960f9a9b4facc379777126d718b45d49c173",
@@ -2148,12 +2034,6 @@
             "deletions": 0
           },
           {
-            "hash": "ed7fd1933dc9e37163d01c0077692f43e8fdc938",
-            "message": "update individual members profile pic",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "a2e268aa859c9bd8dfbdcdd9b73307fed22f643b",
             "message": "edit help window",
             "insertions": 26,
@@ -2379,12 +2259,6 @@
             "deletions": 41
           },
           {
-            "hash": "93176603c7d5d4ab029265f2b7aa0bbb81ec33fc",
-            "message": "update model diagrams, add addgroup seq diagram",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "745fb369f43b535b03c2a382c2d6a8b6a9cebfe6",
             "message": "add diagram to dev guide, rearrange info a bit",
             "insertions": 24,
@@ -2540,8 +2414,8 @@
         ]
       },
       {
-        "insertions": 29,
-        "deletions": 21,
+        "insertions": 13,
+        "deletions": 13,
         "date": "2019-03-03",
         "commitResults": [
           {
@@ -2561,12 +2435,6 @@
             "message": "modified AboutUs and added individual members profile pic",
             "insertions": 10,
             "deletions": 10
-          },
-          {
-            "hash": "f9942e777935e9b4fa4633f3036b6cda6d53f035",
-            "message": "integration of Group class to all model class",
-            "insertions": 16,
-            "deletions": 8
           }
         ]
       },
@@ -2604,19 +2472,6 @@
             "message": "fixed alignment of description",
             "insertions": 1,
             "deletions": 1
-          }
-        ]
-      },
-      {
-        "insertions": 8,
-        "deletions": 0,
-        "date": "2019-03-13",
-        "commitResults": [
-          {
-            "hash": "1882bd24637c228e217ae8b83a57b226744db08f",
-            "message": "added CODEOWNERS configuration to prevent rogue PRs to be merged",
-            "insertions": 8,
-            "deletions": 0
           }
         ]
       },
@@ -2667,19 +2522,6 @@
             "message": "removed unused import temporary",
             "insertions": 1,
             "deletions": 3
-          }
-        ]
-      },
-      {
-        "insertions": 1,
-        "deletions": 1,
-        "date": "2019-03-19",
-        "commitResults": [
-          {
-            "hash": "5c64bf0dbe3b5f1fbdb31f9b14f27df308ad07c6",
-            "message": "updating of repo configuration. PR not required",
-            "insertions": 1,
-            "deletions": 1
           }
         ]
       },
@@ -3122,8 +2964,8 @@
         ]
       },
       {
-        "insertions": 94,
-        "deletions": 43,
+        "insertions": 92,
+        "deletions": 35,
         "date": "2019-04-02",
         "commitResults": [
           {
@@ -3149,12 +2991,6 @@
             "message": "fixed formatting issues",
             "insertions": 10,
             "deletions": 10
-          },
-          {
-            "hash": "44cd2ce650c3c529af5b71f0259b5a2821e78b5f",
-            "message": "updated HTML header",
-            "insertions": 2,
-            "deletions": 8
           },
           {
             "hash": "bc3e0c5271e7b907116316f5add1e0ebbefd3d00",
@@ -3208,21 +3044,8 @@
         ]
       },
       {
-        "insertions": 1,
-        "deletions": 1,
-        "date": "2019-04-09",
-        "commitResults": [
-          {
-            "hash": "fdf291ffbe6e6b592d344be18f22e02fccb65719",
-            "message": "updated CODEOWNERS. PR not required",
-            "insertions": 1,
-            "deletions": 1
-          }
-        ]
-      },
-      {
-        "insertions": 1258,
-        "deletions": 1526,
+        "insertions": 1250,
+        "deletions": 1518,
         "date": "2019-04-11",
         "commitResults": [
           {
@@ -3276,8 +3099,8 @@
           {
             "hash": "2c7360d589c33043b28539143a7209206ee2a130",
             "message": "refactor all Person to Participant for context purposes",
-            "insertions": 992,
-            "deletions": 1042
+            "insertions": 988,
+            "deletions": 1038
           },
           {
             "hash": "b1ef2a2e103522ae07086275a673876864196582",
@@ -3332,12 +3155,6 @@
             "message": "fix style check",
             "insertions": 3,
             "deletions": 5
-          },
-          {
-            "hash": "654e648e9fabb02062f148e157c5c0240eaae5ab",
-            "message": "corrected naming in license",
-            "insertions": 4,
-            "deletions": 4
           },
           {
             "hash": "5b91152a22fc0ca5791febaf9f877a2b9c4ca4b4",
@@ -3588,34 +3405,10 @@
             "deletions": 3
           },
           {
-            "hash": "6b2a4173dd69c2e29c5fdc6baed01ff96a43eb83",
-            "message": "updated UserGuide for randomize feature",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "403320f9e57500fa651e7cced0ec81b3e315d511",
             "message": "updated UserGuide for randomize feature",
             "insertions": 2,
             "deletions": 2
-          },
-          {
-            "hash": "6fe66e7e23f7ffbdc48edc3777f147dc31443632",
-            "message": "updated UserGuide for randomize feature",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "7254c1e0a3011b8cf82e0f17c829511115399064",
-            "message": "updated UserGuide for randomize feature",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "98aadaa3a4d1ae5d83d32888cb2ceff7cf4da249",
-            "message": "updated UserGuide for randomize feature",
-            "insertions": 0,
-            "deletions": 0
           },
           {
             "hash": "a7fc832019e2b6f3a2688cce53d9c878dfba95d6",
@@ -3636,46 +3429,10 @@
             "deletions": 3
           },
           {
-            "hash": "ddd043adf34e87b1d3e3672b78b512f189d312e0",
-            "message": "updated CD for Storage component",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "0651b28d361b60e71eb4f6d61d4324722b53a258",
-            "message": "updated CD for Storage component",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "05ed7fe42bcca4c04a356af56e4bfe0ae0801592",
-            "message": "updated CD for Storage component",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "5c195987a960f80c7a0e7a6ba9f0d299b2ca056e",
-            "message": "updated CD for Storage component",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "508ffb7f4c25fa1ca3bc8e661dd69e364791633c",
-            "message": "updated CD for Storage component",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "9e264d6479434751981961d0b34333c73f1d1d0f",
             "message": "fix style check",
             "insertions": 2,
             "deletions": 2
-          },
-          {
-            "hash": "40c309906ad9d3dc970da6f9d94ee45461c1d163",
-            "message": "added randomize AD",
-            "insertions": 0,
-            "deletions": 0
           },
           {
             "hash": "12ba8214b3446e1582f70bea94c0e618277dcc60",
@@ -3684,28 +3441,10 @@
             "deletions": 1
           },
           {
-            "hash": "8b7e034245da6cd6df4165968659eb847efe7d4e",
-            "message": "moved randomize AD to correct location",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "521567516c85123870120de77ff93c680ff49b6b",
             "message": "updated DG for randomize feature",
             "insertions": 7,
             "deletions": 3
-          },
-          {
-            "hash": "08b7fd2f153eb4c6a8d34e70696ddf5237f3ed73",
-            "message": "updated randomize AD",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "768245d3d0806d5e8a36fc641bc5345c8469a65b",
-            "message": "updated randomize SD",
-            "insertions": 0,
-            "deletions": 0
           },
           {
             "hash": "fbf638628788b16205e641acc5cf508022510674",
@@ -3817,12 +3556,6 @@
             "deletions": 3
           },
           {
-            "hash": "accc52f287632e0f47fb50ba6639ae04375bb0f3",
-            "message": "updated randomize SD",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "0d543d881e2a24344802693ca6cd96bee2e91984",
             "message": "updated randomize SD and DG",
             "insertions": 5,
@@ -3869,45 +3602,86 @@
     ]
   },
   "authorFinalContributionMap": {
-    "tantantan277": 3004,
+    "tantantan277": 3003,
     "ssunil3232": 1617,
     "shanseet": 3180,
-    "weizhang05": 3154
+    "weizhang05": 3145
   },
   "authorFileFormatContributionMap": {
     "tantantan277": {
-      "gitignore": 1,
       "adoc": 210,
-      "java": 2241,
-      "fxml": 151,
+      "cs": 0,
       "css": 378,
-      "json": 23
+      "fxml": 151,
+      "gradle": 0,
+      "html": 0,
+      "java": 2241,
+      "js": 0,
+      "json": 23,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "ssunil3232": {
       "adoc": 390,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
       "gradle": 1,
-      "java": 1226
+      "html": 0,
+      "java": 1226,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "shanseet": {
       "adoc": 892,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
       "java": 2237,
-      "json": 51
+      "js": 0,
+      "json": 51,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "weizhang05": {
-      "CODEOWNERS": 8,
       "adoc": 366,
-      "gradle": 1,
-      "slim": 1,
-      "java": 2767,
+      "cs": 0,
+      "css": 0,
       "fxml": 1,
-      "json": 10
+      "gradle": 1,
+      "html": 0,
+      "java": 2767,
+      "js": 0,
+      "json": 10,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     }
   },
   "authorContributionVariance": {
-    "tantantan277": 60307.652,
-    "ssunil3232": 19614.67,
+    "tantantan277": 60284.246,
+    "ssunil3232": 19622.764,
     "shanseet": 50879.88,
-    "weizhang05": 222810.23
+    "weizhang05": 221648.5
   },
   "authorDisplayNameMap": {
     "tantantan277": "PHA...TAN",

@@ -35045,35 +35045,6 @@
     }
   },
   {
-    "path": "src/main/java/META-INF/MANIFEST.MF",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "jayrometan"
-        },
-        "content": "Manifest-Version: 1.0"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "jayrometan"
-        },
-        "content": "Main-Class: seedu.address.MainApp"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "jayrometan"
-        },
-        "content": ""
-      }
-    ],
-    "authorContributionMap": {
-      "jayrometan": 3
-    }
-  },
-  {
     "path": "src/main/java/seedu/address/MainApp.java",
     "lines": [
       {

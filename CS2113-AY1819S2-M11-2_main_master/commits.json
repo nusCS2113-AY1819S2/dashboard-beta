@@ -248,12 +248,6 @@
             "message": "Revert \"Rename personListView to taskListView.\"",
             "insertions": 10,
             "deletions": 10
-          },
-          {
-            "hash": "3d52ecc0b5b436a97729c7679ddfb6a76f360076",
-            "message": "Update UI example picture",
-            "insertions": 0,
-            "deletions": 0
           }
         ]
       },
@@ -363,14 +357,14 @@
         ]
       },
       {
-        "insertions": 21,
+        "insertions": 18,
         "deletions": 13,
         "date": "2019-03-21",
         "commitResults": [
           {
             "hash": "3d1c05885af3ae7b121e42470f890cb38a05f85d",
             "message": "Update User Guide",
-            "insertions": 16,
+            "insertions": 13,
             "deletions": 7
           },
           {
@@ -400,8 +394,8 @@
         ]
       },
       {
-        "insertions": 50,
-        "deletions": 352,
+        "insertions": 47,
+        "deletions": 325,
         "date": "2019-03-24",
         "commitResults": [
           {
@@ -413,14 +407,8 @@
           {
             "hash": "98b7ce80c70ad0a9aa2e3aeb3a3776bc7a259965",
             "message": "Update Github Pages Remove SE-EDU header Update links in ContactUs and DevGuide",
-            "insertions": 4,
-            "deletions": 29
-          },
-          {
-            "hash": "4e8c104ee65772e982e9fbac3096cde95ed2c42d",
-            "message": "Delete trailing whitespace",
-            "insertions": 1,
-            "deletions": 1
+            "insertions": 3,
+            "deletions": 3
           },
           {
             "hash": "7e9c806f61bdf9ee1fafdfc2dab68cf50ddbf84f",
@@ -451,12 +439,6 @@
             "message": "Code cleanup",
             "insertions": 3,
             "deletions": 14
-          },
-          {
-            "hash": "953cf7bf55a8f22ac8f38fcf85bd6dd668347844",
-            "message": "Update .gitgnore to ignore login.json",
-            "insertions": 1,
-            "deletions": 0
           },
           {
             "hash": "2c1c1ee772bf5287ae680807785f88a4aad4cdde",
@@ -524,7 +506,7 @@
         ]
       },
       {
-        "insertions": 147,
+        "insertions": 146,
         "deletions": 42,
         "date": "2019-03-31",
         "commitResults": [
@@ -547,12 +529,6 @@
             "deletions": 1
           },
           {
-            "hash": "d8edb27d1b02e402c06b46d63a832c9095aed68b",
-            "message": "Update .gitignore",
-            "insertions": 1,
-            "deletions": 0
-          },
-          {
             "hash": "9b8c62cf6a7df09b69c1db1343b01bcef715cfe2",
             "message": "Update tests",
             "insertions": 123,
@@ -563,12 +539,6 @@
             "message": "Fix Checkstyle",
             "insertions": 3,
             "deletions": 9
-          },
-          {
-            "hash": "6d1a091c5d4f764b478e305752971cfe223177a3",
-            "message": "Update Class Diagram",
-            "insertions": 0,
-            "deletions": 0
           },
           {
             "hash": "066cf0899d5d9ede101e99a88111ba1762aad25f",
@@ -636,12 +606,6 @@
             "message": "Rename app from Task Manager to Student Buddy.",
             "insertions": 1,
             "deletions": 1
-          },
-          {
-            "hash": "21ce532b935cc79a882fe7daf8a60a67e05df917",
-            "message": "Update ui images",
-            "insertions": 0,
-            "deletions": 0
           }
         ]
       },
@@ -846,12 +810,6 @@
             "message": "Fix grammar",
             "insertions": 1,
             "deletions": 1
-          },
-          {
-            "hash": "840e84c0ef09b5848a3a2ec4ae02408bdcb26891",
-            "message": "Update DG class diagram",
-            "insertions": 0,
-            "deletions": 0
           }
         ]
       },
@@ -938,12 +896,6 @@
             "message": "Update PPP",
             "insertions": 3,
             "deletions": 3
-          },
-          {
-            "hash": "6e1e7085ee4b6a076b0bafd658674197c4023e35",
-            "message": "Update UI pic",
-            "insertions": 0,
-            "deletions": 0
           },
           {
             "hash": "25d6973d25d345a0b5b92fb31bccf40b43822d92",
@@ -1087,12 +1039,6 @@
         "date": "2019-03-23",
         "commitResults": [
           {
-            "hash": "90bf851618cffa892f9033edd621fe0f351cd017",
-            "message": "Added picture of new GUI",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "a037929b3e57a09397fb19812747ce0a7d377c64",
             "message": "Updated picture of GUI in User Guide",
             "insertions": 1,
@@ -1155,18 +1101,6 @@
             "deletions": 4
           },
           {
-            "hash": "2ec8948b76bdc129da78a3a4eb3e2bcaf6ab39e6",
-            "message": "Add files via upload",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "f8be1fa9ef7c99ddbf252f6bd862df0a17a2eb16",
-            "message": "Add files via upload",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "f9e8919ce88b1a5a5def9b874b48ba5626bb0d99",
             "message": "Update DeveloperGuide.adoc",
             "insertions": 4,
@@ -1177,24 +1111,6 @@
             "message": "Fixed issue of UML diagrams not displaying",
             "insertions": 2,
             "deletions": 2
-          },
-          {
-            "hash": "88de3e56681f63902b2e7125a7b7981cb504d5a0",
-            "message": "Added UML diagrams for Notes",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "a21f71aa023de79bc993420c1c353a9c309a9489",
-            "message": "Delete AddNotesSequenceDiagram from diagrams",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "476a8813e63c956db632b3918f7a999d20ab3603",
-            "message": "Delete NotesClassDiagram from diagram",
-            "insertions": 0,
-            "deletions": 0
           },
           {
             "hash": "2a677511930f2fef6562d126ea6452cd4cd17303",
@@ -1229,18 +1145,6 @@
         "date": "2019-03-30",
         "commitResults": [
           {
-            "hash": "b67274dcd18231b77248ce73db02ab834164c68f",
-            "message": "Delete AddNotesSequenceDiagram.png",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "b133dc379d57ac15428c5a142ca678183731c30b",
-            "message": "Add AddNotesSequenceDiagram for standardization",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "7dc6101564f45faf9255ae7a2dd6d5a797518e3d",
             "message": "Add new notes sequence diagram for standardization",
             "insertions": 1,
@@ -1251,18 +1155,6 @@
             "message": "Update DeveloperGuide.adoc",
             "insertions": 1,
             "deletions": 1
-          },
-          {
-            "hash": "896b6da220b24e3dd4aa4878b0d7f12b7ff05b4c",
-            "message": "Delete AddNotesSequenceDiagram.png",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "431ca38c23cbb225e85316bdbfdba09ef9e69075",
-            "message": "New AddNotesSequenceDiagram",
-            "insertions": 0,
-            "deletions": 0
           },
           {
             "hash": "cd425445722d64930cfbe4a0cf67bcc6db127bc5",
@@ -1281,18 +1173,6 @@
             "message": "Update DeveloperGuide.adoc",
             "insertions": 4,
             "deletions": 4
-          },
-          {
-            "hash": "95814ff30147ffba23bdf5215d87578970956bd8",
-            "message": "Delete AddNotesSequenceDiagram.png",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "8d19739d12371e188298758a0094dc1659efa9cb",
-            "message": "Added final AddNotesSequenceDiagram",
-            "insertions": 0,
-            "deletions": 0
           },
           {
             "hash": "bf16f119e3f1338220f827fc2c40fe1eed118d8a",
@@ -1375,42 +1255,6 @@
             "deletions": 17
           },
           {
-            "hash": "26077c7ce52c4b73b9321515c696a1a44ab10832",
-            "message": "Delete NotesClassDiagram.png",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "b47b04a0b7718ed61d1da70a75dc774a84c1ec4d",
-            "message": "Delete AddNotesSequenceDiagram.png",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "d636ec118498272f18e8a801fc62eed8363a6327",
-            "message": "Add new sequence and class diagrams for Notes",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "ffb35df030df21aefd7bc96cea02c926b37b7e7c",
-            "message": "Delete AddNotesSequenceDiagram.png",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "4a74f42fcf5e41b81a1801d6f481c816aca9c289",
-            "message": "Delete DeleteNotesSequenceDiagram.png",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "afa294c22934081ffe71566d201882ce596f7a2d",
-            "message": "New sequence diagrams for notes",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "842f12d9ce3e68f36a082275289440d277ec747a",
             "message": "Added DeleteNotesCommand section",
             "insertions": 50,
@@ -1476,12 +1320,6 @@
             "message": "Updated user guide for add notes and delete notes",
             "insertions": 8,
             "deletions": 1
-          },
-          {
-            "hash": "78128dba478023051233f2d3d7c5613d8b71fbcc",
-            "message": "Added user guide images for notes",
-            "insertions": 0,
-            "deletions": 0
           },
           {
             "hash": "a764d4d68761d70416c67d0a4f7a7eff2a26be58",
@@ -1681,18 +1519,6 @@
             "message": "fix checkstyle error",
             "insertions": 1,
             "deletions": 1
-          },
-          {
-            "hash": "bd02cdb70d4a506de5822df3d1850214c7bce825",
-            "message": "Delete NotesClassDiagram.png",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "915d212bc329de9914e5279a1f87fb68a068965f",
-            "message": "Updated class diagram for notes",
-            "insertions": 0,
-            "deletions": 0
           },
           {
             "hash": "b1697bf3bfba65a186c09878328255ab4bbd8940",
@@ -2219,12 +2045,6 @@
         "date": "2019-03-30",
         "commitResults": [
           {
-            "hash": "f99be65779b3223904de98d67cbe524b7d043125",
-            "message": "Add Sort Sequence Diagram and Edit Provided Diagrams",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "6bec2e7e5c050acaa59671477b4e2bf6fa569b98",
             "message": "Edit Test Case",
             "insertions": 15,
@@ -2243,12 +2063,6 @@
             "deletions": 19
           },
           {
-            "hash": "8bcc83e61322e1f14e0bd391e0733aed84d74d36",
-            "message": "Update Diagrams",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "3259b85635c016dc8e958974b97752d7a1ff0f38",
             "message": "Update DG",
             "insertions": 101,
@@ -2258,12 +2072,6 @@
             "hash": "1e494a7c661f446f8e5a44b7edb2c0229ef2dafc",
             "message": "Edit DG to show Sort Sequence Diagram",
             "insertions": 2,
-            "deletions": 0
-          },
-          {
-            "hash": "4cb809025e86d5860868227a0b5d88f0012cbe39",
-            "message": "Update Sort Sequence Diagram",
-            "insertions": 0,
             "deletions": 0
           },
           {
@@ -2361,8 +2169,8 @@
         ]
       },
       {
-        "insertions": 22,
-        "deletions": 38,
+        "insertions": 20,
+        "deletions": 36,
         "date": "2019-04-02",
         "commitResults": [
           {
@@ -2382,12 +2190,6 @@
             "message": "Update PPP",
             "insertions": 4,
             "deletions": 22
-          },
-          {
-            "hash": "4d637dfdfb35c6bea03871d1495820f0cc78d0b9",
-            "message": "Update heading",
-            "insertions": 2,
-            "deletions": 2
           }
         ]
       },
@@ -2611,34 +2413,10 @@
             "deletions": 2
           },
           {
-            "hash": "0d3f148becdddda157b0746c7090265108cd8602",
-            "message": "Removed all photos",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "a7a8fe313e0b0ffa59c264153cca2dae431a02ee",
-            "message": "Uploaded photos with lowercase names",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "19a848222917d39c03f2ac278cad7f1b51a84625",
             "message": "justin[ong] with lowercase \u0027o\u0027",
             "insertions": 1,
             "deletions": 1
-          },
-          {
-            "hash": "eb36d22f7000c93975ef414c87d0d94fa160afa7",
-            "message": "removed Justin photo",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "5fd85db25b425b212001b232e72236b52bf34f28",
-            "message": "added back justin photo with lowercase \u0027o\u0027",
-            "insertions": 0,
-            "deletions": 0
           }
         ]
       },
@@ -2711,8 +2489,8 @@
         ]
       },
       {
-        "insertions": 201,
-        "deletions": 114,
+        "insertions": 199,
+        "deletions": 113,
         "date": "2019-03-18",
         "commitResults": [
           {
@@ -2730,8 +2508,8 @@
           {
             "hash": "3f499c149f20f424de1ac1a76a29fdcf95f7a7c6",
             "message": "Reformatting for whitespaces and files",
-            "insertions": 2,
-            "deletions": 3
+            "insertions": 0,
+            "deletions": 2
           },
           {
             "hash": "3c40c46adc9b25fa21505ad59b0a686235df1243",
@@ -2769,46 +2547,86 @@
     ]
   },
   "authorFinalContributionMap": {
-    "Justin-Ong": 1510,
+    "Justin-Ong": 1505,
     "Shengkok": 2269,
     "khairulhazril": 7379,
-    "nicholasleeeee": 3525
+    "nicholasleeeee": 3523
   },
   "authorFileFormatContributionMap": {
     "Justin-Ong": {
-      "gitignore": 2,
       "adoc": 315,
-      "gradle": 3,
-      "MF": 3,
-      "java": 1149,
+      "cs": 0,
+      "css": 0,
       "fxml": 34,
-      "json": 4
+      "gradle": 3,
+      "html": 0,
+      "java": 1149,
+      "js": 0,
+      "json": 4,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "Shengkok": {
       "adoc": 276,
+      "cs": 0,
+      "css": 0,
+      "fxml": 45,
+      "gradle": 0,
+      "html": 0,
       "java": 1948,
-      "fxml": 45
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "khairulhazril": {
       "adoc": 790,
-      "java": 6484,
-      "fxml": 20,
+      "cs": 0,
       "css": 1,
+      "fxml": 20,
+      "gradle": 0,
       "html": 1,
-      "json": 83
+      "java": 6484,
+      "js": 0,
+      "json": 83,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "nicholasleeeee": {
-      "gradle": 1,
       "adoc": 278,
-      "properties": 2,
-      "java": 3244
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 1,
+      "html": 0,
+      "java": 3244,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     }
   },
   "authorContributionVariance": {
-    "Justin-Ong": 14911.818,
+    "Justin-Ong": 14608.634,
     "Shengkok": 20804.02,
-    "khairulhazril": 1.1664323E7,
-    "nicholasleeeee": 23400.918
+    "khairulhazril": 1.1664402E7,
+    "nicholasleeeee": 23374.125
   },
   "authorDisplayNameMap": {
     "Justin-Ong": "ONG...TIN",

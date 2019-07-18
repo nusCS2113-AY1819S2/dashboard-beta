@@ -110,12 +110,6 @@
             "message": "Planner: add DegreePlannerYear",
             "insertions": 57,
             "deletions": 0
-          },
-          {
-            "hash": "ba362c7339d52eaf0a5b70f31d0164ffb18e14cd",
-            "message": "README: update UI mockup (#31)",
-            "insertions": 0,
-            "deletions": 0
           }
         ]
       },
@@ -335,12 +329,6 @@
             "message": "Util: update SampleDegreePlannerUtil to include various modules",
             "insertions": 1,
             "deletions": 1
-          },
-          {
-            "hash": "5df35bb5401ec56c24fa6fad2ff9917a9c07f01e",
-            "message": "README: update UI (#98)",
-            "insertions": 0,
-            "deletions": 0
           }
         ]
       },
@@ -1181,12 +1169,6 @@
             "deletions": 2
           },
           {
-            "hash": "a51adf6d656523c1fded4452b06f203d5e42c281",
-            "message": "docs: update diagrams and images",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "9b1ff3916513062fa65685acf3f52d03da4883c8",
             "message": "docs: replace `*person*` with `*module*` in User and Developer guides",
             "insertions": 82,
@@ -1277,8 +1259,8 @@
         ]
       },
       {
-        "insertions": 92,
-        "deletions": 42,
+        "insertions": 91,
+        "deletions": 41,
         "date": "2019-03-03",
         "commitResults": [
           {
@@ -1290,8 +1272,8 @@
           {
             "hash": "532fa833e209035edbe578ab8cce883519380970",
             "message": "Add `_reposense/config.json` to make repository RepoSense-compatible (#41)",
-            "insertions": 31,
-            "deletions": 1
+            "insertions": 30,
+            "deletions": 0
           },
           {
             "hash": "5a29d7d5bb9330f34aa40a3c785cf3ab48ba486c",
@@ -1324,12 +1306,6 @@
         "deletions": 369,
         "date": "2019-03-04",
         "commitResults": [
-          {
-            "hash": "6b1c7166b650b7f0b6076c76ca19f26e91769ae1",
-            "message": "Follow upstream master changes: restore original diagrams (#46)",
-            "insertions": 0,
-            "deletions": 0
-          },
           {
             "hash": "0987a7e2528a5343889f90d284208203e594616e",
             "message": "docs/UserGuide: fix branding \u0026 update commands usage and description (#50)",
@@ -1889,16 +1865,10 @@
         ]
       },
       {
-        "insertions": 146,
-        "deletions": 2,
+        "insertions": 73,
+        "deletions": 1,
         "date": "2019-02-26",
         "commitResults": [
-          {
-            "hash": "d3fc3d21772062080cac237d631298a2dde7b988",
-            "message": "AboutUs: add Yeo Cheng Hong\u0027s details",
-            "insertions": 73,
-            "deletions": 1
-          },
           {
             "hash": "e3b8ad1c6833f27813fe177b199b524a9566c061",
             "message": "AboutUs: add Yeo Cheng Hong\u0027s details (#19)",
@@ -2706,19 +2676,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-03",
-        "commitResults": [
-          {
-            "hash": "bbc2fb6ee47cfc77f4465d55ede0255247d3bffd",
-            "message": "docs/images: resize `lycjackie.png` (#39)",
-            "insertions": 0,
-            "deletions": 0
-          }
-        ]
-      },
-      {
         "insertions": 70,
         "deletions": 36,
         "date": "2019-03-04",
@@ -3096,12 +3053,6 @@
             "deletions": 135
           },
           {
-            "hash": "182afd72ab178d276c5516518624a6160abc8cdb",
-            "message": "docs/DeveloperGuide: There was some typo in the diagrams (#220)",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "c5279083634ac853f63c5008f5995c4a6613af5c",
             "message": "Model/module: add `TagContainsKeywordsPredicate` class",
             "insertions": 38,
@@ -3216,78 +3167,108 @@
             "deletions": 2
           }
         ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-15",
-        "commitResults": [
-          {
-            "hash": "f7cbfd73e6661a4f2f80ed56de11def375e91efa",
-            "message": "docs/DeveloperGuide: Update diagrams (#243)",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "364814e6a85109dad126a59b74441744744175e2",
-            "message": "docs/DeveloperGuide: update diagrams (#247)",
-            "insertions": 0,
-            "deletions": 0
-          }
-        ]
       }
     ]
   },
   "authorFinalContributionMap": {
     "truegitnovice": 3814,
     "WendyBaiYunwei": 1496,
-    "Creastery": 5893,
+    "Creastery": 5892,
     "chyeo": 4067,
     "lycjackie": 5516
   },
   "authorFileFormatContributionMap": {
     "truegitnovice": {
       "adoc": 918,
-      "java": 2777,
-      "fxml": 23,
+      "cs": 0,
       "css": 26,
-      "json": 70
+      "fxml": 23,
+      "gradle": 0,
+      "html": 0,
+      "java": 2777,
+      "js": 0,
+      "json": 70,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "WendyBaiYunwei": {
       "adoc": 360,
-      "java": 1136
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
+      "java": 1136,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "Creastery": {
-      "gitignore": 1,
       "adoc": 698,
-      "json": 93,
-      "gradle": 28,
-      "java": 5062,
+      "cs": 0,
       "css": 1,
-      "fxml": 10
+      "fxml": 10,
+      "gradle": 28,
+      "html": 0,
+      "java": 5062,
+      "js": 0,
+      "json": 93,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "chyeo": {
       "adoc": 501,
-      "java": 3468,
+      "cs": 0,
       "css": 23,
       "fxml": 47,
-      "json": 28
+      "gradle": 0,
+      "html": 0,
+      "java": 3468,
+      "js": 0,
+      "json": 28,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "lycjackie": {
       "adoc": 800,
-      "gradle": 6,
-      "txt": 4,
+      "cs": 0,
       "css": 465,
-      "java": 4201,
       "fxml": 37,
-      "json": 3
+      "gradle": 6,
+      "html": 0,
+      "java": 4201,
+      "js": 0,
+      "json": 3,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 4,
+      "xml": 0
     }
   },
   "authorContributionVariance": {
     "truegitnovice": 119938.54,
     "WendyBaiYunwei": 25029.219,
-    "Creastery": 356514.25,
-    "chyeo": 567631.7,
+    "Creastery": 356519.62,
+    "chyeo": 567828.2,
     "lycjackie": 557856.6
   },
   "authorDisplayNameMap": {
