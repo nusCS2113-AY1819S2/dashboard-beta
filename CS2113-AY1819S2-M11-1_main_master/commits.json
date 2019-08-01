@@ -8,13 +8,15 @@
         "commitResults": [
           {
             "hash": "5df8886e88deaa78f4c40e765eb357a27c0498d6",
-            "message": "update about us",
+            "messageTitle": "update about us",
+            "messageBody": "",
             "insertions": 59,
             "deletions": 0
           },
           {
             "hash": "9b908c0cd966b3d26d6cb498c586da21dbf9d8ea",
-            "message": "update image name",
+            "messageTitle": "update image name",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           }
@@ -27,13 +29,15 @@
         "commitResults": [
           {
             "hash": "c417ba15727f3afe40001bbb767f430bcaf71a6d",
-            "message": "added finance feature related things",
+            "messageTitle": "added finance feature related things",
+            "messageBody": "",
             "insertions": 137,
             "deletions": 0
           },
           {
             "hash": "540daa1267656e67e80722beb4176eaef430754d",
-            "message": "update user guide",
+            "messageTitle": "update user guide",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 1
           }
@@ -46,13 +50,15 @@
         "commitResults": [
           {
             "hash": "b54954d58f20e80d47d3901883585844b1bdd494",
-            "message": "update developer guide",
+            "messageTitle": "update developer guide",
+            "messageBody": "",
             "insertions": 56,
             "deletions": 0
           },
           {
             "hash": "4d894cf4bca5e10936d91e2a8bcbc3e42fc07314",
-            "message": "fix problem in FinanceCommand",
+            "messageTitle": "fix problem in FinanceCommand",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 3
           }
@@ -65,7 +71,8 @@
         "commitResults": [
           {
             "hash": "0f2c2c4ae68b9057a173650df2bbee1512277908",
-            "message": "User Guide draft1",
+            "messageTitle": "User Guide draft1",
+            "messageBody": "",
             "insertions": 90,
             "deletions": 41
           }
@@ -78,7 +85,8 @@
         "commitResults": [
           {
             "hash": "218c655732b16ea32c64f54c50d5c5ff3188538c",
-            "message": "Update DG",
+            "messageTitle": "Update DG",
+            "messageBody": "",
             "insertions": 97,
             "deletions": 59
           }
@@ -91,43 +99,50 @@
         "commitResults": [
           {
             "hash": "452124021dd5a5158eff51c5f75ec7b49e9673c3",
-            "message": "enhance finance",
+            "messageTitle": "enhance finance",
+            "messageBody": "",
             "insertions": 376,
             "deletions": 23
           },
           {
             "hash": "315835b458adf743e311573a80379e65399adb83",
-            "message": "enhance finance two",
+            "messageTitle": "enhance finance two",
+            "messageBody": "",
             "insertions": 240,
             "deletions": 22
           },
           {
             "hash": "61c4300f54cfa5a35404786d086ad904c7e32d78",
-            "message": "fix finance bug",
+            "messageTitle": "fix finance bug",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 80
           },
           {
             "hash": "afa004f5636869dcdb86ea04adbe70fd883c9095",
-            "message": "fix coding style after enhance finance feature",
+            "messageTitle": "fix coding style after enhance finance feature",
+            "messageBody": "",
             "insertions": 62,
             "deletions": 104
           },
           {
             "hash": "8c2a545ebc8df72764bb76641c4c8f930558abd0",
-            "message": "fix coding style two",
+            "messageTitle": "fix coding style two",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 16
           },
           {
             "hash": "2278dc2c2f2471e0ceab60b4c01b22a021a48ef1",
-            "message": "fix coding style three",
+            "messageTitle": "fix coding style three",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "2e3024996140dac4da3460ab7fe057a65b7e24d4",
-            "message": "fix trailing space",
+            "messageTitle": "fix trailing space",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           }
@@ -140,19 +155,22 @@
         "commitResults": [
           {
             "hash": "3d04ee7f71636d7b5f130649b1786a9ccc4fa731",
-            "message": "add GetLeagueFinance command, fix Histogram in finance",
+            "messageTitle": "add GetLeagueFinance command, fix Histogram in finance",
+            "messageBody": "",
             "insertions": 142,
             "deletions": 26
           },
           {
             "hash": "60d0f0b5fbc24ecb2ae9113089b8093f6a47999d",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 12
           },
           {
             "hash": "d314f0f078dcc2878714b81eda3d611b1e8108c9",
-            "message": "fix travis",
+            "messageTitle": "fix travis",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 1
           }
@@ -165,7 +183,8 @@
         "commitResults": [
           {
             "hash": "9177a83145f5596a13dcea31593393fb9ba7042b",
-            "message": "update user guide",
+            "messageTitle": "update user guide",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 10
           }
@@ -178,13 +197,15 @@
         "commitResults": [
           {
             "hash": "9cc89baf1f4a4598b45c773f413090fd7cf09156",
-            "message": "Revert \"updated user guide for edit feature\"",
+            "messageTitle": "Revert \"updated user guide for edit feature\"",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 76
           },
           {
             "hash": "b2a613dc1b2b73edbe024fa541f5a0f463df8a36",
-            "message": "Revert \"Revert \"updated user guide for edit feature\"\"",
+            "messageTitle": "Revert \"Revert \"updated user guide for edit feature\"\"",
+            "messageBody": "",
             "insertions": 76,
             "deletions": 26
           }
@@ -197,25 +218,29 @@
         "commitResults": [
           {
             "hash": "26c3ad35de799212dd450939faec585c30bcacfb",
-            "message": "add rank finance command",
+            "messageTitle": "add rank finance command",
+            "messageBody": "",
             "insertions": 54,
             "deletions": 6
           },
           {
             "hash": "3ac2165c533709339660f54658666d01307e8336",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "a00710adc7eb50045eb51cb3f5662d6dc8592608",
-            "message": "wrap up finance feature",
+            "messageTitle": "wrap up finance feature",
+            "messageBody": "",
             "insertions": 159,
             "deletions": 79
           },
           {
             "hash": "5cbca6ded9947e2720f7c439ab1749eb425e462f",
-            "message": "fix coding style",
+            "messageTitle": "fix coding style",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 18
           }
@@ -228,13 +253,15 @@
         "commitResults": [
           {
             "hash": "87acd5f3210f5988960553ed81f321929f9a9b9b",
-            "message": "add viewfinance command, changed help command to make it look less messy",
+            "messageTitle": "add viewfinance command, changed help command to make it look less messy",
+            "messageBody": "",
             "insertions": 129,
             "deletions": 34
           },
           {
             "hash": "4e26a6df03a7867fb7ce8445882ca0750d8ae1bd",
-            "message": "parser testing",
+            "messageTitle": "parser testing",
+            "messageBody": "",
             "insertions": 86,
             "deletions": 0
           }
@@ -247,13 +274,15 @@
         "commitResults": [
           {
             "hash": "f303d2dcdc8dd6dd73e59b8b5849637e79d039be",
-            "message": "some test added, month of matches in finance class fixed",
+            "messageTitle": "some test added, month of matches in finance class fixed",
+            "messageBody": "",
             "insertions": 213,
             "deletions": 6
           },
           {
             "hash": "281e1af7d2028ade2f50fb112d0313713742a5b9",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 1
           }
@@ -266,13 +295,15 @@
         "commitResults": [
           {
             "hash": "bbf4fa23f39b623da978707e8f14b0d3fc9fa3c4",
-            "message": "add finance to storage, add finance test",
+            "messageTitle": "add finance to storage, add finance test",
+            "messageBody": "",
             "insertions": 159,
             "deletions": 11
           },
           {
             "hash": "737970edf5053fe4531d90a43ff652d3d633393a",
-            "message": "checkstyle fix",
+            "messageTitle": "checkstyle fix",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -285,91 +316,106 @@
         "commitResults": [
           {
             "hash": "6ac377d2ee9c88a9dcf04888b1fab9ba6012fad1",
-            "message": "update user guide",
+            "messageTitle": "update user guide",
+            "messageBody": "",
             "insertions": 80,
             "deletions": 8
           },
           {
             "hash": "a6c8e3e2eedce05b0c2e313ac2bb8c1e9379eff5",
-            "message": "add team file, put PPP here",
+            "messageTitle": "add team file, put PPP here",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           },
           {
             "hash": "001e0d11c2de9f557e7e509aaa6c47e048202a89",
-            "message": "update developer guide",
+            "messageTitle": "update developer guide",
+            "messageBody": "",
             "insertions": 118,
             "deletions": 1
           },
           {
             "hash": "c41cd29fa7af18770c9dc26d997a50022afe0110",
-            "message": "update UGDG",
+            "messageTitle": "update UGDG",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 25
           },
           {
             "hash": "57dbcb8fd07d2a083ffa02c220429a66a8547430",
-            "message": "update DG, PPP",
+            "messageTitle": "update DG, PPP",
+            "messageBody": "",
             "insertions": 88,
             "deletions": 1
           },
           {
             "hash": "5c64e1ac48ce5046fd89acab15a3f6cd5a65991b",
-            "message": "update dg",
+            "messageTitle": "update dg",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "c6c59c8146b7ac24badc2529faf40c9ae97a0836",
-            "message": "update AboutUs",
+            "messageTitle": "update AboutUs",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "c5562d67e88beb65e1b3dbd3fd1529bc494ed9ac",
-            "message": "update manual testing section in DG",
+            "messageTitle": "update manual testing section in DG",
+            "messageBody": "",
             "insertions": 64,
             "deletions": 0
           },
           {
             "hash": "816b9940836a01eadcce9d127deb10793b60ec95",
-            "message": "minor adjust of finance",
+            "messageTitle": "minor adjust of finance",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 22
           },
           {
             "hash": "6323c0aa61ad8bf40fb02c3b6bb82a2bd8dea7ce",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 10
           },
           {
             "hash": "87370598c66fb75b8ef8eae9fcc77e199a09273d",
-            "message": "update dg",
+            "messageTitle": "update dg",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e08ccba1d9a34e12ad0b94d75130fb3d027f261f",
-            "message": "small update dg",
+            "messageTitle": "small update dg",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 3
           },
           {
             "hash": "ae76753cbdd3031228c73298691bf27f471e8f1c",
-            "message": "small change",
+            "messageTitle": "small change",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "eeeb442999f4b0f0741fd47e0f1ba18d83b379a8",
-            "message": "small change",
+            "messageTitle": "small change",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 4
           },
           {
             "hash": "b4faccf3a2f52e2da8ca583ae7bedcb4b7b47077",
-            "message": "resolve bug in help",
+            "messageTitle": "resolve bug in help",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           }
@@ -384,7 +430,8 @@
         "commitResults": [
           {
             "hash": "f34c54702091eb08edc2660428e0769df9a46c9f",
-            "message": "Update User Guide to add in details of Player Class",
+            "messageTitle": "Update User Guide to add in details of Player Class",
+            "messageBody": "",
             "insertions": 46,
             "deletions": 0
           }
@@ -397,7 +444,8 @@
         "commitResults": [
           {
             "hash": "5efcca84cf75915591083e59cd8afdedcac0f3da",
-            "message": "convert person to player add/delete/edit enabled update developer guide on use cases and glossary",
+            "messageTitle": "convert person to player add/delete/edit enabled update developer guide on use cases and glossary",
+            "messageBody": "",
             "insertions": 483,
             "deletions": 0
           }
@@ -410,7 +458,8 @@
         "commitResults": [
           {
             "hash": "fbfe599210c3ec519eae24c54229f6bc6901a2a0",
-            "message": "updates DeveloperGuide",
+            "messageTitle": "updates DeveloperGuide",
+            "messageBody": "",
             "insertions": 50,
             "deletions": 17
           }
@@ -423,7 +472,8 @@
         "commitResults": [
           {
             "hash": "02ad14a3b9c8d080ad377485d70fd4fbf3f62367",
-            "message": "conversion to player is done modified addplayer listplayer viewall player removed private attribute and view command multiple other details use this as basis for development",
+            "messageTitle": "conversion to player is done modified addplayer listplayer viewall player removed private attribute and view command multiple other details use this as basis for development",
+            "messageBody": "",
             "insertions": 1545,
             "deletions": 1174
           }
@@ -436,31 +486,36 @@
         "commitResults": [
           {
             "hash": "d45816c316c7a190e4bcd71fdfa41dfb9c7a8d9c",
-            "message": "updated test files edited player classes for extra safety",
+            "messageTitle": "updated test files edited player classes for extra safety",
+            "messageBody": "",
             "insertions": 370,
             "deletions": 259
           },
           {
             "hash": "848ea0f5f74e72aa74d3602fdc80eb101ff51e8d",
-            "message": "edit test cases to pass Travis attempt 2",
+            "messageTitle": "edit test cases to pass Travis attempt 2",
+            "messageBody": "",
             "insertions": 99,
             "deletions": 81
           },
           {
             "hash": "abe635cd40afa657472c385a9ac35597064b009a",
-            "message": "edit test cases to pass travis attempt 3",
+            "messageTitle": "edit test cases to pass travis attempt 3",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 12
           },
           {
             "hash": "ea4eed5f096e07cb353087dabe7ca1f8002a26f9",
-            "message": "edit test cases to pass travis attempt 4",
+            "messageTitle": "edit test cases to pass travis attempt 4",
+            "messageBody": "",
             "insertions": 24,
             "deletions": 2
           },
           {
             "hash": "390ee568b12be98ca5ecee0cdeadd14e4e823239",
-            "message": "edit to pass checkstyle attempt 1",
+            "messageTitle": "edit to pass checkstyle attempt 1",
+            "messageBody": "",
             "insertions": 159,
             "deletions": 163
           }
@@ -473,79 +528,92 @@
         "commitResults": [
           {
             "hash": "682aa41091eb84c2097d4902d684d519a6d9dc2f",
-            "message": "edit to fit checkstyle attempt 2",
+            "messageTitle": "edit to fit checkstyle attempt 2",
+            "messageBody": "",
             "insertions": 41,
             "deletions": 46
           },
           {
             "hash": "79a795b743620c12af8cfd054d40a2ba94b66294",
-            "message": "edit to pass Travis attempt 3",
+            "messageTitle": "edit to pass Travis attempt 3",
+            "messageBody": "",
             "insertions": 48,
             "deletions": 47
           },
           {
             "hash": "b9fb16a84269f10419019635d0fc8c88436526e9",
-            "message": "Update Command.java",
+            "messageTitle": "Update Command.java",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 7
           },
           {
             "hash": "00ac69a2cb48fc29f8d8eb6da2226927d440b50b",
-            "message": "Update CommandResult.java",
+            "messageTitle": "Update CommandResult.java",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "b62033417fe957d442ca626c9990f3e9d8f92e9d",
-            "message": "edit to pass travis attempt 4",
+            "messageTitle": "edit to pass travis attempt 4",
+            "messageBody": "",
             "insertions": 187,
             "deletions": 85
           },
           {
             "hash": "767d11990e4bb5116e62228b1842d9360400c429",
-            "message": "Update Command.java",
+            "messageTitle": "Update Command.java",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 4
           },
           {
             "hash": "00322d7a398b2f73dbf0ce7a0eb00cf60bea725f",
-            "message": "edit to fix code for checkstyle attempt 6",
+            "messageTitle": "edit to fix code for checkstyle attempt 6",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 6
           },
           {
             "hash": "5a66d8b09be4b5f0be3c227fe8d48a8918084ba9",
-            "message": "edit code to pass checkstyle attempt ronaldo",
+            "messageTitle": "edit code to pass checkstyle attempt ronaldo",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 12
           },
           {
             "hash": "4702b69ba98ee46ce1c3d00e50b7f7e13c7d731d",
-            "message": "edit to fix code for checkstyle attempt 8",
+            "messageTitle": "edit to fix code for checkstyle attempt 8",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "7b7400e6d3be56172c18e0446622e82d6d1b3a41",
-            "message": "edit to fix code style attempt Suarez",
+            "messageTitle": "edit to fix code style attempt Suarez",
+            "messageBody": "",
             "insertions": 267,
             "deletions": 195
           },
           {
             "hash": "64f2b18b1b774e7d5a0f253463d64621f5c53cbd",
-            "message": "edit to pass checkstyle attempt messi",
+            "messageTitle": "edit to pass checkstyle attempt messi",
+            "messageBody": "",
             "insertions": 67,
             "deletions": 73
           },
           {
             "hash": "d8e8e25afe6e8bd24f3a899a4165c7079e881bc2",
-            "message": "edit to pass checkstyle attempt 11",
+            "messageTitle": "edit to pass checkstyle attempt 11",
+            "messageBody": "",
             "insertions": 21,
             "deletions": 11
           },
           {
             "hash": "62217d156222ed6b307abc8ed34946625fe9d07e",
-            "message": "edit to pass checkstyle attempt 12",
+            "messageTitle": "edit to pass checkstyle attempt 12",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 5
           }
@@ -558,55 +626,64 @@
         "commitResults": [
           {
             "hash": "dfc72f16b2a7a67e479c0d1e1132e11c640fa5ba",
-            "message": "updated Player package to avoid naming conflicts updated user guide for player part small changes here and there",
+            "messageTitle": "updated Player package to avoid naming conflicts updated user guide for player part small changes here and there",
+            "messageBody": "",
             "insertions": 220,
             "deletions": 186
           },
           {
             "hash": "17c60f86f53dee938f642fb3076263b676dec45c",
-            "message": "edit for checkstyle attempt 1",
+            "messageTitle": "edit for checkstyle attempt 1",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "1457f8ef8750073d48943d2b46c7742575f15f0d",
-            "message": "edit for checkstyle attempt 2",
+            "messageTitle": "edit for checkstyle attempt 2",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "4990888fc109ba7c5526b4090dde212b33a23e19",
-            "message": "edit for checkstyle attempt 3",
+            "messageTitle": "edit for checkstyle attempt 3",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 23
           },
           {
             "hash": "ffc7dff073242db4026727973a86676b0b717a2d",
-            "message": "add reposense config.json test 1",
+            "messageTitle": "add reposense config.json test 1",
+            "messageBody": "",
             "insertions": 28,
             "deletions": 0
           },
           {
             "hash": "512db59c2e945cd294630e4b63b9085feb2446c3",
-            "message": "extra edit for Ying Rong\u0027s repo name",
+            "messageTitle": "extra edit for Ying Rong\u0027s repo name",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "1270f18a997dc35eef31edf2f072b80a7675ca5b",
-            "message": "config.json attempt 3",
+            "messageTitle": "config.json attempt 3",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 2
           },
           {
             "hash": "37f5da6e3831a69318224200df21b249c9e0e7a3",
-            "message": "minor changes removed some redundance classes",
+            "messageTitle": "minor changes removed some redundance classes",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 242
           },
           {
             "hash": "d3397350365e44921795bf638dea4eec9c063739",
-            "message": "edited User guide and Developer guide",
+            "messageTitle": "edited User guide and Developer guide",
+            "messageBody": "",
             "insertions": 51,
             "deletions": 15
           }
@@ -619,7 +696,8 @@
         "commitResults": [
           {
             "hash": "7defd1dd1ce004b6660226b51ee0db6391503c4d",
-            "message": "updated player features in User Guide for v1.3",
+            "messageTitle": "updated player features in User Guide for v1.3",
+            "messageBody": "",
             "insertions": 91,
             "deletions": 37
           }
@@ -632,19 +710,22 @@
         "commitResults": [
           {
             "hash": "fafe7afd0ea3686838153fab0cb68e06e4f534e9",
-            "message": "added EditPlayer Feature Test Cases and UGDG will be updated in following commits",
+            "messageTitle": "added EditPlayer Feature Test Cases and UGDG will be updated in following commits",
+            "messageBody": "",
             "insertions": 338,
             "deletions": 16
           },
           {
             "hash": "4a673367ed3815caf1748bbf8046e6a7efd03f2f",
-            "message": "edit to pass checkstyle attempt 1",
+            "messageTitle": "edit to pass checkstyle attempt 1",
+            "messageBody": "",
             "insertions": 39,
             "deletions": 11
           },
           {
             "hash": "88a436a23c7b44d167e7d83a663ac0139e1969cf",
-            "message": "Edit to pass checkstyle attempt 2",
+            "messageTitle": "Edit to pass checkstyle attempt 2",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 18
           }
@@ -657,25 +738,29 @@
         "commitResults": [
           {
             "hash": "a92e3496c52d7eb1884f601a4b5126812da724ab",
-            "message": "updated user guide for edit feature",
+            "messageTitle": "updated user guide for edit feature",
+            "messageBody": "",
             "insertions": 76,
             "deletions": 26
           },
           {
             "hash": "6ea81d1250a8e255c87e69a2d3c89262534a48c6",
-            "message": "pass checkstyle",
+            "messageTitle": "pass checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "6e6facc0a0f34e1d4e5f74f991d6cae5b3da3b91",
-            "message": "Revert \"Improved Team Management\"",
+            "messageTitle": "Revert \"Improved Team Management\"",
+            "messageBody": "",
             "insertions": 74,
             "deletions": 233
           },
           {
             "hash": "32b48e55dd13186d5f76fa2b73d56b0275ea2dc8",
-            "message": "1",
+            "messageTitle": "1",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           }
@@ -688,19 +773,22 @@
         "commitResults": [
           {
             "hash": "cf13e19ceecd0a19468ccb85199b8246b9b8dfa4",
-            "message": "Added Export feature Player part done",
+            "messageTitle": "Added Export feature Player part done",
+            "messageBody": "",
             "insertions": 189,
             "deletions": 66
           },
           {
             "hash": "a715792062a6d268002bbfb70485d1bef11b7424",
-            "message": "updated build.gradle for travis build of Apache Poi",
+            "messageTitle": "updated build.gradle for travis build of Apache Poi",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "48f7e66c5b43e5ebe2968f4996906cd65e45a013",
-            "message": "edit to pass checkstyle, attempt 1",
+            "messageTitle": "edit to pass checkstyle, attempt 1",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 4
           }
@@ -713,61 +801,71 @@
         "commitResults": [
           {
             "hash": "3370076a43105e3cbd0568c79444a58b52d41fba",
-            "message": "Added Export Team Command Edited Help Command format minor adjustment of layouts and comments",
+            "messageTitle": "Added Export Team Command Edited Help Command format minor adjustment of layouts and comments",
+            "messageBody": "",
             "insertions": 205,
             "deletions": 38
           },
           {
             "hash": "b4541f60bb8cfa827895b9868278b2331aedf76b",
-            "message": "edit to pass travis",
+            "messageTitle": "edit to pass travis",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e2f9e8d6b07dbd83cb0136b6cf260cf7fb3a733f",
-            "message": "edit to pass Travis",
+            "messageTitle": "edit to pass Travis",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 5
           },
           {
             "hash": "7bffd96a6ad0fa8868afc1465d0687bdbbe4fdb3",
-            "message": "Change name to Team name to pass travis",
+            "messageTitle": "Change name to Team name to pass travis",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 3
           },
           {
             "hash": "5a0f51ece0cb8bbbc6a40ba2d58754f1830c01b1",
-            "message": "edit to pass checkstyle",
+            "messageTitle": "edit to pass checkstyle",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 9
           },
           {
             "hash": "e0308ffbfcfcecad625fabe52f199e2d8a54c296",
-            "message": "add extra check for addPlayer and addFast fix tag bug",
+            "messageTitle": "add extra check for addPlayer and addFast fix tag bug",
+            "messageBody": "",
             "insertions": 94,
             "deletions": 2
           },
           {
             "hash": "78ed5f36469576d1ade22dfb3c5ce6559640498e",
-            "message": "comment out failed test cases for now",
+            "messageTitle": "comment out failed test cases for now",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 8
           },
           {
             "hash": "10ffbd08ce464650be23f371c9c119e8895919a3",
-            "message": "edit to pass checkstyle",
+            "messageTitle": "edit to pass checkstyle",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "c513d0340c726606a6bef75068e48bb42820b44f",
-            "message": "added transfer player command fix add and addFast bugs",
+            "messageTitle": "added transfer player command fix add and addFast bugs",
+            "messageBody": "",
             "insertions": 155,
             "deletions": 56
           },
           {
             "hash": "0a9c77594bf046f7d037707eb1044b42a5711774",
-            "message": "edit to pass checkstyle",
+            "messageTitle": "edit to pass checkstyle",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           }
@@ -780,25 +878,29 @@
         "commitResults": [
           {
             "hash": "93ae01749ec1382958f0ddf41c5e68c726f047bf",
-            "message": "Disabled editPlayer Command from changing player\u0027s team Adjusted player\u0027s attributes Changed Version information Updated User Guide Adjusted help Command Adjusted MESSAGE_USAGE of various commands for better display",
+            "messageTitle": "Disabled editPlayer Command from changing player\u0027s team Adjusted player\u0027s attributes Changed Version information Updated User Guide Adjusted help Command Adjusted MESSAGE_USAGE of various commands for better display",
+            "messageBody": "",
             "insertions": 139,
             "deletions": 52
           },
           {
             "hash": "bea490f7435a52a0b1b241f575f8fe70e554237e",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 54,
             "deletions": 30
           },
           {
             "hash": "f3b7a67d6768b8f7e6d54e0577ee487c49128c03",
-            "message": "tidied up commands and edited user guide accordingly",
+            "messageTitle": "tidied up commands and edited user guide accordingly",
+            "messageBody": "",
             "insertions": 242,
             "deletions": 102
           },
           {
             "hash": "d76959a82b137b69d34546bf20c9966256fd14ae",
-            "message": "travis",
+            "messageTitle": "travis",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -811,7 +913,8 @@
         "commitResults": [
           {
             "hash": "6e1fffbcc9f5bccd2e3bd5147cef6995a1271431",
-            "message": "user guide",
+            "messageTitle": "user guide",
+            "messageBody": "",
             "insertions": 151,
             "deletions": 28
           }
@@ -824,31 +927,36 @@
         "commitResults": [
           {
             "hash": "af2584a1a6d08262f63e2396cb47b67d04efcde5",
-            "message": "Multiple changes and modifications 1. fixed duplicate jersey number bug 2. modified addPlayer, addFast and transfer commands 3. added exportMatch and exportFinance commands 4. edited help commands accordingly 5. updated user guide accordingly 6. modified viewFinance command MESSAGE_USAGE",
+            "messageTitle": "Multiple changes and modifications 1. fixed duplicate jersey number bug 2. modified addPlayer, addFast and transfer commands 3. added exportMatch and exportFinance commands 4. edited help commands accordingly 5. updated user guide accordingly 6. modified viewFinance command MESSAGE_USAGE",
+            "messageBody": "",
             "insertions": 517,
             "deletions": 30
           },
           {
             "hash": "4c183304ac4b5def1f21ef685827539c36c3f2a4",
-            "message": "change set to list to follow Justin\u0027s change",
+            "messageTitle": "change set to list to follow Justin\u0027s change",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "67ed93455e04e1d6866bff3dbd445b42c496ea4d",
-            "message": "commented out 2 match test cases fixed 1 findPlayer test cases",
+            "messageTitle": "commented out 2 match test cases fixed 1 findPlayer test cases",
+            "messageBody": "",
             "insertions": 44,
             "deletions": 44
           },
           {
             "hash": "fb5f73524e8767564b82504a7b5c0ff4333a7f8b",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 16
           },
           {
             "hash": "3f99f5086fac9ea48132f9b7ad27de22533b7abf",
-            "message": "fix checkstyle 2",
+            "messageTitle": "fix checkstyle 2",
+            "messageBody": "",
             "insertions": 42,
             "deletions": 42
           }
@@ -861,55 +969,64 @@
         "commitResults": [
           {
             "hash": "53fe86cf6a34ab719290a95748630e5362f0d28d",
-            "message": "Added dataAnalysis command edited transfer command to fix updatematch bug",
+            "messageTitle": "Added dataAnalysis command edited transfer command to fix updatematch bug",
+            "messageBody": "",
             "insertions": 255,
             "deletions": 15
           },
           {
             "hash": "5a04a8eb831d809667a15ac14ecf59ac1d0b40a9",
-            "message": "added import for Salary",
+            "messageTitle": "added import for Salary",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "512a3d6027ee0b54eb0cca61dfd9e9e6161cba7c",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 12
           },
           {
             "hash": "058e135e75eee228d83210ab2542219b0859ee77",
-            "message": "block edition of goals scored using editPlayer command to avoid updateMatch running into error",
+            "messageTitle": "block edition of goals scored using editPlayer command to avoid updateMatch running into error",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 1
           },
           {
             "hash": "938bf66e3233b861409fcbd28f242f85a018b8db",
-            "message": "added transfer record to dataAnalysis feature changed transfer command to store transfer record changed addressbook and adaptedaddressbook to store transfer records in storage",
+            "messageTitle": "added transfer record to dataAnalysis feature changed transfer command to store transfer record changed addressbook and adaptedaddressbook to store transfer records in storage",
+            "messageBody": "",
             "insertions": 105,
             "deletions": 68
           },
           {
             "hash": "5c5b5cf4990c9bd7db7534733d08b0b5a885f2b7",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "0a6c6611f94707703546c15f86d71f936269697e",
-            "message": "Added parser test for export, transfer and dataAnalysis",
+            "messageTitle": "Added parser test for export, transfer and dataAnalysis",
+            "messageBody": "",
             "insertions": 142,
             "deletions": 9
           },
           {
             "hash": "2f0f12d09671e9f1cac308a4115374b336f08e29",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "a6128b37296ccd31d7ce33987293c69ea5e7c588",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 32,
             "deletions": 33
           }
@@ -922,31 +1039,36 @@
         "commitResults": [
           {
             "hash": "dfa90ba47126d3744256a2e6784d2c0ffcb17189",
-            "message": "Updated user guide for player, export, data analysis and general features",
+            "messageTitle": "Updated user guide for player, export, data analysis and general features",
+            "messageBody": "",
             "insertions": 392,
             "deletions": 103
           },
           {
             "hash": "4276b80bb9cff5efb7bfde052aeed6f0dd57f10f",
-            "message": "Update UGDG and PPP",
+            "messageTitle": "Update UGDG and PPP",
+            "messageBody": "",
             "insertions": 754,
             "deletions": 3
           },
           {
             "hash": "148b9b5fa0f74d2ca25406a69da28c9f260ef14e",
-            "message": "developerguide userguide stylesheet warheade",
+            "messageTitle": "developerguide userguide stylesheet warheade",
+            "messageBody": "",
             "insertions": 110,
             "deletions": 263
           },
           {
             "hash": "3d12f35a81509949c7973153acb7be35bd310972",
-            "message": "warheade.adoc",
+            "messageTitle": "warheade.adoc",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "e12b8888386b8e811d2e8121309a1cfef080db39",
-            "message": "manual test cases",
+            "messageTitle": "manual test cases",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 8
           }
@@ -961,31 +1083,36 @@
         "commitResults": [
           {
             "hash": "3fc71faeec464d0b5c6ff4210617994e422357f0",
-            "message": "Added Sort Command Updated Userguide",
+            "messageTitle": "Added Sort Command Updated Userguide",
+            "messageBody": "",
             "insertions": 51,
             "deletions": 1
           },
           {
             "hash": "70a352bbe6b42758360b6af2edd17201777cf00d",
-            "message": "Edited UserGuide",
+            "messageTitle": "Edited UserGuide",
+            "messageBody": "",
             "insertions": 66,
             "deletions": 106
           },
           {
             "hash": "d7f53965d7d8c0b0761a386de34a647e53248d2e",
-            "message": "Revert \"Edited UserGuide\"",
+            "messageTitle": "Revert \"Edited UserGuide\"",
+            "messageBody": "This reverts commit 70a352bbe6b42758360b6af2edd17201777cf00d.\n",
             "insertions": 106,
             "deletions": 66
           },
           {
             "hash": "4864c9a9a1ef74735e73237203c885abc0ffbf37",
-            "message": "Revert \"Revert \"Edited UserGuide\"\"",
+            "messageTitle": "Revert \"Revert \"Edited UserGuide\"\"",
+            "messageBody": "This reverts commit d7f53965d7d8c0b0761a386de34a647e53248d2e.\n",
             "insertions": 66,
             "deletions": 106
           },
           {
             "hash": "69452f9d92d71968b57f8cfff92e792267dab25d",
-            "message": "Updated Dev Guide",
+            "messageTitle": "Updated Dev Guide",
+            "messageBody": "",
             "insertions": 128,
             "deletions": 57
           }
@@ -998,7 +1125,8 @@
         "commitResults": [
           {
             "hash": "0bef9d45967cd99af5ec57541c34f22349bbce03",
-            "message": "Added Team Management Commands  -Add  -List  -Delete  -Find  -Clear  - Edit(Work in Progress) Make changes in Various files to enable team management feature.",
+            "messageTitle": "Added Team Management Commands  -Add  -List  -Delete  -Find  -Clear  - Edit(Work in Progress) Make changes in Various files to enable team management feature.",
+            "messageBody": "",
             "insertions": 1007,
             "deletions": 45
           }
@@ -1011,7 +1139,8 @@
         "commitResults": [
           {
             "hash": "578e7edacd61394ebab7f425711726db0da43b46",
-            "message": "Added EditTeam Function",
+            "messageTitle": "Added EditTeam Function",
+            "messageBody": "",
             "insertions": 335,
             "deletions": 28
           }
@@ -1024,13 +1153,15 @@
         "commitResults": [
           {
             "hash": "b36fab66be7bbf8ac980b63f85e4ce304b6e46da",
-            "message": "Fix some codestyle",
+            "messageTitle": "Fix some codestyle",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 19
           },
           {
             "hash": "5c76e02f09fa0b639ff3bee7adbfe0d8bac0f237",
-            "message": "Code edited to fit code style -1",
+            "messageTitle": "Code edited to fit code style -1",
+            "messageBody": "",
             "insertions": 235,
             "deletions": 146
           }
@@ -1043,37 +1174,43 @@
         "commitResults": [
           {
             "hash": "ecefd25217cb5c0e0e51d1feeb494079c78d75bb",
-            "message": "Code edited to fit code style -2",
+            "messageTitle": "Code edited to fit code style -2",
+            "messageBody": "",
             "insertions": 259,
             "deletions": 247
           },
           {
             "hash": "8d1833822b5bd4cf0b11d473657b176941ebaf20",
-            "message": "Code edited to fit code style -3",
+            "messageTitle": "Code edited to fit code style -3",
+            "messageBody": "",
             "insertions": 171,
             "deletions": 149
           },
           {
             "hash": "5547b486887d14d38585267003093a501c2590eb",
-            "message": "Code edited to fit code style -4",
+            "messageTitle": "Code edited to fit code style -4",
+            "messageBody": "",
             "insertions": 107,
             "deletions": 76
           },
           {
             "hash": "fa9da4b76352019254c7fbced5dfbb01a05f2e56",
-            "message": "Code edited to fit code style -5",
+            "messageTitle": "Code edited to fit code style -5",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 5
           },
           {
             "hash": "03e4fadfb72c2c37b63037691bdb1a3b55ba028a",
-            "message": "Code edited to fit code style -6",
+            "messageTitle": "Code edited to fit code style -6",
+            "messageBody": "",
             "insertions": 128,
             "deletions": 82
           },
           {
             "hash": "17a82ec1db1c296817b8a62ec06fc40e8bdb2c54",
-            "message": "no message",
+            "messageTitle": "no message",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -1086,7 +1223,8 @@
         "commitResults": [
           {
             "hash": "a77de3ea5429658975001b3eaade6e793a6e42a5",
-            "message": "Improve command word to be more user friendly for team command adding players will add to team (listable)",
+            "messageTitle": "Improve command word to be more user friendly for team command adding players will add to team (listable)",
+            "messageBody": "",
             "insertions": 82,
             "deletions": 8
           }
@@ -1099,19 +1237,22 @@
         "commitResults": [
           {
             "hash": "4e9537e6ee65a4e3cbaa55bacc04fb70deb55ed2",
-            "message": "Edited User Guide, Optimized team input for user, Refactor Name to TeamName,",
+            "messageTitle": "Edited User Guide, Optimized team input for user, Refactor Name to TeamName,",
+            "messageBody": "",
             "insertions": 135,
             "deletions": 76
           },
           {
             "hash": "ffe62a0f3200282a834f98f4f4c544cbdaeebc7b",
-            "message": "checkstyle changes",
+            "messageTitle": "checkstyle changes",
+            "messageBody": "",
             "insertions": 47,
             "deletions": 26
           },
           {
             "hash": "5fa7607e0f6868930b68a0be836398453dbc35bc",
-            "message": "checkstyle update",
+            "messageTitle": "checkstyle update",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 6
           }
@@ -1124,13 +1265,15 @@
         "commitResults": [
           {
             "hash": "7e6fa0646032d43bff32112e093f02914b9953fc",
-            "message": "Added viewteam command added icon for league tacker added storage component for DG",
+            "messageTitle": "Added viewteam command added icon for league tacker added storage component for DG",
+            "messageBody": "",
             "insertions": 120,
             "deletions": 9
           },
           {
             "hash": "297c811923f137b8e37b262190297fb6b30b7af7",
-            "message": "edited UG \u0026 DG",
+            "messageTitle": "edited UG \u0026 DG",
+            "messageBody": "",
             "insertions": 34,
             "deletions": 7
           }
@@ -1143,19 +1286,22 @@
         "commitResults": [
           {
             "hash": "a1dbbb2dce09d47d6dd7825cff5bbfd0ac19f0be",
-            "message": "editing,deleting and clearing of players and matches will have coresponding results in team",
+            "messageTitle": "editing,deleting and clearing of players and matches will have coresponding results in team",
+            "messageBody": "",
             "insertions": 81,
             "deletions": 1
           },
           {
             "hash": "0541a44cf4b96c00224397350cddb439dcecea1b",
-            "message": "Changes for checkstyle",
+            "messageTitle": "Changes for checkstyle",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 3
           },
           {
             "hash": "50e5ae57a06d25a8bcc85dec6a68cc9973a5f23e",
-            "message": "improved sponsor regex check for team name duplication (case sensitive)",
+            "messageTitle": "improved sponsor regex check for team name duplication (case sensitive)",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 4
           }
@@ -1168,13 +1314,15 @@
         "commitResults": [
           {
             "hash": "63685ca4ebb9a406dcc310af67124f172c88fe1b",
-            "message": "Fixed matchupdate increase functionality of delteam created internal sorting for team",
+            "messageTitle": "Fixed matchupdate increase functionality of delteam created internal sorting for team",
+            "messageBody": "",
             "insertions": 108,
             "deletions": 136
           },
           {
             "hash": "ca93565c86eeb58636973cb1c39701174c1d3131",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 26
           }
@@ -1187,19 +1335,22 @@
         "commitResults": [
           {
             "hash": "21aeec78965dd3ed5d6f353c289f63468bc473a4",
-            "message": "Added Test Cases for Team Management",
+            "messageTitle": "Added Test Cases for Team Management",
+            "messageBody": "",
             "insertions": 663,
             "deletions": 2
           },
           {
             "hash": "8932b08ad752d9e27adb21da7617a146bb1de17e",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "cbc04dbd883326ce1e1edfc630e69a9734fa6aee",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -1212,37 +1363,43 @@
         "commitResults": [
           {
             "hash": "dea820ad6b3c87f64d69c1662730f17c138e1187",
-            "message": "Modified deleteteam command word. incorporated function of scores in to Team management",
+            "messageTitle": "Modified deleteteam command word. incorporated function of scores in to Team management",
+            "messageBody": "",
             "insertions": 291,
             "deletions": 183
           },
           {
             "hash": "0d7680909cc4f9922331bd3b6aebb250fd88928e",
-            "message": "modified testcases for change in deleteteam command word",
+            "messageTitle": "modified testcases for change in deleteteam command word",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 9
           },
           {
             "hash": "d0fb6ae1c93d1f9a5271e5bcd28956b40ca06f72",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "3145acdaf3c833fbadcaf38b6ae67dbbfebef6bb",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 0
           },
           {
             "hash": "557cb959899a7aeab852cfc72e6cd4a17d1a2298",
-            "message": "Added test for EditTeam",
+            "messageTitle": "Added test for EditTeam",
+            "messageBody": "",
             "insertions": 149,
             "deletions": 0
           },
           {
             "hash": "ca90f1cfaaadfdf42cd7dc4b588bb8e83bff0a2b",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 5
           }
@@ -1255,25 +1412,29 @@
         "commitResults": [
           {
             "hash": "c262d0a0ff8a013b10c49221f02e7128e4b2651c",
-            "message": "Change Set\u003cPlayer\u003e to List\u003cPlayer\u003e edit testcases",
+            "messageTitle": "Change Set\u003cPlayer\u003e to List\u003cPlayer\u003e edit testcases",
+            "messageBody": "",
             "insertions": 46,
             "deletions": 76
           },
           {
             "hash": "08a4ff44d14daceaa79adcd84dd956c079549ad2",
-            "message": "reimplemented test cases for player",
+            "messageTitle": "reimplemented test cases for player",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 17
           },
           {
             "hash": "cbfa6ce413345dc7840ccd39808fb9086f9f4431",
-            "message": "Optimize deleteteam add testcase",
+            "messageTitle": "Optimize deleteteam add testcase",
+            "messageBody": "",
             "insertions": 39,
             "deletions": 14
           },
           {
             "hash": "b39c3df24560697e290654480585308ccea18863",
-            "message": "Checkstyle",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
             "insertions": 24,
             "deletions": 26
           }
@@ -1286,37 +1447,43 @@
         "commitResults": [
           {
             "hash": "686a027a1087ce02e284a44488f2b4034dd5bdf4",
-            "message": "fix checkstyle",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "b57bd099ca18fd7a2901e8703ee060d44092b573",
-            "message": "change editteam to disable teamname change with player or match",
+            "messageTitle": "change editteam to disable teamname change with player or match",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 22
           },
           {
             "hash": "7b4c5f66308fa7beeb6d2b6f3fc1097c6c2d5f66",
-            "message": "debug",
+            "messageTitle": "debug",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 19
           },
           {
             "hash": "748c79ea08ed650483c7a5b9d1d3c12411314ab1",
-            "message": "Added string to help add dummy team",
+            "messageTitle": "Added string to help add dummy team",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 1
           },
           {
             "hash": "93abdf7e2716b231939fe5a90a65d503c1d4a470",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "d6c212a173e33d744de5f423a64c8386a401610f",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 6
           }
@@ -1329,37 +1496,43 @@
         "commitResults": [
           {
             "hash": "69b7730c30dfa6334a5897cd651653afd295f542",
-            "message": "updated UG \u0026 DG change editteam to make name changes invalid for certain cases",
+            "messageTitle": "updated UG \u0026 DG change editteam to make name changes invalid for certain cases",
+            "messageBody": "",
             "insertions": 283,
             "deletions": 8
           },
           {
             "hash": "2810bc26db42e6f89a72a6c0e249600e0543f766",
-            "message": "debug Editteam function",
+            "messageTitle": "debug Editteam function",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 6
           },
           {
             "hash": "d514847fe47d2d2071d08184f34376ce33857b2d",
-            "message": "added PPP",
+            "messageTitle": "added PPP",
+            "messageBody": "",
             "insertions": 121,
             "deletions": 0
           },
           {
             "hash": "a69e421977bac95c6c91000375a5eecb9ac3ba57",
-            "message": "updated ug and dg added MIT badge",
+            "messageTitle": "updated ug and dg added MIT badge",
+            "messageBody": "",
             "insertions": 66,
             "deletions": 28
           },
           {
             "hash": "815cc17b85005a956bb94ec744ca49818ee224c3",
-            "message": "image size change",
+            "messageTitle": "image size change",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "42c66887e0c93f564e5b287df7939f7d6df7422f",
-            "message": "added manual testing",
+            "messageTitle": "added manual testing",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 14
           }
@@ -1374,13 +1547,15 @@
         "commitResults": [
           {
             "hash": "6dee1d2ff775ac1b8ee59d7f9614f446c24c5b8c",
-            "message": "travis test",
+            "messageTitle": "travis test",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "1dc3ea66e872c98dbba3c2778f1b25220c161ca4",
-            "message": "Update README.adoc",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -1393,7 +1568,8 @@
         "commitResults": [
           {
             "hash": "a162f43cc096d78062cdcbb14b61c450f6a40e71",
-            "message": "Update README.adoc",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           }
@@ -1406,109 +1582,127 @@
         "commitResults": [
           {
             "hash": "010b8761c05ba8bbe849dfd325b32078d5cce9b6",
-            "message": "Update tools of AB3",
+            "messageTitle": "Update tools of AB3",
+            "messageBody": "",
             "insertions": 553,
             "deletions": 4
           },
           {
             "hash": "eeb47169c5f1643e93914ead3a2283c9892e6123",
-            "message": "Revert \"Update tools of AB3\"",
+            "messageTitle": "Revert \"Update tools of AB3\"",
+            "messageBody": "This reverts commit 010b8761c05ba8bbe849dfd325b32078d5cce9b6.\n",
             "insertions": 4,
             "deletions": 553
           },
           {
             "hash": "384bebb844bf38708559f21de640b09d16a7508a",
-            "message": "Update tools for AB3",
+            "messageTitle": "Update tools for AB3",
+            "messageBody": "",
             "insertions": 508,
             "deletions": 4
           },
           {
             "hash": "252ce2086a65bd51a76d93c96057f8c7b8886598",
-            "message": "Update LearningOutcomes.adoc",
+            "messageTitle": "Update LearningOutcomes.adoc",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "2ca9f31858faf27530b0158489eb20282ab28bd6",
-            "message": "Disable checkstyle",
+            "messageTitle": "Disable checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "dcb68169dc0744f7ea9ca314f612750268010a0b",
-            "message": "Update README.adoc",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "fef90c9ce06440182ec8de7a9c3295756cf905ec",
-            "message": "Add Match and MatchList class Update some documents",
+            "messageTitle": "Add Match and MatchList class Update some documents",
+            "messageBody": "",
             "insertions": 148,
             "deletions": 101
           },
           {
             "hash": "20f8f525bd22f7f68163b66cbfe5ad32dabc0b25",
-            "message": "Revert \"Add Match and MatchList class\"",
+            "messageTitle": "Revert \"Add Match and MatchList class\"",
+            "messageBody": "This reverts commit fef90c9ce06440182ec8de7a9c3295756cf905ec.\n",
             "insertions": 101,
             "deletions": 148
           },
           {
             "hash": "b5ef62d1f725efdbab9ee8bf81fae2a1a5de67b6",
-            "message": "Update UI and UserGuide",
+            "messageTitle": "Update UI and UserGuide",
+            "messageBody": "",
             "insertions": 66,
             "deletions": 101
           },
           {
             "hash": "ac3a3a1a40b704ab031ff8ba93dac7028d8d3b4e",
-            "message": "Update UserGuide.adoc",
+            "messageTitle": "Update UserGuide.adoc",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 0
           },
           {
             "hash": "a47a09d76a92582d0d1d5cb7ba4e936419cb325a",
-            "message": "Update AboutUs.adoc",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 6
           },
           {
             "hash": "a541835fc98fb2a1ac3a27bdc5b35411e5cebbe9",
-            "message": "Update AboutUs.adoc",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "f7ed313379c0ce84d8243f871bd61bff042a0b13",
-            "message": "Update ContactUs.adoc",
+            "messageTitle": "Update ContactUs.adoc",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "7086e3576d1d7f5ef4cd784f8938b03c0488c531",
-            "message": "Update DeveloperGuide",
+            "messageTitle": "Update DeveloperGuide",
+            "messageBody": "",
             "insertions": 128,
             "deletions": 57
           },
           {
             "hash": "e60b3eb2e6606cf38a6a08e0daaeb395e8168883",
-            "message": "Update README.adoc",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 23
           },
           {
             "hash": "894b803dfa5289f911fe2bea75442ade88b5a6f9",
-            "message": "Update README.adoc",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 1
           },
           {
             "hash": "1b39880923388b2db7dc87779e010e2f7803b2c6",
-            "message": "Update README.adoc",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "b21005d1616069750852f417b12edfe468caf074",
-            "message": "Update UserGuide.adoc",
+            "messageTitle": "Update UserGuide.adoc",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 3
           }
@@ -1521,7 +1715,8 @@
         "commitResults": [
           {
             "hash": "dc807003efd0b6fa36f5465615bd686a47fb1ba6",
-            "message": "Update DeveloperGuide.adoc",
+            "messageTitle": "Update DeveloperGuide.adoc",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 10
           }
@@ -1534,13 +1729,15 @@
         "commitResults": [
           {
             "hash": "1c281efcbf30dec9e0df89603fca158a78385c64",
-            "message": "Add Match Management",
+            "messageTitle": "Add Match Management",
+            "messageBody": "",
             "insertions": 1034,
             "deletions": 64
           },
           {
             "hash": "d3f01cc690ad0f2ee3440180890aa45f8bf26781",
-            "message": "Fix Bug",
+            "messageTitle": "Fix Bug",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 27
           }
@@ -1553,7 +1750,8 @@
         "commitResults": [
           {
             "hash": "1266708dd64137a9c113c8738cb427739d8e3b22",
-            "message": "Update build.gradle",
+            "messageTitle": "Update build.gradle",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           }
@@ -1566,13 +1764,15 @@
         "commitResults": [
           {
             "hash": "1a0f2fb099dc824e749ac45d78c61cead048e478",
-            "message": "Update UserGuide",
+            "messageTitle": "Update UserGuide",
+            "messageBody": "",
             "insertions": 148,
             "deletions": 107
           },
           {
             "hash": "bbf5559439632356555b35549adb171212a77e13",
-            "message": "Update UserGuide.adoc",
+            "messageTitle": "Update UserGuide.adoc",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 2
           }
@@ -1585,13 +1785,15 @@
         "commitResults": [
           {
             "hash": "55f0566f92bb3f9641d1f00cea322aed8b227c65",
-            "message": "Enhance Match Class Add TicketSales Class",
+            "messageTitle": "Enhance Match Class Add TicketSales Class",
+            "messageBody": "",
             "insertions": 170,
             "deletions": 46
           },
           {
             "hash": "41e164f048a0d29846686a639e9345440dcda67a",
-            "message": "Fix coding style",
+            "messageTitle": "Fix coding style",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 5
           }
@@ -1604,19 +1806,22 @@
         "commitResults": [
           {
             "hash": "1c7b0f8c6b026a44c477cb4eb2f0201ed36bd8e0",
-            "message": "Add UpdateMatch",
+            "messageTitle": "Add UpdateMatch",
+            "messageBody": "",
             "insertions": 372,
             "deletions": 30
           },
           {
             "hash": "3eeca64dd486e34bd62ded7274dfa26e73973c24",
-            "message": "Fix to pass checkstyle",
+            "messageTitle": "Fix to pass checkstyle",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 9
           },
           {
             "hash": "4f8325707ff7207b30bb4361632765c5e94cd885",
-            "message": "Fix to pass checkstyle",
+            "messageTitle": "Fix to pass checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -1629,7 +1834,8 @@
         "commitResults": [
           {
             "hash": "80d3957bb3e66fd95595deccb389a33a7e91fd79",
-            "message": "Update UG for Match Feature",
+            "messageTitle": "Update UG for Match Feature",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 7
           }
@@ -1642,7 +1848,8 @@
         "commitResults": [
           {
             "hash": "28d4a02f207b48fede2187f63744f952c2942260",
-            "message": "Revert \"Revert \"Improved Team Management\"\"",
+            "messageTitle": "Revert \"Revert \"Improved Team Management\"\"",
+            "messageBody": "This reverts commit 6e6facc0a0f34e1d4e5f74f991d6cae5b3da3b91.\n",
             "insertions": 233,
             "deletions": 74
           }
@@ -1655,7 +1862,8 @@
         "commitResults": [
           {
             "hash": "2e737bca4655f370d9f4ab21e7ebd3db5a614057",
-            "message": "Refactor Home/Away to TeamName",
+            "messageTitle": "Refactor Home/Away to TeamName",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 150
           }
@@ -1668,31 +1876,36 @@
         "commitResults": [
           {
             "hash": "376240da41438236aafd9042bcc86dd9dffd78c8",
-            "message": "Refactor Home/Away into TeamName",
+            "messageTitle": "Refactor Home/Away into TeamName",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 151
           },
           {
             "hash": "80bf05acf1fe3d7dca502193d300100fc960866b",
-            "message": "Add Coveralls Badge",
+            "messageTitle": "Add Coveralls Badge",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "af0e826e440c71881257e966a78003b292367f47",
-            "message": "Add Score feature",
+            "messageTitle": "Add Score feature",
+            "messageBody": "",
             "insertions": 221,
             "deletions": 83
           },
           {
             "hash": "02f2279f5370ca7fbd18776a0631af518b8f66d1",
-            "message": "Fix Checkstyle",
+            "messageTitle": "Fix Checkstyle",
+            "messageBody": "",
             "insertions": 39,
             "deletions": 26
           },
           {
             "hash": "7a97ddb0c3bebfb560978799bea1c69ca46d5d75",
-            "message": "Fix Checkstyle",
+            "messageTitle": "Fix Checkstyle",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 2
           }
@@ -1705,31 +1918,36 @@
         "commitResults": [
           {
             "hash": "cbf9c80c1a8dd7ed102e5a864a42e6d7c2f638c9",
-            "message": "Modify implementation of MatchDate",
+            "messageTitle": "Modify implementation of MatchDate",
+            "messageBody": "",
             "insertions": 96,
             "deletions": 84
           },
           {
             "hash": "2c6579e3e46de932738654f239adea3effa0af8b",
-            "message": "Fix checkstyle",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "bcb1a0ff77cd8509fd5135fdceb7ae74d5d5e728",
-            "message": "Enhance listmatch to sort before listing",
+            "messageTitle": "Enhance listmatch to sort before listing",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 4
           },
           {
             "hash": "0d1e2acf8a46b0db3e4e2727d65ff913f0dcc815",
-            "message": "Fix reported bugs",
+            "messageTitle": "Fix reported bugs",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 5
           },
           {
             "hash": "ab815c713e134f6d4f51fcb8812d59976f45ca84",
-            "message": "Fix checkstyle",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 0
           }
@@ -1742,25 +1960,29 @@
         "commitResults": [
           {
             "hash": "624f3c6cbcc8e2b00f9bd6284b07eed128a805c8",
-            "message": "Remove unecessary comment Change ticketSales constraint message",
+            "messageTitle": "Remove unecessary comment Change ticketSales constraint message",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "55666faa7e4b650bc8b17df6dcbd332050fc634d",
-            "message": "Add SameTeamException and TeamNotFoundException in addMatch",
+            "messageTitle": "Add SameTeamException and TeamNotFoundException in addMatch",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 13
           },
           {
             "hash": "7526d5044255a95370a5f561643c60f6ce25bdc7",
-            "message": "Fix checkstyle",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "47c0a96a5a8d482ace316663642d8c21bf2f1f78",
-            "message": "Add ViewMatchCommand",
+            "messageTitle": "Add ViewMatchCommand",
+            "messageBody": "",
             "insertions": 61,
             "deletions": 3
           }
@@ -1773,97 +1995,113 @@
         "commitResults": [
           {
             "hash": "2b4714ac48fdf0086d73bc7a84fc5830c98742d4",
-            "message": "Fix checkstyle",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "eb3191596224f9d0962dcfbf81f2b89712646dec",
-            "message": "Remove duplicate TeamName Class",
+            "messageTitle": "Remove duplicate TeamName Class",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 73
           },
           {
             "hash": "4cbe541e97a8e75840603f30ced76ca0c32eaf72",
-            "message": "Fix bugs",
+            "messageTitle": "Fix bugs",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "0aa02e97221b3d85a757a5fd3ba333aa737e72d9",
-            "message": "Change Set to List to allow Goal Updates",
+            "messageTitle": "Change Set to List to allow Goal Updates",
+            "messageBody": "",
             "insertions": 110,
             "deletions": 44
           },
           {
             "hash": "1982802e8945b50f6eb1a4eb4c0b7334d496f453",
-            "message": "Fix bug",
+            "messageTitle": "Fix bug",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 8
           },
           {
             "hash": "b74accb6aedb3f0d2db05ed1817c57f03c50e3d4",
-            "message": "Fix logical bug",
+            "messageTitle": "Fix logical bug",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 16
           },
           {
             "hash": "ba33e7609dae276a34360cfb2c3c121775bf958e",
-            "message": "Fix checkstyle",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 4
           },
           {
             "hash": "e0f870a7e4fa7a596d82e3f75f4b63c497e6f019",
-            "message": "Implement method to find player by Name",
+            "messageTitle": "Implement method to find player by Name",
+            "messageBody": "",
             "insertions": 36,
             "deletions": 17
           },
           {
             "hash": "4d7a8b0dc9cfe8df11bbfa467b56e82384092090",
-            "message": "Fix bug regarding editPlayer",
+            "messageTitle": "Fix bug regarding editPlayer",
+            "messageBody": "",
             "insertions": 34,
             "deletions": 0
           },
           {
             "hash": "dee6e61a4efb517b48a7210159042d77d5acfd76",
-            "message": "Fix some bugs for editTeamName",
+            "messageTitle": "Fix some bugs for editTeamName",
+            "messageBody": "",
             "insertions": 80,
             "deletions": 3
           },
           {
             "hash": "04ccd55d2270abd9978c1d5df7c702b99ac943c6",
-            "message": "Revert \"Fix bug regarding editPlayer\"",
+            "messageTitle": "Revert \"Fix bug regarding editPlayer\"",
+            "messageBody": "This reverts commit 4d7a8b0dc9cfe8df11bbfa467b56e82384092090.\n",
             "insertions": 0,
             "deletions": 34
           },
           {
             "hash": "1ba0d47e29580f288c749c62ecd5b6b6970cdbd1",
-            "message": "Revert \"Revert \"Fix bug regarding editPlayer\"\"",
+            "messageTitle": "Revert \"Revert \"Fix bug regarding editPlayer\"\"",
+            "messageBody": "This reverts commit 04ccd55d2270abd9978c1d5df7c702b99ac943c6.\n",
             "insertions": 34,
             "deletions": 0
           },
           {
             "hash": "636cbfe4b077779a1b9a22fa612542bdfc01f181",
-            "message": "Revert \"Fix some bugs for editTeamName\"",
+            "messageTitle": "Revert \"Fix some bugs for editTeamName\"",
+            "messageBody": "This reverts commit dee6e61a4efb517b48a7210159042d77d5acfd76.\n",
             "insertions": 3,
             "deletions": 80
           },
           {
             "hash": "e170a6dfe2a5ee25146ac77049fa8cec520ab3e6",
-            "message": "Fix checkstyle",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 5
           },
           {
             "hash": "3285d06f3a80abb6fade960a74cf7739e288173a",
-            "message": "Add ParserTest code for match commands",
+            "messageTitle": "Add ParserTest code for match commands",
+            "messageBody": "",
             "insertions": 247,
             "deletions": 3
           },
           {
             "hash": "ad505afc3cf73fbb996560d7262bb7351e5aea26",
-            "message": "Fix checkstyle",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 5
           }
@@ -1876,73 +2114,85 @@
         "commitResults": [
           {
             "hash": "b8979860c94d76805f9226dac419add46d8f297a",
-            "message": "Add LogicTest code",
+            "messageTitle": "Add LogicTest code",
+            "messageBody": "",
             "insertions": 174,
             "deletions": 1
           },
           {
             "hash": "949f439576315d5f7208b546362137d3eea98e21",
-            "message": "Add and Edit comments",
+            "messageTitle": "Add and Edit comments",
+            "messageBody": "",
             "insertions": 41,
             "deletions": 17
           },
           {
             "hash": "caa5414aa3ff7adbf11677aacf2ef7175e1c73a6",
-            "message": "Edit more comments",
+            "messageTitle": "Edit more comments",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "73539eed1393f74cd389656b4cc5e9ebb65a7cc0",
-            "message": "Fix error in AboutUs and README",
+            "messageTitle": "Fix error in AboutUs and README",
+            "messageBody": "",
             "insertions": 21,
             "deletions": 22
           },
           {
             "hash": "ebb294b304643951ab595de186037c0a251bdf81",
-            "message": "Edit AboutUs",
+            "messageTitle": "Edit AboutUs",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "5cdfafffa26bd43ef152513a18cb4501f46c34fd",
-            "message": "Update UG",
+            "messageTitle": "Update UG",
+            "messageBody": "",
             "insertions": 128,
             "deletions": 11
           },
           {
             "hash": "69ef52285e0f376966f76948dc0f5baab75a7bc2",
-            "message": "Update UG",
+            "messageTitle": "Update UG",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 4
           },
           {
             "hash": "a5c0da4053ae6129bd0198e7f08d6ef082ad24f8",
-            "message": "Update UG",
+            "messageTitle": "Update UG",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 10
           },
           {
             "hash": "bf6ad27cb610ba508d8f11073b8e3adf60a057ce",
-            "message": "Update UG",
+            "messageTitle": "Update UG",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "7e61c3ab8990cfd5428a4427d1e4e664adf0ef2e",
-            "message": "Update UGDG",
+            "messageTitle": "Update UGDG",
+            "messageBody": "",
             "insertions": 51,
             "deletions": 21
           },
           {
             "hash": "ef72f54e85e8630d97f6724c8b9fc72ebc13bfff",
-            "message": "Update Docs",
+            "messageTitle": "Update Docs",
+            "messageBody": "",
             "insertions": 127,
             "deletions": 0
           },
           {
             "hash": "3ab2212f8d9fa2d59dbbecff9d76fb2b2bde30ff",
-            "message": "Update Dev guide",
+            "messageTitle": "Update Dev guide",
+            "messageBody": "",
             "insertions": 54,
             "deletions": 0
           }

@@ -212,6 +212,28 @@
     }
   },
   {
+    "path": "accounts.properties",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "#Sun Apr 14 20:28:16 SRET 2019"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "Admin\u003dAdmin123"
+      }
+    ],
+    "authorContributionMap": {
+      "matthiaslum": 2
+    }
+  },
+  {
     "path": "addressbook.txt",
     "lines": [
       {

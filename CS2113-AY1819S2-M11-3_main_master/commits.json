@@ -8,31 +8,36 @@
         "commitResults": [
           {
             "hash": "9f4ab2ff3ea17cfaf0e886439ec7247e05e40ebc",
-            "message": "UI: Added different colours to different tags",
+            "messageTitle": "UI: Added different colours to different tags",
+            "messageBody": "",
             "insertions": 66,
             "deletions": 1
           },
           {
             "hash": "10adc1553a36608ba60882fbe14b1e9ca0051f74",
-            "message": "Revert \"UI: Added different colours to different tags\"",
+            "messageTitle": "Revert \"UI: Added different colours to different tags\"",
+            "messageBody": "This reverts commit 9f4ab2ff3ea17cfaf0e886439ec7247e05e40ebc.\n",
             "insertions": 1,
             "deletions": 66
           },
           {
             "hash": "d3be6e86ec6b3f6a4987697a1db1cdb61438045e",
-            "message": "UI: Added different colours to different tags",
+            "messageTitle": "UI: Added different colours to different tags",
+            "messageBody": "",
             "insertions": 71,
             "deletions": 1
           },
           {
             "hash": "4ef7aa9ff6aad0c0047ade357de62af0183eab0f",
-            "message": "Updated User Guide for \"List\" command",
+            "messageTitle": "Updated User Guide for \"List\" command",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "f3b2365728d867f9c99bf2d13b0a5be630dcc479",
-            "message": "Removed codacy badge from README",
+            "messageTitle": "Removed codacy badge from README",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           }
@@ -44,69 +49,86 @@
         "date": "2019-03-03",
         "commitResults": [
           {
+            "hash": "5b645c5a67ba6086b9dfe08cf699a337d5c87943",
+            "messageTitle": "Uploaded photo for Project List",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
             "hash": "2b8c0c0eaf3bc86abe87efbc84e8d7f8b70151c5",
-            "message": "Uploaded team portfolio documents",
+            "messageTitle": "Uploaded team portfolio documents",
+            "messageBody": "",
             "insertions": 216,
             "deletions": 0
           },
           {
             "hash": "d640a9580d879530c43e5a207ec5d3e9b7046e64",
-            "message": "Deleted johndoe.adoc",
+            "messageTitle": "Deleted johndoe.adoc",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 72
           },
           {
             "hash": "8d4d1878c4943f5885ccd2f277570456e0f43798",
-            "message": "Updated wanchinglim.adoc",
+            "messageTitle": "Updated wanchinglim.adoc",
+            "messageBody": "- Name\r\n- Project name",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "02fc08f5f03250e61153d969e2a379ca66dd172c",
-            "message": "Updated AboutUs.adoc",
+            "messageTitle": "Updated AboutUs.adoc",
+            "messageBody": "For the team:\r\n- Names\r\n- Roles and responsibilities\r\n- Links to github and portfolio",
             "insertions": 14,
             "deletions": 33
           }
         ]
       },
       {
-        "insertions": 1386,
-        "deletions": 1378,
+        "insertions": 1390,
+        "deletions": 1382,
         "date": "2019-03-16",
         "commitResults": [
           {
             "hash": "b5821dfcd8b20b833f3c7dec2d7b62454fc5a85b",
-            "message": "Refactored Person to Subject",
-            "insertions": 864,
-            "deletions": 858
+            "messageTitle": "Refactored Person to Subject",
+            "messageBody": "",
+            "insertions": 868,
+            "deletions": 862
           },
           {
             "hash": "09d9c231451bc3d3d2c6b9962db491e48a346662",
-            "message": "Refactored person package to subject",
+            "messageTitle": "Refactored person package to subject",
+            "messageBody": "",
             "insertions": 169,
             "deletions": 169
           },
           {
             "hash": "21e235ca94b2a1dbbe634db3982029ff675fbe7e",
-            "message": "Refactored PersonBuilder to SubjectBuilder",
+            "messageTitle": "Refactored PersonBuilder to SubjectBuilder",
+            "messageBody": "",
             "insertions": 96,
             "deletions": 96
           },
           {
             "hash": "1edab4cd4e6951c65a82b3a68654380e58860192",
-            "message": "Refactored PersonUtil to SubjectUtil",
+            "messageTitle": "Refactored PersonUtil to SubjectUtil",
+            "messageBody": "",
             "insertions": 90,
             "deletions": 88
           },
           {
             "hash": "95b228911900598457a749ada71bd522b63ae020",
-            "message": "Refactored methods in Model from Person to Subject",
+            "messageTitle": "Refactored methods in Model from Person to Subject",
+            "messageBody": "",
             "insertions": 140,
             "deletions": 140
           },
           {
             "hash": "1b2e84fe07998595f151a8e64eedfa7450c3e4d3",
-            "message": "Refactored PersonCard to SubjectCard",
+            "messageTitle": "Refactored PersonCard to SubjectCard",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 27
           }
@@ -119,7 +141,8 @@
         "commitResults": [
           {
             "hash": "3cb2a6930fc5d4b66e0359ce4e7cf57b2023675b",
-            "message": "Refactored Person/person in the remaining files to Subject/subject",
+            "messageTitle": "Refactored Person/person in the remaining files to Subject/subject",
+            "messageBody": "",
             "insertions": 1097,
             "deletions": 1023
           }
@@ -132,25 +155,29 @@
         "commitResults": [
           {
             "hash": "fa4afd4354e61ef7843f0e2e982adfe5b16f1c98",
-            "message": "Updated UserGuide.adoc",
+            "messageTitle": "Updated UserGuide.adoc",
+            "messageBody": "",
             "insertions": 69,
             "deletions": 74
           },
           {
             "hash": "922f1d1f45752545770973a4802f730ae86e1f63",
-            "message": "Updated add, edit, and summary of UserGuide.adoc",
+            "messageTitle": "Updated add, edit, and summary of UserGuide.adoc",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 11
           },
           {
             "hash": "1356ac87b16a9a7e690e1ad8517795bea20dda90",
-            "message": "Refactored NameContainsKeywords to TopicContainsKeywords",
+            "messageTitle": "Refactored NameContainsKeywords to TopicContainsKeywords",
+            "messageBody": "",
             "insertions": 41,
             "deletions": 39
           },
           {
             "hash": "d8501dc24024cfbc30bc7af982a6889fe6e08c0e",
-            "message": "Refactored Name to Topic",
+            "messageTitle": "Refactored Name to Topic",
+            "messageBody": "",
             "insertions": 101,
             "deletions": 101
           }
@@ -163,49 +190,57 @@
         "commitResults": [
           {
             "hash": "279c6e35cf0d82c69944a5c5e844ccef3f58653f",
-            "message": "Refactored Name \u0026 Tag Prefixes to Topic \u0026 Subject",
+            "messageTitle": "Refactored Name \u0026 Tag Prefixes to Topic \u0026 Subject",
+            "messageBody": "",
             "insertions": 53,
             "deletions": 52
           },
           {
             "hash": "550206ed15ae154f7a94d5e1ce5b153fb456a85c",
-            "message": "Refactored some methods for name to topic",
+            "messageTitle": "Refactored some methods for name to topic",
+            "messageBody": "",
             "insertions": 40,
             "deletions": 40
           },
           {
             "hash": "73f1352360da4f9b59238706235db7cee2691e91",
-            "message": "Refactored Tag class to Subject class",
+            "messageTitle": "Refactored Tag class to Subject class",
+            "messageBody": "",
             "insertions": 75,
             "deletions": 75
           },
           {
             "hash": "37686e682b288d0b4a3eef59f733d0a25d793c8a",
-            "message": "Refactored tagName to subjectName",
+            "messageTitle": "Refactored tagName to subjectName",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 21
           },
           {
             "hash": "e75c589d9c66c910d85afc10f0d6d6f03bc5044f",
-            "message": "Refactored some occurrences of Tag to Subject",
+            "messageTitle": "Refactored some occurrences of Tag to Subject",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 17
           },
           {
             "hash": "f14b39cd1b533bb352e6bf4cbb76418ef95d3b17",
-            "message": "Refactored Name field ID into Topic field ID",
+            "messageTitle": "Refactored Name field ID into Topic field ID",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "8541009ddfc4ff3317c2ead3c5125de40c42fc3a",
-            "message": "Refactored getName method to getTopic",
+            "messageTitle": "Refactored getName method to getTopic",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "14dd0da7392fa1ee8497d5ac1b36dd87b7193f26",
-            "message": "Refactored Tags field ID into Subject field ID",
+            "messageTitle": "Refactored Tags field ID into Subject field ID",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 27
           }
@@ -218,7 +253,8 @@
         "commitResults": [
           {
             "hash": "3d8690d7f876204cff10bfd9a5eda699cbcaa208",
-            "message": "Refactored Subject into SubjectTag",
+            "messageTitle": "Refactored Subject into SubjectTag",
+            "messageBody": "",
             "insertions": 77,
             "deletions": 77
           }
@@ -231,55 +267,64 @@
         "commitResults": [
           {
             "hash": "5eae497fafb5ac15ebb2b494f55027f9f5a71e3f",
-            "message": "UI: Added Subjects panel",
+            "messageTitle": "UI: Added Subjects panel",
+            "messageBody": "",
             "insertions": 182,
             "deletions": 1
           },
           {
             "hash": "fc746186a54c8334bf6bc63a7cb100c0540beb18",
-            "message": "Model: Added Subject model",
+            "messageTitle": "Model: Added Subject model",
+            "messageBody": "",
             "insertions": 333,
             "deletions": 0
           },
           {
             "hash": "dba138936f46d93e956cca234422d24e3b2803ee",
-            "message": "Model: Edited Subject tag field for Flashcard",
+            "messageTitle": "Model: Edited Subject tag field for Flashcard",
+            "messageBody": "",
             "insertions": 30,
             "deletions": 7
           },
           {
             "hash": "0d5f7097194895fb76c784c06f195abaf398954d",
-            "message": "Logic: Added functions for Subject Book",
+            "messageTitle": "Logic: Added functions for Subject Book",
+            "messageBody": "",
             "insertions": 55,
             "deletions": 0
           },
           {
             "hash": "b8800e8581522ebeef00f9957668d045911f12ef",
-            "message": "Model: Added functions for Subject Book",
+            "messageTitle": "Model: Added functions for Subject Book",
+            "messageBody": "",
             "insertions": 143,
             "deletions": 3
           },
           {
             "hash": "46716da4b6dcd183c7775773941d4e0c0b31cbbe",
-            "message": "AddCommand: Adds a subject tag if it is unique",
+            "messageTitle": "AddCommand: Adds a subject tag if it is unique",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 3
           },
           {
             "hash": "0a3992b496d395a65960a72b93e2007f593c2bc8",
-            "message": "MainApp: Added initialSubjectBook to initModelManager",
+            "messageTitle": "MainApp: Added initialSubjectBook to initModelManager",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 11
           },
           {
             "hash": "d8c441e383e2eff0463d8e1a5583b9783b7a090e",
-            "message": "Storage: Added storage for Subject Book",
+            "messageTitle": "Storage: Added storage for Subject Book",
+            "messageBody": "",
             "insertions": 329,
             "deletions": 2
           },
           {
             "hash": "6db3baf0d0f4a9d3cf6703f1815df1f1711911ea",
-            "message": "Model Util: Edited list of sample flashcards",
+            "messageTitle": "Model Util: Edited list of sample flashcards",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 18
           }
@@ -292,19 +337,22 @@
         "commitResults": [
           {
             "hash": "5026eb7eec88d40251829169d5b38eed26944f98",
-            "message": "UI: Displayed list of flashcards based on subject",
+            "messageTitle": "UI: Displayed list of flashcards based on subject",
+            "messageBody": "",
             "insertions": 64,
             "deletions": 7
           },
           {
             "hash": "d7ea3aa44aa472214b5f60bb031e6ae0325564e0",
-            "message": "UI: Solved UI issues for displaying flashcards based on subject",
+            "messageTitle": "UI: Solved UI issues for displaying flashcards based on subject",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 14
           },
           {
             "hash": "ce9ee105d24718f6b666d8a67c1c6b74d5123489",
-            "message": "Add: Updated the way of adding unique subjects",
+            "messageTitle": "Add: Updated the way of adding unique subjects",
+            "messageBody": "",
             "insertions": 21,
             "deletions": 5
           }
@@ -317,37 +365,43 @@
         "commitResults": [
           {
             "hash": "7ed5fd37affb65e4504a959de3c4c3e7ae1ef91d",
-            "message": "UI: Displays subjects in Subject panel on application start up",
+            "messageTitle": "UI: Displays subjects in Subject panel on application start up",
+            "messageBody": "",
             "insertions": 32,
             "deletions": 5
           },
           {
             "hash": "515531c8c01264b88ccaec3270d4ad401109e3e2",
-            "message": "Storage: Edited subjectBookFilePath",
+            "messageTitle": "Storage: Edited subjectBookFilePath",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "7a574080e121f2690161e7e24282064a0f0e72b6",
-            "message": "ClearCommand: Clears Subject Book",
+            "messageTitle": "ClearCommand: Clears Subject Book",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "3f7378b65bceb5b6d72d9262cf8547320b327b37",
-            "message": "Fixed Bug: Updating of Subject Book and filtered subjects list after a flashcard is added",
+            "messageTitle": "Fixed Bug: Updating of Subject Book and filtered subjects list after a flashcard is added",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 63
           },
           {
             "hash": "3d75d3989c7c7e148aba54883e1c91abf2e5ec7d",
-            "message": "Tests: Commented out tests",
+            "messageTitle": "Tests: Commented out tests",
+            "messageBody": "",
             "insertions": 563,
             "deletions": 402
           },
           {
             "hash": "6f6988b03b6cde7294991a8e05a9949358bee5a5",
-            "message": "Tests: Fixed checkstyle errors for application",
+            "messageTitle": "Tests: Fixed checkstyle errors for application",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 52
           }
@@ -360,27 +414,38 @@
         "commitResults": [
           {
             "hash": "e4f727a6f60c8673665a54f33a19dd39337747ea",
-            "message": "AddCommand: Updated sample add command",
+            "messageTitle": "AddCommand: Updated sample add command",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "c643666e38bee5edfb86f71e76f4b464b1950228",
-            "message": "Revert \"Merge branch \u0027master\u0027 into v1.3-UI\"",
+            "messageTitle": "Revert \"Merge branch \u0027master\u0027 into v1.3-UI\"",
+            "messageBody": "This reverts commit bf1a0bd099f3775b11fdb5f4e6ec55afcce7a4ec, reversing\nchanges made to 6f6988b03b6cde7294991a8e05a9949358bee5a5.\n",
             "insertions": 114,
             "deletions": 321
           },
           {
             "hash": "14e2c156abfe612f9d57f39498069a5f102a0fb9",
-            "message": "Updated UserGuide.adoc",
+            "messageTitle": "Updated UserGuide.adoc",
+            "messageBody": "",
             "insertions": 164,
             "deletions": 94
           },
           {
             "hash": "d7776fe86971aae8a6ae1264c979c4346f14e328",
-            "message": "Updated UserGuide.adoc",
+            "messageTitle": "Updated UserGuide.adoc",
+            "messageBody": "Resolved formatting issues",
             "insertions": 45,
             "deletions": 51
+          },
+          {
+            "hash": "1c16b3d27b9a4c536b8b9503df9a201de5b72fe3",
+            "messageTitle": "Updated UserGuide.adoc|",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
           }
         ]
       },
@@ -391,67 +456,78 @@
         "commitResults": [
           {
             "hash": "0f9ba713f8a749b05d4f8053f2e796964b045271",
-            "message": "DeveloperGuide: Updated Quizzing by Subject Feature",
+            "messageTitle": "DeveloperGuide: Updated Quizzing by Subject Feature",
+            "messageBody": "",
             "insertions": 110,
             "deletions": 9
           },
           {
             "hash": "4cfd15fd4f261bdefd7679e88a1f287e424e38b0",
-            "message": "DeveloperGuide: Fixed formatting issues",
+            "messageTitle": "DeveloperGuide: Fixed formatting issues",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 5
           },
           {
             "hash": "777402459fed7ba3f404c38ec2e0d2eeb0dde258",
-            "message": "DeveloperGuide: Fixed formatting issues",
+            "messageTitle": "DeveloperGuide: Fixed formatting issues",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 19
           },
           {
             "hash": "8b739c456195b3fb2632ca4e8442560ce3fc3239",
-            "message": "DeveloperGuide: Added sequence diagrams",
+            "messageTitle": "DeveloperGuide: Added sequence diagrams",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 8
           },
           {
             "hash": "10deda07113c9d352f3fc75077fcb977c2835dc9",
-            "message": "DeveloperGuide: Fixed formatting issues",
+            "messageTitle": "DeveloperGuide: Fixed formatting issues",
+            "messageBody": "",
             "insertions": 30,
             "deletions": 30
           },
           {
             "hash": "9347a058ed21eb9eef72b580b87ea1875e994add",
-            "message": "DeveloperGuide: Updated design considerations",
+            "messageTitle": "DeveloperGuide: Updated design considerations",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 3
           },
           {
             "hash": "18ac795ad35180afff66cbc9d29dc12bdac496d4",
-            "message": "UserGuide: Updated \"add\" command",
+            "messageTitle": "UserGuide: Updated \"add\" command",
+            "messageBody": "",
             "insertions": 28,
             "deletions": 29
           },
           {
             "hash": "a7ca9e206d4fb706404a0dcf88fed08ec0206be5",
-            "message": "DeveloperGuide: Added tags for Quizzing by Subject feature",
+            "messageTitle": "DeveloperGuide: Added tags for Quizzing by Subject feature",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 3
           },
           {
             "hash": "af818a703915762c860c3347adb21a0f8bc73b27",
-            "message": "PP: Updated wanchinglim.adoc",
+            "messageTitle": "PP: Updated wanchinglim.adoc",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 18
           },
           {
             "hash": "e7eb6d706205834d3d5e5e251e769540d601551c",
-            "message": "PP: Updated wanchinglim.adoc",
+            "messageTitle": "PP: Updated wanchinglim.adoc",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "6fa1723d22496e4cda3bbe4bdd23ec4c4b730faf",
-            "message": "DeveloperGuide: Fixed formatting issues",
+            "messageTitle": "DeveloperGuide: Fixed formatting issues",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 8
           }
@@ -464,19 +540,22 @@
         "commitResults": [
           {
             "hash": "12db7a3250bd6de69e29e230f8dba3141be9bac8",
-            "message": "Logic: Added getUpdatedFlashcardList",
+            "messageTitle": "Logic: Added getUpdatedFlashcardList",
+            "messageBody": "Gets flashcards of a particular subject selected\n",
             "insertions": 14,
             "deletions": 6
           },
           {
             "hash": "0b4ff1fa6d15ac22f7425a417d87140ebda5489d",
-            "message": "Model: Added getUpdatedFlashcardList",
+            "messageTitle": "Model: Added getUpdatedFlashcardList",
+            "messageBody": "Gets flashcards of a particular subject selected\n",
             "insertions": 32,
             "deletions": 12
           },
           {
             "hash": "39208b831e7b707e42becfaa94d3b6c4be5a5127",
-            "message": "DeleteCommand: Deletes from flashcards in the selected subject instead of all flashcards",
+            "messageTitle": "DeleteCommand: Deletes from flashcards in the selected subject instead of all flashcards",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 23
           }
@@ -489,268 +568,318 @@
         "commitResults": [
           {
             "hash": "b7a6e43424da43f169b64103921ddbf50f2d1e44",
-            "message": "Model: Updated getUpdatedFlashcardList",
+            "messageTitle": "Model: Updated getUpdatedFlashcardList",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "18c5671138f571f210d25e607b84ca0c8ce3f53c",
-            "message": "EditCommand: Edits from flashcards in the selected subject instead of all flashcards",
+            "messageTitle": "EditCommand: Edits from flashcards in the selected subject instead of all flashcards",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 20
           },
           {
             "hash": "82f1c2d244689caecd33100cfd0b9ad0f3ed6f5c",
-            "message": "FlashcardListPanel: Deleted unused subject list",
+            "messageTitle": "FlashcardListPanel: Deleted unused subject list",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 19
           },
           {
             "hash": "6aeb80296a0b18264838af7015a83c029b9ac1b4",
-            "message": "Fixed checkstyle",
+            "messageTitle": "Fixed checkstyle",
+            "messageBody": "",
             "insertions": 44,
             "deletions": 33
           },
           {
             "hash": "364af40cb704393387bae5ceee40f7a71edf0043",
-            "message": "Created SubjectTagBuilder in Tests",
+            "messageTitle": "Created SubjectTagBuilder in Tests",
+            "messageBody": "",
             "insertions": 49,
             "deletions": 0
           },
           {
             "hash": "290ce0f4efb9ca91d3bc1ab44f93d37769ced282",
-            "message": "Created TypicalSubjects in Test",
+            "messageTitle": "Created TypicalSubjects in Test",
+            "messageBody": "",
             "insertions": 57,
             "deletions": 0
           },
           {
             "hash": "10197848db6056fe5ed1ef3d5c2225a5d0a8b1dd",
-            "message": "DeleteCommandTest: Updated",
+            "messageTitle": "DeleteCommandTest: Updated",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 29
           },
           {
             "hash": "2c0d73eb40f8087d23b2cc887f0c97d3cd053eb8",
-            "message": "Fixed checkstyle for tests",
+            "messageTitle": "Fixed checkstyle for tests",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 19
           },
           {
             "hash": "ed1b5aa06acc1a3878c74a27da611ad52c01a0e9",
-            "message": "SubjectTagBuilder: Updated build()",
+            "messageTitle": "SubjectTagBuilder: Updated build()",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 2
           },
           {
             "hash": "76e70981c9ea02798652c3ee950870805731d952",
-            "message": "TypicalFlashcards: Refactored tests from address book\u0027s to flashcards",
+            "messageTitle": "TypicalFlashcards: Refactored tests from address book\u0027s to flashcards",
+            "messageBody": "",
             "insertions": 39,
             "deletions": 32
           },
           {
             "hash": "a396ff7140961bef2998f24289200b21420f7494",
-            "message": "Tests: Updated tests from persons to flashcards",
+            "messageTitle": "Tests: Updated tests from persons to flashcards",
+            "messageBody": "",
             "insertions": 78,
             "deletions": 78
           },
           {
             "hash": "fc93c0683e1a83855429354655f6ee6f36d13b63",
-            "message": "DeleteCommandTest: Fixed",
+            "messageTitle": "DeleteCommandTest: Fixed",
+            "messageBody": "",
             "insertions": 21,
             "deletions": 5
           },
           {
             "hash": "bef47963007c70277ffc8eeb52ae8ca30b05602e",
-            "message": "CommandTestUtil: Refactored person to flashcards",
+            "messageTitle": "CommandTestUtil: Refactored person to flashcards",
+            "messageBody": "",
             "insertions": 32,
             "deletions": 32
           },
           {
             "hash": "888b512070fcfa86019d1a99674d5195fc9f6222",
-            "message": "TypicalFlashcards: Updated",
+            "messageTitle": "TypicalFlashcards: Updated",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "e05f0d76a39c5e9af083a00486176661f4ac3029",
-            "message": "Test: Updated tests from persons to flashcards",
+            "messageTitle": "Test: Updated tests from persons to flashcards",
+            "messageBody": "",
             "insertions": 184,
             "deletions": 172
           },
           {
             "hash": "2ad8e9778a411cdd700764fffa5f4c929d860699",
-            "message": "FlashcardTest: Fixed tests",
+            "messageTitle": "FlashcardTest: Fixed tests",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 19
           }
         ]
       },
       {
-        "insertions": 409,
-        "deletions": 277,
+        "insertions": 413,
+        "deletions": 279,
         "date": "2019-04-11",
         "commitResults": [
           {
             "hash": "33a342f76bc38ec8e373f462800e4e034fe65d74",
-            "message": "Flashcard: Removed irrelevant index",
+            "messageTitle": "Flashcard: Removed irrelevant index",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "8587d3dc31744e8dfea9fb593397c78e8335c71f",
-            "message": "EditCommandTest: Updated tests",
+            "messageTitle": "EditCommandTest: Updated tests",
+            "messageBody": "",
             "insertions": 69,
             "deletions": 44
           },
           {
             "hash": "cd77e4a1dc74980d14e9241c9b0c901a92c7cb35",
-            "message": "Fixed checkstyle",
+            "messageTitle": "Fixed checkstyle",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 13
           },
           {
             "hash": "b37a776515dca4698b7ba68d546e3e24981e4ad8",
-            "message": "AddCommandTest: Updated tests",
+            "messageTitle": "AddCommandTest: Updated tests",
+            "messageBody": "",
             "insertions": 59,
             "deletions": 39
           },
           {
             "hash": "a5801df94068bf5191a302d83e9d7c9a1fbe20ff",
-            "message": "FlashcardBuilder: Updated default flashcard",
+            "messageTitle": "FlashcardBuilder: Updated default flashcard",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 4
           },
           {
             "hash": "638819dd8a78891c85fb523719c5352b61ed0be5",
-            "message": "AddCommandIntegrationTest: Updated tests",
+            "messageTitle": "AddCommandIntegrationTest: Updated tests",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 16
           },
           {
             "hash": "a76a3dcf1e6b106b49274468867b75354b05498f",
-            "message": "FlashcardCardTest: Updated tests",
+            "messageTitle": "FlashcardCardTest: Updated tests",
+            "messageBody": "Removed no tags portion. Not applicable to our application since tags are compulsory\n",
             "insertions": 1,
             "deletions": 7
           },
           {
             "hash": "a9e86ecced1ef75f3ed628356bbca86e9ca76241",
-            "message": "AddCommandParserTest: Updated tests",
+            "messageTitle": "AddCommandParserTest: Updated tests",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 11
           },
           {
             "hash": "91f220e7106518b216bdd6c94e639f4862c02144",
-            "message": "Fixed checkstyle",
+            "messageTitle": "Fixed checkstyle",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 5
           },
           {
             "hash": "a654780cbb0ae485db9703f6b72aa47d7d0d6eca",
-            "message": "Flashcard: Updated same flashcard",
+            "messageTitle": "Flashcard: Updated same flashcard",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "bfd7317ffbe7041067a8393e288aa57a018dad35",
-            "message": "EditCommandTest: Updated tests",
+            "messageTitle": "EditCommandTest: Updated tests",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 15
           },
           {
             "hash": "d571fe479a1690acc7ba420d301386deb280c8b5",
-            "message": "Fixed checkstyle",
+            "messageTitle": "Fixed checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "d546f27d89268486f30072fd62b442a4284b7150",
-            "message": "TypicalFlashcards: Updated sample flashcards (for manually added)",
+            "messageTitle": "TypicalFlashcards: Updated sample flashcards (for manually added)",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 6
           },
           {
             "hash": "9ad8356e211b6661ab8eefe0a7f179d8c962a2c7",
-            "message": "JsonFlashBookStorageTest: Updated tests",
+            "messageTitle": "JsonFlashBookStorageTest: Updated tests",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 11
           },
           {
             "hash": "25e3ef11d6ba7814f444c5684156bd2c9f0046da",
-            "message": "UniqueFlashcardListTest: Updated tests",
+            "messageTitle": "UniqueFlashcardListTest: Updated tests",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 3
           },
           {
             "hash": "5f5e382cbf735800b97b250728c7ea51b6db90ec",
-            "message": "FlashcardTest: Updated tests",
+            "messageTitle": "FlashcardTest: Updated tests",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 12
           },
           {
             "hash": "2020f8ba545cff4921cb90de08d19cfb9039a6a3",
-            "message": "FlashBookTest: Updated tests",
+            "messageTitle": "FlashBookTest: Updated tests",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "a6992d1923d24195352a1db36bb48d445e036bde",
-            "message": "duplicateFlashcardFlashBook.json: Updated fields",
+            "messageTitle": "duplicateFlashcardFlashBook.json: Updated fields",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "a34b78aab51cfcd05c9b17727437e834769d7cf0",
-            "message": "typicalFlashcardsFlashBook.json: Updated fields",
+            "messageTitle": "typicalFlashcardsFlashBook.json: Updated fields",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 33
           },
           {
             "hash": "a525ec763075b3838724fc3244087eb0e2150ed1",
-            "message": "EditCommandTest: Updated tests",
+            "messageTitle": "EditCommandTest: Updated tests",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 3
           },
           {
             "hash": "044caf71c6574025dd0017651990bad12c332b1d",
-            "message": "TypicalFlashcards: Updated flashcard samples",
+            "messageTitle": "TypicalFlashcards: Updated flashcard samples",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 3
           },
           {
             "hash": "c83ac3f473a8a43e3f176ec8a8fd88a607ea371a",
-            "message": "JsonSerializableFlashBookTest: Updated",
+            "messageTitle": "JsonSerializableFlashBookTest: Updated",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 2
           },
           {
             "hash": "eda1709df1198a9f470c56be594ff8e1639e8bbd",
-            "message": "StorageManagerTest: Updated tests",
+            "messageTitle": "StorageManagerTest: Updated tests",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 8
           },
           {
             "hash": "5c9ebc11237685ac8b6970715436f93e8c03e68a",
-            "message": "Created SubjectBookBuilder test",
+            "messageTitle": "Created SubjectBookBuilder test",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 0
           },
           {
             "hash": "5f5c4a5c24ef9edb7b94459e88a9b81ff73680e2",
-            "message": "ModelManagerTest: Updated tests",
+            "messageTitle": "ModelManagerTest: Updated tests",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 12
           },
           {
             "hash": "2da827733758b508b0145679aa25082c3da61fe1",
-            "message": "FlashcardListPanelTest: Updated tests",
+            "messageTitle": "FlashcardListPanelTest: Updated tests",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 15
           },
           {
             "hash": "40544636f16f31ebc1f66c221c9f2cbffd5b24e1",
-            "message": "Configured reposense",
-            "insertions": 30,
-            "deletions": 0
+            "messageTitle": "Configured reposense",
+            "messageBody": "",
+            "insertions": 33,
+            "deletions": 1
+          },
+          {
+            "hash": "4dc4795c62ff785d4ade77d57ca9073cd92d13cb",
+            "messageTitle": "gitignore: Fixed checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       },
@@ -761,79 +890,92 @@
         "commitResults": [
           {
             "hash": "71325187137bddc362f5e7918f0fd370eaea0ae4",
-            "message": "AddCommand: Fixed bugs",
+            "messageTitle": "AddCommand: Fixed bugs",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "8b1bcad73fe596e34b738da5f5417c506111a62b",
-            "message": "DeleteCommand: Fixed bugs",
+            "messageTitle": "DeleteCommand: Fixed bugs",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "dc9ed505e104328759630d926aa1ea593f1724aa",
-            "message": "EditCommand: Fixed bugs",
+            "messageTitle": "EditCommand: Fixed bugs",
+            "messageBody": "",
             "insertions": 41,
             "deletions": 5
           },
           {
             "hash": "b2f5b6f04fcd671af6a255fbe1df06ecdb2719a2",
-            "message": "ModelManager: Updated getUpdatedFlashcardList()",
+            "messageTitle": "ModelManager: Updated getUpdatedFlashcardList()",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 4
           },
           {
             "hash": "7c9789899817243be068d2cc6c6b7ef3cb87481b",
-            "message": "AddCommandIntegrationTest: Updated tests",
+            "messageTitle": "AddCommandIntegrationTest: Updated tests",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 0
           },
           {
             "hash": "9a2f808478f82c2b779589149dc75c2300138e34",
-            "message": "DeleteCommandTest: Updated tests",
+            "messageTitle": "DeleteCommandTest: Updated tests",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "bc5e33730a488b22bfd94cab5d269efcd5d0a673",
-            "message": "EditCommandTest: Updated tests",
+            "messageTitle": "EditCommandTest: Updated tests",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "7929478a76641d5051e9b5248219211cfb82c872",
-            "message": "SelectCommand: Fixed bugs",
+            "messageTitle": "SelectCommand: Fixed bugs",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "79f930b213fb55053b6cc9121d7fb47ecf0ed6be",
-            "message": "SelectCommand: Updated",
+            "messageTitle": "SelectCommand: Updated",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 1
           },
           {
             "hash": "98bad1353d5a6e85298645306ba91f9291f7a5ab",
-            "message": "Fixed checkstyle",
+            "messageTitle": "Fixed checkstyle",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "c9b2c841d2fe7e8b00f3c5461bf4d597d48d97ae",
-            "message": "Fixed checkstyle",
+            "messageTitle": "Fixed checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "c837b61f1f185ac79264b51876f6dce7b071b7ab",
-            "message": "SelectCommand: Updated",
+            "messageTitle": "SelectCommand: Updated",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "d3097db05494c6f107687fbf6c03afdc8680c968",
-            "message": "SelectedCommandTest: Updated tests",
+            "messageTitle": "SelectedCommandTest: Updated tests",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 27
           }
@@ -846,67 +988,78 @@
         "commitResults": [
           {
             "hash": "0fd28ff45e92cae2fe28bacdcc5ab7538b4d1856",
-            "message": "Updated User Guide",
+            "messageTitle": "Updated User Guide",
+            "messageBody": "",
             "insertions": 71,
             "deletions": 57
           },
           {
             "hash": "877d79f88ab691fb1cdb7f0709e374f4467a5b05",
-            "message": "LogicManagerTest: Updated tests",
+            "messageTitle": "LogicManagerTest: Updated tests",
+            "messageBody": "",
             "insertions": 43,
             "deletions": 51
           },
           {
             "hash": "4926576785b17780db029394e880b092047e9008",
-            "message": "Fixed sentences in User Guide",
+            "messageTitle": "Fixed sentences in User Guide",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "e8445a6a34c1c254307217d072164e27ecd608f8",
-            "message": "User Guide: Removed irrelevant sections, added new sections, and fixed sentences",
+            "messageTitle": "User Guide: Removed irrelevant sections, added new sections, and fixed sentences",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 15
           },
           {
             "hash": "923627fe0c0af1701c4a911f5da599f13e5f4b34",
-            "message": "Removed irrelevant section in User Guide",
+            "messageTitle": "Removed irrelevant section in User Guide",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 12
           },
           {
             "hash": "b4b5f934d6f165ac40ffad1341faa1d40f8f78a3",
-            "message": "Fixed sentences in User Guide",
+            "messageTitle": "Fixed sentences in User Guide",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "f4a13c7b17bcc37a77cfbbbef1f623f34fbd776a",
-            "message": "Updated formatting in User Guide",
+            "messageTitle": "Updated formatting in User Guide",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 7
           },
           {
             "hash": "d6821ca8314a1dfb1111a4cd152a518438040989",
-            "message": "DeveloperGuide: Updated \"Quizzing by Subject\" section",
+            "messageTitle": "DeveloperGuide: Updated \"Quizzing by Subject\" section",
+            "messageBody": "",
             "insertions": 44,
             "deletions": 39
           },
           {
             "hash": "d60e7b4e2246c97263113776ba3a6991b48e4638",
-            "message": "Developer Guide: Fixed mistakes and formatting",
+            "messageTitle": "Developer Guide: Fixed mistakes and formatting",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 19
           },
           {
             "hash": "82348dcb721936b7f9c73ebd3746557fa82e4a30",
-            "message": "Developer Guide: Fixed typo",
+            "messageTitle": "Developer Guide: Fixed typo",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "b7251917283ecfee5c6278d3d771a80d69dd8e6a",
-            "message": "Updated AboutUs.adoc",
+            "messageTitle": "Updated AboutUs.adoc",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 2
           }
@@ -919,91 +1072,113 @@
         "commitResults": [
           {
             "hash": "e2c4dfb9f656643de53f62bb124bf1b0e94ed529",
-            "message": "Developer Guide: Updated and fixed mistakes",
+            "messageTitle": "Developer Guide: Updated and fixed mistakes",
+            "messageBody": "",
             "insertions": 100,
             "deletions": 76
           },
           {
             "hash": "72a918d78d7694466684e92be728cd02b6bbc189",
-            "message": "Developer Guide: Fixed formatting",
+            "messageTitle": "Developer Guide: Fixed formatting",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 1
           },
           {
             "hash": "6d935bce17e8eb2f59fa0fbbdec57c5c3b721200",
-            "message": "Developer Guide: Fixed formatting",
+            "messageTitle": "Developer Guide: Fixed formatting",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "a351916ba17b15e662b414d2c8becb6b2faa569d",
-            "message": "Developer Guide: Fixed formatting",
+            "messageTitle": "Developer Guide: Fixed formatting",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 8
           },
           {
+            "hash": "837a3147e13189aa5d2042f29d8c8b4cb71c9229",
+            "messageTitle": "Added UI_edited.png for Developer Guide",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
             "hash": "58e3241129c20e2f726d74c056ade5ff3548914c",
-            "message": "Developer Guide: Updated UI image",
+            "messageTitle": "Developer Guide: Updated UI image",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "aea60aec58f27cf15c36e41abf000495c3822f9f",
-            "message": "Fixed formatting and spelling errors",
+            "messageTitle": "Fixed formatting and spelling errors",
+            "messageBody": "",
             "insertions": 39,
             "deletions": 37
           },
           {
             "hash": "ef406c17280161028b668efefcea88a0cb207bd1",
-            "message": "Updated PPP",
+            "messageTitle": "Updated PPP",
+            "messageBody": "",
             "insertions": 74,
             "deletions": 38
           },
           {
             "hash": "be9e8fb087287c629f828482b752dba8d0d6459c",
-            "message": "Fixed mistakes in PPP",
+            "messageTitle": "Fixed mistakes in PPP",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 4
           },
           {
             "hash": "1739400f0adf2e8ecc0aa00fb9bb7210c0c01883",
-            "message": "Fixed punctuation and spelling errors in PPP",
+            "messageTitle": "Fixed punctuation and spelling errors in PPP",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "9176fc74433b7b24038dd71482768bb1a0cd2746",
-            "message": "Fixed errors in PPP",
+            "messageTitle": "Fixed errors in PPP",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "b891e6e131ebb5b9cde28d52b636ebd28f037097",
-            "message": "Fixed punctuation and mistakes in PPP",
+            "messageTitle": "Fixed punctuation and mistakes in PPP",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "4512f34a9ca8f7f4e086bac38ed58023372ef124",
-            "message": "Updated Developer Guide",
+            "messageTitle": "Updated Developer Guide",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 6
           },
           {
             "hash": "cde9bd72c67e17849fc597578fba934cba7f6a71",
-            "message": "Updated User Guide",
+            "messageTitle": "Updated User Guide",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "0abed03854bb501391e6fcf47b774c1f30fee3cf",
-            "message": "Updated Developer Guide",
+            "messageTitle": "Updated Developer Guide",
+            "messageBody": "",
             "insertions": 36,
             "deletions": 45
           },
           {
             "hash": "91f45513656a336f91ef4b97db5115733c84fca5",
-            "message": "Updated User Guide",
+            "messageTitle": "Updated User Guide",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 24
           }
@@ -1018,19 +1193,22 @@
         "commitResults": [
           {
             "hash": "bf398728b43517c222fd0ee4ca6d29d466ff94d6",
-            "message": "no message",
+            "messageTitle": "no message",
+            "messageBody": "",
             "insertions": 361,
             "deletions": 13
           },
           {
             "hash": "c140866f1e572a115a9a79319b92cca096d98536",
-            "message": "no message",
+            "messageTitle": "no message",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 19
           },
           {
             "hash": "2283a0cf01f29d2b3c149058b7f2bccd041f0b8e",
-            "message": "no message",
+            "messageTitle": "no message",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 85
           }
@@ -1042,16 +1220,32 @@
         "date": "2019-03-04",
         "commitResults": [
           {
+            "hash": "9ab3a9c89f0e60d0e3d097b19b4300e885fc17b3",
+            "messageTitle": "display picture",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
             "hash": "b8eb4d2b39417759f6829dda1372f8ea57729eaf",
-            "message": "updated display picture",
+            "messageTitle": "updated display picture",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "9b5c20f22ba5c255e73ff5ad9d6b7de9ca67270a",
-            "message": "no message",
+            "messageTitle": "no message",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
+          },
+          {
+            "hash": "8b0215a1fce73171eb2b7d8f6303fb537b22b831",
+            "messageTitle": "display picture",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
           }
         ]
       },
@@ -1062,13 +1256,15 @@
         "commitResults": [
           {
             "hash": "1f739a696523889c7360a2074fafc7cdd7fda046",
-            "message": "Update jeminekan.adoc",
+            "messageTitle": "Update jeminekan.adoc",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "58dc46df5a2247a3d054b059e591c1981dd56a79",
-            "message": "Update jeminekan.adoc",
+            "messageTitle": "Update jeminekan.adoc",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 2
           }
@@ -1081,7 +1277,8 @@
         "commitResults": [
           {
             "hash": "52db91333d2034c080f03e4f6f6f1b99d632a60a",
-            "message": "adding 2 new commands, next and previous",
+            "messageTitle": "adding 2 new commands, next and previous",
+            "messageBody": "",
             "insertions": 263,
             "deletions": 15
           }
@@ -1094,13 +1291,15 @@
         "commitResults": [
           {
             "hash": "26bd7ca6eb59ec93fe55dacd43a61a5c9eb0facb",
-            "message": "adding next command and previous command plus travis test changes",
+            "messageTitle": "adding next command and previous command plus travis test changes",
+            "messageBody": "",
             "insertions": 94,
             "deletions": 77
           },
           {
             "hash": "510e5abc88d6a0689138335b2c41dc9ca2729233",
-            "message": "changes to new commands after refactoring",
+            "messageTitle": "changes to new commands after refactoring",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 7
           }
@@ -1113,7 +1312,8 @@
         "commitResults": [
           {
             "hash": "37e980553a8d525fa612b4fbd562057a66d3eb9f",
-            "message": "adding a sort command",
+            "messageTitle": "adding a sort command",
+            "messageBody": "",
             "insertions": 186,
             "deletions": 34
           }
@@ -1126,7 +1326,8 @@
         "commitResults": [
           {
             "hash": "b38b91d326c65d40c23abf4e8b0f8558d4ed52f4",
-            "message": "revised status foot bar UI",
+            "messageTitle": "revised status foot bar UI",
+            "messageBody": "",
             "insertions": 159,
             "deletions": 97
           }
@@ -1139,13 +1340,15 @@
         "commitResults": [
           {
             "hash": "6862978ff4982eea9fa7e18fb6c46f242f90ae1c",
-            "message": "edited difficulty",
+            "messageTitle": "edited difficulty",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "ae49e37be7f08cdcca7228896dd6f3c499ee49c5",
-            "message": "added select subject command",
+            "messageTitle": "added select subject command",
+            "messageBody": "",
             "insertions": 105,
             "deletions": 1
           }
@@ -1158,13 +1361,15 @@
         "commitResults": [
           {
             "hash": "2c28ad7c0999028e3cf0e8f36fea69c716612550",
-            "message": "edited developer guide",
+            "messageTitle": "edited developer guide",
+            "messageBody": "",
             "insertions": 89,
             "deletions": 11
           },
           {
             "hash": "994917342a18c1b8931f7cea074f25bdd9542177",
-            "message": "no message",
+            "messageTitle": "no message",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 17
           }
@@ -1177,25 +1382,29 @@
         "commitResults": [
           {
             "hash": "b9aa75fc7c4150bfaa16175e4da8403366319ab4",
-            "message": "Developer Guide Change",
+            "messageTitle": "Developer Guide Change",
+            "messageBody": "",
             "insertions": 99,
             "deletions": 24
           },
           {
             "hash": "7efe7957e5c61efeea45274c1ed645329f9bae15",
-            "message": "updated",
+            "messageTitle": "updated",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "e6d44b335d85841b37a7ce9422ebf8abafa845af",
-            "message": "no message",
+            "messageTitle": "no message",
+            "messageBody": "",
             "insertions": 31,
             "deletions": 22
           },
           {
             "hash": "a434c87a558b72335fc8e783439434add3c317ce",
-            "message": "Update jeminekan.adoc",
+            "messageTitle": "Update jeminekan.adoc",
+            "messageBody": "",
             "insertions": 130,
             "deletions": 0
           }
@@ -1208,7 +1417,8 @@
         "commitResults": [
           {
             "hash": "dc4d87ee5830b0968c0bfde65dcdf997e2e35072",
-            "message": "amendment in sort command",
+            "messageTitle": "amendment in sort command",
+            "messageBody": "",
             "insertions": 283,
             "deletions": 97
           }
@@ -1221,13 +1431,15 @@
         "commitResults": [
           {
             "hash": "982680c09ec1b436c9c811de2b8ad39b5583317d",
-            "message": "Rename jeminekan.adoc to jemine1998.adoc",
+            "messageTitle": "Rename jeminekan.adoc to jemine1998.adoc",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           },
           {
             "hash": "b8cb49d35e49d2f366aed5d64fe0a98c6ddcdf68",
-            "message": "Update AboutUs.adoc",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -1240,7 +1452,8 @@
         "commitResults": [
           {
             "hash": "c0faef6a51db2260e3d17ddc73552bb4b27ea9cd",
-            "message": "GUI subject",
+            "messageTitle": "GUI subject",
+            "messageBody": "",
             "insertions": 61,
             "deletions": 28
           }
@@ -1253,133 +1466,155 @@
         "commitResults": [
           {
             "hash": "eebc1e08fce0a230bcda428a945833b7b8bac3cb",
-            "message": "ListCommand resolved",
+            "messageTitle": "ListCommand resolved",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "9f1b4105a143de75217afd300a9ea716ce35dcb5",
-            "message": "FindCommand Resolved",
+            "messageTitle": "FindCommand Resolved",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "86c296d9990d4a9dfa93cbd5cd86a6fd500c3f19",
-            "message": "next command resolved",
+            "messageTitle": "next command resolved",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 3
           },
           {
             "hash": "48b4a68b384c2d0150dab67efbdac8074283c465",
-            "message": "previous command resolved",
+            "messageTitle": "previous command resolved",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 1
           },
           {
             "hash": "44cff95cbb01b5725b09e52b2721f74d0b64f577",
-            "message": "Select Command only works after select Subject",
+            "messageTitle": "Select Command only works after select Subject",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 5
           },
           {
             "hash": "04bbd22af9379dc0f694baf1b73ded548237d1d1",
-            "message": "Added getter for selected Subject",
+            "messageTitle": "Added getter for selected Subject",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "669b88a0340c1f6cedb8883758cdb92e2fb0a8e1",
-            "message": "Enable null for access to getFilteredFlashcardList",
+            "messageTitle": "Enable null for access to getFilteredFlashcardList",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "6d2e9a57048116506f39befc06673e3fadad8a35",
-            "message": "Added necessary functions in model manager",
+            "messageTitle": "Added necessary functions in model manager",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 3
           },
           {
             "hash": "a1120d9b679a4502541f3d4338a9d9f0f838cb00",
-            "message": "Sort Resolved",
+            "messageTitle": "Sort Resolved",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 5
           },
           {
             "hash": "00eb2558495c7ba208552e608b7df73eafb7618d",
-            "message": "Edited UserGuide",
+            "messageTitle": "Edited UserGuide",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 90
           },
           {
             "hash": "ae4d92fab948eca95bda5764b5d760d5de47ca0a",
-            "message": "updated dev guide",
+            "messageTitle": "updated dev guide",
+            "messageBody": "",
             "insertions": 63,
             "deletions": 54
           },
           {
             "hash": "013393034ad991c65c5736b596715a41c1c9f70c",
-            "message": "Updated Dev Guide with use cases and stories",
+            "messageTitle": "Updated Dev Guide with use cases and stories",
+            "messageBody": "",
             "insertions": 44,
             "deletions": 0
           },
           {
             "hash": "4785a35ad85a3d02adf3c06edfe882cc5c80a258",
-            "message": "Amendments to pass checkStyle",
+            "messageTitle": "Amendments to pass checkStyle",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 140
           },
           {
             "hash": "93fe9968e3ae2870a73c283fad592212e6f43b30",
-            "message": "PPP update",
+            "messageTitle": "PPP update",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 2
           },
           {
             "hash": "d7cb850c738f5f22f2851ab0063b2af44e62d1ba",
-            "message": "no message",
+            "messageTitle": "no message",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "158d27ee360ae989fcf92d7fa8d4bea15a94ea5b",
-            "message": "updating and creating test",
+            "messageTitle": "updating and creating test",
+            "messageBody": "",
             "insertions": 131,
             "deletions": 72
           },
           {
             "hash": "53187a0270fd7518cbe216b8a78effe5700c3b90",
-            "message": "new changes",
+            "messageTitle": "new changes",
+            "messageBody": "",
             "insertions": 111,
             "deletions": 216
           },
           {
             "hash": "2c037ea8f8b53a30fa8a63826b3ae3e5e9e3aca9",
-            "message": "Updated",
+            "messageTitle": "Updated",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 10
           },
           {
             "hash": "d92e8896645ed62463c8f4b72255376f9000d2ff",
-            "message": "Update AboutUs.adoc",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "18510c61254bb55ea63f67efdd3b7219e48b594e",
-            "message": "update Jemine1998.adoc",
+            "messageTitle": "update Jemine1998.adoc",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 3
           },
           {
             "hash": "a8be47bd921b9d5e5b88b0ce484b15a53a85de82",
-            "message": "updated documentation",
+            "messageTitle": "updated documentation",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 33
           },
           {
             "hash": "7a2046988061fb01e3aac2eea6cde615af5c166e",
-            "message": "Update UserGuide.adoc",
+            "messageTitle": "Update UserGuide.adoc",
+            "messageBody": "",
             "insertions": 30,
             "deletions": 0
           }
@@ -1394,7 +1629,8 @@
         "commitResults": [
           {
             "hash": "694d0fb73a69da01e8b9641abedef4b64cbf5e0c",
-            "message": "testing push commit, should be linked to Travis build",
+            "messageTitle": "testing push commit, should be linked to Travis build",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           }
@@ -1407,7 +1643,8 @@
         "commitResults": [
           {
             "hash": "ff51f87e533ebcc26a1521fbdc289e935570c392",
-            "message": "Update Developer Guide",
+            "messageTitle": "Update Developer Guide",
+            "messageBody": "Updated:\r\n- Target User Profile\r\n- Value Propositions\r\n- User Stories\r\n- Implementation",
             "insertions": 59,
             "deletions": 22
           }
@@ -1420,37 +1657,43 @@
         "commitResults": [
           {
             "hash": "f7d4740b9e60dadff1ad357ed9ea8d17b376fbce",
-            "message": "Update Developer Guide (2)",
+            "messageTitle": "Update Developer Guide (2)",
+            "messageBody": "Updated: \r\n- Use Cases\r\n- Non-functional Requirements",
             "insertions": 110,
             "deletions": 10
           },
           {
             "hash": "096e30995646e4984708151b9da775cd89722eb5",
-            "message": "Update About Us",
+            "messageTitle": "Update About Us",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 28
           },
           {
             "hash": "7d003b963f7adea72dcbed70dbd9e8b7a832772d",
-            "message": "Update About Us (2)",
+            "messageTitle": "Update About Us (2)",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "32c4cad29a07d64f955f33462e654fa36ad6f0f0",
-            "message": "Update Contact Us",
+            "messageTitle": "Update Contact Us",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "a901a0fcd7427d5553d18aee14776e1f7b3d69c7",
-            "message": "Update Read Me",
+            "messageTitle": "Update Read Me",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 5
           },
           {
             "hash": "787a7f127bb9bfd22f4512d2f2bcf5662d599e8e",
-            "message": "Update Developer Guide (3)",
+            "messageTitle": "Update Developer Guide (3)",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -1463,25 +1706,29 @@
         "commitResults": [
           {
             "hash": "0648efd29af5a9b861b6b85f8576321c6adc473b",
-            "message": "Revert to Original",
+            "messageTitle": "Revert to Original",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 4
           },
           {
             "hash": "60169f746a1e3985366943bd68f8f9fd0f798d09",
-            "message": "Revert to Original",
+            "messageTitle": "Revert to Original",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 170
           },
           {
             "hash": "da3158451ea45a12f37cd14079f7b63397dc4882",
-            "message": "Revert to Original",
+            "messageTitle": "Revert to Original",
+            "messageBody": "",
             "insertions": 29,
             "deletions": 11
           },
           {
             "hash": "578b15e9b02d9f8c7d9b1de5c12c69e95d6887c1",
-            "message": "Revert to Original",
+            "messageTitle": "Revert to Original",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -1494,37 +1741,43 @@
         "commitResults": [
           {
             "hash": "2a3d4f492077a06dc9bb2b1519de83bbcd28f941",
-            "message": "Updated: - build.gradle (FlashCards \u0026 url) - README (FlashCards \u0026 Travis \u0026 Coveralls) - DeveloperGuide (repoURL) - UserGuide (repoURL)",
+            "messageTitle": "Updated: - build.gradle (FlashCards \u0026 url) - README (FlashCards \u0026 Travis \u0026 Coveralls) - DeveloperGuide (repoURL) - UserGuide (repoURL)",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 11
           },
           {
             "hash": "2100e3256ad9562ca9992851a0d400b974712d9c",
-            "message": "Revert \"Updates:\"",
+            "messageTitle": "Revert \"Updates:\"",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 10
           },
           {
             "hash": "044876cf771b9b33096dcd02df666ef5f26c17f4",
-            "message": "Update build.gradle (site name \u0026 url)",
+            "messageTitle": "Update build.gradle (site name \u0026 url)",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "191073a863a6e19d1773a89f1eea70a4928caacf",
-            "message": "Update Read Me (repoURL)",
+            "messageTitle": "Update Read Me (repoURL)",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 7
           },
           {
             "hash": "1d19070eac8d040a98098cbea0925afb292fd010",
-            "message": "Update Developer Guide (repoURL)",
+            "messageTitle": "Update Developer Guide (repoURL)",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "7167e2becc0e6e255c452787ab25e4150b57be25",
-            "message": "Update User Guide (repoURL)",
+            "messageTitle": "Update User Guide (repoURL)",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -1537,31 +1790,36 @@
         "commitResults": [
           {
             "hash": "c8c57d4709cfffc43263447686a3fc30a35349e9",
-            "message": "Update Developer Guide",
+            "messageTitle": "Update Developer Guide",
+            "messageBody": "",
             "insertions": 175,
             "deletions": 33
           },
           {
             "hash": "6dd3358f98590fa7ab7e85605c3f087cd48864df",
-            "message": "Logic: Add Alias for Find, Clear, Delete, Edit and List Commands",
+            "messageTitle": "Logic: Add Alias for Find, Clear, Delete, Edit and List Commands",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 0
           },
           {
             "hash": "846e8e50cdcddda242ae3115e2d17aae1f4a6363",
-            "message": "Logic: Add Tests for Commands",
+            "messageTitle": "Logic: Add Tests for Commands",
+            "messageBody": "",
             "insertions": 52,
             "deletions": 0
           },
           {
             "hash": "4cff44951fe6fa717b1a673305ccc33db52c3d42",
-            "message": "Logic: Add Alias in User Guide",
+            "messageTitle": "Logic: Add Alias in User Guide",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "acc4b44aa2df2578aa0a6b9eb849b9a7641faecf",
-            "message": "Logic: Add Alias in User Guide (2)",
+            "messageTitle": "Logic: Add Alias in User Guide (2)",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 11
           }
@@ -1574,7 +1832,8 @@
         "commitResults": [
           {
             "hash": "5514f7f44e12e71eb4088eeeebca3b449d7dd674",
-            "message": "Global - Add a Deadline/Exams Command",
+            "messageTitle": "Global - Add a Deadline/Exams Command",
+            "messageBody": "",
             "insertions": 601,
             "deletions": 33
           }
@@ -1587,7 +1846,8 @@
         "commitResults": [
           {
             "hash": "bd02a7448c2bef787943f19b8d88090d79598bf5",
-            "message": "Global - Add a Deadline/Exam Command",
+            "messageTitle": "Global - Add a Deadline/Exam Command",
+            "messageBody": "",
             "insertions": 47,
             "deletions": 70
           }
@@ -1600,19 +1860,22 @@
         "commitResults": [
           {
             "hash": "c8eed61e94a89425c6636d02fd94f4cd464bb087",
-            "message": "Updated photo for project list, aboutus, contactus and user guide",
+            "messageTitle": "Updated photo for project list, aboutus, contactus and user guide",
+            "messageBody": "",
             "insertions": 94,
             "deletions": 78
           },
           {
             "hash": "97f930e0beacb56e10fe712f81cbabb2f1cda6b1",
-            "message": "Update photo for project list",
+            "messageTitle": "Update photo for project list",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "87b1e2b5356986425a6c1c4c44ec34c1d9a66b28",
-            "message": "Update dannicaong.adoc",
+            "messageTitle": "Update dannicaong.adoc",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           }
@@ -1625,7 +1888,8 @@
         "commitResults": [
           {
             "hash": "2858dd22b066159ba6e3a9b4c55a175e449f626b",
-            "message": "Remove coveralls badge",
+            "messageTitle": "Remove coveralls badge",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -1638,7 +1902,8 @@
         "commitResults": [
           {
             "hash": "b3b179816428fec6d4a3c975cfaaf684b3b08261",
-            "message": "Update User Guide (preface \u0026 outcomes)",
+            "messageTitle": "Update User Guide (preface \u0026 outcomes)",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 1
           }
@@ -1651,7 +1916,8 @@
         "commitResults": [
           {
             "hash": "8521928f9044b807495e5bc3e72c6794a4346a92",
-            "message": "Added new StackPane for cardPlaceholder",
+            "messageTitle": "Added new StackPane for cardPlaceholder",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 4
           }
@@ -1664,7 +1930,8 @@
         "commitResults": [
           {
             "hash": "693a12b89f8e152e280e7093b7312abd962c7926",
-            "message": "Update Developer Guide (Shelf-Life of FlashCards)",
+            "messageTitle": "Update Developer Guide (Shelf-Life of FlashCards)",
+            "messageBody": "Enhancement added: Deadline/Exam Command\r\nMinor additions of how the feature is implemented and alternatives.",
             "insertions": 25,
             "deletions": 22
           }
@@ -1677,118 +1944,136 @@
         "commitResults": [
           {
             "hash": "7e2d99d1e12dffc14551d700348cc09d5aeb72a9",
-            "message": "Revert Developer Guide",
+            "messageTitle": "Revert Developer Guide",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 25
           },
           {
             "hash": "6c3e6253a32e9e4a34c720822a3f03a838eb0ce0",
-            "message": "Update Developer Guide (Shelf-Life of FlashCards)",
+            "messageTitle": "Update Developer Guide (Shelf-Life of FlashCards)",
+            "messageBody": "",
             "insertions": 24,
             "deletions": 22
           }
         ]
       },
       {
-        "insertions": 2396,
-        "deletions": 2370,
+        "insertions": 2402,
+        "deletions": 2376,
         "date": "2019-03-21",
         "commitResults": [
           {
             "hash": "44586895d52c49fa6480a0d74ae824bd864c536c",
-            "message": "Refactored Subjects in SystemTests to Flashcards",
+            "messageTitle": "Refactored Subjects in SystemTests to Flashcards",
+            "messageBody": "",
             "insertions": 297,
             "deletions": 289
           },
           {
             "hash": "c7e5c27a0d921eb8e57ac866eb4d29a8ce037f08",
-            "message": "Refactored Subjects in Logic to Flashcards",
+            "messageTitle": "Refactored Subjects in Logic to Flashcards",
+            "messageBody": "",
             "insertions": 175,
             "deletions": 173
           },
           {
             "hash": "2165704ce5be91278488c9b64ca1ac19822b1580",
-            "message": "Refactored Subjects in Commons to Flashcards",
+            "messageTitle": "Refactored Subjects in Commons to Flashcards",
+            "messageBody": "",
             "insertions": 30,
             "deletions": 30
           },
           {
             "hash": "d9adf99852e847477ceb968d44e163883fd802ec",
-            "message": "Refactored Subjects in Model to Flashcards",
+            "messageTitle": "Refactored Subjects in Model to Flashcards",
+            "messageBody": "",
             "insertions": 320,
             "deletions": 320
           },
           {
             "hash": "5340a19515da292d4e131d9e8b03afb5a9c48724",
-            "message": "Refactored Subjects in Storage to Flashcards",
+            "messageTitle": "Refactored Subjects in Storage to Flashcards",
+            "messageBody": "",
             "insertions": 36,
             "deletions": 35
           },
           {
             "hash": "9c430d5ddb35df333c16988d9e68e83958d33d8c",
-            "message": "Refactored Subjects in UI to Flashcards",
+            "messageTitle": "Refactored Subjects in UI to Flashcards",
+            "messageBody": "",
             "insertions": 115,
             "deletions": 114
           },
           {
             "hash": "a4c9891d1fe752594444ccb5c1cd4bd05ad750a7",
-            "message": "Refactored Subjects in test/data to Flashcards",
+            "messageTitle": "Refactored Subjects in test/data to Flashcards",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 9
           },
           {
             "hash": "77c54962adc199b5fb5ffe73e004a1cd10bf9acd",
-            "message": "Refactored Subjects in Guitests to Flashcards",
+            "messageTitle": "Refactored Subjects in Guitests to Flashcards",
+            "messageBody": "",
             "insertions": 68,
             "deletions": 67
           },
           {
             "hash": "aba9eaa7879b5a36b37948dc252b151f38d0636f",
-            "message": "Refactored Subjects in test/UI to Flashcards",
+            "messageTitle": "Refactored Subjects in test/UI to Flashcards",
+            "messageBody": "",
             "insertions": 211,
             "deletions": 208
           },
           {
             "hash": "9fa970ce4c6695099c5872f9e30f1e91a0610979",
-            "message": "Refactored Subjects in TestUtil to Flashcards",
+            "messageTitle": "Refactored Subjects in TestUtil to Flashcards",
+            "messageBody": "",
             "insertions": 246,
             "deletions": 246
           },
           {
             "hash": "1a7f407e206c05ec846be95a1b3db763c905840c",
-            "message": "Refactored Subjects in test/storage to Flashcards",
+            "messageTitle": "Refactored Subjects in test/storage to Flashcards",
+            "messageBody": "",
             "insertions": 47,
             "deletions": 47
           },
           {
             "hash": "cbbd06a3f944609c890676fe6db6fdc798c9fc49",
-            "message": "Refactored Subjects in test/model to Flashcards",
+            "messageTitle": "Refactored Subjects in test/model to Flashcards",
+            "messageBody": "",
             "insertions": 315,
             "deletions": 314
           },
           {
             "hash": "0498b5276a8d75a6b4ac00f16d3b6780a5719ec6",
-            "message": "Refactored Subjects in test/logic to Flashcards",
+            "messageTitle": "Refactored Subjects in test/logic to Flashcards",
+            "messageBody": "",
             "insertions": 437,
             "deletions": 429
           },
           {
             "hash": "49d4e1256eb916a93f9f85385d0a14e9d8c5fd69",
-            "message": "Refactored Subjects in remaining tests to Flashcards",
+            "messageTitle": "Refactored Subjects in remaining tests to Flashcards",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 8
           },
           {
             "hash": "effdce9fb9ba66f89f8528a4d86330e0ced744ab",
-            "message": "Refactored Subjects in Resources to Flashcards",
+            "messageTitle": "Refactored Subjects in Resources to Flashcards",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "1be04a9c2842bb7a5ccd7aa4ae697c52df830029",
-            "message": "Refactored Subjects in Docs to Flashcards",
-            "insertions": 77,
-            "deletions": 76
+            "messageTitle": "Refactored Subjects in Docs to Flashcards",
+            "messageBody": "",
+            "insertions": 83,
+            "deletions": 82
           }
         ]
       },
@@ -1799,85 +2084,99 @@
         "commitResults": [
           {
             "hash": "bba5d203f0239c642295adb32e2890c972a3038e",
-            "message": "Refactored Name in Logic to Topic",
+            "messageTitle": "Refactored Name in Logic to Topic",
+            "messageBody": "",
             "insertions": 43,
             "deletions": 43
           },
           {
             "hash": "118331d06c249c4fd8d22a2354a319056361d8cb",
-            "message": "Refactored Name in Model to Topic",
+            "messageTitle": "Refactored Name in Model to Topic",
+            "messageBody": "",
             "insertions": 41,
             "deletions": 41
           },
           {
             "hash": "d06113b5a9a9e60b4c90e039c4999d56f70d613f",
-            "message": "Refactored Name in Storage to Topic",
+            "messageTitle": "Refactored Name in Storage to Topic",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 11
           },
           {
             "hash": "f0c3166b7a5e6a94650606ed8a7751f97a939002",
-            "message": "Refactored Name in UI to Topic",
+            "messageTitle": "Refactored Name in UI to Topic",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "cb5cad415d1d7ae8413f7fd6d4ccda1a5419068d",
-            "message": "Refactored Name in Resources to Topic",
+            "messageTitle": "Refactored Name in Resources to Topic",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "7d75ded354696d5ebc4536cd398067cbfa7d64b2",
-            "message": "Refactored Name in Systemtests to Topic",
+            "messageTitle": "Refactored Name in Systemtests to Topic",
+            "messageBody": "",
             "insertions": 62,
             "deletions": 62
           },
           {
             "hash": "deddec00c511e9a8af0a995cc65feb8a722ae194",
-            "message": "Refactored Name in test/UI to Topic",
+            "messageTitle": "Refactored Name in test/UI to Topic",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 9
           },
           {
             "hash": "935d3b852e9ee32eadc97fe625ea798ec6019984",
-            "message": "Refactored Name in Testutil to Topic",
+            "messageTitle": "Refactored Name in Testutil to Topic",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 33
           },
           {
             "hash": "972390a5094d03b5b96c5a1d55829883452e4e74",
-            "message": "Refactored Name in test/Storage to Topic",
+            "messageTitle": "Refactored Name in test/Storage to Topic",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 15
           },
           {
             "hash": "d487e7bef32f439575919234043441997200c81e",
-            "message": "Refactored Name in test/Model to Topic",
+            "messageTitle": "Refactored Name in test/Model to Topic",
+            "messageBody": "",
             "insertions": 127,
             "deletions": 127
           },
           {
             "hash": "9a252da8e20baf4a1db76da10514d8eb81d1fb5e",
-            "message": "Refactored Name in test/Logic to Topic",
+            "messageTitle": "Refactored Name in test/Logic to Topic",
+            "messageBody": "",
             "insertions": 99,
             "deletions": 99
           },
           {
             "hash": "165f5c94cec037600c920cae3735788cb26cb0c0",
-            "message": "Refactored Name in remaining tests to Topic",
+            "messageTitle": "Refactored Name in remaining tests to Topic",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 13
           },
           {
             "hash": "d0348b6d35fd193569fbffdcae058ac78ad67ab1",
-            "message": "Refactored Name in Guitests to Topic",
+            "messageTitle": "Refactored Name in Guitests to Topic",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "37a562b148b3fd3066e82a685394a68840832470",
-            "message": "Refactored Name in test/Commons to Topic",
+            "messageTitle": "Refactored Name in test/Commons to Topic",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -1890,7 +2189,8 @@
         "commitResults": [
           {
             "hash": "b4c4cbeaf44e1a629abc5b140c16cf0363b1901e",
-            "message": "Changes to comply with Checkstyle tests",
+            "messageTitle": "Changes to comply with Checkstyle tests",
+            "messageBody": "",
             "insertions": 50,
             "deletions": 48
           }
@@ -1903,229 +2203,267 @@
         "commitResults": [
           {
             "hash": "250747f3477bc6f08927b637afc9ea756efe6125",
-            "message": "Refactored Phone in Logic to Difficulty",
+            "messageTitle": "Refactored Phone in Logic to Difficulty",
+            "messageBody": "",
             "insertions": 42,
             "deletions": 38
           },
           {
             "hash": "60f2e86603d3a3be18c9a47d448580a1a7ef9c46",
-            "message": "Refactored Phone in Model to Difficulty",
+            "messageTitle": "Refactored Phone in Model to Difficulty",
+            "messageBody": "",
             "insertions": 73,
             "deletions": 71
           },
           {
             "hash": "e90074b1af6158879c611edc9388841059d1ef0e",
-            "message": "Refactored Phone in Storage to Difficulty",
+            "messageTitle": "Refactored Phone in Storage to Difficulty",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 11
           },
           {
             "hash": "7aafc85f108bd48651cedc80276f0b180449b5d0",
-            "message": "Refactored Phone in UI to Difficulty",
+            "messageTitle": "Refactored Phone in UI to Difficulty",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "759e8c27d82d10a5ab6f74f9675c4865f89afc2a",
-            "message": "Refactored Phone in Resources to Difficulty",
+            "messageTitle": "Refactored Phone in Resources to Difficulty",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "46990f0aad9ca4ad9bc1fffd3c5be00f1776b4cb",
-            "message": "Refactored Phone in test/Logic to Difficulty",
+            "messageTitle": "Refactored Phone in test/Logic to Difficulty",
+            "messageBody": "",
             "insertions": 100,
             "deletions": 89
           },
           {
             "hash": "2df57f5864c439e2beebf2133ee2f9a85d4a0862",
-            "message": "Refactored Phone in test/Model to Difficulty",
+            "messageTitle": "Refactored Phone in test/Model to Difficulty",
+            "messageBody": "",
             "insertions": 51,
             "deletions": 51
           },
           {
             "hash": "2f1dc43775f79dd482fb857d07c343333fe1e0e6",
-            "message": "Refactored Phone in SystemTests to Difficulty",
+            "messageTitle": "Refactored Phone in SystemTests to Difficulty",
+            "messageBody": "",
             "insertions": 63,
             "deletions": 46
           },
           {
             "hash": "b2b78ddf76dee323476959f1824233c3592aaf98",
-            "message": "Refactored Phone in test/Storage to Difficulty",
+            "messageTitle": "Refactored Phone in test/Storage to Difficulty",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 15
           },
           {
             "hash": "db3e6c21d59c8ac51ed5b21b1c5a9f9c39141072",
-            "message": "Refactored Phone in TestUtils to Difficulty",
+            "messageTitle": "Refactored Phone in TestUtils to Difficulty",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 30
           },
           {
             "hash": "5721dc360248ca280979dd79c09c7193736ef782",
-            "message": "Refactored Phone in test/UI to Difficulty",
+            "messageTitle": "Refactored Phone in test/UI to Difficulty",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "2b56bc5f090fbff53acad0ca6e380f861db42f1b",
-            "message": "Refactored Phone in remaining tests to Difficulty",
+            "messageTitle": "Refactored Phone in remaining tests to Difficulty",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 19
           },
           {
             "hash": "0112f35b274d5a42762c1011d3b8cb676c770fe8",
-            "message": "Refactored Address Book in SystemTests to Flash Book",
+            "messageTitle": "Refactored Address Book in SystemTests to Flash Book",
+            "messageBody": "",
             "insertions": 95,
             "deletions": 95
           },
           {
             "hash": "47739abb56563544a1d3dfc66317c42d96f65236",
-            "message": "Refactored Address Book in test/UI to Flash Book",
+            "messageTitle": "Refactored Address Book in test/UI to Flash Book",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "371daeec27481be80686974f989008250cb75682",
-            "message": "Refactored Address Book in TestUtil to Flash Book",
+            "messageTitle": "Refactored Address Book in TestUtil to Flash Book",
+            "messageBody": "",
             "insertions": 38,
             "deletions": 38
           },
           {
             "hash": "faf6c6389f563d7b509c72cedbb427a529caf7e6",
-            "message": "Refactored Address Book in test/Storage to Flash Book",
+            "messageTitle": "Refactored Address Book in test/Storage to Flash Book",
+            "messageBody": "",
             "insertions": 155,
             "deletions": 155
           },
           {
             "hash": "e07a30b8a46a4fa4b5e066fa75b948d6cbf33cad",
-            "message": "Refactored Address Book in test/Model to Flash Book",
+            "messageTitle": "Refactored Address Book in test/Model to Flash Book",
+            "messageBody": "",
             "insertions": 349,
             "deletions": 349
           },
           {
             "hash": "691e5a5c9dfde5fb306b704a0294db0ce6652def",
-            "message": "Refactored Address Book in test/Logic to Flash Book",
+            "messageTitle": "Refactored Address Book in test/Logic to Flash Book",
+            "messageBody": "",
             "insertions": 143,
             "deletions": 143
           },
           {
             "hash": "e0ac6a5487fb224b43713181201478e082f1b860",
-            "message": "Refactored Address Book in remaining tests to Flash Book",
+            "messageTitle": "Refactored Address Book in remaining tests to Flash Book",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 17
           },
           {
             "hash": "925629b216e87a342eac06891ead76507b5d5698",
-            "message": "Refactored Address Book in UI to Flash Book",
+            "messageTitle": "Refactored Address Book in UI to Flash Book",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 7
           },
           {
             "hash": "88330f47c02344eae737468de613ccaba2685a4a",
-            "message": "Refactored Address Book in Storage to Flash Book",
+            "messageTitle": "Refactored Address Book in Storage to Flash Book",
+            "messageBody": "",
             "insertions": 103,
             "deletions": 102
           },
           {
             "hash": "143485c12def63bd9db3326fd7b95e1288d5c01f",
-            "message": "Refactored Address Book in Model to Flash Book",
+            "messageTitle": "Refactored Address Book in Model to Flash Book",
+            "messageBody": "",
             "insertions": 210,
             "deletions": 210
           },
           {
             "hash": "1bab1088e437768551c3d1b255dadc945ab8e2ae",
-            "message": "Refactored Address Book in Logic to Flash Book",
+            "messageTitle": "Refactored Address Book in Logic to Flash Book",
+            "messageBody": "",
             "insertions": 45,
             "deletions": 45
           },
           {
             "hash": "d0a51ce5609de53561e6c9cdb749c9c027a8ad97",
-            "message": "Refactored Address Book in MainApp \u0026 Commons to Flash Book",
+            "messageTitle": "Refactored Address Book in MainApp \u0026 Commons to Flash Book",
+            "messageBody": "",
             "insertions": 42,
             "deletions": 42
           },
           {
             "hash": "f030b8128b17cd1b1c7d953b5d168ba8aa8704ca",
-            "message": "Refactored Address in SystemTests to Content",
+            "messageTitle": "Refactored Address in SystemTests to Content",
+            "messageBody": "",
             "insertions": 40,
             "deletions": 40
           },
           {
             "hash": "15344380dee56370f907da1a596af750d58990cd",
-            "message": "Refactored Address in test/UI to Content",
+            "messageTitle": "Refactored Address in test/UI to Content",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "f35628ee3c4f76fc0aa242e6aeea15ba957de13e",
-            "message": "Refactored Address in TestUtil to Content",
+            "messageTitle": "Refactored Address in TestUtil to Content",
+            "messageBody": "",
             "insertions": 30,
             "deletions": 30
           },
           {
             "hash": "188eeb101a9021a9cbbdd79b691cf004528243ca",
-            "message": "Refactored Address in test/Storage to Content",
+            "messageTitle": "Refactored Address in test/Storage to Content",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 15
           },
           {
             "hash": "62c05e991bc31606895fcf97c19811189a9ac106",
-            "message": "Refactored Address in test/Model to Content",
+            "messageTitle": "Refactored Address in test/Model to Content",
+            "messageBody": "",
             "insertions": 52,
             "deletions": 51
           },
           {
             "hash": "3540b07975ed3dbbecb1a984eb45e02aa4b43b8e",
-            "message": "Refactored Address in test/Logic to Content",
+            "messageTitle": "Refactored Address in test/Logic to Content",
+            "messageBody": "",
             "insertions": 75,
             "deletions": 75
           },
           {
             "hash": "f9a78395d523fff4657b4790019a9622078bbf15",
-            "message": "Refactored Address in remaining tests to Content",
+            "messageTitle": "Refactored Address in remaining tests to Content",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 19
           },
           {
             "hash": "8c363b3a30815bf860f6143b29368c8f522c2704",
-            "message": "Refactored Address in Resources to Content",
+            "messageTitle": "Refactored Address in Resources to Content",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "d671ee7b48383f124d34253f1b00936da5f9dbce",
-            "message": "Refactored Address in UI to Content",
+            "messageTitle": "Refactored Address in UI to Content",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "4680379faa91672100a414e774e317aa98dc82a3",
-            "message": "Refactored Address in Storage to Content",
+            "messageTitle": "Refactored Address in Storage to Content",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 11
           },
           {
             "hash": "52c66715127bd9455aa3e41f315b5f7df3940803",
-            "message": "Refactored Address in Model to Content",
+            "messageTitle": "Refactored Address in Model to Content",
+            "messageBody": "",
             "insertions": 32,
             "deletions": 32
           },
           {
             "hash": "fdad345918ed2af45c4b95c8841ef4c7b4602dbd",
-            "message": "Refactored Address in Logic to Content",
+            "messageTitle": "Refactored Address in Logic to Content",
+            "messageBody": "",
             "insertions": 38,
             "deletions": 38
           },
           {
             "hash": "ddefd155478839392dccce4b9cde2c8827d8c6a2",
-            "message": "Update Docs after refactoring",
+            "messageTitle": "Update Docs after refactoring",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 17
           },
           {
             "hash": "a43dedf4b0c227525d0fc6ec76c8d584d3c3ba60",
-            "message": "Delete Email Field",
+            "messageTitle": "Delete Email Field",
+            "messageBody": "",
             "insertions": 159,
             "deletions": 562
           }
@@ -2138,7 +2476,8 @@
         "commitResults": [
           {
             "hash": "3a0d23c13fedc378b4e5dc577c62b438f00d451b",
-            "message": "GUI layout for Right Most Panel",
+            "messageTitle": "GUI layout for Right Most Panel",
+            "messageBody": "",
             "insertions": 409,
             "deletions": 13
           }
@@ -2151,19 +2490,22 @@
         "commitResults": [
           {
             "hash": "803fa5067a1de4691e7688320cae24f406f17f0c",
-            "message": "GUI display of Topic and Content",
+            "messageTitle": "GUI display of Topic and Content",
+            "messageBody": "",
             "insertions": 125,
             "deletions": 269
           },
           {
             "hash": "2e4f808ef1ee6d57822276075feb5eaa8580a348",
-            "message": "Changes to comply with CheckStyle tests.",
+            "messageTitle": "Changes to comply with CheckStyle tests.",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 40
           },
           {
             "hash": "d5a8f0723727d364da115d54d6f96caa03cce3b7",
-            "message": "Update Developer Guide",
+            "messageTitle": "Update Developer Guide",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 4
           }
@@ -2176,31 +2518,36 @@
         "commitResults": [
           {
             "hash": "7ad48dd3627e9303a645f049851a2288f5dbe86f",
-            "message": "Change colours of GUI display in the last panel",
+            "messageTitle": "Change colours of GUI display in the last panel",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 4
           },
           {
             "hash": "f24ed3333d75db391d8296ca43c9a0e19c447470",
-            "message": "Update Developer Guide 2",
+            "messageTitle": "Update Developer Guide 2",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 9
           },
           {
             "hash": "08a3d2fd8ed00f7d59a9ea190833d63cf5f594d4",
-            "message": "Update docs for submission v1.3",
+            "messageTitle": "Update docs for submission v1.3",
+            "messageBody": "",
             "insertions": 69,
             "deletions": 41
           },
           {
             "hash": "8ed4e5a26e97bdd9077ba81b232497ee24e61a04",
-            "message": "Changes to comply with checkstyle tests",
+            "messageTitle": "Changes to comply with checkstyle tests",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "cda6e7276b5214511d8011a2ed109e0a072d6304",
-            "message": "Update UserGuide.adoc",
+            "messageTitle": "Update UserGuide.adoc",
+            "messageBody": "Update UI image",
             "insertions": 1,
             "deletions": 1
           }
@@ -2213,7 +2560,8 @@
         "commitResults": [
           {
             "hash": "e3892e698256bbf7951f7481174eefbe0e0df840",
-            "message": "test",
+            "messageTitle": "test",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -2226,31 +2574,36 @@
         "commitResults": [
           {
             "hash": "137d44fe6986398e749a9f6e92ca945c030e4884",
-            "message": "Resolve init and nullpointer exception error",
+            "messageTitle": "Resolve init and nullpointer exception error",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 14
           },
           {
             "hash": "a29bd970ca4e8ca0f20adb0786d8f5cbcc926aba",
-            "message": "GUI updates",
+            "messageTitle": "GUI updates",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "a75b01b3f15d09772364d00e6ee28872f7e685be",
-            "message": "Add Sample Flashcards for Sample Flashbook",
+            "messageTitle": "Add Sample Flashcards for Sample Flashbook",
+            "messageBody": "",
             "insertions": 119,
             "deletions": 6
           },
           {
             "hash": "3c02468daa79c84c51b80d9525550c3283ef0fd7",
-            "message": "Update PPP dannong.adoc",
+            "messageTitle": "Update PPP dannong.adoc",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           },
           {
             "hash": "31125aa2d2e5c6cf97fb92b8ec50fa74a73cb7f6",
-            "message": "Add User Stories to Developer Guide",
+            "messageTitle": "Add User Stories to Developer Guide",
+            "messageBody": "",
             "insertions": 32,
             "deletions": 9
           }
@@ -2263,25 +2616,29 @@
         "commitResults": [
           {
             "hash": "e858d50340d2476842f7175eac2bd8e14e7854c3",
-            "message": "Update GUI",
+            "messageTitle": "Update GUI",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 22
           },
           {
             "hash": "f80c7c35923fa993f334f3bdadd62558eb907d62",
-            "message": "GUI updates (Display of only topic or content at a time)",
+            "messageTitle": "GUI updates (Display of only topic or content at a time)",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 0
           },
           {
             "hash": "bedb41d8660ce96de0e6742d272978b98e3960d7",
-            "message": "GUI buttons update + Display Message",
+            "messageTitle": "GUI buttons update + Display Message",
+            "messageBody": "",
             "insertions": 131,
             "deletions": 14
           },
           {
             "hash": "405bbe0652608b7fb82c9961fd75f035a9b38004",
-            "message": "Added MnemonicParsing for Buttons",
+            "messageTitle": "Added MnemonicParsing for Buttons",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           }
@@ -2294,121 +2651,141 @@
         "commitResults": [
           {
             "hash": "fd45b6ba94d4ff775138879347f7e7b41b4d3ff7",
-            "message": "Changed font size of the right panel display",
+            "messageTitle": "Changed font size of the right panel display",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 27
           },
           {
             "hash": "240c1c2a713e630059b97a875785dd0264439635",
-            "message": "GUI font updates",
+            "messageTitle": "GUI font updates",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 7
           },
           {
             "hash": "ec9200b742ab8908ec55ae5680b7fad5a74bce29",
-            "message": "Remove Content Label in FlashcardCard",
+            "messageTitle": "Remove Content Label in FlashcardCard",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "57aa70dee0c41f8551fad8269df8a81c7e5cfd78",
-            "message": "Add Difficulty Level before Difficulty",
+            "messageTitle": "Add Difficulty Level before Difficulty",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "7952e5faf3a9a0a3068d22542fca4cbbdc904c3b",
-            "message": "Fix tests",
+            "messageTitle": "Fix tests",
+            "messageBody": "",
             "insertions": 63,
             "deletions": 48
           },
           {
             "hash": "b07cb42f796db00089f9e8d2401cad59ad906398",
-            "message": "Upgrade Deadline",
+            "messageTitle": "Upgrade Deadline",
+            "messageBody": "",
             "insertions": 79,
             "deletions": 7
           },
           {
             "hash": "21668f6d451d8f705ef8c0d43aed634e47efafad",
-            "message": "Update Deadline Command",
+            "messageTitle": "Update Deadline Command",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 1
           },
           {
             "hash": "0d3b7be0448d89aec63832f95cd968bbad13bcd9",
-            "message": "Update Deadline Command 2",
+            "messageTitle": "Update Deadline Command 2",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 79
           },
           {
             "hash": "7c5c81bf07d06b1ed6fdf292713d8ee39fcfe0e9",
-            "message": "Fix checkstyle",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "9eb4ddc6776858ddb0b7b978bfc6b9ca09a46751",
-            "message": "Add Note Alias to Deadline Command",
+            "messageTitle": "Add Note Alias to Deadline Command",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "32bcb78b36e469a7316ad40e2b6a349deec6473e",
-            "message": "Add deleteSubject Command",
+            "messageTitle": "Add deleteSubject Command",
+            "messageBody": "",
             "insertions": 118,
             "deletions": 2
           },
           {
             "hash": "9582ad864eae7b809ad09b42e7dc86c0465b06ab",
-            "message": "Update README, UG with UIFINAL.png",
+            "messageTitle": "Update README, UG with UIFINAL.png",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "f46ff2b72a38cb1fbdab3c1ce243d6ed49859558",
-            "message": "Update Developer Guide",
+            "messageTitle": "Update Developer Guide",
+            "messageBody": "",
             "insertions": 56,
             "deletions": 46
           },
           {
             "hash": "9880ccea4a0add5678c736ffc522e99c09cf60f4",
-            "message": "Update Developer Guide",
+            "messageTitle": "Update Developer Guide",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 4
           },
           {
             "hash": "2271e5114d5f58ac3fb355c84ae3c74a67f88ebe",
-            "message": "Update Developer Guide, User Guide, PPP",
+            "messageTitle": "Update Developer Guide, User Guide, PPP",
+            "messageBody": "",
             "insertions": 79,
             "deletions": 144
           },
           {
             "hash": "5c75303c2e26b81b77c844f498e141fb991a4430",
-            "message": "Fixed Checkstyle",
+            "messageTitle": "Fixed Checkstyle",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "9a3d65c193c42c42c87e5992b4992fc99e172f5d",
-            "message": "Update README with code acknowledgements",
+            "messageTitle": "Update README with code acknowledgements",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "984bec70e1eba1b9c0cbcdac16fa971584834265",
-            "message": "Update dannong.adoc",
+            "messageTitle": "Update dannong.adoc",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 16
           },
           {
             "hash": "c8e9b9e68e82caff695d1d9e53851dc78c29963d",
-            "message": "Update dannong.adoc",
+            "messageTitle": "Update dannong.adoc",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "858d2fdb88bf0f214e57b4ada4171ce46d9e1256",
-            "message": "Update dannong.adoc",
+            "messageTitle": "Update dannong.adoc",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           }
@@ -2417,67 +2794,40 @@
     ]
   },
   "authorFinalContributionMap": {
-    "wanchinglim": 3144,
+    "wanchinglim": 3147,
     "jemine1998": 1368,
-    "dannong": 4889
+    "dannong": 4895
   },
   "authorFileFormatContributionMap": {
     "wanchinglim": {
-      "adoc": 584,
-      "cs": 0,
-      "css": 52,
-      "fxml": 42,
-      "gradle": 0,
-      "html": 0,
-      "java": 2397,
-      "js": 0,
+      "gitignore": 3,
       "json": 69,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "adoc": 584,
+      "java": 2397,
+      "css": 52,
+      "fxml": 42
     },
     "jemine1998": {
       "adoc": 262,
-      "cs": 0,
-      "css": 0,
-      "fxml": 1,
-      "gradle": 0,
-      "html": 0,
       "java": 1101,
-      "js": 0,
-      "json": 4,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "fxml": 1,
+      "json": 4
     },
     "dannong": {
+      "LICENSE": 6,
       "adoc": 397,
-      "cs": 0,
-      "css": 1,
-      "fxml": 130,
       "gradle": 2,
-      "html": 4,
       "java": 4331,
-      "js": 0,
-      "json": 24,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "fxml": 130,
+      "css": 1,
+      "html": 4,
+      "json": 24
     }
   },
   "authorContributionVariance": {
-    "wanchinglim": 245367.62,
+    "wanchinglim": 246099.28,
     "jemine1998": 30591.924,
-    "dannong": 676813.94
+    "dannong": 678517.8
   },
   "authorDisplayNameMap": {
     "wanchinglim": "LIM...ING",
