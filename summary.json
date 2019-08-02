@@ -1,6 +1,6 @@
 {
-  "repoSenseVersion": "06c5a05d92",
-  "reportGeneratedTime": "Thu Aug 1 07:00:39 2019 UTC",
+  "repoSenseVersion": "7ff4d5de6c",
+  "reportGeneratedTime": "Fri Aug 2 07:01:44 2019 UTC",
   "repos": [
     {
       "location": {
@@ -133,6 +133,7 @@
       "outputFolderName": "CS2113-AY1819S2-T11-3_main_master"
     }
   ],
+  "errorList": [],
   "sinceDate": "2019-02-10",
   "untilDate": "2019-04-24",
   "isSinceDateProvided": true,
