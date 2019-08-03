@@ -8,36 +8,31 @@
         "commitResults": [
           {
             "hash": "ac559778c81b4cc97a5ea3dc5e3614c405cd8330",
-            "messageTitle": "Update User Guide without app name",
-            "messageBody": "",
+            "message": "Update User Guide without app name",
             "insertions": 26,
             "deletions": 13
           },
           {
             "hash": "78b3d575bdf5152ebea2691b5f21095edfb72411",
-            "messageTitle": "Add newline at EOF",
-            "messageBody": "",
+            "message": "Add newline at EOF",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "ca7f0ef0d1dca204def017dbff35809d4a6f083f",
-            "messageTitle": "Revert \"Add newline at EOF\"",
-            "messageBody": "This reverts commit 78b3d575bdf5152ebea2691b5f21095edfb72411.\n",
+            "message": "Revert \"Add newline at EOF\"",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "4280715ecbc39d2903d846ad94c37a920995eba9",
-            "messageTitle": "Change app\u0027s layout",
-            "messageBody": "",
+            "message": "Change app\u0027s layout",
             "insertions": 19,
             "deletions": 19
           },
           {
             "hash": "e668f0348153169f415b9d635367304920974e05",
-            "messageTitle": "Add endline",
-            "messageBody": "",
+            "message": "Add endline",
             "insertions": 1,
             "deletions": 1
           }
@@ -50,8 +45,7 @@
         "commitResults": [
           {
             "hash": "613ac405001135bcee42e47d32efcdd807cead0f",
-            "messageTitle": "Add layout for Undo and Redo",
-            "messageBody": "",
+            "message": "Add layout for Undo and Redo",
             "insertions": 18,
             "deletions": 1
           }
@@ -64,22 +58,19 @@
         "commitResults": [
           {
             "hash": "0ca40f38078f36ab1366943c80d14567fcdaa134",
-            "messageTitle": "Add lists of undoable and redoable commands",
-            "messageBody": "",
+            "message": "Add lists of undoable and redoable commands",
             "insertions": 23,
             "deletions": 8
           },
           {
             "hash": "e16c8ad2e32ed61f44dc39cd04797e4711339e00",
-            "messageTitle": "Simplified code",
-            "messageBody": "",
+            "message": "Simplified code",
             "insertions": 23,
             "deletions": 17
           },
           {
             "hash": "95e35c2560f0590f18b3073e3c21a2f379112c49",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 14,
             "deletions": 12
           }
@@ -92,8 +83,7 @@
         "commitResults": [
           {
             "hash": "eb5c2f235ed315e6c744b54bcfb05f1482c9c48d",
-            "messageTitle": "Refactor address to major, add sex and birthday class",
-            "messageBody": "",
+            "message": "Refactor address to major, add sex and birthday class",
             "insertions": 291,
             "deletions": 225
           }
@@ -106,50 +96,43 @@
         "commitResults": [
           {
             "hash": "a6475e8e819a613ffe39d2a7847db09330dd6fee",
-            "messageTitle": "Update test cases for new Person class attributes",
-            "messageBody": "",
+            "message": "Update test cases for new Person class attributes",
             "insertions": 379,
             "deletions": 186
           },
           {
             "hash": "b66cbedcd2ea1525936ae9f92ae7ffd8bdd3e6c6",
-            "messageTitle": "Update main file for new Person class attributes",
-            "messageBody": "",
+            "message": "Update main file for new Person class attributes",
             "insertions": 296,
             "deletions": 101
           },
           {
             "hash": "78ded45eb18c0fb4909c59fd086f67c9d7de3bfc",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 111,
             "deletions": 56
           },
           {
             "hash": "d90b7c909725323bca58c6c3455b3bf4e368c26b",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 26,
             "deletions": 20
           },
           {
             "hash": "c94ac8d49d4a08d5646520111e8194c4e93dd57d",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 27,
             "deletions": 32
           },
           {
             "hash": "d7d3e8892b2c326c5d7aaa287ce7ccc65146e738",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 9,
             "deletions": 11
           },
           {
             "hash": "472d28fbb2c327e535015acc2733a77ec02bd3d6",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 174,
             "deletions": 122
           }
@@ -162,15 +145,13 @@
         "commitResults": [
           {
             "hash": "62f4bdbb5fba255e3b593f00b5f2bb19e3e5af1a",
-            "messageTitle": "Update all test cases",
-            "messageBody": "",
+            "message": "Update all test cases",
             "insertions": 105,
             "deletions": 111
           },
           {
             "hash": "20dca282839576dddb1da5627451443450cefd55",
-            "messageTitle": "Fix checkstyles again",
-            "messageBody": "",
+            "message": "Fix checkstyles again",
             "insertions": 62,
             "deletions": 3
           }
@@ -183,15 +164,13 @@
         "commitResults": [
           {
             "hash": "958fce675913cc46321f4a2d8002354f5d00af2c",
-            "messageTitle": "Update Developer Guide for Statistic feature",
-            "messageBody": "",
+            "message": "Update Developer Guide for Statistic feature",
             "insertions": 23,
             "deletions": 0
           },
           {
             "hash": "95830a7a138ac006d217ccf368b1993f1e27f15f",
-            "messageTitle": "update image in dev guide",
-            "messageBody": "",
+            "message": "update image in dev guide",
             "insertions": 1,
             "deletions": 1
           }
@@ -204,8 +183,7 @@
         "commitResults": [
           {
             "hash": "6ef22a92c8928231a2f136826a3ceb87e93e3910",
-            "messageTitle": "Add undoableList logic",
-            "messageBody": "",
+            "message": "Add undoableList logic",
             "insertions": 164,
             "deletions": 22
           }
@@ -218,15 +196,13 @@
         "commitResults": [
           {
             "hash": "a5ae9399037654c722b10968f4493dc6f3b7664d",
-            "messageTitle": "View Undo List and Redo List on the GUI and comment out the Browser Panel",
-            "messageBody": "",
+            "message": "View Undo List and Redo List on the GUI and comment out the Browser Panel",
             "insertions": 231,
             "deletions": 45
           },
           {
             "hash": "5df42554800b74bb7ee73703cd269029ba429a8e",
-            "messageTitle": "Add browser back for testing purposes",
-            "messageBody": "",
+            "message": "Add browser back for testing purposes",
             "insertions": 17,
             "deletions": 6
           }
@@ -239,36 +215,31 @@
         "commitResults": [
           {
             "hash": "34cfd58c308ded61dde39672fa30e3aa6f74e0fb",
-            "messageTitle": "Remove browser in tests",
-            "messageBody": "",
+            "message": "Remove browser in tests",
             "insertions": 40,
             "deletions": 18
           },
           {
             "hash": "3e235ae29aaf29368a0260d730fdd00c06fcf7a7",
-            "messageTitle": "Update test cases",
-            "messageBody": "",
+            "message": "Update test cases",
             "insertions": 13,
             "deletions": 4
           },
           {
             "hash": "08c4ee70f1a0951ff076cebfec07e5378119a517",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "6beb515e70432522251738199a6992c4d24e9ba7",
-            "messageTitle": "Fix checkstyle again",
-            "messageBody": "",
+            "message": "Fix checkstyle again",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "ae13cb17e2236df0bf9b150357d917556b5cba2f",
-            "messageTitle": "Fix HelpWindow test",
-            "messageBody": "",
+            "message": "Fix HelpWindow test",
             "insertions": 3,
             "deletions": 1
           }
@@ -281,162 +252,134 @@
         "commitResults": [
           {
             "hash": "558d8d416e6aa50dd2239f4f514ab53bb243c254",
-            "messageTitle": "Create and parse stat command",
-            "messageBody": "",
+            "message": "Create and parse stat command",
             "insertions": 31,
             "deletions": 0
           },
           {
             "hash": "3da8a9d496d5500d99712e79fe1a3f12dfec8107",
-            "messageTitle": "Update birthday attr to get age Update major attr to accept SOC majors only",
-            "messageBody": "",
+            "message": "Update birthday attr to get age Update major attr to accept SOC majors only",
             "insertions": 15,
             "deletions": 5
           },
           {
             "hash": "1e12fdd84894cfd1f05818ce7983ccb7ccd7f98d",
-            "messageTitle": "Logic of stat command",
-            "messageBody": "",
+            "message": "Logic of stat command",
             "insertions": 164,
             "deletions": 0
           },
           {
             "hash": "9b8777710f259ca93a1d020bbf7e8f2da83c3d77",
-            "messageTitle": "Rename and add UI parts for stat command",
-            "messageBody": "",
+            "message": "Rename and add UI parts for stat command",
             "insertions": 102,
             "deletions": 27
           },
           {
             "hash": "2fe2e5d7f283bfba54f306e83be003686a7329bb",
-            "messageTitle": "Update test cases",
-            "messageBody": "",
+            "message": "Update test cases",
             "insertions": 80,
             "deletions": 59
           },
           {
             "hash": "03eba1752513e7fc615247288a6e65428060ae87",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 4,
             "deletions": 3
           },
           {
             "hash": "17d5419efaa586a3364979b5a1a0da79e506a390",
-            "messageTitle": "Clean Sex and Major value",
-            "messageBody": "",
+            "message": "Clean Sex and Major value",
             "insertions": 35,
             "deletions": 6
           },
           {
             "hash": "4b4aec85aa87fcae6be4c75f201f723c3415e9be",
-            "messageTitle": "Clean major and sex data again",
-            "messageBody": "",
+            "message": "Clean major and sex data again",
             "insertions": 40,
             "deletions": 15
           },
           {
             "hash": "5373582d45e42c457f73761ef0e28250797d7d44",
-            "messageTitle": "clean Sex data",
-            "messageBody": "",
+            "message": "clean Sex data",
             "insertions": 13,
             "deletions": 8
           },
           {
             "hash": "9ee8e9cf20173e864a0dd1b82daeda31c247c712",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 7,
             "deletions": 4
           }
         ]
       },
       {
-        "insertions": 703,
+        "insertions": 702,
         "deletions": 146,
         "date": "2019-03-31",
         "commitResults": [
           {
             "hash": "89159ceee85ee78ac29058d0dbfa11b2d296aaa5",
-            "messageTitle": "Improve code readability",
-            "messageBody": "",
+            "message": "Improve code readability",
             "insertions": 20,
             "deletions": 37
           },
           {
             "hash": "e0bdcf44b09507c3612f8fb86f049241cfdce3ba",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 17,
             "deletions": 16
           },
           {
             "hash": "87e54f62e05cbffc5223a363c364d0255bf8b12b",
-            "messageTitle": "Edit UI",
-            "messageBody": "",
+            "message": "Edit UI",
             "insertions": 82,
             "deletions": 27
           },
           {
             "hash": "97fa5b652ceb0c08c4c631be9eee04a57c9df986",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "8d0fb35ec1ed8ae3a473fb8c193a6e166d1ebb9c",
-            "messageTitle": "Update test cases",
-            "messageBody": "",
+            "message": "Update test cases",
             "insertions": 11,
             "deletions": 9
           },
           {
             "hash": "55ae1fb537957d5e356d79520606a31a476ed2e8",
-            "messageTitle": "Auto save charts to folder chart/",
-            "messageBody": "",
+            "message": "Auto save charts to folder chart/",
             "insertions": 522,
             "deletions": 35
           },
           {
-            "hash": "798db02d7167cf271fc63cefadb588286534ab9c",
-            "messageTitle": "Ignore chart files",
-            "messageBody": "",
-            "insertions": 1,
-            "deletions": 0
-          },
-          {
             "hash": "a368d66e62a14aa9457aad2a541bf54fb641ef14",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "45467e55c506a99d0897f0b82093b9d216264de7",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 43,
             "deletions": 17
           },
           {
             "hash": "9f36137d1e478dd93be3e0822a5d321eded85688",
-            "messageTitle": "Fix tests",
-            "messageBody": "",
+            "message": "Fix tests",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "716bdd9f9d689a360887c1ff5db04b355dc9714c",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "a0ecb61c3c3eb995d72e0845bb4eba3139ce5126",
-            "messageTitle": "Remove printing",
-            "messageBody": "",
+            "message": "Remove printing",
             "insertions": 0,
             "deletions": 2
           }
@@ -449,8 +392,7 @@
         "commitResults": [
           {
             "hash": "b164435716c0d19381b34f4c0ce187663c07f8fa",
-            "messageTitle": "Edit PPP",
-            "messageBody": "",
+            "message": "Edit PPP",
             "insertions": 29,
             "deletions": 34
           }
@@ -463,29 +405,25 @@
         "commitResults": [
           {
             "hash": "f9abc7ffd814ad5d70fbb7b827cd1278aeafa667",
-            "messageTitle": "Create save chart class",
-            "messageBody": "",
+            "message": "Create save chart class",
             "insertions": 40,
             "deletions": 0
           },
           {
             "hash": "ae4c2a703132f7e58bd29511372e4ae80a93343b",
-            "messageTitle": "Edit logic and parser",
-            "messageBody": "",
+            "message": "Edit logic and parser",
             "insertions": 77,
             "deletions": 22
           },
           {
             "hash": "4d61426b72ac3a46e491de274c7aeecd35d66122",
-            "messageTitle": "Svae chart parser",
-            "messageBody": "",
+            "message": "Svae chart parser",
             "insertions": 33,
             "deletions": 0
           },
           {
             "hash": "9272f4c6ebcd116dd90bdd0585c449fe9aae20ed",
-            "messageTitle": "Edit UI and tests",
-            "messageBody": "",
+            "message": "Edit UI and tests",
             "insertions": 25,
             "deletions": 10
           }
@@ -498,8 +436,7 @@
         "commitResults": [
           {
             "hash": "df68662db5424218cd5bed843fd524c1f99a3fd5",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 2,
             "deletions": 1
           }
@@ -512,15 +449,13 @@
         "commitResults": [
           {
             "hash": "61e7183f541e36c79851f0f9a6ec02013598f262",
-            "messageTitle": "Minor fix",
-            "messageBody": "",
+            "message": "Minor fix",
             "insertions": 12,
             "deletions": 4
           },
           {
             "hash": "f03309dba019f193415ead7b4c64d3a6585f42ad",
-            "messageTitle": "Add test cases",
-            "messageBody": "",
+            "message": "Add test cases",
             "insertions": 534,
             "deletions": 0
           }
@@ -533,57 +468,49 @@
         "commitResults": [
           {
             "hash": "09c0f00b9c3361a34bd1d2046aea37f0b301af7a",
-            "messageTitle": "Update documentations",
-            "messageBody": "",
+            "message": "Update documentations",
             "insertions": 146,
             "deletions": 44
           },
           {
             "hash": "e1ca172e0bfcb6ae7a6bd88d4f15531c4c233e30",
-            "messageTitle": "Update PPP",
-            "messageBody": "",
+            "message": "Update PPP",
             "insertions": 2,
             "deletions": 4
           },
           {
             "hash": "72f0da6b8065fc84ae9294884defc9cd45fb353c",
-            "messageTitle": "Add code summary to PPP",
-            "messageBody": "",
+            "message": "Add code summary to PPP",
             "insertions": 8,
             "deletions": 8
           },
           {
             "hash": "4d31dddbd47f9120bb0fbd28200d8d9a1699d412",
-            "messageTitle": "Minor PPP change",
-            "messageBody": "",
+            "message": "Minor PPP change",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "dd27899fbda95473a05aeb96038a54bdfb1dd45f",
-            "messageTitle": "Update PPP and minor fix",
-            "messageBody": "",
+            "message": "Update PPP and minor fix",
             "insertions": 14,
             "deletions": 3
           },
           {
             "hash": "37c168983fa7281061ab33f50e9edfbdcc1b35c2",
-            "messageTitle": "Minor code change",
-            "messageBody": "",
+            "message": "Minor code change",
             "insertions": 22,
             "deletions": 14
           },
           {
             "hash": "9d07f243e5bf36a5c33c8cfe9ef7aebea4260ad5",
-            "messageTitle": "Fix checkstyles",
-            "messageBody": "",
+            "message": "Fix checkstyles",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "e6748c52f29eafb5a255eb3c5630369317de18dc",
-            "messageTitle": "Update screenshot",
-            "messageBody": "",
+            "message": "Update screenshot",
             "insertions": 1,
             "deletions": 1
           }
@@ -596,8 +523,7 @@
         "commitResults": [
           {
             "hash": "fe2b25acfa539870e8f24da0520a237d2c91e773",
-            "messageTitle": "Add file making",
-            "messageBody": "",
+            "message": "Add file making",
             "insertions": 8,
             "deletions": 1
           }
@@ -612,71 +538,61 @@
         "commitResults": [
           {
             "hash": "b1e8866ab35ebb9e9f7a792d2b788182d3a42b33",
-            "messageTitle": "Update of the ContactUs",
-            "messageBody": "",
+            "message": "Update of the ContactUs",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "b7923c222fcb34b2a8e7705808c1850abe24f342",
-            "messageTitle": "Add Freshman Command",
-            "messageBody": "",
+            "message": "Add Freshman Command",
             "insertions": 208,
             "deletions": 0
           },
           {
             "hash": "948119f323acdb63316e037a4aa28a337e4fdd9b",
-            "messageTitle": "Checkstyle Corrections added",
-            "messageBody": "",
+            "message": "Checkstyle Corrections added",
             "insertions": 10,
             "deletions": 1
           },
           {
             "hash": "1d4b8032ffd07fecbb675a30f6ff5cb258aed988",
-            "messageTitle": "Listing of Freshmen",
-            "messageBody": "",
+            "message": "Listing of Freshmen",
             "insertions": 29,
             "deletions": 0
           },
           {
             "hash": "8ba17acb4273ce2357bb19f42ea055cae950e2d3",
-            "messageTitle": "Add OGL Command",
-            "messageBody": "",
+            "message": "Add OGL Command",
             "insertions": 219,
             "deletions": 2
           },
           {
             "hash": "4058ad2cff34788b4d120070953a1bf834a9d589",
-            "messageTitle": "Change the Issue Tracker Link",
-            "messageBody": "",
+            "message": "Change the Issue Tracker Link",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "1a2933de90b938d872aa2e4bb4476b6c8919f55f",
-            "messageTitle": "Refactor Freshman to Participant",
-            "messageBody": "",
+            "message": "Refactor Freshman to Participant",
             "insertions": 15,
             "deletions": 15
           },
           {
             "hash": "08dc94348c74ecd69b010ab686906dcd6da1099a",
-            "messageTitle": "CheckStyle Fix",
-            "messageBody": "",
+            "message": "CheckStyle Fix",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "1bcd44719ad8b95900d126902e009ee9b2f607b0",
-            "messageTitle": "Listing out the Freshmen. Temporary ArrayList to store.",
-            "messageBody": "",
+            "message": "Listing out the Freshmen. Temporary ArrayList to store.",
             "insertions": 29,
             "deletions": 0
           },
           {
             "hash": "34550c7a52b39fec2e606de7224a2073c429ff84",
-            "messageTitle": "Checkstyle Corrections for AddOGL Command",
-            "messageBody": "",
+            "message": "Checkstyle Corrections for AddOGL Command",
             "insertions": 1,
             "deletions": 2
           }
@@ -689,43 +605,37 @@
         "commitResults": [
           {
             "hash": "e8f14c218a43c27d9337d8d7bfe8ecd0d3c250eb",
-            "messageTitle": "Change from Storage to Model",
-            "messageBody": "",
+            "message": "Change from Storage to Model",
             "insertions": 4,
             "deletions": 7
           },
           {
             "hash": "bcd82842fff7f10d5ca992a24dcd202a50314229",
-            "messageTitle": "EOF Corrected",
-            "messageBody": "",
+            "message": "EOF Corrected",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "11d61203361d70f988e7e6c3426250f830b27012",
-            "messageTitle": "EOF correction",
-            "messageBody": "",
+            "message": "EOF correction",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "d1ffc17f9f03f99aa593b7a3eb28305dc422d53f",
-            "messageTitle": "Checkstyle correction",
-            "messageBody": "",
+            "message": "Checkstyle correction",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "e64944eabd18f593eb8db601680595a588eae792",
-            "messageTitle": "Merge Update",
-            "messageBody": "",
+            "message": "Merge Update",
             "insertions": 0,
             "deletions": 4
           },
           {
             "hash": "d6d881095a6c488fd8166ecc9e9c6677a667e50f",
-            "messageTitle": "Update DeveloperGuide.adoc",
-            "messageBody": "",
+            "message": "Update DeveloperGuide.adoc",
             "insertions": 12,
             "deletions": 0
           }
@@ -738,71 +648,61 @@
         "commitResults": [
           {
             "hash": "131da4aa9af6af40af79d14c0c0e9ab8438487d6",
-            "messageTitle": "Merged Conflicts",
-            "messageBody": "",
+            "message": "Merged Conflicts",
             "insertions": 0,
             "deletions": 190
           },
           {
             "hash": "4cd6fa5d1352a66164909095f73103425d934620",
-            "messageTitle": "Delete AddressBookParser.java",
-            "messageBody": "",
+            "message": "Delete AddressBookParser.java",
             "insertions": 0,
             "deletions": 95
           },
           {
             "hash": "9d1713809d6940f488e4553baa476838985f3637",
-            "messageTitle": "Undo the delete",
-            "messageBody": "",
+            "message": "Undo the delete",
             "insertions": 58,
             "deletions": 37
           },
           {
             "hash": "6dc484d159a2b09639c05f61aa261fb08bcbfe4a",
-            "messageTitle": "Checkstyle corrections",
-            "messageBody": "",
+            "message": "Checkstyle corrections",
             "insertions": 38,
             "deletions": 38
           },
           {
             "hash": "8c5ba437f228ed8e514c82f7e7415eff34db4c7f",
-            "messageTitle": "Edits with respect to comments",
-            "messageBody": "",
+            "message": "Edits with respect to comments",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "eb95afa860736cd39ff5c916e7207cde20ceb13b",
-            "messageTitle": "Updated the list Participant Command with a working list",
-            "messageBody": "",
+            "message": "Updated the list Participant Command with a working list",
             "insertions": 104,
             "deletions": 6
           },
           {
             "hash": "e5fd566e0bc6d4a85b6d960887a2920414615b52",
-            "messageTitle": "Checkstyle Correction",
-            "messageBody": "",
+            "message": "Checkstyle Correction",
             "insertions": 6,
             "deletions": 7
           },
           {
             "hash": "2e34c1bc4f2e69804ca9c03d0b0e5d1e412664b9",
-            "messageTitle": "Checkstyle Corrected Changes",
-            "messageBody": "",
+            "message": "Checkstyle Corrected Changes",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "5089bab55c718dff123061778d429f0ff1005f3c",
-            "messageTitle": "Checkstyle Corrected",
-            "messageBody": "",
+            "message": "Checkstyle Corrected",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "ba4984b22ffba104c3fb062e7e7b022036ba8c2b",
-            "messageTitle": "Checkstyle Corrections",
-            "messageBody": "",
+            "message": "Checkstyle Corrections",
             "insertions": 2,
             "deletions": 2
           }
@@ -815,22 +715,19 @@
         "commitResults": [
           {
             "hash": "0e483de233ee5e318bba819c26d9af716aadb508",
-            "messageTitle": "Fixed the List Operation for OGL Listing",
-            "messageBody": "",
+            "message": "Fixed the List Operation for OGL Listing",
             "insertions": 128,
             "deletions": 1
           },
           {
             "hash": "3afb27d278792bee611096b6cc7fa67059d9998e",
-            "messageTitle": "Checkstyle Corrected",
-            "messageBody": "",
+            "message": "Checkstyle Corrected",
             "insertions": 12,
             "deletions": 8
           },
           {
             "hash": "323bafcd92af8660fa6cb40036164877be16acad",
-            "messageTitle": "Checkstyle Corrections",
-            "messageBody": "",
+            "message": "Checkstyle Corrections",
             "insertions": 1,
             "deletions": 1
           }
@@ -843,8 +740,7 @@
         "commitResults": [
           {
             "hash": "2924142f9e2b2b9a4595911398c44266001ab792",
-            "messageTitle": "Updates to merged conflict",
-            "messageBody": "",
+            "message": "Updates to merged conflict",
             "insertions": 2,
             "deletions": 1
           }
@@ -857,15 +753,13 @@
         "commitResults": [
           {
             "hash": "8f87b09e30fb01660052a6cdd10d0de9217207a9",
-            "messageTitle": "Update to User Guide adoc",
-            "messageBody": "",
+            "message": "Update to User Guide adoc",
             "insertions": 58,
             "deletions": 16
           },
           {
             "hash": "421f9910aa537db9d2f6ea892d97ba83e44a5dba",
-            "messageTitle": "Rename the \"Participant\" tag to \"Freshman\"",
-            "messageBody": "",
+            "message": "Rename the \"Participant\" tag to \"Freshman\"",
             "insertions": 15,
             "deletions": 15
           }
@@ -878,43 +772,37 @@
         "commitResults": [
           {
             "hash": "6acb03b841907a52ef7577550a150eccdd988814",
-            "messageTitle": "Excel Command",
-            "messageBody": "",
+            "message": "Excel Command",
             "insertions": 157,
             "deletions": 0
           },
           {
             "hash": "81573cb5b21c3465bf8b48535a2b0fc359665675",
-            "messageTitle": "Export Command in User Guide",
-            "messageBody": "",
+            "message": "Export Command in User Guide",
             "insertions": 8,
             "deletions": 0
           },
           {
             "hash": "da3deaa36646eedfb73f9ec91fb9328fed7cb39b",
-            "messageTitle": "Update UserGuide.adoc",
-            "messageBody": "",
+            "message": "Update UserGuide.adoc",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "4fb6bbbe1202f04e585e3854dbe2735b89e7bd5d",
-            "messageTitle": "Update DeveloperGuide.adoc",
-            "messageBody": "",
+            "message": "Update DeveloperGuide.adoc",
             "insertions": 16,
             "deletions": 0
           },
           {
             "hash": "760acfa043aa3c884279f2977cf7bdbe0a3bb9ec",
-            "messageTitle": "Update DeveloperGuide.adoc",
-            "messageBody": "",
+            "message": "Update DeveloperGuide.adoc",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "a4b0c46e1cd73d5ed95e2cb198d329476577a455",
-            "messageTitle": "Update DeveloperGuide.adoc",
-            "messageBody": "",
+            "message": "Update DeveloperGuide.adoc",
             "insertions": 1,
             "deletions": 1
           }
@@ -927,22 +815,19 @@
         "commitResults": [
           {
             "hash": "c0cbc4fbb0e891e6d8f61c74e4f7ec3e5b4a79d8",
-            "messageTitle": "Add gradle dependency",
-            "messageBody": "",
+            "message": "Add gradle dependency",
             "insertions": 7,
             "deletions": 6
           },
           {
             "hash": "8346c69f1d667c349fe33fc9a5715543cc50fab1",
-            "messageTitle": "CheckStyle Corrections",
-            "messageBody": "",
+            "message": "CheckStyle Corrections",
             "insertions": 88,
             "deletions": 84
           },
           {
             "hash": "83ca5f4fc21b91eed2e72173b333dc862a44fab6",
-            "messageTitle": "Checkstyle commits",
-            "messageBody": "",
+            "message": "Checkstyle commits",
             "insertions": 12,
             "deletions": 12
           }
@@ -955,15 +840,13 @@
         "commitResults": [
           {
             "hash": "1ae638b9391deada50464cbf5b123eaf8d8e0321",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 38,
             "deletions": 37
           },
           {
             "hash": "483ed0fe4b01d0fad889a906c96f2f085dda3fa2",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 2,
             "deletions": 2
           }
@@ -976,85 +859,43 @@
         "commitResults": [
           {
             "hash": "3140e6e963a53576cb78fdf3da51b1de0cea5ce7",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 58,
             "deletions": 3
           },
           {
             "hash": "76bcf94a978bc15d33ae3d898a17fac9e5ad1662",
-            "messageTitle": "Update DeveloperGuide.adoc",
-            "messageBody": "",
+            "message": "Update DeveloperGuide.adoc",
             "insertions": 12,
             "deletions": 9
           },
           {
             "hash": "0e05f28b5ffcb544135eb09778c3d5276be8caa6",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "f27d73c058284679c4d14b3e4ab280ea1a03ee73",
-            "messageTitle": "Update DeveloperGuide.adoc",
-            "messageBody": "",
+            "message": "Update DeveloperGuide.adoc",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "d2962408702102d0858ec1abc5db2c32d3813805",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 90,
             "deletions": 2
           },
           {
             "hash": "1f4bc047b094297c858db4d04a58f8743aca8781",
-            "messageTitle": "Links attached",
-            "messageBody": "",
+            "message": "Links attached",
             "insertions": 8,
             "deletions": 8
           },
           {
-            "hash": "f626e34b2b9ab476084a42ef8fc81af3b1dcf8c5",
-            "messageTitle": "Add files via upload",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "61eb70180728ac281c8e03d2f79da8237a9d5ab0",
-            "messageTitle": "Add files via upload",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "7261e64f70c80755f00a56b0a0816f1e6e73680e",
-            "messageTitle": "Add files via upload",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "b23089c69aef7c6a32f3dd5848efafe3e302b68d",
-            "messageTitle": "Add files via upload",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "79b53d6c538050564ae40f133790bc0ac4bbc771",
-            "messageTitle": "Add files via upload",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "35e6cc373a7fb917fd9f7c5f71fc9c5d945f4d80",
-            "messageTitle": "Styling of command",
-            "messageBody": "",
+            "message": "Styling of command",
             "insertions": 1,
             "deletions": 1
           }
@@ -1066,30 +907,20 @@
         "date": "2019-04-08",
         "commitResults": [
           {
-            "hash": "66f7275ae0b6a944e233ab09d0ff58f8132f2103",
-            "messageTitle": "replace the pictures for the DG",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "3dc6b1bd88e6ea6319961640f76d41f99aa91879",
-            "messageTitle": "Test cases added",
-            "messageBody": "",
+            "message": "Test cases added",
             "insertions": 176,
             "deletions": 3
           },
           {
             "hash": "5ddb7b09dd41744e403f778aeb5c7020450b9c48",
-            "messageTitle": "Compile error resolve",
-            "messageBody": "",
+            "message": "Compile error resolve",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "08baa938d78ebecf90bd266239dc74e8dacd21a3",
-            "messageTitle": "Checkstyle corrections",
-            "messageBody": "",
+            "message": "Checkstyle corrections",
             "insertions": 25,
             "deletions": 18
           }
@@ -1102,64 +933,55 @@
         "commitResults": [
           {
             "hash": "2eb50f7afa89f826c24574f7b517eb54b65fb54f",
-            "messageTitle": "changed the name of one of the functions",
-            "messageBody": "",
+            "message": "changed the name of one of the functions",
             "insertions": 13,
             "deletions": 13
           },
           {
             "hash": "4b8f06c05a5e0e17715fdb811381899e59611e08",
-            "messageTitle": "checkstyle error",
-            "messageBody": "",
+            "message": "checkstyle error",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "89a253d880d803514d04236bcfc01d28dd81eae3",
-            "messageTitle": "Update DeveloperGuide.adoc",
-            "messageBody": "",
+            "message": "Update DeveloperGuide.adoc",
             "insertions": 45,
             "deletions": 1
           },
           {
             "hash": "b97d6062d224d3918c255b7928210f6ac981083b",
-            "messageTitle": "Export as Freshmen and as OGL",
-            "messageBody": "",
+            "message": "Export as Freshmen and as OGL",
             "insertions": 170,
             "deletions": 38
           },
           {
             "hash": "d97723f5fa001061327079d90ed0dd1623d2fb71",
-            "messageTitle": "checkstyle error",
-            "messageBody": "",
+            "message": "checkstyle error",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "4e089d636c58ab80e6074920eb983f9f70cb40d5",
-            "messageTitle": "checktsyle error",
-            "messageBody": "",
+            "message": "checktsyle error",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "32ae40fb923ae81ec9762af588c94a8485338ff9",
-            "messageTitle": "Checkstyle error",
-            "messageBody": "",
+            "message": "Checkstyle error",
             "insertions": 42,
             "deletions": 10
           },
           {
             "hash": "e9ca76c61c5eecdd7c7919f86940e1b9527c56b0",
-            "messageTitle": "Checkstyle error",
-            "messageBody": "",
+            "message": "Checkstyle error",
             "insertions": 8,
             "deletions": 8
           },
           {
             "hash": "45f5d524d8fefe505bf33ade2c9cea002c5551f6",
-            "messageTitle": "Update DeveloperGuide.adoc",
-            "messageBody": "",
+            "message": "Update DeveloperGuide.adoc",
             "insertions": 2,
             "deletions": 2
           }
@@ -1172,113 +994,91 @@
         "commitResults": [
           {
             "hash": "c7465b4ae0347c4790f1a931eec15a8d263032e2",
-            "messageTitle": "the base code completed",
-            "messageBody": "",
+            "message": "the base code completed",
             "insertions": 209,
             "deletions": 4
           },
           {
             "hash": "d1621551c514b0a8857b3e7cb48893ae1d705a14",
-            "messageTitle": "Checkstyle corrections",
-            "messageBody": "",
+            "message": "Checkstyle corrections",
             "insertions": 53,
             "deletions": 56
           },
           {
             "hash": "c1a805bc9c6734c15d975c85ee4f96f1c73705f2",
-            "messageTitle": "Checkstyle corrections",
-            "messageBody": "",
+            "message": "Checkstyle corrections",
             "insertions": 16,
             "deletions": 7
           },
           {
             "hash": "ae97661b094dc6b12184b08e8f1ef73afd14426b",
-            "messageTitle": "Checkstyle",
-            "messageBody": "",
+            "message": "Checkstyle",
             "insertions": 6,
             "deletions": 2
           },
           {
             "hash": "2dbc9d4d09b6ec4fb1deb75c011b41d6a00e51da",
-            "messageTitle": "checkstyle",
-            "messageBody": "",
+            "message": "checkstyle",
             "insertions": 10,
             "deletions": 13
           },
           {
             "hash": "9921ba476aa699e597e471cc48ee61c24a6f900b",
-            "messageTitle": "checkstyle",
-            "messageBody": "",
+            "message": "checkstyle",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "2c36bfe132e1fd6ca8921521964489c76b5f4edd",
-            "messageTitle": "checkstyle",
-            "messageBody": "",
+            "message": "checkstyle",
             "insertions": 7,
             "deletions": 16
           },
           {
             "hash": "0b9beed2943642c566b3e07e61be28a70c731e7f",
-            "messageTitle": "checkstye",
-            "messageBody": "",
+            "message": "checkstye",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "d8fdc9af1b78ea571b1a2f0ba5985ddbc867f467",
-            "messageTitle": "Checkstyle",
-            "messageBody": "",
+            "message": "Checkstyle",
             "insertions": 0,
             "deletions": 2
           },
           {
             "hash": "3842d9ce484efade29d7f3c59e80e17e9b50c0c4",
-            "messageTitle": "Changes to Export",
-            "messageBody": "",
+            "message": "Changes to Export",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "b375bda2c0232079c7a62543b2a02871cfe6bf44",
-            "messageTitle": "Checkstyle",
-            "messageBody": "",
+            "message": "Checkstyle",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "67f14a7f0b6363ec4ad13bcd1025842d0dcf3050",
-            "messageTitle": "tag is not null",
-            "messageBody": "",
+            "message": "tag is not null",
             "insertions": 16,
             "deletions": 7
           },
           {
             "hash": "e92527f4546c130e91f8900fc84736de8771a3d1",
-            "messageTitle": "Export f and o test cases",
-            "messageBody": "",
+            "message": "Export f and o test cases",
             "insertions": 118,
             "deletions": 0
           },
           {
             "hash": "7c1c83423db319bb07dde720b80f1fb775f722d2",
-            "messageTitle": "User Guide",
-            "messageBody": "",
+            "message": "User Guide",
             "insertions": 24,
             "deletions": 3
           },
           {
-            "hash": "42426c097fb0ff1a025b1ba15f1dae19f6af2130",
-            "messageTitle": "ExportResult",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "ff57af0d1e36e307381f76a53bf95f3ab3d9a0fa",
-            "messageTitle": "Import and add Images to export",
-            "messageBody": "",
+            "message": "Import and add Images to export",
             "insertions": 33,
             "deletions": 7
           }
@@ -1291,113 +1091,80 @@
         "commitResults": [
           {
             "hash": "333798119d6bd69d89b904c337fefe93aff7499a",
-            "messageTitle": "Update DG with the new export commands",
-            "messageBody": "",
+            "message": "Update DG with the new export commands",
             "insertions": 8,
             "deletions": 4
           },
           {
             "hash": "29194ae6516350b336fb51393f4826dabd00c040",
-            "messageTitle": "DG Updates",
-            "messageBody": "",
+            "message": "DG Updates",
             "insertions": 38,
             "deletions": 0
           },
           {
             "hash": "2a5f14cd7d08eb8b351d619634554ee910664292",
-            "messageTitle": "Update UserGuide.adoc",
-            "messageBody": "",
+            "message": "Update UserGuide.adoc",
             "insertions": 2,
             "deletions": 0
           },
           {
-            "hash": "bafc73fc13fdd7c7cb352b3925aa2a02ee55e085",
-            "messageTitle": "Import Diagrams",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "a368d028a53802e9991f137117cf52ed8289c2a0",
-            "messageTitle": "Import diagrams",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "7b2caa1a9be4cfe0eb56614abcd756747b367e72",
-            "messageTitle": "Updating of PPP",
-            "messageBody": "",
+            "message": "Updating of PPP",
             "insertions": 12,
             "deletions": 5
           },
           {
             "hash": "1a2aef03fe458fb3424b9049cffd982063035194",
-            "messageTitle": "Changes to PPP",
-            "messageBody": "",
+            "message": "Changes to PPP",
             "insertions": 71,
             "deletions": 10
           },
           {
             "hash": "6d5cfc6a271b849571274cee75e58c29a4e24871",
-            "messageTitle": "Changes to UG",
-            "messageBody": "",
+            "message": "Changes to UG",
             "insertions": 9,
             "deletions": 3
           },
           {
             "hash": "dfc2d021e3dfc8bea1d444b56f75429545a699ba",
-            "messageTitle": "edits to DG",
-            "messageBody": "",
+            "message": "edits to DG",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e15db056e11c005ce82c92d64431954884e5fc62",
-            "messageTitle": "Updates to PPP",
-            "messageBody": "",
+            "message": "Updates to PPP",
             "insertions": 94,
             "deletions": 8
           }
         ]
       },
       {
-        "insertions": 12,
-        "deletions": 8,
+        "insertions": 8,
+        "deletions": 6,
         "date": "2019-04-12",
         "commitResults": [
           {
             "hash": "834e8b6d1911ff0bc9b573f34e179ff50c5fbf81",
-            "messageTitle": "updates",
-            "messageBody": "",
+            "message": "updates",
             "insertions": 1,
             "deletions": 1
           },
           {
-            "hash": "afe431fc680507588cbf672023e14b4b746f05ae",
-            "messageTitle": "Docs updated",
-            "messageBody": "",
-            "insertions": 4,
-            "deletions": 2
-          },
-          {
             "hash": "5efd36513b9bca144396ad7f2c6f7c3731803213",
-            "messageTitle": "update docs",
-            "messageBody": "",
+            "message": "update docs",
             "insertions": 4,
             "deletions": 2
           },
           {
             "hash": "2b79a1af65636a703b9ad49689e942266c00ecdb",
-            "messageTitle": "Update DeveloperGuide.adoc",
-            "messageBody": "",
+            "message": "Update DeveloperGuide.adoc",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "b88e1712b7028e7fa3e27a399a0f3136e08060f3",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 2,
             "deletions": 2
           }
@@ -1410,134 +1177,79 @@
         "commitResults": [
           {
             "hash": "a7e60b51806b72ba13cebffe85ff3edcf0b7fbf7",
-            "messageTitle": "Update UserGuide.adoc",
-            "messageBody": "",
+            "message": "Update UserGuide.adoc",
             "insertions": 8,
             "deletions": 0
           },
           {
             "hash": "da30154f3d3f419b80db34356985a4989d22ee79",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 4,
             "deletions": 10
           },
           {
             "hash": "16ba0f3c8095f6957ad3dd7939c300ae808b93bd",
-            "messageTitle": "Update DeveloperGuide.adoc",
-            "messageBody": "",
+            "message": "Update DeveloperGuide.adoc",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "7ee17efe219775d8baa97c2b7aa46e6a341acfa9",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 6,
             "deletions": 2
           },
           {
             "hash": "156fc3a3ba6296f9f03932ccdae1e4cca7109bd6",
-            "messageTitle": "Checkstyle",
-            "messageBody": "",
+            "message": "Checkstyle",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "aa829787b7c1e7551c6527d4260a729d42843db5",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 2,
             "deletions": 2
           },
           {
-            "hash": "5f1bcec5108e38fecebcba30be60748a7b9a3255",
-            "messageTitle": "Delete ExportCommandSequenceDiagram.pptx",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "63859a40cc2e21ed6232871ad267de6063155d00",
-            "messageTitle": "Delete ListParticipantCommandSequenceDiagram.pptx",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "95457b3d3435acbb8d3cac37dba050363fa52ad9",
-            "messageTitle": "Add files via upload",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "9ef7b68675a36b9163cd83fd481b7dc35c6dc262",
-            "messageTitle": "Delete ExportCommandSequenceDiagram.png",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "84771942c4ac7af435d891373e30e663c8a16956",
-            "messageTitle": "Delete ListParticipantCommandSequenceDiagram.png",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "7fa4dcb4667340cf4f6bb7db4beafa8b5a6652b1",
-            "messageTitle": "Add files via upload",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "15b3e5a73d5c6b5e87e61f229d2392d2a9bacf0a",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 2,
             "deletions": 4
           },
           {
             "hash": "95746431f233ddad61dd235629f2b54aadc3c5b1",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 5,
             "deletions": 107
           },
           {
             "hash": "68cb230b39956bbcec1c11d6aa36a8379e6b5dc1",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "5f11af93721a1d71ed9a0a6a77031d6a5a9802b7",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 45,
             "deletions": 1
           },
           {
             "hash": "d14f907e235f5bd1df5ee06488565a42413dbdce",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 3,
             "deletions": 18
           },
           {
             "hash": "23eacf4d307dbe5c52d478981af23cd141950333",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 3,
             "deletions": 27
           },
           {
             "hash": "1b34e0ad4322eac7da3f8353b6cdf57985446d2a",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 0,
             "deletions": 4
           }
@@ -1550,50 +1262,43 @@
         "commitResults": [
           {
             "hash": "a4513100838e10a59688cee15758ee3b75f03724",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 1,
             "deletions": 69
           },
           {
             "hash": "b581fa0b942669fa1969b92c0617feecd7dfcd3a",
-            "messageTitle": "Update ssunil3232.adoc",
-            "messageBody": "",
+            "message": "Update ssunil3232.adoc",
             "insertions": 0,
             "deletions": 2
           },
           {
             "hash": "566ea4034618b8fb5dd2b04db1bdd754e14aed79",
-            "messageTitle": "Update UserGuide.adoc",
-            "messageBody": "",
+            "message": "Update UserGuide.adoc",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "c597070bf132cf7bc1ffe22f6149608a6c8533b5",
-            "messageTitle": "Update WriteToExcel.java",
-            "messageBody": "",
+            "message": "Update WriteToExcel.java",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "03b184ffaa1d80e026aa1b1c6c72926f32231e19",
-            "messageTitle": "Update UserGuide.adoc",
-            "messageBody": "",
+            "message": "Update UserGuide.adoc",
             "insertions": 15,
             "deletions": 2
           },
           {
             "hash": "3b83885a9b1e9772b0eddde2455adc2a6951d562",
-            "messageTitle": "Update WriteToExcel.java",
-            "messageBody": "",
+            "message": "Update WriteToExcel.java",
             "insertions": 3,
             "deletions": 1
           },
           {
             "hash": "bb922b23b9eea548bb9e8966645be025f471d539",
-            "messageTitle": "Update WriteToExcel.java",
-            "messageBody": "",
+            "message": "Update WriteToExcel.java",
             "insertions": 2,
             "deletions": 2
           }
@@ -1608,29 +1313,25 @@
         "commitResults": [
           {
             "hash": "d78b8478e0278c07d5dbb909615686107715155a",
-            "messageTitle": "Added \"Group\" attribute to person. UI does not display group name in PersonCard yet.",
-            "messageBody": "",
+            "message": "Added \"Group\" attribute to person. UI does not display group name in PersonCard yet.",
             "insertions": 231,
             "deletions": 47
           },
           {
             "hash": "4a72472884ca00e7098ec949441bbcb93969f606",
-            "messageTitle": "Updated Group Attribute for checkstyle",
-            "messageBody": "",
+            "message": "Updated Group Attribute for checkstyle",
             "insertions": 24,
             "deletions": 16
           },
           {
             "hash": "438dc7bf514ed2356b647f3b7e2907f9592f62ff",
-            "messageTitle": "More Changes for checkstyle",
-            "messageBody": "",
+            "message": "More Changes for checkstyle",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "839d230991633ebcc053ac07fd3622ab7e046992",
-            "messageTitle": "More changes for checkstyle",
-            "messageBody": "",
+            "message": "More changes for checkstyle",
             "insertions": 8,
             "deletions": 4
           }
@@ -1643,50 +1344,31 @@
         "commitResults": [
           {
             "hash": "4723073ffb9d0d8b2c182a7c5114f3469b3794bb",
-            "messageTitle": "Update README.adoc",
-            "messageBody": "",
+            "message": "Update README.adoc",
             "insertions": 11,
             "deletions": 13
           },
           {
             "hash": "6a50b1c974959d87276ad4569473c0acaf7bdd21",
-            "messageTitle": "Update Dev Guide v1",
-            "messageBody": "",
+            "message": "Update Dev Guide v1",
             "insertions": 35,
             "deletions": 11
           },
           {
             "hash": "ab170d50c1bb95d3e6415b56dfa6756bfdf25d5a",
-            "messageTitle": "Update Dev Guide v1.1",
-            "messageBody": "",
+            "message": "Update Dev Guide v1.1",
             "insertions": 2,
             "deletions": 2
           },
           {
-            "hash": "8c2cef0755d6f1a7b95529199a53fbf2ec297df3",
-            "messageTitle": "Delete sample Ui.png",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "01d62492753270b0a66f045e3f006a38a8c87e5e",
-            "messageTitle": "Add mockup UI v1",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "2332960f9a9b4facc379777126d718b45d49c173",
-            "messageTitle": "Update README.adoc",
-            "messageBody": "Updated project title",
+            "message": "Update README.adoc",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "d2f4f8dd9997f1fbb6cba105d536adda0d13b4f1",
-            "messageTitle": "Removed trailing whitespace from readme.adoc",
-            "messageBody": "",
+            "message": "Removed trailing whitespace from readme.adoc",
             "insertions": 1,
             "deletions": 1
           }
@@ -1699,85 +1381,73 @@
         "commitResults": [
           {
             "hash": "8ae67680fa7c8344d2d4ea0260c47b89ce7d3494",
-            "messageTitle": "AddGroupCommand created",
-            "messageBody": "",
+            "message": "AddGroupCommand created",
             "insertions": 277,
             "deletions": 0
           },
           {
             "hash": "dfcd4b587baf8bdae92a2d825c725fc2ea192ced",
-            "messageTitle": "update for checkstyle",
-            "messageBody": "",
+            "message": "update for checkstyle",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "4c414846680522788d0fae09aa29b24a0fb01fc0",
-            "messageTitle": "update for checkstyle",
-            "messageBody": "",
+            "message": "update for checkstyle",
             "insertions": 78,
             "deletions": 17
           },
           {
             "hash": "36d67115db671ee0cc432f209c136cfe376bfb9d",
-            "messageTitle": "update for checkstyle",
-            "messageBody": "",
+            "message": "update for checkstyle",
             "insertions": 7,
             "deletions": 2
           },
           {
             "hash": "631391d16aaec3c7d32655ffba8ab4dfd66b85d6",
-            "messageTitle": "update for checkstyle",
-            "messageBody": "",
+            "message": "update for checkstyle",
             "insertions": 13,
             "deletions": 3
           },
           {
             "hash": "03ad8e4e68cc1b441959321d2c2a040ef68ee45b",
-            "messageTitle": "update for checkstyle",
-            "messageBody": "",
+            "message": "update for checkstyle",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "459021c03f39d4d7c38760f8a78e0dd17d510181",
-            "messageTitle": "update for checkstyle",
-            "messageBody": "",
+            "message": "update for checkstyle",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "54d899b9e8146bd649aee65d104fc6d2208a9e9f",
-            "messageTitle": "Created AddHouseCommand",
-            "messageBody": "",
+            "message": "Created AddHouseCommand",
             "insertions": 115,
             "deletions": 4
           },
           {
             "hash": "e015f08694652d2377a1b11483ca00123e92c187",
-            "messageTitle": "Revert \"Created AddHouseCommand\"",
-            "messageBody": "This reverts commit 54d899b9e8146bd649aee65d104fc6d2208a9e9f.\n\nundo commit, pushing to a separate branch\n",
+            "message": "Revert \"Created AddHouseCommand\"",
             "insertions": 4,
             "deletions": 115
           },
           {
             "hash": "8cbd1bdd37b7aabdafb8d5b815cd86a34b3a315e",
-            "messageTitle": "Revert \"Revert \"Created AddHouseCommand\"\"",
-            "messageBody": "This reverts commit e015f08694652d2377a1b11483ca00123e92c187.\n\nundo revert.\n",
+            "message": "Revert \"Revert \"Created AddHouseCommand\"\"",
             "insertions": 115,
             "deletions": 4
           },
           {
             "hash": "45eed69d4a584030edc7bf6c472e2d7a78a26989",
-            "messageTitle": "update checkstyle",
-            "messageBody": "",
+            "message": "update checkstyle",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "258a07897d94733b763a02b004cb9a68e99dcf56",
-            "messageTitle": "update addressbookparser to accept command",
-            "messageBody": "",
+            "message": "update addressbookparser to accept command",
             "insertions": 4,
             "deletions": 0
           }
@@ -1790,8 +1460,7 @@
         "commitResults": [
           {
             "hash": "c5f27589a1102674d2c2410d1b2727be886630cc",
-            "messageTitle": "remove getHouseNames in HouseStorage",
-            "messageBody": "",
+            "message": "remove getHouseNames in HouseStorage",
             "insertions": 0,
             "deletions": 4
           }
@@ -1804,57 +1473,49 @@
         "commitResults": [
           {
             "hash": "635fc2eef2dfdad9ee61d7647445f3068ca1ba79",
-            "messageTitle": "Update README.adoc",
-            "messageBody": "Update the features that will be added",
+            "message": "Update README.adoc",
             "insertions": 9,
             "deletions": 10
           },
           {
             "hash": "3b58cd3f0f445c78157f5277a199ba72e584df60",
-            "messageTitle": "Update readme.adoc",
-            "messageBody": "Further update to phrasing, adding export feature",
+            "message": "Update readme.adoc",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "778da5e866ff531f38e4ae781ec6451ed2404f73",
-            "messageTitle": "Update Dev Guide",
-            "messageBody": "Update name of app",
+            "message": "Update Dev Guide",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "092d2144d0a3c9617fb0c4deb996dce74720aca2",
-            "messageTitle": "Update Contact Us",
-            "messageBody": "Update emails",
+            "message": "Update Contact Us",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "d6b9b77d8514cb9364df036ff59da429a728fc7f",
-            "messageTitle": "Update AboutUs.adoc",
-            "messageBody": "Update name of App",
+            "message": "Update AboutUs.adoc",
             "insertions": 2,
             "deletions": 3
           },
           {
             "hash": "6abdc28916d33b32978590999d01b7bdff4cd47c",
-            "messageTitle": "Update UserGuide.adoc",
-            "messageBody": "Update app name, person attributes, add add_h feature guide",
+            "message": "Update UserGuide.adoc",
             "insertions": 17,
             "deletions": 18
           },
           {
             "hash": "851711c464c0106e83b9c1ad30eaf1db1dec7f5f",
-            "messageTitle": "Update DevGuide for proposed data encryption feature",
-            "messageBody": "Added brief overview of data encryption feature, to be completed.\r\n\r\nCorrected typos.",
+            "message": "Update DevGuide for proposed data encryption feature",
             "insertions": 10,
             "deletions": 4
           },
           {
             "hash": "e52920a2b8813b18299a60f9f493434a21bb260c",
-            "messageTitle": "Update user stories",
-            "messageBody": "",
+            "message": "Update user stories",
             "insertions": 4,
             "deletions": 8
           }
@@ -1867,15 +1528,13 @@
         "commitResults": [
           {
             "hash": "fa3c7a43a4133980ec5f7f053c2aa8c15b5d0102",
-            "messageTitle": "Update UserGuide.adoc",
-            "messageBody": "First major revision of user guide. Added add_g command.",
+            "message": "Update UserGuide.adoc",
             "insertions": 175,
             "deletions": 83
           },
           {
             "hash": "cf4bb04c9d560a533472ae4d85b4ef31edadbff3",
-            "messageTitle": "Update user guide reference links",
-            "messageBody": "Added inline bookmarks to reference in command summary",
+            "message": "Update user guide reference links",
             "insertions": 30,
             "deletions": 15
           }
@@ -1888,8 +1547,7 @@
         "commitResults": [
           {
             "hash": "08bf6891f20b1fa9206e02814844cb4ecef5920a",
-            "messageTitle": "update for white space error",
-            "messageBody": "",
+            "message": "update for white space error",
             "insertions": 1,
             "deletions": 2
           }
@@ -1902,36 +1560,31 @@
         "commitResults": [
           {
             "hash": "2905b5d4591b184f6c7a2d3a933fde637c9994c3",
-            "messageTitle": "update add commands to check for existent groups",
-            "messageBody": "",
+            "message": "update add commands to check for existent groups",
             "insertions": 12,
             "deletions": 1
           },
           {
             "hash": "54df1305f2f44b6c76adeaf2d7775b792140c30e",
-            "messageTitle": "update test data as well as edit commands to not accept group unless already added",
-            "messageBody": "",
+            "message": "update test data as well as edit commands to not accept group unless already added",
             "insertions": 26,
             "deletions": 21
           },
           {
             "hash": "585012caa0e7cf99dac619fa3b42bf266be0aebf",
-            "messageTitle": "more updates to add persons commands and editing for tests",
-            "messageBody": "",
+            "message": "more updates to add persons commands and editing for tests",
             "insertions": 12,
             "deletions": 13
           },
           {
             "hash": "c936ce9e05d8e2e136333cc1af3a77fb65f2909e",
-            "messageTitle": "update for edit command for empty group",
-            "messageBody": "",
+            "message": "update for edit command for empty group",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "82fdd7c60cf79914dfb173e09b14f7e663fdf391",
-            "messageTitle": "update test util person builder group field",
-            "messageBody": "",
+            "message": "update test util person builder group field",
             "insertions": 1,
             "deletions": 1
           }
@@ -1944,71 +1597,61 @@
         "commitResults": [
           {
             "hash": "a22a13e153a42d970d11775ff4c896d285f7e65e",
-            "messageTitle": "added viewGroupsCommand, edited sampleutil data to have empty group fields. All groups and houses in uppercase.",
-            "messageBody": "",
+            "message": "added viewGroupsCommand, edited sampleutil data to have empty group fields. All groups and houses in uppercase.",
             "insertions": 51,
             "deletions": 11
           },
           {
             "hash": "977362cb74ae0d526cfb24df515dc3647cc42901",
-            "messageTitle": "edit view_g result format",
-            "messageBody": "",
+            "message": "edit view_g result format",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "5921e007cf28d09c03bc85ae2159c258ef509524",
-            "messageTitle": "added EditGroupCommand",
-            "messageBody": "",
+            "message": "added EditGroupCommand",
             "insertions": 106,
             "deletions": 0
           },
           {
             "hash": "9969994b36ab568ac46b73bfccac2183521c3b81",
-            "messageTitle": "fix EOF newline error",
-            "messageBody": "",
+            "message": "fix EOF newline error",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "0171a4e06735d87890f15832d65e4695ffa6c46c",
-            "messageTitle": "update for checkstyle",
-            "messageBody": "",
+            "message": "update for checkstyle",
             "insertions": 8,
             "deletions": 3
           },
           {
             "hash": "1453c2a7a18431195ab7c8abea47fe5a53af9de1",
-            "messageTitle": "fix editgroup to edit all people in old group to new group",
-            "messageBody": "",
+            "message": "fix editgroup to edit all people in old group to new group",
             "insertions": 23,
             "deletions": 3
           },
           {
             "hash": "b47391122a6d3369feb5ef567151026a7e7abf53",
-            "messageTitle": "fixed jsonadapatedgroup storage bug",
-            "messageBody": "",
+            "message": "fixed jsonadapatedgroup storage bug",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "fa95d13d68a403e4699943175053097f62b86da5",
-            "messageTitle": "add viewhouses command, changed house names to Sentence case and all caps",
-            "messageBody": "",
+            "message": "add viewhouses command, changed house names to Sentence case and all caps",
             "insertions": 44,
             "deletions": 2
           },
           {
             "hash": "2f42acd1bd5db15600e30398e324e89d60fde98b",
-            "messageTitle": "update model to support filteredhouseslist, modify addhouse to throw error when empty or when more than two words",
-            "messageBody": "",
+            "message": "update model to support filteredhouseslist, modify addhouse to throw error when empty or when more than two words",
             "insertions": 32,
             "deletions": 19
           },
           {
             "hash": "d4e9dab83d4e33d54a9c732a63e16acba7d96d41",
-            "messageTitle": "add edithouse command, allows user to edit house name",
-            "messageBody": "",
+            "message": "add edithouse command, allows user to edit house name",
             "insertions": 129,
             "deletions": 0
           }
@@ -2021,71 +1664,61 @@
         "commitResults": [
           {
             "hash": "c28554a791d22e0003ba68d1e22bc91909e36108",
-            "messageTitle": "update for checkstyle",
-            "messageBody": "",
+            "message": "update for checkstyle",
             "insertions": 3,
             "deletions": 5
           },
           {
             "hash": "37d9bfbfabfb0acd0e2e054155a08000c113a8c0",
-            "messageTitle": "minor update for undoredo list, for add/edit group/house commands",
-            "messageBody": "",
+            "message": "minor update for undoredo list, for add/edit group/house commands",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "32b6d29634e46a7c9391bdb19e55e9068833c935",
-            "messageTitle": "update test for minor change in model",
-            "messageBody": "",
+            "message": "update test for minor change in model",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "5f8f8142367595600bdfee3ed3c01ab7264860c1",
-            "messageTitle": "Update Dev Guide",
-            "messageBody": "Remove data encryption feature, update several use and test cases",
+            "message": "Update Dev Guide",
             "insertions": 50,
             "deletions": 32
           },
           {
             "hash": "67c5a00b6359089f31daa91e94e69ab355b616ea",
-            "messageTitle": "Add deletegroup command",
-            "messageBody": "",
+            "message": "Add deletegroup command",
             "insertions": 102,
             "deletions": 0
           },
           {
             "hash": "178f265a897a3c4bf32f952a018ddff4ffbcb809",
-            "messageTitle": "Add deletehouse command; minor update to deletegroup command",
-            "messageBody": "",
+            "message": "Add deletehouse command; minor update to deletegroup command",
             "insertions": 117,
             "deletions": 7
           },
           {
             "hash": "8e9107bbb0f1545d7cb5a47dbadb9ab494460db2",
-            "messageTitle": "Simple size command showing num of participants, OGLs, Freshmen, groups and houses",
-            "messageBody": "",
+            "message": "Simple size command showing num of participants, OGLs, Freshmen, groups and houses",
             "insertions": 62,
             "deletions": 0
           },
           {
             "hash": "a9836debaed26456f49e757ac6d183d7ce40e9c5",
-            "messageTitle": "insert javadoc comment",
-            "messageBody": "",
+            "message": "insert javadoc comment",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "3a3e2dc034e754218de5f9e79fb3e03adb569602",
-            "messageTitle": "update modelstub in addcommandtest",
-            "messageBody": "",
+            "message": "update modelstub in addcommandtest",
             "insertions": 11,
             "deletions": 1
           },
           {
             "hash": "c7c284d953eec2286e02ba3eb322b34421cbcc70",
-            "messageTitle": "add whitespace for checkstyle",
-            "messageBody": "",
+            "message": "add whitespace for checkstyle",
             "insertions": 1,
             "deletions": 1
           }
@@ -2098,92 +1731,79 @@
         "commitResults": [
           {
             "hash": "ac65809c0dbf783d8591558ed0cd5a04b8901875",
-            "messageTitle": "Update README.adoc",
-            "messageBody": "remove data encryption feature",
+            "message": "Update README.adoc",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "146017d38ce94d31e58ba7075caee177ee3c1f14",
-            "messageTitle": "Update AboutUs",
-            "messageBody": "remove John Doe. Added responsibility (documentation)",
+            "message": "Update AboutUs",
             "insertions": 1,
             "deletions": 9
           },
           {
             "hash": "85be4600b897c88d6724c1f8f2075abcc3e3bbc8",
-            "messageTitle": "Update user guide",
-            "messageBody": "Update to include new commands; grouped similar commands; added warning symbol",
+            "message": "Update user guide",
             "insertions": 174,
             "deletions": 50
           },
           {
             "hash": "9f2473cadd0346b927f31094f429f2f1eee56ac8",
-            "messageTitle": "Update user guide",
-            "messageBody": "editing phrasing",
+            "message": "Update user guide",
             "insertions": 23,
             "deletions": 19
           },
           {
             "hash": "a370ec2e7410aef18ac5e85f11e82781c290f9dd",
-            "messageTitle": "Update User Guide",
-            "messageBody": "slight edits of wording, formatting",
+            "message": "Update User Guide",
             "insertions": 4,
             "deletions": 2
           },
           {
             "hash": "7db31287f3a0c6324b8e66a9c9f767aa1c607807",
-            "messageTitle": "Update User Guide to standardise upper lower case",
-            "messageBody": "",
+            "message": "Update User Guide to standardise upper lower case",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "4079fec0502d39caa28ee4aca6fea2208cc2b733",
-            "messageTitle": "Update Dev guide: add intro and about this DG",
-            "messageBody": "",
+            "message": "Update Dev guide: add intro and about this DG",
             "insertions": 27,
             "deletions": 0
           },
           {
             "hash": "7d2e0c011f82d2eedebcd64e9032aa5b7e586039",
-            "messageTitle": "Userguide remove trailing whitespace",
-            "messageBody": "",
+            "message": "Userguide remove trailing whitespace",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "bf63cb3cb6078dfe76e3ba9bbf84ded38ff6d7b4",
-            "messageTitle": "update userguide phrasings",
-            "messageBody": "",
+            "message": "update userguide phrasings",
             "insertions": 35,
             "deletions": 41
           },
           {
             "hash": "f5f3e9f596a99a09e9bd8ed963bc2e32dfac2afc",
-            "messageTitle": "Update userguide minor phrasing",
-            "messageBody": "",
+            "message": "Update userguide minor phrasing",
             "insertions": 5,
             "deletions": 6
           },
           {
             "hash": "a110ff9e81a744b2609fd7dbee6b947b29702114",
-            "messageTitle": "Update Dev Guide added group house features",
-            "messageBody": "Addition, reorganization and rewording of features",
+            "message": "Update Dev Guide added group house features",
             "insertions": 136,
             "deletions": 17
           },
           {
             "hash": "62c546da4bdf7a6700ddc6f0bf4dbf845e6af457",
-            "messageTitle": "Update dev guide user stories",
-            "messageBody": "slight update formatting as well",
+            "message": "Update dev guide user stories",
             "insertions": 38,
             "deletions": 6
           },
           {
             "hash": "0e2062549c393b6ffb8a03e5793a27fc8bf5c46f",
-            "messageTitle": "Update shanseet.adoc",
-            "messageBody": "",
+            "message": "Update shanseet.adoc",
             "insertions": 105,
             "deletions": 38
           }
@@ -2196,50 +1816,43 @@
         "commitResults": [
           {
             "hash": "19e59d74e4e60fe6d16aea109b415cab861131aa",
-            "messageTitle": "update PPP",
-            "messageBody": "",
+            "message": "update PPP",
             "insertions": 17,
             "deletions": 24
           },
           {
             "hash": "4bded37baa6c5db8914bc890bc263259af5e27ba",
-            "messageTitle": "update shanseet.adoc",
-            "messageBody": "",
+            "message": "update shanseet.adoc",
             "insertions": 21,
             "deletions": 17
           },
           {
             "hash": "45ea690a6da5fb86b2b462cd6496cf12eb285670",
-            "messageTitle": "update PPP",
-            "messageBody": "",
+            "message": "update PPP",
             "insertions": 9,
             "deletions": 5
           },
           {
             "hash": "36eef6f52474ae82f5502cd1b65297d27a1dffc7",
-            "messageTitle": "Add listing by group command",
-            "messageBody": "",
+            "message": "Add listing by group command",
             "insertions": 99,
             "deletions": 0
           },
           {
             "hash": "12419e07b6c4e7e72daca5cc232c8bc57947abcc",
-            "messageTitle": "update logic for list group to throw exception",
-            "messageBody": "",
+            "message": "update logic for list group to throw exception",
             "insertions": 25,
             "deletions": 5
           },
           {
             "hash": "835c590322bf4a0efe8b92c3dfda6f793b06ad29",
-            "messageTitle": "Add javadoc commands for listgroupcommand",
-            "messageBody": "",
+            "message": "Add javadoc commands for listgroupcommand",
             "insertions": 9,
             "deletions": 0
           },
           {
             "hash": "e6b3659c0441ceb5e9aa0561c2dbdb032bcbc2cb",
-            "messageTitle": "update PPP",
-            "messageBody": "",
+            "message": "update PPP",
             "insertions": 51,
             "deletions": 29
           }
@@ -2252,15 +1865,13 @@
         "commitResults": [
           {
             "hash": "5de6c032a7af03dca5f4e1dbe5ab8e3019ef15c4",
-            "messageTitle": "update Ui images, delete unnecessary images in docs",
-            "messageBody": "",
+            "message": "update Ui images, delete unnecessary images in docs",
             "insertions": 8,
             "deletions": 7
           },
           {
             "hash": "bc8b5a78dcc2aa70e423aa340525b3eecbe76bdd",
-            "messageTitle": "fix validity check for phone and birthday",
-            "messageBody": "",
+            "message": "fix validity check for phone and birthday",
             "insertions": 17,
             "deletions": 4
           }
@@ -2273,141 +1884,121 @@
         "commitResults": [
           {
             "hash": "c0ac0b36a2f2f3326aa227488830c4c66c7ab42c",
-            "messageTitle": "Update user guide for list_g and size commands, standardise formatting",
-            "messageBody": "",
+            "message": "Update user guide for list_g and size commands, standardise formatting",
             "insertions": 84,
             "deletions": 18
           },
           {
             "hash": "f8666d79d4f748a72e4c84bec9824f765667961a",
-            "messageTitle": "correct checkstyle errors",
-            "messageBody": "",
+            "message": "correct checkstyle errors",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "83d4d7640262e7c7cfc68611cc084f879bcf26a2",
-            "messageTitle": "update test data to new format requirements",
-            "messageBody": "",
+            "message": "update test data to new format requirements",
             "insertions": 38,
             "deletions": 29
           },
           {
             "hash": "ce4edd0bd0f49b95791791c70cea927d50dacf23",
-            "messageTitle": "update more test data for new requirements",
-            "messageBody": "",
+            "message": "update more test data for new requirements",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "f586091fc28269951efd06142586e2db11023b29",
-            "messageTitle": "change phone requirement to accept + at the start",
-            "messageBody": "",
+            "message": "change phone requirement to accept + at the start",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "2811cf1dcf71d3f259e43664431b8910fc07b718",
-            "messageTitle": "change test data to match requirements",
-            "messageBody": "",
+            "message": "change test data to match requirements",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "4fa675855a6efcdd4f6716610a600973bbb337cb",
-            "messageTitle": "update test data",
-            "messageBody": "",
+            "message": "update test data",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "670f87cee27940089eaf7b9c9f059f2e171aa0ad",
-            "messageTitle": "update more test data for new phone bday reqs",
-            "messageBody": "",
+            "message": "update more test data for new phone bday reqs",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "f97ae318ef0c7ff01bfe31705610f3b2d14efc4f",
-            "messageTitle": "update to include 16 digit false test for phone num",
-            "messageBody": "",
+            "message": "update to include 16 digit false test for phone num",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "b23f0cbf62fa6f4c0ca8e5f815a20f3146e72105",
-            "messageTitle": "checkstyle error",
-            "messageBody": "",
+            "message": "checkstyle error",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "20edf44e165fa9321b76a79923a701b2442461cd",
-            "messageTitle": "update bday to reject 00 date and month, add bday test",
-            "messageBody": "",
+            "message": "update bday to reject 00 date and month, add bday test",
             "insertions": 50,
             "deletions": 3
           },
           {
             "hash": "4a2a0680ba99ec7bedc684aa0715c424a4c7251e",
-            "messageTitle": "include one more bday test case for more than 8 digits",
-            "messageBody": "",
+            "message": "include one more bday test case for more than 8 digits",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "6e2eacd232d26d815b612efee35459996a69c133",
-            "messageTitle": "update AddHouseCommand test",
-            "messageBody": "",
+            "message": "update AddHouseCommand test",
             "insertions": 21,
             "deletions": 5
           },
           {
             "hash": "f369dc1946eac50dc1a94ebc2dcd3160c56c3fd8",
-            "messageTitle": "update AddGroupCommand test",
-            "messageBody": "",
+            "message": "update AddGroupCommand test",
             "insertions": 35,
             "deletions": 10
           },
           {
             "hash": "8663095c0c63c8702e66610ace737cf55b372dd0",
-            "messageTitle": "add EditGroupCommandTest, update editgroup and edithouse commands to throw null exceptions",
-            "messageBody": "",
+            "message": "add EditGroupCommandTest, update editgroup and edithouse commands to throw null exceptions",
             "insertions": 92,
             "deletions": 5
           },
           {
             "hash": "e50a366929854a4553df299a489ac7801bee41d1",
-            "messageTitle": "add EditHouseCommandTest",
-            "messageBody": "",
+            "message": "add EditHouseCommandTest",
             "insertions": 83,
             "deletions": 2
           },
           {
             "hash": "d30b4d9ede822de599b9d24a79888cafc6e05a04",
-            "messageTitle": "add DeleteGroup and DeleteHouse command tests",
-            "messageBody": "",
+            "message": "add DeleteGroup and DeleteHouse command tests",
             "insertions": 135,
             "deletions": 0
           },
           {
             "hash": "b5374e154f44f2a53bedc3b2c1bf482fe10f83d0",
-            "messageTitle": "remove unused and unnecessary classes and functions",
-            "messageBody": "",
+            "message": "remove unused and unnecessary classes and functions",
             "insertions": 0,
             "deletions": 80
           },
           {
             "hash": "5fa180429a8280e15c886f69339ef59d6c82737c",
-            "messageTitle": "update for checkstyle",
-            "messageBody": "",
+            "message": "update for checkstyle",
             "insertions": 32,
             "deletions": 31
           },
           {
             "hash": "de390eb92908735cad5d4d27f2cf594d6f022306",
-            "messageTitle": "update EditCommandTest to test for non existent group",
-            "messageBody": "",
+            "message": "update EditCommandTest to test for non existent group",
             "insertions": 8,
             "deletions": 0
           }
@@ -2420,106 +2011,85 @@
         "commitResults": [
           {
             "hash": "750d0cf8af39ece65a8b256fe9fdc8640e2dd66a",
-            "messageTitle": "update list group to add find empty group fields",
-            "messageBody": "",
+            "message": "update list group to add find empty group fields",
             "insertions": 8,
             "deletions": 3
           },
           {
             "hash": "7fe977f768f6ee98fcf54ef95f17477f2c506f48",
-            "messageTitle": "update for checkstyle",
-            "messageBody": "",
+            "message": "update for checkstyle",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "ba02191681874cb94a32e1761be4c3c5836c55d5",
-            "messageTitle": "update user guide for ability to list_g empty",
-            "messageBody": "",
+            "message": "update user guide for ability to list_g empty",
             "insertions": 5,
             "deletions": 1
           },
           {
             "hash": "987e00a8ac8e94387a5ca11b560eb1087a4522f1",
-            "messageTitle": "update dev guide for viewing houses and groups, and listing group",
-            "messageBody": "",
+            "message": "update dev guide for viewing houses and groups, and listing group",
             "insertions": 8,
             "deletions": 0
           },
           {
-            "hash": "ed7fd1933dc9e37163d01c0077692f43e8fdc938",
-            "messageTitle": "update individual members profile pic",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "a2e268aa859c9bd8dfbdcdd9b73307fed22f643b",
-            "messageTitle": "edit help window",
-            "messageBody": "",
+            "message": "edit help window",
             "insertions": 26,
             "deletions": 5
           },
           {
             "hash": "a750a507e9443c69e6d8ab380c12722c2c2998d0",
-            "messageTitle": "delete array of persons from Group",
-            "messageBody": "",
+            "message": "delete array of persons from Group",
             "insertions": 12,
             "deletions": 14
           },
           {
             "hash": "81f949114440975570b23307a370c94ab0dcf12c",
-            "messageTitle": "update model and storage to store person\u0027s houses; update add commands to add persons to contain house name",
-            "messageBody": "",
+            "message": "update model and storage to store person\u0027s houses; update add commands to add persons to contain house name",
             "insertions": 57,
             "deletions": 11
           },
           {
             "hash": "7597424a88cb26a25511485a16ac858e3014929a",
-            "messageTitle": "add list by house command",
-            "messageBody": "",
+            "message": "add list by house command",
             "insertions": 112,
             "deletions": 4
           },
           {
             "hash": "91b1985eefe66b3cb157783f09e2329caae3d9ea",
-            "messageTitle": "change edit command and edithouse command to update person\u0027s group\u0027s housename field",
-            "messageBody": "",
+            "message": "change edit command and edithouse command to update person\u0027s group\u0027s housename field",
             "insertions": 20,
             "deletions": 2
           },
           {
             "hash": "f4dac2ccac8746646bfd055b2d6ecc004a5f10db",
-            "messageTitle": "minor edit for logic for edithousecommand",
-            "messageBody": "",
+            "message": "minor edit for logic for edithousecommand",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "77644aeab3a2f02385a726d634c547a53d4a65d9",
-            "messageTitle": "update for EOF error",
-            "messageBody": "",
+            "message": "update for EOF error",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "4422ddd24b8ca1ab407594e86fe975a454b54c64",
-            "messageTitle": "fix checkstyle errors",
-            "messageBody": "",
+            "message": "fix checkstyle errors",
             "insertions": 12,
             "deletions": 3
           },
           {
             "hash": "6808d16f2c43225795c0ca8a071594644a9f3c1a",
-            "messageTitle": "change test data for new person storage",
-            "messageBody": "",
+            "message": "change test data for new person storage",
             "insertions": 10,
             "deletions": 9
           },
           {
             "hash": "b403b1aa75bb1ecd74efc8c0a0a355c0d8070406",
-            "messageTitle": "update addcommandtest for model implementation",
-            "messageBody": "",
+            "message": "update addcommandtest for model implementation",
             "insertions": 5,
             "deletions": 0
           }
@@ -2532,127 +2102,109 @@
         "commitResults": [
           {
             "hash": "bd1da02fb899cab4d0a76f37da47c3c2ee029d8f",
-            "messageTitle": "editing for system tests",
-            "messageBody": "",
+            "message": "editing for system tests",
             "insertions": 40,
             "deletions": 17
           },
           {
             "hash": "747e6e283769443cfc1d40b5eb0cb2a2744fb566",
-            "messageTitle": "update add commands for efficiency, update commands to accomodate null house names",
-            "messageBody": "",
+            "message": "update add commands for efficiency, update commands to accomodate null house names",
             "insertions": 22,
             "deletions": 4
           },
           {
             "hash": "1f8e19bbbcce24a967f8473ef4275a4fabcb8186",
-            "messageTitle": "update deletegroup command test",
-            "messageBody": "",
+            "message": "update deletegroup command test",
             "insertions": 74,
             "deletions": 30
           },
           {
             "hash": "37fce8f5155f4359aed94322ae0de1b8a62ca0b0",
-            "messageTitle": "update deletehouse command test",
-            "messageBody": "",
+            "message": "update deletehouse command test",
             "insertions": 24,
             "deletions": 36
           },
           {
             "hash": "0b58f8234a0d49c7307b3085394c4a2f271cb22e",
-            "messageTitle": "update edit group command test",
-            "messageBody": "",
+            "message": "update edit group command test",
             "insertions": 27,
             "deletions": 44
           },
           {
             "hash": "93b9173bf86cf30be877b3b3ebd3b0709a5016c9",
-            "messageTitle": "update edit house command test",
-            "messageBody": "",
+            "message": "update edit house command test",
             "insertions": 37,
             "deletions": 40
           },
           {
             "hash": "2dc20953797e56790a04aaaee9abecd0e645bcc2",
-            "messageTitle": "add tests for list group and list house commands",
-            "messageBody": "",
+            "message": "add tests for list group and list house commands",
             "insertions": 126,
             "deletions": 26
           },
           {
             "hash": "693dd958e257b3214e4763ea1d95f0a87f9db7e7",
-            "messageTitle": "update checkstyle",
-            "messageBody": "",
+            "message": "update checkstyle",
             "insertions": 7,
             "deletions": 4
           },
           {
             "hash": "b53e79edbc36d589ee838a0554d7c399d743aef4",
-            "messageTitle": "update checkstyle",
-            "messageBody": "",
+            "message": "update checkstyle",
             "insertions": 11,
             "deletions": 8
           },
           {
             "hash": "efdd476aecc317f3c0589764781552d858bf6104",
-            "messageTitle": "add tests for view house group and size commands",
-            "messageBody": "",
+            "message": "add tests for view house group and size commands",
             "insertions": 73,
             "deletions": 2
           },
           {
             "hash": "f0651b727d2ca59a025aafabc0efd2a0f0960d37",
-            "messageTitle": "added addgroupcommandparser test",
-            "messageBody": "",
+            "message": "added addgroupcommandparser test",
             "insertions": 36,
             "deletions": 1
           },
           {
             "hash": "60a92b7c430950d2f1a53da259edf77563c7a566",
-            "messageTitle": "change regex to whitespace regex and not a single whitespace char",
-            "messageBody": "",
+            "message": "change regex to whitespace regex and not a single whitespace char",
             "insertions": 20,
             "deletions": 9
           },
           {
             "hash": "7ec1fde4a501dffc892d59c913f424db0b2c060d",
-            "messageTitle": "update commands to override equals",
-            "messageBody": "",
+            "message": "update commands to override equals",
             "insertions": 53,
             "deletions": 4
           },
           {
             "hash": "0417d5ae0cc0fea6177858ba58594f244695e198",
-            "messageTitle": "add addhousecommandparser test and find group and house predicate test",
-            "messageBody": "",
+            "message": "add addhousecommandparser test and find group and house predicate test",
             "insertions": 88,
             "deletions": 7
           },
           {
             "hash": "87de5f60fcce6483674f80affe5bdec6db7fde37",
-            "messageTitle": "add editgroup and edithouse command parser tests",
-            "messageBody": "",
+            "message": "add editgroup and edithouse command parser tests",
             "insertions": 76,
             "deletions": 5
           },
           {
             "hash": "28f0052964106ec303cdf66666a7197aae84a4ad",
-            "messageTitle": "add deletegroup command parser test",
-            "messageBody": "",
+            "message": "add deletegroup command parser test",
             "insertions": 38,
             "deletions": 3
           },
           {
             "hash": "24de795a1768eddccef8d8c19ebb4981c5c1ce54",
-            "messageTitle": "add delete house command parser test",
-            "messageBody": "",
+            "message": "add delete house command parser test",
             "insertions": 40,
             "deletions": 6
           },
           {
             "hash": "9c85484ae7f58ca3a49362e3130ba99b4c9e9c21",
-            "messageTitle": "for checkstyle",
-            "messageBody": "",
+            "message": "for checkstyle",
             "insertions": 2,
             "deletions": 2
           }
@@ -2665,36 +2217,31 @@
         "commitResults": [
           {
             "hash": "152c73fa8e6cf9501f539de7a19595c74c328bc3",
-            "messageTitle": "updates to shanseet PPP",
-            "messageBody": "",
+            "message": "updates to shanseet PPP",
             "insertions": 64,
             "deletions": 110
           },
           {
             "hash": "59ae625ec474182d551c38b638262c1346dae579",
-            "messageTitle": "updates to shanseet PPP",
-            "messageBody": "",
+            "message": "updates to shanseet PPP",
             "insertions": 22,
             "deletions": 20
           },
           {
             "hash": "d205e9f371e3ad766e28dd577ad71189b670c4a7",
-            "messageTitle": "formatting updates to shanseet PPP",
-            "messageBody": "",
+            "message": "formatting updates to shanseet PPP",
             "insertions": 18,
             "deletions": 27
           },
           {
             "hash": "8e00f7581b2bc25956a1dd9a90e5a4e56ce2a3d9",
-            "messageTitle": "add \u0027logic +\u0027 in about us",
-            "messageBody": "",
+            "message": "add \u0027logic +\u0027 in about us",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "c882107b53685be0b5e2f1ecd2a838cdc66acc30",
-            "messageTitle": "fix typos",
-            "messageBody": "",
+            "message": "fix typos",
             "insertions": 4,
             "deletions": 4
           }
@@ -2707,99 +2254,79 @@
         "commitResults": [
           {
             "hash": "8e68e1c907ce0276a12c4804b0b1b957c82c78d8",
-            "messageTitle": "remove unnecessary list of groups from House class",
-            "messageBody": "",
+            "message": "remove unnecessary list of groups from House class",
             "insertions": 2,
             "deletions": 41
           },
           {
-            "hash": "93176603c7d5d4ab029265f2b7aa0bbb81ec33fc",
-            "messageTitle": "update model diagrams, add addgroup seq diagram",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "745fb369f43b535b03c2a382c2d6a8b6a9cebfe6",
-            "messageTitle": "add diagram to dev guide, rearrange info a bit",
-            "messageBody": "",
+            "message": "add diagram to dev guide, rearrange info a bit",
             "insertions": 24,
             "deletions": 11
           },
           {
             "hash": "5fe17e06c291ce2f2bcaeac3e2d85de7e4435216",
-            "messageTitle": "change uniquepersonlist and filteredpersons to participant",
-            "messageBody": "",
+            "message": "change uniquepersonlist and filteredpersons to participant",
             "insertions": 6,
             "deletions": 5
           },
           {
             "hash": "cf9925c427a32c83ce829fd1e27e1189151f9364",
-            "messageTitle": "change design considerations to table format",
-            "messageBody": "",
+            "message": "change design considerations to table format",
             "insertions": 77,
             "deletions": 75
           },
           {
             "hash": "0d31109431fdf02e868fa7af9727cc7999cda542",
-            "messageTitle": "standardising language",
-            "messageBody": "",
+            "message": "standardising language",
             "insertions": 47,
             "deletions": 23
           },
           {
             "hash": "14cfc4d7b07427cfcdfa0bd1173f01a42a2ad619",
-            "messageTitle": "changes to DG formatting",
-            "messageBody": "",
+            "message": "changes to DG formatting",
             "insertions": 16,
             "deletions": 10
           },
           {
             "hash": "c1a2aed3bbfa3629f07034660f9022c9b5f7c974",
-            "messageTitle": "create separate function in editgroupcommand for abstraction",
-            "messageBody": "",
+            "message": "create separate function in editgroupcommand for abstraction",
             "insertions": 10,
             "deletions": 3
           },
           {
             "hash": "12ed1ecee9bbd699c29fa95a1e5afc8859d05946",
-            "messageTitle": "create separate function in add functions for abstraction",
-            "messageBody": "",
+            "message": "create separate function in add functions for abstraction",
             "insertions": 12,
             "deletions": 7
           },
           {
             "hash": "9a8aa2d7da39cb5a0a8f65283a8f4024faabf819",
-            "messageTitle": "add editgroup seq diagram",
-            "messageBody": "",
+            "message": "add editgroup seq diagram",
             "insertions": 2,
             "deletions": 3
           },
           {
             "hash": "d1d4651a15ca37c9c064881086badf601ce801a8",
-            "messageTitle": "add edit group command diagram into dev guide",
-            "messageBody": "",
+            "message": "add edit group command diagram into dev guide",
             "insertions": 8,
             "deletions": 0
           },
           {
             "hash": "e9bb66b71bbe456172bc74ba0ba226df7d8f64b5",
-            "messageTitle": "remove unused import",
-            "messageBody": "",
+            "message": "remove unused import",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "348985b4b71af44a0917c5ead7dde889184a098b",
-            "messageTitle": "quick update to shanseet PPP",
-            "messageBody": "",
+            "message": "quick update to shanseet PPP",
             "insertions": 8,
             "deletions": 7
           },
           {
             "hash": "354ca3254f98aa51cb7f1efd9351a23a9fcba71f",
-            "messageTitle": "update shanseet PPP to fit 10 page limit",
-            "messageBody": "",
+            "message": "update shanseet PPP to fit 10 page limit",
             "insertions": 6,
             "deletions": 11
           }
@@ -2814,122 +2341,100 @@
         "commitResults": [
           {
             "hash": "3a8a321d5fb7e67c1d1eeeb4763c906fb37e33a2",
-            "messageTitle": "created enum for Role",
-            "messageBody": "",
+            "message": "created enum for Role",
             "insertions": 26,
             "deletions": 0
           },
           {
             "hash": "38e0d3c6ac105f4d8615afe10ac2bb9381f81200",
-            "messageTitle": "created skeleton class for appointments in FOP",
-            "messageBody": "",
+            "message": "created skeleton class for appointments in FOP",
             "insertions": 79,
             "deletions": 0
           },
           {
             "hash": "4c152a78b5f6d1f636648013fe5f81bbbc4dab8d",
-            "messageTitle": "renamed OGL to Ogl",
-            "messageBody": "",
+            "message": "renamed OGL to Ogl",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "4db1c685da9a6540a03b862bb43b5f94181ce348",
-            "messageTitle": "changed naming convention attempt on fixing code style",
-            "messageBody": "",
+            "message": "changed naming convention attempt on fixing code style",
             "insertions": 30,
             "deletions": 13
           },
           {
             "hash": "801580a134d8483690155c2b28444188dab3c11c",
-            "messageTitle": "attempt on fixing code style",
-            "messageBody": "",
+            "message": "attempt on fixing code style",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "1d19035c7ac4c86f264d8f16febadf76e119b0bd",
-            "messageTitle": "modified Participant class. extends on Person class.",
-            "messageBody": "",
+            "message": "modified Participant class. extends on Person class.",
             "insertions": 28,
             "deletions": 1
           },
           {
             "hash": "8e9df4639e0678ff46e50abd064454c891f4b42d",
-            "messageTitle": "modified all role class to suit the model structure of the FOP app",
-            "messageBody": "",
+            "message": "modified all role class to suit the model structure of the FOP app",
             "insertions": 14,
             "deletions": 5
           },
           {
             "hash": "82b4d7d732a97c4816d1b67482cbff29842bd0bf",
-            "messageTitle": "removed unnecessary imports, added more comments and reordering of imports",
-            "messageBody": "",
+            "message": "removed unnecessary imports, added more comments and reordering of imports",
             "insertions": 4,
             "deletions": 5
           },
           {
             "hash": "9e0d40aff061c43d241e48377120af52aca5e046",
-            "messageTitle": "shifted privilege getter from Privilege class to Participant class",
-            "messageBody": "",
+            "message": "shifted privilege getter from Privilege class to Participant class",
             "insertions": 5,
             "deletions": 4
           },
           {
             "hash": "86b22882e10a0ba3ebbba925ed89b0be7e5d9cbb",
-            "messageTitle": "created portfolio for indivudal members (each is maintained by respective members) and modified AboutUs",
-            "messageBody": "",
+            "message": "created portfolio for indivudal members (each is maintained by respective members) and modified AboutUs",
             "insertions": 303,
             "deletions": 15
           },
           {
             "hash": "94a04b9ae1511bd80b499436de79013494adde44",
-            "messageTitle": "fix style check on AboutUs",
-            "messageBody": "",
+            "message": "fix style check on AboutUs",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "e4baeab46fc2017b7cd2352081092c3694528b80",
-            "messageTitle": "created skeleton for randomize command",
-            "messageBody": "",
+            "message": "created skeleton for randomize command",
             "insertions": 19,
             "deletions": 0
           }
         ]
       },
       {
-        "insertions": 29,
-        "deletions": 21,
+        "insertions": 13,
+        "deletions": 13,
         "date": "2019-03-03",
         "commitResults": [
           {
             "hash": "a1e1d4f2291ae0e77b6624206b7542fec880faa3",
-            "messageTitle": "removed \u003cp\u003e tags",
-            "messageBody": "",
+            "message": "removed \u003cp\u003e tags",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "014c151befa7dcf1bec6c631352659d3652da313",
-            "messageTitle": "removed trailing white space",
-            "messageBody": "",
+            "message": "removed trailing white space",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "162093f1424067a2efaea52e2e7eb1a11deeb691",
-            "messageTitle": "modified AboutUs and added individual members profile pic",
-            "messageBody": "",
+            "message": "modified AboutUs and added individual members profile pic",
             "insertions": 10,
             "deletions": 10
-          },
-          {
-            "hash": "f9942e777935e9b4fa4633f3036b6cda6d53f035",
-            "messageTitle": "integration of Group class to all model class",
-            "messageBody": "",
-            "insertions": 16,
-            "deletions": 8
           }
         ]
       },
@@ -2940,52 +2445,33 @@
         "commitResults": [
           {
             "hash": "800bcd7430e0b4d6c91e1f8155ebb9e25cf73950",
-            "messageTitle": "added test function to initiate PR",
-            "messageBody": "",
+            "message": "added test function to initiate PR",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "8db9a274675063270b84ca7ff98c5db00f99dfc4",
-            "messageTitle": "fixed styling issue",
-            "messageBody": "",
+            "message": "fixed styling issue",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "af76b4dc1e9466fb61730e406637b1b1d493250e",
-            "messageTitle": "removed Group in all roles",
-            "messageBody": "",
+            "message": "removed Group in all roles",
             "insertions": 8,
             "deletions": 16
           },
           {
             "hash": "3df036c7e349bdb03fbd9f0b6c3773a3d350add0",
-            "messageTitle": "added end of line in AboutUs",
-            "messageBody": "",
+            "message": "added end of line in AboutUs",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "cdb7766a91276e31aee640a9663b55ab4bead281",
-            "messageTitle": "fixed alignment of description",
-            "messageBody": "",
+            "message": "fixed alignment of description",
             "insertions": 1,
             "deletions": 1
-          }
-        ]
-      },
-      {
-        "insertions": 8,
-        "deletions": 0,
-        "date": "2019-03-13",
-        "commitResults": [
-          {
-            "hash": "1882bd24637c228e217ae8b83a57b226744db08f",
-            "messageTitle": "added CODEOWNERS configuration to prevent rogue PRs to be merged",
-            "messageBody": "",
-            "insertions": 8,
-            "deletions": 0
           }
         ]
       },
@@ -2996,22 +2482,19 @@
         "commitResults": [
           {
             "hash": "81a48a901ea8ba93525e023be20465acafaaacca",
-            "messageTitle": "edited comment to push tag v1.1",
-            "messageBody": "",
+            "message": "edited comment to push tag v1.1",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "a2882c3a90efec61931bb9baa8cd328ce972c77a",
-            "messageTitle": "further implementation of skeleton for \"randomize\"",
-            "messageBody": "",
+            "message": "further implementation of skeleton for \"randomize\"",
             "insertions": 33,
             "deletions": 4
           },
           {
             "hash": "748725be816db59457fd46bd199eaad19a836714",
-            "messageTitle": "added javadoc for travis checks",
-            "messageBody": "",
+            "message": "added javadoc for travis checks",
             "insertions": 3,
             "deletions": 0
           }
@@ -3024,38 +2507,21 @@
         "commitResults": [
           {
             "hash": "c2527d98ea80eeeb515bda3d1c3536f8bcbfb330",
-            "messageTitle": "created test skeleton for randomize command",
-            "messageBody": "",
+            "message": "created test skeleton for randomize command",
             "insertions": 8,
             "deletions": 0
           },
           {
             "hash": "8dbaf5023afa11e192fc2a72d8c8dec5aab0114e",
-            "messageTitle": "updated RandomizeCommandParserTest",
-            "messageBody": "",
+            "message": "updated RandomizeCommandParserTest",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "4f5e6e3fe528c10a69eb08a0fda247097e3eec39",
-            "messageTitle": "removed unused import temporary",
-            "messageBody": "",
+            "message": "removed unused import temporary",
             "insertions": 1,
             "deletions": 3
-          }
-        ]
-      },
-      {
-        "insertions": 1,
-        "deletions": 1,
-        "date": "2019-03-19",
-        "commitResults": [
-          {
-            "hash": "5c64bf0dbe3b5f1fbdb31f9b14f27df308ad07c6",
-            "messageTitle": "updating of repo configuration. PR not required",
-            "messageBody": "",
-            "insertions": 1,
-            "deletions": 1
           }
         ]
       },
@@ -3066,64 +2532,55 @@
         "commitResults": [
           {
             "hash": "826f14e6e27b8174a640d89253487d4d784afec4",
-            "messageTitle": "refactor Person to Participant",
-            "messageBody": "",
+            "message": "refactor Person to Participant",
             "insertions": 669,
             "deletions": 0
           },
           {
             "hash": "6ca2c66916b65efd8c20c38b203d07be5417ab00",
-            "messageTitle": "deleted duplicate and refactor Person to Participant",
-            "messageBody": "",
+            "message": "deleted duplicate and refactor Person to Participant",
             "insertions": 215,
             "deletions": 876
           },
           {
             "hash": "4459f6171cb2811e54f3d1d5d7394ce89bf6db09",
-            "messageTitle": "refactor person to participant",
-            "messageBody": "",
+            "message": "refactor person to participant",
             "insertions": 35,
             "deletions": 172
           },
           {
             "hash": "7f68de2d92ce5066bb86c0e0ae35be792ef8d164",
-            "messageTitle": "refactor person to participant",
-            "messageBody": "",
+            "message": "refactor person to participant",
             "insertions": 193,
             "deletions": 56
           },
           {
             "hash": "2c82867072f848b75cc254406e77a9cd881ee9a9",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 7,
             "deletions": 4
           },
           {
             "hash": "b8b5d54b28245db190eb7f1c8a81d69fe6543eb6",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "b4149d46e323957bc6f9aa6a06e1c7a52de8b398",
-            "messageTitle": "changed default person to participants",
-            "messageBody": "",
+            "message": "changed default person to participants",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "539dab7504e4f3eb1d751f434e1438dbb9e813df",
-            "messageTitle": "created JsonAdaptedGroup",
-            "messageBody": "",
+            "message": "created JsonAdaptedGroup",
             "insertions": 57,
             "deletions": 0
           },
           {
             "hash": "7234e7e4830bc47dcc5ecdce4ab82f219953c809",
-            "messageTitle": "added spacing in between imports",
-            "messageBody": "",
+            "message": "added spacing in between imports",
             "insertions": 1,
             "deletions": 0
           }
@@ -3136,141 +2593,121 @@
         "commitResults": [
           {
             "hash": "13548b207e41159d83e3b35abc278f50bd42f332",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "a84d906bfef1f93897ae647404437f413f4465d7",
-            "messageTitle": "updated Group class",
-            "messageBody": "",
+            "message": "updated Group class",
             "insertions": 13,
             "deletions": 3
           },
           {
             "hash": "aaddc8da12c293289e7f88d1e499567f26eb3297",
-            "messageTitle": "created UniqueGroupList class",
-            "messageBody": "",
+            "message": "created UniqueGroupList class",
             "insertions": 126,
             "deletions": 0
           },
           {
             "hash": "5122901985f8a5393fa49c236602026a5be9695f",
-            "messageTitle": "added groups to AddressBook class",
-            "messageBody": "",
+            "message": "added groups to AddressBook class",
             "insertions": 12,
             "deletions": 3
           },
           {
             "hash": "c448f03aa55da5804958cfc2842008c82324fdfb",
-            "messageTitle": "updated ReadOnlyAddressBook interface with group",
-            "messageBody": "",
+            "message": "updated ReadOnlyAddressBook interface with group",
             "insertions": 7,
             "deletions": 0
           },
           {
             "hash": "cb1465a9743bd393d7a6ed4652670120047cdda3",
-            "messageTitle": "updated AddressBook with group functions",
-            "messageBody": "",
+            "message": "updated AddressBook with group functions",
             "insertions": 48,
             "deletions": 0
           },
           {
             "hash": "669577c20d9d6ced14a5829e2a5c76e1e130d67e",
-            "messageTitle": "refactor default sample data to Participants",
-            "messageBody": "",
+            "message": "refactor default sample data to Participants",
             "insertions": 7,
             "deletions": 7
           },
           {
             "hash": "e8ff9ece487bf1f1afeed557047a1bdca2bb490c",
-            "messageTitle": "created sample groups data",
-            "messageBody": "",
+            "message": "created sample groups data",
             "insertions": 29,
             "deletions": 0
           },
           {
             "hash": "ca6a8a6eb146f208bb7686c0bdfd9342670d9047",
-            "messageTitle": "fixed typo in mock data generation",
-            "messageBody": "",
+            "message": "fixed typo in mock data generation",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "9f92fd8fc8f3a680358ef427354cc28d02c86d92",
-            "messageTitle": "fixed isSameGroup check in Group class",
-            "messageBody": "",
+            "message": "fixed isSameGroup check in Group class",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "8f4ccd8e281a1ad3b498cdd5cd16d713e6910d86",
-            "messageTitle": "revert MainApp and added comments in AddressBook",
-            "messageBody": "",
+            "message": "revert MainApp and added comments in AddressBook",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "ae10a5ab70f1c3ade3672fa46797e96cc91ac056",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "e36afd4610681cd0636192301e70320442d54172",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "06ff76a23af8ff888e9fe3e09f349ee0718a0921",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "b240cb7d5ca2afc8ecf0150e438e6a8d818817ca",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "361d1f04e1468d64444332ba9e3ee8fde84447ea",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 16,
             "deletions": 21
           },
           {
             "hash": "be35325bf69a63453e8b5c5a678deb7876700130",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 18,
             "deletions": 1
           },
           {
             "hash": "89f7e59f35b4ea29ee1b4789396067134f16ed42",
-            "messageTitle": "refactor persons to groups and fix style check",
-            "messageBody": "",
+            "message": "refactor persons to groups and fix style check",
             "insertions": 11,
             "deletions": 6
           },
           {
             "hash": "ae80af83f69d4eee69329d9e5af77915a9e50483",
-            "messageTitle": "fix AddressBookTest and fix style check",
-            "messageBody": "",
+            "message": "fix AddressBookTest and fix style check",
             "insertions": 8,
             "deletions": 1
           },
           {
             "hash": "c062633d211f3f15c9e223ccd1906c2cc26b9393",
-            "messageTitle": "added group to JsonSerializableAddressBook",
-            "messageBody": "",
+            "message": "added group to JsonSerializableAddressBook",
             "insertions": 5,
             "deletions": 1
           }
@@ -3283,85 +2720,73 @@
         "commitResults": [
           {
             "hash": "a8cb4e5591454094107f38f6069e02a3f10943e4",
-            "messageTitle": "temporarily removed addFreshman in AddParticipantCommand",
-            "messageBody": "",
+            "message": "temporarily removed addFreshman in AddParticipantCommand",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "fbfa607892358783336069c3e7f99b448df12f78",
-            "messageTitle": "updated model interface",
-            "messageBody": "",
+            "message": "updated model interface",
             "insertions": 70,
             "deletions": 25
           },
           {
             "hash": "f1fe35639743cae03fefb8aede62c21711c59001",
-            "messageTitle": "added skeleton class for GroupList",
-            "messageBody": "",
+            "message": "added skeleton class for GroupList",
             "insertions": 109,
             "deletions": 35
           },
           {
             "hash": "88057f2a492171be5798557ed699a11bcbe0f239",
-            "messageTitle": "added skeleton class for GroupList",
-            "messageBody": "",
+            "message": "added skeleton class for GroupList",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "d08232478873719794cb3a0f07387531656978b2",
-            "messageTitle": "updated ModelManager",
-            "messageBody": "",
+            "message": "updated ModelManager",
             "insertions": 1,
             "deletions": 4
           },
           {
             "hash": "a8418ac44820c5c9a53f6d2d7ff526a05114ecd6",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 3,
             "deletions": 2
           },
           {
             "hash": "559ce5cf2c75130f27096d3779683dd126a4b3fe",
-            "messageTitle": "reupdated Model interface for handling Groups",
-            "messageBody": "",
+            "message": "reupdated Model interface for handling Groups",
             "insertions": 35,
             "deletions": 6
           },
           {
             "hash": "88472e31bfdd0efe3a8b4f0e3cc584ab6afa43d9",
-            "messageTitle": "reupdated Model interface for handling Houses",
-            "messageBody": "",
+            "message": "reupdated Model interface for handling Houses",
             "insertions": 34,
             "deletions": 1
           },
           {
             "hash": "1a4cb395bf7b75991030752bd73d1993da6bc8f7",
-            "messageTitle": "clean up Model interface",
-            "messageBody": "",
+            "message": "clean up Model interface",
             "insertions": 7,
             "deletions": 24
           },
           {
             "hash": "ef2eab5cf0c78b834225e0c187c0c4a930b6e03a",
-            "messageTitle": "created GroupList",
-            "messageBody": "",
+            "message": "created GroupList",
             "insertions": 52,
             "deletions": 0
           },
           {
             "hash": "45fd8bfad55c56c089571b9f536566f9bc3d7fb9",
-            "messageTitle": "updated Group model. further changes TBC",
-            "messageBody": "",
+            "message": "updated Group model. further changes TBC",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "d490e2c68e26af6ea4e5583f433c607ad864d60b",
-            "messageTitle": "updated Group handler in ModelManager (untested)",
-            "messageBody": "",
+            "message": "updated Group handler in ModelManager (untested)",
             "insertions": 111,
             "deletions": 35
           }
@@ -3374,92 +2799,79 @@
         "commitResults": [
           {
             "hash": "86180f8c04e1b993b4546723bf3a3f77746599f5",
-            "messageTitle": "updated ReadOnlyAddressBook interface",
-            "messageBody": "",
+            "message": "updated ReadOnlyAddressBook interface",
             "insertions": 7,
             "deletions": 0
           },
           {
             "hash": "0daed606d027c09b125e756d2cf6f18e929bcd9b",
-            "messageTitle": "created UniqueHouseList",
-            "messageBody": "",
+            "message": "created UniqueHouseList",
             "insertions": 140,
             "deletions": 0
           },
           {
             "hash": "0abefec012ea31bfdc7b47c66f6c8aaaee9d7f6a",
-            "messageTitle": "updated House model",
-            "messageBody": "",
+            "message": "updated House model",
             "insertions": 41,
             "deletions": 5
           },
           {
             "hash": "eb77b9f996193e335ab10ad871ff94c4edf7ab44",
-            "messageTitle": "updated Group model",
-            "messageBody": "",
+            "message": "updated Group model",
             "insertions": 28,
             "deletions": 11
           },
           {
             "hash": "668cd3d79abfed60b4a861d0fc8eb502f33fbc30",
-            "messageTitle": "updated AddressBook model",
-            "messageBody": "",
+            "message": "updated AddressBook model",
             "insertions": 73,
             "deletions": 14
           },
           {
             "hash": "7cea650f3e4a8860a6e2f45b645c888d10fdde16",
-            "messageTitle": "updated Model and ModelManager (temporarily commented out House ops)",
-            "messageBody": "",
+            "message": "updated Model and ModelManager (temporarily commented out House ops)",
             "insertions": 47,
             "deletions": 2
           },
           {
             "hash": "1827214bd82abdb9c7587430d099b003d2363a22",
-            "messageTitle": "updated AddGroup and AddHouse command",
-            "messageBody": "",
+            "message": "updated AddGroup and AddHouse command",
             "insertions": 6,
             "deletions": 5
           },
           {
             "hash": "c5ebef7b6b18aa96b247e5981725687c4143d864",
-            "messageTitle": "updated JsonSerializableAddressBook mapping of JSON",
-            "messageBody": "",
+            "message": "updated JsonSerializableAddressBook mapping of JSON",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "125a7122ada99c0c40a0d398aa4a2d50b17f1d67",
-            "messageTitle": "update Test file that implements updated interfaces",
-            "messageBody": "",
+            "message": "update Test file that implements updated interfaces",
             "insertions": 69,
             "deletions": 22
           },
           {
             "hash": "d2e0305421444e756bf43fd88587c193b2e20af7",
-            "messageTitle": "style check fix",
-            "messageBody": "",
+            "message": "style check fix",
             "insertions": 10,
             "deletions": 10
           },
           {
             "hash": "47d53aaa4923644610a7876ee0edc76129b13d74",
-            "messageTitle": "style check fix",
-            "messageBody": "",
+            "message": "style check fix",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "4ceb434037a48a262b84407f932e528a0caa0037",
-            "messageTitle": "style check fix",
-            "messageBody": "",
+            "message": "style check fix",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "ce2f30fcb67ecab72a3ca023d553db56c6ad03df",
-            "messageTitle": "style check fix of sample test data",
-            "messageBody": "",
+            "message": "style check fix of sample test data",
             "insertions": 3,
             "deletions": 0
           }
@@ -3472,57 +2884,49 @@
         "commitResults": [
           {
             "hash": "f74f29974a8996f17e3ac92083858fc8030823c6",
-            "messageTitle": "created JsonAdaptedHouse",
-            "messageBody": "",
+            "message": "created JsonAdaptedHouse",
             "insertions": 49,
             "deletions": 0
           },
           {
             "hash": "860ea5a596d7ae973b65a7b309e6513b28932949",
-            "messageTitle": "updated JsonSerializableAddressBook for House objects",
-            "messageBody": "",
+            "message": "updated JsonSerializableAddressBook for House objects",
             "insertions": 6,
             "deletions": 2
           },
           {
             "hash": "a177ca6cd2e45fd3ac9dcc19a66931d49a51f40e",
-            "messageTitle": "updated test json files with Houses",
-            "messageBody": "",
+            "message": "updated test json files with Houses",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "ee23c6a262b5e634dd23db33a7d7f0b18e8004ff",
-            "messageTitle": "style check fix",
-            "messageBody": "",
+            "message": "style check fix",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "1bb1a0ae46766304c3bc6a0a2764580e4b6d5187",
-            "messageTitle": "added conversion of storage to model for Group and House objects",
-            "messageBody": "",
+            "message": "added conversion of storage to model for Group and House objects",
             "insertions": 20,
             "deletions": 0
           },
           {
             "hash": "c1b027d8726f92eda716dc9ae8a1fb9fd40ff5a1",
-            "messageTitle": "created HouseList",
-            "messageBody": "",
+            "message": "created HouseList",
             "insertions": 52,
             "deletions": 0
           },
           {
             "hash": "fc416a0d8800eac9e18228b1b3658b5d69a565fe",
-            "messageTitle": "corrected naming convention in comments in HouseList",
-            "messageBody": "",
+            "message": "corrected naming convention in comments in HouseList",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "2aefe848ed07391e2a3f69fe4c0f13f7feed9df2",
-            "messageTitle": "updated ModelManager for handling House objects",
-            "messageBody": "",
+            "message": "updated ModelManager for handling House objects",
             "insertions": 14,
             "deletions": 2
           }
@@ -3535,85 +2939,68 @@
         "commitResults": [
           {
             "hash": "55ca729d709a049981e23e3df65f317b7b07fb7b",
-            "messageTitle": "deleted RandomizeCommandParser",
-            "messageBody": "",
+            "message": "deleted RandomizeCommandParser",
             "insertions": 0,
             "deletions": 27
           },
           {
             "hash": "577a4f15b694a442b278e37080379d1c79297c9f",
-            "messageTitle": "added throwing of exception in RandomizeCommand",
-            "messageBody": "",
+            "message": "added throwing of exception in RandomizeCommand",
             "insertions": 16,
             "deletions": 8
           },
           {
             "hash": "8dd5e321642715f0a61c222856a32abfcd44e918",
-            "messageTitle": "style check fix",
-            "messageBody": "",
+            "message": "style check fix",
             "insertions": 8,
             "deletions": 3
           },
           {
             "hash": "000fd99f4f5a1fe95c379648591a258236e84993",
-            "messageTitle": "added randomized group allocation algorithm in RandomizeCommand",
-            "messageBody": "",
+            "message": "added randomized group allocation algorithm in RandomizeCommand",
             "insertions": 26,
             "deletions": 4
           }
         ]
       },
       {
-        "insertions": 94,
-        "deletions": 43,
+        "insertions": 92,
+        "deletions": 35,
         "date": "2019-04-02",
         "commitResults": [
           {
             "hash": "3cd20b557feafabd98b92b5f3a88e8f01c702eee",
-            "messageTitle": "updating own PP",
-            "messageBody": "",
+            "message": "updating own PP",
             "insertions": 5,
             "deletions": 3
           },
           {
             "hash": "5ef4ce6d5cfe2f67dceca5c6b8f8689c756369f4",
-            "messageTitle": "added major contribution for test view",
-            "messageBody": "",
+            "message": "added major contribution for test view",
             "insertions": 6,
             "deletions": 5
           },
           {
             "hash": "7f6647743a232d7fd72702a8165e059993ab0efc",
-            "messageTitle": "removed sample descriptions and added template text for future updates",
-            "messageBody": "",
+            "message": "removed sample descriptions and added template text for future updates",
             "insertions": 17,
             "deletions": 17
           },
           {
             "hash": "0f434f839f1d8d5e0701a16b169ae10ba8234021",
-            "messageTitle": "fixed formatting issues",
-            "messageBody": "",
+            "message": "fixed formatting issues",
             "insertions": 10,
             "deletions": 10
           },
           {
-            "hash": "44cd2ce650c3c529af5b71f0259b5a2821e78b5f",
-            "messageTitle": "updated HTML header",
-            "messageBody": "",
-            "insertions": 2,
-            "deletions": 8
-          },
-          {
             "hash": "bc3e0c5271e7b907116316f5add1e0ebbefd3d00",
-            "messageTitle": "added randomized section",
-            "messageBody": "",
+            "message": "added randomized section",
             "insertions": 34,
             "deletions": 0
           },
           {
             "hash": "7f03f5f6306563b0a51e3cac7ab0ed446633e239",
-            "messageTitle": "added randomize in UG",
-            "messageBody": "",
+            "message": "added randomize in UG",
             "insertions": 20,
             "deletions": 0
           }
@@ -3626,211 +3013,164 @@
         "commitResults": [
           {
             "hash": "5ac4a21f0d301786df79c25e9fded773b7a2f089",
-            "messageTitle": "style check fix",
-            "messageBody": "",
+            "message": "style check fix",
             "insertions": 3,
             "deletions": 5
           },
           {
             "hash": "63dd5959d8e22b291be1f408680c48bda1568469",
-            "messageTitle": "fix missing update in UG for randomize",
-            "messageBody": "",
+            "message": "fix missing update in UG for randomize",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "d7039fbed82a37998a72eb1a9fef1cb6eca0f4e2",
-            "messageTitle": "updated personal PP",
-            "messageBody": "",
+            "message": "updated personal PP",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "e68013ee7ff66bb5f4e321af7988a78b3fc3661e",
-            "messageTitle": "updated personal PP",
-            "messageBody": "",
+            "message": "updated personal PP",
             "insertions": 8,
             "deletions": 15
           },
           {
             "hash": "9a1ecbebf1637dd7970675cd5510afe9ade01446",
-            "messageTitle": "updated personal PP with Introduction",
-            "messageBody": "",
+            "message": "updated personal PP with Introduction",
             "insertions": 13,
             "deletions": 14
           }
         ]
       },
       {
-        "insertions": 1,
-        "deletions": 1,
-        "date": "2019-04-09",
-        "commitResults": [
-          {
-            "hash": "fdf291ffbe6e6b592d344be18f22e02fccb65719",
-            "messageTitle": "updated CODEOWNERS. PR not required",
-            "messageBody": "",
-            "insertions": 1,
-            "deletions": 1
-          }
-        ]
-      },
-      {
-        "insertions": 1258,
-        "deletions": 1526,
+        "insertions": 1250,
+        "deletions": 1518,
         "date": "2019-04-11",
         "commitResults": [
           {
             "hash": "051c928799a61f968c8e711e4c68aac1d807b7b0",
-            "messageTitle": "deleted unused OglList",
-            "messageBody": "",
+            "message": "deleted unused OglList",
             "insertions": 0,
             "deletions": 52
           },
           {
             "hash": "a11fdb630b1e9ed5f9b73a2561d9c82112d4d812",
-            "messageTitle": "deleted unused HouseHead and ProjectDirector class",
-            "messageBody": "",
+            "message": "deleted unused HouseHead and ProjectDirector class",
             "insertions": 0,
             "deletions": 73
           },
           {
             "hash": "cbe0b10515a51772041da2819b78ead339925755",
-            "messageTitle": "moved Ogl class to appropriate package",
-            "messageBody": "",
+            "message": "moved Ogl class to appropriate package",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "b63fec0e7bb2c4a923296cfedc080e12903baa32",
-            "messageTitle": "moved Ogl class to appropriate package and updating context to \"participant\"",
-            "messageBody": "",
+            "message": "moved Ogl class to appropriate package and updating context to \"participant\"",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "fd5d51874dc9cb3cd38d0a6cc7353df18039f0b2",
-            "messageTitle": "moved Ogl class to appropriate package",
-            "messageBody": "",
+            "message": "moved Ogl class to appropriate package",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "4ecf6039af77725015f1c8155a3d90eadbe51267",
-            "messageTitle": "changed to Person object tentatively",
-            "messageBody": "",
+            "message": "changed to Person object tentatively",
             "insertions": 4,
             "deletions": 5
           },
           {
             "hash": "68f3bcfa2bcd1f849cc6bfb6f159a30a797fc547",
-            "messageTitle": "deleted unnecessary classes and removed dependencies in ModelManager",
-            "messageBody": "",
+            "message": "deleted unnecessary classes and removed dependencies in ModelManager",
             "insertions": 0,
             "deletions": 153
           },
           {
             "hash": "2ac9c10c0de0c9155176c57a23fead4edb0b7c05",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "2c7360d589c33043b28539143a7209206ee2a130",
-            "messageTitle": "refactor all Person to Participant for context purposes",
-            "messageBody": "",
-            "insertions": 992,
-            "deletions": 1042
+            "message": "refactor all Person to Participant for context purposes",
+            "insertions": 988,
+            "deletions": 1038
           },
           {
             "hash": "b1ef2a2e103522ae07086275a673876864196582",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 30,
             "deletions": 20
           },
           {
             "hash": "5f8633b8f15163b8d1121a3241c54a915c2c875b",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "9f68544e2ea6bcd88b14e50a0fced91a6c451369",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "f9013120f84932ca2ee9df0d5e5477507a99625c",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "c81bfd141c6a73add614e9bfbf1a52149f68d053",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 107,
             "deletions": 54
           },
           {
             "hash": "50d10ebd0f2c5e7321491b8e7675a40f9792ab71",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 12,
             "deletions": 6
           },
           {
             "hash": "f992ea35d8a78d761ffbe01cc4a216b09b90dd14",
-            "messageTitle": "revert renaming",
-            "messageBody": "",
+            "message": "revert renaming",
             "insertions": 16,
             "deletions": 16
           },
           {
             "hash": "e95a573ca75d997ee8b66cace044de94aad1d462",
-            "messageTitle": "reorder classes to appropriate packages",
-            "messageBody": "",
+            "message": "reorder classes to appropriate packages",
             "insertions": 12,
             "deletions": 13
           },
           {
             "hash": "ff0bea93a4e218f4c6137339f37e1509a2693773",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 3,
             "deletions": 5
           },
           {
-            "hash": "654e648e9fabb02062f148e157c5c0240eaae5ab",
-            "messageTitle": "corrected naming in license",
-            "messageBody": "",
-            "insertions": 4,
-            "deletions": 4
-          },
-          {
             "hash": "5b91152a22fc0ca5791febaf9f877a2b9c4ca4b4",
-            "messageTitle": "created sample House data",
-            "messageBody": "",
+            "message": "created sample House data",
             "insertions": 27,
             "deletions": 0
           },
           {
             "hash": "8c9449782bf774ae5442cbe5f330ea4dda20720e",
-            "messageTitle": "modified sample data",
-            "messageBody": "",
+            "message": "modified sample data",
             "insertions": 32,
             "deletions": 63
           },
           {
             "hash": "51aef9779793bfa59912616d02cddf89ce5eb1d0",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 6,
             "deletions": 6
           }
@@ -3843,134 +3183,115 @@
         "commitResults": [
           {
             "hash": "4f05138a2ab1d7c38fceb7c81e47f28b88bb3d12",
-            "messageTitle": "refactor participant to freshman",
-            "messageBody": "",
+            "message": "refactor participant to freshman",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "669f0ff05617b7e0245efa1ec36919ef2e9d82da",
-            "messageTitle": "refactor participant to freshman",
-            "messageBody": "",
+            "message": "refactor participant to freshman",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "7d53f5290634bfe4a917ffc92b4de5635147c816",
-            "messageTitle": "removed additional spacing",
-            "messageBody": "",
+            "message": "removed additional spacing",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "937f38c4681e3da7669b5ed5aec3069fc3214873",
-            "messageTitle": "removed additional spacing",
-            "messageBody": "",
+            "message": "removed additional spacing",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "1c0020d75be9adbf4e36509d1cf91ffffef6cab6",
-            "messageTitle": "added Value class and updated parser to reference to Value instead",
-            "messageBody": "",
+            "message": "added Value class and updated parser to reference to Value instead",
             "insertions": 16,
             "deletions": 2
           },
           {
             "hash": "540f3868c43668bbfab0021b0664a1f5abf70185",
-            "messageTitle": "added extra space in Value class",
-            "messageBody": "",
+            "message": "added extra space in Value class",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "6e3e5afa918b64181992c290695a445d69ea33a7",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "71cba265400e0722813c7bec0774356790764e05",
-            "messageTitle": "updated sample data and refactor person to participant",
-            "messageBody": "",
+            "message": "updated sample data and refactor person to participant",
             "insertions": 50,
             "deletions": 24
           },
           {
             "hash": "69266c764c1acd32bf653af646952a33a602ff85",
-            "messageTitle": "improved algorithm for group assignment to OGLs and Freshmen",
-            "messageBody": "",
+            "message": "improved algorithm for group assignment to OGLs and Freshmen",
             "insertions": 60,
             "deletions": 15
           },
           {
             "hash": "3a02c47fe90b1cf3dc5a7a7150a5f9bbb7d65984",
-            "messageTitle": "corrected algorithm for assignment groups to OGLs and freshmen",
-            "messageBody": "",
+            "message": "corrected algorithm for assignment groups to OGLs and freshmen",
             "insertions": 23,
             "deletions": 25
           },
           {
             "hash": "5f404d01de400f9ab4cb2647426d8ee0d00659bc",
-            "messageTitle": "removed extra spacing",
-            "messageBody": "",
+            "message": "removed extra spacing",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "14a69dc5b3bc543a88b558d2d2ee07b4038fb85b",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 19,
             "deletions": 19
           },
           {
             "hash": "f195ab9b26927712e294e7eeb0dc267159df414f",
-            "messageTitle": "updated comments for randomization algorithm",
-            "messageBody": "",
+            "message": "updated comments for randomization algorithm",
             "insertions": 8,
             "deletions": 3
           },
           {
             "hash": "ab3bdb26911ed28e64d1278d6a5f93b64172b662",
-            "messageTitle": "updated exception catching to be more specific cases",
-            "messageBody": "",
+            "message": "updated exception catching to be more specific cases",
             "insertions": 13,
             "deletions": 6
           },
           {
             "hash": "fac5c2d95264cce153ffff56544152b699be6706",
-            "messageTitle": "created test cases for randomize command",
-            "messageBody": "",
+            "message": "created test cases for randomize command",
             "insertions": 170,
             "deletions": 0
           },
           {
             "hash": "271aef99d63cd99a61cb89ef3b690043ad1b9189",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 5,
             "deletions": 7
           },
           {
             "hash": "6b7544304faebb4b4b1a2c567356686c53fddadc",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "5342a0796b75ae83c359d19537796c5243cbab69",
-            "messageTitle": "refactor person to participant",
-            "messageBody": "",
+            "message": "refactor person to participant",
             "insertions": 383,
             "deletions": 383
           },
           {
             "hash": "d7c7c1906980c98c177a9dc82e437589ee2f03f2",
-            "messageTitle": "refactor person to participant and fix style check",
-            "messageBody": "",
+            "message": "refactor person to participant and fix style check",
             "insertions": 17,
             "deletions": 14
           }
@@ -3983,288 +3304,169 @@
         "commitResults": [
           {
             "hash": "fe459ecb9fbaa87ff55f4cda2c71ade74d101bb2",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 6,
             "deletions": 3
           },
           {
             "hash": "0c5cdea3dc5184818085975e1c6894a553ad4cd0",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 4,
             "deletions": 2
           },
           {
             "hash": "a37b1c8bcd954bc80c0041b95c9ba82509fc38eb",
-            "messageTitle": "refactor person to participant",
-            "messageBody": "",
+            "message": "refactor person to participant",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "3dbcbaf7e1ed4afe44fe605b154d31046072fb06",
-            "messageTitle": "added comment for valid DOB check",
-            "messageBody": "",
+            "message": "added comment for valid DOB check",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "055d66ce6367ff7c15503fc588a873df6c0448a8",
-            "messageTitle": "implemented birthday check where not undergrads are older than 50 y/o",
-            "messageBody": "",
+            "message": "implemented birthday check where not undergrads are older than 50 y/o",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "66ff4e15896a56c2d55abbab213abdd1fa7c7312",
-            "messageTitle": "corrected DOB data to be of valid year",
-            "messageBody": "",
+            "message": "corrected DOB data to be of valid year",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "72476ac1110318843b3cc2462a69e1a0bcb7c614",
-            "messageTitle": "updated Value to include MAX_AGE",
-            "messageBody": "",
+            "message": "updated Value to include MAX_AGE",
             "insertions": 6,
             "deletions": 1
           },
           {
             "hash": "382fa7bb7a75ef409e7aa6d2c773bea228c87f99",
-            "messageTitle": "corrected typo",
-            "messageBody": "",
+            "message": "corrected typo",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "b9efac8023103db1ed1ae07ab100506ef97169b7",
-            "messageTitle": "cleaning and optimizing of randomize algorithm",
-            "messageBody": "",
+            "message": "cleaning and optimizing of randomize algorithm",
             "insertions": 42,
             "deletions": 58
           },
           {
             "hash": "0284a6cac03b92119547bbb242e0783b511b5ef4",
-            "messageTitle": "updated README",
-            "messageBody": "",
+            "message": "updated README",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "005af4a4a3e19c9440b2e620239b082f446a1662",
-            "messageTitle": "updated UserGuide for randomize feature",
-            "messageBody": "",
+            "message": "updated UserGuide for randomize feature",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "40680a27ec93b59721e601682ab87dc34170eaf9",
-            "messageTitle": "updated UserGuide for randomize feature",
-            "messageBody": "",
+            "message": "updated UserGuide for randomize feature",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "0236e096bffd1cf297f4c43204a968747c9d8a3b",
-            "messageTitle": "updated UserGuide for randomize feature",
-            "messageBody": "",
+            "message": "updated UserGuide for randomize feature",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "6feb07c93332d724c2179e834cbfecf297b32158",
-            "messageTitle": "updated UserGuide for randomize feature",
-            "messageBody": "",
+            "message": "updated UserGuide for randomize feature",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "bbbf43b1fc9249e61d1097a00be4cd87fc26397c",
-            "messageTitle": "updated UserGuide for randomize feature",
-            "messageBody": "",
+            "message": "updated UserGuide for randomize feature",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "c28b98e6c60f19949926d4557abbde8533bb4269",
-            "messageTitle": "updated UserGuide for randomize feature",
-            "messageBody": "",
+            "message": "updated UserGuide for randomize feature",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "16443b87f935f5779b2669aa3fc991b78d3e387f",
-            "messageTitle": "updated UserGuide for randomize feature",
-            "messageBody": "",
+            "message": "updated UserGuide for randomize feature",
             "insertions": 6,
             "deletions": 3
           },
           {
-            "hash": "6b2a4173dd69c2e29c5fdc6baed01ff96a43eb83",
-            "messageTitle": "updated UserGuide for randomize feature",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "403320f9e57500fa651e7cced0ec81b3e315d511",
-            "messageTitle": "updated UserGuide for randomize feature",
-            "messageBody": "",
+            "message": "updated UserGuide for randomize feature",
             "insertions": 2,
             "deletions": 2
           },
           {
-            "hash": "6fe66e7e23f7ffbdc48edc3777f147dc31443632",
-            "messageTitle": "updated UserGuide for randomize feature",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "7254c1e0a3011b8cf82e0f17c829511115399064",
-            "messageTitle": "updated UserGuide for randomize feature",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "98aadaa3a4d1ae5d83d32888cb2ceff7cf4da249",
-            "messageTitle": "updated UserGuide for randomize feature",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "a7fc832019e2b6f3a2688cce53d9c878dfba95d6",
-            "messageTitle": "updated name for JAR file",
-            "messageBody": "",
+            "message": "updated name for JAR file",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "6200fee1be35073ab1f9ed890a411450a96eff85",
-            "messageTitle": "updated name for JAR file after build",
-            "messageBody": "",
+            "message": "updated name for JAR file after build",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "17fda0286417d6f0171212fda0545cef616d194b",
-            "messageTitle": "fixed specific duplicate message based on context of object",
-            "messageBody": "",
+            "message": "fixed specific duplicate message based on context of object",
             "insertions": 6,
             "deletions": 3
           },
           {
-            "hash": "ddd043adf34e87b1d3e3672b78b512f189d312e0",
-            "messageTitle": "updated CD for Storage component",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "0651b28d361b60e71eb4f6d61d4324722b53a258",
-            "messageTitle": "updated CD for Storage component",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "05ed7fe42bcca4c04a356af56e4bfe0ae0801592",
-            "messageTitle": "updated CD for Storage component",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "5c195987a960f80c7a0e7a6ba9f0d299b2ca056e",
-            "messageTitle": "updated CD for Storage component",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "508ffb7f4c25fa1ca3bc8e661dd69e364791633c",
-            "messageTitle": "updated CD for Storage component",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "9e264d6479434751981961d0b34333c73f1d1d0f",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 2,
             "deletions": 2
           },
           {
-            "hash": "40c309906ad9d3dc970da6f9d94ee45461c1d163",
-            "messageTitle": "added randomize AD",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "12ba8214b3446e1582f70bea94c0e618277dcc60",
-            "messageTitle": "moved randomize AD to correct location",
-            "messageBody": "",
+            "message": "moved randomize AD to correct location",
             "insertions": 5,
             "deletions": 1
           },
           {
-            "hash": "8b7e034245da6cd6df4165968659eb847efe7d4e",
-            "messageTitle": "moved randomize AD to correct location",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "521567516c85123870120de77ff93c680ff49b6b",
-            "messageTitle": "updated DG for randomize feature",
-            "messageBody": "",
+            "message": "updated DG for randomize feature",
             "insertions": 7,
             "deletions": 3
           },
           {
-            "hash": "08b7fd2f153eb4c6a8d34e70696ddf5237f3ed73",
-            "messageTitle": "updated randomize AD",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "768245d3d0806d5e8a36fc641bc5345c8469a65b",
-            "messageTitle": "updated randomize SD",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "fbf638628788b16205e641acc5cf508022510674",
-            "messageTitle": "updated DG for randomize feature",
-            "messageBody": "",
+            "message": "updated DG for randomize feature",
             "insertions": 9,
             "deletions": 5
           },
           {
             "hash": "5000f1ff885b5815ea5ce19cc4bc5ead9d35d8d2",
-            "messageTitle": "fix style check",
-            "messageBody": "",
+            "message": "fix style check",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "f57501b79d9404a13e66e5b24fda0ce002786271",
-            "messageTitle": "updated PPP",
-            "messageBody": "",
+            "message": "updated PPP",
             "insertions": 6,
             "deletions": 4
           },
           {
             "hash": "20d82d4f0fd0d096ddf0509b22a406bee4712a3b",
-            "messageTitle": "updated PPP",
-            "messageBody": "",
+            "message": "updated PPP",
             "insertions": 3,
             "deletions": 3
           }
@@ -4277,148 +3479,121 @@
         "commitResults": [
           {
             "hash": "30cd2c5796f6a01349a3808ccb40cf63d34515b0",
-            "messageTitle": "fixed DG and updated randomized SD",
-            "messageBody": "",
+            "message": "fixed DG and updated randomized SD",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "7b8032132c52c29c8b620368b5f34743392f019a",
-            "messageTitle": "updated PPP",
-            "messageBody": "",
+            "message": "updated PPP",
             "insertions": 5,
             "deletions": 4
           },
           {
             "hash": "8c325eee11b405b92f25c99c56d3536f636ce3a5",
-            "messageTitle": "updated README",
-            "messageBody": "",
+            "message": "updated README",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "b9dd767f4f09f6383f6f5eac38a86f4d147e7cd2",
-            "messageTitle": "updated PPP",
-            "messageBody": "",
+            "message": "updated PPP",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "cb8f691810b444841cf63fb4c29643a4613fab28",
-            "messageTitle": "updated PPP",
-            "messageBody": "",
+            "message": "updated PPP",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "646676499cf06193dbb2614098fe9f1a8d90250e",
-            "messageTitle": "updated PPP",
-            "messageBody": "",
+            "message": "updated PPP",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "ffa1dc61a5ae5dd0a40adf023c63064ed8d33f76",
-            "messageTitle": "updated PPP",
-            "messageBody": "",
+            "message": "updated PPP",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "8068cceec5074f36f0cc11e0a07af2ef5f5a6849",
-            "messageTitle": "updated DG",
-            "messageBody": "",
+            "message": "updated DG",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "9b0a33dc5b9cd146165476e174610b1f23bccac3",
-            "messageTitle": "fixed linking of build status",
-            "messageBody": "",
+            "message": "fixed linking of build status",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "4fddf92859aef42d721ed6f8c6bd407bc6d98c02",
-            "messageTitle": "updated PPP",
-            "messageBody": "",
+            "message": "updated PPP",
             "insertions": 38,
             "deletions": 15
           },
           {
             "hash": "10c8e327e7212d7aecd7d37d7d7c4d37ad385a38",
-            "messageTitle": "updated PPP",
-            "messageBody": "",
+            "message": "updated PPP",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "f45ca16e7fdb7a1b8333af80a614177b82c8d4d5",
-            "messageTitle": "updated README",
-            "messageBody": "",
+            "message": "updated README",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "a07257745f9c77101f40e0ee0f34e57d4db951c3",
-            "messageTitle": "updated UG",
-            "messageBody": "",
+            "message": "updated UG",
             "insertions": 3,
             "deletions": 3
           },
           {
-            "hash": "accc52f287632e0f47fb50ba6639ae04375bb0f3",
-            "messageTitle": "updated randomize SD",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "0d543d881e2a24344802693ca6cd96bee2e91984",
-            "messageTitle": "updated randomize SD and DG",
-            "messageBody": "",
+            "message": "updated randomize SD and DG",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "35d3b024acda813b721e310216d0a88316d2e5dd",
-            "messageTitle": "updated DG",
-            "messageBody": "",
+            "message": "updated DG",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "8809173dc01e6845271f4cec9c9b8c10f7853b54",
-            "messageTitle": "updated DG",
-            "messageBody": "",
+            "message": "updated DG",
             "insertions": 17,
             "deletions": 7
           },
           {
             "hash": "5e0443471b5e8a668b5a2b7ac048f36062dc1984",
-            "messageTitle": "added diagrams for randomization",
-            "messageBody": "",
+            "message": "added diagrams for randomization",
             "insertions": 39,
             "deletions": 0
           },
           {
             "hash": "66dc96f3c0371fb61217538012c603e9f102f1c8",
-            "messageTitle": "updated DG",
-            "messageBody": "",
+            "message": "updated DG",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "9e2267424f97cb3dd7c9bec1111571327646eda8",
-            "messageTitle": "updated DG",
-            "messageBody": "",
+            "message": "updated DG",
             "insertions": 8,
             "deletions": 1
           },
           {
             "hash": "88d968219e575ef3ec34aafb6c88483fe771e135",
-            "messageTitle": "updated PPP",
-            "messageBody": "",
+            "message": "updated PPP",
             "insertions": 1,
             "deletions": 1
           }
@@ -4427,45 +3602,86 @@
     ]
   },
   "authorFinalContributionMap": {
-    "tantantan277": 3004,
+    "tantantan277": 3003,
     "ssunil3232": 1617,
     "shanseet": 3180,
-    "weizhang05": 3154
+    "weizhang05": 3145
   },
   "authorFileFormatContributionMap": {
     "tantantan277": {
-      "gitignore": 1,
       "adoc": 210,
-      "java": 2241,
-      "fxml": 151,
+      "cs": 0,
       "css": 378,
-      "json": 23
+      "fxml": 151,
+      "gradle": 0,
+      "html": 0,
+      "java": 2241,
+      "js": 0,
+      "json": 23,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "ssunil3232": {
       "adoc": 390,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
       "gradle": 1,
-      "java": 1226
+      "html": 0,
+      "java": 1226,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "shanseet": {
       "adoc": 892,
+      "cs": 0,
+      "css": 0,
+      "fxml": 0,
+      "gradle": 0,
+      "html": 0,
       "java": 2237,
-      "json": 51
+      "js": 0,
+      "json": 51,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "weizhang05": {
-      "CODEOWNERS": 8,
       "adoc": 366,
-      "gradle": 1,
-      "slim": 1,
-      "java": 2767,
+      "cs": 0,
+      "css": 0,
       "fxml": 1,
-      "json": 10
+      "gradle": 1,
+      "html": 0,
+      "java": 2767,
+      "js": 0,
+      "json": 10,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     }
   },
   "authorContributionVariance": {
-    "tantantan277": 60307.652,
-    "ssunil3232": 19614.67,
+    "tantantan277": 60284.246,
+    "ssunil3232": 19622.764,
     "shanseet": 50879.88,
-    "weizhang05": 222810.23
+    "weizhang05": 221648.5
   },
   "authorDisplayNameMap": {
     "tantantan277": "PHA...TAN",
