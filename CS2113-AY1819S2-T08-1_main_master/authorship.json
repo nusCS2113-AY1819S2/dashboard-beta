@@ -1,6 +1,7 @@
 [
   {
     "path": "README.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -319,6 +320,7 @@
   },
   {
     "path": "_reposense/config.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -559,6 +561,7 @@
   },
   {
     "path": "build.gradle",
+    "fileType": "gradle",
     "lines": [
       {
         "lineNumber": 1,
@@ -2227,6 +2230,7 @@
   },
   {
     "path": "config/checkstyle/checkstyle.xml",
+    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -5176,6 +5180,7 @@
   },
   {
     "path": "docs/AboutUs.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -5536,6 +5541,7 @@
   },
   {
     "path": "docs/ContactUs.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -5594,6 +5600,7 @@
   },
   {
     "path": "docs/DeveloperGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -15301,6 +15308,7 @@
   },
   {
     "path": "docs/UserGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -19926,6 +19934,7 @@
   },
   {
     "path": "docs/team/Huu.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -20692,6 +20701,7 @@
   },
   {
     "path": "docs/team/Jeremy.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -21288,6 +21298,7 @@
   },
   {
     "path": "docs/team/JunRu.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -21912,6 +21923,7 @@
   },
   {
     "path": "docs/team/Zhuhui.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -22453,6 +22465,7 @@
   },
   {
     "path": "src/main/java/seedu/address/AppParameters.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -22910,6 +22923,7 @@
   },
   {
     "path": "src/main/java/seedu/address/MainApp.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -24228,6 +24242,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/LogsCenter.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -25028,6 +25043,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/Messages.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -25200,6 +25216,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/Version.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26008,6 +26025,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/index/Index.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26395,6 +26413,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/CollectionUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26663,6 +26682,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/FileUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27267,6 +27287,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/JsonUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28298,6 +28319,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/StringUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28797,6 +28819,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/CommandHistory.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -29219,6 +29242,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/Logic.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30063,6 +30087,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/LogicManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31047,6 +31072,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/CommandResult.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31722,6 +31748,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ExportVolunteerCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32227,6 +32254,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/MapCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32543,6 +32571,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SortCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32796,6 +32825,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/UndoCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33050,6 +33080,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/beneficiary/AddBeneficiaryCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33548,6 +33579,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/beneficiary/DeleteBeneficiaryCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34263,6 +34295,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/beneficiary/EditBeneficiaryCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -36126,6 +36159,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/beneficiary/FindBeneficiaryCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -36470,6 +36504,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/beneficiary/ListBeneficiaryCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -36681,6 +36716,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/beneficiary/SummaryBeneficiaryCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -37676,6 +37712,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/exceptions/CommandException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -37804,6 +37841,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/project/AddProjectCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38253,6 +38291,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/project/AssignBeneficiaryCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39283,6 +39322,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/project/AssignVolunteerCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39900,6 +39940,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/project/CompleteCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40321,6 +40362,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/project/DeleteProjectCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40847,6 +40889,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/project/ListProjectCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41058,6 +41101,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/project/ProjectBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41745,6 +41789,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/volunteer/AddVolunteerCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42400,6 +42445,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/volunteer/DeleteVolunteerCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42816,6 +42862,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/volunteer/EditVolunteerCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45235,6 +45282,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/volunteer/FindVolunteerCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45567,6 +45615,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/volunteer/ListVolunteerCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45773,6 +45822,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/volunteer/SelectVolunteerCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46182,6 +46232,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddressBookParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47419,6 +47470,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ArgumentMultimap.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47961,6 +48013,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ArgumentTokenizer.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49006,6 +49059,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/CliSyntax.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49120,6 +49174,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ExportVolunteerCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49639,6 +49694,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/MapCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50466,6 +50522,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/Parser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50594,6 +50651,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ParserUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50899,6 +50957,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/beneficiary/AddBeneficiaryCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51355,6 +51414,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/beneficiary/CliSyntaxBeneficiary.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51469,6 +51529,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/beneficiary/DeleteBeneficiaryCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51841,6 +51902,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/beneficiary/EditBeneficiaryCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52332,6 +52394,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/beneficiary/FindBeneficiaryCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52592,6 +52655,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/beneficiary/ParserUtilBeneficiary.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53147,6 +53211,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/project/AddProjectCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53575,6 +53640,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/project/AssignBeneficiaryCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53954,6 +54020,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/project/AssignVolunteerCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54354,6 +54421,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/project/CliSyntaxProject.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54489,6 +54557,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/project/CompleteCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54847,6 +54916,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/project/DeleteProjectCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55072,6 +55142,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/project/ParserUtilProject.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55598,6 +55669,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/volunteer/AddVolunteerCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56371,6 +56443,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/volunteer/CliSyntaxVolunteer.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56563,6 +56636,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/volunteer/DeleteVolunteerCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56798,6 +56872,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/volunteer/EditVolunteerCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57566,6 +57641,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/volunteer/FindVolunteerCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57822,6 +57898,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/volunteer/ParserUtilVolunteer.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59534,6 +59611,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/volunteer/SelectVolunteerCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59755,6 +59833,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/AddressBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61559,6 +61638,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/MapObject.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61917,6 +61997,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/Model.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64036,6 +64117,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ModelManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68227,6 +68309,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyAddressBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68405,6 +68488,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/UserPrefs.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69030,6 +69114,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/beneficiary/Address.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69437,6 +69522,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/beneficiary/Beneficiary.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -70747,6 +70833,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/beneficiary/Email.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71225,6 +71312,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/beneficiary/Name.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71667,6 +71755,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/beneficiary/NameContainsKeywordsPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71892,6 +71981,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/beneficiary/Phone.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72265,6 +72355,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/beneficiary/UniqueBeneficiaryList.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73275,6 +73366,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/beneficiary/exceptions/BeneficiaryNotFoundException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73332,6 +73424,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/beneficiary/exceptions/DuplicateBeneficiaryException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73417,6 +73510,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/project/Complete.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73803,6 +73897,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/project/NameContainsKeywordsPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74028,6 +74123,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/project/Project.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75310,6 +75406,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/project/ProjectDate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76151,6 +76248,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/project/ProjectTitle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76537,6 +76635,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/project/UniqueProjectList.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77833,6 +77932,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/project/exceptions/DuplicateProjectException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77925,6 +78025,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/project/exceptions/ProjectNotFoundException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77983,6 +78084,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/util/SampleDataUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78258,6 +78360,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/util/VolunteerSampleDataUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78827,6 +78930,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/Address.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79235,6 +79339,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/Age.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79663,6 +79768,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/DietaryPreference.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80030,6 +80136,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/Email.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80507,6 +80614,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/EmergencyContact.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80902,6 +81010,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/Gender.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81325,6 +81434,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/MedicalCondition.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81684,6 +81794,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/Name.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82106,6 +82217,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/NameContainsKeywordsPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82332,6 +82444,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/Phone.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82712,6 +82825,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/Race.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -83127,6 +83241,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/Religion.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -83541,6 +83656,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/UniqueVolunteerList.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -84650,6 +84766,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/Volunteer.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86117,6 +86234,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/exceptions/DuplicateVolunteerException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86203,6 +86321,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/volunteer/exceptions/VolunteerNotFoundException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86260,6 +86379,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/AddressBookStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86598,6 +86718,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedBeneficiary.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87397,6 +87518,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedProject.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -88190,6 +88312,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedProjectTitle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -88535,6 +88658,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedVolunteer.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89993,6 +90117,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableAddressBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90633,6 +90758,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonUserPrefsStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90978,6 +91104,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/UserPrefsStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91253,6 +91380,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/BrowserPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91731,6 +91859,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/ExitDialog.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92159,6 +92288,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/HelpWindow.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92763,6 +92893,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/ListElementPointer.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93570,6 +93701,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/MainWindow.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -95408,6 +95540,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/StatusBarFooter.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -95879,6 +96012,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/Ui.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -95993,6 +96127,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/UiManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96619,6 +96754,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/UiPart.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97287,6 +97423,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/ValidatePassword.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98065,6 +98202,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/beneficiary/BeneficiaryCard.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98570,6 +98708,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/beneficiary/BeneficiaryListPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99103,6 +99242,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/project/ProjectCard.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99608,6 +99748,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/project/ProjectListPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -100134,6 +100275,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/volunteer/VolunteerCard.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -100789,6 +100931,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/volunteer/VolunteerListPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101309,6 +101452,7 @@
   },
   {
     "path": "src/main/resources/view/BeneficiaryListCard.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -101548,6 +101692,7 @@
   },
   {
     "path": "src/main/resources/view/BeneficiaryListPanel.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -101654,6 +101799,7 @@
   },
   {
     "path": "src/main/resources/view/CheerTheme.css",
+    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -104140,6 +104286,7 @@
   },
   {
     "path": "src/main/resources/view/CommandBox.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -104212,6 +104359,7 @@
   },
   {
     "path": "src/main/resources/view/DarkTheme.css",
+    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -106700,6 +106848,7 @@
   },
   {
     "path": "src/main/resources/view/Extensions.css",
+    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -106849,6 +106998,7 @@
   },
   {
     "path": "src/main/resources/view/HelpWindow.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -106984,6 +107134,7 @@
   },
   {
     "path": "src/main/resources/view/MainWindow.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -107512,6 +107663,7 @@
   },
   {
     "path": "src/main/resources/view/PersonListCard.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -107766,6 +107918,7 @@
   },
   {
     "path": "src/main/resources/view/PersonListPanel.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -107832,6 +107985,7 @@
   },
   {
     "path": "src/main/resources/view/ProjectListCard.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -108072,6 +108226,7 @@
   },
   {
     "path": "src/main/resources/view/ProjectListPanel.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -108179,6 +108334,7 @@
   },
   {
     "path": "src/main/resources/view/ResultDisplay.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -108244,6 +108400,7 @@
   },
   {
     "path": "src/main/resources/view/StatusBarFooter.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -108344,6 +108501,7 @@
   },
   {
     "path": "src/main/resources/view/VolunteerListCard.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -108646,6 +108804,7 @@
   },
   {
     "path": "src/main/resources/view/VolunteerListPanel.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -108752,6 +108911,7 @@
   },
   {
     "path": "src/main/resources/view/default.html",
+    "fileType": "html",
     "lines": [
       {
         "lineNumber": 1,
@@ -108824,6 +108984,7 @@
   },
   {
     "path": "src/test/data/JsonAddressBookStorageTest/invalidAndValidPersonAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -108945,6 +109106,7 @@
   },
   {
     "path": "src/test/data/JsonAddressBookStorageTest/invalidPersonAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -109024,6 +109186,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableAddressBookTest/duplicatePersonAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -109166,6 +109329,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableAddressBookTest/invalidPersonAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -109245,6 +109409,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableAddressBookTest/typicalPersonsAddressBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -109681,6 +109846,7 @@
   },
   {
     "path": "src/test/java/seedu/address/TestApp.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -110439,6 +110605,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/LogicManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -111611,6 +111778,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ClearCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -111879,6 +112047,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/CommandTestUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113058,6 +113227,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/MapCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113535,6 +113705,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/RedoCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113901,6 +114072,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/UndoCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -114239,6 +114411,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/beneficiary/AddBeneficiaryCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -117131,6 +117304,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/beneficiary/BeneficiaryCommandTestUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -118196,6 +118370,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/beneficiary/DeleteBeneficiaryCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119849,6 +120024,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/beneficiary/EditBeneficiaryCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -121796,6 +121972,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/beneficiary/EditBeneficiaryDescriptorTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -122210,6 +122387,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/beneficiary/ListBeneficiaryCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -122526,6 +122704,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/project/AddProjectCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125222,6 +125401,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/project/AssignBeneficiaryCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -126119,6 +126299,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/project/AssignVolunteerCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -126729,6 +126910,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/project/CompleteCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -127220,6 +127402,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/project/DeleteProjectCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -128551,6 +128734,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/project/ListProjectCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -128874,6 +129058,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/project/ProjectCommandTestUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -129197,6 +129382,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/volunteer/AddVolunteerCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -131880,6 +132066,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/volunteer/EditVolunteerDescriptorTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -132273,6 +132460,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/volunteer/VolunteerCommandTestUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -133758,6 +133946,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/FindVolunteerCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -134021,6 +134210,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/MapCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -134197,6 +134387,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/ParserUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -134402,6 +134593,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/beneficiary/AddBeneficiaryCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -135432,6 +135624,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/beneficiary/DeleteBeneficiaryCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -135720,6 +135913,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/beneficiary/EditBeneficiaryCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -137037,6 +137231,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/beneficiary/FindBeneficiaryCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -137297,6 +137492,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/AddressBookTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -137791,6 +137987,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/ModelManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -138507,6 +138704,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/VersionedAddressBookTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -140581,6 +140779,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/beneficiary/AddressTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -140848,6 +141047,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/beneficiary/BeneficiaryTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -141535,6 +141735,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/beneficiary/EmailTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -141977,6 +142178,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/beneficiary/NameContainsKeywordsPredicateTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -142510,6 +142712,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/beneficiary/NameTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -142805,6 +143008,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/beneficiary/PhoneTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -143101,6 +143305,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/beneficiary/UniqueBeneficiaryListTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -144404,6 +144609,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/project/CompleteTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -144615,6 +144821,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/project/ProjectDateTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -144945,6 +145152,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/project/ProjectTitleTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -145247,6 +145455,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/project/UniqueProjectListTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -146179,6 +146388,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/volunteer/AddressTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -146447,6 +146657,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/volunteer/AgeTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -146714,6 +146925,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/volunteer/DietaryPreferenceTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -147002,6 +147214,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/volunteer/EmailTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -147445,6 +147658,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/volunteer/EmergencyContactTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -147719,6 +147933,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/volunteer/MedicalConditionTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -148014,6 +148229,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/volunteer/NameContainsKeywordsPredicateTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -148548,6 +148764,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/volunteer/NameTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -148844,6 +149061,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/volunteer/UniqueVolunteerListTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -150147,6 +150365,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/volunteer/VolunteerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -150856,6 +151075,7 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonAddressBookStorageTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -151719,6 +151939,7 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonSerializableAddressBookTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -152043,6 +152264,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/AddressBookBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -152417,6 +152639,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalIndexes.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -152532,6 +152755,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/beneficiary/BeneficiariesSyncProjects.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -153387,6 +153611,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/beneficiary/BeneficiaryBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -154123,6 +154348,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/beneficiary/BeneficiaryUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -154467,6 +154693,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/beneficiary/EditBeneficiaryDescriptorBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -155063,6 +155290,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/beneficiary/TypicalBeneficiaries.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -155694,6 +155922,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/project/ProjectUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -155919,6 +156148,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/project/TypicalProjects.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -156431,6 +156661,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/volunteer/EditVolunteerDescriptorBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -157050,6 +157281,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/volunteer/TypicalVolunteers.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -157733,6 +157965,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/volunteer/VolunteerBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -159227,6 +159460,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/volunteer/VolunteerUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -159797,6 +160031,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/BrowserPanelTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -160102,6 +160337,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/CommandBoxTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -161202,6 +161438,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/StatusBarFooterTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -161730,6 +161967,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/TestFxmlObject.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -161991,6 +162229,7 @@
   },
   {
     "path": "src/test/java/systemtests/AddressBookSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -163401,6 +163640,7 @@
   },
   {
     "path": "src/test/java/systemtests/ClockRule.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -163816,6 +164056,7 @@
   },
   {
     "path": "src/test/java/systemtests/HelpCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -164483,6 +164724,7 @@
   },
   {
     "path": "src/test/java/systemtests/ModelHelper.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -164765,6 +165007,7 @@
   },
   {
     "path": "src/test/java/systemtests/SystemTestSetupHelper.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -165292,6 +165535,7 @@
   },
   {
     "path": "src/test/resources/view/UiPartTest/validFileWithFxRoot.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,

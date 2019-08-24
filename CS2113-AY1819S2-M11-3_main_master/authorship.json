@@ -1,6 +1,328 @@
 [
   {
+    "path": ".gitignore",
+    "fileType": "gitignore",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "build/"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".gradle/"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".checkstyle"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".settings/"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".idea/"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "lib/*"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.iml"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.log"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.log.*"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "*.csv"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": "/config.json"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "src/test/data/sandbox/"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "preferences.json"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ".DS_Store"
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "./screenshot*.png"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "classes/"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "/data/"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "/bin/"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "src/main/resources/docs/"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "out/"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": ".project"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "wanchinglim"
+        },
+        "content": ".classpath"
+      }
+    ],
+    "authorContributionMap": {
+      "wanchinglim": 3,
+      "-": 19
+    }
+  },
+  {
+    "path": "LICENSE",
+    "fileType": "LICENSE",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "MIT License"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Copyright (c) 2016 Software Engineering Education - FOSS Resources"
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "Permission is hereby granted, free of charge, to any flashcard obtaining a copy"
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "of this software and associated documentation files (the \"Software\"), to deal"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "in the Software without restriction, including without limitation the rights"
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "to use, copy, modify, merge, publish, distribute, sublicense, and/or sell"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "copies of the Software, and to permit flashcards to whom the Software is"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "furnished to do so, flashcard to the following conditions:"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "The above copyright notice and this permission notice shall be included in all"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "copies or substantial portions of the Software."
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,"
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE"
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "SOFTWARE."
+      }
+    ],
+    "authorContributionMap": {
+      "dannong": 3,
+      "-": 18
+    }
+  },
+  {
     "path": "README.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -283,6 +605,7 @@
   },
   {
     "path": "_reposense/config.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -501,6 +824,7 @@
   },
   {
     "path": "build.gradle",
+    "fileType": "gradle",
     "lines": [
       {
         "lineNumber": 1,
@@ -2169,6 +2493,7 @@
   },
   {
     "path": "docs/AboutUs.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -2460,6 +2785,7 @@
   },
   {
     "path": "docs/ContactUs.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -2518,6 +2844,7 @@
   },
   {
     "path": "docs/DeveloperGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -12420,6 +12747,7 @@
   },
   {
     "path": "docs/UserGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -15651,6 +15979,7 @@
   },
   {
     "path": "docs/UsingCheckstyle.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -15954,6 +16283,7 @@
   },
   {
     "path": "docs/team/dannong.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -16656,6 +16986,7 @@
   },
   {
     "path": "docs/team/jemine1998.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -17303,6 +17634,7 @@
   },
   {
     "path": "docs/team/wanchinglim.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -18024,7 +18356,186 @@
     }
   },
   {
+    "path": "docs/templates/LICENSE",
+    "fileType": "LICENSE",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "This directory contains code from the Asciidoctor Project."
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "(https://asciidoctor.org/)"
+      },
+      {
+        "lineNumber": 3,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 4,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "MIT License"
+      },
+      {
+        "lineNumber": 5,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 6,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "Copyright (C) 2012-2018 Dan Allen, Ryan Waldron and the Asciidoctor Project"
+      },
+      {
+        "lineNumber": 7,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 8,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "Permission is hereby granted, free of charge, to any flashcard obtaining a copy"
+      },
+      {
+        "lineNumber": 9,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "of this software and associated documentation files (the \"Software\"), to deal"
+      },
+      {
+        "lineNumber": 10,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "in the Software without restriction, including without limitation the rights"
+      },
+      {
+        "lineNumber": 11,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "to use, copy, modify, merge, publish, distribute, sublicense, and/or sell"
+      },
+      {
+        "lineNumber": 12,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "copies of the Software, and to permit flashcards to whom the Software is"
+      },
+      {
+        "lineNumber": 13,
+        "author": {
+          "gitId": "dannong"
+        },
+        "content": "furnished to do so, flashcard to the following conditions:"
+      },
+      {
+        "lineNumber": 14,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 15,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "The above copyright notice and this permission notice shall be included in"
+      },
+      {
+        "lineNumber": 16,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "all copies or substantial portions of the Software."
+      },
+      {
+        "lineNumber": 17,
+        "author": {
+          "gitId": "-"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 18,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR"
+      },
+      {
+        "lineNumber": 19,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,"
+      },
+      {
+        "lineNumber": 20,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE"
+      },
+      {
+        "lineNumber": 21,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+      },
+      {
+        "lineNumber": 22,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,"
+      },
+      {
+        "lineNumber": 23,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN"
+      },
+      {
+        "lineNumber": 24,
+        "author": {
+          "gitId": "-"
+        },
+        "content": "THE SOFTWARE."
+      }
+    ],
+    "authorContributionMap": {
+      "dannong": 3,
+      "-": 21
+    }
+  },
+  {
     "path": "src/main/java/seedu/address/MainApp.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -19506,6 +20017,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/ComponentManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -19738,6 +20250,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/EventsCenter.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -20061,6 +20574,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/LogsCenter.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -20973,6 +21487,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/Messages.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -21080,6 +21595,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/index/Index.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -21467,6 +21983,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/BaseEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -21594,6 +22111,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/model/FlashBookChangedEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -21735,6 +22253,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/model/RightPanelChangedEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -21862,6 +22381,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/storage/DataSavingExceptionEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -22017,6 +22537,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/ui/DisplayofContentRequestEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -22137,6 +22658,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/ui/DisplayofTopicRequestEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -22257,6 +22779,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/ui/ExitAppRequestEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -22363,6 +22886,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/ui/FlashcardPanelSelectionChangedEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -22553,6 +23077,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/ui/JumpToListRequestEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -22716,6 +23241,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/ui/NewResultAvailableEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -22871,6 +23397,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/ui/ShowContentRequestEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -22991,6 +23518,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/ui/ShowHelpRequestEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -23104,6 +23632,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/ui/ShowTopicRequestEvent.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -23224,6 +23753,7 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/FileUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -23814,6 +24344,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/Logic.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -24580,6 +25111,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/LogicManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -25556,6 +26088,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26064,6 +26597,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ClearCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26285,6 +26819,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/Command.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26504,6 +27039,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DeadlineCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27297,6 +27833,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DeleteCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27784,6 +28321,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DeleteSubjectCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28359,6 +28897,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/EditCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30154,6 +30693,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ExitCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30303,6 +30843,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/FindCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30628,6 +31169,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30869,6 +31411,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/NextCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31445,6 +31988,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/PreviousCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32042,6 +32586,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/RedoCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32268,6 +32813,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SelectCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32775,6 +33321,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SelectSubjectCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33336,6 +33883,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SortCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33757,6 +34305,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/UndoCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33983,6 +34532,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/exceptions/CommandException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34118,6 +34668,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34548,6 +35099,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/CliSyntax.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34663,6 +35215,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/DeadlineCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34944,6 +35497,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/DeleteSubjectCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -35169,6 +35723,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/EditCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -35732,6 +36287,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/FindCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -35972,6 +36528,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/FlashBookParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -36983,6 +37540,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ParserUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38079,6 +38637,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/SelectCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38333,6 +38892,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/SelectSubjectCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38558,6 +39118,7 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/SortCommandParser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38797,6 +39358,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/FlashBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39821,6 +40383,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/Model.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41113,6 +41676,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ModelManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43854,6 +44418,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyFlashBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43989,6 +44554,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyUserPrefs.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44110,6 +44676,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/UserPrefs.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44764,6 +45331,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/VersionedFlashBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45542,6 +46110,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/flashcard/Content.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45950,6 +46519,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/flashcard/Deadline.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46225,6 +46795,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/flashcard/Difficulty.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46612,6 +47183,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/flashcard/Flashcard.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47568,6 +48140,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/flashcard/Topic.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47991,6 +48564,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/flashcard/TopicContainsDifficultyPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48216,6 +48790,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/flashcard/TopicContainsDoublePredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48483,6 +49058,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/flashcard/TopicContainsKeywordsPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48709,6 +49285,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/flashcard/TopicContainsSubjectPredicate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48935,6 +49512,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/flashcard/UniqueFlashcardList.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49909,6 +50487,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/flashcard/exceptions/DuplicateFlashcardException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49994,6 +50573,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/flashcard/exceptions/FlashcardNotFoundException.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50044,6 +50624,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/subject/ReadOnlySubjectBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50178,6 +50759,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/subject/SubjectBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51230,6 +51812,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/subject/UniqueSubjectList.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52225,6 +52808,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/tag/SubjectTag.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52690,6 +53274,7 @@
   },
   {
     "path": "src/main/java/seedu/address/model/util/SampleDataUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53946,6 +54531,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/FlashBookStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54276,6 +54862,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedFlashcard.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55049,6 +55636,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedSubjectBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55512,6 +56100,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedTag.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55913,6 +56502,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonFlashBookStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56482,6 +57072,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableFlashBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56940,6 +57531,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableSubjectBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57375,6 +57967,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSubjectBookStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57930,6 +58523,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/Storage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58256,6 +58850,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/StorageManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59261,6 +59856,7 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/SubjectBookStorage.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59592,6 +60188,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/BrowserPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60071,6 +60668,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/FlashcardCard.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60726,6 +61324,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/FlashcardListPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61534,6 +62133,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/MainWindow.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63357,6 +63957,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/RightPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64212,6 +64813,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/StatusBarFooter.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64971,6 +65573,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/SubjectCard.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -65392,6 +65995,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/SubjectListPanel.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -65940,6 +66544,7 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/UiPart.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -66664,6 +67269,7 @@
   },
   {
     "path": "src/main/resources/view/ButtonPane.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -66861,6 +67467,7 @@
   },
   {
     "path": "src/main/resources/view/DarkTheme.css",
+    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -69685,6 +70292,7 @@
   },
   {
     "path": "src/main/resources/view/FlashcardListCard.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -69947,6 +70555,7 @@
   },
   {
     "path": "src/main/resources/view/FlashcardListPanel.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -70033,6 +70642,7 @@
   },
   {
     "path": "src/main/resources/view/MainWindow.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -70693,6 +71303,7 @@
   },
   {
     "path": "src/main/resources/view/RightPanel.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -71163,6 +71774,7 @@
   },
   {
     "path": "src/main/resources/view/StatusBarFooter.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -71278,6 +71890,7 @@
   },
   {
     "path": "src/main/resources/view/SubjectListCard.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -71510,6 +72123,7 @@
   },
   {
     "path": "src/main/resources/view/SubjectListPanel.fxml",
+    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -71596,6 +72210,7 @@
   },
   {
     "path": "src/main/resources/view/default.html",
+    "fileType": "html",
     "lines": [
       {
         "lineNumber": 1,
@@ -71696,6 +72311,7 @@
   },
   {
     "path": "src/test/data/JsonFlashBookStorageTest/invalidAndValidFlashcardFlashBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -71796,6 +72412,7 @@
   },
   {
     "path": "src/test/data/JsonFlashBookStorageTest/invalidFlashcardFlashBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -71854,6 +72471,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableFlashBookTest/duplicateFlashcardFlashBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -71963,6 +72581,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableFlashBookTest/invalidFlashcardFlashBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -72021,6 +72640,7 @@
   },
   {
     "path": "src/test/data/JsonSerializableFlashBookTest/typicalFlashcardsFlashBook.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -72354,6 +72974,7 @@
   },
   {
     "path": "src/test/data/JsonUserPrefsStorageTest/ExtraValuesUserPref.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -72454,6 +73075,7 @@
   },
   {
     "path": "src/test/data/JsonUserPrefsStorageTest/TypicalUserPref.json",
+    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -72540,6 +73162,7 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/FlashcardCardHandle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73152,6 +73775,7 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/FlashcardListPanelHandle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74274,6 +74898,7 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/MainWindowHandle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74647,6 +75272,7 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/RightPanelHandle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74704,6 +75330,7 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/StatusBarFooterHandle.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75407,6 +76034,7 @@
   },
   {
     "path": "src/test/java/seedu/address/TestApp.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76180,6 +76808,7 @@
   },
   {
     "path": "src/test/java/seedu/address/commons/core/index/IndexTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76834,6 +77463,7 @@
   },
   {
     "path": "src/test/java/seedu/address/commons/util/JsonUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77158,6 +77788,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/LogicManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78589,6 +79220,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddCommandIntegrationTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79033,6 +79665,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81634,6 +82267,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ClearCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81903,6 +82537,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/CommandTestUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82970,6 +83605,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/DeadlineCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -84302,6 +84938,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/DeleteCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -85691,6 +86328,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/EditCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87766,6 +88404,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/EditFlashcardDescriptorTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -88162,6 +88801,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/FindCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -88683,6 +89323,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ListCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89037,6 +89678,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/RedoCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89390,6 +90032,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/SelectCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90150,6 +90793,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/SortCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90669,6 +91313,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/UndoCommandTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91008,6 +91653,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/AddCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91844,6 +92490,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/DeadlineCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92153,6 +92800,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/DeleteCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92386,6 +93034,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/EditCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93852,6 +94501,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/FindCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -94099,6 +94749,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/FlashBookParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -95452,6 +96103,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/ParserUtilTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96744,6 +97396,7 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/SelectCommandParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96956,6 +97609,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/FlashBookTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97967,6 +98621,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/ModelManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99335,6 +99990,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/UserPrefsTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99491,6 +100147,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/VersionedFlashBookTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101586,6 +102243,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/flashcard/ContentTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101860,6 +102518,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/flashcard/DeadlineTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -102085,6 +102744,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/flashcard/DifficultyTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -102381,6 +103041,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/flashcard/FlashcardTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103105,6 +103766,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/flashcard/TopicContainsKeywordsPredicateTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103655,6 +104317,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/flashcard/TopicTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103951,6 +104614,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/flashcard/UniqueFlashcardListTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105290,6 +105954,7 @@
   },
   {
     "path": "src/test/java/seedu/address/model/tag/SubjectTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105481,6 +106146,7 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonAdaptedFlashcardTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106198,6 +106864,7 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonFlashBookStorageTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107089,6 +107756,7 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonSerializableFlashBookTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107469,6 +108137,7 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonUserPrefsStorageTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108423,6 +109092,7 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/StorageManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108937,6 +109607,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/EditFlashcardDescriptorBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -109492,6 +110163,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/EventsUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -109682,6 +110354,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/FlashBookBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -109928,6 +110601,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/FlashcardBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -110631,6 +111305,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/FlashcardUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -111061,6 +111736,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/SerializableTestClass.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -111574,6 +112250,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/SubjectBookBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -111827,6 +112504,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/SubjectTagBuilder.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -112171,6 +112849,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TestUtil.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -112565,6 +113244,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalFlashcards.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113171,6 +113851,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalIndexes.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113264,6 +113945,7 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalSubjects.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113552,6 +114234,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/BrowserPanelTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113856,6 +114539,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/FlashcardCardTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -114327,6 +115011,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/FlashcardListPanelTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -115142,6 +115827,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/GuiUnitTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -115368,6 +116054,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/MainWindowCloseTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -116063,6 +116750,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/RightPanelTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -116099,6 +116787,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/UiPartTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -116934,6 +117623,7 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/testutil/GuiTestAssert.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -117476,6 +118166,7 @@
   },
   {
     "path": "src/test/java/systemtests/AddCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119243,6 +119934,7 @@
   },
   {
     "path": "src/test/java/systemtests/ClearCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119961,6 +120653,7 @@
   },
   {
     "path": "src/test/java/systemtests/DeleteCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -121337,6 +122030,7 @@
   },
   {
     "path": "src/test/java/systemtests/EditCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -123972,6 +124666,7 @@
   },
   {
     "path": "src/test/java/systemtests/FindCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125312,6 +126007,7 @@
   },
   {
     "path": "src/test/java/systemtests/FlashBookSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -127535,6 +128231,7 @@
   },
   {
     "path": "src/test/java/systemtests/HelpCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -128350,6 +129047,7 @@
   },
   {
     "path": "src/test/java/systemtests/ModelHelper.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -128632,6 +129330,7 @@
   },
   {
     "path": "src/test/java/systemtests/SampleDataTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -129055,6 +129754,7 @@
   },
   {
     "path": "src/test/java/systemtests/SelectCommandSystemTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -130157,6 +130857,7 @@
   },
   {
     "path": "src/test/java/systemtests/SystemTestSetupHelper.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
