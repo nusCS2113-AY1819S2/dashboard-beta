@@ -1,652 +1,6 @@
 [
   {
-    "path": ".classpath",
-    "fileType": "classpath",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\"?\u003e"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\u003cclasspath\u003e"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003cclasspathentry kind\u003d\"src\" output\u003d\"bin/main\" path\u003d\"src/main/java\"\u003e"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003cattributes\u003e"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003cattribute name\u003d\"gradle_scope\" value\u003d\"main\"/\u003e"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003cattribute name\u003d\"gradle_used_by_scope\" value\u003d\"main,test\"/\u003e"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003c/attributes\u003e"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003c/classpathentry\u003e"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003cclasspathentry kind\u003d\"src\" output\u003d\"bin/main\" path\u003d\"src/main/resources\"\u003e"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003cattributes\u003e"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003cattribute name\u003d\"gradle_scope\" value\u003d\"main\"/\u003e"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003cattribute name\u003d\"gradle_used_by_scope\" value\u003d\"main,test\"/\u003e"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003c/attributes\u003e"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003c/classpathentry\u003e"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003cclasspathentry kind\u003d\"src\" output\u003d\"bin/test\" path\u003d\"src/test/java\"\u003e"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003cattributes\u003e"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003cattribute name\u003d\"gradle_scope\" value\u003d\"test\"/\u003e"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003cattribute name\u003d\"gradle_used_by_scope\" value\u003d\"test\"/\u003e"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003c/attributes\u003e"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003c/classpathentry\u003e"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003cclasspathentry kind\u003d\"src\" output\u003d\"bin/test\" path\u003d\"src/test/resources\"\u003e"
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003cattributes\u003e"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003cattribute name\u003d\"gradle_scope\" value\u003d\"test\"/\u003e"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003cattribute name\u003d\"gradle_used_by_scope\" value\u003d\"test\"/\u003e"
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003c/attributes\u003e"
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003c/classpathentry\u003e"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003cclasspathentry kind\u003d\"con\" path\u003d\"org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9/\"/\u003e"
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003cclasspathentry kind\u003d\"con\" path\u003d\"org.eclipse.buildship.core.gradleclasspathcontainer\"/\u003e"
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003cclasspathentry kind\u003d\"lib\" path\u003d\"C:/Users/惠普/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.2.8/f0287831b3e3550b82b5bd19152d460061859ce6/jaxb-api-2.2.8.jar\" sourcepath\u003d\"C:/Users/惠普/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.2.8/92c1b43eee9de5ec71c1719aa0334d59983ef596/jaxb-api-2.2.8-sources.jar\"\u003e"
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003cattributes\u003e"
-      },
-      {
-        "lineNumber": 31,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003cattribute name\u003d\"gradle_used_by_scope\" value\u003d\"main,test\"/\u003e"
-      },
-      {
-        "lineNumber": 32,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003c/attributes\u003e"
-      },
-      {
-        "lineNumber": 33,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003c/classpathentry\u003e"
-      },
-      {
-        "lineNumber": 34,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003cclasspathentry kind\u003d\"output\" path\u003d\"bin/default\"/\u003e"
-      },
-      {
-        "lineNumber": 35,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\u003c/classpath\u003e"
-      }
-    ],
-    "authorContributionMap": {
-      "Wanchunwei": 35
-    }
-  },
-  {
-    "path": ".project",
-    "fileType": "project",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\"?\u003e"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\u003cprojectDescription\u003e"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003cname\u003eMain\u003c/name\u003e"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003ccomment\u003eProject main created by Buildship.\u003c/comment\u003e"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003cprojects\u003e"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003c/projects\u003e"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003cbuildSpec\u003e"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003cbuildCommand\u003e"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003cname\u003eorg.eclipse.jdt.core.javabuilder\u003c/name\u003e"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003carguments\u003e"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003c/arguments\u003e"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003c/buildCommand\u003e"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003cbuildCommand\u003e"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003cname\u003eorg.eclipse.buildship.core.gradleprojectbuilder\u003c/name\u003e"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003carguments\u003e"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\t\u003c/arguments\u003e"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003c/buildCommand\u003e"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003c/buildSpec\u003e"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003cnatures\u003e"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003cnature\u003eorg.eclipse.jdt.core.javanature\u003c/nature\u003e"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\t\u003cnature\u003eorg.eclipse.buildship.core.gradleprojectnature\u003c/nature\u003e"
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\t\u003c/natures\u003e"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "Wanchunwei"
-        },
-        "content": "\u003c/projectDescription\u003e"
-      }
-    ],
-    "authorContributionMap": {
-      "Wanchunwei": 23
-    }
-  },
-  {
-    "path": ".travis.yml",
-    "fileType": "yml",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "language: java"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "matrix:"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  include:"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    - jdk: oraclejdk9"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "script: \u003e-"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    ./config/travis/run-checks.sh \u0026\u0026"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "cheahzk"
-        },
-        "content": "    ./gradlew clean checkstyleMain checkstyleTest headless allTests coveralls coverage asciidoctor"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "deploy:"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  skip_cleanup: true"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  provider: script"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  script: ./config/travis/deploy_github_pages.sh"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  on:"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    branch: master"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "addons:"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  apt:"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    packages:"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "      - oracle-java9-installer"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "before_cache:"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/"
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "cache:"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  directories:"
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    - $HOME/.gradle/caches/"
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    - $HOME/.gradle/wrapper/"
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "Zeyang-Li"
-        },
-        "content": ""
-      }
-    ],
-    "authorContributionMap": {
-      "cheahzk": 1,
-      "Zeyang-Li": 1,
-      "-": 28
-    }
-  },
-  {
     "path": "README.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -914,32 +268,7 @@
     }
   },
   {
-    "path": "_config.yml",
-    "fileType": "yml",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "theme: jekyll-theme-cayman"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "Zeyang-Li"
-        },
-        "content": ""
-      }
-    ],
-    "authorContributionMap": {
-      "Zeyang-Li": 1,
-      "-": 1
-    }
-  },
-  {
     "path": "build.gradle",
-    "fileType": "gradle",
     "lines": [
       {
         "lineNumber": 1,
@@ -2601,7 +1930,6 @@
   },
   {
     "path": "docs/AboutUs.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -2999,7 +2327,6 @@
   },
   {
     "path": "docs/ContactUs.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -3058,7 +2385,6 @@
   },
   {
     "path": "docs/DeveloperGuide.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -10471,7 +9797,6 @@
   },
   {
     "path": "docs/UserGuide.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -15860,24 +15185,7 @@
     }
   },
   {
-    "path": "docs/_config.yml",
-    "fileType": "yml",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "jingchen-z"
-        },
-        "content": "theme: jekyll-theme-slate"
-      }
-    ],
-    "authorContributionMap": {
-      "jingchen-z": 1
-    }
-  },
-  {
     "path": "docs/team/BrittonAlone.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -17140,7 +16448,6 @@
   },
   {
     "path": "docs/team/Wanchunwei.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -18922,7 +18229,6 @@
   },
   {
     "path": "docs/team/Zeyang-Li.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -21207,7 +20513,6 @@
   },
   {
     "path": "docs/team/cheahzk.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -23128,7 +22433,6 @@
   },
   {
     "path": "docs/team/jingchen-z.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -24735,7 +24039,6 @@
   },
   {
     "path": "src/main/java/seedu/address/MainApp.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26331,7 +25634,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/ComponentManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26536,7 +25838,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/EventsCenter.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26860,7 +26161,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/GuiSettings.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27381,7 +26681,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/LogsCenter.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28281,7 +27580,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/Messages.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28411,7 +27709,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/BaseEvent.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28532,7 +27829,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/model/AccountListChangedEvent.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28681,7 +27977,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/model/TaskBookChangedEvent.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28858,7 +28153,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/storage/DataSavingExceptionEvent.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -29014,7 +28308,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/events/ui/ExitAppRequestEvent.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -29121,7 +28414,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/FileUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -29852,7 +29144,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/JsonUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30870,7 +30161,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/StringUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31559,7 +30849,6 @@
   },
   {
     "path": "src/main/java/seedu/address/export/Export.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31800,7 +31089,6 @@
   },
   {
     "path": "src/main/java/seedu/address/export/ExportManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32573,7 +31861,6 @@
   },
   {
     "path": "src/main/java/seedu/address/export/Import.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32884,7 +32171,6 @@
   },
   {
     "path": "src/main/java/seedu/address/export/ImportManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33545,7 +32831,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/Logic.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34308,7 +33593,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/LogicManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -35309,7 +34593,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddAccountCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -35893,7 +35176,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -36731,7 +36013,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ClearCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38277,7 +37558,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/Command.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38484,7 +37764,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/CommandFormatString.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38844,7 +38123,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/CommandResult.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39351,7 +38629,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DeleteAccountCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39914,7 +39191,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DeleteCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40389,7 +39665,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/EditAccountCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41792,7 +41067,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/EditCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44325,7 +43599,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ExitCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44483,7 +43756,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ExportCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45347,7 +44619,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/FindAccountCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45882,7 +45153,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/FindCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46294,7 +45564,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/HistoryCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46549,7 +45818,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ImportCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47322,7 +46590,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListAccountsCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47668,7 +46935,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48885,7 +48151,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/LoginCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49553,7 +48818,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/LoginStatusCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49780,7 +49044,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/LogoutCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50020,7 +49283,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/MonthCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50479,7 +49741,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/RedoCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50778,7 +50039,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/RemindCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51776,7 +51036,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ShowTimeCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52409,7 +51668,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/TimelineCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53757,7 +53015,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/UndoCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54049,7 +53306,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/checks/CheckValidDate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54338,7 +53594,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/checks/CheckValidTime.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54585,7 +53840,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddAccountCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54951,7 +54205,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55458,7 +54711,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ClearCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55796,7 +55048,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/CliSyntax.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55940,7 +55191,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/DeleteAccountCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56159,7 +55409,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/DeleteCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56372,7 +55621,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/EditAccountCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56773,7 +56021,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/EditCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57484,7 +56731,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ExportCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58053,7 +57299,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/FindAccountCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58314,7 +57559,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/FindCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58555,7 +57799,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ImportCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58795,7 +58038,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ListCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59183,7 +58425,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/LoginCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59556,7 +58797,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/MonthCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59754,7 +58994,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ParserUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61573,7 +60812,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ShowTimeCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61876,7 +61114,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/TaskBookParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63108,7 +62345,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/TimelineCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63306,7 +62542,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/suggestions/StringSimilarity.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63672,7 +62907,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/suggestions/Suggestion.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63786,7 +63020,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/suggestions/WrongCommandSuggestion.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64937,7 +64170,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/AccountList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -65891,7 +65123,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/Filetype.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -66523,7 +65754,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/Model.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68364,7 +67594,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ModelManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72508,7 +71737,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyAccountList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72636,7 +71864,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyTaskBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72778,7 +72005,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyUserPrefs.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72900,7 +72126,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/TaskBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75059,7 +74284,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/UserPrefs.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75834,7 +75058,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/VersionedAccountList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76677,7 +75900,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/VersionedTaskBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77456,7 +76678,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/account/Account.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78053,7 +77274,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/account/LoggedInAccount.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78657,7 +77877,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/account/Password.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79100,7 +78319,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/account/UniqueAccountList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80124,7 +79342,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/account/Username.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80560,7 +79777,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/account/UsernameContainsKeywordsPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80786,7 +80002,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/account/UsernameMatchPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80998,7 +80213,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/account/exceptions/AccountNotFoundException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81049,7 +80263,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/account/exceptions/DuplicateAccountException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81135,7 +80348,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/day/Academic.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81697,7 +80909,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/day/Category.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81762,7 +80973,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/day/Cca.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82331,7 +81541,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/day/Date.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82802,7 +82011,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/day/Day.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -84561,7 +83769,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/day/DayContainsKeywordsPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -84787,7 +83994,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/day/Entertainment.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -85349,7 +84555,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/day/Errand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -85911,7 +85116,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/day/Other.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86473,7 +85677,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/day/UniqueDayList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87357,7 +86560,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/day/exceptions/DayNotFoundException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87408,7 +86610,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/day/exceptions/DuplicateDayException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87494,7 +86695,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/tag/Tag.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87889,7 +87089,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/Categories.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -88409,7 +87608,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/Description.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -88817,7 +88015,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/EndDate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89288,7 +88485,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/EndTime.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89843,7 +89039,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/Name.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90259,7 +89454,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/StartDate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90730,7 +89924,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/StartTime.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91285,7 +90478,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/Task.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92281,7 +91473,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/TaskContainsKeywordsPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92508,7 +91699,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/UniqueTaskList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93512,7 +92702,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/exceptions/DuplicateTaskException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93598,7 +92787,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/exceptions/TaskNotFoundException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93649,7 +92837,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/util/SampleAccountDataUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93854,7 +93041,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/util/SampleDataUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -94368,7 +93554,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/AccountListStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -94727,7 +93912,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAccountListStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -95359,7 +94543,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedAccount.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -95991,7 +95174,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedDay.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96847,7 +96029,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedTask.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97935,7 +97116,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonFileStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98337,7 +97517,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableAccountList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98906,7 +98085,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableTaskBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99484,7 +98662,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonTaskBookStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -100117,7 +99294,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/Storage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -100535,7 +99711,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/StorageManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101548,7 +100723,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/TaskBookStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101929,7 +101103,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/BrowserPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -102408,7 +101581,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/CommandBox.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105374,7 +104546,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/DayCard.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105992,7 +105163,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/DayListPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106498,7 +105668,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/DefaultPage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107489,7 +106658,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/MainWindow.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -109155,7 +108323,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/StatusBarFooter.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -109648,7 +108815,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/TaskCard.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -110344,7 +109510,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/TaskListPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -110850,7 +110015,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/UiManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -111470,7 +110634,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/calendar/Calendar.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113159,7 +112322,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/calendar/PaneNode.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113448,7 +112610,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/reminder/ReminderPane.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -114039,7 +113200,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/timeline/PreTask.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -114518,7 +113678,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/timeline/TimePane.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -115759,7 +114918,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/timeline/Timeline.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -118190,7 +117348,6 @@
   },
   {
     "path": "src/main/resources/view/DayListCard.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -118584,7 +117741,6 @@
   },
   {
     "path": "src/main/resources/view/DayListPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -118650,7 +117806,6 @@
   },
   {
     "path": "src/main/resources/view/DefaultPage.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -118807,7 +117962,6 @@
   },
   {
     "path": "src/main/resources/view/LoginPage.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -119272,7 +118426,6 @@
   },
   {
     "path": "src/main/resources/view/MainWindow.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -119752,7 +118905,6 @@
   },
   {
     "path": "src/main/resources/view/TaskListCard.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -120063,7 +119215,6 @@
   },
   {
     "path": "src/main/resources/view/TaskListPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -120128,7 +119279,6 @@
   },
   {
     "path": "src/test/data/JsonSerializableTaskBookTest/duplicateTaskTaskBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -120284,7 +119434,6 @@
   },
   {
     "path": "src/test/data/JsonSerializableTaskBookTest/invalidTaskTaskBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -120377,7 +119526,6 @@
   },
   {
     "path": "src/test/data/JsonSerializableTaskBookTest/typicalTasksTaskBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -120540,7 +119688,6 @@
   },
   {
     "path": "src/test/data/JsonTaskBookStorageTest/invalidAndValidTaskTaskBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -120696,7 +119843,6 @@
   },
   {
     "path": "src/test/data/JsonTaskBookStorageTest/invalidTaskTaskBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -120789,7 +119935,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/DayCardHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -121414,7 +120559,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/DayListPanelHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -122536,7 +121680,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/HelpWindowHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -122791,7 +121934,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/MainWindowHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -123158,7 +122300,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/TaskCardHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -123944,7 +123085,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/TaskListPanelHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125067,7 +124207,6 @@
   },
   {
     "path": "src/test/java/seedu/address/TestApp.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125848,7 +124987,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/CommandHistoryTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -126410,7 +125548,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/LogicManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -127914,7 +127051,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddCommandIntegrationTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -128323,7 +127459,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ClearCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -129768,7 +128903,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/CommandTestUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -131083,7 +130217,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ExitCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -131367,7 +130500,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ExportCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -132188,7 +131320,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/FindCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -132716,7 +131847,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/HelpCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -132909,7 +132039,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/HistoryCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -133199,7 +132328,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ImportCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -133817,7 +132945,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ListCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -134669,7 +133796,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/MonthCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -135140,7 +134266,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/RedoCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -135556,7 +134681,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/RemindCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -136391,7 +135515,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/TimelineCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -136925,7 +136048,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/UndoCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -137313,7 +136435,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/AddCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -138597,7 +137718,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/ClearCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -138851,7 +137971,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/ExportCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -139406,7 +138525,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/ImportCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -139751,7 +138869,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/ParserUtilTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -140853,7 +139970,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/TaskBookParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -142235,7 +141351,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/suggestion/WrongCommandSuggestionTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -143077,7 +142192,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/ModelManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -144403,7 +143517,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/TaskBookTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -145441,7 +144554,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/UserPrefsTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -145598,7 +144710,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/VersionedTaskBookTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -147693,7 +146804,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonAdaptedTaskTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -148955,7 +148065,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonSerializableAddressBookTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -149252,7 +148361,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonTaskBookStorageTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -150129,7 +149237,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonUserPrefsStorageTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -151084,7 +150191,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/StorageManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -151591,7 +150697,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/EditTaskDescriptorBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -152419,7 +151524,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TaskBookBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -152666,7 +151770,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TaskBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -153685,7 +152788,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TaskUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -154366,7 +153468,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TestUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -154761,7 +153862,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalIndexes.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -154848,7 +153948,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalTasks.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -155488,7 +154587,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/CommandBoxTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -156618,7 +155716,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/StatusBarFooterTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -157153,7 +156250,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/TaskCardTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -157666,7 +156762,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/TaskListPanelTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -158452,7 +157547,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/testutil/GuiTestAssert.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -159029,7 +158123,6 @@
   },
   {
     "path": "src/test/java/systemtests/AddCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -160992,7 +160085,6 @@
   },
   {
     "path": "src/test/java/systemtests/ModelHelper.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -161401,7 +160493,6 @@
   },
   {
     "path": "src/test/java/systemtests/SampleDataTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -161768,7 +160859,6 @@
   },
   {
     "path": "src/test/java/systemtests/SystemTestSetupHelper.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -162296,7 +161386,6 @@
   },
   {
     "path": "src/test/java/systemtests/TaskBookSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,

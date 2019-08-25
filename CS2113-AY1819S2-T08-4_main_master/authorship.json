@@ -1,229 +1,6 @@
 [
   {
-    "path": ".gitignore",
-    "fileType": "gitignore",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "build/"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ".gradle/"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ".checkstyle"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ".settings/"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ".idea/"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "lib/*"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.iml"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.log"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.log.*"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.csv"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "config.json"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "src/test/data/sandbox/"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "preferences.json"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ".DS_Store"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "./screenshot*.png"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "classes/"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "/data/"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "/bin/"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "src/main/resources/docs/"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "tantantan277"
-        },
-        "content": "chart/"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "out/"
-      }
-    ],
-    "authorContributionMap": {
-      "tantantan277": 1,
-      "-": 20
-    }
-  },
-  {
-    "path": "CODEOWNERS",
-    "fileType": "CODEOWNERS",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "weizhang05"
-        },
-        "content": "# This is a comment."
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "weizhang05"
-        },
-        "content": "# Each line is a file pattern followed by one or more owners."
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "weizhang05"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "weizhang05"
-        },
-        "content": "# These owners will be the default owners for everything in"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "weizhang05"
-        },
-        "content": "# the repo. Unless a later match takes precedence,"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "weizhang05"
-        },
-        "content": "# @global-owner1 and @global-owner2 will be requested for"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "weizhang05"
-        },
-        "content": "# review when someone opens a pull request."
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "weizhang05"
-        },
-        "content": "*       @weizhang05 @tantantan277 @shanseet"
-      }
-    ],
-    "authorContributionMap": {
-      "weizhang05": 8
-    }
-  },
-  {
     "path": "README.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -501,7 +278,6 @@
   },
   {
     "path": "build.gradle",
-    "fileType": "gradle",
     "lines": [
       {
         "lineNumber": 1,
@@ -2178,7 +1954,6 @@
   },
   {
     "path": "docs/AboutUs.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -2519,7 +2294,6 @@
   },
   {
     "path": "docs/ContactUs.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -2579,7 +2353,6 @@
   },
   {
     "path": "docs/DeveloperGuide.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -13274,7 +13047,6 @@
   },
   {
     "path": "docs/HelpWindow.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -13417,7 +13189,6 @@
   },
   {
     "path": "docs/LearningOutcomes.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -15324,7 +15095,6 @@
   },
   {
     "path": "docs/UserGuide.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -20895,7 +20665,6 @@
   },
   {
     "path": "docs/team/shanseet.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -21619,7 +21388,6 @@
   },
   {
     "path": "docs/team/ssunil3232.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -23001,7 +22769,6 @@
   },
   {
     "path": "docs/team/tantantan277.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -23634,7 +23401,6 @@
   },
   {
     "path": "docs/team/weizhang05.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -24399,508 +24165,7 @@
     }
   },
   {
-    "path": "docs/templates/_header.html.slim",
-    "fileType": "slim",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "/ NOTE: You must restart the gradle daemon after modifying any template file for the changes to take effect."
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "- if !(attr? \u0027no-site-header\u0027) \u0026\u0026 (attr? \u0027site-seedu\u0027)"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  #seedu-header"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    nav.navbar.navbar-lg.navbar-light.bg-lighter"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "      .container"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        a.navbar-brand href\u003d\u0027https://se-edu.github.io/\u0027"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          img src\u003d(site_url \u0027images/SeEduLogo.png\u0027) alt\u003d\u0027SE-EDU\u0027"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        ul.navbar-nav"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          li.nav-item"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "weizhang05"
-        },
-        "content": "            a.nav-link.active href\u003d(site_url \u0027index.html\u0027) FOP Manager"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          li.nav-item"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            a.nav-link href\u003d\u0027https://se-edu.github.io/collate\u0027 Collate"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          li.nav-item"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            a.nav-link href\u003d\u0027https://se-edu.github.io/se-book\u0027 Book"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          li.nav-item"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            a.nav-link href\u003d\u0027https://se-edu.github.io/learningresources\u0027 Resources"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "- if !(attr? \u0027no-site-header\u0027)"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  #site-header"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    nav.navbar.navbar-light.bg-light"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "      .container"
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        - if attr? \u0027site-name\u0027"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            a.navbar-brand href\u003d(site_url \u0027index.html\u0027) \u003d(attr \u0027site-name\u0027)"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        ul.navbar-nav"
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          li.nav-item"
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            \u003dnav_link(\u0027UserGuide\u0027, \u0027UserGuide.html\u0027, \u0027User Guide\u0027)"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          li.nav-item"
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            \u003dnav_link(\u0027DeveloperGuide\u0027, \u0027DeveloperGuide.html\u0027, \u0027Developer Guide\u0027)"
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          - if attr? \u0027site-seedu\u0027"
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            li.nav-item"
-      },
-      {
-        "lineNumber": 31,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "              \u003dnav_link(\u0027LearningOutcomes\u0027, \u0027LearningOutcomes.html\u0027, \u0027LOs\u0027)"
-      },
-      {
-        "lineNumber": 32,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          li.nav-item"
-      },
-      {
-        "lineNumber": 33,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            \u003dnav_link(\u0027AboutUs\u0027, \u0027AboutUs.html\u0027, \u0027About Us\u0027)"
-      },
-      {
-        "lineNumber": 34,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          li.nav-item"
-      },
-      {
-        "lineNumber": 35,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            \u003dnav_link(\u0027ContactUs\u0027, \u0027ContactUs.html\u0027, \u0027Contact Us\u0027)"
-      },
-      {
-        "lineNumber": 36,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          - if attr? \u0027site-githuburl\u0027"
-      },
-      {
-        "lineNumber": 37,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            li.navitem"
-      },
-      {
-        "lineNumber": 38,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "              a.nav-link href\u003d(attr \u0027site-githuburl\u0027)"
-      },
-      {
-        "lineNumber": 39,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                span.fa.fa-github.fa-lg aria-hidden\u003d\u0027true\u0027"
-      },
-      {
-        "lineNumber": 40,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                | \u0026nbsp;View on GitHub"
-      },
-      {
-        "lineNumber": 41,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 42,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "/ AsciiDoc leaves an empty header div even if there\u0027s no doctitle"
-      },
-      {
-        "lineNumber": 43,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "#header"
-      },
-      {
-        "lineNumber": 44,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  - if has_header?"
-      },
-      {
-        "lineNumber": 45,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    - unless notitle"
-      },
-      {
-        "lineNumber": 46,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "      h1 \u003dheader.title"
-      },
-      {
-        "lineNumber": 47,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    - if [:author, :revnumber, :revdate, :revremark].any? {|a| attr? a }"
-      },
-      {
-        "lineNumber": 48,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "      .details"
-      },
-      {
-        "lineNumber": 49,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        - if attr? :author"
-      },
-      {
-        "lineNumber": 50,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          span.author#author \u003d(attr :author)"
-      },
-      {
-        "lineNumber": 51,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          br"
-      },
-      {
-        "lineNumber": 52,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          - if attr? :email"
-      },
-      {
-        "lineNumber": 53,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            span.email#email \u003dsub_macros(attr :email)"
-      },
-      {
-        "lineNumber": 54,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            br"
-      },
-      {
-        "lineNumber": 55,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          - if (authorcount \u003d (attr :authorcount).to_i) \u003e 1"
-      },
-      {
-        "lineNumber": 56,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            - (2..authorcount).each do |idx|"
-      },
-      {
-        "lineNumber": 57,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "              span.author id\u003d\"author#{idx}\" \u003d(attr \"author_#{idx}\")"
-      },
-      {
-        "lineNumber": 58,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "              br"
-      },
-      {
-        "lineNumber": 59,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "              - if attr? \"email_#{idx}\""
-      },
-      {
-        "lineNumber": 60,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                span.email id\u003d\"email#{idx}\" \u003dsub_macros(attr \"email_#{idx}\")"
-      },
-      {
-        "lineNumber": 61,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        - if attr? :revnumber"
-      },
-      {
-        "lineNumber": 62,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          span#revnumber #{((attr \u0027version-label\u0027) || \u0027\u0027).downcase} #{attr :revnumber}#{\u0027,\u0027 if attr? :revdate}"
-      },
-      {
-        "lineNumber": 63,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          \u0027"
-      },
-      {
-        "lineNumber": 64,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        - if attr? :revdate"
-      },
-      {
-        "lineNumber": 65,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          span#revdate \u003dattr :revdate"
-      },
-      {
-        "lineNumber": 66,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        - if attr? :revremark"
-      },
-      {
-        "lineNumber": 67,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          br"
-      },
-      {
-        "lineNumber": 68,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          span#revremark \u003d(attr :revremark)"
-      },
-      {
-        "lineNumber": 69,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  - if (attr? :toc) \u0026\u0026 (attr? \u0027toc-placement\u0027, \u0027auto\u0027)"
-      },
-      {
-        "lineNumber": 70,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    include _toc.html"
-      }
-    ],
-    "authorContributionMap": {
-      "-": 69,
-      "weizhang05": 1
-    }
-  },
-  {
     "path": "src/main/java/seedu/address/MainApp.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26219,7 +25484,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/Value.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26347,7 +25611,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/Messages.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26491,7 +25754,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/util/WriteToExcel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28601,7 +27863,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/Logic.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -29340,7 +28601,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/LogicManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30359,7 +29619,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31085,7 +30344,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddFreshmanCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31684,7 +30942,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddGroupCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32184,7 +31441,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddHouseCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32572,7 +31828,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddOglCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33178,7 +32433,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/CommandResult.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33811,7 +33065,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DeleteCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34206,7 +33459,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DeleteGroupCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34769,7 +34021,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DeleteHouseCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -35303,7 +34554,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/EditCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -37345,7 +36595,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/EditGroupCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38139,7 +37388,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/EditHouseCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38968,7 +38216,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ExitCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39118,7 +38365,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ExportCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39471,7 +38717,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ExportFreshmenCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39866,7 +39111,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ExportOglCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40254,7 +39498,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/FindCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40565,7 +39808,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/HelpCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40729,7 +39971,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ImportCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41124,7 +40365,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41309,7 +40549,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListGroupCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41746,7 +40985,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListHouseCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42183,7 +41421,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListOglCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42494,7 +41731,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListParticipantCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42784,7 +42020,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/RandomizeCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43514,7 +42749,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/RedoCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43741,7 +42975,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SaveChartCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44093,7 +43326,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SelectCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44488,7 +43720,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SizeCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44806,7 +44037,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/StatCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45004,7 +44234,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/UndoCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45231,7 +44460,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ViewGroupsCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45492,7 +44720,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ViewHousesCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45753,7 +44980,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46261,7 +45487,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddFreshmanCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46740,7 +45965,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddGroupCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46994,7 +46218,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddHouseCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47283,7 +46506,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddOglCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47748,7 +46970,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddressBookParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49028,7 +48249,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/CliSyntax.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49164,7 +48384,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/DeleteGroupCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49418,7 +48637,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/DeleteHouseCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49686,7 +48904,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/EditCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50361,7 +49578,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/EditGroupCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50580,7 +49796,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/EditHouseCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50813,7 +50028,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/FindCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51054,7 +50268,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ListGroupCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51280,7 +50493,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ListHouseCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51506,7 +50718,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ListOglCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51754,7 +50965,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ListParticipantCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52002,7 +51212,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ParserUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53401,7 +52610,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/SaveChartCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53641,7 +52849,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/AddressBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56068,7 +55275,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/Model.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57893,7 +57099,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ModelManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61230,7 +60435,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyAddressBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61535,7 +60739,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyUserPrefs.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61671,7 +60874,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/UserPrefs.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -62374,7 +61576,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/VersionedAddressBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63463,7 +62664,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/grouping/FindGroupPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63732,7 +62932,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/grouping/FindHousePredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63994,7 +63193,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/grouping/Group.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64460,7 +63658,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/grouping/House.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64785,7 +63982,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/grouping/UniqueGroupList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -65873,7 +65069,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/grouping/UniqueHouseList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -66862,7 +66057,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ogl/FindingOglPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -67096,7 +66290,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ogl/Ogl.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -67351,7 +66544,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/participant/Birthday.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -67887,7 +67079,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/participant/Email.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68366,7 +67557,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/participant/FindingParticipantPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68593,7 +67783,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/participant/Major.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69318,7 +68507,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/participant/Name.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69741,7 +68929,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/participant/NameContainsKeywordsPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69968,7 +69155,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/participant/Participant.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71065,7 +70251,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/participant/Phone.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71454,7 +70639,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/participant/Sex.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71849,7 +71033,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/participant/UniqueParticipantList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72845,7 +72028,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/participant/exceptions/DuplicateParticipantException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72932,7 +72114,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/participant/exceptions/ParticipantNotFoundException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72983,7 +72164,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/privilege/Privilege.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73153,7 +72333,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/util/SampleDataUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74012,7 +73191,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedGroup.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74428,7 +73606,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedHouse.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74801,7 +73978,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedParticipant.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75884,7 +75060,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableAddressBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76538,7 +75713,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/BrowserPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77017,7 +76191,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/ChartPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77481,7 +76654,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/CustomPieChart.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77980,7 +77152,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/MainWindow.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79706,7 +78877,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/PersonCard.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80270,7 +79440,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/PersonListPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80777,7 +79946,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/RedoCard.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81101,7 +80269,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/RedoListPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81474,7 +80641,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/TextResultDisplay.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81680,7 +80846,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/UndoCard.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82004,7 +81169,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/UndoListPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82377,7 +81541,6 @@
   },
   {
     "path": "src/main/resources/view/ChartPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -82680,7 +81843,6 @@
   },
   {
     "path": "src/main/resources/view/DarkTheme.css",
-    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -85238,7 +84400,6 @@
   },
   {
     "path": "src/main/resources/view/MainWindow.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -85823,7 +84984,6 @@
   },
   {
     "path": "src/main/resources/view/PersonListCard.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -86155,7 +85315,6 @@
   },
   {
     "path": "src/main/resources/view/PersonListPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -86235,7 +85394,6 @@
   },
   {
     "path": "src/main/resources/view/Print.css",
-    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -88792,7 +87950,6 @@
   },
   {
     "path": "src/main/resources/view/RedoListCard.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -88990,7 +88147,6 @@
   },
   {
     "path": "src/main/resources/view/RedoListPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -89069,7 +88225,6 @@
   },
   {
     "path": "src/main/resources/view/TextResultDisplay.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -89142,7 +88297,6 @@
   },
   {
     "path": "src/main/resources/view/UndoListCard.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -89340,7 +88494,6 @@
   },
   {
     "path": "src/main/resources/view/UndoListPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -89419,7 +88572,6 @@
   },
   {
     "path": "src/test/data/JsonAddressBookStorageTest/invalidAndValidPersonAddressBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -89576,7 +88728,6 @@
   },
   {
     "path": "src/test/data/JsonAddressBookStorageTest/invalidPersonAddressBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -89670,7 +88821,6 @@
   },
   {
     "path": "src/test/data/JsonSerializableAddressBookTest/duplicatePersonAddressBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -89850,7 +89000,6 @@
   },
   {
     "path": "src/test/data/JsonSerializableAddressBookTest/invalidPersonAddressBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -89960,7 +89109,6 @@
   },
   {
     "path": "src/test/data/JsonSerializableAddressBookTest/typicalPersonsAddressBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -90504,7 +89652,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/AlertDialogHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90745,7 +89892,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/MainWindowHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91140,7 +90286,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/PersonCardHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91928,7 +91073,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/PersonListPanelHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93051,7 +92195,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/RedoCardHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93312,7 +92455,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/RedoListPanelHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93727,7 +92869,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/TextResultDisplayHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93891,7 +93032,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/UndoCardHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -94152,7 +93292,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/UndoListPanelHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -94567,7 +93706,6 @@
   },
   {
     "path": "src/test/java/seedu/address/TestApp.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -95340,7 +94478,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/LogicManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96695,7 +95832,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddCommandIntegrationTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97048,7 +96184,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99741,7 +98876,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddGroupCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -100261,7 +99395,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddHouseCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -100627,7 +99760,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/CommandResultTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101015,7 +100147,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/CommandTestUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -102224,7 +101355,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/DeleteCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103480,7 +102610,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/DeleteGroupCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103853,7 +102982,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/DeleteHouseCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -104226,7 +103354,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/EditCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106050,7 +105177,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/EditGroupCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106571,7 +105697,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/EditHouseCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107113,7 +106238,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/EditParticipantDescriptorTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107530,7 +106654,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ExitCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107701,7 +106824,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ExportCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107976,7 +107098,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ExportFreshmenCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108378,7 +107499,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ExportOglCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108787,7 +107907,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/FindCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -109392,7 +108511,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/HelpCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -109556,7 +108674,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ImportCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -109600,7 +108717,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ListGroupHouseCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -110282,7 +109398,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ListOglCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -110698,7 +109813,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ListParticipantCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -111135,7 +110249,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/RandomizeCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -112362,7 +111475,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/SaveChartCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -112784,7 +111896,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/SelectCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113557,7 +112668,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/SizeCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113734,7 +112844,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/StatCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113974,7 +113083,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ViewGroupHouseCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -114312,7 +113420,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/AddCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -115464,7 +114571,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/AddGroupCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -115725,7 +114831,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/AddHouseCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -115979,7 +115084,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/AddressBookParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -116990,7 +116094,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/DeleteGroupCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -117244,7 +116347,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/DeleteHouseCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -117498,7 +116600,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/EditCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -118986,7 +118087,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/EditGroupCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119247,7 +118347,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/EditHouseCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119515,7 +118614,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/FindCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119763,7 +118861,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/ParserUtilTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -121231,7 +120328,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/AddressBookTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -122411,7 +121507,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/ModelManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -123737,7 +122832,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/grouping/FindGroupHousePredicateTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -124090,7 +123184,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/BirthdayTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -124414,7 +123507,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/EmailTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -124865,7 +123957,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/MajorTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125142,7 +124233,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/NameContainsKeywordsPredicateTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125693,7 +124783,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/NameTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125997,7 +125086,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/ParticipantTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -126729,7 +125817,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/PhoneTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -127034,7 +126121,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/person/UniqueParticipantListTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -128354,7 +127440,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonAdaptedParticipantTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -129248,7 +128333,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonAddressBookStorageTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -130126,7 +129210,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonSerializableAddressBookTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -130507,7 +129590,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/AddressBookBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -130755,7 +129837,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/EditPersonDescriptorBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -131585,7 +130666,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/PersonBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -132584,7 +131664,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/PersonUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -133100,7 +132179,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TestUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -133495,7 +132573,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalGroupHousePersonList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -133967,7 +133044,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalPersons.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -134771,7 +133847,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/BrowserPanelTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -135068,7 +134143,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/ParticipantCardTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -135581,7 +134655,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/ParticipantListPanelTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -136370,7 +135443,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/RedoCardTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -136820,7 +135892,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/RedoListPanelTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -137221,7 +136292,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/StatusBarFooterTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -137756,7 +136826,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/TextResultDisplayTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -138011,7 +137080,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/UndoCardTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -138461,7 +137529,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/UndoListPanelTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -138862,7 +137929,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/testutil/GuiTestAssert.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -139517,7 +138583,6 @@
   },
   {
     "path": "src/test/java/systemtests/AddCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -141446,7 +140511,6 @@
   },
   {
     "path": "src/test/java/systemtests/AddressBookSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -143550,7 +142614,6 @@
   },
   {
     "path": "src/test/java/systemtests/ClearCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -144267,7 +143330,6 @@
   },
   {
     "path": "src/test/java/systemtests/DeleteCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -145727,7 +144789,6 @@
   },
   {
     "path": "src/test/java/systemtests/EditCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -148154,7 +147215,6 @@
   },
   {
     "path": "src/test/java/systemtests/FindCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -149558,7 +148618,6 @@
   },
   {
     "path": "src/test/java/systemtests/HelpCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -150339,7 +149398,6 @@
   },
   {
     "path": "src/test/java/systemtests/ModelHelper.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -150622,7 +149680,6 @@
   },
   {
     "path": "src/test/java/systemtests/SampleDataTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -150989,7 +150046,6 @@
   },
   {
     "path": "src/test/java/systemtests/SelectCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
