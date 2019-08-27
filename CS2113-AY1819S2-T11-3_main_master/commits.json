@@ -8,19 +8,22 @@
         "commitResults": [
           {
             "hash": "9b7e60da032c5e8b7c99fd4325ccb65bf737c7e7",
-            "message": "Updated User Guide",
+            "messageTitle": "Updated User Guide",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 4
           },
           {
             "hash": "b2a01c197d8c0f1e676c0da9658567f6d31fd4a0",
-            "message": "Modified Readme.adoc",
+            "messageTitle": "Modified Readme.adoc",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 6
           },
           {
             "hash": "f2ea0727a409a9c272751ff9d7f043fd0500c62c",
-            "message": "Added Readme",
+            "messageTitle": "Added Readme",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           }
@@ -33,7 +36,8 @@
         "commitResults": [
           {
             "hash": "366a028b7bed43da923a007f890c7e87a7f72013",
-            "message": "Modify add function",
+            "messageTitle": "Modify add function",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 4
           }
@@ -46,13 +50,15 @@
         "commitResults": [
           {
             "hash": "e506273d01db39bfc83dfa95cf90df5a2678ef9c",
-            "message": "Refactoring Person to Entry",
+            "messageTitle": "Refactoring Person to Entry",
+            "messageBody": "",
             "insertions": 1193,
             "deletions": 1211
           },
           {
             "hash": "7ee592d5cc7ca65a01256926d4429b8685fccf73",
-            "message": "Working Refactoring:",
+            "messageTitle": "Working Refactoring:",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 13
           }
@@ -65,13 +71,15 @@
         "commitResults": [
           {
             "hash": "aa9015856a9a8b40264f5c22d2477c443463a39d",
-            "message": "Modified test cases",
+            "messageTitle": "Modified test cases",
+            "messageBody": "",
             "insertions": 635,
             "deletions": 638
           },
           {
             "hash": "f56b6a9aa60ec945f3d7e35855cbac97b6e4d786",
-            "message": "Modified test cases #2",
+            "messageTitle": "Modified test cases #2",
+            "messageBody": "",
             "insertions": 319,
             "deletions": 319
           }
@@ -84,7 +92,8 @@
         "commitResults": [
           {
             "hash": "11cfac22c9092f4a3531be97a4ec90aba27ea801",
-            "message": "Changed to 3 parameter \u0026 added income/expense class",
+            "messageTitle": "Changed to 3 parameter \u0026 added income/expense class",
+            "messageBody": "",
             "insertions": 407,
             "deletions": 380
           }
@@ -97,7 +106,8 @@
         "commitResults": [
           {
             "hash": "fd989531da1246d2118939499a0efae977705862",
-            "message": "Edited test folders part1",
+            "messageTitle": "Edited test folders part1",
+            "messageBody": "",
             "insertions": 192,
             "deletions": 251
           }
@@ -110,7 +120,8 @@
         "commitResults": [
           {
             "hash": "16e7aa0033547648de195aa15602e263555af810",
-            "message": "update test",
+            "messageTitle": "update test",
+            "messageBody": "",
             "insertions": 30,
             "deletions": 57
           }
@@ -123,13 +134,15 @@
         "commitResults": [
           {
             "hash": "cd00b5e1a21f86012b4de7d0363559936d5aef81",
-            "message": "dg ug update",
+            "messageTitle": "dg ug update",
+            "messageBody": "",
             "insertions": 39,
             "deletions": 39
           },
           {
             "hash": "050edbf1df54d899eee2e8469cec107574bac430",
-            "message": "update",
+            "messageTitle": "update",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -142,7 +155,8 @@
         "commitResults": [
           {
             "hash": "a5c725532f46abab295d29116df4a0c2602cbc80",
-            "message": "typo",
+            "messageTitle": "typo",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           }
@@ -155,13 +169,15 @@
         "commitResults": [
           {
             "hash": "fd29ebfdf203555228cabad899a54046816dfb6c",
-            "message": "command assistance v1.0",
+            "messageTitle": "command assistance v1.0",
+            "messageBody": "",
             "insertions": 69,
             "deletions": 1
           },
           {
             "hash": "ad7e93e7fde546839cc7442b24db83a95857655f",
-            "message": "dg for commands ui support",
+            "messageTitle": "dg for commands ui support",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 5
           }
@@ -174,37 +190,43 @@
         "commitResults": [
           {
             "hash": "6249990fe16fbc92d736c9814d3a8f398e310184",
-            "message": "easy find of data",
+            "messageTitle": "easy find of data",
+            "messageBody": "",
             "insertions": 190,
             "deletions": 18
           },
           {
             "hash": "249f481c7417e45b559d2e7b80f400e7d70f676e",
-            "message": "Update README.adoc",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "c5bd410e98f16c389d7d11af85d76fa0f0f59bae",
-            "message": "Budgeter name update",
+            "messageTitle": "Budgeter name update",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "a2f0ba6893597e41f613efeb085f41f0cc510f1c",
-            "message": "efind",
+            "messageTitle": "efind",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "3b24803fcd9c8cb7dbfc7693c233d11525ef5018",
-            "message": "command box suggestions update",
+            "messageTitle": "command box suggestions update",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 2
           },
           {
             "hash": "f15c52bfbf3927d5c75b64ecab0b884ce845d101",
-            "message": "ug dg update",
+            "messageTitle": "ug dg update",
+            "messageBody": "",
             "insertions": 60,
             "deletions": 0
           }
@@ -217,7 +239,8 @@
         "commitResults": [
           {
             "hash": "3e9377aef4957d8550366cca6417e4d1aebe7424",
-            "message": " solved some minor merge conflicts",
+            "messageTitle": " solved some minor merge conflicts",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 8
           }
@@ -230,37 +253,43 @@
         "commitResults": [
           {
             "hash": "2229651263f27ee8bbf3c51edc5646ef42163ce7",
-            "message": "Revert \"Added features and updated UserGuide and AboutUs\"",
+            "messageTitle": "Revert \"Added features and updated UserGuide and AboutUs\"",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 2920
           },
           {
             "hash": "a14cd4579f9a6530adf8811e3b6dda138373ad4f",
-            "message": "filter",
+            "messageTitle": "filter",
+            "messageBody": "",
             "insertions": 24,
             "deletions": 20
           },
           {
             "hash": "fa76998c4f07c8662a60a0e61c67c3349eec0e3b",
-            "message": "Revert \"Editted value in cashflow to use float instead\"",
+            "messageTitle": "Revert \"Editted value in cashflow to use float instead\"",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 11
           },
           {
             "hash": "68ff9ebda5f7d0f3cb1a0f606f60e4d17f26b9ca",
-            "message": "filter",
+            "messageTitle": "filter",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 20
           },
           {
             "hash": "9281664960d4e08cfc046851c21b94ed03a2055e",
-            "message": "filter command done",
+            "messageTitle": "filter command done",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 0
           },
           {
             "hash": "c2598001d0453df0dfc61cf827292dba496cc18b",
-            "message": "dg:",
+            "messageTitle": "dg:",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 1
           }
@@ -273,7 +302,8 @@
         "commitResults": [
           {
             "hash": "1fda9de76751e01dd8286f594c5abf7afc19566d",
-            "message": "ug",
+            "messageTitle": "ug",
+            "messageBody": "",
             "insertions": 43,
             "deletions": 2
           }
@@ -286,15 +316,45 @@
         "commitResults": [
           {
             "hash": "ea85bacc2045cb14f2e3a44c46174393056c41d7",
-            "message": "Revert \"Display Feature\"",
+            "messageTitle": "Revert \"Display Feature\"",
+            "messageBody": "",
             "insertions": 205,
             "deletions": 655
           },
           {
             "hash": "ca1912d8294186c2cc24c13f9527175e10d10b54",
-            "message": "Revert \"Revert \"Display Feature\"\"",
+            "messageTitle": "Revert \"Revert \"Display Feature\"\"",
+            "messageBody": "",
             "insertions": 655,
             "deletions": 205
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "25dacd8bf1768c24696148fccaa4b9624176338c",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bffacca433b6b19048ff6bb56bc0cc236a65ee47",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8fde35fdf547b50656b1539bbf1cbe60e5099596",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       },
@@ -305,7 +365,8 @@
         "commitResults": [
           {
             "hash": "057b65f674c4bc4a81fb2aff39dd9250b0a906d6",
-            "message": "Update README",
+            "messageTitle": "Update README",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 2
           }
@@ -320,7 +381,8 @@
         "commitResults": [
           {
             "hash": "114f6191fbe8b4b218634b52ff03644207e0c69d",
-            "message": "Updated User Guide",
+            "messageTitle": "Updated User Guide",
+            "messageBody": "",
             "insertions": 31,
             "deletions": 28
           }
@@ -333,7 +395,8 @@
         "commitResults": [
           {
             "hash": "5f7dabb3c5808ce6437448726f3274ae6f5e2731",
-            "message": "Small typo",
+            "messageTitle": "Small typo",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -346,13 +409,15 @@
         "commitResults": [
           {
             "hash": "e4212fd8aecd91e65c2246cd6069fa51857c385c",
-            "message": "Added BitcoinCommand",
+            "messageTitle": "Added BitcoinCommand",
+            "messageBody": "",
             "insertions": 37,
             "deletions": 13
           },
           {
             "hash": "24cac0a7c2766d7591ff80b9b87fa3e5999e2c41",
-            "message": "Changed jpegs to pngs",
+            "messageTitle": "Changed jpegs to pngs",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           }
@@ -365,7 +430,8 @@
         "commitResults": [
           {
             "hash": "a0f467dabe1da5c4a65e252fcb5a7d1924fb352f",
-            "message": "api call and json addition",
+            "messageTitle": "api call and json addition",
+            "messageBody": "",
             "insertions": 46,
             "deletions": 5
           }
@@ -378,25 +444,29 @@
         "commitResults": [
           {
             "hash": "0ff3447cfa81b0d9ae2403a177a907fc6f41a3ec",
-            "message": "documentation for bitcoin 1",
+            "messageTitle": "documentation for bitcoin 1",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 0
           },
           {
             "hash": "28f00f32facd22b0486f56be25f5e73ff381889c",
-            "message": "documentation 2 bitcoin",
+            "messageTitle": "documentation 2 bitcoin",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 5
           },
           {
             "hash": "7d459b2f0819c923eab0bca90068d409e5a27fa4",
-            "message": "documentation bitcoin 3",
+            "messageTitle": "documentation bitcoin 3",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 2
           },
           {
             "hash": "a490c1e88a6758e394b4a90e5030023dc1ed6e85",
-            "message": "bitcoin doc 4",
+            "messageTitle": "bitcoin doc 4",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 9
           }
@@ -409,34 +479,38 @@
         "commitResults": [
           {
             "hash": "1a986591cb213b27a3895808e168056acf980f10",
-            "message": "updated user guide",
+            "messageTitle": "updated user guide",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 0
           },
           {
             "hash": "cab2a1cd1e2fbdd35888f8ad2aec8d6e50027b13",
-            "message": "testing bitcoin",
+            "messageTitle": "testing bitcoin",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 24
           },
           {
             "hash": "3ce073fd2318cff2b05cbc255f7ee58360adfcb5",
-            "message": "fixed variables for bitcoincommand",
+            "messageTitle": "fixed variables for bitcoincommand",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 7
           }
         ]
       },
       {
-        "insertions": 25,
-        "deletions": 0,
+        "insertions": 26,
+        "deletions": 1,
         "date": "2019-03-27",
         "commitResults": [
           {
             "hash": "423dfec47228a3c22aade1cd0065490e8f985920",
-            "message": "add reposense json file",
-            "insertions": 25,
-            "deletions": 0
+            "messageTitle": "add reposense json file",
+            "messageBody": "",
+            "insertions": 26,
+            "deletions": 1
           }
         ]
       },
@@ -447,13 +521,15 @@
         "commitResults": [
           {
             "hash": "74e573619452a628995e74cbc7d04b0f4fe1ae29",
-            "message": "three commands",
+            "messageTitle": "three commands",
+            "messageBody": "",
             "insertions": 209,
             "deletions": 0
           },
           {
             "hash": "29e85beae0a8b8b076105759bd3cfaeae7a90e7f",
-            "message": "get report total",
+            "messageTitle": "get report total",
+            "messageBody": "",
             "insertions": 132,
             "deletions": 2
           }
@@ -466,7 +542,8 @@
         "commitResults": [
           {
             "hash": "bbad797e7a8b0d38c45a35cc0c9fa645db06838e",
-            "message": "fixed bitcoin",
+            "messageTitle": "fixed bitcoin",
+            "messageBody": "",
             "insertions": 165,
             "deletions": 17
           }
@@ -479,19 +556,22 @@
         "commitResults": [
           {
             "hash": "7e2d188e381910a3f347a4e2d73a2d220afd1aae",
-            "message": "fixed litecoin",
+            "messageTitle": "fixed litecoin",
+            "messageBody": "",
             "insertions": 153,
             "deletions": 12
           },
           {
             "hash": "61bc45d07fff646e07f01e77ee4b85fc066b007d",
-            "message": "report for bitcoin",
+            "messageTitle": "report for bitcoin",
+            "messageBody": "",
             "insertions": 46,
             "deletions": 2
           },
           {
             "hash": "36ef398918fdb10dba5eff4701258b4667f68a5c",
-            "message": "fix bugs",
+            "messageTitle": "fix bugs",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 12
           }
@@ -504,7 +584,8 @@
         "commitResults": [
           {
             "hash": "c0309a1cc5029aee8165d99057dd8e93d86fb7ad",
-            "message": "fixing api call",
+            "messageTitle": "fixing api call",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 7
           }
@@ -517,19 +598,22 @@
         "commitResults": [
           {
             "hash": "1fd608a91918cc7a8e93eb8c049503ff1f2bed7d",
-            "message": "added stock command",
+            "messageTitle": "added stock command",
+            "messageBody": "",
             "insertions": 88,
             "deletions": 25
           },
           {
             "hash": "306fb667020eb287e6015ff6a0f0bdc466fc1da2",
-            "message": "stock command includes total",
+            "messageTitle": "stock command includes total",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 4
           },
           {
             "hash": "e96da4ce1421a18f4e31c13f390411f40eccb423",
-            "message": "reposense",
+            "messageTitle": "reposense",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 0
           }
@@ -541,62 +625,79 @@
         "date": "2019-04-09",
         "commitResults": [
           {
+            "hash": "3acd8edcb19c6940f48fc3a17eb1898ee77897a1",
+            "messageTitle": "Revert \"ug and merge\"|",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
             "hash": "0448766dc6b2fc6cbd3c9f2f63871b744e1af46e",
-            "message": "fixed stock name",
+            "messageTitle": "fixed stock name",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "72f3e6874afcbc6fe3fad1fb2a659ea5c68a2dfd",
-            "message": "changes to tests",
+            "messageTitle": "changes to tests",
+            "messageBody": "",
             "insertions": 67,
             "deletions": 1
           },
           {
             "hash": "94b3be6857562994fbfa969afecd073004f5d9fe",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 3
           },
           {
             "hash": "44176157ae0e33437db528c561be06a37ca91514",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 10
           },
           {
             "hash": "8ba8657cfdc1f13b6ac349755d391f5037836923",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "6fbfaf766f765fe6ce20f1eda1515f22f56a8fc9",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "4b45f218d022c1058596fdbed404a4616b2337c0",
-            "message": "stock and ug",
+            "messageTitle": "stock and ug",
+            "messageBody": "",
             "insertions": 100,
             "deletions": 29
           },
           {
             "hash": "a66511df2977af8224f6765652e9ec11119c4c04",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "81996418ebbaebad05e74934d7ffaae3f9dfde61",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 13
           },
           {
             "hash": "11ee5b3f79db2395284bba354b0cf16673f52769",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 9
           }
@@ -609,121 +710,141 @@
         "commitResults": [
           {
             "hash": "c7ddbdcf7995693d633aa067560aa4b36c3fed27",
-            "message": "fixed stock command and added tests",
+            "messageTitle": "fixed stock command and added tests",
+            "messageBody": "",
             "insertions": 101,
             "deletions": 1
           },
           {
             "hash": "093c87228b0830a9507b8362601cbf0cd9ff6709",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 9
           },
           {
             "hash": "476fb98348b5cd1cb790d3f840c5b2aba6e3f147",
-            "message": "ug update",
+            "messageTitle": "ug update",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 2
           },
           {
             "hash": "c4c1420bc577d0d1a66c3426693e9425df5d02ee",
-            "message": "stock change",
+            "messageTitle": "stock change",
+            "messageBody": "",
             "insertions": 43,
             "deletions": 8
           },
           {
             "hash": "c74287492c1a0245c80a564296aac5e79b4bab3c",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "87a093c7bfb923a5f0d6f7717885d072a31c0727",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 26
           },
           {
             "hash": "50d360e4baac5774d8978ac908ace5d58484f1f9",
-            "message": "cleaned up stock command",
+            "messageTitle": "cleaned up stock command",
+            "messageBody": "",
             "insertions": 39,
             "deletions": 33
           },
           {
             "hash": "2bbe72f63c5bea51294652f3f43a584ae8d66ed9",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "d82ecc89c47ec743cc2668f59759f4614a914b46",
-            "message": "suggestions",
+            "messageTitle": "suggestions",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "b2dd22c08d8e4d64bbe7110628410b991f82307d",
-            "message": "added crypto command",
+            "messageTitle": "added crypto command",
+            "messageBody": "",
             "insertions": 163,
             "deletions": 21
           },
           {
             "hash": "ebb8fb7c61effbc70e6aa54afb012313e800567d",
-            "message": "crypto command working",
+            "messageTitle": "crypto command working",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 18
           },
           {
             "hash": "7a2478b04260657f6fe86cb87dd04612831a2803",
-            "message": "adjust crypto command",
+            "messageTitle": "adjust crypto command",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 19
           },
           {
             "hash": "9579f48a4d56deeafb69d10d8d6d0a72a535a501",
-            "message": "checkstyles",
+            "messageTitle": "checkstyles",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 10
           },
           {
             "hash": "b6481bdbe000614f2b1ad9eafdc3e99c027b7181",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 6
           },
           {
             "hash": "26a80bb5758fb7d76e9612b6369f43a96d625c04",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "49cec18bf2cbbce84743ae15b22f273a5e0c21e0",
-            "message": "checkstyles",
+            "messageTitle": "checkstyles",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "62ce960e11aac3f1c0dd19d7c78b3e37ff820f89",
-            "message": "ug",
+            "messageTitle": "ug",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 3
           },
           {
             "hash": "40c7277928fa84ef0b8c215bcf06fd007002535a",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 1
           },
           {
             "hash": "d26fbd208f60b34c94a9b2e5d830db3a5b1dbc7f",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 16
           },
           {
             "hash": "b5ca7541cf6b605a09a49cb9d0c37b91a34345fe",
-            "message": "checkstyles",
+            "messageTitle": "checkstyles",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -736,248 +857,295 @@
         "commitResults": [
           {
             "hash": "6592717100710a682a394283454e2feee6c084fa",
-            "message": "crypto test and ug",
+            "messageTitle": "crypto test and ug",
+            "messageBody": "",
             "insertions": 50,
             "deletions": 0
           },
           {
             "hash": "e68a1307cc1954d89dd8edd726e87cc3030aa005",
-            "message": "ppp",
+            "messageTitle": "ppp",
+            "messageBody": "",
             "insertions": 264,
             "deletions": 39
           },
           {
             "hash": "2f3973aee82cc682668cd204ca74816c3520fdc1",
-            "message": "ppp",
+            "messageTitle": "ppp",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 6
           },
           {
             "hash": "a746827665d7ad9dd6637fc81e8c2d8ca7c6f2f9",
-            "message": "ppp",
+            "messageTitle": "ppp",
+            "messageBody": "",
             "insertions": 864,
             "deletions": 866
           },
           {
             "hash": "87c0cbad580fe7039c66f3294d654b8f03ad8afe",
-            "message": "checkstyles",
+            "messageTitle": "checkstyles",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "6324bfc897020d0345698acc72f2dbf25fd3e277",
-            "message": "ug",
+            "messageTitle": "ug",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 12
           },
           {
             "hash": "edceca6d2497d3c163b17c4eeae0259bcee85424",
-            "message": "ppp",
+            "messageTitle": "ppp",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 2
           },
           {
             "hash": "09e76850ad4a9a91bcf2468a3c23235c52da38ba",
-            "message": "uncommented",
+            "messageTitle": "uncommented",
+            "messageBody": "",
             "insertions": 858,
             "deletions": 861
           },
           {
             "hash": "c70353fdecf33d4be838326af2de85b3e0e17744",
-            "message": "ppp",
+            "messageTitle": "ppp",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 2
           },
           {
             "hash": "2b55a3084e13dca9e2396ad6e4dbc86f6dc0d455",
-            "message": "small changes",
+            "messageTitle": "small changes",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "85bc7db589ea609614b59247e454b14165b4ab30",
-            "message": "crypto changes",
+            "messageTitle": "crypto changes",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 7
           },
           {
             "hash": "67729c6a0f7fab9285e88c15611a4618b7cbe635",
-            "message": "checkstyles",
+            "messageTitle": "checkstyles",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 5
           },
           {
             "hash": "90ee9e3cc8261bc3809c24bd857b45df38694d7b",
-            "message": "invest command",
+            "messageTitle": "invest command",
+            "messageBody": "",
             "insertions": 667,
             "deletions": 611
           },
           {
             "hash": "71a0726658560675aaf6793e79e55bed56104046",
-            "message": "invest command",
+            "messageTitle": "invest command",
+            "messageBody": "",
             "insertions": 71,
             "deletions": 31
           },
           {
             "hash": "bc92ac0afb03e8471c27098f3d65070065f15e0c",
-            "message": "added Number",
+            "messageTitle": "added Number",
+            "messageBody": "",
             "insertions": 66,
             "deletions": 7
           },
           {
             "hash": "7ca4cc8444c14fe6807f0de9bef10ba778174d2f",
-            "message": "fixed number class",
+            "messageTitle": "fixed number class",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 9
           },
           {
             "hash": "bd3a73e628483aff18afe01b2db0bc822e82a282",
-            "message": "fixed number",
+            "messageTitle": "fixed number",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 2
           },
           {
             "hash": "51094c9d55466cea9ef1845bb483b76e970ccab1",
-            "message": "fixed invest command",
+            "messageTitle": "fixed invest command",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 8
           },
           {
             "hash": "199fa89c0b70d921e89f2c93e65639689b0ca23e",
-            "message": "added suggestion",
+            "messageTitle": "added suggestion",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 13
           },
           {
             "hash": "3771fc1120493a352020b2d7eebf4ff4c8a98191",
-            "message": "invest tests",
+            "messageTitle": "invest tests",
+            "messageBody": "",
             "insertions": 336,
             "deletions": 245
           },
           {
             "hash": "0294eb6451a600d3eaa336f056b739a6eb53fec4",
-            "message": "uncommented excel",
+            "messageTitle": "uncommented excel",
+            "messageBody": "",
             "insertions": 856,
             "deletions": 856
           },
           {
             "hash": "994036f80ac04e7184a4ceb3f5657fee6bb7a566",
-            "message": "checkstyles",
+            "messageTitle": "checkstyles",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 7
           },
           {
             "hash": "dce0e746435280c9bb85600accde05a91145c238",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 1
           },
           {
             "hash": "6c1d8fec84cd73bbd860f01d575ef2ac0d01ce32",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "211eeb8789a86146af4bb43df7c365a6f23674f8",
-            "message": "checkstyles",
+            "messageTitle": "checkstyles",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "af4f29f894765971a32d91649d46554649686ee3",
-            "message": "ug",
+            "messageTitle": "ug",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 0
           },
           {
             "hash": "faea184bf421a09ca8b21889ff82585ff6933421",
-            "message": "dg",
+            "messageTitle": "dg",
+            "messageBody": "",
             "insertions": 52,
             "deletions": 15
           },
           {
             "hash": "3207050d49a6f02132bf004a2877ae7b3fe67edf",
-            "message": "more dg",
+            "messageTitle": "more dg",
+            "messageBody": "",
             "insertions": 47,
             "deletions": 0
           },
           {
             "hash": "a9e29e0b929a1182dfd0cc720475669a32702851",
-            "message": "more dg",
+            "messageTitle": "more dg",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "3f3f2492804df76b96451c984f62e0b4f74a1b97",
-            "message": "more dg",
+            "messageTitle": "more dg",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 33
           },
           {
             "hash": "bb24003a235a95b14bb99894b48138b831706ab2",
-            "message": "dg",
+            "messageTitle": "dg",
+            "messageBody": "",
             "insertions": 53,
             "deletions": 14
           },
           {
             "hash": "d2b02c77e20000880a9103d3c318dda548e53c07",
-            "message": "dg",
+            "messageTitle": "dg",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 31
           },
           {
             "hash": "2e4bce024ebb237db433a27e3e54580ab397badc",
-            "message": "ppp",
+            "messageTitle": "ppp",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "30122427436b5dfd91c127025c166dfd6ca761bc",
-            "message": "checkstyle",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "1964d8019f6aaa874c38e298030235b5cd4ca6f9",
-            "message": "dg",
+            "messageTitle": "dg",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "67f4331930eb6153633c7ee647e9185e803255e8",
-            "message": "dg png",
+            "messageTitle": "dg png",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 0
           },
           {
             "hash": "8e1fdfa8bc555b1d00a65a9b9ec50a2850229e65",
-            "message": "ppp",
+            "messageTitle": "ppp",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 10
           }
         ]
       },
       {
-        "insertions": 1250,
-        "deletions": 1249,
+        "insertions": 1266,
+        "deletions": 1257,
         "date": "2019-04-16",
         "commitResults": [
           {
             "hash": "f2824358c625243e611bc32bf73d88d7cb7e460e",
-            "message": "added credit",
+            "messageTitle": "added credit",
+            "messageBody": "",
             "insertions": 617,
             "deletions": 623
           },
           {
             "hash": "321e781a68932c08d14896176196f9fdae7d09e5",
-            "message": "fixed stock",
+            "messageTitle": "fixed stock",
+            "messageBody": "",
             "insertions": 616,
             "deletions": 618
           },
           {
+            "hash": "887df8666260d4f282b63b27f4646de5d7f0dded",
+            "messageTitle": "Revert \"added api credit and fixed stock\"",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 8
+          },
+          {
             "hash": "1494a046f458d479c86048eee56336445ab9369e",
-            "message": "reverted and just added credits",
+            "messageTitle": "reverted and just added credits",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 8
           }
@@ -993,7 +1161,8 @@
         "commitResults": [
           {
             "hash": "b889efca40ab8fa0c63e3d5757ba3e00d51270c5",
-            "message": "Added logic and predicates for report command",
+            "messageTitle": "Added logic and predicates for report command",
+            "messageBody": "",
             "insertions": 89,
             "deletions": 11
           }
@@ -1006,7 +1175,8 @@
         "commitResults": [
           {
             "hash": "eeb1b4f9835a5ae1c4c67674ae89f9d305ff2e8d",
-            "message": "ReportCommand base functionality working",
+            "messageTitle": "ReportCommand base functionality working",
+            "messageBody": "",
             "insertions": 34,
             "deletions": 22
           }
@@ -1019,19 +1189,22 @@
         "commitResults": [
           {
             "hash": "ccca82033eeed38dec76609e002961e6c0597f7f",
-            "message": "Made changes to some of the logic",
+            "messageTitle": "Made changes to some of the logic",
+            "messageBody": "",
             "insertions": 76,
             "deletions": 5
           },
           {
             "hash": "d2c938907134bb5090eb8b10f05f6297a5db30ea",
-            "message": "Added functionality of report, TODO: Make GUI for it",
+            "messageTitle": "Added functionality of report, TODO: Make GUI for it",
+            "messageBody": "",
             "insertions": 41,
             "deletions": 6
           },
           {
             "hash": "4c659d9fe5993e18a2e8a5c4ea7e219000fa5ec6",
-            "message": "Removed redundant files",
+            "messageTitle": "Removed redundant files",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 31
           }
@@ -1044,7 +1217,8 @@
         "commitResults": [
           {
             "hash": "b55c473b68a29beba451730fd213aef50d2a6b73",
-            "message": "Added Pie Chart Window for report",
+            "messageTitle": "Added Pie Chart Window for report",
+            "messageBody": "",
             "insertions": 200,
             "deletions": 14
           }
@@ -1057,13 +1231,15 @@
         "commitResults": [
           {
             "hash": "d287be64093afb720de0a9cb255593c104adfbf5",
-            "message": "Fixed some bugs, improved UI for report",
+            "messageTitle": "Fixed some bugs, improved UI for report",
+            "messageBody": "",
             "insertions": 40,
             "deletions": 22
           },
           {
             "hash": "129ffb5cb64bfb85d3063a2e109b41b79f78dd9f",
-            "message": "Added new pie charts to give insights to expense and income",
+            "messageTitle": "Added new pie charts to give insights to expense and income",
+            "messageBody": "",
             "insertions": 113,
             "deletions": 3
           }
@@ -1076,25 +1252,29 @@
         "commitResults": [
           {
             "hash": "99d546c83f56fc5463b4541cfbffa64936f1a157",
-            "message": "Editted report fn",
+            "messageTitle": "Editted report fn",
+            "messageBody": "",
             "insertions": 70,
             "deletions": 45
           },
           {
             "hash": "7a9728d2bf2581c4693ce594b05b93b2d30cf8ec",
-            "message": "Fixed unable to close app bug",
+            "messageTitle": "Fixed unable to close app bug",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "9bfa69d7343e2ef49e8317b26e380723e51ac9f9",
-            "message": "Checkstyle fixes",
+            "messageTitle": "Checkstyle fixes",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 17
           },
           {
             "hash": "ca9541c437a116dfa3384a709073441cdef1ca89",
-            "message": "Checkstyle fixes",
+            "messageTitle": "Checkstyle fixes",
+            "messageBody": "",
             "insertions": 128,
             "deletions": 101
           }
@@ -1107,91 +1287,106 @@
         "commitResults": [
           {
             "hash": "8a74cc068e0ae5db02f8df2e5f17db7e7a2a2b72",
-            "message": "Fixed report by removing bitcoin",
+            "messageTitle": "Fixed report by removing bitcoin",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 8
           },
           {
             "hash": "6ada0ef5837489a285e23126901d363fa6c00961",
-            "message": "Improved performance for the crypto commands -- reduced lagging",
+            "messageTitle": "Improved performance for the crypto commands -- reduced lagging",
+            "messageBody": "",
             "insertions": 190,
             "deletions": 108
           },
           {
             "hash": "5addb8637e4ccc576dff04b009337b86ccef1316",
-            "message": "Crypto Commands code cleanup",
+            "messageTitle": "Crypto Commands code cleanup",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 304
           },
           {
             "hash": "06e3b5a750feedcec887af7699e11848234dc6f7",
-            "message": "Removed Incorrectly implemented features and tests",
+            "messageTitle": "Removed Incorrectly implemented features and tests",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1154
           },
           {
             "hash": "629c2f874c12d11e455f4b3dbaf9fcff3b748457",
-            "message": "Increased interval for crypto price refresh",
+            "messageTitle": "Increased interval for crypto price refresh",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "9ff2ad2588774379b48dfd01177ad0c2c64aa6dc",
-            "message": "fixed report command",
+            "messageTitle": "fixed report command",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "3579f82558b48da22eb910c0e6192a34d867c9f0",
-            "message": "fixed report command",
+            "messageTitle": "fixed report command",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "7e92ffeb6544497893e40f40e2a2b7d6fa85449d",
-            "message": "checkstyle fixes",
+            "messageTitle": "checkstyle fixes",
+            "messageBody": "",
             "insertions": 68,
             "deletions": 142
           },
           {
             "hash": "fa56a158b1bd7114d08e1d4506b2bd4eefacdf21",
-            "message": "checkstyle fix",
+            "messageTitle": "checkstyle fix",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "7415129396f316933ae5802cc1b93ad83ccef4c3",
-            "message": "Added on to DG",
+            "messageTitle": "Added on to DG",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 4
           },
           {
             "hash": "3c058a5921b53a5f9fa52620f2617130050c525c",
-            "message": "Checkstyle fixes",
+            "messageTitle": "Checkstyle fixes",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 23
           },
           {
             "hash": "4b7af1bc9d8d7963c41676b000fd4105b239ffb7",
-            "message": "Refactored names",
+            "messageTitle": "Refactored names",
+            "messageBody": "",
             "insertions": 1680,
             "deletions": 1706
           },
           {
             "hash": "03a1882b72b2214398308a200fe21dac13050547",
-            "message": "Added Seq Diagram for Report in DG",
+            "messageTitle": "Added Seq Diagram for Report in DG",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "f3d0d8c5f8e5d72ae165c4e5e9497645b75ccd59",
-            "message": "Fixed all checkstyles",
+            "messageTitle": "Fixed all checkstyles",
+            "messageBody": "",
             "insertions": 134,
             "deletions": 307
           },
           {
             "hash": "4412d4fc4b17206e9096ea9be0a8740907cdc575",
-            "message": "Fixed checkstyles for Tests",
+            "messageTitle": "Fixed checkstyles for Tests",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 21
           }
@@ -1199,32 +1394,43 @@
       },
       {
         "insertions": 287,
-        "deletions": 298,
+        "deletions": 376,
         "date": "2019-04-09",
         "commitResults": [
           {
             "hash": "8c0fd0826fc7a3f1a0869cfc1ea792bd8b798cbd",
-            "message": "Fixed checkstyles, testcases",
+            "messageTitle": "Fixed checkstyles, testcases",
+            "messageBody": "",
             "insertions": 280,
             "deletions": 288
           },
           {
             "hash": "daa13ca7e0d3cbb2d7d303f7363876697faef2d4",
-            "message": "Fixed Checkstyles",
+            "messageTitle": "Fixed Checkstyles",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 7
           },
           {
             "hash": "3da4ae5d4c46b1fe7ea1b939eecc122aaf12c254",
-            "message": "fixed checkstyles",
+            "messageTitle": "fixed checkstyles",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 2
           },
           {
             "hash": "0741b7f67a9944c1ff27cd656176dc1cee1a80cf",
-            "message": "fixed checkstyles",
+            "messageTitle": "fixed checkstyles",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
+          },
+          {
+            "hash": "0329a4f96a6aa781d58d2091eec7d54fc1cda1a8",
+            "messageTitle": "fixed website",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 78
           }
         ]
       },
@@ -1235,58 +1441,101 @@
         "commitResults": [
           {
             "hash": "f5c86ff9f093662f2483d7d138d64c5a4b27781b",
-            "message": "PPP",
+            "messageTitle": "PPP",
+            "messageBody": "",
             "insertions": 694,
             "deletions": 0
           }
         ]
       },
       {
-        "insertions": 105,
-        "deletions": 187,
+        "insertions": 183,
+        "deletions": 212,
         "date": "2019-04-14",
         "commitResults": [
           {
             "hash": "e4f02df0d89546d9c2e57fd150bba72b60192e78",
-            "message": "Changed PPP",
+            "messageTitle": "Changed PPP",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 21
           },
           {
             "hash": "8bb43f90ca4fb29d7431ecc991e4bdfba0f85cde",
-            "message": "PPP",
+            "messageTitle": "PPP",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 7
           },
           {
             "hash": "cb93f9f2875e482f416a6ceb1a3b2f90279810df",
-            "message": "ppp",
+            "messageTitle": "ppp",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
+            "hash": "4197b883767b4f68c8995395051aa524661a3b90",
+            "messageTitle": "Website fix",
+            "messageBody": "",
+            "insertions": 76,
+            "deletions": 0
+          },
+          {
+            "hash": "4326f0bdc544ec980a2f00641ea998d66b6de71d",
+            "messageTitle": "Website fix",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
             "hash": "4246c943c8f8c1277403970e6a026202c98715d5",
-            "message": "Fixed developer guide",
+            "messageTitle": "Fixed developer guide",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 5
           },
           {
+            "hash": "849749353fad0e17948bde0bc416795cc472bcc7",
+            "messageTitle": "Fixed website",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 25
+          },
+          {
             "hash": "c43768312adc31a12cf58e2471c8cd961d375e05",
-            "message": "Refactoring",
+            "messageTitle": "Refactoring",
+            "messageBody": "",
             "insertions": 45,
             "deletions": 45
           },
           {
             "hash": "47301230a39497ce4baf45c72b4fdff833e7e4cd",
-            "message": "Edited website",
+            "messageTitle": "Edited website",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 73
           },
           {
             "hash": "c8d2ab0b27ca2f6aa7c8d2e9e6973b29b7cd757e",
-            "message": "Refactored DG",
+            "messageTitle": "Refactored DG",
+            "messageBody": "",
             "insertions": 32,
             "deletions": 32
+          },
+          {
+            "hash": "4ee7d873bca3437f84392ccb905e7a96b51b9291",
+            "messageTitle": "refactor",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "c3efa1ae697d6a14298918be14bd0763167319b2",
+            "messageTitle": "refactoring",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
           }
         ]
       },
@@ -1297,31 +1546,36 @@
         "commitResults": [
           {
             "hash": "80cca5f14ac9172101985e7207d8f210c6af52dd",
-            "message": "fixes",
+            "messageTitle": "fixes",
+            "messageBody": "",
             "insertions": 59,
             "deletions": 21
           },
           {
             "hash": "37fff627b32cceb1e1a28071fbd2e7877f8a65b8",
-            "message": "bug fixes",
+            "messageTitle": "bug fixes",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 20
           },
           {
             "hash": "179e530b9a28cc1f717e39dbe902dfe7222b1fe5",
-            "message": "checkstyle fixes",
+            "messageTitle": "checkstyle fixes",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "306a88921afb5d713778f34f185b403e4b68548f",
-            "message": "removed browsertest",
+            "messageTitle": "removed browsertest",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 41
           },
           {
             "hash": "dd2072e7d428e625bf1d3cfbe8d98304e6b98d93",
-            "message": "fixed checkstyle",
+            "messageTitle": "fixed checkstyle",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           }
@@ -1334,37 +1588,43 @@
         "commitResults": [
           {
             "hash": "7208f2d2518a29f5e3db0b60b7132fdcca11278f",
-            "message": "bugfixes",
+            "messageTitle": "bugfixes",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 20
           },
           {
             "hash": "fa5f53f6bf80b16732d051672f967d377c358a3b",
-            "message": "Checkstyle fix",
+            "messageTitle": "Checkstyle fix",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "2511cc17b7778bf463a39a59a6b8e68bac79ea89",
-            "message": "checkstyle fix",
+            "messageTitle": "checkstyle fix",
+            "messageBody": "",
             "insertions": 24,
             "deletions": 24
           },
           {
             "hash": "cfc91753331bb8f1cdd9c1f3af12567dc14fa3e8",
-            "message": "Bug fix for system test",
+            "messageTitle": "Bug fix for system test",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "5a9781d88d3cbc625674d9fdfe57e1a9e679a846",
-            "message": "Fixed help command",
+            "messageTitle": "Fixed help command",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "d30892bd5090a4f384c6fecdbca22fbcf6d55b9b",
-            "message": "Editted UG",
+            "messageTitle": "Editted UG",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 9
           }
@@ -1377,19 +1637,22 @@
         "commitResults": [
           {
             "hash": "dd9592f6ccbaa898b896025401e0aa9715a8674a",
-            "message": "Fixed edit bug not able to handle duplicate entries",
+            "messageTitle": "Fixed edit bug not able to handle duplicate entries",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 4
           },
           {
             "hash": "c2ebfbbfe3b96e20a01d5b53ee57abce04065e21",
-            "message": "Removed irrelevant test case",
+            "messageTitle": "Removed irrelevant test case",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 9
           },
           {
             "hash": "28e1e3d068d2776d2981bd159df0364b20fc34ed",
-            "message": "Removed irrelevant test case",
+            "messageTitle": "Removed irrelevant test case",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 12
           }
@@ -1399,85 +1662,411 @@
   },
   "authorFinalContributionMap": {
     "frankquekch": 2508,
-    "jacobhan": 1632,
+    "jacobhan": 1633,
     "ngkaicong": 0,
     "yushao2": 3561
   },
-  "authorFileFormatContributionMap": {
+  "authorFileTypeContributionMap": {
     "frankquekch": {
-      "adoc": 229,
-      "cs": 0,
-      "css": 1,
-      "fxml": 5,
+      "adoc": 26,
       "gradle": 14,
-      "html": 0,
-      "java": 2228,
-      "js": 0,
-      "json": 31,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "adoc": 126,
+      "adoc": 77,
+      "java": 2,
+      "java": 2,
+      "java": 1,
+      "java": 59,
+      "java": 114,
+      "java": 9,
+      "java": 14,
+      "java": 13,
+      "java": 7,
+      "java": 60,
+      "java": 51,
+      "java": 39,
+      "java": 3,
+      "java": 2,
+      "java": 1,
+      "java": 7,
+      "java": 1,
+      "java": 5,
+      "java": 2,
+      "java": 58,
+      "java": 10,
+      "java": 7,
+      "java": 29,
+      "java": 1,
+      "java": 14,
+      "java": 30,
+      "java": 28,
+      "java": 63,
+      "java": 2,
+      "java": 60,
+      "java": 28,
+      "java": 117,
+      "java": 29,
+      "java": 32,
+      "java": 158,
+      "java": 4,
+      "java": 35,
+      "java": 3,
+      "java": 5,
+      "java": 6,
+      "java": 28,
+      "java": 6,
+      "java": 5,
+      "java": 62,
+      "java": 14,
+      "java": 68,
+      "java": 8,
+      "css": 1,
+      "fxml": 2,
+      "fxml": 1,
+      "fxml": 2,
+      "json": 9,
+      "json": 2,
+      "json": 13,
+      "json": 7,
+      "java": 19,
+      "java": 38,
+      "java": 4,
+      "java": 1,
+      "java": 1,
+      "java": 5,
+      "java": 5,
+      "java": 37,
+      "java": 27,
+      "java": 43,
+      "java": 62,
+      "java": 4,
+      "java": 8,
+      "java": 2,
+      "java": 1,
+      "java": 4,
+      "java": 21,
+      "java": 4,
+      "java": 3,
+      "java": 1,
+      "java": 11,
+      "java": 10,
+      "java": 23,
+      "java": 1,
+      "java": 6,
+      "java": 20,
+      "java": 1,
+      "java": 5,
+      "java": 108,
+      "java": 4,
+      "java": 7,
+      "java": 5,
+      "java": 5,
+      "java": 2,
+      "java": 70,
+      "java": 26,
+      "java": 12,
+      "java": 7,
+      "java": 14,
+      "java": 3,
+      "java": 66,
+      "java": 36,
+      "java": 18,
+      "java": 23,
+      "java": 1,
+      "java": 32,
+      "java": 47,
+      "java": 28,
+      "java": 11,
+      "java": 4,
+      "java": 7,
+      "java": 2,
+      "java": 21
     },
     "jacobhan": {
-      "adoc": 399,
-      "cs": 0,
-      "css": 214,
-      "fxml": 0,
-      "gradle": 4,
-      "html": 0,
-      "java": 990,
-      "js": 0,
+      "gitignore": 1,
+      "adoc": 1,
       "json": 25,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "ngkaicong": {
-      "adoc": 0,
-      "cs": 0,
-      "css": 0,
-      "fxml": 0,
-      "gradle": 0,
-      "html": 0,
-      "java": 0,
-      "js": 0,
-      "json": 0,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
-    },
-    "yushao2": {
-      "adoc": 196,
-      "cs": 0,
-      "css": 575,
-      "fxml": 56,
       "gradle": 4,
-      "html": 0,
-      "java": 2684,
-      "js": 0,
-      "json": 46,
-      "jsp": 0,
-      "md": 0,
-      "py": 0,
-      "tag": 0,
-      "txt": 0,
-      "xml": 0
+      "adoc": 4,
+      "adoc": 1,
+      "adoc": 156,
+      "adoc": 137,
+      "css": 214,
+      "adoc": 100,
+      "java": 5,
+      "java": 31,
+      "java": 109,
+      "java": 32,
+      "java": 67,
+      "java": 32,
+      "java": 110,
+      "java": 16,
+      "java": 3,
+      "java": 43,
+      "java": 44,
+      "java": 16,
+      "java": 48,
+      "java": 17,
+      "java": 9,
+      "java": 37,
+      "java": 60,
+      "java": 1,
+      "java": 3,
+      "java": 33,
+      "java": 18,
+      "java": 48,
+      "java": 33,
+      "java": 94,
+      "java": 33,
+      "java": 48
+    },
+    "ngkaicong": {},
+    "yushao2": {
+      "gradle": 4,
+      "adoc": 7,
+      "adoc": 1,
+      "adoc": 64,
+      "adoc": 12,
+      "adoc": 2,
+      "css": 361,
+      "css": 214,
+      "adoc": 110,
+      "java": 3,
+      "java": 56,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 2,
+      "java": 1,
+      "java": 4,
+      "java": 3,
+      "java": 163,
+      "java": 3,
+      "java": 2,
+      "java": 2,
+      "java": 56,
+      "java": 1,
+      "java": 3,
+      "java": 7,
+      "java": 2,
+      "java": 1,
+      "java": 13,
+      "java": 37,
+      "java": 1,
+      "java": 2,
+      "java": 1,
+      "java": 12,
+      "java": 14,
+      "java": 6,
+      "java": 4,
+      "java": 11,
+      "java": 8,
+      "java": 7,
+      "java": 19,
+      "java": 14,
+      "java": 4,
+      "java": 1,
+      "java": 5,
+      "java": 6,
+      "java": 4,
+      "java": 3,
+      "java": 5,
+      "java": 14,
+      "java": 15,
+      "java": 3,
+      "java": 6,
+      "java": 32,
+      "java": 8,
+      "java": 3,
+      "java": 6,
+      "java": 1,
+      "java": 13,
+      "java": 1,
+      "java": 1,
+      "java": 4,
+      "java": 3,
+      "java": 5,
+      "java": 12,
+      "java": 11,
+      "java": 5,
+      "java": 4,
+      "java": 62,
+      "java": 5,
+      "java": 4,
+      "java": 10,
+      "java": 3,
+      "java": 8,
+      "java": 1,
+      "java": 61,
+      "java": 5,
+      "java": 6,
+      "java": 2,
+      "java": 22,
+      "java": 22,
+      "java": 15,
+      "java": 4,
+      "java": 2,
+      "java": 2,
+      "java": 14,
+      "java": 23,
+      "java": 3,
+      "java": 17,
+      "java": 28,
+      "java": 28,
+      "java": 2,
+      "java": 4,
+      "java": 10,
+      "java": 4,
+      "java": 2,
+      "java": 116,
+      "java": 2,
+      "java": 1,
+      "java": 1,
+      "java": 3,
+      "java": 31,
+      "java": 11,
+      "java": 7,
+      "java": 3,
+      "java": 17,
+      "java": 20,
+      "java": 5,
+      "java": 7,
+      "java": 7,
+      "java": 18,
+      "java": 6,
+      "java": 26,
+      "java": 9,
+      "java": 4,
+      "java": 3,
+      "java": 2,
+      "java": 1,
+      "java": 27,
+      "java": 232,
+      "java": 1,
+      "java": 3,
+      "java": 1,
+      "java": 5,
+      "java": 2,
+      "fxml": 5,
+      "fxml": 1,
+      "fxml": 48,
+      "json": 2,
+      "json": 44,
+      "java": 1,
+      "java": 1,
+      "java": 2,
+      "java": 2,
+      "java": 1,
+      "java": 1,
+      "java": 18,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 2,
+      "java": 14,
+      "java": 3,
+      "java": 2,
+      "java": 1,
+      "java": 3,
+      "java": 1,
+      "java": 1,
+      "java": 30,
+      "java": 9,
+      "java": 13,
+      "java": 9,
+      "java": 6,
+      "java": 18,
+      "java": 17,
+      "java": 22,
+      "java": 33,
+      "java": 9,
+      "java": 10,
+      "java": 14,
+      "java": 10,
+      "java": 5,
+      "java": 9,
+      "java": 9,
+      "java": 10,
+      "java": 15,
+      "java": 9,
+      "java": 34,
+      "java": 1,
+      "java": 3,
+      "java": 6,
+      "java": 6,
+      "java": 35,
+      "java": 32,
+      "java": 13,
+      "java": 6,
+      "java": 10,
+      "java": 6,
+      "java": 25,
+      "java": 24,
+      "java": 2,
+      "java": 51,
+      "java": 2,
+      "java": 11,
+      "java": 7,
+      "java": 8,
+      "java": 5,
+      "java": 2,
+      "java": 2,
+      "java": 8,
+      "java": 20,
+      "java": 14,
+      "java": 4,
+      "java": 11,
+      "java": 1,
+      "java": 7,
+      "java": 34,
+      "java": 7,
+      "java": 9,
+      "java": 1,
+      "java": 4,
+      "java": 23,
+      "java": 2,
+      "java": 4,
+      "java": 4,
+      "java": 9,
+      "java": 3,
+      "java": 10,
+      "java": 1,
+      "java": 7,
+      "java": 1,
+      "java": 9,
+      "java": 1,
+      "java": 3,
+      "java": 2,
+      "java": 1,
+      "java": 2,
+      "java": 45,
+      "java": 21,
+      "java": 1,
+      "java": 24,
+      "java": 46,
+      "java": 28,
+      "java": 45,
+      "java": 39,
+      "java": 12,
+      "java": 2,
+      "java": 7,
+      "java": 22,
+      "java": 3,
+      "fxml": 1,
+      "fxml": 1
     }
   },
   "authorContributionVariance": {
-    "frankquekch": 293913.6,
-    "jacobhan": 985256.9,
+    "frankquekch": 293888.66,
+    "jacobhan": 986803.44,
     "ngkaicong": 0.0,
-    "yushao2": 493346.94
+    "yushao2": 495052.38
   },
   "authorDisplayNameMap": {
     "frankquekch": "DOM...HAO",
