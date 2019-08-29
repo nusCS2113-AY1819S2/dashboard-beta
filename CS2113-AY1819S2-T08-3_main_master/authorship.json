@@ -1,434 +1,6 @@
 [
   {
-    "path": ".gitignore",
-    "fileType": "gitignore",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "# Generated class files"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.class"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "# Default data file"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "addressbook.txt"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "# Package Files #"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.jar"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.war"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.ear"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "# Idea files"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ".idea/"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.iml"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "out/"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "test/data/"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "/bin/"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "/data/"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "publish.sh"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "# Gradle build files"
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ".gradle/"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "build/"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "PlanMySem.txt"
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "PlanMySem.ics"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "marcus-pzj"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "marcus-pzj"
-        },
-        "content": "# Reposense config file"
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "marcus-pzj"
-        },
-        "content": "/config.json"
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "macchazuki"
-        },
-        "content": "KeyStorage.jceks"
-      }
-    ],
-    "authorContributionMap": {
-      "marcus-pzj": 3,
-      "-": 24,
-      "macchazuki": 3
-    }
-  },
-  {
-    "path": ".travis.yml",
-    "fileType": "yml",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "language: java"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "matrix:"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  include:"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    - jdk: oraclejdk9"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "script: \u003e-"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "  travis_retry ./gradlew clean test coverage coveralls asciidoctor checkstyleMain checkstyleTest"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "deploy:"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  skip_cleanup: true"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  provider: script"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "  script: bash ./config/travis/deploy_github_pages.sh"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  on:"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    branch: master"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "addons:"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  apt:"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    packages:"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "      - oracle-java9-installer"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "before_cache:"
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "  - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "cache:"
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "  directories:"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    - $HOME/.gradle/caches/"
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    - $HOME/.gradle/wrapper/"
-      }
-    ],
-    "authorContributionMap": {
-      "seanieyap": 11,
-      "-": 17
-    }
-  },
-  {
     "path": "README.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -767,7 +339,6 @@
   },
   {
     "path": "_reposense/config.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -950,143 +521,7 @@
     }
   },
   {
-    "path": "appveyor.yml",
-    "fileType": "yml",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "# AppVeyor configuration file"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "# For more details see https://www.appveyor.com/docs/build-configuration/"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "# Call on gradle to build and run tests"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "# --no-daemon: Prevent the daemon from launching to prevent file-in-use errors"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "#     when we cache the ~/.gradle directory"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "build_script:"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "  - gradlew.bat --no-daemon assemble checkstyleMain checkstyleTest"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "test_script:"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "  - gradlew.bat --no-daemon headless test"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "environment:"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "  JAVA_HOME: C:\\Program Files\\Java\\jdk9  # Use 64-bit Java"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "# Files/folders to preserve between builds to speed them up"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "cache:"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "  - C:\\Users\\appveyor\\.gradle"
-      }
-    ],
-    "authorContributionMap": {
-      "seanieyap": 18
-    }
-  },
-  {
     "path": "build.gradle",
-    "fileType": "gradle",
     "lines": [
       {
         "lineNumber": 1,
@@ -2426,7 +1861,6 @@
   },
   {
     "path": "config.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -2610,7 +2044,6 @@
   },
   {
     "path": "config/checkstyle/checkstyle.xml",
-    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -5594,7 +5027,6 @@
   },
   {
     "path": "config/checkstyle/suppressions.xml",
-    "fileType": "xml",
     "lines": [
       {
         "lineNumber": 1,
@@ -5665,585 +5097,7 @@
     }
   },
   {
-    "path": "config/travis/check-eof-newline.sh",
-    "fileType": "sh",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "#!/bin/sh"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "# Checks that all text files end with a newline."
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "ret\u003d0"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "# Preserve filename with spaces by only splitting on newlines."
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "IFS\u003d\u0027"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "\u0027"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "for filename in $(git grep --cached -I -l -e \u0027\u0027 -- \u0027:/\u0027); do"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    if [ \"$(tail -c 1 \"./$filename\")\" !\u003d \u0027\u0027 ]; then"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        line\u003d\"$(wc -l \"./$filename\" | cut -d\u0027 \u0027 -f1)\""
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        echo \"ERROR:$filename:$line: no newline at EOF.\""
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        ret\u003d1"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    fi"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "done"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "exit $ret"
-      }
-    ],
-    "authorContributionMap": {
-      "seanieyap": 18
-    }
-  },
-  {
-    "path": "config/travis/check-line-endings.sh",
-    "fileType": "sh",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "#!/bin/sh"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "# Checks for prohibited line endings."
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "# Prohibited line endings: \\r\\n"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "git grep --cached -I -n --no-color -P \u0027\\r$\u0027 -- \u0027:/\u0027 |"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "awk \u0027"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    BEGIN {"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        FS \u003d \":\""
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        OFS \u003d \":\""
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        ret \u003d 0"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    {"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        ret \u003d 1"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        print \"ERROR\", $1, $2, \" prohibited \\\\r\\\\n line ending, use \\\\n instead.\""
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    END {"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        exit ret"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "\u0027"
-      }
-    ],
-    "authorContributionMap": {
-      "seanieyap": 19
-    }
-  },
-  {
-    "path": "config/travis/check-trailing-whitespace.sh",
-    "fileType": "sh",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "#!/bin/sh"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "# Checks for trailing whitespace"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "git grep --cached -I -n --no-color -P \u0027[ \\t]+$\u0027 -- \u0027:/\u0027 |"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "awk \u0027"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    BEGIN {"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        FS \u003d \":\""
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        OFS \u003d \":\""
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        ret \u003d 0"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    {"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        # Only warn for markdown files (*.md) to accomodate text editors"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        # which do not properly handle trailing whitespace."
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        # (e.g. GitHub web editor)"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        if ($1 ~ /\\.md$/) {"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "            severity \u003d \"WARN\""
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        } else {"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "            severity \u003d \"ERROR\""
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "            ret \u003d 1"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        }"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        print severity, $1, $2, \" trailing whitespace.\""
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    END {"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        exit ret"
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "\u0027"
-      }
-    ],
-    "authorContributionMap": {
-      "seanieyap": 26
-    }
-  },
-  {
-    "path": "config/travis/run-checks.sh",
-    "fileType": "sh",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "#!/bin/sh"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "# Runs all check-* scripts, and returns a non-zero exit code if any of them fail."
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "dir\u003d$(CDPATH\u003d cd -- \"$(dirname -- \"$0\")\" \u0026\u0026 pwd) \u0026\u0026"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "ret\u003d0 \u0026\u0026"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "for checkscript in \"$dir\"/check-*; do"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    if ! \"$checkscript\"; then"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "        ret\u003d1"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "    fi"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "done"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "exit $ret"
-      }
-    ],
-    "authorContributionMap": {
-      "seanieyap": 11
-    }
-  },
-  {
-    "path": "coveralls.yml",
-    "fileType": "yml",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "service_name: travis-pro"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "repo_token: V29G75vwjFA8pJVFwyYHeE10Dt4U2ntr0"
-      }
-    ],
-    "authorContributionMap": {
-      "seanieyap": 2
-    }
-  },
-  {
     "path": "docs/AboutUs.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -6575,7 +5429,6 @@
   },
   {
     "path": "docs/ContactUs.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -6633,7 +5486,6 @@
   },
   {
     "path": "docs/DeveloperGuide.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -19722,7 +18574,6 @@
   },
   {
     "path": "docs/HelpWindow.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -19752,7 +18603,6 @@
   },
   {
     "path": "docs/UserGuide.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -24154,7 +23004,6 @@
   },
   {
     "path": "docs/UsingAppVeyor.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -24758,7 +23607,6 @@
   },
   {
     "path": "docs/UsingCheckstyle.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -25061,7 +23909,6 @@
   },
   {
     "path": "docs/UsingCoveralls.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -25448,7 +24295,6 @@
   },
   {
     "path": "docs/UsingGradle.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -26206,7 +25052,6 @@
   },
   {
     "path": "docs/UsingNetlify.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -26565,7 +25410,6 @@
   },
   {
     "path": "docs/UsingTravis.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -27491,7 +26335,6 @@
   },
   {
     "path": "docs/stylesheets/asciidoctor.css",
-    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -41732,7 +40575,6 @@
   },
   {
     "path": "docs/team/dingheng4448.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -43898,7 +42740,6 @@
   },
   {
     "path": "docs/team/macchazuki.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -45714,7 +44555,6 @@
   },
   {
     "path": "docs/team/marcus-pzj.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -47397,7 +46237,6 @@
   },
   {
     "path": "docs/team/seanieyap.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -50192,450 +49031,7 @@
     }
   },
   {
-    "path": "docs/templates/_header.html.slim",
-    "fileType": "slim",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "/ NOTE: You must restart the gradle daemon after modifying any template file for the changes to take effect."
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "- if !(attr? \u0027no-site-header\u0027)"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  #site-header"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    nav.navbar.navbar-light.bg-light"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "      .container"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        - if attr? \u0027site-name\u0027"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            a.navbar-brand href\u003d(site_url \u0027index.html\u0027) \u003d(attr \u0027site-name\u0027)"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        ul.navbar-nav"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          li.nav-item"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            \u003dnav_link(\u0027UserGuide\u0027, \u0027UserGuide.html\u0027, \u0027User Guide\u0027)"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          li.nav-item"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            \u003dnav_link(\u0027DeveloperGuide\u0027, \u0027DeveloperGuide.html\u0027, \u0027Developer Guide\u0027)"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          li.nav-item"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "            \u003dnav_link(\u0027AboutUs\u0027, \u0027AboutUs.html\u0027, \u0027About Us\u0027)"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "          li.nav-item"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "            \u003dnav_link(\u0027ContactUs\u0027, \u0027ContactUs.html\u0027, \u0027Contact Us\u0027)"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          - if attr? \u0027site-githuburl\u0027"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            li.navitem"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "              a.nav-link href\u003d(attr \u0027site-githuburl\u0027)"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                span.fa.fa-github.fa-lg aria-hidden\u003d\u0027true\u0027"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                | \u0026nbsp;View on GitHub"
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "/ AsciiDoc leaves an empty header div even if there\u0027s no doctitle"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "#header"
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  - if has_header?"
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    - unless notitle"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "      h1 \u003dheader.title"
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    - if [:author, :revnumber, :revdate, :revremark].any? {|a| attr? a }"
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "      .details"
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        - if attr? :author"
-      },
-      {
-        "lineNumber": 31,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          span.author#author \u003d(attr :author)"
-      },
-      {
-        "lineNumber": 32,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          br"
-      },
-      {
-        "lineNumber": 33,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          - if attr? :email"
-      },
-      {
-        "lineNumber": 34,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            span.email#email \u003dsub_macros(attr :email)"
-      },
-      {
-        "lineNumber": 35,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            br"
-      },
-      {
-        "lineNumber": 36,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          - if (authorcount \u003d (attr :authorcount).to_i) \u003e 1"
-      },
-      {
-        "lineNumber": 37,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "            - (2..authorcount).each do |idx|"
-      },
-      {
-        "lineNumber": 38,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "              span.author id\u003d\"author#{idx}\" \u003d(attr \"author_#{idx}\")"
-      },
-      {
-        "lineNumber": 39,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "              br"
-      },
-      {
-        "lineNumber": 40,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "              - if attr? \"email_#{idx}\""
-      },
-      {
-        "lineNumber": 41,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "                span.email id\u003d\"email#{idx}\" \u003dsub_macros(attr \"email_#{idx}\")"
-      },
-      {
-        "lineNumber": 42,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        - if attr? :revnumber"
-      },
-      {
-        "lineNumber": 43,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          span#revnumber #{((attr \u0027version-label\u0027) || \u0027\u0027).downcase} #{attr :revnumber}#{\u0027,\u0027 if attr? :revdate}"
-      },
-      {
-        "lineNumber": 44,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          \u0027"
-      },
-      {
-        "lineNumber": 45,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        - if attr? :revdate"
-      },
-      {
-        "lineNumber": 46,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          span#revdate \u003dattr :revdate"
-      },
-      {
-        "lineNumber": 47,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "        - if attr? :revremark"
-      },
-      {
-        "lineNumber": 48,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          br"
-      },
-      {
-        "lineNumber": 49,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "          span#revremark \u003d(attr :revremark)"
-      },
-      {
-        "lineNumber": 50,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "  - if (attr? :toc) \u0026\u0026 (attr? \u0027toc-placement\u0027, \u0027auto\u0027)"
-      },
-      {
-        "lineNumber": 51,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "    include _toc.html"
-      }
-    ],
-    "authorContributionMap": {
-      "seanieyap": 3,
-      "-": 48
-    }
-  },
-  {
-    "path": "gradle.properties",
-    "fileType": "properties",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "org.gradle.parallel\u003dfalse"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "org.gradle.jvmargs\u003d-XX:MaxMetaspaceSize\u003d512m -XX:+HeapDumpOnOutOfMemoryError -Xmx1024m -Dfile.encoding\u003dutf-8"
-      }
-    ],
-    "authorContributionMap": {
-      "seanieyap": 2
-    }
-  },
-  {
-    "path": "gradle/wrapper/gradle-wrapper.properties",
-    "fileType": "properties",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "#Mon Feb 18 18:42:33 SGT 2019"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "distributionBase\u003dGRADLE_USER_HOME"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "distributionPath\u003dwrapper/dists"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "zipStoreBase\u003dGRADLE_USER_HOME"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "zipStorePath\u003dwrapper/dists"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "seanieyap"
-        },
-        "content": "distributionUrl\u003dhttps\\://services.gradle.org/distributions/gradle-4.8.1-all.zip"
-      }
-    ],
-    "authorContributionMap": {
-      "seanieyap": 2,
-      "-": 4
-    }
-  },
-  {
     "path": "src/planmysem/Main.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50925,7 +49321,6 @@
   },
   {
     "path": "src/planmysem/common/Clock.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51102,7 +49497,6 @@
   },
   {
     "path": "src/planmysem/common/Messages.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52311,7 +50705,6 @@
   },
   {
     "path": "src/planmysem/common/Utils.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54135,7 +52528,6 @@
   },
   {
     "path": "src/planmysem/common/exceptions/IllegalValueException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54236,7 +52628,6 @@
   },
   {
     "path": "src/planmysem/logic/CommandHistory.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54652,7 +53043,6 @@
   },
   {
     "path": "src/planmysem/logic/Logic.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54935,7 +53325,6 @@
   },
   {
     "path": "src/planmysem/logic/LogicManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55434,7 +53823,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/AddCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56270,7 +54658,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/ClearCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56442,7 +54829,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/Command.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56598,7 +54984,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/CommandResult.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57042,7 +55427,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/DeleteCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57821,7 +56205,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/EditCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59363,7 +57746,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/ExitCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59520,7 +57902,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/ExportCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59908,7 +58289,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/FindCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60843,7 +59223,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/HelpCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61099,7 +59478,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/HistoryCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61388,7 +59766,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/ImportCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -62385,7 +60762,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/ListCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63052,7 +61428,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/RedoCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63306,7 +61681,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/UndoCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63560,7 +61934,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/ViewCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -67035,7 +65408,6 @@
   },
   {
     "path": "src/planmysem/logic/commands/exceptions/CommandException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -67163,7 +65535,6 @@
   },
   {
     "path": "src/planmysem/logic/parser/AddCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68075,7 +66446,6 @@
   },
   {
     "path": "src/planmysem/logic/parser/DeleteCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68364,7 +66734,6 @@
   },
   {
     "path": "src/planmysem/logic/parser/EditCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69003,7 +67372,6 @@
   },
   {
     "path": "src/planmysem/logic/parser/ExportCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69278,7 +67646,6 @@
   },
   {
     "path": "src/planmysem/logic/parser/FindCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69539,7 +67906,6 @@
   },
   {
     "path": "src/planmysem/logic/parser/ImportCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69772,7 +68138,6 @@
   },
   {
     "path": "src/planmysem/logic/parser/ListCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -70062,7 +68427,6 @@
   },
   {
     "path": "src/planmysem/logic/parser/Parser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -70905,7 +69269,6 @@
   },
   {
     "path": "src/planmysem/logic/parser/ParserManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71651,7 +70014,6 @@
   },
   {
     "path": "src/planmysem/logic/parser/ViewCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72571,7 +70933,6 @@
   },
   {
     "path": "src/planmysem/logic/parser/exceptions/ParseException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72671,7 +71032,6 @@
   },
   {
     "path": "src/planmysem/model/Model.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73506,7 +71866,6 @@
   },
   {
     "path": "src/planmysem/model/ModelManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74782,7 +73141,6 @@
   },
   {
     "path": "src/planmysem/model/Planner.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75624,7 +73982,6 @@
   },
   {
     "path": "src/planmysem/model/ReadOnlyPlanner.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75759,7 +74116,6 @@
   },
   {
     "path": "src/planmysem/model/VersionedPlanner.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76573,7 +74929,6 @@
   },
   {
     "path": "src/planmysem/model/recurrence/Recurrence.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77835,7 +76190,6 @@
   },
   {
     "path": "src/planmysem/model/semester/Day.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78559,7 +76913,6 @@
   },
   {
     "path": "src/planmysem/model/semester/IcsSemester.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78940,7 +77293,6 @@
   },
   {
     "path": "src/planmysem/model/semester/ReadOnlyDay.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79180,7 +77532,6 @@
   },
   {
     "path": "src/planmysem/model/semester/ReadOnlySemester.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79372,7 +77723,6 @@
   },
   {
     "path": "src/planmysem/model/semester/Semester.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -83022,7 +81372,6 @@
   },
   {
     "path": "src/planmysem/model/semester/WeightedName.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -83360,7 +81709,6 @@
   },
   {
     "path": "src/planmysem/model/slot/ReadOnlySlot.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -83930,7 +82278,6 @@
   },
   {
     "path": "src/planmysem/model/slot/Slot.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -85102,7 +83449,6 @@
   },
   {
     "path": "src/planmysem/storage/Encryptor.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -85853,7 +84199,6 @@
   },
   {
     "path": "src/planmysem/storage/KeyStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86380,7 +84725,6 @@
   },
   {
     "path": "src/planmysem/storage/Storage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86725,7 +85069,6 @@
   },
   {
     "path": "src/planmysem/storage/StorageFile.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87744,7 +86087,6 @@
   },
   {
     "path": "src/planmysem/storage/jaxb/AdaptedDay.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -88292,7 +86634,6 @@
   },
   {
     "path": "src/planmysem/storage/jaxb/AdaptedPlanner.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -88672,7 +87013,6 @@
   },
   {
     "path": "src/planmysem/storage/jaxb/AdaptedSemester.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89710,7 +88050,6 @@
   },
   {
     "path": "src/planmysem/storage/jaxb/AdaptedSlot.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90475,7 +88814,6 @@
   },
   {
     "path": "src/planmysem/ui/DarkTheme.css",
-    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -90597,7 +88935,6 @@
   },
   {
     "path": "src/planmysem/ui/Formatter.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90915,7 +89252,6 @@
   },
   {
     "path": "src/planmysem/ui/MainWindow.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91751,7 +90087,6 @@
   },
   {
     "path": "src/planmysem/ui/Stoppable.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91817,7 +90152,6 @@
   },
   {
     "path": "src/planmysem/ui/Ui.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91931,7 +90265,6 @@
   },
   {
     "path": "src/planmysem/ui/UiManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92284,7 +90617,6 @@
   },
   {
     "path": "src/planmysem/ui/mainwindow.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -92434,7 +90766,6 @@
   },
   {
     "path": "test/java/planmysem/common/UtilsTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93970,7 +92301,6 @@
   },
   {
     "path": "test/java/planmysem/logic/CommandHistoryTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -94511,7 +92841,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/AddCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96396,7 +94725,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/ClearCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96806,7 +95134,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/CommandResultTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -96997,7 +95324,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/CommandTestUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97559,7 +95885,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/DeleteCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99052,7 +97377,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/EditCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101658,7 +99982,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/ExitCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101828,7 +100151,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/ExportCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -102600,7 +100922,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/FindCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106977,7 +105298,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/HelpCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107154,7 +105474,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/HistoryCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107415,7 +105734,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/ImportCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108579,7 +106897,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/ListCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -110744,7 +109061,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/RedoCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -111761,7 +110077,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/UndoCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -112729,7 +111044,6 @@
   },
   {
     "path": "test/java/planmysem/logic/Commands/ViewCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113977,7 +112291,6 @@
   },
   {
     "path": "test/java/planmysem/logic/LogicManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -115449,7 +113762,6 @@
   },
   {
     "path": "test/java/planmysem/logic/parser/AddCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -117804,7 +116116,6 @@
   },
   {
     "path": "test/java/planmysem/logic/parser/CommandParserTestUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -118079,7 +116390,6 @@
   },
   {
     "path": "test/java/planmysem/logic/parser/DeleteCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -118725,7 +117035,6 @@
   },
   {
     "path": "test/java/planmysem/logic/parser/EditCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119980,7 +118289,6 @@
   },
   {
     "path": "test/java/planmysem/logic/parser/ExportCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -120269,7 +118577,6 @@
   },
   {
     "path": "test/java/planmysem/logic/parser/ImportCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -120593,7 +118900,6 @@
   },
   {
     "path": "test/java/planmysem/logic/parser/ParserManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -122270,7 +120576,6 @@
   },
   {
     "path": "test/java/planmysem/logic/parser/ViewCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -123393,7 +121698,6 @@
   },
   {
     "path": "test/java/planmysem/model/ModelManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -124144,7 +122448,6 @@
   },
   {
     "path": "test/java/planmysem/model/PlannerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -124364,7 +122667,6 @@
   },
   {
     "path": "test/java/planmysem/model/Recurrence/RecurrenceTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125038,7 +123340,6 @@
   },
   {
     "path": "test/java/planmysem/model/Semester/DayTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125740,7 +124041,6 @@
   },
   {
     "path": "test/java/planmysem/model/Semester/SemesterTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -127612,7 +125912,6 @@
   },
   {
     "path": "test/java/planmysem/model/Slot/SlotTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -128559,7 +126858,6 @@
   },
   {
     "path": "test/java/planmysem/model/VersionedPlannerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -129233,7 +127531,6 @@
   },
   {
     "path": "test/java/planmysem/storage/EncryptorTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -129480,7 +127777,6 @@
   },
   {
     "path": "test/java/planmysem/storage/KeyStorageTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -129692,7 +127988,6 @@
   },
   {
     "path": "test/java/planmysem/storage/StorageFileTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -130465,7 +128760,6 @@
   },
   {
     "path": "test/java/planmysem/testutil/SlotBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -131252,7 +129546,6 @@
   },
   {
     "path": "test/java/planmysem/util/TestUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -131430,7 +129723,6 @@
   },
   {
     "path": "test/model/StorageFileTest/InvalidData.txt",
-    "fileType": "txt",
     "lines": [
       {
         "lineNumber": 1,
@@ -131446,7 +129738,6 @@
   },
   {
     "path": "test/model/StorageFileTest/ValidData.txt",
-    "fileType": "txt",
     "lines": [
       {
         "lineNumber": 1,

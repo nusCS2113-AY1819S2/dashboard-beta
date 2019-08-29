@@ -1,7 +1,6 @@
 [
   {
     "path": "DeveloperGuide.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -10895,7 +10894,6 @@
   },
   {
     "path": "README.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -11200,7 +11198,6 @@
   },
   {
     "path": "UserGuide.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -15710,7 +15707,6 @@
   },
   {
     "path": "data/addressbook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -15909,7 +15905,6 @@
   },
   {
     "path": "data/expenditurelist.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -16080,7 +16075,6 @@
   },
   {
     "path": "data/tasklist.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -16180,7 +16174,6 @@
   },
   {
     "path": "data/tickedtasklist.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -16350,7 +16343,6 @@
   },
   {
     "path": "docs/AboutUs.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -16690,7 +16682,6 @@
   },
   {
     "path": "docs/ContactUs.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -16749,7 +16740,6 @@
   },
   {
     "path": "docs/DeveloperGuide.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -27668,7 +27658,6 @@
   },
   {
     "path": "docs/UserGuide.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -32007,7 +31996,6 @@
   },
   {
     "path": "docs/UsingGradle.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -32766,7 +32754,6 @@
   },
   {
     "path": "docs/team/jayrometan.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -33545,7 +33532,6 @@
   },
   {
     "path": "docs/team/wongyuqi.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -34331,7 +34317,6 @@
   },
   {
     "path": "docs/team/yongjia96.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -35060,38 +35045,7 @@
     }
   },
   {
-    "path": "src/main/java/META-INF/MANIFEST.MF",
-    "fileType": "MF",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "jayrometan"
-        },
-        "content": "Manifest-Version: 1.0"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "jayrometan"
-        },
-        "content": "Main-Class: seedu.address.MainApp"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "jayrometan"
-        },
-        "content": ""
-      }
-    ],
-    "authorContributionMap": {
-      "jayrometan": 3
-    }
-  },
-  {
     "path": "src/main/java/seedu/address/MainApp.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -37225,7 +37179,6 @@
   },
   {
     "path": "src/main/java/seedu/address/commons/core/Messages.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -37334,7 +37287,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/Logic.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -38411,7 +38363,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/LogicManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40489,7 +40440,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40982,7 +40932,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddHabitCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41369,7 +41318,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddPurchaseCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41785,7 +41733,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/AddTaskCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42284,7 +42231,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ClearCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42469,7 +42415,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ClearExpListCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42647,7 +42592,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DeleteCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43042,7 +42986,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DeleteHabitCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43408,7 +43351,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/DeleteTaskCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43781,7 +43723,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/EditCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45387,7 +45328,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/EditTaskCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46768,7 +46708,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ExitCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46918,7 +46857,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ExpListCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47102,7 +47040,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/FindCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47413,7 +47350,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/ListCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47598,7 +47534,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/RecordCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47902,7 +47837,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/RedoCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48129,7 +48063,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SelectCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48524,7 +48457,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/SortTaskCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48701,7 +48633,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/TickTaskCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49102,7 +49033,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/UndoCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49329,7 +49259,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/commands/WorkoutCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49654,7 +49583,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddHabitCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50034,7 +49962,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddPurchaseCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50422,7 +50349,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/AddTaskCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50802,7 +50728,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/CliSyntax.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50983,7 +50908,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/DeleteHabitCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51195,7 +51119,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/DeleteTaskCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51421,7 +51344,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/EditTaskCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52018,7 +51940,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/LifeParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53018,7 +52939,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/ParserUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55173,7 +55093,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/RecordCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55582,7 +55501,6 @@
   },
   {
     "path": "src/main/java/seedu/address/logic/parser/TickTaskCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55815,7 +55733,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ContactList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56869,7 +56786,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ExpenditureList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57697,7 +57613,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/HabitTrackerList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58686,7 +58601,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/Model.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60869,7 +60783,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ModelManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -65635,7 +65548,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyContactList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -65771,7 +65683,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyExpenditureList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -65906,7 +65817,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyHabitTrackerList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -66034,7 +65944,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyTaskList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -66127,7 +66036,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyUserPrefs.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -66315,7 +66223,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/ReadOnlyWorkoutBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -66443,7 +66350,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/TaskList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -67383,7 +67289,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/UserPrefs.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68418,7 +68323,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/VersionedContactList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69198,7 +69102,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/VersionedExpenditureList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69970,7 +69873,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/VersionedHabitTrackerList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -70749,7 +70651,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/VersionedTaskList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71073,7 +70974,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/VersionedWorkoutBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71391,7 +71291,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/WorkoutBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72128,7 +72027,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/habit/Habit.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72830,7 +72728,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/habit/HabitList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73553,7 +73450,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/habit/HabitTitle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73968,7 +73864,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/habit/Progress.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74341,7 +74236,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/habit/exceptions/HabitNotFoundException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74399,7 +74293,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Address.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74808,7 +74701,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Email.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75287,7 +75179,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Name.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75710,7 +75601,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Person.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76560,7 +76450,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/person/Phone.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76941,7 +76830,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/purchase/Price.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77322,7 +77210,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/purchase/Purchase.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77877,7 +77764,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/purchase/PurchaseList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78593,7 +78479,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/purchase/PurchaseName.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79001,7 +78886,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/purchase/exceptions/PurchaseNotFoundException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79053,7 +78937,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/tag/Tag.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79441,7 +79324,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/DeadlineDate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79856,7 +79738,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/DeadlineTime.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80306,7 +80187,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/Task.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81015,7 +80895,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/TaskName.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81430,7 +81309,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/UniqueTaskList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82454,7 +82332,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/exceptions/DuplicateTaskException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82554,7 +82431,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/exceptions/InvalidDateException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82654,7 +82530,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/task/exceptions/TaskNotFoundException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82712,7 +82587,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/util/SampleDataUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -83782,7 +83656,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/workout/Exercise.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -84044,7 +83917,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/workout/Reps.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -84285,7 +84157,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/workout/Sets.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -84526,7 +84397,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/workout/Time.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -84767,7 +84637,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/workout/Workout.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -85190,7 +85059,6 @@
   },
   {
     "path": "src/main/java/seedu/address/model/workout/WorkoutList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -85669,7 +85537,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/ContactListStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86001,7 +85868,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/ExpenditureListStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86318,7 +86184,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/HabitTrackerListStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86649,7 +86514,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedHabit.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87267,7 +87131,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedPurchase.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87900,7 +87763,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedTask.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -88700,7 +88562,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonAdaptedWorkout.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89368,7 +89229,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonContactListStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89938,7 +89798,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonExpenditureListStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90514,7 +90373,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonHabitTrackerListStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91069,7 +90927,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableContactList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91499,7 +91356,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableExpenditureList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91879,7 +91735,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableHabitTrackerList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92266,7 +92121,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableTaskList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92702,7 +92556,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonSerializableWorkoutBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93104,7 +92957,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonTaskListStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -93659,7 +93511,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonTickedTaskListStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -94214,7 +94065,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/JsonWorkoutBookStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -94783,7 +94633,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/Storage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -95405,7 +95254,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/StorageManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97105,7 +96953,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/TaskListStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97254,7 +97101,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/TickedTaskListStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97410,7 +97256,6 @@
   },
   {
     "path": "src/main/java/seedu/address/storage/WorkoutBookStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97743,7 +97588,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/BrowserPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98229,7 +98073,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/HabitCard.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98735,7 +98578,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/HabitListPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99269,7 +99111,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/MainWindow.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101088,7 +100929,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/PersonCard.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101616,7 +101456,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/PurchaseCard.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -102116,7 +101955,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/PurchaseListPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -102622,7 +102460,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/StatusBarFooter.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103115,7 +102952,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/TaskCard.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103607,7 +103443,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/TaskListPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -104127,7 +103962,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/TickedTaskListPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -104647,7 +104481,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/UiManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105259,7 +105092,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/WorkoutCard.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105730,7 +105562,6 @@
   },
   {
     "path": "src/main/java/seedu/address/ui/WorkoutListPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106243,7 +106074,6 @@
   },
   {
     "path": "src/main/resources/view/DarkTheme.css",
-    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -108717,7 +108547,6 @@
   },
   {
     "path": "src/main/resources/view/HabitListCard.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -108964,7 +108793,6 @@
   },
   {
     "path": "src/main/resources/view/HabitListPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -109029,7 +108857,6 @@
   },
   {
     "path": "src/main/resources/view/MainWindow.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -109818,7 +109645,6 @@
   },
   {
     "path": "src/main/resources/view/PurchaseListCard.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -110065,7 +109891,6 @@
   },
   {
     "path": "src/main/resources/view/PurchaseListPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -110130,7 +109955,6 @@
   },
   {
     "path": "src/main/resources/view/TaskListCard.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -110384,7 +110208,6 @@
   },
   {
     "path": "src/main/resources/view/TaskListPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -110449,7 +110272,6 @@
   },
   {
     "path": "src/main/resources/view/TickedTaskListCard.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -110703,7 +110525,6 @@
   },
   {
     "path": "src/main/resources/view/TickedTaskListPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -110768,7 +110589,6 @@
   },
   {
     "path": "src/main/resources/view/WorkoutListCard.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -111029,7 +110849,6 @@
   },
   {
     "path": "src/main/resources/view/WorkoutListPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -111094,7 +110913,6 @@
   },
   {
     "path": "src/test/data/JsonSerializableContactListTest/typicalPersonsContactList.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -111426,7 +111244,6 @@
   },
   {
     "path": "src/test/data/JsonUserPrefsStorageTest/ExtraValuesUserPref.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -111527,7 +111344,6 @@
   },
   {
     "path": "src/test/data/JsonUserPrefsStorageTest/TypicalUserPref.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -111614,7 +111430,6 @@
   },
   {
     "path": "src/test/java/seedu/address/TestApp.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -112403,7 +112218,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/LogicManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -114480,7 +114294,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddCommandIntegrationTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -114870,7 +114683,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -118334,7 +118146,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddPurchaseCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -121627,7 +121438,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/AddTaskCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125118,7 +124928,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ClearCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125431,7 +125240,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ClearExpListCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125742,7 +125550,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/CommandTestUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -127622,7 +127429,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/DeleteCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -128936,7 +128742,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/DeleteTaskCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -129674,7 +129479,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/EditCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -131499,7 +131303,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/EditTaskCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -132510,7 +132313,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/EditTaskDescriptorTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -132897,7 +132699,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/FindCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -133546,7 +133347,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/ListCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -133887,7 +133687,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/RedoCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -134284,7 +134083,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/SelectCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -135094,7 +134892,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/SortTaskCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -135349,7 +135146,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/TickTaskCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -136115,7 +135911,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/commands/UndoCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -136484,7 +136279,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/AddPurchaseCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -136997,7 +136791,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/AddTaskCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -137902,7 +137695,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/DeleteTaskCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -138135,7 +137927,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/EditTaskCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -139565,7 +139356,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/LifeParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -140759,7 +140549,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/ParserUtilTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -143136,7 +142925,6 @@
   },
   {
     "path": "src/test/java/seedu/address/logic/parser/TickTaskCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -143376,7 +143164,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/ContactListTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -144373,7 +144160,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/ExpenditureListTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -145103,7 +144889,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/ModelManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -146935,7 +146720,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/TaskListTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -147924,7 +147708,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/UserPrefsTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -148081,7 +147864,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/VersionedContactListTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -150177,7 +149959,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/purchase/PriceTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -150515,7 +150296,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/purchase/PurchaseListTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -151469,7 +151249,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/purchase/PurchaseNameTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -151765,7 +151544,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/purchase/PurchaseTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -151963,7 +151741,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/task/DeadlineDateTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -152350,7 +152127,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/task/DeadlineTimeTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -152660,7 +152436,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/task/TaskNameTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -152956,7 +152731,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/task/TaskTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -153637,7 +153411,6 @@
   },
   {
     "path": "src/test/java/seedu/address/model/task/UniqueTaskListTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -154934,7 +154707,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonAdaptedPurchaseTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -155426,7 +155198,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonAdaptedTaskTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -156107,7 +155878,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonContactListStorageTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -156985,7 +156755,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonExpenditureListStorageTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -157498,7 +157267,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonSerializableContactListTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -157879,7 +157647,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonTaskListStorageTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -158385,7 +158152,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/JsonUserPrefsStorageTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -159340,7 +159106,6 @@
   },
   {
     "path": "src/test/java/seedu/address/storage/StorageManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -159891,7 +159656,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/ContactListBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -160138,7 +159902,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/EditTaskDescriptorBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -160714,7 +160477,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/ExpenditureListBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -160954,7 +160716,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/PurchaseBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -161418,7 +161179,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/PurchaseUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -161672,7 +161432,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TaskBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -162248,7 +162007,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TaskListBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -162502,7 +162260,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TaskUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -162938,7 +162695,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalHabits.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -163038,7 +162794,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalIndexes.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -163160,7 +162915,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalPersons.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -163702,7 +163456,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalPurchases.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -164125,7 +163878,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalTasks.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -164659,7 +164411,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/TypicalWorkouts.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -164766,7 +164517,6 @@
   },
   {
     "path": "src/test/java/seedu/address/testutil/WorkoutBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -165328,7 +165078,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/GuiUnitTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -165555,7 +165304,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/MainWindowCloseTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -166302,7 +166050,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/PurchaseListPanelTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -166339,7 +166086,6 @@
   },
   {
     "path": "src/test/java/seedu/address/ui/StatusBarFooterTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -166874,7 +166620,6 @@
   },
   {
     "path": "src/test/java/systemtests/AddCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -168620,7 +168365,6 @@
   },
   {
     "path": "src/test/java/systemtests/ClearCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -169337,7 +169081,6 @@
   },
   {
     "path": "src/test/java/systemtests/ContactListSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -171356,7 +171099,6 @@
   },
   {
     "path": "src/test/java/systemtests/DeleteCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -172717,7 +172459,6 @@
   },
   {
     "path": "src/test/java/systemtests/EditCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -174813,7 +174554,6 @@
   },
   {
     "path": "src/test/java/systemtests/FindCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -176188,7 +175928,6 @@
   },
   {
     "path": "src/test/java/systemtests/HelpCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -176948,7 +176687,6 @@
   },
   {
     "path": "src/test/java/systemtests/SampleDataTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -177315,7 +177053,6 @@
   },
   {
     "path": "src/test/java/systemtests/SelectCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -178403,7 +178140,6 @@
   },
   {
     "path": "src/test/java/systemtests/SystemTestSetupHelper.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -178931,7 +178667,6 @@
   },
   {
     "path": "wongyuqi.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,

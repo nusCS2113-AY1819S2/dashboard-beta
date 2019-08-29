@@ -8,29 +8,25 @@
         "commitResults": [
           {
             "hash": "1b03802f064f26f318873070b2ab2ca2a8d454ce",
-            "messageTitle": "Workout class done",
-            "messageBody": "",
+            "message": "Workout class done",
             "insertions": 69,
             "deletions": 0
           },
           {
             "hash": "57a43bdadc53e0b3da90a11953c7d967c1f6fc72",
-            "messageTitle": "Exercise class done",
-            "messageBody": "",
+            "message": "Exercise class done",
             "insertions": 37,
             "deletions": 1
           },
           {
             "hash": "7b48fb6a9b4dea638ff5f46c2fa4971355dc6efd",
-            "messageTitle": "Set and rep class done",
-            "messageBody": "",
+            "message": "Set and rep class done",
             "insertions": 54,
             "deletions": 2
           },
           {
             "hash": "efe120ed5c46bcbb3cde02e84a31071bb30ad29f",
-            "messageTitle": "Time class done",
-            "messageBody": "",
+            "message": "Time class done",
             "insertions": 26,
             "deletions": 0
           }
@@ -43,8 +39,7 @@
         "commitResults": [
           {
             "hash": "46a070fddff2278a73b6279ddfd84adffc5a59e8",
-            "messageTitle": "WorkoutList class done",
-            "messageBody": "",
+            "message": "WorkoutList class done",
             "insertions": 85,
             "deletions": 0
           }
@@ -57,8 +52,7 @@
         "commitResults": [
           {
             "hash": "22ca682771fddd9dfaecb5fb46237b5b556ca921",
-            "messageTitle": "Storage class and interface for workout features implemented",
-            "messageBody": "",
+            "message": "Storage class and interface for workout features implemented",
             "insertions": 551,
             "deletions": 14
           }
@@ -71,15 +65,13 @@
         "commitResults": [
           {
             "hash": "b174f1001f521c4f3479ca657ad907a6aceb1f3c",
-            "messageTitle": "Main App and UserPref updated, bug fixed.",
-            "messageBody": "",
+            "message": "Main App and UserPref updated, bug fixed.",
             "insertions": 39,
             "deletions": 3
           },
           {
             "hash": "bbffeafd5f28b59b8eae51ef2afe108554ec7c4f",
-            "messageTitle": "Model, Logic, Command updated for the RandomCommand",
-            "messageBody": "",
+            "message": "Model, Logic, Command updated for the RandomCommand",
             "insertions": 339,
             "deletions": 23
           }
@@ -92,22 +84,19 @@
         "commitResults": [
           {
             "hash": "4910c6393dfa4f23136a445c5944d4bd5263d923",
-            "messageTitle": "fxml for UI implemented.",
-            "messageBody": "",
+            "message": "fxml for UI implemented.",
             "insertions": 53,
             "deletions": 0
           },
           {
             "hash": "3a397edd48c846fa23ce9bcdc7daca0d6ee5caa1",
-            "messageTitle": "WorkoutCard and WorkoutListPanel for UI implemented",
-            "messageBody": "",
+            "message": "WorkoutCard and WorkoutListPanel for UI implemented",
             "insertions": 134,
             "deletions": 0
           },
           {
             "hash": "3c6f43b43c3f952fa56e570f1c780f0e40392782",
-            "messageTitle": "WorkoutList UI Implemented",
-            "messageBody": "",
+            "message": "WorkoutList UI Implemented",
             "insertions": 9,
             "deletions": 0
           }
@@ -120,8 +109,7 @@
         "commitResults": [
           {
             "hash": "a68512f0a9321c676aacd4d53654010bb4b0551a",
-            "messageTitle": "Workout Card UI tweaked",
-            "messageBody": "",
+            "message": "Workout Card UI tweaked",
             "insertions": 3,
             "deletions": 3
           }
@@ -134,8 +122,7 @@
         "commitResults": [
           {
             "hash": "dd73f667f356ba23d4046673f2bdfb41ff19ee6a",
-            "messageTitle": "Workout Card UI tweaked",
-            "messageBody": "",
+            "message": "Workout Card UI tweaked",
             "insertions": 3,
             "deletions": 3
           }
@@ -148,92 +135,79 @@
         "commitResults": [
           {
             "hash": "b050b1b902fbb0c1cce6a582d26d4b1cfd5ba32a",
-            "messageTitle": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-2/main",
-            "messageBody": "# Conflicts:\n#\tsrc/main/java/seedu/address/ui/MainWindow.java\n#\tsrc/main/resources/view/MainWindow.fxml\n\nAddress book changed to contact list\n",
+            "message": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-2/main",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "5af6849082ccaa13c0ade2e376b30c7bb9470cf7",
-            "messageTitle": "Style changed",
-            "messageBody": "",
+            "message": "Style changed",
             "insertions": 16,
             "deletions": 8
           },
           {
             "hash": "c0b7430134f15e206af535fe911414e50b848400",
-            "messageTitle": "Style changed",
-            "messageBody": "",
+            "message": "Style changed",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "1e53e3810cc10c8d746c3f51730de01f47fe03c7",
-            "messageTitle": "Style changed",
-            "messageBody": "",
+            "message": "Style changed",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "1445deaa752b72e8480531272b83742ddb36a755",
-            "messageTitle": "MainWindow changed",
-            "messageBody": "",
+            "message": "MainWindow changed",
             "insertions": 6,
             "deletions": 4
           },
           {
             "hash": "bca165fb2085dc1c51c4e2f7bdfb004728355dd8",
-            "messageTitle": "MainWindow changed",
-            "messageBody": "",
+            "message": "MainWindow changed",
             "insertions": 6,
             "deletions": 1
           },
           {
             "hash": "4654fe92b8ffb59e6d295489228632b3a18f9a6a",
-            "messageTitle": "MainWindow changed",
-            "messageBody": "",
+            "message": "MainWindow changed",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "dfd455363a0ff326bdac9bbdfc4089c32de6a001",
-            "messageTitle": "Workout Card changed to fit format properly",
-            "messageBody": "",
+            "message": "Workout Card changed to fit format properly",
             "insertions": 4,
             "deletions": 5
           },
           {
             "hash": "c55ab9dcfa079512c7252a3c9e87f1263080f712",
-            "messageTitle": "Record command bugfix",
-            "messageBody": "",
+            "message": "Record command bugfix",
             "insertions": 16,
             "deletions": 8
           },
           {
             "hash": "77bc429bf067b81e9787da21f80f4f73d4c4b3ac",
-            "messageTitle": "Bugfix to merge",
-            "messageBody": "",
+            "message": "Bugfix to merge",
             "insertions": 8,
             "deletions": 19
           },
           {
             "hash": "01e9a44fc6d6bebd3045d21ee0261ed7e7b18b3f",
-            "messageTitle": "WorkoutCommand implemented",
-            "messageBody": "",
+            "message": "WorkoutCommand implemented",
             "insertions": 33,
             "deletions": 5
           },
           {
             "hash": "2349963506a9457f065ecab48f8bded156bfb5c8",
-            "messageTitle": "Travis fixed",
-            "messageBody": "",
+            "message": "Travis fixed",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "00a011da28948352b838ca4a82a5078f784d7952",
-            "messageTitle": "Travis fixed",
-            "messageBody": "",
+            "message": "Travis fixed",
             "insertions": 0,
             "deletions": 2
           }
@@ -246,120 +220,103 @@
         "commitResults": [
           {
             "hash": "cec86d02b33bd1120489b1826ee584e9429ebd6a",
-            "messageTitle": "Workout command implemented and run successfully",
-            "messageBody": "",
+            "message": "Workout command implemented and run successfully",
             "insertions": 58,
             "deletions": 10
           },
           {
             "hash": "ed47de963fddba5d66f8503c3d7b343c37776210",
-            "messageTitle": "travis errors fixed",
-            "messageBody": "",
+            "message": "travis errors fixed",
             "insertions": 8,
             "deletions": 6
           },
           {
             "hash": "d562df93b169152379761eb18e7ed27d573c98d9",
-            "messageTitle": "travis errors fixed",
-            "messageBody": "",
+            "message": "travis errors fixed",
             "insertions": 10,
             "deletions": 0
           },
           {
             "hash": "2705b5f588a2cb85301a944bae3233a27c209ccb",
-            "messageTitle": "travis errors fixed",
-            "messageBody": "",
+            "message": "travis errors fixed",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "dd0f9452c6b52a20c522e2d6fc1f9b95379b3e43",
-            "messageTitle": "All minor spelling changes, comment changes and tidying up of code",
-            "messageBody": "",
+            "message": "All minor spelling changes, comment changes and tidying up of code",
             "insertions": 22,
             "deletions": 49
           },
           {
             "hash": "388968b9d837e65326809c381ac32314ee59c317",
-            "messageTitle": "More comment changes",
-            "messageBody": "",
+            "message": "More comment changes",
             "insertions": 5,
             "deletions": 10
           },
           {
             "hash": "67502a22e151ab0bdc68596d693178da6b45913d",
-            "messageTitle": "Travis fixed",
-            "messageBody": "",
+            "message": "Travis fixed",
             "insertions": 3,
             "deletions": 1
           },
           {
             "hash": "8168bbc7d848255ee11b31352c08b9432fb00a60",
-            "messageTitle": "WorkerBuilder added",
-            "messageBody": "",
+            "message": "WorkerBuilder added",
             "insertions": 79,
             "deletions": 0
           },
           {
             "hash": "dd444c91f32fddaaea149c561177ee95567a2cb0",
-            "messageTitle": "WorkerBuilder added",
-            "messageBody": "",
+            "message": "WorkerBuilder added",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "352619671e2e97f0b17de0a1840f5f137b3cfc9b",
-            "messageTitle": "WorkerBuilder added",
-            "messageBody": "",
+            "message": "WorkerBuilder added",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "7107e8a5b1ad834be4a8ca4a60f9a52d2c71c70d",
-            "messageTitle": "WorkerBuilder added",
-            "messageBody": "",
+            "message": "WorkerBuilder added",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "b96fae25b56b3239475a7e695e63d4f3b212f237",
-            "messageTitle": "DG updated",
-            "messageBody": "",
+            "message": "DG updated",
             "insertions": 24,
             "deletions": 1
           },
           {
             "hash": "dcce4ba21e5fc6ff6da619dd44b5107f567c5e0d",
-            "messageTitle": "UG Updated",
-            "messageBody": "",
+            "message": "UG Updated",
             "insertions": 13,
             "deletions": 10
           },
           {
             "hash": "5d25d94144525a69884329a747b4b545d80cb2c3",
-            "messageTitle": "DG updated",
-            "messageBody": "",
+            "message": "DG updated",
             "insertions": 15,
             "deletions": 19
           },
           {
             "hash": "ea104c5a3b5c57aefcdeb3e335627abfa10dc2f2",
-            "messageTitle": "PPP updated",
-            "messageBody": "",
+            "message": "PPP updated",
             "insertions": 99,
             "deletions": 4
           },
           {
             "hash": "b75735b9859ac04d4b49457830624623c784af60",
-            "messageTitle": "PPP updated",
-            "messageBody": "",
+            "message": "PPP updated",
             "insertions": 19,
             "deletions": 5
           },
           {
             "hash": "2e9aa83dec2f53f55cbaa6cab97f9a0948d338aa",
-            "messageTitle": "PPP Updated",
-            "messageBody": "",
+            "message": "PPP Updated",
             "insertions": 23,
             "deletions": 23
           }
@@ -374,23 +331,8 @@
         "commitResults": [
           {
             "hash": "0db44ad3ac2cb588b4402a2d1326bba4df846032",
-            "messageTitle": "Update DeveloperGuide.adoc",
-            "messageBody": "Added implementation of expenditure list",
+            "message": "Update DeveloperGuide.adoc",
             "insertions": 38,
-            "deletions": 0
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-03-19",
-        "commitResults": [
-          {
-            "hash": "b4f436c642cfb8f8b48dea08d00b326a395239ae",
-            "messageTitle": "team member photos",
-            "messageBody": "",
-            "insertions": 0,
             "deletions": 0
           }
         ]
@@ -402,8 +344,7 @@
         "commitResults": [
           {
             "hash": "60da356a0eca503d304e1d9df26b9774d1fadd19",
-            "messageTitle": "Added \"ExpenditureList\" commit",
-            "messageBody": "Added two commands:\n- AddPurchase\n- explist\n\nModified storage, model, logic and ui to ensure new feature and commands work\n",
+            "message": "Added \"ExpenditureList\" commit",
             "insertions": 1695,
             "deletions": 47
           }
@@ -416,8 +357,7 @@
         "commitResults": [
           {
             "hash": "3464e39984a95f7122e9fd9f07c60567a36f469d",
-            "messageTitle": "Revert \"pull from main page to update local repo\"",
-            "messageBody": "",
+            "message": "Revert \"pull from main page to update local repo\"",
             "insertions": 6,
             "deletions": 630
           }
@@ -430,64 +370,55 @@
         "commitResults": [
           {
             "hash": "a2d4fcda0531462c69d706926d08ae0d2616b333",
-            "messageTitle": "Added a one liner preface to each features in the user guide",
-            "messageBody": "",
+            "message": "Added a one liner preface to each features in the user guide",
             "insertions": 8,
             "deletions": 1
           },
           {
             "hash": "c1173987b558c168165984c56687ec12dd76404d",
-            "messageTitle": "Revert \"Revert \"pull from main page to update local repo\"\"",
-            "messageBody": "",
+            "message": "Revert \"Revert \"pull from main page to update local repo\"\"",
             "insertions": 630,
             "deletions": 6
           },
           {
             "hash": "0134ffb1ca18b46d473309d7aa41bb6a19f1835c",
-            "messageTitle": "- Edited implementation of ExpenditureList feature in developer guide - Worked on some formatting issues on use cases in developer guide",
-            "messageBody": "",
+            "message": "- Edited implementation of ExpenditureList feature in developer guide - Worked on some formatting issues on use cases in developer guide",
             "insertions": 15,
             "deletions": 16
           },
           {
             "hash": "db1bbd5dbd8634e8c65df8c5abc4f8e0215729b0",
-            "messageTitle": "Revert \"Revert \"Revert \"pull from main page to update local repo\"\"\"",
-            "messageBody": "",
+            "message": "Revert \"Revert \"Revert \"pull from main page to update local repo\"\"\"",
             "insertions": 6,
             "deletions": 630
           },
           {
             "hash": "6c76e078fb2c6c273161121e4b7e4eada7d299a5",
-            "messageTitle": "- Modified app\u0027s description in README.adoc - Updated UI with newer version",
-            "messageBody": "",
+            "message": "- Modified app\u0027s description in README.adoc - Updated UI with newer version",
             "insertions": 12,
             "deletions": 10
           },
           {
             "hash": "24618db32e6b177cc15c094e5dc08143bc3b9ed6",
-            "messageTitle": "- Edited format error",
-            "messageBody": "",
+            "message": "- Edited format error",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "bc15e21e9f73bfe9422253e59d5e3cc6278b5675",
-            "messageTitle": "Revert \"Modified README.adoc\"",
-            "messageBody": "",
+            "message": "Revert \"Modified README.adoc\"",
             "insertions": 640,
             "deletions": 18
           },
           {
             "hash": "c01e096464e799bef168778b3c6a51d8b01a24c0",
-            "messageTitle": "- Modified app\u0027s description in README.adoc - Updated UI",
-            "messageBody": "",
+            "message": "- Modified app\u0027s description in README.adoc - Updated UI",
             "insertions": 13,
             "deletions": 10
           },
           {
             "hash": "2cb5b28e11172a8f307a1324f71ff7fbb04bcb7b",
-            "messageTitle": "- Solved some format issues",
-            "messageBody": "",
+            "message": "- Solved some format issues",
             "insertions": 3,
             "deletions": 3
           }
@@ -500,29 +431,25 @@
         "commitResults": [
           {
             "hash": "b721620ac434fba5fd90f4b52810e29f13e183e6",
-            "messageTitle": "Modified logic manager - added purchases can now be seen in the expenditure list section",
-            "messageBody": "",
+            "message": "Modified logic manager - added purchases can now be seen in the expenditure list section",
             "insertions": 13,
             "deletions": 3
           },
           {
             "hash": "8ef53c8234f41ab729de94b130b3e248d35685c7",
-            "messageTitle": "Changed some format in userguide - daily task, expenditure list etc. are now under \"features\"",
-            "messageBody": "",
+            "message": "Changed some format in userguide - daily task, expenditure list etc. are now under \"features\"",
             "insertions": 138,
             "deletions": 36
           },
           {
             "hash": "fae5cc1c04d7c6bd2e62db53eaf05b61ad339735",
-            "messageTitle": "added ClearExpListCommand (able to work)",
-            "messageBody": "",
+            "message": "added ClearExpListCommand (able to work)",
             "insertions": 26,
             "deletions": 1
           },
           {
             "hash": "7c4ae03ca574581002209b83223d488b99da1c25",
-            "messageTitle": "edited userguide under \"clearing expenditure list\"",
-            "messageBody": "",
+            "message": "edited userguide under \"clearing expenditure list\"",
             "insertions": 3,
             "deletions": 2
           }
@@ -535,36 +462,31 @@
         "commitResults": [
           {
             "hash": "fec2483082ae8628af85cef47b7b207706e714a1",
-            "messageTitle": "clean up for some comments",
-            "messageBody": "",
+            "message": "clean up for some comments",
             "insertions": 4,
             "deletions": 5
           },
           {
             "hash": "9ba3d3a59bb79b36d160d3b0d097a925ac8e89bf",
-            "messageTitle": "added \"$\" in message upon adding purchase",
-            "messageBody": "",
+            "message": "added \"$\" in message upon adding purchase",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "f4e345d1f38c4d4c8704f9999b8d4c91eb62a580",
-            "messageTitle": "-updated studenthandbookUI for readme.adoc -included $ signs on expenditure list shown to user",
-            "messageBody": "",
+            "message": "-updated studenthandbookUI for readme.adoc -included $ signs on expenditure list shown to user",
             "insertions": 7,
             "deletions": 1
           },
           {
             "hash": "4b4510da0825f7e28dbbd023e073632a56599c9c",
-            "messageTitle": "updated screenshot in userguide",
-            "messageBody": "",
+            "message": "updated screenshot in userguide",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "54d78ea81278642da5692a7f46be53d404c130a9",
-            "messageTitle": "updated UI class diagram for developer guide",
-            "messageBody": "",
+            "message": "updated UI class diagram for developer guide",
             "insertions": 1,
             "deletions": 1
           }
@@ -577,29 +499,25 @@
         "commitResults": [
           {
             "hash": "cca4712d80490e912f78b1d4932cca588a06f1c8",
-            "messageTitle": "trying to solve missing link on GUI in user guide",
-            "messageBody": "",
+            "message": "trying to solve missing link on GUI in user guide",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "e9dce300b13b75eb01f0c9b8668958f5d7f50a4c",
-            "messageTitle": "updated startup GUI in userguide",
-            "messageBody": "",
+            "message": "updated startup GUI in userguide",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "a7a39eec540f481c8f1f7b354fc649ad24ddead5",
-            "messageTitle": "changed name of addressbook in UI and some messages",
-            "messageBody": "",
+            "message": "changed name of addressbook in UI and some messages",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "8194c5a0aba61e60e8b04253acf1cc3d7c32bfc9",
-            "messageTitle": "updated user guide for peer test",
-            "messageBody": "",
+            "message": "updated user guide for peer test",
             "insertions": 124,
             "deletions": 120
           }
@@ -612,36 +530,31 @@
         "commitResults": [
           {
             "hash": "e5f2f8ae3914258b17c1a2b554e77ae08758196e",
-            "messageTitle": "updated README.adoc",
-            "messageBody": "",
+            "message": "updated README.adoc",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "b1e1b0d4b5dddbc6f42558b6ad8dc75604510aff",
-            "messageTitle": "updated developer guide",
-            "messageBody": "",
+            "message": "updated developer guide",
             "insertions": 36,
             "deletions": 35
           },
           {
             "hash": "a5866828e195af8a647c35ae1be0acef34a6330d",
-            "messageTitle": "updated example on addpurchase command",
-            "messageBody": "",
+            "message": "updated example on addpurchase command",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "1d525a2343adb73d53755d4c0c374c7eb022ff91",
-            "messageTitle": "updated error message for addpurchase command",
-            "messageBody": "",
+            "message": "updated error message for addpurchase command",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "cd44f3d4b76633032db750c2d41578f82f7247cb",
-            "messageTitle": "updated mainwindow title updated screenshots for readme.adoc and userguide",
-            "messageBody": "",
+            "message": "updated mainwindow title updated screenshots for readme.adoc and userguide",
             "insertions": 4,
             "deletions": 4
           }
@@ -654,64 +567,38 @@
         "commitResults": [
           {
             "hash": "8350daf3e02deaa72feb8370eb64659471a5250c",
-            "messageTitle": "added dummy data",
-            "messageBody": "",
+            "message": "added dummy data",
             "insertions": 11,
             "deletions": 0
           }
         ]
       },
       {
-        "insertions": 67,
-        "deletions": 28,
+        "insertions": 58,
+        "deletions": 16,
         "date": "2019-04-07",
         "commitResults": [
           {
             "hash": "44b4ff543a5906ab496f34748e5d1bfae9239f50",
-            "messageTitle": "added dummy data",
-            "messageBody": "",
+            "message": "added dummy data",
             "insertions": 22,
             "deletions": 1
           },
           {
-            "hash": "082163cd4832fce288f84513a4f2b27595ddca7a",
-            "messageTitle": "added dummy data",
-            "messageBody": "",
-            "insertions": 4,
-            "deletions": 7
-          },
-          {
-            "hash": "5741d5fa46f2460ff5aa5f2696e5c8a95886ba8f",
-            "messageTitle": "added dummy data",
-            "messageBody": "",
-            "insertions": 1,
-            "deletions": 1
-          },
-          {
-            "hash": "4d995699680f800d0a62dc20458868cd37efd9f4",
-            "messageTitle": "added dummy data fixing travis error",
-            "messageBody": "",
-            "insertions": 4,
-            "deletions": 4
-          },
-          {
             "hash": "2e0e8979c0031391e43d64b6cecb92748baf427b",
-            "messageTitle": "added dummy data",
-            "messageBody": "",
+            "message": "added dummy data",
             "insertions": 23,
             "deletions": 3
           },
           {
             "hash": "a572a3251c104c61ba8c8fa236829623af694874",
-            "messageTitle": "indentations",
-            "messageBody": "",
+            "message": "indentations",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "52bc83ad74df369ad083b19ad9a45067cf3bfbd0",
-            "messageTitle": "indentations",
-            "messageBody": "",
+            "message": "indentations",
             "insertions": 7,
             "deletions": 6
           }
@@ -724,85 +611,73 @@
         "commitResults": [
           {
             "hash": "9ea7424854a1978a3ea00cf9cc75813e8b29e43d",
-            "messageTitle": "indentations",
-            "messageBody": "",
+            "message": "indentations",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "091d7d16da3df40c44aff63e1880faafba2ae6bb",
-            "messageTitle": "temporarily changed contact list to habit tracker on UI swapped positions of lists",
-            "messageBody": "",
+            "message": "temporarily changed contact list to habit tracker on UI swapped positions of lists",
             "insertions": 10,
             "deletions": 9
           },
           {
             "hash": "98d6c043702393722f2ba5138b3edf64f2ef956f",
-            "messageTitle": "changed size of list pane",
-            "messageBody": "",
+            "message": "changed size of list pane",
             "insertions": 5,
             "deletions": 49
           },
           {
             "hash": "1456d7da38f4e557f1949f265b887c88a90aa4c1",
-            "messageTitle": "updated AboutUs.adoc",
-            "messageBody": "",
+            "message": "updated AboutUs.adoc",
             "insertions": 11,
             "deletions": 11
           },
           {
             "hash": "24117f9f888812b5f664692ca72443fe7b0e9b8e",
-            "messageTitle": "shows contact list again in ui",
-            "messageBody": "",
+            "message": "shows contact list again in ui",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "6bf2f6651b657c845de8e1fdf30168210c864322",
-            "messageTitle": "json files",
-            "messageBody": "",
+            "message": "json files",
             "insertions": 25,
             "deletions": 1
           },
           {
             "hash": "d42faac69ee0ad20b0d5f8d25e06f17e106f87cd",
-            "messageTitle": "json files",
-            "messageBody": "",
+            "message": "json files",
             "insertions": 21,
             "deletions": 1
           },
           {
             "hash": "d9557be53cb05233793a8d3b912bf91a0bfdd0de",
-            "messageTitle": "json files",
-            "messageBody": "",
+            "message": "json files",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "234e9091a1b284f4e4068cb68b969d201fea2567",
-            "messageTitle": "indentations for travis",
-            "messageBody": "",
+            "message": "indentations for travis",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "ce2bb313b2dd6271fdc3afdc252600a6f582e19b",
-            "messageTitle": "indentations for travis",
-            "messageBody": "",
+            "message": "indentations for travis",
             "insertions": 40,
             "deletions": 27
           },
           {
             "hash": "7bc545e45e8be59c8dc66fe50e141993f3219961",
-            "messageTitle": "indentations for travis",
-            "messageBody": "",
+            "message": "indentations for travis",
             "insertions": 39,
             "deletions": 49
           },
           {
             "hash": "53dbb96f159f453ff8ff062c0b1704eb05e77aab",
-            "messageTitle": "updated user guide on addpurchase prefixes",
-            "messageBody": "",
+            "message": "updated user guide on addpurchase prefixes",
             "insertions": 5,
             "deletions": 5
           }
@@ -815,24 +690,9 @@
         "commitResults": [
           {
             "hash": "65417f63b21d689cfc89c446fb25c7b3eb8b92f8",
-            "messageTitle": "updated images name and affected adocs",
-            "messageBody": "",
+            "message": "updated images name and affected adocs",
             "insertions": 6,
             "deletions": 6
-          },
-          {
-            "hash": "cfd916fd79b9b7f30ba4d23b0b764c31a0d3ae5f",
-            "messageTitle": "deleted unused images",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
-            "hash": "bae6322e094ef0c1e9d13d621fa52c305fa26dd6",
-            "messageTitle": "reformat ui image",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
           }
         ]
       },
@@ -843,57 +703,43 @@
         "commitResults": [
           {
             "hash": "66946b15e063c21699ddb00f4ce3351ac390cf54",
-            "messageTitle": "redirected certain links and modified some class names",
-            "messageBody": "",
+            "message": "redirected certain links and modified some class names",
             "insertions": 14,
             "deletions": 37
           },
           {
             "hash": "bd955bb518fe01a48b9779448ca6d11261d2de40",
-            "messageTitle": "modified illustration on better oop diagram in `model`",
-            "messageBody": "",
+            "message": "modified illustration on better oop diagram in `model`",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "004c86256c0ecb83ae28a21f68730a7d301ed9ec",
-            "messageTitle": "renaming to _LIFE_",
-            "messageBody": "",
+            "message": "renaming to _LIFE_",
             "insertions": 1,
             "deletions": 1
           },
           {
-            "hash": "44c2a55b274512c0c0eff4c12f80348311a86c6f",
-            "messageTitle": "Updated Ui class diagram",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "745182f1d774bf004f8429a7836b7e2045bd0a6d",
-            "messageTitle": "Updated Ui class diagram in DG",
-            "messageBody": "",
+            "message": "Updated Ui class diagram in DG",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e629097f901f3835d1f13ffddc186acc75ce527a",
-            "messageTitle": "Refactored AddressBookParser Refactored VersionedAddressBook",
-            "messageBody": "",
+            "message": "Refactored AddressBookParser Refactored VersionedAddressBook",
             "insertions": 120,
             "deletions": 120
           },
           {
             "hash": "f350940744cdec6f82e0582b20da0063a0c74e39",
-            "messageTitle": "modified message upon clearing contact list",
-            "messageBody": "",
+            "message": "modified message upon clearing contact list",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "2c39f00f6f15f8b7f9c103a89294e6d3b237d4c1",
-            "messageTitle": "travis indentation",
-            "messageBody": "",
+            "message": "travis indentation",
             "insertions": 1,
             "deletions": 1
           }
@@ -906,87 +752,63 @@
         "commitResults": [
           {
             "hash": "fda007a0b441dfa1fb10428d7edfdbca31e24a99",
-            "messageTitle": "refactor addressbook",
-            "messageBody": "",
+            "message": "refactor addressbook",
             "insertions": 366,
             "deletions": 365
           },
           {
             "hash": "6f5b1f81788aaf89704082e37ff025b0ae1941db",
-            "messageTitle": "refactor addressbook",
-            "messageBody": "",
+            "message": "refactor addressbook",
             "insertions": 344,
             "deletions": 345
           },
           {
             "hash": "05ba7bd795c4856a789e1f230728fd587105b462",
-            "messageTitle": "travis",
-            "messageBody": "",
+            "message": "travis",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "4b817a61d67a6fa203d52b157bd55c4d82124216",
-            "messageTitle": "refactored for travis",
-            "messageBody": "",
+            "message": "refactored for travis",
             "insertions": 17,
             "deletions": 17
           },
           {
             "hash": "9f9f386fcf8cb7e6303e0f21335744b287b213ea",
-            "messageTitle": "refactored for travis",
-            "messageBody": "",
+            "message": "refactored for travis",
             "insertions": 9,
             "deletions": 9
           },
           {
             "hash": "0fc0cbd79bb884d6b3ed0ecc758fef6d854f3879",
-            "messageTitle": "refactored addressbook",
-            "messageBody": "",
+            "message": "refactored addressbook",
             "insertions": 120,
             "deletions": 120
           },
           {
             "hash": "09db7e89d6b9fd87c44fd3d09ff527cb1ae52189",
-            "messageTitle": "refactored for travis",
-            "messageBody": "",
+            "message": "refactored for travis",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "f969bca3707ad9bab768e7871ae43338e40d8f9a",
-            "messageTitle": "refactored for travis",
-            "messageBody": "",
+            "message": "refactored for travis",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "63da2f70d61579bfefae74f24195368cff7c993d",
-            "messageTitle": "refactored for travis",
-            "messageBody": "",
+            "message": "refactored for travis",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "a0e6e30952bfaa0048ae9a70e16c143bdb30e6ea",
-            "messageTitle": "modified diagrams related to undo redo functions",
-            "messageBody": "",
+            "message": "modified diagrams related to undo redo functions",
             "insertions": 20,
             "deletions": 20
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "date": "2019-04-12",
-        "commitResults": [
-          {
-            "hash": "5c693649411407a3e0ac0f5ed1c8361328dfebe3",
-            "messageTitle": "modified storage component class diagram",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
           }
         ]
       },
@@ -997,22 +819,19 @@
         "commitResults": [
           {
             "hash": "0c3d41dfe2f7abb569806b8d68cd31805d7410b6",
-            "messageTitle": "Modified developer guide",
-            "messageBody": "",
+            "message": "Modified developer guide",
             "insertions": 60,
             "deletions": 23
           },
           {
             "hash": "9cc88f338f4dd712c2e5abb86a502b53b8007644",
-            "messageTitle": "Implemented test cases and classes",
-            "messageBody": "",
+            "message": "Implemented test cases and classes",
             "insertions": 351,
             "deletions": 5
           },
           {
             "hash": "8f6f71344a26921587720e9c9599ab391452d645",
-            "messageTitle": "Implemented: PurchaseTest PurchaseNameTest PriceTest PurchaseListTest ExpenditureListBuilder PurchaseBuilder PurchaseUtil AddPurchaseCommandTest ClearExpListCommandTest",
-            "messageBody": "",
+            "message": "Implemented: PurchaseTest PurchaseNameTest PriceTest PurchaseListTest ExpenditureListBuilder PurchaseBuilder PurchaseUtil AddPurchaseCommandTest ClearExpListCommandTest",
             "insertions": 917,
             "deletions": 1
           }
@@ -1025,162 +844,133 @@
         "commitResults": [
           {
             "hash": "f13dc6792ba38a6502cc8a632f20bfe30493dfa0",
-            "messageTitle": "Updated UG and DG for v1.4",
-            "messageBody": "",
+            "message": "Updated UG and DG for v1.4",
             "insertions": 284,
             "deletions": 109
           },
           {
             "hash": "502947fe65da6fa49a62d2df8685747f0ec8ede1",
-            "messageTitle": "added json files",
-            "messageBody": "",
+            "message": "added json files",
             "insertions": 1,
             "deletions": 17
           },
           {
             "hash": "5ff2e5c289517a7292c0d5eb163ce91da74fe32d",
-            "messageTitle": "travis",
-            "messageBody": "",
+            "message": "travis",
             "insertions": 12,
             "deletions": 2
           },
           {
             "hash": "f4dac1fa34804edeba21415b232a487c4c808fd9",
-            "messageTitle": "travis",
-            "messageBody": "",
+            "message": "travis",
             "insertions": 57,
             "deletions": 52
           },
           {
             "hash": "7b433a75d10b8e23c03433ff7b6f7ab6153eb9cc",
-            "messageTitle": "resolve merge conflicts travis",
-            "messageBody": "",
+            "message": "resolve merge conflicts travis",
             "insertions": 7,
             "deletions": 9
           },
           {
             "hash": "29270161215c366715c64c8b7d16821484b34568",
-            "messageTitle": "travis",
-            "messageBody": "",
+            "message": "travis",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "d3838d45c4e0a181baf763fceae00e36d87a5d59",
-            "messageTitle": "travis",
-            "messageBody": "",
+            "message": "travis",
             "insertions": 5,
             "deletions": 2
           },
           {
             "hash": "8a8038671d6d65dd6a4c3f1eac3903b1e09b69ca",
-            "messageTitle": "updated user guide",
-            "messageBody": "",
+            "message": "updated user guide",
             "insertions": 62,
             "deletions": 42
           },
           {
             "hash": "717e3dfb32ec05bb58dc1885a68bbffd9bddf3ec",
-            "messageTitle": "updated user guide",
-            "messageBody": "",
+            "message": "updated user guide",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "c676868dea1706d7ac9e224c43d4517cc8c55be0",
-            "messageTitle": "updated ug and dg",
-            "messageBody": "",
+            "message": "updated ug and dg",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "23872c12fe4b9e2f96122f3ec34d2075469d4ef2",
-            "messageTitle": "format issues",
-            "messageBody": "",
+            "message": "format issues",
             "insertions": 6,
             "deletions": 5
           },
           {
             "hash": "839047a4df00fb493587407df5812e8aa352dc9b",
-            "messageTitle": "updated developer guide",
-            "messageBody": "",
+            "message": "updated developer guide",
             "insertions": 5,
             "deletions": 4
           },
           {
             "hash": "7bd6321b86e0f6a1dc4a6aacd632584ba4b24789",
-            "messageTitle": "solved format issue",
-            "messageBody": "",
+            "message": "solved format issue",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "b820f4c49a7feb0aaa984b174a67ddf21d34f07e",
-            "messageTitle": "updated ui",
-            "messageBody": "",
+            "message": "updated ui",
             "insertions": 20,
             "deletions": 18
           },
           {
             "hash": "d16bb0ab14645911124debda48ece01ee9772f49",
-            "messageTitle": "TEST CASES",
-            "messageBody": "",
+            "message": "TEST CASES",
             "insertions": 77,
             "deletions": 15
           },
           {
             "hash": "5bbe3f3e9f01e557f458eee99d14ce494051e5fd",
-            "messageTitle": "TESTCASES",
-            "messageBody": "",
+            "message": "TESTCASES",
             "insertions": 141,
             "deletions": 12
           },
           {
             "hash": "2523395bb00a9c14fafaa29184c4c18049133419",
-            "messageTitle": "TRAVIS",
-            "messageBody": "",
+            "message": "TRAVIS",
             "insertions": 5,
             "deletions": 67
           },
           {
             "hash": "65638501abc5b566191536385f18eda3621bb301",
-            "messageTitle": "TRAVIS",
-            "messageBody": "",
+            "message": "TRAVIS",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "a5364400065857642ee396f3933f10450d974f2d",
-            "messageTitle": "wz project portfolio updates on UG and DG",
-            "messageBody": "",
+            "message": "wz project portfolio updates on UG and DG",
             "insertions": 121,
             "deletions": 12
           },
           {
             "hash": "328133e76b36d88d01c8f398104eedf2087861a5",
-            "messageTitle": "travis",
-            "messageBody": "",
+            "message": "travis",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e775ac14b0ad071ac34a27740c514a7069aa83c6",
-            "messageTitle": "travis",
-            "messageBody": "",
+            "message": "travis",
             "insertions": 10,
             "deletions": 3
           },
           {
-            "hash": "6981075b675a69d63b2a98b35ee321c5b9747bb5",
-            "messageTitle": "updated ui",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "2ed9e847a30e8f64a1059aea753398f720f62ab9",
-            "messageTitle": "updated ppp",
-            "messageBody": "",
+            "message": "updated ppp",
             "insertions": 2,
             "deletions": 2
           }
@@ -1195,15 +985,13 @@
         "commitResults": [
           {
             "hash": "8c87ead0fe2e8e5cd4c467d9101aebddb28a81b6",
-            "messageTitle": "Add files via upload",
-            "messageBody": "Updated User Guide",
+            "message": "Add files via upload",
             "insertions": 135,
             "deletions": 0
           },
           {
             "hash": "40f0bf7b031b97c63e504761a0ddf2e95f5fa933",
-            "messageTitle": "Update UserGuide.adoc",
-            "messageBody": "Updated User Guide v2.0",
+            "message": "Update UserGuide.adoc",
             "insertions": 291,
             "deletions": 59
           }
@@ -1216,15 +1004,13 @@
         "commitResults": [
           {
             "hash": "64ecc53646155326abf1d88178ada152a36a8161",
-            "messageTitle": "Habit Tracker List",
-            "messageBody": "",
+            "message": "Habit Tracker List",
             "insertions": 324,
             "deletions": 57
           },
           {
             "hash": "a3810d2110da19125505fd8429fd671fd8c0dc4e",
-            "messageTitle": "Habit Tracker List",
-            "messageBody": "",
+            "message": "Habit Tracker List",
             "insertions": 1124,
             "deletions": 0
           }
@@ -1237,8 +1023,7 @@
         "commitResults": [
           {
             "hash": "fbd0a53e76ee85c7260c37b5943038515e8c1fa4",
-            "messageTitle": "habit tracker",
-            "messageBody": "",
+            "message": "habit tracker",
             "insertions": 1638,
             "deletions": 322
           }
@@ -1251,36 +1036,31 @@
         "commitResults": [
           {
             "hash": "6e3b43f4583ec9242e16ec00ace1328dfd112f43",
-            "messageTitle": "Merge remote-tracking branch \u0027origin/master\u0027",
-            "messageBody": "# Conflicts:\n#\tsrc/main/java/seedu/address/logic/LogicManager.java\n#\tsrc/main/java/seedu/address/ui/MainWindow.java\n#\tsrc/test/java/seedu/address/logic/LogicManagerTest.java\n#\tsrc/test/java/seedu/address/storage/StorageManagerTest.java\n",
+            "message": "Merge remote-tracking branch \u0027origin/master\u0027",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "3b8c606d30ffce1fd55d4718614e0aea867a484b",
-            "messageTitle": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-2/main",
-            "messageBody": "# Conflicts:\n#\tdocs/DeveloperGuide.adoc\n",
+            "message": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-2/main",
             "insertions": 44,
             "deletions": 2
           },
           {
             "hash": "4c664d2e1368256f79351dfdc9527bade8c243c0",
-            "messageTitle": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-2/main",
-            "messageBody": "# Conflicts:\n#\tdocs/DeveloperGuide.adoc\n",
+            "message": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-2/main",
             "insertions": 177,
             "deletions": 69
           },
           {
             "hash": "5a46403d050839b7341ab5c0cf675336fce928ab",
-            "messageTitle": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-2/main",
-            "messageBody": "# Conflicts:\n#\tdocs/DeveloperGuide.adoc\n",
+            "message": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-2/main",
             "insertions": 305,
             "deletions": 83
           },
           {
             "hash": "9147cbb13b74e0ac1a8f7f6df1d6f2ac37503eee",
-            "messageTitle": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-2/main",
-            "messageBody": "# Conflicts:\n#\tdocs/DeveloperGuide.adoc\n",
+            "message": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-2/main",
             "insertions": 115,
             "deletions": 4
           }
@@ -1293,16 +1073,8 @@
         "commitResults": [
           {
             "hash": "ac7913a285e5963a01948b0543f31eb5771b413f",
-            "messageTitle": "Add files via upload",
-            "messageBody": "",
+            "message": "Add files via upload",
             "insertions": 2284,
-            "deletions": 0
-          },
-          {
-            "hash": "10b2cfa61db8f0ffbffe0e4978d31ca3f834c321",
-            "messageTitle": "Add files via upload",
-            "messageBody": "",
-            "insertions": 0,
             "deletions": 0
           }
         ]
@@ -1316,15 +1088,13 @@
         "commitResults": [
           {
             "hash": "07245e33d0388800e25719d2f72b1bc04ed2e6f9",
-            "messageTitle": "Added AddTask Command Updated Developer Guide Updated User Guide",
-            "messageBody": "",
+            "message": "Added AddTask Command Updated Developer Guide Updated User Guide",
             "insertions": 211,
             "deletions": 237
           },
           {
             "hash": "86d17cacd7f591bfad32bf43d27a9d1802ffad05",
-            "messageTitle": "Updated AboutUs.adoc ContactUs.adoc DeveloperGuide.adoc",
-            "messageBody": "",
+            "message": "Updated AboutUs.adoc ContactUs.adoc DeveloperGuide.adoc",
             "insertions": 204,
             "deletions": 56
           }
@@ -1337,22 +1107,19 @@
         "commitResults": [
           {
             "hash": "2c5461ae3aa0c53e212fd277f508ee31557bf235",
-            "messageTitle": "Updated AboutUs.adoc ContactUs.adoc DeveloperGuide.adoc",
-            "messageBody": "",
+            "message": "Updated AboutUs.adoc ContactUs.adoc DeveloperGuide.adoc",
             "insertions": 623,
             "deletions": 0
           },
           {
             "hash": "09f6ae5a5871cd07b7203bd041fd6916a0473bd2",
-            "messageTitle": "Test",
-            "messageBody": "",
+            "message": "Test",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "95d86c6d98671dd2857b4f6eb5b9f290c874672e",
-            "messageTitle": "Test",
-            "messageBody": "",
+            "message": "Test",
             "insertions": 1,
             "deletions": 1
           }
@@ -1365,15 +1132,13 @@
         "commitResults": [
           {
             "hash": "6b2a004523ce280c41edc53fdd9135bcf774bd2d",
-            "messageTitle": "Delete UserGuide.adoc",
-            "messageBody": "",
+            "message": "Delete UserGuide.adoc",
             "insertions": 0,
             "deletions": 135
           },
           {
             "hash": "bf17d00778a8de51b7322a196058ce5f0890d330",
-            "messageTitle": "Rename UserGuide.adoc to docs/UserGuide.adoc",
-            "messageBody": "",
+            "message": "Rename UserGuide.adoc to docs/UserGuide.adoc",
             "insertions": 1,
             "deletions": 1
           }
@@ -1386,8 +1151,7 @@
         "commitResults": [
           {
             "hash": "592fa84a803d1e4d39ebe09415caf2685ef61b07",
-            "messageTitle": "Created the relevant models for Task",
-            "messageBody": "",
+            "message": "Created the relevant models for Task",
             "insertions": 244,
             "deletions": 26
           }
@@ -1400,22 +1164,19 @@
         "commitResults": [
           {
             "hash": "aebd53e98bc2906b54d8f892ecfab806ea21a5ef",
-            "messageTitle": "Created VBox UI for Task List. Added headings for the relevant VBoxes Connected the tasklist.json to the UI AddTaskCommand can be executed and displayed in the UI.",
-            "messageBody": "",
+            "message": "Created VBox UI for Task List. Added headings for the relevant VBoxes Connected the tasklist.json to the UI AddTaskCommand can be executed and displayed in the UI.",
             "insertions": 141,
             "deletions": 30
           },
           {
             "hash": "5bb31c8a8cc61a9fa0cae3186ff20f01d16dae19",
-            "messageTitle": "Added Stubs to the test so that AddressBook can compile succesfully.",
-            "messageBody": "",
+            "message": "Added Stubs to the test so that AddressBook can compile succesfully.",
             "insertions": 104,
             "deletions": 45
           },
           {
             "hash": "d7c1eda90965ed067db77c41cffc3633d1d34fb4",
-            "messageTitle": "Committing some unversioned files that i did not commit previously",
-            "messageBody": "Files include\nJsonAdaptedTask.java\nJsonSerializableTaskList.java\nJsonTaskListStorage.java\nTaskListStorage.java\nDuplicateTaskException.java\n",
+            "message": "Committing some unversioned files that i did not commit previously",
             "insertions": 266,
             "deletions": 1
           }
@@ -1428,8 +1189,7 @@
         "commitResults": [
           {
             "hash": "6ced5edbbf7360f2c3fc533bd6776b911f12b434",
-            "messageTitle": "Revert \"Storage for workout features implemented\"",
-            "messageBody": "",
+            "message": "Revert \"Storage for workout features implemented\"",
             "insertions": 6,
             "deletions": 630
           }
@@ -1442,8 +1202,7 @@
         "commitResults": [
           {
             "hash": "ece9a17607c6bd0791350bd1dc02a310cd285124",
-            "messageTitle": "Added Verification of Duplication for AddTask Command",
-            "messageBody": "",
+            "message": "Added Verification of Duplication for AddTask Command",
             "insertions": 52,
             "deletions": 19
           }
@@ -1456,31 +1215,15 @@
         "commitResults": [
           {
             "hash": "97a12efec3703367851074ce564e71630dbd2b27",
-            "messageTitle": "Added validation of input date and time. If entered an invalid date with a format ddMMyy e.g. 241519 , this would cause an exception. The same goes for time.",
-            "messageBody": "",
+            "message": "Added validation of input date and time. If entered an invalid date with a format ddMMyy e.g. 241519 , this would cause an exception. The same goes for time.",
             "insertions": 90,
             "deletions": 48
           },
           {
             "hash": "23684a88157d64e0cdc749e8a92471889bd80a57",
-            "messageTitle": "added display for the invalid dates and times with the error messages!",
-            "messageBody": "",
+            "message": "added display for the invalid dates and times with the error messages!",
             "insertions": 28,
             "deletions": 21
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 1,
-        "date": "2019-03-29",
-        "commitResults": [
-          {
-            "hash": "7ba74d08166e25035c795d4a447b53844ed45cc2",
-            "messageTitle": "Update .gitignore",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 1
           }
         ]
       },
@@ -1491,37 +1234,33 @@
         "commitResults": [
           {
             "hash": "3bd7e4bc7dbdbe492cef80aaeeebdf1d6244396d",
-            "messageTitle": "Adding the json files",
-            "messageBody": "",
+            "message": "Adding the json files",
             "insertions": 60,
             "deletions": 0
           }
         ]
       },
       {
-        "insertions": 736,
+        "insertions": 733,
         "deletions": 136,
         "date": "2019-04-01",
         "commitResults": [
           {
             "hash": "06bb0fe9a37152124dbec5327f9378da3c5d3375",
-            "messageTitle": "Uploading the Developer Guide for 010419 CS2101 lesson",
-            "messageBody": "",
+            "message": "Uploading the Developer Guide for 010419 CS2101 lesson",
             "insertions": 229,
             "deletions": 59
           },
           {
             "hash": "1c00ceaf59385c298afefd856d094d69a27dcdb9",
-            "messageTitle": "Some minor fixes",
-            "messageBody": "",
+            "message": "Some minor fixes",
             "insertions": 362,
             "deletions": 43
           },
           {
             "hash": "e2572c1fbe27ab8cc439cbd358511247e74c9c89",
-            "messageTitle": "Implemented some missing methods Generated a JAR file.",
-            "messageBody": "",
-            "insertions": 145,
+            "message": "Implemented some missing methods Generated a JAR file.",
+            "insertions": 142,
             "deletions": 34
           }
         ]
@@ -1533,22 +1272,19 @@
         "commitResults": [
           {
             "hash": "480a47cbb02a60c9a1d2a60144e6909272e25d64",
-            "messageTitle": "Update README.adoc",
-            "messageBody": "",
+            "message": "Update README.adoc",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "2ffe850ce8b9d70ca1cdc11366a167109d20d3fe",
-            "messageTitle": "Update UserGuide.adoc",
-            "messageBody": "",
+            "message": "Update UserGuide.adoc",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "62ae8fd7c9defa33e6f88bcf824910fab5aee243",
-            "messageTitle": "Update UserGuide.adoc",
-            "messageBody": "",
+            "message": "Update UserGuide.adoc",
             "insertions": 1,
             "deletions": 1
           }
@@ -1561,57 +1297,49 @@
         "commitResults": [
           {
             "hash": "37c640254ee2fe776de83a157d7abc79a854a4a5",
-            "messageTitle": "test travis",
-            "messageBody": "",
+            "message": "test travis",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "8edb7682f4852e11ad38c2af37415a4ab35d548b",
-            "messageTitle": "test",
-            "messageBody": "",
+            "message": "test",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "927039cf4d06dba1ea86705f23971cd0809bb409",
-            "messageTitle": "Revert \"test\"",
-            "messageBody": "",
+            "message": "Revert \"test\"",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "d5fcff23fb6d82945ae939bdea81c22bccf2f483",
-            "messageTitle": "TRAVIS STUFF",
-            "messageBody": "",
+            "message": "TRAVIS STUFF",
             "insertions": 11,
             "deletions": 15
           },
           {
             "hash": "13008b9aa50a3b7181cf518a8202e80d3e8140b6",
-            "messageTitle": "test",
-            "messageBody": "",
+            "message": "test",
             "insertions": 2,
             "deletions": 5
           },
           {
             "hash": "a67efa5f348d5ca17562af31dc609fa70c005b9e",
-            "messageTitle": "test",
-            "messageBody": "",
+            "message": "test",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "0c6d8c73a3cf6d0825edd6db50aa9e9141d4e26e",
-            "messageTitle": "test",
-            "messageBody": "",
+            "message": "test",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "aab9e5f2addef6f9778b1aef9f2f6802f29beed7",
-            "messageTitle": "test",
-            "messageBody": "",
+            "message": "test",
             "insertions": 3,
             "deletions": 1
           }
@@ -1624,50 +1352,43 @@
         "commitResults": [
           {
             "hash": "606a890b68a7d8cd65fe58237ca3f3aaced2297c",
-            "messageTitle": "travis checkstyle",
-            "messageBody": "",
+            "message": "travis checkstyle",
             "insertions": 468,
             "deletions": 528
           },
           {
             "hash": "7fb8223b6f7c026d0177db665b891c58096d0c4a",
-            "messageTitle": "travis checkstyle",
-            "messageBody": "",
+            "message": "travis checkstyle",
             "insertions": 297,
             "deletions": 187
           },
           {
             "hash": "5fec4a4bc437fe383343f12c9ac26737f6a74036",
-            "messageTitle": "travis checkstyle",
-            "messageBody": "",
+            "message": "travis checkstyle",
             "insertions": 34,
             "deletions": 15
           },
           {
             "hash": "8c8a6158b321e235a2a96b750e155822f3c17c31",
-            "messageTitle": "travis checkstyle",
-            "messageBody": "",
+            "message": "travis checkstyle",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "84f678ba5e7029528a34af9003b66f68a410e4d5",
-            "messageTitle": "travis checkstyle",
-            "messageBody": "",
+            "message": "travis checkstyle",
             "insertions": 88,
             "deletions": 66
           },
           {
             "hash": "d1e48101a564eca52a852b249bb8970ba8f48051",
-            "messageTitle": "travis checkstyle",
-            "messageBody": "",
+            "message": "travis checkstyle",
             "insertions": 3,
             "deletions": 4
           },
           {
             "hash": "51f0514f67df69cde5f4cde769e0a9dd34a9fd87",
-            "messageTitle": "Added sorttask command",
-            "messageBody": "",
+            "message": "Added sorttask command",
             "insertions": 82,
             "deletions": 27
           }
@@ -1680,57 +1401,49 @@
         "commitResults": [
           {
             "hash": "72855c220936740acaedcd7a66ad0d124d766374",
-            "messageTitle": "travis checkstyle",
-            "messageBody": "",
+            "message": "travis checkstyle",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "9911b048a1917c3a43e1dc21258321edeb9381e3",
-            "messageTitle": "travis checkstyle",
-            "messageBody": "",
+            "message": "travis checkstyle",
             "insertions": 13,
             "deletions": 25
           },
           {
             "hash": "aeec553409f50f05a6a1fd8d162db35ff4bf721e",
-            "messageTitle": "travis checkstyle",
-            "messageBody": "",
+            "message": "travis checkstyle",
             "insertions": 17,
             "deletions": 9
           },
           {
             "hash": "cfb536dadd1872291a441969c4111ed5d9460fa0",
-            "messageTitle": "travis checkstyle",
-            "messageBody": "",
+            "message": "travis checkstyle",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "298795a7b56350ac8837c0cb410e68e55fcaf742",
-            "messageTitle": "travis checkstyle",
-            "messageBody": "",
+            "message": "travis checkstyle",
             "insertions": 3,
             "deletions": 8
           },
           {
             "hash": "9762bfcc3ad5f80367cf08d76887804aefd921df",
-            "messageTitle": "Added some classes of tickTask command",
-            "messageBody": "",
+            "message": "Added some classes of tickTask command",
             "insertions": 318,
             "deletions": 16
           },
           {
             "hash": "0d2215aad88e2d2c5870d9deefcc7390c185bdba",
-            "messageTitle": "travis checkstyle",
-            "messageBody": "",
+            "message": "travis checkstyle",
             "insertions": 13,
             "deletions": 1
           },
           {
             "hash": "4e071de07dfff3cfbd7a45020040232d262e2fd7",
-            "messageTitle": "Revert \"added dummy data for exp list\"",
-            "messageBody": "",
+            "message": "Revert \"added dummy data for exp list\"",
             "insertions": 1,
             "deletions": 33
           }
@@ -1743,15 +1456,13 @@
         "commitResults": [
           {
             "hash": "1510c25cbe4715a16329f10379da9b5987745d7b",
-            "messageTitle": "Also, updated errors on my side assigned by WeiZhong by the mock PE trials. Added different error codes for different errors on DeadlineTime and DeadlineDate.",
-            "messageBody": "These include different error codes for invalid dates/times as well as different expected number of integers.\n",
+            "message": "Also, updated errors on my side assigned by WeiZhong by the mock PE trials. Added different error codes for different errors on DeadlineTime and DeadlineDate.",
             "insertions": 49,
             "deletions": 16
           },
           {
             "hash": "9464e5e7c15b3562c30ce92301774cbd0c9387b1",
-            "messageTitle": "Adjusting for travis",
-            "messageBody": "",
+            "message": "Adjusting for travis",
             "insertions": 1,
             "deletions": 1
           }
@@ -1764,8 +1475,7 @@
         "commitResults": [
           {
             "hash": "be384f50e8fb6891462ddc4c404db0c49bf25991",
-            "messageTitle": "Added the tick task command without the storing of data yet.",
-            "messageBody": "",
+            "message": "Added the tick task command without the storing of data yet.",
             "insertions": 300,
             "deletions": 120
           }
@@ -1778,57 +1488,43 @@
         "commitResults": [
           {
             "hash": "770148b0a38856b83ebc3014de3bab591e326c82",
-            "messageTitle": "Edited some documentation for my part on the developer and user guide.",
-            "messageBody": "",
+            "message": "Edited some documentation for my part on the developer and user guide.",
             "insertions": 215,
             "deletions": 65
           },
           {
             "hash": "64a45ba9219d491f99e1ee4a09985a46f27963e3",
-            "messageTitle": "Edited some documentation for my part on the developer and user guide.",
-            "messageBody": "",
+            "message": "Edited some documentation for my part on the developer and user guide.",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "64a6c4ead794a0e852453003385abe6102af7206",
-            "messageTitle": "Added the diagrams for the developer guide",
-            "messageBody": "",
+            "message": "Added the diagrams for the developer guide",
             "insertions": 10,
             "deletions": 10
           },
           {
             "hash": "ad53806b1367020de927eeff24ff30db89dd3e82",
-            "messageTitle": "Added one activity diagram for the developer guide",
-            "messageBody": "",
+            "message": "Added one activity diagram for the developer guide",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "93c258537b12f33b7376a60d8d3006575a021f93",
-            "messageTitle": "Small changes from png to PNG",
-            "messageBody": "",
+            "message": "Small changes from png to PNG",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "fa091d0948f0ca6df5fce012e7c2f0c39bf32f2c",
-            "messageTitle": "Grammatical mistakes to the developer guide",
-            "messageBody": "",
+            "message": "Grammatical mistakes to the developer guide",
             "insertions": 29,
             "deletions": 10
           },
           {
-            "hash": "90e39dbb9672cdad7e2522b0a1347e78fbcfdb24",
-            "messageTitle": "Some documentation updates.",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 0
-          },
-          {
             "hash": "412dceb8a7b6b56f34537ab733dac05d642d2c59",
-            "messageTitle": "Checkstyle update for file SampleDataUtil",
-            "messageBody": "",
+            "message": "Checkstyle update for file SampleDataUtil",
             "insertions": 13,
             "deletions": 13
           }
@@ -1841,8 +1537,7 @@
         "commitResults": [
           {
             "hash": "d774f9f245cfe94054fc45943575844896f822b8",
-            "messageTitle": "Added AddTaskCommandTest.java and DeleteTaskCommandTest.java",
-            "messageBody": "",
+            "message": "Added AddTaskCommandTest.java and DeleteTaskCommandTest.java",
             "insertions": 1015,
             "deletions": 6
           }
@@ -1855,64 +1550,55 @@
         "commitResults": [
           {
             "hash": "18cf6dd78d9c7c0d717b7e31659bdbb0e38f7488",
-            "messageTitle": "Added some test commands",
-            "messageBody": "",
+            "message": "Added some test commands",
             "insertions": 360,
             "deletions": 3
           },
           {
             "hash": "1768f5aa526b9c9b255908341e11d5d9d64ac8ff",
-            "messageTitle": "Modified some merge conflicts!",
-            "messageBody": "",
+            "message": "Modified some merge conflicts!",
             "insertions": 33,
             "deletions": 32
           },
           {
             "hash": "57d9580e31980184f22738f5f205f5c9295a3b09",
-            "messageTitle": "Developer Guide",
-            "messageBody": "",
+            "message": "Developer Guide",
             "insertions": 64,
             "deletions": 303
           },
           {
             "hash": "72a854a2b884414adcc8827874d8675f637f1ff6",
-            "messageTitle": "Added more tests!",
-            "messageBody": "",
+            "message": "Added more tests!",
             "insertions": 523,
             "deletions": 87
           },
           {
             "hash": "5e9856be11c7ef9abb2e05f4681ceea0a7b0e042",
-            "messageTitle": "Added more tests!",
-            "messageBody": "",
+            "message": "Added more tests!",
             "insertions": 104,
             "deletions": 33
           },
           {
             "hash": "197b224ca5cc3546f64a5ec15b619193f4f15a56",
-            "messageTitle": "DEVELOPERGUIDE UPDATES",
-            "messageBody": "",
+            "message": "DEVELOPERGUIDE UPDATES",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "58719f94b691b9d5d93d3cdaa4a265ab1c283398",
-            "messageTitle": "userguide updates!",
-            "messageBody": "",
+            "message": "userguide updates!",
             "insertions": 51,
             "deletions": 55
           },
           {
             "hash": "eb2386af01c9ac7bae884700d25fe3126b6ffc52",
-            "messageTitle": "developerguide updates",
-            "messageBody": "",
+            "message": "developerguide updates",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "1f8ffff1ceeaea9f7df5f1880eb6cd94788a2acf",
-            "messageTitle": "developerguide updates",
-            "messageBody": "",
+            "message": "developerguide updates",
             "insertions": 29,
             "deletions": 11
           }
@@ -1925,85 +1611,73 @@
         "commitResults": [
           {
             "hash": "e4f918bbd15947f905ad483820724fb2cad273b1",
-            "messageTitle": "Added the rest of the tests!",
-            "messageBody": "",
+            "message": "Added the rest of the tests!",
             "insertions": 849,
             "deletions": 58
           },
           {
             "hash": "ed26a202d08c5f8a472c28386582f34daf4858a0",
-            "messageTitle": "Added the rest of the tests!",
-            "messageBody": "",
+            "message": "Added the rest of the tests!",
             "insertions": 22,
             "deletions": 31
           },
           {
             "hash": "e1bfe6ba0a312afbe93330e18dfc12286d98c904",
-            "messageTitle": "PPP update!",
-            "messageBody": "",
+            "message": "PPP update!",
             "insertions": 108,
             "deletions": 1
           },
           {
             "hash": "9d80fae859afab829941ede05583240bdf05c6db",
-            "messageTitle": "PPP update!",
-            "messageBody": "",
+            "message": "PPP update!",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "c2fd09c8e139f4b603935b96c04b3c3d50ab3856",
-            "messageTitle": "PPP update!",
-            "messageBody": "",
+            "message": "PPP update!",
             "insertions": 66,
             "deletions": 57
           },
           {
             "hash": "294a169f3439f2b24d7ff04d46635e91d97b971e",
-            "messageTitle": "PPP update!",
-            "messageBody": "",
+            "message": "PPP update!",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "5bd42dd22d9c0c1913fe93f0a1ac8bdc897caa7d",
-            "messageTitle": "PPP update!",
-            "messageBody": "",
+            "message": "PPP update!",
             "insertions": 6,
             "deletions": 3
           },
           {
             "hash": "b32ea30069630a226639b862d29849f1ab410cb3",
-            "messageTitle": "PPP update!",
-            "messageBody": "",
+            "message": "PPP update!",
             "insertions": 28,
             "deletions": 15
           },
           {
             "hash": "cb6a9d5a25aa7e4bdcec6c6574b21843885503d7",
-            "messageTitle": "PPP update!",
-            "messageBody": "",
+            "message": "PPP update!",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "20901217e2e3003b8c213632e2b51d5af6fd14c6",
-            "messageTitle": "PPP update!",
-            "messageBody": "",
+            "message": "PPP update!",
             "insertions": 11,
             "deletions": 13
           },
           {
             "hash": "dcf3ba677cd3284bcaf666d88bff3f888d8380fe",
-            "messageTitle": "edited the about us page to include the PPP",
-            "messageBody": "",
+            "message": "edited the about us page to include the PPP",
             "insertions": 5,
             "deletions": 4
           },
           {
             "hash": "09ead474cae6dcea922a0fa5e117216255b96fc7",
-            "messageTitle": "edited the about us page to include the PPP",
-            "messageBody": "",
+            "message": "edited the about us page to include the PPP",
             "insertions": 1,
             "deletions": 1
           }
@@ -2015,380 +1689,83 @@
     "yongjia96": 1418,
     "weizhonglauw": 4270,
     "wongyuqi": 4599,
-    "jayrometan": 6141
+    "jayrometan": 6138
   },
-  "authorFileTypeContributionMap": {
+  "authorFileFormatContributionMap": {
     "yongjia96": {
+      "adoc": 153,
+      "cs": 0,
+      "css": 0,
+      "fxml": 44,
+      "gradle": 0,
+      "html": 0,
+      "java": 1211,
+      "js": 0,
       "json": 10,
-      "adoc": 45,
-      "adoc": 5,
-      "adoc": 103,
-      "java": 17,
-      "java": 13,
-      "java": 19,
-      "java": 39,
-      "java": 44,
-      "java": 4,
-      "java": 7,
-      "java": 36,
-      "java": 43,
-      "java": 21,
-      "java": 53,
-      "java": 2,
-      "java": 17,
-      "java": 6,
-      "java": 35,
-      "java": 104,
-      "java": 5,
-      "java": 33,
-      "java": 31,
-      "java": 30,
-      "java": 30,
-      "java": 47,
-      "java": 64,
-      "java": 91,
-      "java": 55,
-      "java": 80,
-      "java": 10,
-      "java": 26,
-      "java": 13,
-      "java": 10,
-      "java": 66,
-      "java": 72,
-      "fxml": 36,
-      "fxml": 8,
-      "java": 5,
-      "java": 4,
-      "java": 79
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "weizhonglauw": {
-      "adoc": 11,
-      "json": 6,
-      "adoc": 11,
-      "adoc": 200,
-      "adoc": 259,
-      "adoc": 1,
-      "java": 38,
-      "java": 34,
-      "java": 60,
-      "java": 4,
-      "java": 56,
-      "java": 5,
-      "java": 23,
-      "java": 2,
-      "java": 3,
-      "java": 1,
-      "java": 25,
-      "java": 1,
-      "java": 1,
-      "java": 3,
-      "java": 1,
-      "java": 3,
-      "java": 1,
-      "java": 49,
-      "java": 2,
-      "java": 10,
-      "java": 25,
-      "java": 16,
-      "java": 117,
-      "java": 80,
-      "java": 123,
-      "java": 2,
-      "java": 18,
-      "java": 2,
-      "java": 21,
-      "java": 23,
-      "java": 109,
-      "java": 1,
-      "java": 1,
-      "java": 1,
-      "java": 1,
-      "java": 1,
-      "java": 50,
-      "java": 78,
-      "java": 101,
-      "java": 57,
-      "java": 5,
-      "java": 1,
-      "java": 30,
-      "java": 14,
-      "java": 44,
-      "java": 83,
-      "java": 20,
-      "java": 81,
-      "java": 16,
-      "java": 53,
-      "java": 17,
-      "java": 40,
-      "java": 1,
-      "java": 13,
-      "java": 1,
-      "java": 67,
-      "java": 71,
-      "java": 3,
+      "adoc": 482,
+      "cs": 0,
       "css": 5,
-      "fxml": 14,
-      "fxml": 34,
-      "fxml": 8,
-      "json": 1,
-      "json": 1,
-      "json": 1,
-      "java": 14,
-      "java": 65,
-      "java": 6,
-      "java": 72,
-      "java": 417,
-      "java": 10,
-      "java": 10,
-      "java": 40,
-      "java": 40,
-      "java": 20,
-      "java": 29,
-      "java": 4,
-      "java": 4,
-      "java": 10,
-      "java": 6,
-      "java": 6,
-      "java": 72,
-      "java": 17,
-      "java": 47,
-      "java": 29,
-      "java": 103,
-      "java": 41,
-      "java": 2,
-      "java": 151,
-      "java": 47,
-      "java": 135,
-      "java": 41,
-      "java": 27,
-      "java": 69,
-      "java": 36,
-      "java": 72,
-      "java": 16,
-      "java": 1,
-      "java": 15,
-      "java": 34,
-      "java": 33,
-      "java": 65,
-      "java": 35,
-      "java": 6,
-      "java": 56,
-      "java": 1,
-      "java": 2,
-      "java": 4,
-      "java": 5,
-      "java": 9,
-      "java": 13,
-      "java": 11,
-      "java": 11,
-      "java": 11,
-      "java": 21,
-      "java": 1,
-      "java": 4,
-      "java": 10,
-      "java": 3
+      "fxml": 56,
+      "gradle": 0,
+      "html": 0,
+      "java": 3718,
+      "js": 0,
+      "json": 9,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "wongyuqi": {
-      "adoc": 1555,
-      "adoc": 643,
-      "adoc": 124,
-      "adoc": 84,
-      "adoc": 111,
-      "java": 36,
-      "java": 1,
-      "java": 14,
-      "java": 69,
-      "java": 54,
-      "java": 51,
-      "java": 53,
-      "java": 2,
-      "java": 29,
-      "java": 21,
-      "java": 32,
-      "java": 140,
-      "java": 65,
-      "java": 143,
-      "java": 17,
-      "java": 2,
-      "java": 20,
-      "java": 110,
-      "java": 99,
-      "java": 102,
-      "java": 58,
-      "java": 52,
-      "java": 7,
-      "java": 1,
-      "java": 35,
-      "java": 46,
-      "java": 87,
-      "java": 78,
-      "java": 54,
-      "java": 12,
-      "java": 38,
-      "java": 71,
-      "java": 75,
-      "java": 11,
-      "java": 2,
-      "fxml": 34,
-      "fxml": 8,
-      "fxml": 20,
-      "java": 1,
-      "java": 9,
-      "java": 3,
-      "java": 52,
-      "java": 52,
-      "java": 52,
-      "java": 3,
-      "java": 3,
-      "java": 6,
-      "java": 4,
-      "java": 8,
-      "java": 5,
-      "java": 3,
-      "java": 3,
-      "java": 3,
-      "java": 3,
-      "java": 3,
-      "java": 4,
-      "java": 3,
-      "java": 9,
-      "java": 2,
-      "java": 13,
-      "java": 3,
-      "adoc": 86
+      "adoc": 2603,
+      "cs": 0,
+      "css": 0,
+      "fxml": 62,
+      "gradle": 0,
+      "html": 0,
+      "java": 1934,
+      "js": 0,
+      "json": 0,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     },
     "jayrometan": {
-      "adoc": 1,
-      "json": 21,
-      "json": 13,
-      "json": 13,
-      "json": 23,
-      "adoc": 7,
-      "adoc": 2,
-      "adoc": 561,
-      "adoc": 79,
-      "adoc": 110,
-      "MF": 3,
-      "java": 43,
-      "java": 1,
-      "java": 24,
-      "java": 46,
-      "java": 2,
-      "java": 70,
-      "java": 1,
-      "java": 52,
-      "java": 196,
-      "java": 3,
-      "java": 24,
-      "java": 56,
-      "java": 5,
-      "java": 53,
-      "java": 2,
-      "java": 31,
-      "java": 84,
-      "java": 14,
-      "java": 88,
-      "java": 14,
-      "java": 32,
-      "java": 5,
-      "java": 32,
-      "java": 146,
-      "java": 12,
-      "java": 4,
-      "java": 133,
-      "java": 22,
-      "java": 45,
-      "java": 9,
-      "java": 3,
-      "java": 58,
-      "java": 63,
-      "java": 100,
-      "java": 58,
-      "java": 145,
-      "java": 13,
-      "java": 13,
-      "java": 7,
-      "java": 29,
-      "java": 3,
-      "java": 2,
-      "java": 3,
-      "java": 3,
-      "java": 12,
-      "java": 3,
-      "java": 6,
-      "java": 113,
-      "java": 3,
-      "java": 61,
-      "java": 1,
-      "java": 78,
-      "java": 78,
-      "java": 14,
-      "java": 58,
-      "java": 20,
-      "java": 21,
-      "java": 2,
-      "java": 25,
-      "java": 3,
-      "java": 69,
-      "java": 73,
-      "java": 73,
-      "fxml": 12,
-      "fxml": 35,
-      "fxml": 8,
-      "fxml": 35,
-      "fxml": 8,
-      "java": 1,
-      "java": 40,
-      "java": 2,
-      "java": 127,
-      "java": 431,
-      "java": 2,
-      "java": 80,
-      "java": 2,
-      "java": 100,
-      "java": 2,
-      "java": 138,
-      "java": 54,
-      "java": 2,
-      "java": 2,
-      "java": 2,
-      "java": 2,
-      "java": 32,
-      "java": 104,
-      "java": 2,
-      "java": 128,
-      "java": 32,
-      "java": 203,
-      "java": 11,
-      "java": 83,
-      "java": 33,
-      "java": 40,
-      "java": 140,
-      "java": 54,
-      "java": 43,
-      "java": 41,
-      "java": 96,
-      "java": 184,
-      "java": 96,
-      "java": 71,
-      "java": 4,
-      "java": 81,
-      "java": 81,
-      "java": 35,
-      "java": 61,
-      "java": 4,
-      "java": 3,
-      "java": 75,
-      "java": 14,
-      "java": 7,
-      "java": 3
+      "adoc": 760,
+      "cs": 0,
+      "css": 0,
+      "fxml": 98,
+      "gradle": 0,
+      "html": 0,
+      "java": 5210,
+      "js": 0,
+      "json": 70,
+      "jsp": 0,
+      "md": 0,
+      "py": 0,
+      "tag": 0,
+      "txt": 0,
+      "xml": 0
     }
   },
   "authorContributionVariance": {
     "yongjia96": 12176.698,
-    "weizhonglauw": 192787.3,
+    "weizhonglauw": 192830.77,
     "wongyuqi": 173551.75,
-    "jayrometan": 151204.02
+    "jayrometan": 151145.73
   },
   "authorDisplayNameMap": {
     "yongjia96": "PAN...JIA",

@@ -1,157 +1,6 @@
 [
   {
-    "path": ".gitignore",
-    "fileType": "gitignore",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "build/"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ".gradle/"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ".checkstyle"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ".settings/"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ".idea/"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "lib/*"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.iml"
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.log"
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.log.*"
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "*.csv"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "jacobhan"
-        },
-        "content": "/config.json"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "src/test/data/sandbox/"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "preferences.json"
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "-"
-        },
-        "content": ".DS_Store"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "./screenshot*.png"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "classes/"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "/data/"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "/bin/"
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "src/main/resources/docs/"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "-"
-        },
-        "content": "out/"
-      }
-    ],
-    "authorContributionMap": {
-      "jacobhan": 1,
-      "-": 19
-    }
-  },
-  {
     "path": "README.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -561,7 +410,6 @@
   },
   {
     "path": "_reposense/config.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -745,7 +593,6 @@
   },
   {
     "path": "build.gradle",
-    "fileType": "gradle",
     "lines": [
       {
         "lineNumber": 1,
@@ -2738,7 +2585,6 @@
   },
   {
     "path": "docs/AboutUs.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -3127,7 +2973,6 @@
   },
   {
     "path": "docs/ContactUs.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -3187,7 +3032,6 @@
   },
   {
     "path": "docs/DeveloperGuide.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -13440,7 +13284,6 @@
   },
   {
     "path": "docs/UserGuide.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -18002,7 +17845,6 @@
   },
   {
     "path": "docs/UsingGradle.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -18803,7 +18645,6 @@
   },
   {
     "path": "docs/stylesheets/boot-lumen-yushao.css",
-    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -21339,7 +21180,6 @@
   },
   {
     "path": "docs/stylesheets/gh-jacobhan-pages.css",
-    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -22846,7 +22686,6 @@
   },
   {
     "path": "docs/stylesheets/gh-yushao-pages.css",
-    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -24353,7 +24192,6 @@
   },
   {
     "path": "docs/team/jacobhan.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -25062,7 +24900,6 @@
   },
   {
     "path": "docs/team/yushao.adoc",
-    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -25841,7 +25678,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/AppParameters.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26299,7 +26135,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/MainApp.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27766,7 +27601,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/core/Config.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28217,7 +28051,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/core/GuiSettings.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28738,7 +28571,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/core/LogsCenter.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -29532,7 +29364,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/core/Messages.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -29809,7 +29640,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/core/Version.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30610,7 +30440,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/core/index/Index.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -30998,7 +30827,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/exceptions/DataConversionException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31085,7 +30913,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/exceptions/IllegalValueException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31242,7 +31069,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/exceptions/WrongPasswordException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31392,7 +31218,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/AppUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31675,7 +31500,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/CollectionUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -31938,7 +31762,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/CompareUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32389,7 +32212,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/ConfigUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32560,7 +32382,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/CryptoUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33746,7 +33567,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/DateUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34575,7 +34395,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/EncryptionUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -35558,7 +35377,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/ExcelUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -37920,7 +37738,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/FileUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39106,7 +38923,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/InvalidationListenerManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -39480,7 +39296,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/JsonUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40491,7 +40306,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/MoneyUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40760,7 +40574,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/commons/util/StringUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41246,7 +41059,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/CommandHistory.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -41662,7 +41474,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/Logic.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -42191,7 +42002,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/LogicManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43399,7 +43209,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/PasswordAccepted.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43493,7 +43302,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/PasswordCenter.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43818,7 +43626,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/Start.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -43940,7 +43747,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/AddCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44406,7 +44212,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/BitcoinCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44746,7 +44551,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/ClearCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44931,7 +44735,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/Command.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45095,7 +44898,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/CommandResult.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -45658,7 +45460,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/CryptoCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46430,7 +46231,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/DeleteCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -46826,7 +46626,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/DisplayCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -47320,7 +47119,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/EditCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -48794,7 +48592,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/EthereumCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49126,7 +48923,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/ExitCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -49276,7 +49072,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/ExportExcelCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50196,7 +49991,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/FilterCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50522,7 +50316,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/FindCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50834,7 +50627,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/HelpCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -50998,7 +50790,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/HistoryCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51239,7 +51030,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/InvestCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51717,7 +51507,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/ListCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -51903,7 +51692,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/LitecoinCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -52235,7 +52023,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/LockCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53022,7 +52809,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/LockMode.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53235,7 +53021,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/RedoCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53463,7 +53248,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/ReportCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -53837,7 +53621,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/SelectCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -54233,7 +54016,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/StockCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55034,7 +54816,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/UndoCommand.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55262,7 +55043,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/commands/exceptions/CommandException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55391,7 +55171,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/AddCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -55801,7 +55580,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/ArgumentMultimap.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -56231,7 +56009,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/ArgumentTokenizer.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57277,7 +57054,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/BitcoinCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57427,7 +57203,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/CliSyntax.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57628,7 +57403,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/CryptoCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -57938,7 +57712,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/DeleteCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58151,7 +57924,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/DisplayCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -58651,7 +58423,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/EditCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -59208,7 +58979,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/EntriesBookParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60179,7 +59949,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/EthereumCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60329,7 +60098,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/FilterCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -60976,7 +60744,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/FindCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61218,7 +60985,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/InvestCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61563,7 +61329,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/LitecoinCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -61720,7 +61485,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/LockCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -62080,7 +61844,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/Parser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -62202,7 +61965,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/ParserUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63173,7 +62935,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/Prefix.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -63456,7 +63217,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/ReportCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64131,7 +63891,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/SelectCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64337,7 +64096,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/StockCommandParser.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64648,7 +64406,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/logic/parser/exceptions/ParseException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -64777,7 +64534,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/EntriesBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -65901,7 +65657,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/Model.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -66906,7 +66661,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/ModelManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68695,7 +68449,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/ReadOnlyEntriesBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68839,7 +68592,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/ReadOnlyUserPrefs.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -68968,7 +68720,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/UserPrefs.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -69643,7 +69394,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/VersionedEntriesBook.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -70423,7 +70173,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/CashFlow.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71295,7 +71044,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/CashFlowContainsSpecifiedKeywordsPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -71522,7 +71270,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/Date.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72716,7 +72463,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/DateAfterGivenPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -72921,7 +72667,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/DateBeforeGivenPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73126,7 +72871,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/DateContainsSpecifiedKeywordsPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -73353,7 +73097,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/Entry.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -74148,7 +73891,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/EntryList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75412,7 +75154,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/Name.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -75842,7 +75583,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/NameContainsKeywordsPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76070,7 +75810,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/Number.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -76499,7 +76238,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/ReportEntryList.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77328,7 +77066,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/TagContainsSpecifiedKeywordsPredicate.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77597,7 +77334,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/exceptions/DuplicateEntryException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77685,7 +77421,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/entry/exceptions/EntryNotFoundException.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -77737,7 +77472,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/tag/Tag.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78125,7 +77859,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/model/util/SampleDataUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78591,7 +78324,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/storage/BudgeteerStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -78923,7 +78655,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/storage/JsonAdaptedEntry.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79627,7 +79358,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/storage/JsonAdaptedTag.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -79973,7 +79703,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/storage/JsonBudgeteerStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80543,7 +80272,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/storage/JsonSerializableBudgeteer.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -80974,7 +80702,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/storage/JsonUserPrefsStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -81313,7 +81040,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/storage/PasswordManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82030,7 +81756,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/storage/Storage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82264,7 +81989,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/storage/StorageManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -82813,7 +82537,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/storage/UserPrefsStorage.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -83075,7 +82798,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/BrowserPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -83667,7 +83389,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/CommandBox.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -85303,7 +85024,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/EntryCard.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -85783,7 +85503,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/EntryListPanel.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86290,7 +86009,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/HelpWindow.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -86895,7 +86613,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/ListElementPointer.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -87682,7 +87399,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/MainWindow.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -89233,7 +88949,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/ReportWindow.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -90866,7 +90581,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/ResultDisplay.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91072,7 +90786,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/StatusBarFooter.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91565,7 +91278,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/Ui.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -91666,7 +91378,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/UiManager.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92278,7 +91989,6 @@
   },
   {
     "path": "src/main/java/seedu/budgeteer/ui/UiPart.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -92904,7 +92614,6 @@
   },
   {
     "path": "src/main/resources/view/BrowserPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -92991,7 +92700,6 @@
   },
   {
     "path": "src/main/resources/view/DarkTheme.css",
-    "fileType": "css",
     "lines": [
       {
         "lineNumber": 1,
@@ -95465,7 +95173,6 @@
   },
   {
     "path": "src/main/resources/view/EntryListCard.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -95720,7 +95427,6 @@
   },
   {
     "path": "src/main/resources/view/EntryListPanel.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -95786,7 +95492,6 @@
   },
   {
     "path": "src/main/resources/view/MainWindow.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -96273,7 +95978,6 @@
   },
   {
     "path": "src/main/resources/view/ReportWindow.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -96618,7 +96322,6 @@
   },
   {
     "path": "src/test/data/JsonEntriesBookStorageTest/invalidAndValidEntryAddressBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -96705,7 +96408,6 @@
   },
   {
     "path": "src/test/data/JsonEntriesBookStorageTest/invalidEntryAddressBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -96764,7 +96466,6 @@
   },
   {
     "path": "src/test/data/JsonSerializableEntriesBookTest/duplicateEntryAddressBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -96864,7 +96565,6 @@
   },
   {
     "path": "src/test/data/JsonSerializableEntriesBookTest/invalidEntryAddressBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -96922,7 +96622,6 @@
   },
   {
     "path": "src/test/data/JsonSerializableEntriesBookTest/typicalEntrysAddressBook.json",
-    "fileType": "json",
     "lines": [
       {
         "lineNumber": 1,
@@ -97239,7 +96938,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/AlertDialogHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -97473,7 +97171,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/EntryCardHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -98037,7 +97734,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/EntryListPanelHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99175,7 +98871,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/MainWindowHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99522,7 +99217,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/NodeHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -99847,7 +99541,6 @@
   },
   {
     "path": "src/test/java/guitests/guihandles/StageHandle.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -100298,7 +99991,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/AppParametersTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -100714,7 +100406,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/TestApp.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101488,7 +101179,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/commons/core/ConfigTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -101715,7 +101405,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/commons/core/VersionTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -102698,7 +102387,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/commons/core/index/IndexTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103352,7 +103040,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/commons/util/AppUtilTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -103691,7 +103378,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/commons/util/CollectionUtilTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -104520,7 +104206,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/commons/util/CompareUtilTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -105335,7 +105020,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/commons/util/ConfigUtilTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106248,7 +105932,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/commons/util/FileUtilTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106426,7 +106109,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/commons/util/InvalidationListenerManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -106940,7 +106622,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/commons/util/JsonUtilTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -107265,7 +106946,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/commons/util/StringUtilTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108388,7 +108068,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/CommandHistoryTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -108951,7 +108630,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/LogicManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -110271,7 +109949,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/AddCommandIntegrationTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -110569,7 +110246,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/AddCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -112302,7 +111978,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/BitcoinCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -112542,7 +112217,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/ClearCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -112811,7 +112485,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/CommandResultTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -113199,7 +112872,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/CommandTestUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -114289,7 +113961,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/CryptoCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -114634,7 +114305,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/DeleteCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -115884,7 +115554,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/DisplayCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -116510,7 +116179,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/EditCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -118110,7 +117778,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/EditEntryDescriptorTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -118499,7 +118166,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/EthereumCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -118739,7 +118405,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/ExitCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -118924,7 +118589,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/FindCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119530,7 +119194,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/HelpCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119730,7 +119393,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/HistoryCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -119985,7 +119647,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/InvestCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -120652,7 +120313,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/ListCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -120950,7 +120610,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/LitecoinCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -121190,7 +120849,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/RedoCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -121544,7 +121202,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/ReportCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -121687,7 +121344,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/SelectCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -122454,7 +122110,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/StockCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -122799,7 +122454,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/commands/UndoCommandTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -123125,7 +122779,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/parser/AddCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -124032,7 +123685,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/parser/ArgumentTokenizerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125092,7 +124744,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/parser/CommandParserTestUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125368,7 +125019,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/parser/DeleteCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -125603,7 +125253,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/parser/DisplayCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -126194,7 +125843,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/parser/EditCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -127584,7 +127232,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/parser/EntriesBookParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -128708,7 +128355,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/parser/FilterCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -129292,7 +128938,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/parser/FindCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -129540,7 +129185,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/parser/ParserUtilTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -130839,7 +130483,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/logic/parser/SelectCommandParserTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -131053,7 +130696,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/model/EntriesBookTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -131883,7 +131525,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/model/ModelManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -133210,7 +132851,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/model/UserPrefsTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -133367,7 +133007,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/model/VersionedEntriesBookTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -135463,7 +135102,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/model/entry/CashFlowTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -135838,7 +135476,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/model/entry/DateTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -136514,7 +136151,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/model/entry/EntryListTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -137827,7 +137463,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/model/entry/EntryTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -138440,7 +138075,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/model/entry/NameContainsKeywordsPredicateTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -138983,7 +138617,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/model/entry/NameTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -139280,7 +138913,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/model/tag/TagTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -139472,7 +139104,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/storage/JsonAdaptedEntryTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -140127,7 +139758,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/storage/JsonEntriesBookStorageTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -141006,7 +140636,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/storage/JsonSerializableEntriesBookTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -141318,7 +140947,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/storage/JsonUserPrefsStorageTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -142273,7 +141901,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/storage/StorageManagerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -142773,7 +142400,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/testutil/Assert.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -143154,7 +142780,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/testutil/EditEntryDescriptorBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -143711,7 +143336,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/testutil/EntriesBookBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -143958,7 +143582,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/testutil/EntryBuilder.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -144557,7 +144180,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/testutil/EntryUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -144981,7 +144603,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/testutil/SerializableTestClass.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -145495,7 +145116,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/testutil/TestUtil.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -145891,7 +145511,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/testutil/TypicalEntrys.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -146483,7 +146102,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/testutil/TypicalIndexes.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -146578,7 +146196,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/CommandBoxTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -147701,7 +147318,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/EntryCardTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -148216,7 +147832,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/EntryListPanelTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -148955,7 +148570,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/GuiUnitTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -149182,7 +148796,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/HelpWindowTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -149703,7 +149316,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/ListElementPointerTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -150938,7 +150550,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/MainWindowCloseTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -151634,7 +151245,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/ResultDisplayTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -151889,7 +151499,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/StatusBarFooterTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -152424,7 +152033,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/TestFxmlObject.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -152679,7 +152287,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/UiPartTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -153515,7 +153122,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/testutil/GuiTestAssert.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -154030,7 +153636,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/testutil/StageRule.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -154278,7 +153883,6 @@
   },
   {
     "path": "src/test/java/seedu/budgeteer/ui/testutil/UiPartRule.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -154491,7 +154095,6 @@
   },
   {
     "path": "src/test/java/systemtests/AddCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -155923,7 +155526,6 @@
   },
   {
     "path": "src/test/java/systemtests/ClearCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -156641,7 +156243,6 @@
   },
   {
     "path": "src/test/java/systemtests/ClockRule.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -157050,7 +156651,6 @@
   },
   {
     "path": "src/test/java/systemtests/DeleteCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -158412,7 +158012,6 @@
   },
   {
     "path": "src/test/java/systemtests/EditCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -160243,7 +159842,6 @@
   },
   {
     "path": "src/test/java/systemtests/EntriesBookSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -162242,7 +161840,6 @@
   },
   {
     "path": "src/test/java/systemtests/FilterCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -163652,7 +163249,6 @@
   },
   {
     "path": "src/test/java/systemtests/FindCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -164923,7 +164519,6 @@
   },
   {
     "path": "src/test/java/systemtests/HelpCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -165683,7 +165278,6 @@
   },
   {
     "path": "src/test/java/systemtests/ModelHelper.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -165967,7 +165561,6 @@
   },
   {
     "path": "src/test/java/systemtests/SampleDataTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -166335,7 +165928,6 @@
   },
   {
     "path": "src/test/java/systemtests/SelectCommandSystemTest.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -167424,7 +167016,6 @@
   },
   {
     "path": "src/test/java/systemtests/SystemTestSetupHelper.java",
-    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -167952,7 +167543,6 @@
   },
   {
     "path": "src/test/resources/view/UiPartTest/validFile.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
@@ -167990,7 +167580,6 @@
   },
   {
     "path": "src/test/resources/view/UiPartTest/validFileWithFxRoot.fxml",
-    "fileType": "fxml",
     "lines": [
       {
         "lineNumber": 1,
