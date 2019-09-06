@@ -1,6 +1,7 @@
 [
   {
     "path": "README.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -212,7 +213,31 @@
     }
   },
   {
+    "path": "accounts.properties",
+    "fileType": "properties",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "#Sun Apr 14 20:28:16 SRET 2019"
+      },
+      {
+        "lineNumber": 2,
+        "author": {
+          "gitId": "matthiaslum"
+        },
+        "content": "Admin\u003dAdmin123"
+      }
+    ],
+    "authorContributionMap": {
+      "matthiaslum": 2
+    }
+  },
+  {
     "path": "addressbook.txt",
+    "fileType": "txt",
     "lines": [
       {
         "lineNumber": 1,
@@ -319,6 +344,7 @@
   },
   {
     "path": "docs/AboutUs.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -691,6 +717,7 @@
   },
   {
     "path": "docs/ContactUs.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -762,6 +789,7 @@
   },
   {
     "path": "docs/DeveloperGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -8404,6 +8432,7 @@
   },
   {
     "path": "docs/UserGuide.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -10313,6 +10342,7 @@
   },
   {
     "path": "docs/team/liguanlong.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -11707,6 +11737,7 @@
   },
   {
     "path": "docs/team/matthiaslum.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -13794,6 +13825,7 @@
   },
   {
     "path": "docs/team/shawn-t.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -15587,6 +15619,7 @@
   },
   {
     "path": "docs/team/wupeihsuan.adoc",
+    "fileType": "adoc",
     "lines": [
       {
         "lineNumber": 1,
@@ -16975,6 +17008,7 @@
   },
   {
     "path": "src/seedu/addressbook/Main.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -17257,6 +17291,7 @@
   },
   {
     "path": "src/seedu/addressbook/accountmanager/AccountManager.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -18245,6 +18280,7 @@
   },
   {
     "path": "src/seedu/addressbook/commands/AddCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -18793,6 +18829,7 @@
   },
   {
     "path": "src/seedu/addressbook/commands/ApptDateCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -19774,6 +19811,7 @@
   },
   {
     "path": "src/seedu/addressbook/commands/Command.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -20464,6 +20502,7 @@
   },
   {
     "path": "src/seedu/addressbook/commands/CommandResult.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -20725,6 +20764,7 @@
   },
   {
     "path": "src/seedu/addressbook/commands/DoctorAppointmentsCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -21132,6 +21172,7 @@
   },
   {
     "path": "src/seedu/addressbook/commands/HelpCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -21387,6 +21428,7 @@
   },
   {
     "path": "src/seedu/addressbook/commands/Indicator.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -21500,6 +21542,7 @@
   },
   {
     "path": "src/seedu/addressbook/commands/LengthCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -21599,6 +21642,7 @@
   },
   {
     "path": "src/seedu/addressbook/commands/ReferCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -22720,6 +22764,7 @@
   },
   {
     "path": "src/seedu/addressbook/commands/SortCommand.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -23486,6 +23531,7 @@
   },
   {
     "path": "src/seedu/addressbook/commands/SortDate.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -23585,6 +23631,7 @@
   },
   {
     "path": "src/seedu/addressbook/common/Messages.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -23749,6 +23796,7 @@
   },
   {
     "path": "src/seedu/addressbook/data/AddressBook.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -24529,6 +24577,7 @@
   },
   {
     "path": "src/seedu/addressbook/data/person/Appointment.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -25140,6 +25189,7 @@
   },
   {
     "path": "src/seedu/addressbook/data/person/Doctor.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -25688,6 +25738,7 @@
   },
   {
     "path": "src/seedu/addressbook/data/person/Name.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -26236,6 +26287,7 @@
   },
   {
     "path": "src/seedu/addressbook/data/person/Person.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -27212,6 +27264,7 @@
   },
   {
     "path": "src/seedu/addressbook/data/person/ReadOnlyPerson.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28068,6 +28121,7 @@
   },
   {
     "path": "src/seedu/addressbook/data/person/Status.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -28707,6 +28761,7 @@
   },
   {
     "path": "src/seedu/addressbook/data/person/UniquePersonList.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -29984,6 +30039,7 @@
   },
   {
     "path": "src/seedu/addressbook/parser/Parser.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -32522,6 +32578,7 @@
   },
   {
     "path": "src/seedu/addressbook/storage/jaxb/AdaptedPerson.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -33371,6 +33428,7 @@
   },
   {
     "path": "src/seedu/addressbook/ui/Formatter.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34024,6 +34082,7 @@
   },
   {
     "path": "src/seedu/addressbook/ui/MainWindow.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -34936,6 +34995,7 @@
   },
   {
     "path": "test/data/StorageFileTest/ValidData.txt",
+    "fileType": "txt",
     "lines": [
       {
         "lineNumber": 1,
@@ -35106,6 +35166,7 @@
   },
   {
     "path": "test/java/seedu/addressbook/accountmanager/AccountManagerTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -35499,6 +35560,7 @@
   },
   {
     "path": "test/java/seedu/addressbook/logic/LogicTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -40926,6 +40988,7 @@
   },
   {
     "path": "test/java/seedu/addressbook/parser/ParserTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
@@ -44556,6 +44619,7 @@
   },
   {
     "path": "test/java/seedu/addressbook/storage/StorageFileTest.java",
+    "fileType": "java",
     "lines": [
       {
         "lineNumber": 1,
