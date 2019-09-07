@@ -1,216 +1,216 @@
-Sep 06, 2019 7:21:57 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:22:31 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-T08-3/main.git...
-Sep 06, 2019 7:21:57 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:22:31 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-T08-3/main.git to complete...
-Sep 06, 2019 7:21:58 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:22:32 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-T08-3/main.git completed!
-Sep 06, 2019 7:21:58 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:22:32 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-T11-3/main.git...
-Sep 06, 2019 7:21:58 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:22:32 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [1/13] Analyzing https://github.com/CS2113-AY1819S2-T08-3/main.git (master)...
-Sep 06, 2019 7:21:58 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:22:32 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-T08-3/main.git (master)...
-Sep 06, 2019 7:21:59 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:22:33 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-T08-3/main.git (master)...
-Sep 06, 2019 7:21:59 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:22:33 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-T08-3/main.git (master)...
-Sep 06, 2019 7:22:04 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:22:37 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-T08-3/main.git (master) completed!
-Sep 06, 2019 7:22:04 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:22:37 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-T11-3/main.git to complete...
-Sep 06, 2019 7:22:04 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:22:37 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-T11-3/main.git completed!
-Sep 06, 2019 7:22:04 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:22:37 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-M11-2/main.git...
-Sep 06, 2019 7:22:04 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:22:37 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [2/13] Analyzing https://github.com/CS2113-AY1819S2-T11-3/main.git (master)...
-Sep 06, 2019 7:22:04 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:22:37 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-T11-3/main.git (master)...
-Sep 06, 2019 7:22:04 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:22:38 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-T11-3/main.git (master)...
-Sep 06, 2019 7:22:04 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:22:38 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-T11-3/main.git (master)...
-Sep 06, 2019 7:22:13 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:22:46 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-T11-3/main.git (master) completed!
-Sep 06, 2019 7:22:13 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:22:46 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-M11-2/main.git to complete...
-Sep 06, 2019 7:22:13 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:22:46 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-M11-2/main.git completed!
-Sep 06, 2019 7:22:13 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:22:46 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-T08-1/main.git...
-Sep 06, 2019 7:22:13 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:22:46 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [3/13] Analyzing https://github.com/CS2113-AY1819S2-M11-2/main.git (master)...
-Sep 06, 2019 7:22:13 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:22:46 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-M11-2/main.git (master)...
-Sep 06, 2019 7:22:13 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:22:46 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-M11-2/main.git (master)...
-Sep 06, 2019 7:22:13 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:22:46 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-M11-2/main.git (master)...
-Sep 06, 2019 7:22:19 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:22:52 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-M11-2/main.git (master) completed!
-Sep 06, 2019 7:22:19 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:22:52 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-T08-1/main.git to complete...
-Sep 06, 2019 7:22:19 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:22:52 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-T08-1/main.git completed!
-Sep 06, 2019 7:22:19 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:22:52 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-T09-3/main.git...
-Sep 06, 2019 7:22:19 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:22:52 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [4/13] Analyzing https://github.com/CS2113-AY1819S2-T08-1/main.git (master)...
-Sep 06, 2019 7:22:19 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:22:52 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-T08-1/main.git (master)...
-Sep 06, 2019 7:22:20 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:22:53 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-T08-1/main.git (master)...
-Sep 06, 2019 7:22:20 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:22:53 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-T08-1/main.git (master)...
-Sep 06, 2019 7:22:26 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:22:59 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-T08-1/main.git (master) completed!
-Sep 06, 2019 7:22:26 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:22:59 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-T09-3/main.git to complete...
-Sep 06, 2019 7:22:26 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:22:59 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-T09-3/main.git completed!
-Sep 06, 2019 7:22:26 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:22:59 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-M11-1/main.git...
-Sep 06, 2019 7:22:26 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:22:59 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [5/13] Analyzing https://github.com/CS2113-AY1819S2-T09-3/main.git (master)...
-Sep 06, 2019 7:22:26 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:22:59 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-T09-3/main.git (master)...
-Sep 06, 2019 7:22:27 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:23:00 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-T09-3/main.git (master)...
-Sep 06, 2019 7:22:27 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:23:00 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-T09-3/main.git (master)...
-Sep 06, 2019 7:22:34 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:23:06 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-T09-3/main.git (master) completed!
-Sep 06, 2019 7:22:34 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:06 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-M11-1/main.git to complete...
-Sep 06, 2019 7:22:34 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:06 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-M11-1/main.git completed!
-Sep 06, 2019 7:22:34 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:23:06 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-T11-2/main.git...
-Sep 06, 2019 7:22:34 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:23:06 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [6/13] Analyzing https://github.com/CS2113-AY1819S2-M11-1/main.git (master)...
-Sep 06, 2019 7:22:34 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:23:06 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-M11-1/main.git (master)...
-Sep 06, 2019 7:22:34 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:23:07 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-M11-1/main.git (master)...
-Sep 06, 2019 7:22:34 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:23:07 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-M11-1/main.git (master)...
-Sep 06, 2019 7:22:36 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:23:09 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-M11-1/main.git (master) completed!
-Sep 06, 2019 7:22:36 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:09 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-T11-2/main.git to complete...
-Sep 06, 2019 7:22:36 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:09 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-T11-2/main.git completed!
-Sep 06, 2019 7:22:36 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:23:09 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-T08-2/main.git...
-Sep 06, 2019 7:22:36 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:23:09 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [7/13] Analyzing https://github.com/CS2113-AY1819S2-T11-2/main.git (master)...
-Sep 06, 2019 7:22:37 AM reposense.report.ReportGenerator updateRepoConfig
+Sep 07, 2019 7:23:09 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/CS2113-AY1819S2-T11-2/main.git (master) does not contain a standalone config file.
-Sep 06, 2019 7:22:37 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:23:09 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-T11-2/main.git (master)...
-Sep 06, 2019 7:22:37 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:23:09 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-T11-2/main.git (master)...
-Sep 06, 2019 7:22:37 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:23:09 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-T11-2/main.git (master)...
-Sep 06, 2019 7:22:39 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:23:11 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-T11-2/main.git (master) completed!
-Sep 06, 2019 7:22:39 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:11 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-T08-2/main.git to complete...
-Sep 06, 2019 7:22:39 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:11 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-T08-2/main.git completed!
-Sep 06, 2019 7:22:39 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:23:11 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-T08-4/main.git...
-Sep 06, 2019 7:22:39 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:23:11 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [8/13] Analyzing https://github.com/CS2113-AY1819S2-T08-2/main.git (master)...
-Sep 06, 2019 7:22:39 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:23:11 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-T08-2/main.git (master)...
-Sep 06, 2019 7:22:39 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:23:12 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-T08-2/main.git (master)...
-Sep 06, 2019 7:22:39 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:23:12 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-T08-2/main.git (master)...
-Sep 06, 2019 7:22:44 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:23:17 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-T08-2/main.git (master) completed!
-Sep 06, 2019 7:22:44 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:17 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-T08-4/main.git to complete...
-Sep 06, 2019 7:22:44 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:17 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-T08-4/main.git completed!
-Sep 06, 2019 7:22:44 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:23:17 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-T09-2/main.git...
-Sep 06, 2019 7:22:44 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:23:17 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [9/13] Analyzing https://github.com/CS2113-AY1819S2-T08-4/main.git (master)...
-Sep 06, 2019 7:22:45 AM reposense.report.ReportGenerator updateRepoConfig
+Sep 07, 2019 7:23:17 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/CS2113-AY1819S2-T08-4/main.git (master) does not contain a standalone config file.
-Sep 06, 2019 7:22:45 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:23:17 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-T08-4/main.git (master)...
-Sep 06, 2019 7:22:45 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:23:17 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-T08-4/main.git (master)...
-Sep 06, 2019 7:22:45 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:23:17 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-T08-4/main.git (master)...
-Sep 06, 2019 7:22:50 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:23:22 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-T08-4/main.git (master) completed!
-Sep 06, 2019 7:22:50 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:22 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-T09-2/main.git to complete...
-Sep 06, 2019 7:22:50 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:22 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-T09-2/main.git completed!
-Sep 06, 2019 7:22:50 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:23:22 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-T11-1/main.git...
-Sep 06, 2019 7:22:50 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:23:22 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [10/13] Analyzing https://github.com/CS2113-AY1819S2-T09-2/main.git (master)...
-Sep 06, 2019 7:22:50 AM reposense.report.ReportGenerator updateRepoConfig
+Sep 07, 2019 7:23:22 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/CS2113-AY1819S2-T09-2/main.git (master) does not contain a standalone config file.
-Sep 06, 2019 7:22:50 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:23:22 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-T09-2/main.git (master)...
-Sep 06, 2019 7:22:51 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:23:23 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-T09-2/main.git (master)...
-Sep 06, 2019 7:22:51 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:23:23 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-T09-2/main.git (master)...
-Sep 06, 2019 7:22:55 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:23:27 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-T09-2/main.git (master) completed!
-Sep 06, 2019 7:22:55 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:27 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-T11-1/main.git to complete...
-Sep 06, 2019 7:22:55 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:27 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-T11-1/main.git completed!
-Sep 06, 2019 7:22:55 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:23:27 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-M11-3/main.git...
-Sep 06, 2019 7:22:55 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:23:27 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [11/13] Analyzing https://github.com/CS2113-AY1819S2-T11-1/main.git (master)...
-Sep 06, 2019 7:22:55 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:23:27 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-T11-1/main.git (master)...
-Sep 06, 2019 7:22:56 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:23:28 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-T11-1/main.git (master)...
-Sep 06, 2019 7:22:56 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:23:28 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-T11-1/main.git (master)...
-Sep 06, 2019 7:22:59 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:23:31 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-T11-1/main.git (master) completed!
-Sep 06, 2019 7:22:59 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:31 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-M11-3/main.git to complete...
-Sep 06, 2019 7:22:59 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:31 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-M11-3/main.git completed!
-Sep 06, 2019 7:22:59 AM reposense.report.RepoCloner spawnCloneProcess
+Sep 07, 2019 7:23:31 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CS2113-AY1819S2-T09-1/main.git...
-Sep 06, 2019 7:22:59 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:23:31 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [12/13] Analyzing https://github.com/CS2113-AY1819S2-M11-3/main.git (master)...
-Sep 06, 2019 7:22:59 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:23:31 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-M11-3/main.git (master)...
-Sep 06, 2019 7:22:59 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:23:31 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-M11-3/main.git (master)...
-Sep 06, 2019 7:22:59 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:23:31 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-M11-3/main.git (master)...
-Sep 06, 2019 7:23:05 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:23:36 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-M11-3/main.git (master) completed!
-Sep 06, 2019 7:23:05 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:36 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CS2113-AY1819S2-T09-1/main.git to complete...
-Sep 06, 2019 7:23:05 AM reposense.report.RepoCloner waitForCloneProcess
+Sep 07, 2019 7:23:36 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CS2113-AY1819S2-T09-1/main.git completed!
-Sep 06, 2019 7:23:05 AM reposense.report.ReportGenerator analyzeRepos
+Sep 07, 2019 7:23:36 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [13/13] Analyzing https://github.com/CS2113-AY1819S2-T09-1/main.git (master)...
-Sep 06, 2019 7:23:05 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Sep 07, 2019 7:23:37 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CS2113-AY1819S2-T09-1/main.git (master)...
-Sep 06, 2019 7:23:05 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Sep 07, 2019 7:23:37 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CS2113-AY1819S2-T09-1/main.git (master)...
-Sep 06, 2019 7:23:05 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Sep 07, 2019 7:23:37 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/CS2113-AY1819S2-T09-1/main.git (master)...
-Sep 06, 2019 7:23:14 AM reposense.report.ReportGenerator analyzeRepo
+Sep 07, 2019 7:23:46 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CS2113-AY1819S2-T09-1/main.git (master) completed!
-Sep 06, 2019 7:23:14 AM reposense.report.ReportGenerator generateReposReport
+Sep 07, 2019 7:23:46 AM reposense.report.ReportGenerator generateReposReport
 INFO: The report is generated at /home/travis/build/nusCS2113-AY1819S2/dashboard-beta/reposense-report
