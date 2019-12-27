@@ -40,10 +40,10 @@ window.vAuthorship = {
       totalLineCount: '',
       totalBlankLineCount: '',
       filesSortType: 'lineOfCode',
-      toReverseSortFiles: true,
+      toReverseSortFiles: false,
       activeFilesCount: 0,
       filterSearch: '*',
-      sortingFunction: (a, b) => -1 * window.comparator(filesSortDict.lineOfCode)(a, b),
+      sortingFunction: window.comparator(filesSortDict.lineOfCode),
       isSearchBar: false,
       isCheckBoxes: true,
     };
