@@ -1,0 +1,3938 @@
+{
+  "authorDailyContributionsMap": {
+    "swalahlah": [
+      {
+        "insertions": 37,
+        "deletions": 43,
+        "date": "2019-02-22",
+        "commitResults": [
+          {
+            "hash": "ff0043310094b29b83d8ea307c3d0cc08ffa16b0",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 19
+          },
+          {
+            "hash": "fef933dcd8a98a0be8fec3ce5cd0622607f1119b",
+            "messageTitle": "Add files via upload",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "a08d924efb8058b99acba2eac2d706c89fa47ae8",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "0406c7ec9f83299e6fb9a2838f3102d7b4ea286a",
+            "messageTitle": "Uploaded png format",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "2626ae17f1c47d0839285bada5e692383ae4d1b4",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "a31525624eee6e13a89fdd968520d8bddf51f855",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "e3e3efb62bb3af4fcf4e06344f6a1ded014f9f75",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7189f5bd88a91fbf51b45dfeaf834278e7267fa0",
+            "messageTitle": "Update ContactUs.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f1f342009c0fcc2a97fd869f0d53ddd14b7583a2",
+            "messageTitle": "Update ContactUs.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 21,
+        "deletions": 22,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "e5518736f20bf44083973f3abf240f96bdfca2d3",
+            "messageTitle": "Updates on aboutus",
+            "messageBody": "Updated Roles and Responsibilities. Added Jeremy Picture\n",
+            "insertions": 13,
+            "deletions": 14
+          },
+          {
+            "hash": "85a3cdfaa48cd86867d711915891cf54db776b6d",
+            "messageTitle": "Small syntax error fix",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "cc979ea942a99b35f256bce61465893d49760aad",
+            "messageTitle": "Minor Edits",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 601,
+        "deletions": 13,
+        "date": "2019-03-05",
+        "commitResults": [
+          {
+            "hash": "c89aa710c78bcf60618c710f113f8a53c1339855",
+            "messageTitle": "Added AddVolunteer",
+            "messageBody": "",
+            "insertions": 594,
+            "deletions": 6
+          },
+          {
+            "hash": "5a51e8815013edf0643ac23a77ec02f80fd7469e",
+            "messageTitle": "Update AboutUs",
+            "messageBody": "Edited names and format\n",
+            "insertions": 7,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "0fd8560395bb7502071fd5343bd92c4a99dd0fc8",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1126,
+        "deletions": 1050,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "18ac207a3f9533bbc2f2c068c3e45304f5c8d439",
+            "messageTitle": "Add space to line 142",
+            "messageBody": "For Commit\n",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "0a52eb8b15d403bd4788fa0c415f7bf4520e6e64",
+            "messageTitle": "Remove Person, Replaced with Volunteer Class",
+            "messageBody": "Incomplete for tests\n",
+            "insertions": 1125,
+            "deletions": 1050
+          }
+        ]
+      },
+      {
+        "insertions": 2018,
+        "deletions": 1892,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "801a2afd913c1e74b0b93ff8791863c619c941a5",
+            "messageTitle": "Update V1.2",
+            "messageBody": "Finished Commands and fix most test files issues\n",
+            "insertions": 764,
+            "deletions": 644
+          },
+          {
+            "hash": "598db2c2004061cad2bc34ed51b907cfcfc0cc48",
+            "messageTitle": "Fixed some test issues",
+            "messageBody": "",
+            "insertions": 1219,
+            "deletions": 1213
+          },
+          {
+            "hash": "2ea20bca7dc5e983eebe02d9a60a0f747cf2edd1",
+            "messageTitle": "More test fixes",
+            "messageBody": "",
+            "insertions": 35,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 88,
+        "deletions": 1325,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "dc2f6f0a14a412c3e304406dc8d8a34921d2d6f0",
+            "messageTitle": "Fixed test Files",
+            "messageBody": "Can build alr\n",
+            "insertions": 29,
+            "deletions": 17
+          },
+          {
+            "hash": "e42ecebda33016623695887dd264649dc172eaaa",
+            "messageTitle": "Removed Person",
+            "messageBody": "Please Test Run\n",
+            "insertions": 59,
+            "deletions": 1308
+          }
+        ]
+      },
+      {
+        "insertions": 9706,
+        "deletions": 943,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "b21d02f07a7929f2ed11e474d59fd8f1282e5820",
+            "messageTitle": "basic volunteer commands w/o tests, to test",
+            "messageBody": "",
+            "insertions": 9437,
+            "deletions": 675
+          },
+          {
+            "hash": "aa01435be57a39df64f2f0f73405949a11837884",
+            "messageTitle": "updated AddressbookParser",
+            "messageBody": "",
+            "insertions": 264,
+            "deletions": 87
+          },
+          {
+            "hash": "5fd1980eb9826c406bd1c2291e724e47b0ced9fb",
+            "messageTitle": "removed VolunteerUtil and EditVolunteerDescriptor for merging",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 172
+          },
+          {
+            "hash": "7ba417cace6caba6d33ba7c628fd716161ba5ae3",
+            "messageTitle": "updated labels for parser",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 679,
+        "deletions": 3954,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "262c089f2d97992681e6ad5e9beae4615d9eb754",
+            "messageTitle": "update fix mapObject Issue",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 26
+          },
+          {
+            "hash": "16cf34a7d66bebfbd49ec616bef36bd703a788e6",
+            "messageTitle": "fixed blank space",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c126ac04aae5e79623ba2aae6ff9d3c3d8e51b2c",
+            "messageTitle": "removed previous commit test cases",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 3252
+          },
+          {
+            "hash": "bed0d9ed4030382cee3ba2d0258ae5bf96f4ab0d",
+            "messageTitle": "fixed trailing whitespaces and newline at EOF",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "6d4a5f11f3f41ba6f420f320653070e77a3c150d",
+            "messageTitle": "changed style to travis description, i.e. Dietary_preference -\u003e DietaryPreference",
+            "messageBody": "",
+            "insertions": 299,
+            "deletions": 263
+          },
+          {
+            "hash": "bc0479a13e146aebe61f93210b32e239e603286f",
+            "messageTitle": "fixed trailing whitespace",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9c36ca5af4c4b95a162b473068bc15c0ba46f3f0",
+            "messageTitle": "fixed trailing whitespace:",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "ccb11b72330a4fb1be16e2a2c987881d9c7b77d2",
+            "messageTitle": "fixed trailing whitespace",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2e75d7bffead233ec99a065ff6b32c6f1c33e0c4",
+            "messageTitle": "fixing travis checkstyle",
+            "messageBody": "",
+            "insertions": 240,
+            "deletions": 206
+          },
+          {
+            "hash": "e1a6241d58f5e36df2b4626d789a0940fd42e998",
+            "messageTitle": "Fixed coding style except for Map Commands",
+            "messageBody": "",
+            "insertions": 127,
+            "deletions": 195
+          }
+        ]
+      },
+      {
+        "insertions": 15,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "deda962f28a6c8639269ca91a47cc22ae9fa01c9",
+            "messageTitle": "updated VolunteerCard",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 599,
+        "deletions": 271,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "76c9f770b75b26db1a7bdf9632a0c98654b853e2",
+            "messageTitle": "Fixed Volunteer Functions",
+            "messageBody": "",
+            "insertions": 61,
+            "deletions": 71
+          },
+          {
+            "hash": "8095051e5a68f2ef9d25b9aaeab5fe424d878657",
+            "messageTitle": "updated UI part for volunteer",
+            "messageBody": "",
+            "insertions": 56,
+            "deletions": 167
+          },
+          {
+            "hash": "d07c5e5884c4dace85d873506f05e7f8af17066c",
+            "messageTitle": "updated ui files",
+            "messageBody": "",
+            "insertions": 472,
+            "deletions": 27
+          },
+          {
+            "hash": "faf5fc0879854027bf1440e179e816771be30fbf",
+            "messageTitle": "set optional for dietary preference and medical condition",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 327,
+        "deletions": 67,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "3035b61d41ddbd0ff66267f0111c90934ff40168",
+            "messageTitle": "added gender and race:",
+            "messageBody": "",
+            "insertions": 327,
+            "deletions": 67
+          }
+        ]
+      },
+      {
+        "insertions": 209,
+        "deletions": 90,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "a20d03dd0f1188fbb1bc49f65cb9449a78bb2784",
+            "messageTitle": "updated user guide",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 12
+          },
+          {
+            "hash": "34cc7fd1b1c606b14dad34b378c4a051523dd7d6",
+            "messageTitle": "changes to example addVolunteer",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "cbf394cf7e5dddf3dd24922fb257843b734172cf",
+            "messageTitle": "fixed travis errors",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "8766655fd1c9e4469e3e09ff4bd2a5560b820c6c",
+            "messageTitle": "newline at EOF Travis fix",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a345f8c486a00819a74bc1dbd53397647655f37e",
+            "messageTitle": "Create Zander.adoc",
+            "messageBody": "",
+            "insertions": 58,
+            "deletions": 0
+          },
+          {
+            "hash": "659721f810e0f8e2cbadf28e9834848c7c456d6d",
+            "messageTitle": "Rename Zander.adoc to Zhuhui.adoc",
+            "messageBody": "",
+            "insertions": 58,
+            "deletions": 0
+          },
+          {
+            "hash": "2688f8be12172b7c7104d78ede63b6044e3bf52b",
+            "messageTitle": "Update Zhuhui.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e084e99f8b27d1b05fcb71d843dc45c5ca8264ad",
+            "messageTitle": "Delete Zander.adoc",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 58
+          },
+          {
+            "hash": "58363adb2ad7048baa6f8e983432d01f3d0456fe",
+            "messageTitle": "Create Huu",
+            "messageBody": "",
+            "insertions": 57,
+            "deletions": 0
+          },
+          {
+            "hash": "318557c612111e94f59b228809acb0c6dd50269a",
+            "messageTitle": "Update Zhuhui.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "451dfbd89b318dbe2fd2aee5086faf9dcf47ab7c",
+            "messageTitle": "Rename Huu to Huu.adoc",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 175,
+        "deletions": 60,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "aeca2bfb2570526ac26cda2cdacce58b8c552cc5",
+            "messageTitle": "Create Zander.adoc",
+            "messageBody": "",
+            "insertions": 58,
+            "deletions": 0
+          },
+          {
+            "hash": "d0513768a2ddcd867886d23b6a7425363c8ddf53",
+            "messageTitle": "Rename Zander.adoc to Zhuhui.adoc",
+            "messageBody": "",
+            "insertions": 58,
+            "deletions": 0
+          },
+          {
+            "hash": "c12aa60017cb22ff2cad3ceadc887eb66f650b2c",
+            "messageTitle": "Update Zhuhui.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "35d286ec08ac2154752144fd6608851e03b6ec8a",
+            "messageTitle": "Delete Zander.adoc",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 58
+          },
+          {
+            "hash": "f38fb62606cc6c58efcb55e5418173ff8472578c",
+            "messageTitle": "Create Huu",
+            "messageBody": "",
+            "insertions": 57,
+            "deletions": 0
+          },
+          {
+            "hash": "e73749024b3371c3616117215c340a4e637a1052",
+            "messageTitle": "Update Zhuhui.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d04acb47e40969b727c4ef6010a2f57c6656bba2",
+            "messageTitle": "Rename Huu to Huu.adoc",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 5,
+        "deletions": 5,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "b86b0c8471016ec075b83eeeb50a7bb0aaaa3a7d",
+            "messageTitle": "Included portfolio links",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "4ce8c67ad34e18c33005abc1b57ad8a9c4f6c6b9",
+            "messageTitle": "Updated Email Address",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 23,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "e9b51964e75dc5acf9a6d96a4be2b349ad606d37",
+            "messageTitle": "Update Zhuhui.adoc",
+            "messageBody": "",
+            "insertions": 43,
+            "deletions": 13
+          },
+          {
+            "hash": "19966ef65b0ba256cc579079b9847aa94e28c21e",
+            "messageTitle": "Update Zhuhui.adoc",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 6
+          },
+          {
+            "hash": "ed479f919ac04add673018ee24bef94462488387",
+            "messageTitle": "Add files via upload",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "bd0ce9b060f973d32e18646242247cf6fb3be414",
+            "messageTitle": "Update Zhuhui.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6e060ba2e14eaf00d6b440618fe47480aadaaf54",
+            "messageTitle": "Update Zhuhui.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a84af4eaae3c8a1417dd6d6a6b0a690070312ee4",
+            "messageTitle": "Update Zhuhui.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "709caca737f841c1c4b00534b1d566cfe8491994",
+            "messageTitle": "Updated Jeremy \u0027s Link",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 48,
+        "deletions": 40,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "d3f2ba16c01fbbb88881a772d0bf08faaa2cc5d0",
+            "messageTitle": "Update Zhuhui.adoc",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "e5796d7d10ab44c39db0f25a375bf3935e8103af",
+            "messageTitle": "Uploaded Image files",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "0e6c62ce3ef2cbac0719d0142f88ad1f7ee1845b",
+            "messageTitle": "Update DeveloperGuide.adoc",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b8106685ab6e1ff692f6ec14c1a93a0a424e4580",
+            "messageTitle": "update instructions",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 3
+          },
+          {
+            "hash": "9454555f3f5c548eca113003998990dbd3fcae36",
+            "messageTitle": "Updated Links",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "44ecae442b289fdb9596afb3be039baf30ee77b2",
+            "messageTitle": "fixed UG",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 9
+          },
+          {
+            "hash": "0a49bec054f7b983dd60d4103985054e4f6dabe8",
+            "messageTitle": "updated UG",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "4d6f41aa4b5e14f3979789721b8e5c0fc46a6466",
+            "messageTitle": "UG instructions",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8ab751c6772c6aed0148badc50a2842db8a31579",
+            "messageTitle": "update ppp",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "ee8dc5f85d163f4bdeacf57a49ea9165203006d0",
+            "messageTitle": "final pls",
+            "messageBody": "",
+            "insertions": 20,
+            "deletions": 15
+          },
+          {
+            "hash": "a0f6dab72f2922712fa049bdef144c3f5a39b265",
+            "messageTitle": "final pls",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 4
+          },
+          {
+            "hash": "4d580584a3f72d5786805bfe9715d926c319ba0b",
+            "messageTitle": "final pls checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 20,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "d139e80a4ba203b0feebf1d976233813479e61c6",
+            "messageTitle": "chk:",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "558e02877495c0e3db094c58eccd451d52078060",
+            "messageTitle": "merge quins",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "649d4e3d7fc8afbaa239577c67bca0eecc281400",
+            "messageTitle": "merge quins",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "8996327bd8e4bdd63e7e1a92309ca29b03f267a5",
+            "messageTitle": "merge quins",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b57768556e17ea2784608968a55b1ee2015a154e",
+            "messageTitle": "PPP bugs fix attempt",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 11
+          },
+          {
+            "hash": "e4df99ffaa463f3124cf40235e26e9afd220ba89",
+            "messageTitle": "PPP bug fix",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "quinnzzzzz": [
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-02-21",
+        "commitResults": [
+          {
+            "hash": "b11b25cef3850a9bf6e2d92cee89441aef389433",
+            "messageTitle": "Update AboutUs.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 94,
+        "deletions": 34,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "ff27ca8f5c1374680c95262d07794fb7909600d2",
+            "messageTitle": "Updated with filter and mapping function",
+            "messageBody": "",
+            "insertions": 48,
+            "deletions": 0
+          },
+          {
+            "hash": "98c5f5b8f1ed0d4e96240fc982c813255ab741e7",
+            "messageTitle": "UserGuide V1.1",
+            "messageBody": "",
+            "insertions": 44,
+            "deletions": 32
+          },
+          {
+            "hash": "6b19e468dab960139a7c3e25cd850fa5f2ac894a",
+            "messageTitle": "UserGuide V1.1 updated",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1b32450353bba4c560b508909a2c8f65f3c552a0",
+            "messageTitle": "UserGuide v1.1 bugs fixed",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 331,
+        "deletions": 18,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "cd464d55fbde0c0525acca4114bc2caf09bac92a",
+            "messageTitle": "AddProject Command added for VolunCHeer V1.1",
+            "messageBody": "",
+            "insertions": 304,
+            "deletions": 12
+          },
+          {
+            "hash": "b262a143c526db0d60b26900ebc4eec407dc4238",
+            "messageTitle": "Some bugs updated",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 326,
+        "deletions": 16,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "4cabfa0e421adde62b5e07d7aaf23db592030288",
+            "messageTitle": "DeleteProjectCommand added",
+            "messageBody": "",
+            "insertions": 326,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 42,
+        "deletions": 32,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "67e30acd5509c9e13fdd467691c47d7f8cdc958a",
+            "messageTitle": "v1.2 update file",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 8
+          },
+          {
+            "hash": "78ce88a4a3257ffb8759fe6ea894cb5aaef8a57d",
+            "messageTitle": "Some bugs fixed",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 20
+          },
+          {
+            "hash": "3cdd1695c752fafad2921b30c7ebb7c24e694fcb",
+            "messageTitle": "Merge branch \u0027master\u0027 of https://github.com/cs2113-ay1819s2-t08-1/main",
+            "messageBody": "# Conflicts:\n#\tsrc/main/java/seedu/address/model/AddressBook.java\n#\tsrc/main/java/seedu/address/model/Model.java\n#\tsrc/main/java/seedu/address/model/ModelManager.java\n#\tsrc/main/java/seedu/address/model/project/Date.java\n#\tsrc/main/java/seedu/address/model/project/Project.java\n",
+            "insertions": 16,
+            "deletions": 1
+          },
+          {
+            "hash": "cce0fb1b640e6dbd6aacd3b3b32c1e9f41fba6c5",
+            "messageTitle": "V1.2 debug",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 690,
+        "deletions": 223,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "4cea0f5490ceac638a8b4fa8278e0e75632eeea7",
+            "messageTitle": "AssignBeneficiaryCommand added",
+            "messageBody": "",
+            "insertions": 561,
+            "deletions": 148
+          },
+          {
+            "hash": "333cc69806cb739b9ee9c01e8e5ca92ddfe4ac39",
+            "messageTitle": "added library files for CalenderFX",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "d6c4922e7745b884546658ae699b02bf4c7e6057",
+            "messageTitle": "AssignBeneficiaryParser added",
+            "messageBody": "",
+            "insertions": 126,
+            "deletions": 72
+          },
+          {
+            "hash": "9941b28dec3a7fb35ab209755e5d7368ba9465a1",
+            "messageTitle": "added library files for CalenderFX",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "744dcf6692884cf03eeb3566f80299bb0fad0fe1",
+            "messageTitle": "added library files for CalenderFX",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 251,
+        "deletions": 84,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "8587f4e39e4e2ea5d3635e028af27c418c9488a2",
+            "messageTitle": "Added EventsCenter to control the events occurence Made AssignBeneficiaryCommand undoable New Class undoableCommand extends from Command to track previous addressbook status when undoCommand is give ModelManager adjusted",
+            "messageBody": "",
+            "insertions": 251,
+            "deletions": 84
+          }
+        ]
+      },
+      {
+        "insertions": 196,
+        "deletions": 413,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "fb719c5ac1fcd6d7c4db8245df678c17a9465a5c",
+            "messageTitle": "Bugs Fixed",
+            "messageBody": "Build success with Assign Beneficiary, still requires testing",
+            "insertions": 142,
+            "deletions": 211
+          },
+          {
+            "hash": "774a2b2d8aa9c652d97cb34f7b0d344f3f88adde",
+            "messageTitle": "Fixed some unrelated files + set up projectPanel for ui",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 176
+          },
+          {
+            "hash": "35c7b449ae7958a2296ab9ae7b152d3db455af1b",
+            "messageTitle": "ProjectList UI Added",
+            "messageBody": "",
+            "insertions": 31,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 228,
+        "deletions": 59,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "768d9b4043fdced9a3e121c627f4277ea367d9bc",
+            "messageTitle": "AssignBeneficiaryCommand edited isComplete status update to project class Still need to refine",
+            "messageBody": "",
+            "insertions": 228,
+            "deletions": 59
+          }
+        ]
+      },
+      {
+        "insertions": 253,
+        "deletions": 60,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "1da955f540b8527df269d46c9446788d214c5091",
+            "messageTitle": "Storage problem",
+            "messageBody": "Added Json related property files",
+            "insertions": 167,
+            "deletions": 28
+          },
+          {
+            "hash": "504fa49bff421d5810815d4754e84aeb630be07c",
+            "messageTitle": "Adjust AssignBeneficiary Command",
+            "messageBody": "",
+            "insertions": 20,
+            "deletions": 14
+          },
+          {
+            "hash": "9420673da1e60473197e874880eb260e6acc8258",
+            "messageTitle": "UserGuide updated for v1.3",
+            "messageBody": "",
+            "insertions": 65,
+            "deletions": 17
+          },
+          {
+            "hash": "a1875daad65f53af8d56d460f49a090e1aec1d77",
+            "messageTitle": "minor fix",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 257,
+        "deletions": 140,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "864a2b5b4d350f1a32eb8e6fe805c556d323a0fd",
+            "messageTitle": "UserGuide for V1.3",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "042b4f98d0effa7cc9f2d9d5e3848b3eb08d54aa",
+            "messageTitle": "Assign Beneficiary Command adjustment Project Builder added",
+            "messageBody": "",
+            "insertions": 186,
+            "deletions": 86
+          },
+          {
+            "hash": "d4658a7fd28c71b79915364e85cbed92b5389176",
+            "messageTitle": "Assign Beneficiary Command tested - working (UI set)",
+            "messageBody": "",
+            "insertions": 60,
+            "deletions": 23
+          },
+          {
+            "hash": "5c885092e65f221e48e1c98d9d64ac6a6dc266a1",
+            "messageTitle": "v1.3",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 29
+          }
+        ]
+      },
+      {
+        "insertions": 32,
+        "deletions": 43,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "9dae3cd3ed13effb3b6ba10c2736bf3dde87a4ae",
+            "messageTitle": "Complete project command implemented",
+            "messageBody": "",
+            "insertions": 32,
+            "deletions": 43
+          }
+        ]
+      },
+      {
+        "insertions": 158,
+        "deletions": 46,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "1e5ab709ef7398ce98c0ce9d6eecc36cfe7aeb82",
+            "messageTitle": "Complete command + UI implemented",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 15
+          },
+          {
+            "hash": "f3505b341998f210cc2f1c69e909bf809b8ff121",
+            "messageTitle": "Complete Command + UI Implemented",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1019fe22231d3c6f02e5198b0a4c8037f6805f85",
+            "messageTitle": "New Documents added",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "9ab891aa40f063aca86c3b34fee997109fbbbee1",
+            "messageTitle": "Project portfolio document + UG updated for v1.3.1",
+            "messageBody": "",
+            "insertions": 118,
+            "deletions": 6
+          },
+          {
+            "hash": "6ae788ffeeaf2c23544454039f7564fd8efdf02a",
+            "messageTitle": "Fixed Travis Errors",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 6
+          },
+          {
+            "hash": "a4c2eb10005cde4735a06de91011fd523bd60ade",
+            "messageTitle": "debug",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "17e54d48db2209c25c99bfa31875885eeabdb1ae",
+            "messageTitle": "Travis check",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 14
+          },
+          {
+            "hash": "2b1e737a1fb25a7ea391c97df63fdf7fcd20cb05",
+            "messageTitle": "Fix the Invalid Command error for CompleteCommand",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 324,
+        "deletions": 93,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "f4b39b7d85014a824a5ed3b56016af0a637ef452",
+            "messageTitle": "AssignVolunteerCommand added",
+            "messageBody": "AssignVolunteerCommand tested working, UI not yet implemented",
+            "insertions": 303,
+            "deletions": 18
+          },
+          {
+            "hash": "e50792c1a55ec36b721e544719ae57d5d280ebb1",
+            "messageTitle": "Minor bugs fixed",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 12
+          },
+          {
+            "hash": "82cb2fab689b8972ec8ab3877c79a486f9fd4c1d",
+            "messageTitle": "fix RepoSense",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "513b237b08b926de6a66b32aa2dd6ef89bab027a",
+            "messageTitle": "deleteFile",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "48c6c1d7f230455e7e861de601e7f8abdd957bdd",
+            "messageTitle": "Fixed conflicts",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 61
+          }
+        ]
+      },
+      {
+        "insertions": 172,
+        "deletions": 104,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "a582a5223a022f84787463938ce8feccf6f90f7a",
+            "messageTitle": "Merge with Jeremy Successful",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 5
+          },
+          {
+            "hash": "84fb8f773acb5803eeaa641fdf107a1556777250",
+            "messageTitle": "Set up date validation for addProject Command",
+            "messageBody": "",
+            "insertions": 98,
+            "deletions": 24
+          },
+          {
+            "hash": "5fb211c802bfc2702eda624c4379d1ad982b3a77",
+            "messageTitle": "Travis checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4429831e9578815771ef0be8486a89ca3de87386",
+            "messageTitle": "Travis Checkstyle",
+            "messageBody": "",
+            "insertions": 54,
+            "deletions": 66
+          },
+          {
+            "hash": "69358c874355e20fd3beb36f20de6c0a4e73bad3",
+            "messageTitle": "Travis Checkstyle",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "eb1063b6ad2770d2d0df2c0884b9e847f3c05cb7",
+            "messageTitle": "author",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 497,
+        "deletions": 101,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "031d17559bc1db385fab657c4639ed465cdd4830",
+            "messageTitle": "Added CheerTheme and Track volunteers assigned on ui",
+            "messageBody": "",
+            "insertions": 406,
+            "deletions": 67
+          },
+          {
+            "hash": "64a04a7e4e6376d87d69f527b414a9acbdcc60bd",
+            "messageTitle": "config file",
+            "messageBody": "",
+            "insertions": 28,
+            "deletions": 0
+          },
+          {
+            "hash": "979c0d936a6f3c9828979d2e8958919697b97282",
+            "messageTitle": "config file for zander",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "8fd44fdae188c9c40cba643f7b986d9027f81de6",
+            "messageTitle": "config file for reposense",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "905839cc2b5e0a39d0c6cba9a7aa6922bab08c49",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ba8cff1c94daed7ebb91237a7c634da5d0768de9",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 24,
+            "deletions": 26
+          },
+          {
+            "hash": "ebc12c70bda77e2236e492c0e3eddd2f4f4944aa",
+            "messageTitle": "Project sorted by date",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 0
+          },
+          {
+            "hash": "c20da6106c74ac91023960bdcec4c1fe76dcffec",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 1473,
+        "deletions": 2378,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "b53a7bfd6bbfbea06d4e41ee8a7cbfc50e1d0154",
+            "messageTitle": "Cleaned up person related commands + code cleaning",
+            "messageBody": "Deleted files related to person class, commented off some test files to build. ",
+            "insertions": 1473,
+            "deletions": 2378
+          }
+        ]
+      },
+      {
+        "insertions": 1319,
+        "deletions": 4003,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "c0622ebe7cfa9da1773f2118bea9b228bccc510a",
+            "messageTitle": "Test Cases for Project",
+            "messageBody": "",
+            "insertions": 780,
+            "deletions": 1
+          },
+          {
+            "hash": "d512910b86ce52edf4ad4ac253bbf05d41c373b3",
+            "messageTitle": "Cleaned up person class + test files for project model",
+            "messageBody": "",
+            "insertions": 319,
+            "deletions": 351
+          },
+          {
+            "hash": "d235ec5b2913f851e9d34d0ad35cb727bd681ca7",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 480
+          },
+          {
+            "hash": "8cdce418dfe125a277dbf71b3019add2e406fdb9",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "cedb2a3a0b9578816fc3317776ace3501013f823",
+            "messageTitle": "Fix formatting and clean up code",
+            "messageBody": "",
+            "insertions": 212,
+            "deletions": 3168
+          }
+        ]
+      },
+      {
+        "insertions": 5052,
+        "deletions": 3019,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "37844f214b70f6ac3a0a8afbf55dd345cc6a3668",
+            "messageTitle": "Before Merge Jeremy",
+            "messageBody": "",
+            "insertions": 211,
+            "deletions": 362
+          },
+          {
+            "hash": "8af5c8318c4767b275575336a8c28e72f0a09cef",
+            "messageTitle": "Test Files for ProjectCommand",
+            "messageBody": "",
+            "insertions": 496,
+            "deletions": 14
+          },
+          {
+            "hash": "642e90cc2728cfd2ed77d867da959d328479a370",
+            "messageTitle": "Fixing test cases",
+            "messageBody": "",
+            "insertions": 44,
+            "deletions": 82
+          },
+          {
+            "hash": "25f8137d680e63d5d35599d8fe04f25b0a5a63e0",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 10
+          },
+          {
+            "hash": "a6afb739fee6a3333d1a52c34513723374914ebf",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "387b08d6c03abf5878071b2289e09c199d48fa1f",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 115,
+            "deletions": 165
+          },
+          {
+            "hash": "d33f8ac6c53fdbe198d2c3fe2e9a5f3e702e2940",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 79,
+            "deletions": 58
+          },
+          {
+            "hash": "e7fd6115803991e3dc48f738ceb55a8b9ac64ccf",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "aeec96ec040432cc65988f92bf155b9a026bd3dd",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1bd657df8435af79441cbc7b778f33b2cd0cb565",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "e1c5d1b2b932336087a5bb740798a25b1f9aff2d",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a8dc7ffd78711aa1b658465638d9240b698bb691",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 17
+          },
+          {
+            "hash": "7e97fd1a4ea1bb2ee1d1c0aa2365646dcb891b27",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 12
+          },
+          {
+            "hash": "ac42386a70ae32284b74a2865def8782f7546ded",
+            "messageTitle": "Fix ParserUtilTest",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "12ba917e614ec3c5890449f530f21184163b892f",
+            "messageTitle": "Update on UserGuide \u0026 DeveloperGuide",
+            "messageBody": "Image not attached yet",
+            "insertions": 141,
+            "deletions": 63
+          },
+          {
+            "hash": "23530074d311315539bb7dda8c671f97c6714956",
+            "messageTitle": "Update on UG",
+            "messageBody": "",
+            "insertions": 32,
+            "deletions": 15
+          },
+          {
+            "hash": "ddae212884228dc7190307aa03b1867c65b90658",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2f54d7282680085e4da8b025003d5d75a0e3338e",
+            "messageTitle": "VersionedABTest edit",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 12
+          },
+          {
+            "hash": "b8ae1532748d9807283296d5205be32d1a2f5898",
+            "messageTitle": "v1.4 All test pass",
+            "messageBody": "",
+            "insertions": 105,
+            "deletions": 21
+          },
+          {
+            "hash": "8e8610128b6c6bff80d7b371dcbe9a8f084e5202",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bcff910a9dde64989c3b9802166bffd05e567633",
+            "messageTitle": "images added",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "edffbda0f16aab726cb08f911e642cdce998c2dd",
+            "messageTitle": "Added diagram",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "9c0fd555dd024bfb90bc777da8469acacd00a057",
+            "messageTitle": "Image bugs",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "a4a574c00609d587bb22504f4a8fc8d0220d6ac5",
+            "messageTitle": "image bugs",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "ff31edce0756786b941d12775e0f646402182c57",
+            "messageTitle": "AddedImages",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "9347f4fec3408446eccae5050ee1fbbfeecb73be",
+            "messageTitle": "update on PPP",
+            "messageBody": "",
+            "insertions": 48,
+            "deletions": 67
+          },
+          {
+            "hash": "adc986582f43808af03c093e1c3ea06abf3abb5e",
+            "messageTitle": "Added Volunteer Test Files + update on doc",
+            "messageBody": "",
+            "insertions": 1882,
+            "deletions": 17
+          },
+          {
+            "hash": "2cd156e278dd4df70ae261e7ebfd5eb6a544f1c9",
+            "messageTitle": "update PPP",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "105068e877de69925e32758d0e67c90fdb86cd5e",
+            "messageTitle": "Final checks",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 565
+          },
+          {
+            "hash": "ff4b03ab3a72e9743d43fffdde85562b4b140f69",
+            "messageTitle": "Adjustments for v1.4 release",
+            "messageBody": "",
+            "insertions": 1546,
+            "deletions": 1468
+          },
+          {
+            "hash": "e485dd943cf09839d4a631f4bcfe1724e4a4c7f6",
+            "messageTitle": "Add in Zander Login feature",
+            "messageBody": "",
+            "insertions": 172,
+            "deletions": 0
+          },
+          {
+            "hash": "331e75eec2ac813f3e92f5ccc57099b38afec6ee",
+            "messageTitle": "Merge Zander",
+            "messageBody": "",
+            "insertions": 31,
+            "deletions": 10
+          },
+          {
+            "hash": "845016e21c3b14aa1b3a9cc46973de3474587380",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 8
+          },
+          {
+            "hash": "599c0259b43c0c4a3b573656569c3b190fa63620",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "e519bb297a474f53169e597eb7fd2be0e99f55a5",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "341a6ddc8bb3de92eed0d19a67614794ba335b06",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "a41592309f30907a7a6787c2c71b1fc1677b595d",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 1011,
+        "deletions": 1028,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "3b89082390732b3fddb638141a70eb5c59cf72de",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "95f0e2bd0dc72207b3b1249122495abab207ad59",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "28392d6924b83d66f7d88a8cbf65b6db2ee5c9ca",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "83ba25c2e89ef43993cc2d86b14631247b824a64",
+            "messageTitle": "PPP",
+            "messageBody": "",
+            "insertions": 86,
+            "deletions": 74
+          },
+          {
+            "hash": "e3dfe2379ad9e02b7ffbf1ca17f95da7ca195155",
+            "messageTitle": "Documentations",
+            "messageBody": "",
+            "insertions": 155,
+            "deletions": 81
+          },
+          {
+            "hash": "2c401a77915aef3af4a4585be080a26505a295d1",
+            "messageTitle": "v1.4 Documentation",
+            "messageBody": "",
+            "insertions": 245,
+            "deletions": 269
+          },
+          {
+            "hash": "dc6696aee762070684e5eeacfae1631397646d9c",
+            "messageTitle": "Documentation",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "70dac737ba55832291f9c98e00270059f12ef120",
+            "messageTitle": "PPP edits",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 17
+          },
+          {
+            "hash": "9bc4d4184a5a5140ba8aaa3e0d327c8009be2e5e",
+            "messageTitle": "PDF files added",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "13cf067f13caacafc8a2d6f1da95f075ae29778d",
+            "messageTitle": "DG remove",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "98896654c1416f0c8deaed0c56538d32e8b44bf9",
+            "messageTitle": "update documents",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "16199c5cd90414f80f9e9bf3dcd591e1f8bf4c80",
+            "messageTitle": "Documentation",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 19
+          },
+          {
+            "hash": "188dbe9694d05d559128bf6c2a3f8711c213a2d0",
+            "messageTitle": "documents",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "79c345e62a799248519348cfd5f9b35441b6211a",
+            "messageTitle": "Fix bugs on documents",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0a4693f906348c164be6a509f41ff0bf3b114534",
+            "messageTitle": "Checkstyle",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "19278b139205b6d067e63c05cac36f5e180969b1",
+            "messageTitle": "Documents",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "7731faeaba4737d7e24d2393741d94a097508e2e",
+            "messageTitle": "Edit some grammar mistakes",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 19
+          },
+          {
+            "hash": "3804f4b8eac935663d6e99db17475d45501e02ef",
+            "messageTitle": "pdf file generation",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "706c36c0a1a3cfb58f30f418b0ae368088defe46",
+            "messageTitle": "Spelling edits",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "96bc8fdd9fc1843493c08fa6c6b43ab9affe43d7",
+            "messageTitle": "DG pdf",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "e9092028cc81c0934b61e826881e1ac09089fc0b",
+            "messageTitle": "Update test files",
+            "messageBody": "",
+            "insertions": 444,
+            "deletions": 533
+          },
+          {
+            "hash": "3c6425be482e7e2543bbb2e126014a5120632142",
+            "messageTitle": "remove conflict",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "f95fd2315b6f2e4050cb6ea655433eb9a235e9a4",
+            "messageTitle": "zander adoc",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 2
+          },
+          {
+            "hash": "182ca0a6e8a48959bd9ec992f6d6a2e67212df72",
+            "messageTitle": "Zander document",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "838bcfbee1d8adb9c9ed84505e3b777a917b9727",
+            "messageTitle": "resolve conflict",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "aaa2a8b4302b7f73b8e942df69b1a55416ee24ac",
+            "messageTitle": "Zander PPP pdf",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      }
+    ],
+    "articstranger": [
+      {
+        "insertions": 2,
+        "deletions": 1,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "13c8d911f0562fad7edae9cc880604dac3fd2c06",
+            "messageTitle": "updated project description",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 17,
+        "deletions": 15,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "f60da110705b34fab636a6cc990a824e6304c4fe",
+            "messageTitle": "README.adoc: updated the travis build link and image.",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f945020582ec9058ae5269aa3f1a59f07605fd2a",
+            "messageTitle": "README.adoc: commented out non-travis badges",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f6f92ba3a298b8fdc0b9e53010de6dd2ed0c750a",
+            "messageTitle": "Ui.png: changed to a mockup of final product",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "7feee8fd4d5e82a656ff77e5cb9f59a8443ebbb6",
+            "messageTitle": "README.adoc: updated description and acknowledgements",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 8
+          },
+          {
+            "hash": "f8c306cdd11e11618871f8bd3e947ef1af731bf0",
+            "messageTitle": "README.adoc: added linebreak and fixed bulletpoints",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "5b590e887f32ddd9b9420fb675697c16ebfb00a3",
+            "messageTitle": "README.adoc: changed bulletpoints",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 53,
+        "deletions": 17,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "dbd22f8b6173458f1511902942cdf70ab7aca3fc",
+            "messageTitle": "CliSyntax:added new tags",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "9010b95744bfa9feb352b2085de2f6b71e245676",
+            "messageTitle": "MapCommand: created class and messages (non-functional)",
+            "messageBody": "",
+            "insertions": 39,
+            "deletions": 0
+          },
+          {
+            "hash": "7896e7d4309c8f9e598066eac03de50d58a5c856",
+            "messageTitle": "AddressBookParser: added case for MapCommand",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 13
+          },
+          {
+            "hash": "05b55b3dc726a82750bcb510430ebcae6505c11c",
+            "messageTitle": "MapCommand: fixed empty shell to not throw errors AddressBookParser: fixed calling of MapCommand to not throw errors",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 50,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "77a7014df8a36ad521c9653ac66e5f0c17e4ee75",
+            "messageTitle": "added MapCommandParser and MapObject",
+            "messageBody": "",
+            "insertions": 50,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 122,
+        "deletions": 31,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "319bc54b31473f85222f4c801c7f7fff9d9e13d3",
+            "messageTitle": "MapCommand.java: updated usage description and added message success string",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 6
+          },
+          {
+            "hash": "6263a15f9deeb4b77565b99a0d346a45a3bab77a",
+            "messageTitle": "MapObject: shifted location from address/logic/parser/ to address/model/",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 4
+          },
+          {
+            "hash": "ecd1f308b1f16190044bfc1503aa1030184578e5",
+            "messageTitle": "MapCommand: set to throw exception",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "ef19babe6518b0088fba18922e251114ad5f875b",
+            "messageTitle": "AddressBookParser: updated calling method for MapCommand MapCommandParser: added parseCriteria function",
+            "messageBody": "",
+            "insertions": 52,
+            "deletions": 9
+          },
+          {
+            "hash": "a4cdf4582994e806be015e43d3082612954600b5",
+            "messageTitle": "model.java: removed extra curly brace",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f08cea38be34020748298f0c79a7aa5781276253",
+            "messageTitle": "UserGuide: changed map command description and usage",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 7
+          },
+          {
+            "hash": "68f575762c8d53ed736b7daa470abfca26a752e1",
+            "messageTitle": "MapCommandParser: removed unnecessary imports",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "9e235e3d4ff9677ae7a0bc927d765675615f0eda",
+            "messageTitle": "DeveloperGuide: added documentation about mapping",
+            "messageBody": "",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "cd262c8b118619b7be578b15bfe29e792691be4f",
+            "messageTitle": "DeveloperGuide: fixed ending tag of map section",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 130,
+        "deletions": 14,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "ae140247db9e23bfb0cafe7d5f5986bd9c16ff8e",
+            "messageTitle": "Messages.java: added mapping success message",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "64941a937cb835b9d6f0431f46460858fde698c4",
+            "messageTitle": "MapCommand: updated with working functionality",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "f565924a38415e5579a2b8ff30828565a4106d97",
+            "messageTitle": "MapObject: added functions to access private variables",
+            "messageBody": "",
+            "insertions": 18,
+            "deletions": 1
+          },
+          {
+            "hash": "99c3d6313457300d1049587768af78b367146735",
+            "messageTitle": "Model and ModelManager: added helper functions for MapCommand",
+            "messageBody": "",
+            "insertions": 82,
+            "deletions": 0
+          },
+          {
+            "hash": "bab2b7408e739febe53098b8f56fcdd29e400d71",
+            "messageTitle": "Volunteer.java: added a points field for mapping",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "b4c2ce26b691982e19d23455b2f137a34a120603",
+            "messageTitle": "AddCommandTest: added overrides for MapCommand methods",
+            "messageBody": "",
+            "insertions": 21,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 295,
+        "deletions": 140,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "fd99e40ad8475e143c4193e2d8d4ba4bed077c34",
+            "messageTitle": "checkstyle formatting",
+            "messageBody": "",
+            "insertions": 183,
+            "deletions": 106
+          },
+          {
+            "hash": "d4e7f5f9f43e7adfe03498f41ed272b74fbd9c44",
+            "messageTitle": "more checkstyle fixes",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 8
+          },
+          {
+            "hash": "108d2b25b95844fbd6d322d12a906d68d06dbed0",
+            "messageTitle": "updated map command with input checks",
+            "messageBody": "",
+            "insertions": 65,
+            "deletions": 9
+          },
+          {
+            "hash": "108c38d14f98349b2b979dfc54ee5627bb2540e2",
+            "messageTitle": "extracted isValidInt method to ParserUtil",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 16
+          },
+          {
+            "hash": "4e7ab47fa04b4efde831a36571e22b71b6932478",
+            "messageTitle": "ModelManager: added sorting function(non functional)",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 38,
+        "deletions": 42,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "1c2a7e180b236498496c8cd07469b70d15c81e42",
+            "messageTitle": "SortCommandParser: deleted(obsolete)",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 9
+          },
+          {
+            "hash": "41ff674c0f5f26e7c3054354b1b79f20d5d5a57f",
+            "messageTitle": "SortCommand: fixed call to model/ModelManager AddressBookParser: changed to call SortCommand() directly Model and ModelManager: updated sortVolunteers method",
+            "messageBody": "",
+            "insertions": 38,
+            "deletions": 33
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "5196010f8688bcda34b61e185c10f2f36793665c",
+            "messageTitle": "UserGuide: updated map command",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f70e941864f6697b49e9d2645b233420c4cc60a6",
+            "messageTitle": "UserGuide: fixed some typos",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 36,
+        "deletions": 39,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "ead1a5a3c4c940c744b823b8810389982fbe54ee",
+            "messageTitle": "reworked sort command",
+            "messageBody": "",
+            "insertions": 36,
+            "deletions": 39
+          }
+        ]
+      },
+      {
+        "insertions": 47,
+        "deletions": 12,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "d2b5bcd386b4049d3288bd825b2e90eb85bd6073",
+            "messageTitle": "SortCommand fixed to work with UI checkstyle fixes",
+            "messageBody": "",
+            "insertions": 47,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "907e5cb5723094cf4424fb7d3d4b2a19ba25f37c",
+            "messageTitle": "testing|",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "5b0cbfc8086f8c8322ab0c113fa19827091f898e",
+            "messageTitle": "created ExportCommand and ExportCommandParser",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 601,
+        "deletions": 173,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "904cad20a8f4bfd90d5dcd480735d2f8a401ec1a",
+            "messageTitle": "renamed ExportCommand \u0026 ExportCommandParser to ExportVolunteerCommand \u0026 ExportVolunteerCommandParser",
+            "messageBody": "",
+            "insertions": 75,
+            "deletions": 8
+          },
+          {
+            "hash": "205271cfdd9c0a45e0e5c3fba68d89a36e861211",
+            "messageTitle": "implemented export volunteer command",
+            "messageBody": "",
+            "insertions": 204,
+            "deletions": 62
+          },
+          {
+            "hash": "db0228e3aae4fceb0bc58300a8f3ed96f9520cc2",
+            "messageTitle": "ExportVolunteerCommand debugging",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "c323875d0425aa37db468bd81de0dd26ca0da643",
+            "messageTitle": "checkstyle fixes",
+            "messageBody": "",
+            "insertions": 122,
+            "deletions": 83
+          },
+          {
+            "hash": "a00208bab1ab05907abc14d56250ae136cad15ca",
+            "messageTitle": "Created MapCommandTest",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "51975209db6df1f7f62aba8124689c4cb72cf2fc",
+            "messageTitle": "MapCommandTest fully implemented + miscellaneous changes",
+            "messageBody": "",
+            "insertions": 96,
+            "deletions": 10
+          },
+          {
+            "hash": "6babb8947fffeb64742fe46291e858e5c6b2feeb",
+            "messageTitle": "DeveloperGuide updated with filtered export section",
+            "messageBody": "",
+            "insertions": 89,
+            "deletions": 0
+          },
+          {
+            "hash": "3b0be1d8c3d0882c899b52e34e9a5848ee67c28f",
+            "messageTitle": "MapCommandTest checkstyle",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 429,
+        "deletions": 247,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "ae12de76edbd1413c80145eb32427a3790935b72",
+            "messageTitle": "MapCommandParserTest added + reposense tags",
+            "messageBody": "",
+            "insertions": 25,
+            "deletions": 0
+          },
+          {
+            "hash": "94a89aacf712506db3b77a66095b78765d9c7827",
+            "messageTitle": "DG updated with considerations for filtered export",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 0
+          },
+          {
+            "hash": "2bbf3cd1bd4be262abb18a7d8a7e3d00861c2359",
+            "messageTitle": "DG typo fixed + UG intro updated",
+            "messageBody": "",
+            "insertions": 21,
+            "deletions": 17
+          },
+          {
+            "hash": "d0cf8e97e7c2bc7f4daa73253bbfe8e5337eeb81",
+            "messageTitle": "icon testing",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f4f7b5c1ae4a1a2a75169707a4d3451df1d736b7",
+            "messageTitle": "test UG icons",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "bfcecb86a301153aab5ebc0aec0df4f7d52e6dde",
+            "messageTitle": "UG further updates",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 16
+          },
+          {
+            "hash": "49015b9b949ac601c0bb79a4b464b7468cd77e3a",
+            "messageTitle": "ug update for merging",
+            "messageBody": "",
+            "insertions": 18,
+            "deletions": 7
+          },
+          {
+            "hash": "784a92e6f29d610fe331b8a9ca5b8c01f5ba8502",
+            "messageTitle": "UG updated up to project section",
+            "messageBody": "",
+            "insertions": 60,
+            "deletions": 39
+          },
+          {
+            "hash": "ebb5257c1b91422934817612c24f989d91e94fa9",
+            "messageTitle": "UG overall format",
+            "messageBody": "",
+            "insertions": 253,
+            "deletions": 138
+          },
+          {
+            "hash": "b95975c5467d94588dab3f630c9620e11e98c448",
+            "messageTitle": "UG tweaks",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 21
+          },
+          {
+            "hash": "f85553eb83af132ad75251da4b3e46a3d427bffe",
+            "messageTitle": "PPP",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 4,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "4cc2040a230ad84c85a16911a803c2e543384050",
+            "messageTitle": "Rename files",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7d046400c991a68b8d90dc13b38c3d761fa00c20",
+            "messageTitle": "Zhuhui whitespace removed",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e5480058a196298645e5a930f7b9b43545685c74",
+            "messageTitle": "update bugs in UG",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "ndhuu": [
+      {
+        "insertions": 53,
+        "deletions": 45,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "b9600e1595c2d8856bc8ea580dd77db4dec337f5",
+            "messageTitle": "updated users\u0027stories",
+            "messageBody": "",
+            "insertions": 53,
+            "deletions": 45
+          }
+        ]
+      },
+      {
+        "insertions": 60,
+        "deletions": 343,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "243570665c44232fd3c94ff6d7b8c59a622b04b8",
+            "messageTitle": "Update developer guide including related diagrams",
+            "messageBody": "",
+            "insertions": 60,
+            "deletions": 343
+          },
+          {
+            "hash": "140763053a05c704c6e12e5bf8ad437d5676e7fd",
+            "messageTitle": "fixed model diagram",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 290,
+        "deletions": 3,
+        "date": "2019-03-03",
+        "commitResults": [
+          {
+            "hash": "2994f5672a40f11f59c1e2eab0e1ec934d64aefd",
+            "messageTitle": "update Developer Guide with use cases",
+            "messageBody": "",
+            "insertions": 290,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 651,
+        "deletions": 72,
+        "date": "2019-03-04",
+        "commitResults": [
+          {
+            "hash": "43c92b5b396cc1f65536a817e3542542da4eb87e",
+            "messageTitle": "update dev guide",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 58
+          },
+          {
+            "hash": "d5544228e5ccd6c2577d67ae1d319a7899be97ad",
+            "messageTitle": "have beneficary class and addBeneficiary command ready",
+            "messageBody": "",
+            "insertions": 618,
+            "deletions": 12
+          },
+          {
+            "hash": "df935b96aa4adba29522182be7efdedd19598e43",
+            "messageTitle": "resolve conflict with project version",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "ae5ea2aa0dc165a82a0dfd66db380e10cc06d010",
+            "messageTitle": "solve some travis problem",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "0f21bed5faf3c7e8b9295152a78c82a7147cb351",
+            "messageTitle": "solve some travis problem",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 112,
+        "deletions": 3,
+        "date": "2019-03-10",
+        "commitResults": [
+          {
+            "hash": "d639b0217e8084ebda57e395f4fd832cca2822ae",
+            "messageTitle": "change add command",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "17c9463ab7f06833f8986efac11b48c5ce7a7cc4",
+            "messageTitle": "unfinished update beneficiary, compilable",
+            "messageBody": "",
+            "insertions": 99,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 442,
+        "deletions": 441,
+        "date": "2019-03-13",
+        "commitResults": [
+          {
+            "hash": "3b5d284ff57350172e005cbbc3e48b638f257069",
+            "messageTitle": "beneficirary command",
+            "messageBody": "",
+            "insertions": 213,
+            "deletions": 210
+          },
+          {
+            "hash": "adbe6dec124b3e6739c3920d25626ddc9dfef375",
+            "messageTitle": "no need",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 18
+          },
+          {
+            "hash": "baf2fecdc02cc32dd27d77196a520ed9138cd5a2",
+            "messageTitle": "Revert \"beneficirary command\"",
+            "messageBody": "This reverts commit 3b5d284ff57350172e005cbbc3e48b638f257069.\n",
+            "insertions": 210,
+            "deletions": 213
+          }
+        ]
+      },
+      {
+        "insertions": 1621,
+        "deletions": 582,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "621e221327a2a77a9418bfe97e86916ae03030de",
+            "messageTitle": " update beneficiary\u0027s basic commands (add, edit, find, list, delete) only based on person (there\u0027s logic bug)",
+            "messageBody": "",
+            "insertions": 1157,
+            "deletions": 153
+          },
+          {
+            "hash": "c33574da48045b7aa2ab3fdf3008352507a79782",
+            "messageTitle": "temporary old testing for beneficiary basic commands",
+            "messageBody": "",
+            "insertions": 64,
+            "deletions": 29
+          },
+          {
+            "hash": "6556391282b78dd49b798e8454924d1a3f76217f",
+            "messageTitle": "no EOF prob with travis",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "a82ad2c7a8953e12f4b495f648faa9d938f202c0",
+            "messageTitle": "fix coding style",
+            "messageBody": "",
+            "insertions": 355,
+            "deletions": 317
+          },
+          {
+            "hash": "e5592e768c5a5bdf976d9e23ca41cdc65e20315b",
+            "messageTitle": "fix coding style",
+            "messageBody": "",
+            "insertions": 41,
+            "deletions": 78
+          }
+        ]
+      },
+      {
+        "insertions": 138,
+        "deletions": 63,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "9ca148e017df9a769c0f4d269b3111f9abb456ae",
+            "messageTitle": "fix coding style",
+            "messageBody": "",
+            "insertions": 35,
+            "deletions": 22
+          },
+          {
+            "hash": "484684566f6c74e2aca5e7b5aae37b5a6f3fa345",
+            "messageTitle": "fix coding style",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "c9f173c6c11484e9fe91f7dc7a6622ac7b068afe",
+            "messageTitle": "fix coding style",
+            "messageBody": "",
+            "insertions": 31,
+            "deletions": 15
+          },
+          {
+            "hash": "250d9d869ff5f1b3b1f7b695de50eb5b463e6e4f",
+            "messageTitle": "fix coding style",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "264e6b283a1893d56c1307cbebad6ab8eadc5fb4",
+            "messageTitle": "fix coding style",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 22
+          },
+          {
+            "hash": "ee4eaac9ba04b60f5104cb393b70cb8e382916f1",
+            "messageTitle": "Update DG, command line recommendation",
+            "messageBody": "",
+            "insertions": 44,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1601,
+        "deletions": 21,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "ca8dccdf30d2924546faee5700d7acf1bff1ed35",
+            "messageTitle": "fix zander prob",
+            "messageBody": "",
+            "insertions": 1545,
+            "deletions": 15
+          },
+          {
+            "hash": "4ccd4b82561af11d4bed4a293a7b46f54401451b",
+            "messageTitle": "update minor comments",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "c5e93a8efb86d7ee040133f4c74e1c5b4940fd43",
+            "messageTitle": "Add delete beneficiary command parser",
+            "messageBody": "",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "39e0cdebd5670fedfe9245a648806db2a51a06cc",
+            "messageTitle": "Add the command line of beneficiary to the parser",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 268,
+        "deletions": 32,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "4ee4ec09287e76caadc794520231098f731c4ccd",
+            "messageTitle": "set basic UI and set beneficiary panel",
+            "messageBody": "",
+            "insertions": 220,
+            "deletions": 1
+          },
+          {
+            "hash": "7048539012ebc25935d33a69d7075611755df318",
+            "messageTitle": "add panel Title, ongoing",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 8
+          },
+          {
+            "hash": "75760825bd6fd5f1191c1195579441e9c966ceda",
+            "messageTitle": "have label UI",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 10
+          },
+          {
+            "hash": "257d596a1ef706dfd1e589619d0c6de745ddfdc9",
+            "messageTitle": "Update storage of beneficiaries",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 54,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "e8e068d9e08f42d161b34b81bb2801674071ae90",
+            "messageTitle": "Update the beneficiary logic on deletion",
+            "messageBody": "",
+            "insertions": 54,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 90,
+        "deletions": 11,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "828c438d7de8945459c492cf40e472a4492656a7",
+            "messageTitle": "Update beneficiary for project title list",
+            "messageBody": "",
+            "insertions": 88,
+            "deletions": 6
+          },
+          {
+            "hash": "448c55d84de42094950a116b2284b50f08c3da0e",
+            "messageTitle": "shift Ui text beneficiary out of beneficiary panel class",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "c3ad48f1a6ab1b8f9c3cfc97a6f23c426991f972",
+            "messageTitle": "update after merge",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 139,
+        "deletions": 38,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "c1e0f738cafb74d2344e8dfe22386432dc23f397",
+            "messageTitle": "update UI for volunteer and beneficiary",
+            "messageBody": "",
+            "insertions": 101,
+            "deletions": 25
+          },
+          {
+            "hash": "43272bafe0880b93f69b9ffdc03d3dc02dc80527",
+            "messageTitle": "volunteer strorage",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 1
+          },
+          {
+            "hash": "1719e3a865cd1bf2df453e8e0b58ccc56fa1e5c9",
+            "messageTitle": "fix volunteer storage problem",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 11
+          },
+          {
+            "hash": "674070f6746b9e882dbbfab80421ec62dcad821a",
+            "messageTitle": "fix volunteer storage problem",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 61,
+        "deletions": 11,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "8eaae1e1abe4f1f683973c2b51346550eaaf35e2",
+            "messageTitle": "update edit beneficiary",
+            "messageBody": "",
+            "insertions": 61,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 58,
+        "deletions": 26,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "dbdcb3585a7fd4ad23784c46c8438486aac76f5f",
+            "messageTitle": "fix Quinn assign bug",
+            "messageBody": "",
+            "insertions": 58,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 396,
+        "deletions": 72,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "9f04ecb9042e5b6dd1c5511f022b3f04c7129c22",
+            "messageTitle": "fix bug adding same beneficiary",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 23
+          },
+          {
+            "hash": "c9d8f670e795b77299a511042eac2ea4dc64376c",
+            "messageTitle": "Update add error message",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "50b5bb1be47c6cc1f46e51ee8ea515aec3de2f57",
+            "messageTitle": "update edit beneficiary command to adopt project assigned",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 8
+          },
+          {
+            "hash": "87b826c0f43e2cc436afd66a2c961ce5b97b8c40",
+            "messageTitle": "Update doc",
+            "messageBody": "",
+            "insertions": 66,
+            "deletions": 11
+          },
+          {
+            "hash": "224ace7d672f89ade82e0b82d0d884bb985b0e36",
+            "messageTitle": "try summary command",
+            "messageBody": "",
+            "insertions": 156,
+            "deletions": 3
+          },
+          {
+            "hash": "04b62ee1ecd49d10097087ab09465f484e54c3cf",
+            "messageTitle": "new beneficiary summary command",
+            "messageBody": "",
+            "insertions": 115,
+            "deletions": 12
+          },
+          {
+            "hash": "f2785909f07c4822859f7c46f900e5bcfac6ca1f",
+            "messageTitle": "fix after merge",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "b787ebddaf6d48a5f22c58ca46d5a6b4090fef30",
+            "messageTitle": "fix zander problem AGAIN",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 11,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "534bfdf17ec10af252a770cc5b1d9cb3928025df",
+            "messageTitle": "fix bug for assign command and add volunteer command",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 6
+          },
+          {
+            "hash": "29c3fb6432cf71a26a06bb99f2d8263c527c7d9e",
+            "messageTitle": "delete unnecessary file",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "7455148a85849712dcc00d265273d53552301833",
+            "messageTitle": "fix project storage problem",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 234,
+        "deletions": 2610,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "c1135d480e9db67cc749cd0374bb3226461d3cf4",
+            "messageTitle": "update PPP",
+            "messageBody": "",
+            "insertions": 72,
+            "deletions": 12
+          },
+          {
+            "hash": "aa2e4068cb3e4a5356b2d0308868ee9c39e19b14",
+            "messageTitle": "remove unrelated tests",
+            "messageBody": "",
+            "insertions": 34,
+            "deletions": 2429
+          },
+          {
+            "hash": "37a34ceb33994c74917856e2aaee496883e6bda9",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 128,
+            "deletions": 169
+          }
+        ]
+      },
+      {
+        "insertions": 3063,
+        "deletions": 3019,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "069004313d1384fe617d0f8d3cfb407dd6900bbb",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 1557,
+            "deletions": 1555
+          },
+          {
+            "hash": "49f80d56037dac4cffe2bad4556e0c8d6e3279ed",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 127,
+            "deletions": 131
+          },
+          {
+            "hash": "54e9c90c941afd2bf71464529c95753a8e6f3a9e",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e8c9b400655b3d21fcd1960b11e35f92e2b8fa89",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 1020,
+            "deletions": 1021
+          },
+          {
+            "hash": "ec10f238cd89ccfcaf4f92c355c8b62e88c22a87",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 252,
+            "deletions": 252
+          },
+          {
+            "hash": "bd12f2e4b42bfa14367af63d81c8b7ec35db8f43",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 30,
+            "deletions": 27
+          },
+          {
+            "hash": "0dd2a7d8b5c849364f656bdc2baca566ba6dbc39",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "192cdf541719233cb2cba112baf60aecf840d073",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 10
+          },
+          {
+            "hash": "b6838064223fffdd694b6d0902bd6bdc384b5b45",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "4b455da0e9d022943466c7b6e81fe49382aa212b",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "9911a2f014f57d78c7fe8dbb9131e5b221e28a40",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 57,
+            "deletions": 12
+          },
+          {
+            "hash": "291703a554ccaae238914a0d5dbb1cfd4d962c5e",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "8483915f70c09317e3431186a15ceb48b6081527",
+            "messageTitle": "try PR coverage",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4692d7083172f39f5364eb1516e72b3d2004ac95",
+            "messageTitle": "try PR coverage",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 3284,
+        "deletions": 5620,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "8e0ac34196621561016f8fb5db663ecce946c054",
+            "messageTitle": "update PPP",
+            "messageBody": "",
+            "insertions": 72,
+            "deletions": 12
+          },
+          {
+            "hash": "073b1cb4a35e2abbd5b42e06fe4d1ec65dd867ef",
+            "messageTitle": "remove unrelated tests",
+            "messageBody": "",
+            "insertions": 34,
+            "deletions": 2433
+          },
+          {
+            "hash": "d3c9f88298d263c59d99c8b217c4d3f881260c0f",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 128,
+            "deletions": 169
+          },
+          {
+            "hash": "df6566b53f62653b67c92096f04c145ff8764848",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 1557,
+            "deletions": 1555
+          },
+          {
+            "hash": "db89f61a75d2fc2867506cc529468c4963c1e773",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 127,
+            "deletions": 131
+          },
+          {
+            "hash": "b33a8647cbe8586ca38da25474523056cae7a43e",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ecc848560dc96dd391f5b83873f15e6bf4b1dae9",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 1009,
+            "deletions": 1010
+          },
+          {
+            "hash": "704767b70f78f5c2c3110377644addc0bf5bd05e",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 252,
+            "deletions": 252
+          },
+          {
+            "hash": "d03c0c593e513ca1f5fef9c1fe29946f076e2920",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 30,
+            "deletions": 27
+          },
+          {
+            "hash": "a0519fb84b3a74fb5c20de4a80b5417e744dc636",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1f778ebe73bc7ca217bfae30c3103a77e9251e9f",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 10
+          },
+          {
+            "hash": "4d095a5681dbc5479bff7819d7fd8cc805ab6948",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "7f3a0646ad6e93d88d882e82c75c65d506931bd9",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "b81387e5798bdd780fb1fcbc3f2c4c058975630a",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 57,
+            "deletions": 12
+          },
+          {
+            "hash": "b0748f57bc0f2a6d3fcf85bb161360fc4683dd83",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 1449,
+        "deletions": 30,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "52d44071c646dd1db0546a2d63f6b6447ee3d5b5",
+            "messageTitle": "ongoing test",
+            "messageBody": "",
+            "insertions": 1426,
+            "deletions": 4
+          },
+          {
+            "hash": "cee736a4a23e47cc0ec22a2c688b60bd6d077b27",
+            "messageTitle": "test Delete",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 14
+          },
+          {
+            "hash": "5052a3dba34774dc988ba100c57a5b2c1278e14d",
+            "messageTitle": "edit beneficiary command test, ongoing",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "2865914fc1699a71f4f67873ebdfb5b2708b936f",
+            "messageTitle": "add summarise command",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 113,
+        "deletions": 52,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "009aa0edd3c90847a3a81d8b40d9cc1bb946ce34",
+            "messageTitle": "add hard delete",
+            "messageBody": "",
+            "insertions": 60,
+            "deletions": 15
+          },
+          {
+            "hash": "b150c007a7bcd704403cef79856e897439415abe",
+            "messageTitle": "fix exit bug",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "6392a2e01c80bbfd5fa86b3da79c2de064275779",
+            "messageTitle": "make sure beneficiaries have diff name",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "282134371a83da2c2bc20c0fca091575e949106d",
+            "messageTitle": "synchronize delete project command",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "1dfa320464cc764486f630c88f5a34e9724be300",
+            "messageTitle": "improve code quality",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 4
+          },
+          {
+            "hash": "10175ae3148c28dd7889bf48df91b87852cd931b",
+            "messageTitle": "shorten command keyword",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "bca6eae070c4f21010057f57632bce9561f3a5d9",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 13
+          },
+          {
+            "hash": "5d019e5fd25a93db481791f054a376ced0215b28",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 59,
+        "deletions": 52,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "8b472c91ff893a04ecc66db57dc31168f43f8f29",
+            "messageTitle": "Update pref",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 9
+          },
+          {
+            "hash": "39d213834f3964046cac6f5d288e639b56984db3",
+            "messageTitle": "fix edit bug",
+            "messageBody": "",
+            "insertions": 50,
+            "deletions": 43
+          }
+        ]
+      },
+      {
+        "insertions": 944,
+        "deletions": 513,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "baca54014fb1a18d7f65d0f03efdbc77feaf6547",
+            "messageTitle": "fix the undo problem",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "8bb7a491cd8dc842a7aa93c89654fc5984011cd3",
+            "messageTitle": "update delete test",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "bb8e6ffe75bf1c622949881d0ff31081f89f0664",
+            "messageTitle": "update test for sync in delete benef",
+            "messageBody": "",
+            "insertions": 250,
+            "deletions": 91
+          },
+          {
+            "hash": "33f15648ae3cb213cd9eb197602ddfce0eee736f",
+            "messageTitle": "test for edit benef command",
+            "messageBody": "",
+            "insertions": 252,
+            "deletions": 14
+          },
+          {
+            "hash": "cf5d86e12b3003c0facc669018e10dfecf028b0f",
+            "messageTitle": "test for edit benef command",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "25a46429dba8d63e17b93e19edc54932db295853",
+            "messageTitle": "refactor to improve code quality",
+            "messageBody": "",
+            "insertions": 273,
+            "deletions": 255
+          },
+          {
+            "hash": "2aa7d9449ff92e304a9f307e83e44dd6bd234990",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 42,
+            "deletions": 43
+          },
+          {
+            "hash": "7f3fb85683115ea81e4821cddecff552842a0581",
+            "messageTitle": "minor update",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 3
+          },
+          {
+            "hash": "c157acf76aa1f02cb4c54ef32660061731420d27",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "b7d9b869285aa9329d2d2b477bda9f05f8db3b64",
+            "messageTitle": "refactor",
+            "messageBody": "",
+            "insertions": 107,
+            "deletions": 99
+          }
+        ]
+      },
+      {
+        "insertions": 1616,
+        "deletions": 772,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "0ae587a361ccc4b98def7b9c526eae568fca1891",
+            "messageTitle": "test sync in edit benef command",
+            "messageBody": "",
+            "insertions": 67,
+            "deletions": 4
+          },
+          {
+            "hash": "1b7a2dc7f35afbdcee37a909a9f444ebe4bf8107",
+            "messageTitle": "delete benf parser test",
+            "messageBody": "",
+            "insertions": 430,
+            "deletions": 1
+          },
+          {
+            "hash": "cc6fd40ac46d665fedfae463acc77009c36f2b16",
+            "messageTitle": "test add benf parser",
+            "messageBody": "",
+            "insertions": 145,
+            "deletions": 142
+          },
+          {
+            "hash": "7f5f974b5073c22139674dfdd1cea91c70a53a45",
+            "messageTitle": "done testing",
+            "messageBody": "",
+            "insertions": 286,
+            "deletions": 322
+          },
+          {
+            "hash": "e15811d910b13e9ba0c34ec6b2da0049f45089d1",
+            "messageTitle": "add benef alias",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "6390ad4eb9caabcb353bdd0a4a88c7a163453db5",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "59ec2aae676a4680a7caa7558d0d3d8d1101a4cd",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9d0162032abf65e3f7b28af63bff1a6cb0e86849",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
+            "insertions": 68,
+            "deletions": 31
+          },
+          {
+            "hash": "d9bca0e51ea2ad133e8a77beef06ad0f5b37c81e",
+            "messageTitle": "remove edit command test",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 248
+          },
+          {
+            "hash": "03a257fc0af8ed052a3167cb764292dbec2fe380",
+            "messageTitle": "model test for benef",
+            "messageBody": "",
+            "insertions": 543,
+            "deletions": 2
+          },
+          {
+            "hash": "d2c5b5a2dc74cdc2d949d22ce407e2d803723e91",
+            "messageTitle": "tag author :((",
+            "messageBody": "",
+            "insertions": 48,
+            "deletions": 9
+          },
+          {
+            "hash": "d27507d7243064c62f62fea43103404c85cd2287",
+            "messageTitle": "update stub",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "6f15a0196fba7be2c53e1a859dbee692c443a086",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 9
+          },
+          {
+            "hash": "75473ae6d9d252232cbe1442b08090bac557d420",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 766,
+        "deletions": 462,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "fce959943efc8179564969ac2d5aa368f8bbf0ba",
+            "messageTitle": "update DG",
+            "messageBody": "",
+            "insertions": 21,
+            "deletions": 7
+          },
+          {
+            "hash": "f81352ac4e85668df58418f3ed68dcf8b649c4b4",
+            "messageTitle": "reposense",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "309381239d8c9da84cbc7c02b8df0d9329d4f84b",
+            "messageTitle": "checksryle",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "1d9e36ce082de308e279d1e7ce67c36bec8cecdd",
+            "messageTitle": "ug",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 16
+          },
+          {
+            "hash": "0bf6679367e7d8152f9eb85691e76509dbb5671d",
+            "messageTitle": "ug",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9273ec232040265a66eb93ced3a32416dce68c49",
+            "messageTitle": "ug",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "4797c93fad73e5264f7ea03d1ac60f060ca308a7",
+            "messageTitle": "update dg",
+            "messageBody": "",
+            "insertions": 135,
+            "deletions": 37
+          },
+          {
+            "hash": "8536ac3288da5a276acdb2f9b9f716e51d4abecb",
+            "messageTitle": "update docs",
+            "messageBody": "",
+            "insertions": 239,
+            "deletions": 164
+          },
+          {
+            "hash": "8e4cf9b9c04971483368425e5b6a51e0d6f53c9e",
+            "messageTitle": "checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0db10094ecd453ab7f8dec82310c1334ef3e6813",
+            "messageTitle": "update Ui",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 21
+          },
+          {
+            "hash": "949650184ae5cf59ee0c8a7085247d65eeb10881",
+            "messageTitle": "checkstule",
+            "messageBody": "",
+            "insertions": 152,
+            "deletions": 108
+          },
+          {
+            "hash": "9c1f5923805fd2ea26a8ee7e2260f5472a581ac0",
+            "messageTitle": "update summary sequence diagram",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "0aed4c567075196c37534f97d8192fc22fdf9daa",
+            "messageTitle": "make dg consistent",
+            "messageBody": "",
+            "insertions": 75,
+            "deletions": 18
+          },
+          {
+            "hash": "13f4ee891500aa307616840ca63540e01fdf29ef",
+            "messageTitle": "update DG",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 19
+          },
+          {
+            "hash": "c7395462ebe2111f735e73e6214643c0e5d796c1",
+            "messageTitle": "dg",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "772f16509c836e49ceef52d0a57ce44a99a1bd31",
+            "messageTitle": "zander dg",
+            "messageBody": "",
+            "insertions": 45,
+            "deletions": 5
+          },
+          {
+            "hash": "fc9cdcf0e173d669abed259eb6ea96ce69bec7cf",
+            "messageTitle": "reformat",
+            "messageBody": "",
+            "insertions": 53,
+            "deletions": 53
+          }
+        ]
+      },
+      {
+        "insertions": 59,
+        "deletions": 72,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "3678db171c1d95a01ac9aa3a0f005058dd010f88",
+            "messageTitle": "...",
+            "messageBody": "",
+            "insertions": 48,
+            "deletions": 46
+          },
+          {
+            "hash": "e1242109dc19bdffb1d265642ea293bc61e3cf94",
+            "messageTitle": "dg",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "69730e7583a93dd4fbb9526600700ceaadfe2401",
+            "messageTitle": "kl",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 17
+          },
+          {
+            "hash": "2747063a645495592719579f64f67ccec5cda1c9",
+            "messageTitle": "update ug with password",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d55a504f6d4415d192d59b346849e3fd02c1edb5",
+            "messageTitle": "find bef message",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f8f73aa62e67c98e4d3d268e149c8fcfbaab5291",
+            "messageTitle": "update phone",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "swalahlah": 2757,
+    "quinnzzzzz": 5976,
+    "articstranger": 931,
+    "ndhuu": 6221
+  },
+  "authorFileTypeContributionMap": {
+    "swalahlah": {
+      "adoc": 21,
+      "adoc": 2,
+      "adoc": 6,
+      "adoc": 11,
+      "adoc": 35,
+      "adoc": 40,
+      "java": 14,
+      "java": 2,
+      "java": 1,
+      "java": 24,
+      "java": 15,
+      "java": 261,
+      "java": 11,
+      "java": 7,
+      "java": 16,
+      "java": 32,
+      "java": 82,
+      "java": 11,
+      "java": 7,
+      "java": 32,
+      "java": 8,
+      "java": 234,
+      "java": 8,
+      "java": 21,
+      "java": 172,
+      "java": 219,
+      "java": 6,
+      "java": 12,
+      "java": 78,
+      "java": 60,
+      "java": 49,
+      "java": 48,
+      "java": 54,
+      "java": 49,
+      "java": 2,
+      "java": 57,
+      "java": 58,
+      "java": 137,
+      "java": 141,
+      "java": 206,
+      "java": 7,
+      "java": 6,
+      "java": 28,
+      "java": 71,
+      "fxml": 1,
+      "java": 4,
+      "java": 31,
+      "java": 83,
+      "java": 55,
+      "java": 153,
+      "java": 60,
+      "java": 5,
+      "java": 4
+    },
+    "quinnzzzzz": {
+      "json": 19,
+      "adoc": 117,
+      "adoc": 330,
+      "adoc": 1,
+      "adoc": 88,
+      "adoc": 36,
+      "java": 6,
+      "java": 1,
+      "java": 6,
+      "java": 10,
+      "java": 1,
+      "java": 63,
+      "java": 146,
+      "java": 87,
+      "java": 59,
+      "java": 74,
+      "java": 29,
+      "java": 97,
+      "java": 16,
+      "java": 3,
+      "java": 15,
+      "java": 3,
+      "java": 3,
+      "java": 3,
+      "java": 33,
+      "java": 1,
+      "java": 1,
+      "java": 4,
+      "java": 2,
+      "java": 60,
+      "java": 53,
+      "java": 56,
+      "java": 6,
+      "java": 50,
+      "java": 31,
+      "java": 74,
+      "java": 18,
+      "java": 5,
+      "java": 4,
+      "java": 18,
+      "java": 3,
+      "java": 2,
+      "java": 3,
+      "java": 38,
+      "java": 45,
+      "java": 83,
+      "java": 5,
+      "java": 54,
+      "java": 31,
+      "java": 182,
+      "java": 119,
+      "java": 54,
+      "java": 184,
+      "java": 5,
+      "java": 5,
+      "java": 3,
+      "java": 2,
+      "java": 101,
+      "java": 1,
+      "java": 15,
+      "java": 60,
+      "java": 24,
+      "java": 4,
+      "java": 1,
+      "java": 110,
+      "java": 71,
+      "java": 74,
+      "java": 2,
+      "java": 2,
+      "css": 354,
+      "css": 1,
+      "css": 1,
+      "fxml": 10,
+      "fxml": 32,
+      "fxml": 11,
+      "html": 1,
+      "java": 5,
+      "java": 1,
+      "java": 19,
+      "java": 8,
+      "java": 8,
+      "java": 384,
+      "java": 127,
+      "java": 86,
+      "java": 69,
+      "java": 189,
+      "java": 45,
+      "java": 45,
+      "java": 363,
+      "java": 55,
+      "java": 211,
+      "java": 2,
+      "java": 1,
+      "java": 4,
+      "java": 1,
+      "java": 36,
+      "java": 29,
+      "java": 46,
+      "java": 42,
+      "java": 132,
+      "java": 1,
+      "java": 37,
+      "java": 40,
+      "java": 1,
+      "java": 38,
+      "java": 41,
+      "java": 11,
+      "java": 1,
+      "java": 185,
+      "java": 30,
+      "java": 15,
+      "java": 3,
+      "java": 31,
+      "java": 72,
+      "java": 2,
+      "java": 13,
+      "java": 9,
+      "java": 13,
+      "java": 1,
+      "java": 156,
+      "java": 2,
+      "java": 15,
+      "java": 7,
+      "java": 10,
+      "java": 12
+    },
+    "articstranger": {
+      "adoc": 16,
+      "adoc": 112,
+      "adoc": 9,
+      "adoc": 84,
+      "java": 1,
+      "java": 71,
+      "java": 44,
+      "java": 35,
+      "java": 1,
+      "java": 8,
+      "java": 13,
+      "java": 73,
+      "java": 117,
+      "java": 14,
+      "java": 4,
+      "java": 1,
+      "java": 11,
+      "java": 50,
+      "java": 2,
+      "java": 82,
+      "java": 1,
+      "java": 4,
+      "java": 1,
+      "java": 1,
+      "java": 19,
+      "java": 35,
+      "java": 67,
+      "java": 2,
+      "java": 24,
+      "java": 3,
+      "java": 26
+    },
+    "ndhuu": {
+      "adoc": 1,
+      "json": 14,
+      "gradle": 1,
+      "xml": 4,
+      "adoc": 1,
+      "adoc": 511,
+      "adoc": 98,
+      "adoc": 72,
+      "java": 8,
+      "java": 11,
+      "java": 2,
+      "java": 3,
+      "java": 15,
+      "java": 9,
+      "java": 3,
+      "java": 2,
+      "java": 4,
+      "java": 2,
+      "java": 2,
+      "java": 28,
+      "java": 22,
+      "java": 26,
+      "java": 6,
+      "java": 70,
+      "java": 101,
+      "java": 265,
+      "java": 48,
+      "java": 29,
+      "java": 141,
+      "java": 50,
+      "java": 67,
+      "java": 24,
+      "java": 3,
+      "java": 2,
+      "java": 1,
+      "java": 1,
+      "java": 64,
+      "java": 11,
+      "java": 52,
+      "java": 69,
+      "java": 36,
+      "java": 76,
+      "java": 12,
+      "java": 9,
+      "java": 1,
+      "java": 21,
+      "java": 1,
+      "java": 6,
+      "java": 1,
+      "java": 76,
+      "java": 30,
+      "java": 59,
+      "java": 2,
+      "java": 3,
+      "java": 57,
+      "java": 186,
+      "java": 13,
+      "java": 62,
+      "java": 31,
+      "java": 6,
+      "java": 138,
+      "java": 7,
+      "java": 11,
+      "java": 2,
+      "java": 2,
+      "java": 4,
+      "java": 1,
+      "java": 67,
+      "java": 3,
+      "java": 2,
+      "java": 5,
+      "java": 7,
+      "java": 51,
+      "java": 1,
+      "java": 30,
+      "java": 3,
+      "java": 7,
+      "java": 2,
+      "java": 113,
+      "java": 11,
+      "java": 47,
+      "java": 1,
+      "java": 26,
+      "java": 1,
+      "java": 2,
+      "java": 2,
+      "java": 3,
+      "java": 85,
+      "java": 8,
+      "java": 3,
+      "java": 20,
+      "java": 16,
+      "java": 71,
+      "java": 75,
+      "java": 8,
+      "fxml": 33,
+      "fxml": 14,
+      "fxml": 3,
+      "css": 6,
+      "fxml": 4,
+      "fxml": 15,
+      "fxml": 1,
+      "fxml": 1,
+      "fxml": 1,
+      "fxml": 3,
+      "fxml": 2,
+      "fxml": 1,
+      "fxml": 42,
+      "fxml": 14,
+      "json": 6,
+      "json": 4,
+      "json": 9,
+      "json": 4,
+      "json": 26,
+      "java": 6,
+      "java": 14,
+      "java": 412,
+      "java": 151,
+      "java": 235,
+      "java": 277,
+      "java": 58,
+      "java": 44,
+      "java": 19,
+      "java": 1,
+      "java": 146,
+      "java": 40,
+      "java": 187,
+      "java": 36,
+      "java": 10,
+      "java": 37,
+      "java": 97,
+      "java": 62,
+      "java": 75,
+      "java": 41,
+      "java": 1,
+      "java": 185,
+      "java": 2,
+      "java": 4,
+      "java": 6,
+      "java": 3,
+      "java": 121,
+      "java": 104,
+      "java": 48,
+      "java": 84,
+      "java": 89,
+      "java": 2,
+      "java": 2,
+      "java": 50,
+      "java": 7,
+      "java": 2,
+      "java": 1,
+      "java": 2,
+      "java": 2,
+      "fxml": 3
+    }
+  },
+  "authorContributionVariance": {
+    "swalahlah": 2249444.2,
+    "quinnzzzzz": 1603784.9,
+    "articstranger": 18380.139,
+    "ndhuu": 1958712.1
+  },
+  "authorDisplayNameMap": {
+    "swalahlah": "LIO...HUI",
+    "quinnzzzzz": "ZHA... RU",
+    "articstranger": "WON...EMY",
+    "ndhuu": "NGU...HUU"
+  }
+}
