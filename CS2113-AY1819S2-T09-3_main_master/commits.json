@@ -1,0 +1,2673 @@
+{
+  "authorDailyContributionsMap": {
+    "rachellim10": [
+      {
+        "insertions": 64,
+        "deletions": 36,
+        "date": "2019-02-25",
+        "commitResults": [
+          {
+            "hash": "71434b93c7bfdf467ce4b3a2382b49f4e81966fd",
+            "messageTitle": "UserGuide: update \u0027add\u0027 command to include new content",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 8
+          },
+          {
+            "hash": "ba54ab5c702f3f0ccf99c466aab91f78dcaa7d7d",
+            "messageTitle": "UserGuide: update the rest of the commands",
+            "messageBody": "",
+            "insertions": 49,
+            "deletions": 28
+          }
+        ]
+      },
+      {
+        "insertions": 51,
+        "deletions": 3,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "e26e54f2289408a62e675f4820fe5c9b431cc71a",
+            "messageTitle": "AddAliases: add aliases for \u0027add\u0027, \u0027edit\u0027 and \u0027delete\u0027 commands",
+            "messageBody": "",
+            "insertions": 45,
+            "deletions": 0
+          },
+          {
+            "hash": "8931bc568b96299ff6ef8139ed16b35814b4efb1",
+            "messageTitle": "AddAliases: fix Travis indentation error",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 133,
+        "deletions": 8,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "5a8628fbc45eca462ca9af994f58e4ab7fed816b",
+            "messageTitle": "Add shorthand aliases to the rest of the commands",
+            "messageBody": "",
+            "insertions": 89,
+            "deletions": 8
+          },
+          {
+            "hash": "cb98eb9d4d74aa3eb04bd52a9258b22c2ede5bcc",
+            "messageTitle": "update developer guide with implementation of command aliases and calendar",
+            "messageBody": "",
+            "insertions": 44,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 75,
+        "deletions": 17,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "ffc88343c8e86c7cb5c6b73c7ddbb230b558ab26",
+            "messageTitle": "UserGuide: update sections 6.1 - 6.2.4",
+            "messageBody": "",
+            "insertions": 75,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 140,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "f9d2d50ac5488a8e88fb4eeec59c175eb0355c74",
+            "messageTitle": "add CompletedCommand as part of analyse feature",
+            "messageBody": "",
+            "insertions": 140,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 10,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "951d412e7e814dcd1d5ea57dcfa97a1a52d87c7c",
+            "messageTitle": "Complete: add completed tag when CompletedCommand is called",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 20,
+        "deletions": 1,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "24022bf7b36f76e5f8125dfc6e3a6764e40e9184",
+            "messageTitle": "fix display of completed tag",
+            "messageBody": "",
+            "insertions": 20,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 19,
+        "deletions": 37,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "38389e772cc03dbab872669f5d14f21d7cd4da60",
+            "messageTitle": "update PPP to match contributions",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 37
+          }
+        ]
+      },
+      {
+        "insertions": 100,
+        "deletions": 29,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "20bec21ad0acbc4d7a76d43dc2f7c8f049410841",
+            "messageTitle": "add AnalyseCommand for statistics",
+            "messageBody": "",
+            "insertions": 90,
+            "deletions": 21
+          },
+          {
+            "hash": "8ab59a124e68446d64e888a6486cc43980e972a6",
+            "messageTitle": "fix checkstyle errors",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 6
+          },
+          {
+            "hash": "43b12cbb47d1d0f6c26cf90a3f1b0d673c828c30",
+            "messageTitle": "update AnalyseCommand to show percentage completed",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 1
+          },
+          {
+            "hash": "198f1df59bcb6fe1e1b96e93b2107c65719eeb43",
+            "messageTitle": "fix checkstyle errors",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 1,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "571471af3ca5705c465d09e5e6e22ccd364bb768",
+            "messageTitle": "fix percentage displayed bug by AnalyseCommand",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 176,
+        "deletions": 10,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "76ae93e786b97771c6268974739a43665f29f921",
+            "messageTitle": "add test cases for CompletedCommand and AnalyseCommand",
+            "messageBody": "",
+            "insertions": 175,
+            "deletions": 2
+          },
+          {
+            "hash": "46b43e0d95408fd2fd0e8b5ca134701f0c1caa0c",
+            "messageTitle": "fix checkstyle issues",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 166,
+        "deletions": 43,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "12813589cbea75be818a99f3fe2622b7c203f0f4",
+            "messageTitle": "update UG, DG and PPP",
+            "messageBody": "",
+            "insertions": 131,
+            "deletions": 33
+          },
+          {
+            "hash": "86b9e0831ebc1eccb9c6a2cda3ae00705f9d9b62",
+            "messageTitle": "add tags to UG sections",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "968ff531ddeee3fadc332b83af21e834ab83db09",
+            "messageTitle": "update minor changes to UG, DG and PPP",
+            "messageBody": "",
+            "insertions": 28,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "76bada4315ee445f284ec01205cf2bc62205f8e6",
+            "messageTitle": "add minor changes to PPP",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 0
+          }
+        ]
+      }
+    ],
+    "gautamrajulu": [
+      {
+        "insertions": 48,
+        "deletions": 4,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "9c7bb805605bae3500738e37946821b1b0f5dee0",
+            "messageTitle": "reforked removeTag",
+            "messageBody": "",
+            "insertions": 43,
+            "deletions": 0
+          },
+          {
+            "hash": "cdb92fd197f9bbd5b1bfe9e3709c45e7e4eaa8b3",
+            "messageTitle": "fix checkstyle errors",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 11,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "7e93059f443166427e5f3892e9c6d3c9d8e3eb1f",
+            "messageTitle": "checkstyle errors fix",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "18d56dee5a17bf9036df9bcb3adb4f4efc679d02",
+            "messageTitle": "fix breaks due to change in task variables",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "5d0e4fd203e46bc3635da09a0602cf4a41796c7d",
+            "messageTitle": "checkstye fix",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "14570b871a2c946e335cd7a422c71ac19ead4b99",
+            "messageTitle": "fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "94792584eded047e8aa7f154098c1f1e44e24018",
+            "messageTitle": "Change person to task",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1259475230516e53d86b54f10da55422baa0f0e1",
+            "messageTitle": "removed person in comments replaced with task",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 72,
+        "deletions": 25,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "5e7fb8a51fec95e1abac7c643f487bf2467fc1c9",
+            "messageTitle": "UserGuide: Update 1 - 4",
+            "messageBody": "",
+            "insertions": 30,
+            "deletions": 22
+          },
+          {
+            "hash": "ece72068583b65b302a9fe4e1b65f890f1d9abdd",
+            "messageTitle": "ListCommand: enable listing of task and project",
+            "messageBody": "",
+            "insertions": 42,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 69,
+        "deletions": 1,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "0c017af196bc8b03044508b5f63e8df162db9263",
+            "messageTitle": "ListByDeadlineCommand",
+            "messageBody": "",
+            "insertions": 69,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "1bfea447462eaadef8fae246d5f587ff9e77a262",
+            "messageTitle": "Introduction and How to use this guide preface",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 23,
+        "deletions": 1,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "ddd1e0feecee867bd9d54da5505a28db1836a0f7",
+            "messageTitle": "List and ListProject commands",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 1
+          },
+          {
+            "hash": "ad0878a73a46574bc8c6d53ca59325a103094f88",
+            "messageTitle": "Developer Guide Changes",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 99,
+        "deletions": 91,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "42baf6aafeba50980dfe9b874ec4423fa5e63e17",
+            "messageTitle": "Additions to code",
+            "messageBody": "",
+            "insertions": 54,
+            "deletions": 43
+          },
+          {
+            "hash": "316659bbb684ce0e3f98f58f8b55e63af88f9a75",
+            "messageTitle": "sortDeadline",
+            "messageBody": "",
+            "insertions": 45,
+            "deletions": 48
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 110,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "8711e4bf038a01af5fce87fdc7963ec8ee5e01cb",
+            "messageTitle": "merge conflicts",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 100
+          },
+          {
+            "hash": "d8ced25a1892e46e7264ce0d8f6ffcd30bab55fb",
+            "messageTitle": "fixed checkstyle",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 1,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "50d181a0078b7322e9d6fbb2431f99b170d238ca",
+            "messageTitle": "rebase changes",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "26969d3cae49235b27c835a1e20086cdc46a2073",
+            "messageTitle": "change test",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 355,
+        "deletions": 82,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "964433e63454ad42cca617d89c8a439c88d1fe6c",
+            "messageTitle": "test for sort",
+            "messageBody": "",
+            "insertions": 156,
+            "deletions": 1
+          },
+          {
+            "hash": "6aa7fb163ad95bc7c714485d6809fe035d19cfdf",
+            "messageTitle": "checkstyle errors",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 9
+          },
+          {
+            "hash": "46696fd68d8a4cd9c48b1ca678abc2a5d34e3746",
+            "messageTitle": "more changes",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "346cc99de86b46717c394a763aaf7dbefa9499f4",
+            "messageTitle": "even more changes",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 9
+          },
+          {
+            "hash": "43f74c41192f50b0555ef47f3fd55e4495c4f04f",
+            "messageTitle": "final? changes",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "d7e217cbbae1a51824575e8987d105857c153e78",
+            "messageTitle": "lexographic change",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1251b2a8480371d35ae152fdde6d31b06c900105",
+            "messageTitle": ".",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "a11e714548b2d705f3352af06008544fdeede5be",
+            "messageTitle": "..",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "d905d631f51a7ce71e0561d5c07a27621e69a066",
+            "messageTitle": "...",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "11a5bc566efcf13fe6d7320d39ca76517a3c64d6",
+            "messageTitle": "....",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "9273edef8c7dec24fccac439d3ad1286a3ca150d",
+            "messageTitle": "UserGuide (#204)",
+            "messageBody": "* PPP and DG changes\r\n",
+            "insertions": 145,
+            "deletions": 42
+          },
+          {
+            "hash": "85b8a0984da2693c146281d2120d2a6bcc4dfbee",
+            "messageTitle": "added manual testing",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "674d9c1a1d2ac3a0702888298854f1a952ce3709",
+            "messageTitle": "added reposense link",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "a711a618a05b14233dc74bfced3892bb1af5fe63",
+            "messageTitle": "RJ link",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a44e915c4389f6bddf43a4ce65bd2be66d4efc97",
+            "messageTitle": "PPP legend",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "josephinetanadi": [
+      {
+        "insertions": 10,
+        "deletions": 7,
+        "date": "2019-02-21",
+        "commitResults": [
+          {
+            "hash": "c24f13858a22dc1e6550d1d261e588b6cad1abb3",
+            "messageTitle": "UserGuide: update instructions for select",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 48,
+        "deletions": 3,
+        "date": "2019-02-23",
+        "commitResults": [
+          {
+            "hash": "742fd43f45a278d19c70ebd0992aa946c6d85650",
+            "messageTitle": "User Guide: update instructions for multiple commands",
+            "messageBody": "",
+            "insertions": 48,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 15,
+        "deletions": 1,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "27065f91073a07fb05120c36206df0098c54a416",
+            "messageTitle": "Export: add export feature for local storage",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 0
+          },
+          {
+            "hash": "35011530f7613d3b868a392649300d6222a7c9eb",
+            "messageTitle": "Export: fix travis check error",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 327,
+        "deletions": 327,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "dd8406e44c18a48cb48af53bdd003d80851aa3f5",
+            "messageTitle": "All: fix checkstyle error",
+            "messageBody": "",
+            "insertions": 327,
+            "deletions": 327
+          }
+        ]
+      },
+      {
+        "insertions": 1328,
+        "deletions": 160,
+        "date": "2019-03-11",
+        "commitResults": [
+          {
+            "hash": "ffb1db9d65dfc55c5b69f4bcbaf170e097ed60e1",
+            "messageTitle": "Storage: add projectlist implementation",
+            "messageBody": "",
+            "insertions": 758,
+            "deletions": 45
+          },
+          {
+            "hash": "4f408dcf5afb3e313dc5902cb4c04f847525937a",
+            "messageTitle": "Storage: resolve travis error",
+            "messageBody": "",
+            "insertions": 30,
+            "deletions": 7
+          },
+          {
+            "hash": "0492b606654b56e9c43cfaa7f1edc2a9fb73ee97",
+            "messageTitle": "Storage: resolve more travis error",
+            "messageBody": "",
+            "insertions": 31,
+            "deletions": 26
+          },
+          {
+            "hash": "fe677e9a0c0e7744ed6fe51d7c90ba6dabf84782",
+            "messageTitle": "Storage: modify tests for projectlist",
+            "messageBody": "",
+            "insertions": 509,
+            "deletions": 82
+          }
+        ]
+      },
+      {
+        "insertions": 1289,
+        "deletions": 1629,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "49b01364db6db109d8dae46293c842c610efa33c",
+            "messageTitle": "All: convert person to task",
+            "messageBody": "",
+            "insertions": 1289,
+            "deletions": 1629
+          }
+        ]
+      },
+      {
+        "insertions": 42,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "c85983ba8b4f8581a87408a6db5a470bc402720c",
+            "messageTitle": "DeveloperGuide: update with import/export feature implementation",
+            "messageBody": "",
+            "insertions": 42,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1129,
+        "deletions": 358,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "03af67d694ad026db86fdb0c2fd40f86c730c653",
+            "messageTitle": "import: allow project list startup and import command",
+            "messageBody": "",
+            "insertions": 1050,
+            "deletions": 345
+          },
+          {
+            "hash": "70660cdaa9ecee0e7193579d1e8068cdcfb45b48",
+            "messageTitle": "UserGuide: update faq and command summary",
+            "messageBody": "",
+            "insertions": 79,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 258,
+        "deletions": 115,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "bef0523d96b93438395e64a98cfad38d1e172644",
+            "messageTitle": "Export: project list startup and implement export feature",
+            "messageBody": "",
+            "insertions": 258,
+            "deletions": 115
+          }
+        ]
+      },
+      {
+        "insertions": 82,
+        "deletions": 39,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "a16d7ca95737d4988a60733414418a6b7392c69d",
+            "messageTitle": "Export: export feature and resolve project listing errors",
+            "messageBody": "",
+            "insertions": 82,
+            "deletions": 39
+          }
+        ]
+      },
+      {
+        "insertions": 658,
+        "deletions": 532,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "eed820a6ec7b67acddebd9651e532f654c6a6ea3",
+            "messageTitle": "Testcase: update add, clear, delete systemtests",
+            "messageBody": "",
+            "insertions": 658,
+            "deletions": 532
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 19,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "69be3856142602745e3eec0f045508e34e8a44cc",
+            "messageTitle": "DeveloperGuide: update DG with updated import/export implementation",
+            "messageBody": "",
+            "insertions": 29,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 60,
+        "deletions": 84,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "d288a69955fe86f1fe06ab5a1d0c60a2f47b5cd8",
+            "messageTitle": "resolve merge conflict",
+            "messageBody": "",
+            "insertions": 49,
+            "deletions": 67
+          },
+          {
+            "hash": "5bec6a10a924e36454ea7ed2a256559a3d9548c9",
+            "messageTitle": "Import and UI: fix import bug at task level and panel shading bug at UI",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 14
+          },
+          {
+            "hash": "2a8ee70b8700060b769325bd97aecd82423fa270",
+            "messageTitle": "Fix travis checkstyle error",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 24,
+        "deletions": 37,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "ac1e11a81e3a2cfaec3bc0a6fd27a21d83e2dc70",
+            "messageTitle": "ProjectPortfolio: update PPP with contributions",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 35
+          },
+          {
+            "hash": "80c4a19be4cbe1b4501ef158cda39c74eb7083b7",
+            "messageTitle": "ProjectPortfolio: with reposense link",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 888,
+        "deletions": 158,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "3ab061434e694cae3d64e159ca543e0b3fb58471",
+            "messageTitle": "TestCase: update testcase for import, export and storage",
+            "messageBody": "",
+            "insertions": 733,
+            "deletions": 27
+          },
+          {
+            "hash": "a34dba5a7bec5beda39179946e800b537540b5a3",
+            "messageTitle": "Fix Travis error",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "0fbedc065e25f761ad308813fdd59f965b24446b",
+            "messageTitle": "TestCase: Fix failing tests",
+            "messageBody": "",
+            "insertions": 90,
+            "deletions": 64
+          },
+          {
+            "hash": "6132a77ad389b1eebedf179c299348ff648a7f21",
+            "messageTitle": "TestCase: Revert to original browser panel tc",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "aac37881e8cf9ae72dbff58bcbc3d36d852ac4c6",
+            "messageTitle": "All: fix date and month format",
+            "messageBody": "",
+            "insertions": 56,
+            "deletions": 57
+          }
+        ]
+      },
+      {
+        "insertions": 132,
+        "deletions": 195,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "94074c11463989ae08ed5458236d80c3ca7cb522",
+            "messageTitle": "ProjectPortfolio: Update PPP and relevant sections of UGDG",
+            "messageBody": "",
+            "insertions": 54,
+            "deletions": 22
+          },
+          {
+            "hash": "8900aedb57ac47c68fc7c284634e40a32e79e790",
+            "messageTitle": "UI: update browser panel to display task after selecting task",
+            "messageBody": "",
+            "insertions": 78,
+            "deletions": 173
+          }
+        ]
+      },
+      {
+        "insertions": 12,
+        "deletions": 5,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "3f5c84da70a7bcf6291c20a33daf7e165ee0edf9",
+            "messageTitle": "Fix empty task list bug",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 69,
+        "deletions": 18,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "8b3a2bf8e53ed0e75d1238a752b5281a53c51856",
+            "messageTitle": "Fix setSelectedProject bug",
+            "messageBody": "",
+            "insertions": 69,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 292,
+        "deletions": 11,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "26bad591a715e62f91be84ad18d9fbb1cd84788f",
+            "messageTitle": "SystemTest: update import and export system test",
+            "messageBody": "",
+            "insertions": 292,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 47,
+        "deletions": 30,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "58a4506a7b4bb3be331b340bb5c34feb763182b8",
+            "messageTitle": "PPP: update PPP and relevant UGDG sections",
+            "messageBody": "",
+            "insertions": 47,
+            "deletions": 30
+          }
+        ]
+      },
+      {
+        "insertions": 60,
+        "deletions": 24,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "cc73df0b0c2bde7f55a3f1b6e1d8a3d64d718e1c",
+            "messageTitle": "PPP: update UG, DG and PPP",
+            "messageBody": "",
+            "insertions": 60,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 11,
+        "deletions": 1,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "8c6f1e7917f025b9b38cb4a5967385eb908de937",
+            "messageTitle": "PPP: update app layout",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ab4047a025c3e711fdfbb61420437e892beebdc1",
+            "messageTitle": "PPP: update icons section",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 0
+          }
+        ]
+      }
+    ],
+    "arhjaye": [
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-02-22",
+        "commitResults": [
+          {
+            "hash": "b89bbf72ff2d29d46e190bf8e51d674fbd7f3135",
+            "messageTitle": "DeveloperGuide: update credits for address book",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 102,
+        "deletions": 39,
+        "date": "2019-02-24",
+        "commitResults": [
+          {
+            "hash": "f09db617d8e232be14d285e6230f8d413d489e5b",
+            "messageTitle": "DeveloperGuide: update Appendix B, C, D \u0026 H",
+            "messageBody": "",
+            "insertions": 102,
+            "deletions": 39
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 4,
+        "date": "2019-02-26",
+        "commitResults": [
+          {
+            "hash": "4fcb043281be8ebb1986502348e50c313f48367c",
+            "messageTitle": "Display total persons: Able to show total person, unable to update",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 7,
+        "date": "2019-02-27",
+        "commitResults": [
+          {
+            "hash": "3110b1c7e99b518b6a3c4ffd38c5a34d93549162",
+            "messageTitle": "display total persons: fixed travis check",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c1dc1e5fc1178b470333d9b757428958533d62f9",
+            "messageTitle": "Display total persons: fixed travis check",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 4,
+        "date": "2019-03-01",
+        "commitResults": [
+          {
+            "hash": "620aa7f3ac7054b4f9c9a9bf76982d7e36a808b4",
+            "messageTitle": "Display total person: able to update",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 1708,
+        "deletions": 1473,
+        "date": "2019-03-12",
+        "commitResults": [
+          {
+            "hash": "d62313b4a1c3278a5b95587525634bf920ff8e1a",
+            "messageTitle": "compare task: add command to compare a task with its previous edited version",
+            "messageBody": "",
+            "insertions": 259,
+            "deletions": 13
+          },
+          {
+            "hash": "8ca71da2a77c56f9a832ed2e6e9fdbaadbe56fd5",
+            "messageTitle": "Revert \"Merge branch \u0027master\u0027 into comparehistorytest\"",
+            "messageBody": "This reverts commit 56a7a8b9eaf176d4cece8cc7593f0dd91d6bf84f, reversing\nchanges made to d62313b4a1c3278a5b95587525634bf920ff8e1a.\n",
+            "insertions": 128,
+            "deletions": 1297
+          },
+          {
+            "hash": "6667bb206c63d833151b03d96baf1a3485e01de5",
+            "messageTitle": "Revert \"Revert \"Merge branch \u0027master\u0027 into comparehistorytest\"\"",
+            "messageBody": "This reverts commit 8ca71da2a77c56f9a832ed2e6e9fdbaadbe56fd5.\n",
+            "insertions": 1297,
+            "deletions": 128
+          },
+          {
+            "hash": "74bf377503580fb61962af087f676aebee363cb0",
+            "messageTitle": "compare task: updated versionedProject.java",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "c75a0e7e75791dd3564872e0071df761dfca5265",
+            "messageTitle": "compare task: update versionedProject.java",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 33
+          },
+          {
+            "hash": "1b5424c009f471c875cb7a4fb25d6395cc0aaef0",
+            "messageTitle": "compare task: fixed travis error",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 248,
+        "deletions": 326,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "ff5cf94e015b786fef94185f0c97410a2b505297",
+            "messageTitle": "view task history: able to view pass commands made on a specific task",
+            "messageBody": "",
+            "insertions": 156,
+            "deletions": 1
+          },
+          {
+            "hash": "abb4c1235994e9378f9e8a1f14130f9c7b8ff6f3",
+            "messageTitle": "Updated developer guide",
+            "messageBody": "",
+            "insertions": 44,
+            "deletions": 290
+          },
+          {
+            "hash": "b2b5ef9d2ebdd7fa1567b45c6adafd78d41bea6c",
+            "messageTitle": "Update ProjectParser.java",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "34585330a98e0dd460922e2a2e9ef8fb45149377",
+            "messageTitle": "update developer guide",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 33
+          },
+          {
+            "hash": "b230d4a87b80e6d35ac343d72ab959ca64734c9c",
+            "messageTitle": "update developer guide",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 0
+          },
+          {
+            "hash": "5348c52cf9043b9af2f9c3d10b2f8b7e95063319",
+            "messageTitle": "Update ProjectParser.java",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 124,
+        "deletions": 42,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "9dd39fe0f547fd1ee069cb2b870daa0af601d9f4",
+            "messageTitle": "update user guide structure",
+            "messageBody": "",
+            "insertions": 124,
+            "deletions": 42
+          }
+        ]
+      },
+      {
+        "insertions": 156,
+        "deletions": 25,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "57e25e5712f861aea4224d91009d0a89afe6eed3",
+            "messageTitle": "update UG",
+            "messageBody": "",
+            "insertions": 26,
+            "deletions": 8
+          },
+          {
+            "hash": "7e2f529f8dc3ab1caa7ec8251d69703a756aa2b6",
+            "messageTitle": "update UG, 6.2.5 - 6.2.9",
+            "messageBody": "",
+            "insertions": 92,
+            "deletions": 5
+          },
+          {
+            "hash": "73ea39f987db698063c1835de3c00935a02525b1",
+            "messageTitle": "update UG, 6.2.10",
+            "messageBody": "",
+            "insertions": 26,
+            "deletions": 0
+          },
+          {
+            "hash": "a24c9444af434587807c43e391c6914fde134a46",
+            "messageTitle": "update UG, 6.2.10 fixed typo",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "4b02b0b2cbc8318b435e5527ac8462b4fa987189",
+            "messageTitle": "update UG, 6.2.5 - 6.2.10",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "e9ea30bbe1118be021a2f643458ab0afba57028f",
+            "messageTitle": "update UG, modified alias",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 310,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "9cee117378f2f02e226be1d4d6b5558d68be2a41",
+            "messageTitle": "Fixed checkstyle",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 307
+          },
+          {
+            "hash": "43af3a0e157cf84d44bfda0f2e8fc5c3cb738e67",
+            "messageTitle": "update DG diagrams \u0026 ppt",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "e8fe11b120deb05991c8659c0c964a2ea7fc331c",
+            "messageTitle": "remove selectcommand from being considered as taskhistory",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 98,
+        "deletions": 368,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "ea9aea083e202d24774689268fa0154de806b420",
+            "messageTitle": "update developer: updated diagrams, added new feature",
+            "messageBody": "",
+            "insertions": 81,
+            "deletions": 339
+          },
+          {
+            "hash": "1735d173b7d663348bae15ee283ac02a2c0af7df",
+            "messageTitle": "update developer:added implementation for view task history feature",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 29
+          }
+        ]
+      },
+      {
+        "insertions": 232,
+        "deletions": 82,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "75a8e0e75544ab815997f0f0fe24693aa46dbd54",
+            "messageTitle": "fixed most test cases",
+            "messageBody": "",
+            "insertions": 232,
+            "deletions": 82
+          }
+        ]
+      },
+      {
+        "insertions": 375,
+        "deletions": 122,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "2053cbb88ad02e843dce318f3aca440c4b488b55",
+            "messageTitle": "fixed test case \u0026 travis",
+            "messageBody": "",
+            "insertions": 358,
+            "deletions": 117
+          },
+          {
+            "hash": "b617bf517b53aabd511eca3de4e2eca8e46ad34f",
+            "messageTitle": "fixed travis clear command and storage test",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "8a7058829128024d27a5586cfb32ba1efbb99626",
+            "messageTitle": "fixed travis clear command",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "d817ada3258f95778db1be2ef63c31e2e0153be5",
+            "messageTitle": "fixed travis storage test",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 99,
+        "deletions": 54,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "2ad335989c8fa0eefd9651561da3b75e2529a839",
+            "messageTitle": "developer guide: fixed typo and update diagrams",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "9bfdbffb5c19dc3b24f35500757c6e4c45a609c9",
+            "messageTitle": "update readme.adoc UI image and text",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 4
+          },
+          {
+            "hash": "2532bec21f0af93b393d8ce7846386bf46b9f9a4",
+            "messageTitle": "fix bug for compare function",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 6
+          },
+          {
+            "hash": "9d3b6eee0c7c327e93d9a4e9353a1db0faa00908",
+            "messageTitle": "fixed travis check",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "c97be9a0d8108a186d9a17ee925bdb5834e96450",
+            "messageTitle": "fixed bug for group tag",
+            "messageBody": "",
+            "insertions": 20,
+            "deletions": 1
+          },
+          {
+            "hash": "761f70e7c053d751aa58b5effa18a3b9dc0e7fe3",
+            "messageTitle": "fix listDeadline bug",
+            "messageBody": "",
+            "insertions": 29,
+            "deletions": 27
+          },
+          {
+            "hash": "1cc411669517d7f7efc07316f2c0ef5253b1c136",
+            "messageTitle": "updated aboutus page",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "3216f5c9c0bed2a316faefee49fe0dc3fd6f7887",
+            "messageTitle": "fixed checkstyle error by travis",
+            "messageBody": "",
+            "insertions": 26,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 401,
+        "deletions": 56,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "36de3a76082f1ecc303cfe4135639319d9c7f195",
+            "messageTitle": "[v1.4] Fix Bugs (#147)",
+            "messageBody": "* fix bugs\r\n\r\n* update dates for test file\r\n",
+            "insertions": 91,
+            "deletions": 51
+          },
+          {
+            "hash": "0f539592589ee71a0e2eb7c9ff10d63d256f2941",
+            "messageTitle": "[v1.4] Update test for compare and taskhistory (#140)",
+            "messageBody": "* update test for compare and taskhistory\r\n",
+            "insertions": 310,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 65,
+        "deletions": 49,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "9f3c9c8dc831bc4d00ccb635d8e18a2c6b17ab50",
+            "messageTitle": "update PPP (#137)",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 39
+          },
+          {
+            "hash": "fab8dd77d36376c2e74266528eaffe5fcc5112fc",
+            "messageTitle": "Update PPP - YRJ (#173)",
+            "messageBody": "* update PPP\r\n\r\n* update diagrams for UG \u0026 PPP\r\n",
+            "insertions": 19,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 4,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "6b03cc27b7afc53fafd2c98a48c3beb3b0709e17",
+            "messageTitle": "Fix Bugs (#175)",
+            "messageBody": "* date validation bug fix\r\n",
+            "insertions": 7,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 125,
+        "deletions": 41,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "d9ed973a52fe9c359b3a9cf36df2cda5edeb7905",
+            "messageTitle": "updated PPP \u0026 UG \u0026 DG Diagram (#182)",
+            "messageBody": "",
+            "insertions": 88,
+            "deletions": 39
+          },
+          {
+            "hash": "27f76276577c0c64e08381ddf3f10075127564d1",
+            "messageTitle": "update UG (#181)",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 58,
+        "deletions": 27,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "343ec4991d869a5f2bcb87aa4e4d4aefe8a62357",
+            "messageTitle": "Fix Bug \u0026 Test cases  (#183)",
+            "messageBody": "* selectedproject is gone after setproject\r\n\r\n* fix bug for select \u0026 compare\r\n",
+            "insertions": 39,
+            "deletions": 18
+          },
+          {
+            "hash": "64083c6c9b812453d9b0347a02534e4ac6dec3cc",
+            "messageTitle": "fix sort and compare (#185)",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 88,
+        "deletions": 69,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "15da2e2799661dbfa488bf98f127a3548fbc3098",
+            "messageTitle": "Update Documentation (#198)",
+            "messageBody": "* update documentation\r\n",
+            "insertions": 88,
+            "deletions": 69
+          }
+        ]
+      },
+      {
+        "insertions": 170,
+        "deletions": 72,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "39df48e93a294fa8c1f47cd2337770102093c8d0",
+            "messageTitle": "Update UG to v2.0 (#202)",
+            "messageBody": "",
+            "insertions": 74,
+            "deletions": 26
+          },
+          {
+            "hash": "df30c54bad3a73e6af598a6fdeb62a180805ce5d",
+            "messageTitle": "Update UG to v2.0 (#202)",
+            "messageBody": "",
+            "insertions": 74,
+            "deletions": 26
+          },
+          {
+            "hash": "f1b28f5b0dfbdedae66a88f4861e32ca14df6b13",
+            "messageTitle": "update numbering for figure (#208)",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "335dd20f1892f13e01c5bcc3b97223c3c663377e",
+            "messageTitle": "update ppp (#210)",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 15
+          }
+        ]
+      }
+    ],
+    "andreathniah": [
+      {
+        "insertions": 328,
+        "deletions": 45,
+        "date": "2019-02-20",
+        "commitResults": [
+          {
+            "hash": "9c56bbf0c01e6ef06e3cb2d30227293ac8b0e883",
+            "messageTitle": "README: update contents for v1.1",
+            "messageBody": "[Fix] Update Travis CI badge and remove other unnecessary badges\n[Fix] Update UI mockup image\n[Fix] Add application introduction\n[Fix] Add appropriate acknowledgement\n",
+            "insertions": 12,
+            "deletions": 15
+          },
+          {
+            "hash": "87d8913a9861eb2124082bcd0a052fbbbe0bb160",
+            "messageTitle": "AboutUs: update contents for v1.1",
+            "messageBody": "[Fix] Replace placeholder data with team\u0027s details\n[Fix] Add individual members\u0027 portfolio file\n[Fix] Remove trailing whitespaces\n[Fix] Add .project into .gitignore\n",
+            "insertions": 312,
+            "deletions": 24
+          },
+          {
+            "hash": "1c57fbc0aec8e52eb108ffd35de2bd0a41560dd3",
+            "messageTitle": "Docs: update contents to conform to travis checks",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "6a0778424da4dfe20b446fa7d6f0312897e3f154",
+            "messageTitle": "AboutUs: fix typo in Renjie\u0027s github profile link",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 75,
+        "deletions": 9,
+        "date": "2019-02-24",
+        "commitResults": [
+          {
+            "hash": "b9c20119ef5a1730288ced50921a1abb31884536",
+            "messageTitle": "AddTagColor: updated PersonCard to randomly select colors of a tag",
+            "messageBody": "[style] add css styles in accordance to strings defined in array\n[fix] ignore IDE classfiles outside of IntelliJ\n",
+            "insertions": 75,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 328,
+        "deletions": 45,
+        "date": "2019-02-28",
+        "commitResults": [
+          {
+            "hash": "f2ae86274b48a4c5acc663d01ae4525b3ee38257",
+            "messageTitle": "README: update contents for v1.1",
+            "messageBody": "[Fix] Update Travis CI badge and remove other unnecessary badges\n[Fix] Update UI mockup image\n[Fix] Add application introduction\n[Fix] Add appropriate acknowledgement\n",
+            "insertions": 12,
+            "deletions": 15
+          },
+          {
+            "hash": "267459f8ef395ab8c0815fcf03981f7dcde3aff4",
+            "messageTitle": "AboutUs: update contents for v1.1",
+            "messageBody": "[Fix] Replace placeholder data with team\u0027s details\n[Fix] Add individual members\u0027 portfolio file\n[Fix] Remove trailing whitespaces\n[Fix] Add .project into .gitignore\n",
+            "insertions": 312,
+            "deletions": 24
+          },
+          {
+            "hash": "c9cb5065a20ef1598546cfc1418abac2e0b03d4a",
+            "messageTitle": "Docs: update contents to conform to travis checks",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 5
+          },
+          {
+            "hash": "55c2918743877086bd59a9b4708ba0bd50d9edd1",
+            "messageTitle": "AboutUs: fix typo in Renjie\u0027s github profile link",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 9,
+        "deletions": 9,
+        "date": "2019-03-02",
+        "commitResults": [
+          {
+            "hash": "8c79a3e9e9db8e012b883c160d4237f3e063cd8e",
+            "messageTitle": "AboutUs: replace jpg images with png",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "61bb32363369777aca22ad3e9286c293fa601f3a",
+            "messageTitle": "AboutUs: update images and team doc to conform to their github username",
+            "messageBody": "[Fix] Remove uneccessary jpg image files\n",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 5780,
+        "deletions": 5704,
+        "date": "2019-03-06",
+        "commitResults": [
+          {
+            "hash": "65effae36c757eb2297d5b8d5fe8a8073fad39ee",
+            "messageTitle": "All: renaming of variables from AddressBook to fit project context",
+            "messageBody": "",
+            "insertions": 5780,
+            "deletions": 5704
+          }
+        ]
+      },
+      {
+        "insertions": 139,
+        "deletions": 139,
+        "date": "2019-03-07",
+        "commitResults": [
+          {
+            "hash": "a8cf90770502194fd7679812b06faa114d676191",
+            "messageTitle": "All: fix mistakes from mass replacement",
+            "messageBody": "",
+            "insertions": 139,
+            "deletions": 139
+          }
+        ]
+      },
+      {
+        "insertions": 78,
+        "deletions": 4,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "c17a540678dc16b8b9b416cecd0204c66c2245fe",
+            "messageTitle": "ListTags: filter results to allow printing of all tags and their task name",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 0
+          },
+          {
+            "hash": "3f5c0eecdd834b91d0c5c44f21f31a859ab3fcd5",
+            "messageTitle": "ListTags: enable printing of results to CommandResult",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 4
+          },
+          {
+            "hash": "a12bb493424571818ced71566b1748789df6b75e",
+            "messageTitle": "DeveloperGuide: update with list tag feature implementation",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 65,
+        "deletions": 20,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "31fd57d0f9dd8650aa6cd5432f5a19f1d3774790",
+            "messageTitle": "UserGuide: update project level features",
+            "messageBody": "",
+            "insertions": 65,
+            "deletions": 20
+          }
+        ]
+      },
+      {
+        "insertions": 72,
+        "deletions": 25,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "f2bd90c30f9ec5a35fd45e233294727a95762cc1",
+            "messageTitle": "ListTag: allow listing of tag though listtag command",
+            "messageBody": "",
+            "insertions": 61,
+            "deletions": 9
+          },
+          {
+            "hash": "27e0d4d009cde028a3b11fe98d5e5d58c58c88a6",
+            "messageTitle": "ListTag: update UserGuide",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "6d8f2e8a86d4d051f177a6f9ac35ce5d3fb51ad2",
+            "messageTitle": "ListTag: resolve checkstyle errors",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 74,
+        "deletions": 45,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "bb5e8fa8dc07fb70830adac06d0964a0d00513a0",
+            "messageTitle": "Reposense: update config file with correct author names",
+            "messageBody": "",
+            "insertions": 74,
+            "deletions": 1
+          },
+          {
+            "hash": "bb7023def293c45c4b0760aa89976796688c72d0",
+            "messageTitle": "Reposense: remove duplicate JSON tree",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 44
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "6540a980c2d1c32cb4c87c2b2df7c50ffe597234",
+            "messageTitle": "Reposense: update extra names from git log",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 420,
+        "deletions": 45,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "3ef1e8ceb810474427200ea93917fa598213c054",
+            "messageTitle": "GroupTag: allow creation of group tag and assign child tags to it",
+            "messageBody": "",
+            "insertions": 349,
+            "deletions": 1
+          },
+          {
+            "hash": "db7243b8797769e069b11ea3201319998f5307d8",
+            "messageTitle": "GroupTag: fix tests and Travis checkstyle",
+            "messageBody": "",
+            "insertions": 70,
+            "deletions": 43
+          },
+          {
+            "hash": "792d84fad32483f8df2ea522bfc37428fcf05f42",
+            "messageTitle": "README: update Travis build status link",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 573,
+        "deletions": 42,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "f47288dae36dda81cb1c76d677dce085b899c826",
+            "messageTitle": "Resolve merge conflict",
+            "messageBody": "",
+            "insertions": 383,
+            "deletions": 8
+          },
+          {
+            "hash": "8abdd682bf26259ac489a80dfd5bc64fea3036b4",
+            "messageTitle": "AddTag: add group tag to selected task",
+            "messageBody": "",
+            "insertions": 165,
+            "deletions": 22
+          },
+          {
+            "hash": "a9f7b05a329055d950fe4e02524fa0714ca3ab45",
+            "messageTitle": "AddTag: fix travis checkstyle errors",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 6
+          },
+          {
+            "hash": "534475565109b7a7bdcb57ff8bae6d6e43fa5382",
+            "messageTitle": "AddTag: add command alias DefineTag: add command alias and edit success message",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 4
+          },
+          {
+            "hash": "eb3a2f495bcab2437b6b21088e04be8edb861b5d",
+            "messageTitle": "Fix travis checkstyle errors",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 40,
+        "deletions": 1,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "d889d04385f0462ed5c858b5331b163be805ff38",
+            "messageTitle": "UserGuide: update with listtag, addtag and definetag information",
+            "messageBody": "",
+            "insertions": 39,
+            "deletions": 0
+          },
+          {
+            "hash": "fb355ca2818e0db9be21c3e8db966fca51c5739d",
+            "messageTitle": "build.gradle: uodate shadowKar name",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b6b3690a3ff8508fd626283f49e6093644195ad5",
+            "messageTitle": "Release v1.3 jar file",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "83049a46d35d6c5e7646f743ca7e078dabcad111",
+            "messageTitle": "Update jar file release to latest version",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 86,
+        "deletions": 48,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "2d330a8773901840a0578ea5ec4d0753e33ed4d7",
+            "messageTitle": "PPP: updated portfolio with details",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 34
+          },
+          {
+            "hash": "e2f67b1a9305baa1142e04194664bf29cfed6343",
+            "messageTitle": "PPP: update missing header for major enhancement",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6f704756db49e2d3a2b3269e9beaf4496c733e77",
+            "messageTitle": "DeveloperGuide: update with listtag, definetag, addtag",
+            "messageBody": "",
+            "insertions": 41,
+            "deletions": 8
+          },
+          {
+            "hash": "f0701a3f19cd83cd60923b5a792a29a542c325ce",
+            "messageTitle": "Reposense: update authorNames for Josephine",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 26,
+        "deletions": 58,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "8fe158c65e351114e1ed7a73c6f8fbcc386892af",
+            "messageTitle": "UserGuide: general proof-read edits",
+            "messageBody": "",
+            "insertions": 26,
+            "deletions": 58
+          }
+        ]
+      },
+      {
+        "insertions": 95,
+        "deletions": 47,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "3e9fd93b6ea4789ddff6c8693d183c978556db05",
+            "messageTitle": "Fix consistent bugs at AddTag, DefineTag, ListTag",
+            "messageBody": "",
+            "insertions": 39,
+            "deletions": 25
+          },
+          {
+            "hash": "9568a3a3ec12e3d9d203086dcf884de45ff719aa",
+            "messageTitle": "Fix Travis checkstyle errors",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "74d804e66cf5b3b2dec480734ec2948b6d0a6a86",
+            "messageTitle": "DefineTag: add getGroupTagList method",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 1
+          },
+          {
+            "hash": "cd63b5937bfcaef41c12ea43fe1024bc99300174",
+            "messageTitle": "ListTag: add alias and reformat print statement",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 9
+          },
+          {
+            "hash": "c1c273c91f7f38df0ee59c5160f3a5ae329cbc5d",
+            "messageTitle": "UserGuide: update definetag and addTag",
+            "messageBody": "",
+            "insertions": 25,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 377,
+        "deletions": 117,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "1fa6255bbc01fa787a120e90416a02846395823a",
+            "messageTitle": "AddTag: add skeleton testcodes",
+            "messageBody": "",
+            "insertions": 129,
+            "deletions": 3
+          },
+          {
+            "hash": "9938d820283db08aa74fdd934436076ffe8b047a",
+            "messageTitle": "DefineTag: add skeleton testcodes",
+            "messageBody": "",
+            "insertions": 67,
+            "deletions": 1
+          },
+          {
+            "hash": "21a0d7eb73306e3ff159aec58f907089407d769d",
+            "messageTitle": "UserGuide: shift listtag and addtag to task level",
+            "messageBody": "",
+            "insertions": 32,
+            "deletions": 32
+          },
+          {
+            "hash": "e7727319e1e9b3919cadf74985b213596652df7d",
+            "messageTitle": "ListTag: shift logic to Moel and finish test",
+            "messageBody": "",
+            "insertions": 82,
+            "deletions": 33
+          },
+          {
+            "hash": "1dc3752de7a8601c79fe76330dc5d6cfc17b74c0",
+            "messageTitle": "AddTag and DefineTag: finish up tests",
+            "messageBody": "",
+            "insertions": 67,
+            "deletions": 48
+          }
+        ]
+      },
+      {
+        "insertions": 501,
+        "deletions": 193,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "7d95be2e959a934b4a74ce3530802e3536f20d9c",
+            "messageTitle": "DefineTag, AddTag, ListTag: update  and refactor codes",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 32
+          },
+          {
+            "hash": "04661bf7d3abb48675be6a64807abb08046e3af8",
+            "messageTitle": "DeveloperGuide: add sequence diagrams",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "f5f07bf633c8f5c42b70abd9ab3554d186d17d57",
+            "messageTitle": "Merge branch \u0027master\u0027 of https://github.com/CS2113-AY1819S2-T09-3/main into v1.4/documentations",
+            "messageBody": "",
+            "insertions": 47,
+            "deletions": 30
+          },
+          {
+            "hash": "49b2f8f102db1de9fca7bab7b8110b38bd4dd4c9",
+            "messageTitle": "Documentation: update DeveloperGuide, UserGuide, PPP with updated figures and descriptions",
+            "messageBody": "",
+            "insertions": 142,
+            "deletions": 28
+          },
+          {
+            "hash": "f15a2ab348bf3549a02bc60fbde203a2d6e837e0",
+            "messageTitle": "DeveloperGuide: updated manual testing instructions",
+            "messageBody": "Resolve merge conflict\n",
+            "insertions": 246,
+            "deletions": 71
+          },
+          {
+            "hash": "3b591c01763906274a15d46969b261fd9a693b9e",
+            "messageTitle": "PPP: update with new layout image",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "60e3b654905ddd08066687a41e20fe5d6d68e918",
+            "messageTitle": "Fix travis error",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "becf0d758547fea199017714776c774fc7037c50",
+            "messageTitle": "DefineTag: fix checkstyle errors",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "8fe614cee5692449e54b0aa167ec63278c919f89",
+            "messageTitle": "PPP: reduce image size to fit into 10 page of PPP",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 24
+          },
+          {
+            "hash": "002933abdbff6570447edcf9f56dcae172c32df2",
+            "messageTitle": "DeveloperGuide: update with minor styling tweaks",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "6b44f1fed110462c20ed1b251ee81b5a90530772",
+            "messageTitle": "Fix travis checkstyle error",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 88,
+        "deletions": 65,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "414f4fc4da40c9c9c7cefe1c6f1134c303b0e1f1",
+            "messageTitle": "PPP: fix broken image link",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "463d9aa9f0e773ab44d4bf4cea473235cb3a1e94",
+            "messageTitle": "Documentation: update guides with icons\u0027 meaning",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 6
+          },
+          {
+            "hash": "97732dadf6af44a0e0c675bbe13c6e4f118dffb1",
+            "messageTitle": "ghPages: remove unnecessary navigation bar and other minor fixes",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 28
+          },
+          {
+            "hash": "41407f56e49e09b889e7625279e504b08a7aac4a",
+            "messageTitle": "UserGuide: update application layout",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "14caf9315743e03d71abbab4b012a47462c983d2",
+            "messageTitle": "fix duplicate task name",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 4
+          },
+          {
+            "hash": "4a41af2780e7bf104a548d8bbf8515783d9737df",
+            "messageTitle": "change typicalTask to have same details as typicalProject",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "f7110e899cbcf404c5eb0d7fcb741e6476f09ab9",
+            "messageTitle": "fix failed test cases on other commands",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 7
+          },
+          {
+            "hash": "a8a44cd2cc847f369eac9e5a982f583e37ed444a",
+            "messageTitle": "fix travis error",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 6
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "rachellim10": 641,
+    "gautamrajulu": 531,
+    "josephinetanadi": 4953,
+    "arhjaye": 2084,
+    "andreathniah": 6012
+  },
+  "authorFileTypeContributionMap": {
+    "rachellim10": {
+      "adoc": 27,
+      "adoc": 75,
+      "adoc": 50,
+      "java": 3,
+      "java": 61,
+      "java": 1,
+      "java": 103,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 39,
+      "java": 43,
+      "java": 5,
+      "java": 67,
+      "java": 98,
+      "java": 61
+    },
+    "gautamrajulu": {
+      "adoc": 111,
+      "adoc": 62,
+      "adoc": 1,
+      "adoc": 33,
+      "java": 11,
+      "java": 30,
+      "java": 2,
+      "java": 84,
+      "java": 7,
+      "java": 6,
+      "java": 6,
+      "java": 24,
+      "java": 2,
+      "java": 1,
+      "json": 23,
+      "java": 7,
+      "java": 110,
+      "java": 11
+    },
+    "josephinetanadi": {
+      "adoc": 47,
+      "adoc": 112,
+      "adoc": 22,
+      "java": 23,
+      "java": 3,
+      "java": 34,
+      "java": 68,
+      "java": 41,
+      "java": 6,
+      "java": 12,
+      "java": 5,
+      "java": 1,
+      "java": 6,
+      "java": 26,
+      "java": 166,
+      "java": 99,
+      "java": 6,
+      "java": 81,
+      "java": 7,
+      "java": 23,
+      "java": 6,
+      "java": 8,
+      "java": 29,
+      "java": 4,
+      "java": 36,
+      "java": 62,
+      "java": 30,
+      "java": 20,
+      "java": 18,
+      "java": 51,
+      "java": 115,
+      "java": 1,
+      "java": 137,
+      "java": 4,
+      "java": 1,
+      "java": 10,
+      "java": 125,
+      "java": 31,
+      "java": 67,
+      "java": 3,
+      "java": 134,
+      "java": 15,
+      "java": 12,
+      "java": 6,
+      "java": 12,
+      "java": 13,
+      "java": 35,
+      "java": 35,
+      "java": 65,
+      "java": 28,
+      "java": 88,
+      "java": 1,
+      "java": 5,
+      "java": 61,
+      "java": 51,
+      "java": 3,
+      "java": 11,
+      "java": 39,
+      "java": 7,
+      "java": 5,
+      "java": 56,
+      "java": 57,
+      "java": 72,
+      "java": 10,
+      "java": 5,
+      "java": 1,
+      "fxml": 4,
+      "css": 23,
+      "fxml": 4,
+      "fxml": 31,
+      "fxml": 8,
+      "fxml": 1,
+      "fxml": 3,
+      "json": 5,
+      "json": 3,
+      "json": 45,
+      "json": 18,
+      "json": 4,
+      "json": 45,
+      "json": 45,
+      "json": 7,
+      "json": 8,
+      "json": 24,
+      "java": 8,
+      "java": 15,
+      "java": 37,
+      "java": 39,
+      "java": 12,
+      "java": 2,
+      "java": 49,
+      "java": 41,
+      "java": 15,
+      "java": 57,
+      "java": 2,
+      "java": 55,
+      "java": 11,
+      "java": 26,
+      "java": 61,
+      "java": 23,
+      "java": 146,
+      "java": 2,
+      "java": 113,
+      "java": 4,
+      "java": 1,
+      "java": 15,
+      "java": 16,
+      "java": 3,
+      "java": 53,
+      "java": 2,
+      "java": 72,
+      "java": 35,
+      "java": 11,
+      "java": 2,
+      "java": 44,
+      "java": 14,
+      "java": 2,
+      "java": 51,
+      "java": 36,
+      "java": 37,
+      "java": 16,
+      "java": 1,
+      "java": 44,
+      "java": 37,
+      "java": 47,
+      "java": 28,
+      "java": 112,
+      "java": 10,
+      "java": 74,
+      "java": 7,
+      "java": 4,
+      "java": 12,
+      "java": 32,
+      "java": 38,
+      "java": 18,
+      "java": 8,
+      "java": 3,
+      "java": 73,
+      "java": 13,
+      "java": 4,
+      "java": 5,
+      "java": 10,
+      "java": 32,
+      "java": 92,
+      "java": 29,
+      "java": 26,
+      "java": 91,
+      "java": 110,
+      "java": 36,
+      "java": 4,
+      "java": 82,
+      "java": 23,
+      "java": 49,
+      "java": 4,
+      "java": 12,
+      "java": 4
+    },
+    "arhjaye": {
+      "adoc": 2,
+      "adoc": 10,
+      "adoc": 273,
+      "adoc": 207,
+      "adoc": 59,
+      "java": 47,
+      "java": 1,
+      "java": 9,
+      "java": 12,
+      "java": 73,
+      "java": 4,
+      "java": 9,
+      "java": 8,
+      "java": 2,
+      "java": 18,
+      "java": 83,
+      "java": 7,
+      "java": 29,
+      "java": 2,
+      "java": 34,
+      "java": 30,
+      "java": 43,
+      "java": 68,
+      "java": 1,
+      "java": 1,
+      "java": 13,
+      "java": 7,
+      "java": 87,
+      "java": 13,
+      "java": 20,
+      "java": 20,
+      "java": 5,
+      "fxml": 9,
+      "fxml": 1,
+      "java": 3,
+      "java": 15,
+      "java": 1,
+      "java": 47,
+      "java": 39,
+      "java": 9,
+      "java": 129,
+      "java": 87,
+      "java": 108,
+      "java": 27,
+      "java": 1,
+      "java": 21,
+      "java": 11,
+      "java": 51,
+      "java": 161,
+      "java": 9,
+      "java": 7,
+      "java": 5,
+      "java": 1,
+      "java": 4,
+      "java": 17,
+      "java": 3,
+      "java": 4,
+      "java": 9,
+      "java": 4,
+      "java": 3,
+      "java": 1,
+      "java": 11,
+      "java": 10,
+      "java": 1,
+      "java": 6,
+      "java": 5,
+      "java": 2,
+      "java": 1,
+      "java": 4,
+      "java": 11,
+      "java": 4,
+      "java": 3,
+      "java": 9,
+      "java": 5,
+      "java": 9,
+      "java": 6,
+      "java": 5,
+      "java": 8
+    },
+    "andreathniah": {
+      "gitignore": 3,
+      "adoc": 6,
+      "json": 46,
+      "gradle": 7,
+      "adoc": 16,
+      "adoc": 1,
+      "adoc": 371,
+      "adoc": 12,
+      "adoc": 177,
+      "adoc": 2,
+      "adoc": 37,
+      "adoc": 24,
+      "java": 3,
+      "java": 35,
+      "java": 1,
+      "java": 1,
+      "java": 2,
+      "java": 2,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 2,
+      "java": 1,
+      "java": 3,
+      "java": 1,
+      "java": 1,
+      "java": 3,
+      "java": 2,
+      "java": 1,
+      "java": 18,
+      "java": 28,
+      "java": 40,
+      "java": 98,
+      "java": 6,
+      "java": 4,
+      "java": 1,
+      "java": 43,
+      "java": 12,
+      "java": 167,
+      "java": 3,
+      "java": 11,
+      "java": 3,
+      "java": 3,
+      "java": 21,
+      "java": 31,
+      "java": 9,
+      "java": 11,
+      "java": 9,
+      "java": 1,
+      "java": 7,
+      "java": 50,
+      "java": 1,
+      "java": 1,
+      "java": 2,
+      "java": 49,
+      "java": 5,
+      "java": 14,
+      "java": 5,
+      "java": 3,
+      "java": 4,
+      "java": 1,
+      "java": 23,
+      "java": 5,
+      "java": 2,
+      "java": 149,
+      "java": 281,
+      "java": 2,
+      "java": 45,
+      "java": 15,
+      "java": 2,
+      "java": 4,
+      "java": 132,
+      "java": 17,
+      "java": 135,
+      "java": 23,
+      "java": 12,
+      "java": 6,
+      "java": 74,
+      "java": 6,
+      "java": 2,
+      "java": 2,
+      "java": 6,
+      "java": 15,
+      "java": 137,
+      "java": 11,
+      "java": 6,
+      "java": 27,
+      "java": 3,
+      "java": 14,
+      "java": 85,
+      "java": 56,
+      "java": 5,
+      "java": 48,
+      "java": 21,
+      "java": 42,
+      "java": 6,
+      "java": 2,
+      "java": 5,
+      "java": 2,
+      "java": 1,
+      "java": 15,
+      "java": 1,
+      "java": 5,
+      "java": 32,
+      "java": 71,
+      "java": 1,
+      "java": 5,
+      "java": 2,
+      "css": 51,
+      "fxml": 2,
+      "fxml": 1,
+      "json": 9,
+      "json": 6,
+      "json": 8,
+      "json": 23,
+      "json": 1,
+      "json": 1,
+      "java": 1,
+      "java": 2,
+      "java": 1,
+      "java": 8,
+      "java": 37,
+      "java": 1,
+      "java": 8,
+      "java": 1,
+      "java": 1,
+      "java": 8,
+      "java": 1,
+      "java": 2,
+      "java": 3,
+      "java": 2,
+      "java": 1,
+      "java": 3,
+      "java": 1,
+      "java": 1,
+      "java": 48,
+      "java": 44,
+      "java": 72,
+      "java": 138,
+      "java": 2,
+      "java": 26,
+      "java": 1,
+      "java": 43,
+      "java": 66,
+      "java": 38,
+      "java": 188,
+      "java": 31,
+      "java": 6,
+      "java": 21,
+      "java": 6,
+      "java": 5,
+      "java": 8,
+      "java": 43,
+      "java": 46,
+      "java": 18,
+      "java": 7,
+      "java": 15,
+      "java": 12,
+      "java": 1,
+      "java": 3,
+      "java": 5,
+      "java": 13,
+      "java": 6,
+      "java": 4,
+      "java": 34,
+      "java": 5,
+      "java": 150,
+      "java": 126,
+      "java": 2,
+      "java": 238,
+      "java": 2,
+      "java": 3,
+      "java": 2,
+      "java": 51,
+      "java": 148,
+      "java": 17,
+      "java": 109,
+      "java": 45,
+      "java": 4,
+      "java": 58,
+      "java": 1,
+      "java": 64,
+      "java": 22,
+      "java": 1,
+      "java": 59,
+      "java": 52,
+      "java": 11,
+      "java": 2,
+      "java": 43,
+      "java": 1,
+      "java": 5,
+      "java": 3,
+      "java": 2,
+      "java": 1,
+      "java": 7,
+      "java": 1,
+      "java": 8,
+      "java": 72,
+      "java": 91,
+      "java": 1,
+      "java": 3,
+      "java": 67,
+      "java": 1,
+      "java": 2,
+      "java": 44,
+      "java": 20,
+      "java": 1,
+      "java": 44,
+      "java": 118,
+      "java": 79,
+      "java": 8,
+      "java": 10,
+      "java": 42,
+      "java": 9,
+      "java": 32,
+      "java": 3,
+      "fxml": 1,
+      "fxml": 1
+    }
+  },
+  "authorContributionVariance": {
+    "rachellim10": 2166.8267,
+    "gautamrajulu": 3779.75,
+    "josephinetanadi": 227183.42,
+    "arhjaye": 167652.84,
+    "andreathniah": 2027564.1
+  },
+  "authorDisplayNameMap": {
+    "rachellim10": "RAC... YU",
+    "gautamrajulu": "SAN...ULU",
+    "josephinetanadi": "JOS...ADI",
+    "arhjaye": "YOW...JIE",
+    "andreathniah": "THN...REA"
+  }
+}

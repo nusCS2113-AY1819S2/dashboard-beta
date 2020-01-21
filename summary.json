@@ -1,6 +1,6 @@
 {
   "repoSenseVersion": "v1.10.1",
-  "reportGeneratedTime": "Mon Jan 20 08:31:21 2020 UTC",
+  "reportGeneratedTime": "Tue Jan 21 08:31:38 2020 UTC",
   "repos": [
     {
       "location": {
@@ -94,6 +94,16 @@
     },
     {
       "location": {
+        "location": "https://github.com/CS2113-AY1819S2-T09-3/main.git",
+        "repoName": "main",
+        "organization": "CS2113-AY1819S2-T09-3"
+      },
+      "branch": "master",
+      "displayName": "CS2113-AY1819S2-T09-3/main[master]",
+      "outputFolderName": "CS2113-AY1819S2-T09-3_main_master"
+    },
+    {
+      "location": {
         "location": "https://github.com/CS2113-AY1819S2-T11-1/main.git",
         "repoName": "main",
         "organization": "CS2113-AY1819S2-T11-1"
@@ -123,12 +133,7 @@
       "outputFolderName": "CS2113-AY1819S2-T11-3_main_master"
     }
   ],
-  "errorList": [
-    {
-      "repoName": "CS2113-AY1819S2-T09-3/main[master]",
-      "errorMessage": "Failed to clone from https://github.com/CS2113-AY1819S2-T09-3/main.git"
-    }
-  ],
+  "errorList": [],
   "sinceDate": "2019-02-10",
   "untilDate": "2019-04-24",
   "isSinceDateProvided": true,
